@@ -1,0 +1,1746 @@
+{
+ "_generated": true,
+ "id": "u45-trabajo",
+ "level": "B1",
+ "title": "El mundo laboral",
+ "emoji": "💼",
+ "canDo": "Ya puedo presentarme en una entrevista de trabajo y hablar de mi experiencia",
+ "summary": "Vocabulario de empleo, hoja de vida, entrevistas y cómo hablar de tus fortalezas.",
+ "grammar": [
+  "Present perfect en entrevistas",
+  "be good at / be responsible for"
+ ],
+ "items": [
+  {
+   "id": "u45.resume",
+   "en": "resume",
+   "es": "hoja de vida",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "ré-siu-mei"
+  },
+  {
+   "id": "u45.cover-letter",
+   "en": "cover letter",
+   "es": "carta de presentación",
+   "kind": "chunk",
+   "emoji": "✉️"
+  },
+  {
+   "id": "u45.job-interview",
+   "en": "job interview",
+   "es": "entrevista de trabajo",
+   "kind": "chunk",
+   "emoji": "🎤"
+  },
+  {
+   "id": "u45.job-offer",
+   "en": "job offer",
+   "es": "oferta de trabajo",
+   "kind": "chunk",
+   "emoji": "📩"
+  },
+  {
+   "id": "u45.apply-for-a-job",
+   "en": "apply for a job",
+   "es": "postularse a un trabajo",
+   "kind": "chunk",
+   "emoji": "📝"
+  },
+  {
+   "id": "u45.applicant",
+   "en": "applicant",
+   "es": "aspirante",
+   "kind": "word",
+   "emoji": "🧑‍💼",
+   "say": "á-pli-kant"
+  },
+  {
+   "id": "u45.candidate",
+   "en": "candidate",
+   "es": "candidato",
+   "kind": "word",
+   "emoji": "🙋",
+   "say": "kán-di-deit"
+  },
+  {
+   "id": "u45.employer",
+   "en": "employer",
+   "es": "empleador",
+   "kind": "word",
+   "emoji": "🏢",
+   "say": "em-plói-er"
+  },
+  {
+   "id": "u45.employee",
+   "en": "employee",
+   "es": "empleado",
+   "kind": "word",
+   "emoji": "🧑‍🔧",
+   "say": "em-pló-ii"
+  },
+  {
+   "id": "u45.colleague",
+   "en": "colleague",
+   "es": "colega",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "kó-liig"
+  },
+  {
+   "id": "u45.staff",
+   "en": "staff",
+   "es": "personal",
+   "kind": "word",
+   "emoji": "👨‍👩‍👦",
+   "say": "staf"
+  },
+  {
+   "id": "u45.department",
+   "en": "department",
+   "es": "departamento / área",
+   "kind": "word",
+   "emoji": "🗂️",
+   "say": "di-párt-ment"
+  },
+  {
+   "id": "u45.company",
+   "en": "company",
+   "es": "empresa",
+   "kind": "word",
+   "emoji": "🏭",
+   "say": "kám-pa-ni"
+  },
+  {
+   "id": "u45.position",
+   "en": "position",
+   "es": "cargo / puesto",
+   "kind": "word",
+   "emoji": "🪑",
+   "say": "po-sí-shon"
+  },
+  {
+   "id": "u45.full-time",
+   "en": "full-time",
+   "es": "tiempo completo",
+   "kind": "word",
+   "emoji": "🕘"
+  },
+  {
+   "id": "u45.part-time",
+   "en": "part-time",
+   "es": "medio tiempo",
+   "kind": "word",
+   "emoji": "🕐"
+  },
+  {
+   "id": "u45.contract",
+   "en": "contract",
+   "es": "contrato",
+   "kind": "word",
+   "emoji": "📃",
+   "say": "kón-trakt"
+  },
+  {
+   "id": "u45.hire",
+   "en": "hire",
+   "es": "contratar",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "jáier"
+  },
+  {
+   "id": "u45.fire",
+   "en": "fire",
+   "es": "despedir (echar)",
+   "kind": "word",
+   "emoji": "🔥",
+   "say": "fáier"
+  },
+  {
+   "id": "u45.resign",
+   "en": "resign",
+   "es": "renunciar",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "ri-sáin",
+   "tip": "La g no suena."
+  },
+  {
+   "id": "u45.retire",
+   "en": "retire",
+   "es": "jubilarse",
+   "kind": "word",
+   "emoji": "🏖️",
+   "say": "ri-táier"
+  },
+  {
+   "id": "u45.skills",
+   "en": "skills",
+   "es": "habilidades",
+   "kind": "word",
+   "emoji": "🛠️",
+   "say": "skils"
+  },
+  {
+   "id": "u45.strengths",
+   "en": "strengths",
+   "es": "fortalezas",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "strengzs"
+  },
+  {
+   "id": "u45.weaknesses",
+   "en": "weaknesses",
+   "es": "debilidades",
+   "kind": "word",
+   "emoji": "🩹",
+   "say": "uíik-ne-ses"
+  },
+  {
+   "id": "u45.qualifications",
+   "en": "qualifications",
+   "es": "estudios / títulos",
+   "kind": "word",
+   "emoji": "🎓",
+   "say": "kua-li-fi-kéi-shons"
+  },
+  {
+   "id": "u45.experience-work",
+   "en": "experience",
+   "es": "experiencia laboral",
+   "kind": "word",
+   "emoji": "📊",
+   "tip": "Aquí con el sentido de: work."
+  },
+  {
+   "id": "u45.responsible-for",
+   "en": "responsible for",
+   "es": "encargado de / responsable de",
+   "kind": "chunk",
+   "emoji": "🧾"
+  },
+  {
+   "id": "u45.be-good-at",
+   "en": "be good at",
+   "es": "ser bueno en",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u45.deadline",
+   "en": "deadline",
+   "es": "fecha límite",
+   "kind": "word",
+   "emoji": "⏰",
+   "say": "déd-lain"
+  },
+  {
+   "id": "u45.meeting",
+   "en": "meeting",
+   "es": "reunión",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "míi-ting"
+  },
+  {
+   "id": "u45.project",
+   "en": "project",
+   "es": "proyecto",
+   "kind": "word",
+   "emoji": "📁",
+   "say": "pró-yekt"
+  },
+  {
+   "id": "u45.team-leader",
+   "en": "team leader",
+   "es": "líder de equipo",
+   "kind": "chunk",
+   "emoji": "🧭"
+  },
+  {
+   "id": "u45.teamwork",
+   "en": "teamwork",
+   "es": "trabajo en equipo",
+   "kind": "word",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u45.customer-service",
+   "en": "customer service",
+   "es": "servicio al cliente",
+   "kind": "chunk",
+   "emoji": "🎧"
+  },
+  {
+   "id": "u45.training",
+   "en": "training",
+   "es": "capacitación",
+   "kind": "word",
+   "emoji": "🏋️",
+   "say": "tréi-ning"
+  },
+  {
+   "id": "u45.benefits",
+   "en": "benefits",
+   "es": "prestaciones / beneficios",
+   "kind": "word",
+   "emoji": "🎁",
+   "say": "bé-ne-fits"
+  },
+  {
+   "id": "u45.promotion",
+   "en": "promotion",
+   "es": "ascenso",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "pro-móu-shon"
+  },
+  {
+   "id": "u45.work-remotely",
+   "en": "work remotely",
+   "es": "trabajar remoto",
+   "kind": "chunk",
+   "emoji": "🏡"
+  },
+  {
+   "id": "u45.shift",
+   "en": "shift",
+   "es": "turno",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "shift"
+  },
+  {
+   "id": "u45.overtime",
+   "en": "overtime",
+   "es": "horas extra",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "óu-ver-taim"
+  },
+  {
+   "id": "u45.reliable",
+   "en": "reliable",
+   "es": "confiable",
+   "kind": "word",
+   "emoji": "🛡️",
+   "say": "ri-lái-a-bol"
+  },
+  {
+   "id": "u45.organized",
+   "en": "organized",
+   "es": "organizado",
+   "kind": "word",
+   "emoji": "🗂️",
+   "say": "ór-ga-naisd"
+  },
+  {
+   "id": "u45.flexible",
+   "en": "flexible",
+   "es": "flexible",
+   "kind": "word",
+   "emoji": "🤸",
+   "say": "flék-si-bol"
+  },
+  {
+   "id": "u45.fluent-in",
+   "en": "fluent in",
+   "es": "con fluidez en",
+   "kind": "chunk",
+   "emoji": "🗣️",
+   "say": "flú-ent"
+  },
+  {
+   "id": "u45.i-m-a-fast-learner",
+   "en": "I'm a fast learner",
+   "es": "Aprendo rápido",
+   "kind": "chunk",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u45.tell-me-about-yourself",
+   "en": "Tell me about yourself",
+   "es": "Hábleme de usted",
+   "kind": "chunk",
+   "emoji": "🧑"
+  },
+  {
+   "id": "u45.why-should-we-hire-you",
+   "en": "Why should we hire you?",
+   "es": "¿Por qué deberíamos contratarlo?",
+   "kind": "chunk",
+   "emoji": "❔"
+  },
+  {
+   "id": "u45.where-do-you-see-yourself-in-five-years",
+   "en": "Where do you see yourself in five years?",
+   "es": "¿Dónde se ve en cinco años?",
+   "kind": "chunk",
+   "emoji": "🔭"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u45-trabajo-l1",
+   "title": "1. resume, cover letter, job interview…",
+   "focus": "listening",
+   "newItems": [
+    "u45.resume",
+    "u45.cover-letter",
+    "u45.job-interview",
+    "u45.job-offer"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.resume",
+      "u45.cover-letter"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.job-interview",
+      "u45.job-offer"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.resume",
+      "u45.cover-letter",
+      "u45.job-interview",
+      "u45.job-offer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.resume",
+      "u45.cover-letter",
+      "u45.job-interview",
+      "u45.job-offer"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.resume",
+      "u45.cover-letter",
+      "u45.job-interview",
+      "u45.job-offer"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l2",
+   "title": "2. apply for a job, applicant, candidate…",
+   "focus": "grammar",
+   "newItems": [
+    "u45.apply-for-a-job",
+    "u45.applicant",
+    "u45.candidate",
+    "u45.employer"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.apply-for-a-job",
+      "u45.applicant"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.candidate",
+      "u45.employer"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.apply-for-a-job",
+      "u45.applicant",
+      "u45.candidate",
+      "u45.employer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.apply-for-a-job",
+      "u45.applicant",
+      "u45.candidate",
+      "u45.employer"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.apply-for-a-job",
+      "u45.applicant",
+      "u45.candidate",
+      "u45.employer"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.resume",
+      "u45.cover-letter",
+      "u45.job-interview",
+      "u45.job-offer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Hablar de tu experiencia laboral",
+     "intro": "Así responde una buena candidata en una entrevista.",
+     "examples": [
+      {
+       "en": "I've worked in customer service for three years.",
+       "es": "Trabajo en servicio al cliente desde hace tres años.",
+       "mark": [
+        "'ve worked"
+       ]
+      },
+      {
+       "en": "I'm responsible for training new employees.",
+       "es": "Soy responsable de capacitar a los empleados nuevos.",
+       "mark": [
+        "responsible for"
+       ]
+      },
+      {
+       "en": "I'm good at solving problems.",
+       "es": "Soy buena resolviendo problemas.",
+       "mark": [
+        "good at"
+       ]
+      },
+      {
+       "en": "I've managed several projects.",
+       "es": "He manejado varios proyectos.",
+       "mark": [
+        "'ve managed"
+       ]
+      },
+      {
+       "en": "In my last job, I led a team of five people.",
+       "es": "En mi último trabajo dirigí un equipo de cinco personas.",
+       "mark": [
+        "led"
+       ]
+      }
+     ],
+     "question": "Después de good at y responsible for, el verbo va…",
+     "options": [
+      "Con -ing (solving, training)",
+      "Con to (to solve)",
+      "En pasado"
+     ],
+     "answer": 0,
+     "rule": "En entrevistas: present perfect para experiencia que sigue hasta hoy (I've worked here for…), pasado simple para trabajos terminados (In my last job I led…). Después de preposiciones como at, for, in, el verbo va con -ing: good at solving, responsible for training.",
+     "ruleExamples": [
+      {
+       "en": "I'm good at working under pressure and I'm responsible for meeting deadlines.",
+       "es": "Soy bueno trabajando bajo presión y soy responsable de cumplir plazos."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I'm good at ___ with people.",
+     "options": [
+      "working",
+      "work"
+     ],
+     "answer": 0,
+     "es": "Soy bueno trabajando con gente."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ in this company since 2021.",
+     "options": [
+      "'ve worked",
+      "work"
+     ],
+     "answer": 0,
+     "es": "Trabajo en esta empresa desde 2021."
+    },
+    {
+     "type": "fill",
+     "en": "In my last job, I ___ the sales team.",
+     "options": [
+      "managed",
+      "have managed"
+     ],
+     "answer": 0,
+     "es": "En mi último trabajo manejé el equipo de ventas."
+    },
+    {
+     "type": "fill",
+     "en": "She's responsible ___ the budget.",
+     "options": [
+      "for",
+      "of"
+     ],
+     "answer": 0,
+     "es": "Ella es responsable del presupuesto."
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l3",
+   "title": "3. employee, colleague, staff…",
+   "focus": "reading",
+   "newItems": [
+    "u45.employee",
+    "u45.colleague",
+    "u45.staff",
+    "u45.department"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.employee",
+      "u45.colleague"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.staff",
+      "u45.department"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.employee",
+      "u45.colleague",
+      "u45.staff",
+      "u45.department"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.employee",
+      "u45.colleague",
+      "u45.staff",
+      "u45.department"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.employee",
+      "u45.colleague",
+      "u45.staff",
+      "u45.department"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.job-interview",
+      "u45.job-offer",
+      "u45.apply-for-a-job",
+      "u45.applicant",
+      "u45.candidate",
+      "u45.employer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l4",
+   "title": "4. company, position, full-time…",
+   "focus": "listening",
+   "newItems": [
+    "u45.company",
+    "u45.position",
+    "u45.full-time",
+    "u45.part-time"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.company",
+      "u45.position"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.full-time",
+      "u45.part-time"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.company",
+      "u45.position",
+      "u45.full-time",
+      "u45.part-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.company",
+      "u45.position",
+      "u45.full-time",
+      "u45.part-time"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.company",
+      "u45.position",
+      "u45.full-time",
+      "u45.part-time"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.candidate",
+      "u45.employer",
+      "u45.employee",
+      "u45.colleague",
+      "u45.staff",
+      "u45.department"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l5",
+   "title": "5. contract, hire, fire…",
+   "focus": "listening",
+   "newItems": [
+    "u45.contract",
+    "u45.hire",
+    "u45.fire",
+    "u45.resign"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.contract",
+      "u45.hire"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.fire",
+      "u45.resign"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.contract",
+      "u45.hire",
+      "u45.fire",
+      "u45.resign"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.contract",
+      "u45.hire",
+      "u45.fire",
+      "u45.resign"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.contract",
+      "u45.hire",
+      "u45.fire",
+      "u45.resign"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.staff",
+      "u45.department",
+      "u45.company",
+      "u45.position",
+      "u45.full-time",
+      "u45.part-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l6",
+   "title": "6. retire, skills, strengths…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u45.retire",
+    "u45.skills",
+    "u45.strengths",
+    "u45.weaknesses"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.retire",
+      "u45.skills"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.strengths",
+      "u45.weaknesses"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.retire",
+      "u45.skills",
+      "u45.strengths",
+      "u45.weaknesses"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.retire",
+      "u45.skills",
+      "u45.strengths",
+      "u45.weaknesses"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.retire",
+      "u45.skills",
+      "u45.strengths",
+      "u45.weaknesses"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.full-time",
+      "u45.part-time",
+      "u45.contract",
+      "u45.hire",
+      "u45.fire",
+      "u45.resign"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l7",
+   "title": "7. qualifications, experience, responsible for…",
+   "focus": "reading",
+   "newItems": [
+    "u45.qualifications",
+    "u45.experience-work",
+    "u45.responsible-for",
+    "u45.be-good-at"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.qualifications",
+      "u45.experience-work"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.responsible-for",
+      "u45.be-good-at"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.qualifications",
+      "u45.experience-work",
+      "u45.responsible-for",
+      "u45.be-good-at"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.qualifications",
+      "u45.experience-work",
+      "u45.responsible-for",
+      "u45.be-good-at"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.qualifications",
+      "u45.experience-work",
+      "u45.responsible-for",
+      "u45.be-good-at"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.fire",
+      "u45.resign",
+      "u45.retire",
+      "u45.skills",
+      "u45.strengths",
+      "u45.weaknesses"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🎯",
+     "title": "La entrevista en inglés",
+     "text": "Prepara tres frases sobre ti: qué haces (I'm a…), qué has logrado (I've…) y por qué eres bueno para el cargo (I'm good at…). Practícalas en voz alta con la función de hablar de la app."
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l8",
+   "title": "8. deadline, meeting, project…",
+   "focus": "listening",
+   "newItems": [
+    "u45.deadline",
+    "u45.meeting",
+    "u45.project",
+    "u45.team-leader"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.deadline",
+      "u45.meeting"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.project",
+      "u45.team-leader"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.deadline",
+      "u45.meeting",
+      "u45.project",
+      "u45.team-leader"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.deadline",
+      "u45.meeting",
+      "u45.project",
+      "u45.team-leader"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.deadline",
+      "u45.meeting",
+      "u45.project",
+      "u45.team-leader"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.strengths",
+      "u45.weaknesses",
+      "u45.qualifications",
+      "u45.experience-work",
+      "u45.responsible-for",
+      "u45.be-good-at"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l9",
+   "title": "9. teamwork, customer service, training…",
+   "focus": "listening",
+   "newItems": [
+    "u45.teamwork",
+    "u45.customer-service",
+    "u45.training",
+    "u45.benefits"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.teamwork",
+      "u45.customer-service"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.training",
+      "u45.benefits"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.teamwork",
+      "u45.customer-service",
+      "u45.training",
+      "u45.benefits"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.teamwork",
+      "u45.customer-service",
+      "u45.training",
+      "u45.benefits"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.teamwork",
+      "u45.customer-service",
+      "u45.training",
+      "u45.benefits"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.responsible-for",
+      "u45.be-good-at",
+      "u45.deadline",
+      "u45.meeting",
+      "u45.project",
+      "u45.team-leader"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l10",
+   "title": "10. promotion, work remotely, shift…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u45.promotion",
+    "u45.work-remotely",
+    "u45.shift",
+    "u45.overtime"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.promotion",
+      "u45.work-remotely"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.shift",
+      "u45.overtime"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.promotion",
+      "u45.work-remotely",
+      "u45.shift",
+      "u45.overtime"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.promotion",
+      "u45.work-remotely",
+      "u45.shift",
+      "u45.overtime"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.promotion",
+      "u45.work-remotely",
+      "u45.shift",
+      "u45.overtime"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.project",
+      "u45.team-leader",
+      "u45.teamwork",
+      "u45.customer-service",
+      "u45.training",
+      "u45.benefits"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "La entrevista",
+     "scene": "🎤 Entrevista para un cargo de soporte técnico.",
+     "lines": [
+      {
+       "who": "Manager",
+       "en": "Tell me about yourself.",
+       "es": "Hábleme de usted."
+      },
+      {
+       "who": "Candidate",
+       "en": "I'm an informatics engineer. I've worked in technical support for two years.",
+       "es": "Soy ingeniero informático. Trabajo en soporte técnico desde hace dos años."
+      },
+      {
+       "who": "Manager",
+       "en": "What are your strengths?",
+       "es": "¿Cuáles son sus fortalezas?"
+      },
+      {
+       "who": "Candidate",
+       "en": "I'm organized, reliable and I'm good at explaining technical things simply.",
+       "es": "Soy organizado, confiable y bueno explicando cosas técnicas de forma sencilla."
+      },
+      {
+       "who": "Manager",
+       "en": "And a weakness?",
+       "es": "¿Y una debilidad?"
+      },
+      {
+       "who": "Candidate",
+       "en": "Sometimes I'm too detail-oriented, but I've learned to manage my time better.",
+       "es": "A veces soy muy detallista, pero he aprendido a manejar mejor mi tiempo."
+      },
+      {
+       "who": "Manager",
+       "en": "Why should we hire you?",
+       "es": "¿Por qué deberíamos contratarlo?"
+      },
+      {
+       "who": "Candidate",
+       "en": "I'm a fast learner, I'm fluent in English and I love solving problems.",
+       "es": "Aprendo rápido, hablo inglés con fluidez y me encanta resolver problemas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l11",
+   "title": "11. reliable, organized, flexible…",
+   "focus": "reading",
+   "newItems": [
+    "u45.reliable",
+    "u45.organized",
+    "u45.flexible",
+    "u45.fluent-in"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.reliable",
+      "u45.organized"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.flexible",
+      "u45.fluent-in"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.reliable",
+      "u45.organized",
+      "u45.flexible",
+      "u45.fluent-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.reliable",
+      "u45.organized",
+      "u45.flexible",
+      "u45.fluent-in"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.reliable",
+      "u45.organized",
+      "u45.flexible",
+      "u45.fluent-in"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.training",
+      "u45.benefits",
+      "u45.promotion",
+      "u45.work-remotely",
+      "u45.shift",
+      "u45.overtime"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-l12",
+   "title": "12. I'm a fast learner, Tell me about yourself, Why should we hire you?…",
+   "focus": "listening",
+   "newItems": [
+    "u45.i-m-a-fast-learner",
+    "u45.tell-me-about-yourself",
+    "u45.why-should-we-hire-you",
+    "u45.where-do-you-see-yourself-in-five-years"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u45.i-m-a-fast-learner",
+      "u45.tell-me-about-yourself"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u45.why-should-we-hire-you",
+      "u45.where-do-you-see-yourself-in-five-years"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.i-m-a-fast-learner",
+      "u45.tell-me-about-yourself",
+      "u45.why-should-we-hire-you",
+      "u45.where-do-you-see-yourself-in-five-years"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.i-m-a-fast-learner",
+      "u45.tell-me-about-yourself",
+      "u45.why-should-we-hire-you",
+      "u45.where-do-you-see-yourself-in-five-years"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.i-m-a-fast-learner",
+      "u45.tell-me-about-yourself",
+      "u45.why-should-we-hire-you",
+      "u45.where-do-you-see-yourself-in-five-years"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.shift",
+      "u45.overtime",
+      "u45.reliable",
+      "u45.organized",
+      "u45.flexible",
+      "u45.fluent-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u45-trabajo-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El primer día",
+     "emoji": "🏢",
+     "paragraphs": [
+      {
+       "en": "After three interviews, Natalia finally got the job offer.",
+       "es": "Después de tres entrevistas, Natalia por fin recibió la oferta de trabajo."
+      },
+      {
+       "en": "It was a full-time position in the marketing department of a big company.",
+       "es": "Era un cargo de tiempo completo en el área de mercadeo de una empresa grande."
+      },
+      {
+       "en": "On her first day, her team leader introduced her to all her colleagues.",
+       "es": "El primer día, su líder de equipo la presentó a todos sus colegas."
+      },
+      {
+       "en": "She had training in the morning and a meeting in the afternoon.",
+       "es": "Tuvo capacitación en la mañana y una reunión en la tarde."
+      },
+      {
+       "en": "She was responsible for a small project with a deadline on Friday.",
+       "es": "Quedó encargada de un pequeño proyecto con fecha límite el viernes."
+      },
+      {
+       "en": "It was stressful, but she finished it on time. Her boss said, \"Great teamwork!\"",
+       "es": "Fue estresante, pero lo terminó a tiempo. Su jefe dijo: \"¡Excelente trabajo en equipo!\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuántas entrevistas tuvo Natalia?",
+       "options": [
+        "Una",
+        "Tres",
+        "Cinco"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿En qué área trabaja?",
+       "options": [
+        "Mercadeo",
+        "Finanzas",
+        "Ventas"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cuándo era la fecha límite?",
+       "options": [
+        "El lunes",
+        "El viernes",
+        "Al mes"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Tu entrevista",
+     "scene": "🧑‍💼 Responde las preguntas de la entrevistadora.",
+     "turns": [
+      {
+       "who": "Interviewer",
+       "en": "Why did you apply for this position?",
+       "es": "¿Por qué se postuló a este cargo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm interested in your company and I have experience in this area.",
+         "es": "Me interesa su empresa y tengo experiencia en esta área.",
+         "ok": true
+        },
+        {
+         "en": "Because I want to retire.",
+         "es": "Porque me quiero jubilar.",
+         "ok": false,
+         "why": "No tiene sentido en una entrevista."
+        }
+       ]
+      },
+      {
+       "who": "Interviewer",
+       "en": "Have you ever worked in a team?",
+       "es": "¿Ha trabajado en equipo alguna vez?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I have. In my last job I worked with six colleagues on a big project.",
+         "es": "Sí. En mi último trabajo trabajé con seis colegas en un proyecto grande.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I'm worked in a team.",
+         "es": "Sí, estoy trabajado en equipo.",
+         "ok": false,
+         "why": "Se dice \"Yes, I have. I worked…\"."
+        }
+       ]
+      },
+      {
+       "who": "Interviewer",
+       "en": "Where do you see yourself in five years?",
+       "es": "¿Dónde se ve en cinco años?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I see myself as a team leader in this company.",
+         "es": "Me veo como líder de equipo en esta empresa.",
+         "ok": true
+        },
+        {
+         "en": "I see myself fired.",
+         "es": "Me veo despedido.",
+         "ok": false,
+         "why": "No es una buena respuesta."
+        }
+       ]
+      },
+      {
+       "who": "Interviewer",
+       "en": "Do you have any questions for us?",
+       "es": "¿Tiene alguna pregunta para nosotros?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes. Is it possible to work remotely some days?",
+         "es": "Sí. ¿Es posible trabajar remoto algunos días?",
+         "ok": true
+        },
+        {
+         "en": "No. I don't like questions.",
+         "es": "No. No me gustan las preguntas.",
+         "ok": false,
+         "why": "Siempre es bueno hacer una pregunta."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Tengo dos años de experiencia en ventas.",
+     "en": "I have two years of experience in sales.",
+     "accept": [
+      "I've had two years of experience in sales.",
+      "I have two years' experience in sales."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Soy bueno trabajando en equipo.",
+     "en": "I'm good at working in a team.",
+     "accept": [
+      "I am good at working in a team.",
+      "I'm good at teamwork."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me postulé al cargo de diseñador.",
+     "en": "I applied for the designer position.",
+     "accept": [
+      "I applied for the position of designer.",
+      "I applied for the job of designer."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I'm responsible for training new employees.",
+     "es": "Soy responsable de capacitar a los empleados nuevos."
+    },
+    {
+     "type": "dictation",
+     "en": "Why should we hire you?",
+     "es": "¿Por qué deberíamos contratarlo?"
+    },
+    {
+     "type": "speak",
+     "en": "I'm organized, reliable and a fast learner.",
+     "es": "Soy organizado, confiable y aprendo rápido.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u45.reliable",
+      "u45.organized",
+      "u45.flexible",
+      "u45.fluent-in",
+      "u45.i-m-a-fast-learner",
+      "u45.tell-me-about-yourself",
+      "u45.why-should-we-hire-you",
+      "u45.where-do-you-see-yourself-in-five-years"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1338 @@
+{
+ "_generated": true,
+ "id": "u37-estudios",
+ "level": "A2",
+ "title": "Estudios y aprendizaje",
+ "emoji": "🎓",
+ "canDo": "Ya puedo hablar de mis estudios, materias y planes académicos",
+ "summary": "Colegio y universidad, materias, exámenes y verbos para hablar de aprender.",
+ "grammar": [
+  "Verbos + to: want to, need to, decide to",
+  "Learn vs teach vs study"
+ ],
+ "items": [
+  {
+   "id": "u37.subject",
+   "en": "subject",
+   "es": "materia",
+   "kind": "word",
+   "emoji": "📒",
+   "say": "sáb-yekt"
+  },
+  {
+   "id": "u37.math",
+   "en": "math",
+   "es": "matemáticas",
+   "kind": "word",
+   "emoji": "➗",
+   "say": "maz"
+  },
+  {
+   "id": "u37.science",
+   "en": "science",
+   "es": "ciencias",
+   "kind": "word",
+   "emoji": "🔬",
+   "say": "sái-ens"
+  },
+  {
+   "id": "u37.history",
+   "en": "history",
+   "es": "historia",
+   "kind": "word",
+   "emoji": "🏺",
+   "say": "hís-to-ri"
+  },
+  {
+   "id": "u37.geography",
+   "en": "geography",
+   "es": "geografía",
+   "kind": "word",
+   "emoji": "🗺️",
+   "say": "yi-ó-gra-fi"
+  },
+  {
+   "id": "u37.biology",
+   "en": "biology",
+   "es": "biología",
+   "kind": "word",
+   "emoji": "🧬",
+   "say": "bai-ó-lo-yi"
+  },
+  {
+   "id": "u37.chemistry",
+   "en": "chemistry",
+   "es": "química",
+   "kind": "word",
+   "emoji": "⚗️",
+   "say": "ké-mis-tri"
+  },
+  {
+   "id": "u37.physics",
+   "en": "physics",
+   "es": "física",
+   "kind": "word",
+   "emoji": "🧲",
+   "say": "fí-siks"
+  },
+  {
+   "id": "u37.literature",
+   "en": "literature",
+   "es": "literatura",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "lí-te-ra-cher"
+  },
+  {
+   "id": "u37.art",
+   "en": "art",
+   "es": "arte",
+   "kind": "word",
+   "emoji": "🎨",
+   "say": "art"
+  },
+  {
+   "id": "u37.p-e",
+   "en": "P.E.",
+   "es": "educación física",
+   "kind": "word",
+   "emoji": "🤸",
+   "say": "pi-íi"
+  },
+  {
+   "id": "u37.computer-science",
+   "en": "computer science",
+   "es": "informática / ciencias de la computación",
+   "kind": "chunk",
+   "emoji": "🖥️"
+  },
+  {
+   "id": "u37.university",
+   "en": "university",
+   "es": "universidad",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "iu-ni-vér-si-ti"
+  },
+  {
+   "id": "u37.college",
+   "en": "college",
+   "es": "universidad / instituto",
+   "kind": "word",
+   "emoji": "🏫",
+   "say": "kó-lich"
+  },
+  {
+   "id": "u37.degree",
+   "en": "degree",
+   "es": "título / carrera",
+   "kind": "word",
+   "emoji": "📜",
+   "say": "di-gríi"
+  },
+  {
+   "id": "u37.career",
+   "en": "career",
+   "es": "carrera profesional",
+   "kind": "word",
+   "emoji": "🧗",
+   "say": "ka-ríer"
+  },
+  {
+   "id": "u37.semester",
+   "en": "semester",
+   "es": "semestre",
+   "kind": "word",
+   "emoji": "📆",
+   "say": "se-més-ter"
+  },
+  {
+   "id": "u37.classroom",
+   "en": "classroom",
+   "es": "salón de clase",
+   "kind": "word",
+   "emoji": "🏫",
+   "say": "klás-rum"
+  },
+  {
+   "id": "u37.exam",
+   "en": "exam",
+   "es": "examen",
+   "kind": "word",
+   "emoji": "📝",
+   "say": "eg-sám"
+  },
+  {
+   "id": "u37.test",
+   "en": "test",
+   "es": "prueba / examen corto",
+   "kind": "word",
+   "emoji": "✏️",
+   "say": "test"
+  },
+  {
+   "id": "u37.grade",
+   "en": "grade",
+   "es": "nota / grado",
+   "kind": "word",
+   "emoji": "🅰️",
+   "say": "gréid"
+  },
+  {
+   "id": "u37.pass-an-exam",
+   "en": "pass an exam",
+   "es": "pasar un examen",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u37.fail-an-exam",
+   "en": "fail an exam",
+   "es": "perder un examen",
+   "kind": "chunk",
+   "emoji": "❌"
+  },
+  {
+   "id": "u37.homework",
+   "en": "homework",
+   "es": "tarea",
+   "kind": "word",
+   "emoji": "📓",
+   "say": "jóum-uerk"
+  },
+  {
+   "id": "u37.notebook",
+   "en": "notebook",
+   "es": "cuaderno",
+   "kind": "word",
+   "emoji": "📔",
+   "say": "nóut-buk"
+  },
+  {
+   "id": "u37.pen",
+   "en": "pen",
+   "es": "esfero / bolígrafo",
+   "kind": "word",
+   "emoji": "🖊️",
+   "say": "pen"
+  },
+  {
+   "id": "u37.pencil",
+   "en": "pencil",
+   "es": "lápiz",
+   "kind": "word",
+   "emoji": "✏️",
+   "say": "pén-sil"
+  },
+  {
+   "id": "u37.eraser",
+   "en": "eraser",
+   "es": "borrador",
+   "kind": "word",
+   "emoji": "🧽",
+   "say": "i-réi-ser"
+  },
+  {
+   "id": "u37.backpack-school",
+   "en": "backpack",
+   "es": "maleta del colegio",
+   "kind": "word",
+   "emoji": "🎒",
+   "tip": "Aquí con el sentido de: school."
+  },
+  {
+   "id": "u37.scholarship",
+   "en": "scholarship",
+   "es": "beca",
+   "kind": "word",
+   "emoji": "🏅",
+   "say": "skó-lar-ship"
+  },
+  {
+   "id": "u37.teach",
+   "en": "teach",
+   "es": "enseñar",
+   "kind": "word",
+   "emoji": "🧑‍🏫",
+   "say": "tíich"
+  },
+  {
+   "id": "u37.practice",
+   "en": "practice",
+   "es": "practicar",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "prák-tis"
+  },
+  {
+   "id": "u37.review",
+   "en": "review",
+   "es": "repasar",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "ri-viú"
+  },
+  {
+   "id": "u37.understand",
+   "en": "understand",
+   "es": "entender",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "an-der-stánd"
+  },
+  {
+   "id": "u37.memorize",
+   "en": "memorize",
+   "es": "memorizar",
+   "kind": "word",
+   "emoji": "🗃️",
+   "say": "mé-mo-rais"
+  },
+  {
+   "id": "u37.make-progress",
+   "en": "make progress",
+   "es": "progresar",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u37.i-want-to-learn-english",
+   "en": "I want to learn English",
+   "es": "Quiero aprender inglés",
+   "kind": "chunk",
+   "emoji": "🇬🇧"
+  },
+  {
+   "id": "u37.i-need-to-study-more",
+   "en": "I need to study more",
+   "es": "Necesito estudiar más",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u37.i-decided-to-change-careers",
+   "en": "I decided to change careers",
+   "es": "Decidí cambiar de carrera",
+   "kind": "chunk",
+   "emoji": "🔀"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u37-estudios-l1",
+   "title": "1. subject, math, science…",
+   "focus": "listening",
+   "newItems": [
+    "u37.subject",
+    "u37.math",
+    "u37.science",
+    "u37.history"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.subject",
+      "u37.math"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.science",
+      "u37.history"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.subject",
+      "u37.math",
+      "u37.science",
+      "u37.history"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.subject",
+      "u37.math",
+      "u37.science",
+      "u37.history"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l2",
+   "title": "2. geography, biology, chemistry…",
+   "focus": "grammar",
+   "newItems": [
+    "u37.geography",
+    "u37.biology",
+    "u37.chemistry",
+    "u37.physics"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.geography",
+      "u37.biology"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.chemistry",
+      "u37.physics"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.geography",
+      "u37.biology",
+      "u37.chemistry",
+      "u37.physics"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.geography",
+      "u37.biology",
+      "u37.chemistry",
+      "u37.physics"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.subject",
+      "u37.math",
+      "u37.science",
+      "u37.history"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Verbos + to + verbo",
+     "intro": "Fíjate qué va entre los dos verbos.",
+     "examples": [
+      {
+       "en": "I want to learn English.",
+       "es": "Quiero aprender inglés.",
+       "mark": [
+        "want to"
+       ]
+      },
+      {
+       "en": "She needs to study more.",
+       "es": "Ella necesita estudiar más.",
+       "mark": [
+        "needs to"
+       ]
+      },
+      {
+       "en": "We decided to take a course.",
+       "es": "Decidimos tomar un curso.",
+       "mark": [
+        "decided to"
+       ]
+      },
+      {
+       "en": "He hopes to get a scholarship.",
+       "es": "Él espera conseguir una beca.",
+       "mark": [
+        "hopes to"
+       ]
+      },
+      {
+       "en": "They're planning to travel.",
+       "es": "Están planeando viajar.",
+       "mark": [
+        "planning to"
+       ]
+      }
+     ],
+     "question": "¿Qué une want / need / decide con el siguiente verbo?",
+     "options": [
+      "to",
+      "-ing",
+      "nada"
+     ],
+     "answer": 0,
+     "rule": "Muchos verbos van seguidos de to + verbo: want to, need to, decide to, hope to, plan to, try to, learn to. Ojo: learn = aprender (tú recibes), teach = enseñar (tú das), study = estudiar.",
+     "ruleExamples": [
+      {
+       "en": "My sister teaches math, and I want to learn it too.",
+       "es": "Mi hermana enseña matemáticas, y yo también quiero aprenderlas."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I need ___ review for the exam.",
+     "options": [
+      "to",
+      "—"
+     ],
+     "answer": 0,
+     "es": "Necesito repasar para el examen."
+    },
+    {
+     "type": "fill",
+     "en": "My teacher ___ us English.",
+     "options": [
+      "teaches",
+      "learns"
+     ],
+     "answer": 0,
+     "es": "Mi profesor nos enseña inglés."
+    },
+    {
+     "type": "fill",
+     "en": "She decided ___ study medicine.",
+     "options": [
+      "to",
+      "for"
+     ],
+     "answer": 0,
+     "es": "Decidió estudiar medicina."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ my exam! I got an A.",
+     "options": [
+      "passed",
+      "failed"
+     ],
+     "answer": 0,
+     "es": "¡Pasé mi examen! Saqué una A."
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l3",
+   "title": "3. literature, art, P.E.…",
+   "focus": "reading",
+   "newItems": [
+    "u37.literature",
+    "u37.art",
+    "u37.p-e",
+    "u37.computer-science"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.literature",
+      "u37.art"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.p-e",
+      "u37.computer-science"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.literature",
+      "u37.art",
+      "u37.p-e",
+      "u37.computer-science"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.literature",
+      "u37.art",
+      "u37.p-e",
+      "u37.computer-science"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.science",
+      "u37.history",
+      "u37.geography",
+      "u37.biology",
+      "u37.chemistry",
+      "u37.physics"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l4",
+   "title": "4. university, college, degree…",
+   "focus": "listening",
+   "newItems": [
+    "u37.university",
+    "u37.college",
+    "u37.degree",
+    "u37.career"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.university",
+      "u37.college"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.degree",
+      "u37.career"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.university",
+      "u37.college",
+      "u37.degree",
+      "u37.career"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.university",
+      "u37.college",
+      "u37.degree",
+      "u37.career"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.chemistry",
+      "u37.physics",
+      "u37.literature",
+      "u37.art",
+      "u37.p-e",
+      "u37.computer-science"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l5",
+   "title": "5. semester, classroom, exam…",
+   "focus": "listening",
+   "newItems": [
+    "u37.semester",
+    "u37.classroom",
+    "u37.exam",
+    "u37.test"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.semester",
+      "u37.classroom"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.exam",
+      "u37.test"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.semester",
+      "u37.classroom",
+      "u37.exam",
+      "u37.test"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.semester",
+      "u37.classroom",
+      "u37.exam",
+      "u37.test"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.p-e",
+      "u37.computer-science",
+      "u37.university",
+      "u37.college",
+      "u37.degree",
+      "u37.career"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l6",
+   "title": "6. grade, pass an exam, fail an exam…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u37.grade",
+    "u37.pass-an-exam",
+    "u37.fail-an-exam",
+    "u37.homework"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.grade",
+      "u37.pass-an-exam"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.fail-an-exam",
+      "u37.homework"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.grade",
+      "u37.pass-an-exam",
+      "u37.fail-an-exam",
+      "u37.homework"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.grade",
+      "u37.pass-an-exam",
+      "u37.fail-an-exam",
+      "u37.homework"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.degree",
+      "u37.career",
+      "u37.semester",
+      "u37.classroom",
+      "u37.exam",
+      "u37.test"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l7",
+   "title": "7. notebook, pen, pencil…",
+   "focus": "reading",
+   "newItems": [
+    "u37.notebook",
+    "u37.pen",
+    "u37.pencil",
+    "u37.eraser"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.notebook",
+      "u37.pen"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.pencil",
+      "u37.eraser"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.notebook",
+      "u37.pen",
+      "u37.pencil",
+      "u37.eraser"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.notebook",
+      "u37.pen",
+      "u37.pencil",
+      "u37.eraser"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.exam",
+      "u37.test",
+      "u37.grade",
+      "u37.pass-an-exam",
+      "u37.fail-an-exam",
+      "u37.homework"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l8",
+   "title": "8. backpack, scholarship, teach…",
+   "focus": "listening",
+   "newItems": [
+    "u37.backpack-school",
+    "u37.scholarship",
+    "u37.teach",
+    "u37.practice"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.backpack-school",
+      "u37.scholarship"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.teach",
+      "u37.practice"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.backpack-school",
+      "u37.scholarship",
+      "u37.teach",
+      "u37.practice"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.backpack-school",
+      "u37.scholarship",
+      "u37.teach",
+      "u37.practice"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.fail-an-exam",
+      "u37.homework",
+      "u37.notebook",
+      "u37.pen",
+      "u37.pencil",
+      "u37.eraser"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Después del examen",
+     "scene": "📝 Sales del examen de física.",
+     "lines": [
+      {
+       "who": "Sara",
+       "en": "How was the exam?",
+       "es": "¿Cómo te fue en el examen?"
+      },
+      {
+       "who": "You",
+       "en": "Difficult! I didn't understand the last question.",
+       "es": "¡Difícil! No entendí la última pregunta."
+      },
+      {
+       "who": "Sara",
+       "en": "Me neither. I think I need to practice more.",
+       "es": "Yo tampoco. Creo que necesito practicar más."
+      },
+      {
+       "who": "You",
+       "en": "Do you want to study together for the next one?",
+       "es": "¿Quieres que estudiemos juntos para el próximo?"
+      },
+      {
+       "who": "Sara",
+       "en": "Sure! We can review in the library on Thursday.",
+       "es": "¡Claro! Podemos repasar en la biblioteca el jueves."
+      },
+      {
+       "who": "You",
+       "en": "Great. I hope to get a good grade this time.",
+       "es": "Genial. Espero sacar buena nota esta vez."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l9",
+   "title": "9. review, understand, memorize…",
+   "focus": "listening",
+   "newItems": [
+    "u37.review",
+    "u37.understand",
+    "u37.memorize",
+    "u37.make-progress"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.review",
+      "u37.understand"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.memorize",
+      "u37.make-progress"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.review",
+      "u37.understand",
+      "u37.memorize",
+      "u37.make-progress"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.review",
+      "u37.understand",
+      "u37.memorize",
+      "u37.make-progress"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.pencil",
+      "u37.eraser",
+      "u37.backpack-school",
+      "u37.scholarship",
+      "u37.teach",
+      "u37.practice"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-l10",
+   "title": "10. I want to learn English, I need to study more, I decided to change careers",
+   "focus": "vocabulary",
+   "newItems": [
+    "u37.i-want-to-learn-english",
+    "u37.i-need-to-study-more",
+    "u37.i-decided-to-change-careers"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u37.i-want-to-learn-english",
+      "u37.i-need-to-study-more"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u37.i-decided-to-change-careers"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.i-want-to-learn-english",
+      "u37.i-need-to-study-more",
+      "u37.i-decided-to-change-careers"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.i-want-to-learn-english",
+      "u37.i-need-to-study-more",
+      "u37.i-decided-to-change-careers"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.teach",
+      "u37.practice",
+      "u37.review",
+      "u37.understand",
+      "u37.memorize",
+      "u37.make-progress"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u37-estudios-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Cambio de carrera",
+     "emoji": "🔀",
+     "paragraphs": [
+      {
+       "en": "When Camila finished school, she decided to study law.",
+       "es": "Cuando Camila terminó el colegio, decidió estudiar derecho."
+      },
+      {
+       "en": "After two semesters she felt bored. She didn't like her subjects.",
+       "es": "Después de dos semestres se sentía aburrida. No le gustaban sus materias."
+      },
+      {
+       "en": "She loved computers, so she took a free online course in programming.",
+       "es": "Le encantaban los computadores, así que tomó un curso gratuito en línea de programación."
+      },
+      {
+       "en": "She practiced every night and made a lot of progress.",
+       "es": "Practicaba todas las noches e hizo mucho progreso."
+      },
+      {
+       "en": "The next year she changed careers to computer science and got a scholarship.",
+       "es": "Al año siguiente cambió a ciencias de la computación y consiguió una beca."
+      },
+      {
+       "en": "Now she teaches programming to children on Saturdays.",
+       "es": "Ahora les enseña programación a niños los sábados."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué estudió Camila primero?",
+       "options": [
+        "Medicina",
+        "Derecho",
+        "Arte"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Por qué cambió?",
+       "options": [
+        "Se aburría con sus materias",
+        "Perdió los exámenes",
+        "Se mudó"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hace los sábados?",
+       "options": [
+        "Estudia derecho",
+        "Enseña programación a niños",
+        "Trabaja en un banco"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Hablar con el profesor",
+     "scene": "🧑‍🏫 Perdiste un examen y hablas con tu profesor.",
+     "turns": [
+      {
+       "who": "Teacher",
+       "en": "You wanted to talk to me?",
+       "es": "¿Querías hablar conmigo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes. I failed the exam and I want to improve.",
+         "es": "Sí. Perdí el examen y quiero mejorar.",
+         "ok": true
+        },
+        {
+         "en": "Yes. I teach the exam.",
+         "es": "Sí. Yo enseño el examen.",
+         "ok": false,
+         "why": "Tú no enseñas; quieres mejorar."
+        }
+       ]
+      },
+      {
+       "who": "Teacher",
+       "en": "OK. What was difficult for you?",
+       "es": "Bueno. ¿Qué se te hizo difícil?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I didn't understand the chemistry problems.",
+         "es": "No entendí los problemas de química.",
+         "ok": true
+        },
+        {
+         "en": "I understanded the problems.",
+         "es": "Yo entendí los problemas.",
+         "ok": false,
+         "why": "Además, \"understand\" en pasado es \"understood\"."
+        }
+       ]
+      },
+      {
+       "who": "Teacher",
+       "en": "You need to practice more. I can give you extra exercises.",
+       "es": "Necesitas practicar más. Te puedo dar ejercicios extra."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you! I'm going to practice every day.",
+         "es": "¡Gracias! Voy a practicar todos los días.",
+         "ok": true
+        },
+        {
+         "en": "Thank you! I need practice to every day.",
+         "es": "¡Gracias! Necesito práctica a todos los días.",
+         "ok": false,
+         "why": "Orden extraño; di \"I'm going to practice every day\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Quiero aprender inglés.",
+     "en": "I want to learn English."
+    },
+    {
+     "type": "write",
+     "es": "Necesito estudiar más.",
+     "en": "I need to study more."
+    },
+    {
+     "type": "write",
+     "es": "Pasé el examen.",
+     "en": "I passed the exam.",
+     "accept": [
+      "I passed my exam."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "She got a scholarship to study abroad.",
+     "es": "Ella consiguió una beca para estudiar en el exterior."
+    },
+    {
+     "type": "dictation",
+     "en": "I need to review before the test.",
+     "es": "Necesito repasar antes de la prueba."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u37.practice",
+      "u37.review",
+      "u37.understand",
+      "u37.memorize",
+      "u37.make-progress",
+      "u37.i-want-to-learn-english",
+      "u37.i-need-to-study-more",
+      "u37.i-decided-to-change-careers"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

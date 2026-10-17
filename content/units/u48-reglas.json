@@ -1,0 +1,1766 @@
+{
+ "_generated": true,
+ "id": "u48-reglas",
+ "level": "B1",
+ "title": "Reglas y obligaciones",
+ "emoji": "📋",
+ "canDo": "Ya puedo explicar reglas, prohibiciones y lo que está permitido",
+ "summary": "must, mustn't, have to, don't have to, can, be allowed to para normas y señales.",
+ "grammar": [
+  "Must / mustn't",
+  "be allowed to",
+  "Diferencia mustn't vs don't have to"
+ ],
+ "items": [
+  {
+   "id": "u48.must",
+   "en": "must",
+   "es": "deber (obligación fuerte)",
+   "kind": "word",
+   "emoji": "❗",
+   "say": "mast"
+  },
+  {
+   "id": "u48.mustn-t",
+   "en": "mustn't",
+   "es": "no deber (prohibido)",
+   "kind": "word",
+   "emoji": "⛔",
+   "say": "má-sent"
+  },
+  {
+   "id": "u48.be-allowed-to",
+   "en": "be allowed to",
+   "es": "tener permiso de / estar permitido",
+   "kind": "chunk",
+   "emoji": "✅",
+   "say": "a-láud"
+  },
+  {
+   "id": "u48.not-allowed",
+   "en": "not allowed",
+   "es": "no permitido",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u48.permission",
+   "en": "permission",
+   "es": "permiso",
+   "kind": "word",
+   "emoji": "📝",
+   "say": "per-mí-shon"
+  },
+  {
+   "id": "u48.forbidden",
+   "en": "forbidden",
+   "es": "prohibido",
+   "kind": "word",
+   "emoji": "🚷",
+   "say": "for-bí-den"
+  },
+  {
+   "id": "u48.compulsory",
+   "en": "compulsory",
+   "es": "obligatorio",
+   "kind": "word",
+   "emoji": "📌",
+   "say": "kom-pál-so-ri"
+  },
+  {
+   "id": "u48.optional",
+   "en": "optional",
+   "es": "opcional",
+   "kind": "word",
+   "emoji": "🔘",
+   "say": "óp-sho-nal"
+  },
+  {
+   "id": "u48.law",
+   "en": "law",
+   "es": "ley",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "lo"
+  },
+  {
+   "id": "u48.fine",
+   "en": "fine",
+   "es": "multa",
+   "kind": "word",
+   "emoji": "💸",
+   "say": "fáin"
+  },
+  {
+   "id": "u48.ticket-fine",
+   "en": "ticket",
+   "es": "multa / comparendo",
+   "kind": "word",
+   "emoji": "🎫",
+   "tip": "Aquí con el sentido de: fine."
+  },
+  {
+   "id": "u48.seat-belt",
+   "en": "seat belt",
+   "es": "cinturón de seguridad",
+   "kind": "chunk",
+   "emoji": "🦺"
+  },
+  {
+   "id": "u48.helmet",
+   "en": "helmet",
+   "es": "casco",
+   "kind": "word",
+   "emoji": "⛑️",
+   "say": "jél-met"
+  },
+  {
+   "id": "u48.speed-limit",
+   "en": "speed limit",
+   "es": "límite de velocidad",
+   "kind": "chunk",
+   "emoji": "🚸"
+  },
+  {
+   "id": "u48.parking",
+   "en": "parking",
+   "es": "parqueadero / estacionar",
+   "kind": "word",
+   "emoji": "🅿️",
+   "say": "pár-king"
+  },
+  {
+   "id": "u48.no-smoking",
+   "en": "no smoking",
+   "es": "prohibido fumar",
+   "kind": "chunk",
+   "emoji": "🚭"
+  },
+  {
+   "id": "u48.wear-a-uniform",
+   "en": "wear a uniform",
+   "es": "usar uniforme",
+   "kind": "chunk",
+   "emoji": "👔"
+  },
+  {
+   "id": "u48.keep-quiet",
+   "en": "keep quiet",
+   "es": "guardar silencio",
+   "kind": "chunk",
+   "emoji": "🤫"
+  },
+  {
+   "id": "u48.switch-off-your-phone",
+   "en": "switch off your phone",
+   "es": "apagar el celular",
+   "kind": "chunk",
+   "emoji": "📴"
+  },
+  {
+   "id": "u48.show-your-id",
+   "en": "show your ID",
+   "es": "mostrar tu documento",
+   "kind": "chunk",
+   "emoji": "🪪"
+  },
+  {
+   "id": "u48.respect",
+   "en": "respect",
+   "es": "respetar / respeto",
+   "kind": "word",
+   "emoji": "🙇",
+   "say": "ris-pékt"
+  },
+  {
+   "id": "u48.obey",
+   "en": "obey",
+   "es": "obedecer",
+   "kind": "word",
+   "emoji": "👮",
+   "say": "o-béi"
+  },
+  {
+   "id": "u48.break-the-rules",
+   "en": "break the rules",
+   "es": "romper las reglas",
+   "kind": "chunk",
+   "emoji": "💥"
+  },
+  {
+   "id": "u48.follow-the-rules",
+   "en": "follow the rules",
+   "es": "seguir las reglas",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u48.punish",
+   "en": "punish",
+   "es": "castigar",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "pá-nish"
+  },
+  {
+   "id": "u48.punishment",
+   "en": "punishment",
+   "es": "castigo",
+   "kind": "word",
+   "emoji": "🔒",
+   "say": "pá-nish-ment"
+  },
+  {
+   "id": "u48.behave",
+   "en": "behave",
+   "es": "comportarse",
+   "kind": "word",
+   "emoji": "😇",
+   "say": "bi-jéiv"
+  },
+  {
+   "id": "u48.manners",
+   "en": "manners",
+   "es": "modales",
+   "kind": "word",
+   "emoji": "🎩",
+   "say": "má-ners"
+  },
+  {
+   "id": "u48.polite",
+   "en": "polite",
+   "es": "educado / cortés",
+   "kind": "word",
+   "emoji": "🙏",
+   "say": "po-láit"
+  },
+  {
+   "id": "u48.rude",
+   "en": "rude",
+   "es": "grosero",
+   "kind": "word",
+   "emoji": "😤",
+   "say": "ruud"
+  },
+  {
+   "id": "u48.safety",
+   "en": "safety",
+   "es": "seguridad",
+   "kind": "word",
+   "emoji": "🛡️",
+   "say": "séif-ti"
+  },
+  {
+   "id": "u48.security",
+   "en": "security",
+   "es": "seguridad (vigilancia)",
+   "kind": "word",
+   "emoji": "🔐",
+   "say": "se-kiú-ri-ti"
+  },
+  {
+   "id": "u48.guard",
+   "en": "guard",
+   "es": "guardia / vigilante",
+   "kind": "word",
+   "emoji": "💂",
+   "say": "gard"
+  },
+  {
+   "id": "u48.visitor",
+   "en": "visitor",
+   "es": "visitante",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "ví-si-tor"
+  },
+  {
+   "id": "u48.entrance",
+   "en": "entrance",
+   "es": "entrada",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "én-trans"
+  },
+  {
+   "id": "u48.exit",
+   "en": "exit",
+   "es": "salida",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "ék-sit"
+  },
+  {
+   "id": "u48.emergency-exit",
+   "en": "emergency exit",
+   "es": "salida de emergencia",
+   "kind": "chunk",
+   "emoji": "🚨"
+  },
+  {
+   "id": "u48.no-entry",
+   "en": "no entry",
+   "es": "no hay paso / prohibido entrar",
+   "kind": "chunk",
+   "emoji": "⛔"
+  },
+  {
+   "id": "u48.staff-only",
+   "en": "staff only",
+   "es": "solo personal autorizado",
+   "kind": "chunk",
+   "emoji": "🧑‍💼"
+  },
+  {
+   "id": "u48.keep-off-the-grass",
+   "en": "keep off the grass",
+   "es": "no pisar el césped",
+   "kind": "chunk",
+   "emoji": "🌱"
+  },
+  {
+   "id": "u48.do-not-disturb",
+   "en": "do not disturb",
+   "es": "no molestar",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u48.under-18",
+   "en": "under 18",
+   "es": "menores de 18",
+   "kind": "chunk",
+   "emoji": "🔞"
+  },
+  {
+   "id": "u48.pets",
+   "en": "pets",
+   "es": "mascotas",
+   "kind": "word",
+   "emoji": "🐾",
+   "say": "pets"
+  },
+  {
+   "id": "u48.touch",
+   "en": "touch",
+   "es": "tocar",
+   "kind": "word",
+   "emoji": "👆",
+   "say": "tach"
+  },
+  {
+   "id": "u48.feed-the-animals",
+   "en": "feed the animals",
+   "es": "alimentar a los animales",
+   "kind": "chunk",
+   "emoji": "🐒"
+  },
+  {
+   "id": "u48.you-must-wear-a-helmet",
+   "en": "You must wear a helmet",
+   "es": "Debes usar casco",
+   "kind": "chunk",
+   "emoji": "⛑️"
+  },
+  {
+   "id": "u48.you-mustn-t-park-here",
+   "en": "You mustn't park here",
+   "es": "No puedes estacionar aquí",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u48.are-we-allowed-to-take-photos",
+   "en": "Are we allowed to take photos?",
+   "es": "¿Se pueden tomar fotos?",
+   "kind": "chunk",
+   "emoji": "📷"
+  },
+  {
+   "id": "u48.you-don-t-have-to-pay",
+   "en": "You don't have to pay",
+   "es": "No tienes que pagar",
+   "kind": "chunk",
+   "emoji": "🆓"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u48-reglas-l1",
+   "title": "1. must, mustn't, be allowed to…",
+   "focus": "listening",
+   "newItems": [
+    "u48.must",
+    "u48.mustn-t",
+    "u48.be-allowed-to",
+    "u48.not-allowed"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.must",
+      "u48.mustn-t"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.be-allowed-to",
+      "u48.not-allowed"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.must",
+      "u48.mustn-t",
+      "u48.be-allowed-to",
+      "u48.not-allowed"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.must",
+      "u48.mustn-t",
+      "u48.be-allowed-to",
+      "u48.not-allowed"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.must",
+      "u48.mustn-t",
+      "u48.be-allowed-to",
+      "u48.not-allowed"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l2",
+   "title": "2. permission, forbidden, compulsory…",
+   "focus": "grammar",
+   "newItems": [
+    "u48.permission",
+    "u48.forbidden",
+    "u48.compulsory",
+    "u48.optional"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.permission",
+      "u48.forbidden"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.compulsory",
+      "u48.optional"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.permission",
+      "u48.forbidden",
+      "u48.compulsory",
+      "u48.optional"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.permission",
+      "u48.forbidden",
+      "u48.compulsory",
+      "u48.optional"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.permission",
+      "u48.forbidden",
+      "u48.compulsory",
+      "u48.optional"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.must",
+      "u48.mustn-t",
+      "u48.be-allowed-to",
+      "u48.not-allowed"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "must, mustn't y don't have to",
+     "intro": "Lee estas normas. Fíjate bien en las dos negativas.",
+     "examples": [
+      {
+       "en": "You must wear a seat belt.",
+       "es": "Debes usar el cinturón de seguridad.",
+       "mark": [
+        "must"
+       ]
+      },
+      {
+       "en": "Passengers must show their ID.",
+       "es": "Los pasajeros deben mostrar su documento.",
+       "mark": [
+        "must"
+       ]
+      },
+      {
+       "en": "You mustn't smoke here.",
+       "es": "No puedes fumar aquí (está prohibido).",
+       "mark": [
+        "mustn't"
+       ]
+      },
+      {
+       "en": "You don't have to pay. It's free.",
+       "es": "No tienes que pagar. Es gratis.",
+       "mark": [
+        "don't have to"
+       ]
+      },
+      {
+       "en": "We're not allowed to use phones in class.",
+       "es": "No se nos permite usar el celular en clase.",
+       "mark": [
+        "not allowed to"
+       ]
+      }
+     ],
+     "question": "¿Qué significa You mustn't touch?",
+     "options": [
+      "No es necesario que toques",
+      "Está prohibido tocar"
+     ],
+     "answer": 1,
+     "rule": "must = obligación fuerte (reglas, leyes). mustn't = PROHIBIDO. don't have to = NO es necesario (puedes si quieres). Son muy distintos: You mustn't come = no puedes venir; You don't have to come = no tienes que venir. be allowed to = tener permiso.",
+     "ruleExamples": [
+      {
+       "en": "At the museum you mustn't touch the paintings, but you don't have to pay on Sundays.",
+       "es": "En el museo no puedes tocar las pinturas, pero no tienes que pagar los domingos."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "You ___ drive faster than 60 here. It's the law.",
+     "options": [
+      "mustn't",
+      "don't have to"
+     ],
+     "answer": 0,
+     "es": "No puedes manejar a más de 60 aquí. Es la ley."
+    },
+    {
+     "type": "fill",
+     "en": "You ___ bring food. Lunch is included.",
+     "options": [
+      "don't have to",
+      "mustn't"
+     ],
+     "answer": 0,
+     "es": "No tienes que traer comida. El almuerzo está incluido."
+    },
+    {
+     "type": "fill",
+     "en": "All visitors ___ wear a helmet in the factory.",
+     "options": [
+      "must",
+      "mustn't"
+     ],
+     "answer": 0,
+     "es": "Todos los visitantes deben usar casco en la fábrica."
+    },
+    {
+     "type": "fill",
+     "en": "Are we ___ to take photos?",
+     "options": [
+      "allowed",
+      "allow"
+     ],
+     "answer": 0,
+     "es": "¿Se nos permite tomar fotos?"
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l3",
+   "title": "3. law, fine, ticket…",
+   "focus": "reading",
+   "newItems": [
+    "u48.law",
+    "u48.fine",
+    "u48.ticket-fine",
+    "u48.seat-belt"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.law",
+      "u48.fine"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.ticket-fine",
+      "u48.seat-belt"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.law",
+      "u48.fine",
+      "u48.ticket-fine",
+      "u48.seat-belt"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.law",
+      "u48.fine",
+      "u48.ticket-fine",
+      "u48.seat-belt"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.law",
+      "u48.fine",
+      "u48.ticket-fine",
+      "u48.seat-belt"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.be-allowed-to",
+      "u48.not-allowed",
+      "u48.permission",
+      "u48.forbidden",
+      "u48.compulsory",
+      "u48.optional"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l4",
+   "title": "4. helmet, speed limit, parking…",
+   "focus": "listening",
+   "newItems": [
+    "u48.helmet",
+    "u48.speed-limit",
+    "u48.parking",
+    "u48.no-smoking"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.helmet",
+      "u48.speed-limit"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.parking",
+      "u48.no-smoking"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.helmet",
+      "u48.speed-limit",
+      "u48.parking",
+      "u48.no-smoking"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.helmet",
+      "u48.speed-limit",
+      "u48.parking",
+      "u48.no-smoking"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.helmet",
+      "u48.speed-limit",
+      "u48.parking",
+      "u48.no-smoking"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.compulsory",
+      "u48.optional",
+      "u48.law",
+      "u48.fine",
+      "u48.ticket-fine",
+      "u48.seat-belt"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l5",
+   "title": "5. wear a uniform, keep quiet, switch off your phone…",
+   "focus": "listening",
+   "newItems": [
+    "u48.wear-a-uniform",
+    "u48.keep-quiet",
+    "u48.switch-off-your-phone",
+    "u48.show-your-id"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.wear-a-uniform",
+      "u48.keep-quiet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.switch-off-your-phone",
+      "u48.show-your-id"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.wear-a-uniform",
+      "u48.keep-quiet",
+      "u48.switch-off-your-phone",
+      "u48.show-your-id"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.wear-a-uniform",
+      "u48.keep-quiet",
+      "u48.switch-off-your-phone",
+      "u48.show-your-id"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.wear-a-uniform",
+      "u48.keep-quiet",
+      "u48.switch-off-your-phone",
+      "u48.show-your-id"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.ticket-fine",
+      "u48.seat-belt",
+      "u48.helmet",
+      "u48.speed-limit",
+      "u48.parking",
+      "u48.no-smoking"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l6",
+   "title": "6. respect, obey, break the rules…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u48.respect",
+    "u48.obey",
+    "u48.break-the-rules",
+    "u48.follow-the-rules"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.respect",
+      "u48.obey"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.break-the-rules",
+      "u48.follow-the-rules"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.respect",
+      "u48.obey",
+      "u48.break-the-rules",
+      "u48.follow-the-rules"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.respect",
+      "u48.obey",
+      "u48.break-the-rules",
+      "u48.follow-the-rules"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.respect",
+      "u48.obey",
+      "u48.break-the-rules",
+      "u48.follow-the-rules"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.parking",
+      "u48.no-smoking",
+      "u48.wear-a-uniform",
+      "u48.keep-quiet",
+      "u48.switch-off-your-phone",
+      "u48.show-your-id"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l7",
+   "title": "7. punish, punishment, behave…",
+   "focus": "reading",
+   "newItems": [
+    "u48.punish",
+    "u48.punishment",
+    "u48.behave",
+    "u48.manners"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.punish",
+      "u48.punishment"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.behave",
+      "u48.manners"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.punish",
+      "u48.punishment",
+      "u48.behave",
+      "u48.manners"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.punish",
+      "u48.punishment",
+      "u48.behave",
+      "u48.manners"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.punish",
+      "u48.punishment",
+      "u48.behave",
+      "u48.manners"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.switch-off-your-phone",
+      "u48.show-your-id",
+      "u48.respect",
+      "u48.obey",
+      "u48.break-the-rules",
+      "u48.follow-the-rules"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l8",
+   "title": "8. polite, rude, safety…",
+   "focus": "listening",
+   "newItems": [
+    "u48.polite",
+    "u48.rude",
+    "u48.safety",
+    "u48.security"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.polite",
+      "u48.rude"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.safety",
+      "u48.security"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.polite",
+      "u48.rude",
+      "u48.safety",
+      "u48.security"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.polite",
+      "u48.rude",
+      "u48.safety",
+      "u48.security"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.polite",
+      "u48.rude",
+      "u48.safety",
+      "u48.security"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.break-the-rules",
+      "u48.follow-the-rules",
+      "u48.punish",
+      "u48.punishment",
+      "u48.behave",
+      "u48.manners"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l9",
+   "title": "9. guard, visitor, entrance…",
+   "focus": "listening",
+   "newItems": [
+    "u48.guard",
+    "u48.visitor",
+    "u48.entrance",
+    "u48.exit"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.guard",
+      "u48.visitor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.entrance",
+      "u48.exit"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.guard",
+      "u48.visitor",
+      "u48.entrance",
+      "u48.exit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.guard",
+      "u48.visitor",
+      "u48.entrance",
+      "u48.exit"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.guard",
+      "u48.visitor",
+      "u48.entrance",
+      "u48.exit"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.behave",
+      "u48.manners",
+      "u48.polite",
+      "u48.rude",
+      "u48.safety",
+      "u48.security"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l10",
+   "title": "10. emergency exit, no entry, staff only…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u48.emergency-exit",
+    "u48.no-entry",
+    "u48.staff-only",
+    "u48.keep-off-the-grass"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.emergency-exit",
+      "u48.no-entry"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.staff-only",
+      "u48.keep-off-the-grass"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.emergency-exit",
+      "u48.no-entry",
+      "u48.staff-only",
+      "u48.keep-off-the-grass"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.emergency-exit",
+      "u48.no-entry",
+      "u48.staff-only",
+      "u48.keep-off-the-grass"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.emergency-exit",
+      "u48.no-entry",
+      "u48.staff-only",
+      "u48.keep-off-the-grass"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.safety",
+      "u48.security",
+      "u48.guard",
+      "u48.visitor",
+      "u48.entrance",
+      "u48.exit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Primer día en la fábrica",
+     "scene": "🏭 Un supervisor te explica las reglas.",
+     "lines": [
+      {
+       "who": "Supervisor",
+       "en": "Welcome! First, the safety rules. You must wear a helmet at all times.",
+       "es": "¡Bienvenido! Primero, las reglas de seguridad. Debe usar casco todo el tiempo."
+      },
+      {
+       "who": "You",
+       "en": "OK. Am I allowed to use my phone?",
+       "es": "Bueno. ¿Puedo usar el celular?"
+      },
+      {
+       "who": "Supervisor",
+       "en": "Only during breaks. You mustn't use it near the machines.",
+       "es": "Solo en los descansos. No puede usarlo cerca de las máquinas."
+      },
+      {
+       "who": "You",
+       "en": "Do I have to wear a uniform?",
+       "es": "¿Tengo que usar uniforme?"
+      },
+      {
+       "who": "Supervisor",
+       "en": "Yes, but you don't have to buy it. The company gives it to you.",
+       "es": "Sí, pero no tiene que comprarlo. La empresa se lo da."
+      },
+      {
+       "who": "You",
+       "en": "Great. And where is the emergency exit?",
+       "es": "Perfecto. ¿Y dónde está la salida de emergencia?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l11",
+   "title": "11. do not disturb, under 18, pets…",
+   "focus": "reading",
+   "newItems": [
+    "u48.do-not-disturb",
+    "u48.under-18",
+    "u48.pets",
+    "u48.touch"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.do-not-disturb",
+      "u48.under-18"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.pets",
+      "u48.touch"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.do-not-disturb",
+      "u48.under-18",
+      "u48.pets",
+      "u48.touch"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.do-not-disturb",
+      "u48.under-18",
+      "u48.pets",
+      "u48.touch"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.do-not-disturb",
+      "u48.under-18",
+      "u48.pets",
+      "u48.touch"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.entrance",
+      "u48.exit",
+      "u48.emergency-exit",
+      "u48.no-entry",
+      "u48.staff-only",
+      "u48.keep-off-the-grass"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l12",
+   "title": "12. feed the animals, You must wear a helmet, You mustn't park here…",
+   "focus": "listening",
+   "newItems": [
+    "u48.feed-the-animals",
+    "u48.you-must-wear-a-helmet",
+    "u48.you-mustn-t-park-here",
+    "u48.are-we-allowed-to-take-photos"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.feed-the-animals",
+      "u48.you-must-wear-a-helmet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u48.you-mustn-t-park-here",
+      "u48.are-we-allowed-to-take-photos"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.feed-the-animals",
+      "u48.you-must-wear-a-helmet",
+      "u48.you-mustn-t-park-here",
+      "u48.are-we-allowed-to-take-photos"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.feed-the-animals",
+      "u48.you-must-wear-a-helmet",
+      "u48.you-mustn-t-park-here",
+      "u48.are-we-allowed-to-take-photos"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.feed-the-animals",
+      "u48.you-must-wear-a-helmet",
+      "u48.you-mustn-t-park-here",
+      "u48.are-we-allowed-to-take-photos"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.staff-only",
+      "u48.keep-off-the-grass",
+      "u48.do-not-disturb",
+      "u48.under-18",
+      "u48.pets",
+      "u48.touch"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-l13",
+   "title": "13. You don't have to pay",
+   "focus": "listening",
+   "newItems": [
+    "u48.you-don-t-have-to-pay"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u48.you-don-t-have-to-pay"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.you-don-t-have-to-pay"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.you-don-t-have-to-pay"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.you-don-t-have-to-pay"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.pets",
+      "u48.touch",
+      "u48.feed-the-animals",
+      "u48.you-must-wear-a-helmet",
+      "u48.you-mustn-t-park-here",
+      "u48.are-we-allowed-to-take-photos"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u48-reglas-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Reglas en otros países",
+     "emoji": "🌐",
+     "paragraphs": [
+      {
+       "en": "When you travel, it's important to know the local rules.",
+       "es": "Cuando viajas, es importante conocer las reglas locales."
+      },
+      {
+       "en": "In Singapore you mustn't chew gum on public transport. You can get a fine!",
+       "es": "En Singapur no puedes masticar chicle en el transporte público. ¡Te pueden multar!"
+      },
+      {
+       "en": "In Japan you must take off your shoes before you enter a house.",
+       "es": "En Japón debes quitarte los zapatos antes de entrar a una casa."
+      },
+      {
+       "en": "In many European cities you don't have to tip waiters, but it's polite.",
+       "es": "En muchas ciudades europeas no tienes que dar propina a los meseros, pero es amable."
+      },
+      {
+       "en": "In some countries you aren't allowed to take photos of government buildings.",
+       "es": "En algunos países no se permite tomar fotos de edificios del gobierno."
+      },
+      {
+       "en": "Before your next trip, look up the rules. It will save you problems!",
+       "es": "Antes de tu próximo viaje, busca las reglas. ¡Te ahorrará problemas!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué está prohibido en el transporte de Singapur?",
+       "options": [
+        "Comer",
+        "Masticar chicle",
+        "Hablar"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué debes hacer en una casa en Japón?",
+       "options": [
+        "Quitarte los zapatos",
+        "Llevar un regalo",
+        "Hablar bajito"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿La propina es obligatoria en muchas ciudades europeas?",
+       "options": [
+        "Sí",
+        "No, pero es amable"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "En el museo",
+     "scene": "🏛️ Un guardia habla contigo en la entrada.",
+     "turns": [
+      {
+       "who": "Guard",
+       "en": "Good morning. Can I see your ticket?",
+       "es": "Buenos días. ¿Puedo ver su boleto?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Here you are. Are we allowed to take photos inside?",
+         "es": "Aquí tiene. ¿Se permite tomar fotos adentro?",
+         "ok": true
+        },
+        {
+         "en": "Here you are. Must I to take photos?",
+         "es": "Aquí tiene. ¿Debo a tomar fotos?",
+         "ok": false,
+         "why": "Pregunta por permiso: \"Are we allowed to…?\"."
+        }
+       ]
+      },
+      {
+       "who": "Guard",
+       "en": "Yes, but you mustn't use the flash.",
+       "es": "Sí, pero no puede usar el flash."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "OK. Do I have to leave my backpack here?",
+         "es": "Bueno. ¿Tengo que dejar mi morral aquí?",
+         "ok": true
+        },
+        {
+         "en": "OK. I mustn't leave the museum.",
+         "es": "Bueno. No puedo salir del museo.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      },
+      {
+       "who": "Guard",
+       "en": "Yes, please. And you mustn't touch the paintings.",
+       "es": "Sí, por favor. Y no puede tocar las pinturas."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Understood. Thank you!",
+         "es": "Entendido. ¡Gracias!",
+         "ok": true
+        },
+        {
+         "en": "I don't have to touch them?",
+         "es": "¿No tengo que tocarlas?",
+         "ok": false,
+         "why": "\"Mustn't\" es prohibición, no falta de necesidad."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Debes usar casco.",
+     "en": "You must wear a helmet.",
+     "accept": [
+      "You have to wear a helmet."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No puedes fumar aquí.",
+     "en": "You mustn't smoke here.",
+     "accept": [
+      "You must not smoke here.",
+      "You can't smoke here."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No tienes que pagar.",
+     "en": "You don't have to pay.",
+     "accept": [
+      "You do not have to pay."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Are we allowed to take photos?",
+     "es": "¿Se permite tomar fotos?"
+    },
+    {
+     "type": "dictation",
+     "en": "You mustn't park in front of the entrance.",
+     "es": "No puedes estacionar frente a la entrada."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u48.under-18",
+      "u48.pets",
+      "u48.touch",
+      "u48.feed-the-animals",
+      "u48.you-must-wear-a-helmet",
+      "u48.you-mustn-t-park-here",
+      "u48.are-we-allowed-to-take-photos",
+      "u48.you-don-t-have-to-pay"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

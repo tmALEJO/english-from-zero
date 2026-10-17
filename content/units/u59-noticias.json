@@ -1,0 +1,2015 @@
+{
+ "_generated": true,
+ "id": "u59-noticias",
+ "level": "B2",
+ "title": "Noticias y medios",
+ "emoji": "📰",
+ "canDo": "Ya puedo entender y resumir una noticia",
+ "summary": "Vocabulario periodístico, la pasiva en todos los tiempos y cómo resumir lo que se informa.",
+ "grammar": [
+  "Pasiva en todos los tiempos",
+  "It is said that… / He is believed to…"
+ ],
+ "items": [
+  {
+   "id": "u59.breaking-news",
+   "en": "breaking news",
+   "es": "noticia de última hora",
+   "kind": "chunk",
+   "emoji": "🚨"
+  },
+  {
+   "id": "u59.front-page",
+   "en": "front page",
+   "es": "primera plana",
+   "kind": "chunk",
+   "emoji": "🗞️"
+  },
+  {
+   "id": "u59.coverage",
+   "en": "coverage",
+   "es": "cubrimiento",
+   "kind": "word",
+   "emoji": "📡",
+   "say": "ká-ve-rich"
+  },
+  {
+   "id": "u59.broadcast",
+   "en": "broadcast",
+   "es": "transmitir / emisión",
+   "kind": "word",
+   "emoji": "📺",
+   "say": "bród-kast"
+  },
+  {
+   "id": "u59.anchor",
+   "en": "anchor",
+   "es": "presentador de noticias",
+   "kind": "word",
+   "emoji": "🎙️",
+   "say": "án-ker"
+  },
+  {
+   "id": "u59.correspondent",
+   "en": "correspondent",
+   "es": "corresponsal",
+   "kind": "word",
+   "emoji": "🌍",
+   "say": "ko-res-pón-dent"
+  },
+  {
+   "id": "u59.editor",
+   "en": "editor",
+   "es": "editor",
+   "kind": "word",
+   "emoji": "✏️",
+   "say": "é-di-tor"
+  },
+  {
+   "id": "u59.press",
+   "en": "press",
+   "es": "prensa",
+   "kind": "word",
+   "emoji": "🗞️"
+  },
+  {
+   "id": "u59.press-conference",
+   "en": "press conference",
+   "es": "rueda de prensa",
+   "kind": "chunk",
+   "emoji": "🎤"
+  },
+  {
+   "id": "u59.eyewitness",
+   "en": "eyewitness",
+   "es": "testigo presencial",
+   "kind": "word",
+   "emoji": "👁️",
+   "say": "ái-uit-nes"
+  },
+  {
+   "id": "u59.spokesperson",
+   "en": "spokesperson",
+   "es": "vocero",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "spóuks-per-son"
+  },
+  {
+   "id": "u59.statement",
+   "en": "statement",
+   "es": "declaración / comunicado",
+   "kind": "word",
+   "emoji": "📃",
+   "say": "stéit-ment"
+  },
+  {
+   "id": "u59.claim",
+   "en": "claim",
+   "es": "afirmar / afirmación",
+   "kind": "word",
+   "emoji": "☝️",
+   "say": "kléim"
+  },
+  {
+   "id": "u59.deny",
+   "en": "deny",
+   "es": "negar",
+   "kind": "word",
+   "emoji": "🙅",
+   "say": "di-nái"
+  },
+  {
+   "id": "u59.confirm",
+   "en": "confirm",
+   "es": "confirmar",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "kon-férm"
+  },
+  {
+   "id": "u59.reveal",
+   "en": "reveal",
+   "es": "revelar",
+   "kind": "word",
+   "emoji": "🔦",
+   "say": "ri-víil"
+  },
+  {
+   "id": "u59.announce",
+   "en": "announce",
+   "es": "anunciar",
+   "kind": "word",
+   "emoji": "📣",
+   "say": "a-náuns"
+  },
+  {
+   "id": "u59.investigate",
+   "en": "investigate",
+   "es": "investigar",
+   "kind": "word",
+   "emoji": "🕵️",
+   "say": "in-vés-ti-gueit"
+  },
+  {
+   "id": "u59.investigation",
+   "en": "investigation",
+   "es": "investigación",
+   "kind": "word",
+   "emoji": "🔍"
+  },
+  {
+   "id": "u59.scandal",
+   "en": "scandal",
+   "es": "escándalo",
+   "kind": "word",
+   "emoji": "💣",
+   "say": "skán-dal"
+  },
+  {
+   "id": "u59.corruption",
+   "en": "corruption",
+   "es": "corrupción",
+   "kind": "word",
+   "emoji": "💰",
+   "say": "ko-ráp-shon"
+  },
+  {
+   "id": "u59.election",
+   "en": "election",
+   "es": "elecciones",
+   "kind": "word",
+   "emoji": "🗳️",
+   "say": "i-lék-shon"
+  },
+  {
+   "id": "u59.policy",
+   "en": "policy",
+   "es": "política (medida)",
+   "kind": "word",
+   "emoji": "📋",
+   "say": "pó-li-si"
+  },
+  {
+   "id": "u59.politician",
+   "en": "politician",
+   "es": "político",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "po-li-tí-shan"
+  },
+  {
+   "id": "u59.minister",
+   "en": "minister",
+   "es": "ministro",
+   "kind": "word",
+   "emoji": "🎩",
+   "say": "mí-nis-ter"
+  },
+  {
+   "id": "u59.mayor",
+   "en": "mayor",
+   "es": "alcalde",
+   "kind": "word",
+   "emoji": "🏙️",
+   "say": "méi-or"
+  },
+  {
+   "id": "u59.protest",
+   "en": "protest",
+   "es": "protesta / protestar",
+   "kind": "word",
+   "emoji": "✊",
+   "say": "próu-test"
+  },
+  {
+   "id": "u59.strike",
+   "en": "strike",
+   "es": "huelga",
+   "kind": "word",
+   "emoji": "🪧",
+   "say": "stráik"
+  },
+  {
+   "id": "u59.crisis",
+   "en": "crisis",
+   "es": "crisis",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "krái-sis"
+  },
+  {
+   "id": "u59.disaster",
+   "en": "disaster",
+   "es": "desastre",
+   "kind": "word",
+   "emoji": "🌪️",
+   "say": "di-sás-ter"
+  },
+  {
+   "id": "u59.earthquake",
+   "en": "earthquake",
+   "es": "terremoto",
+   "kind": "word",
+   "emoji": "🌐",
+   "say": "érz-kueik"
+  },
+  {
+   "id": "u59.hurricane",
+   "en": "hurricane",
+   "es": "huracán",
+   "kind": "word",
+   "emoji": "🌀",
+   "say": "já-ri-kein"
+  },
+  {
+   "id": "u59.landslide",
+   "en": "landslide",
+   "es": "derrumbe",
+   "kind": "word",
+   "emoji": "⛰️",
+   "say": "lánd-slaid"
+  },
+  {
+   "id": "u59.injured",
+   "en": "injured",
+   "es": "herido",
+   "kind": "word",
+   "emoji": "🤕",
+   "say": "ín-yerd"
+  },
+  {
+   "id": "u59.victim",
+   "en": "victim",
+   "es": "víctima",
+   "kind": "word",
+   "emoji": "🩹",
+   "say": "vík-tim"
+  },
+  {
+   "id": "u59.casualties",
+   "en": "casualties",
+   "es": "víctimas (muertos y heridos)",
+   "kind": "word",
+   "emoji": "⚰️",
+   "say": "ká-shual-tis"
+  },
+  {
+   "id": "u59.rescue",
+   "en": "rescue",
+   "es": "rescate / rescatar",
+   "kind": "word",
+   "emoji": "🚁",
+   "say": "rés-kiu"
+  },
+  {
+   "id": "u59.evacuate",
+   "en": "evacuate",
+   "es": "evacuar",
+   "kind": "word",
+   "emoji": "🏃",
+   "say": "i-vá-kiu-eit"
+  },
+  {
+   "id": "u59.aid",
+   "en": "aid",
+   "es": "ayuda (humanitaria)",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "éid"
+  },
+  {
+   "id": "u59.estimate",
+   "en": "estimate",
+   "es": "calcular / estimar",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "és-ti-meit"
+  },
+  {
+   "id": "u59.allegedly",
+   "en": "allegedly",
+   "es": "supuestamente",
+   "kind": "word",
+   "emoji": "🤨",
+   "say": "a-lé-yed-li"
+  },
+  {
+   "id": "u59.reportedly",
+   "en": "reportedly",
+   "es": "según informes",
+   "kind": "word",
+   "emoji": "📰",
+   "say": "ri-pór-ted-li"
+  },
+  {
+   "id": "u59.officially",
+   "en": "officially",
+   "es": "oficialmente",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "o-fí-sha-li"
+  },
+  {
+   "id": "u59.unconfirmed",
+   "en": "unconfirmed",
+   "es": "sin confirmar",
+   "kind": "word",
+   "emoji": "❓"
+  },
+  {
+   "id": "u59.biased",
+   "en": "biased",
+   "es": "parcializado",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "bái-ast"
+  },
+  {
+   "id": "u59.objective",
+   "en": "objective",
+   "es": "objetivo (neutral)",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "ob-yék-tiv"
+  },
+  {
+   "id": "u59.censorship",
+   "en": "censorship",
+   "es": "censura",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "sén-sor-ship"
+  },
+  {
+   "id": "u59.freedom-of-speech",
+   "en": "freedom of speech",
+   "es": "libertad de expresión",
+   "kind": "chunk",
+   "emoji": "🗽"
+  },
+  {
+   "id": "u59.public-opinion",
+   "en": "public opinion",
+   "es": "opinión pública",
+   "kind": "chunk",
+   "emoji": "👥"
+  },
+  {
+   "id": "u59.poll",
+   "en": "poll",
+   "es": "encuesta",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "póul"
+  },
+  {
+   "id": "u59.survey",
+   "en": "survey",
+   "es": "encuesta / estudio",
+   "kind": "word",
+   "emoji": "📋",
+   "say": "sér-vei"
+  },
+  {
+   "id": "u59.statistics",
+   "en": "statistics",
+   "es": "estadísticas",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "sta-tís-tiks"
+  },
+  {
+   "id": "u59.majority",
+   "en": "majority",
+   "es": "mayoría",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "ma-yó-ri-ti"
+  },
+  {
+   "id": "u59.minority",
+   "en": "minority",
+   "es": "minoría",
+   "kind": "word",
+   "emoji": "👤",
+   "say": "mai-nó-ri-ti"
+  },
+  {
+   "id": "u59.increase-sharply",
+   "en": "increase sharply",
+   "es": "aumentar bruscamente",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u59.remain",
+   "en": "remain",
+   "es": "permanecer / seguir",
+   "kind": "word",
+   "emoji": "⏸️",
+   "say": "ri-méin"
+  },
+  {
+   "id": "u59.take-place",
+   "en": "take place",
+   "es": "tener lugar / ocurrir",
+   "kind": "chunk",
+   "emoji": "📍"
+  },
+  {
+   "id": "u59.it-is-said-that",
+   "en": "It is said that…",
+   "es": "Se dice que…",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u59.he-is-believed-to-be",
+   "en": "He is believed to be…",
+   "es": "Se cree que él es…",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u59.it-has-been-reported-that",
+   "en": "It has been reported that…",
+   "es": "Se ha informado que…",
+   "kind": "chunk",
+   "emoji": "📰"
+  },
+  {
+   "id": "u59.the-suspect-was-arrested",
+   "en": "The suspect was arrested",
+   "es": "El sospechoso fue arrestado",
+   "kind": "chunk",
+   "emoji": "🚔"
+  },
+  {
+   "id": "u59.talks-are-being-held",
+   "en": "Talks are being held",
+   "es": "Se están llevando a cabo conversaciones",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u59-noticias-l1",
+   "title": "1. breaking news, front page, coverage…",
+   "focus": "listening",
+   "newItems": [
+    "u59.breaking-news",
+    "u59.front-page",
+    "u59.coverage",
+    "u59.broadcast",
+    "u59.anchor"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.breaking-news",
+      "u59.front-page"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.coverage",
+      "u59.broadcast"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.anchor"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.breaking-news",
+      "u59.front-page",
+      "u59.coverage",
+      "u59.broadcast",
+      "u59.anchor"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.breaking-news",
+      "u59.front-page",
+      "u59.coverage",
+      "u59.broadcast",
+      "u59.anchor"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.breaking-news",
+      "u59.front-page",
+      "u59.coverage",
+      "u59.broadcast",
+      "u59.anchor"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l2",
+   "title": "2. correspondent, editor, press…",
+   "focus": "grammar",
+   "newItems": [
+    "u59.correspondent",
+    "u59.editor",
+    "u59.press",
+    "u59.press-conference",
+    "u59.eyewitness"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.correspondent",
+      "u59.editor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.press",
+      "u59.press-conference"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.eyewitness"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.correspondent",
+      "u59.editor",
+      "u59.press",
+      "u59.press-conference",
+      "u59.eyewitness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.correspondent",
+      "u59.editor",
+      "u59.press",
+      "u59.press-conference",
+      "u59.eyewitness"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.correspondent",
+      "u59.editor",
+      "u59.press",
+      "u59.press-conference",
+      "u59.eyewitness"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.breaking-news",
+      "u59.front-page",
+      "u59.coverage",
+      "u59.broadcast",
+      "u59.anchor"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "La pasiva en todos los tiempos",
+     "intro": "Las noticias usan mucho la pasiva. Mira el verbo be en cada frase.",
+     "examples": [
+      {
+       "en": "The road is being repaired.",
+       "es": "Están reparando la carretera.",
+       "mark": [
+        "is being repaired"
+       ]
+      },
+      {
+       "en": "Ten people have been injured.",
+       "es": "Diez personas han resultado heridas.",
+       "mark": [
+        "have been injured"
+       ]
+      },
+      {
+       "en": "The suspect was arrested last night.",
+       "es": "El sospechoso fue arrestado anoche.",
+       "mark": [
+        "was arrested"
+       ]
+      },
+      {
+       "en": "The results will be announced tomorrow.",
+       "es": "Los resultados se anunciarán mañana.",
+       "mark": [
+        "will be announced"
+       ]
+      },
+      {
+       "en": "The bridge had been closed before the storm.",
+       "es": "El puente había sido cerrado antes de la tormenta.",
+       "mark": [
+        "had been closed"
+       ]
+      },
+      {
+       "en": "It is believed that the fire started in the kitchen.",
+       "es": "Se cree que el incendio empezó en la cocina.",
+       "mark": [
+        "It is believed"
+       ]
+      }
+     ],
+     "question": "¿Qué cambia entre una pasiva y otra?",
+     "options": [
+      "El tiempo del verbo be (is being, has been, will be…)",
+      "El participio",
+      "Nada"
+     ],
+     "answer": 0,
+     "rule": "La pasiva es siempre be + participio, y solo cambia el tiempo de be: is done, is being done, was done, has been done, will be done, had been done. Las noticias usan formas impersonales para informar sin afirmar: It is said / believed / reported that… o He is said to be… (se dice que él es…).",
+     "ruleExamples": [
+      {
+       "en": "The minister is reported to have resigned, but it hasn't been confirmed yet.",
+       "es": "Según informes, el ministro renunció, pero aún no se ha confirmado."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "The new hospital ___ built at the moment.",
+     "options": [
+      "is being",
+      "has being"
+     ],
+     "answer": 0,
+     "es": "El nuevo hospital se está construyendo en este momento."
+    },
+    {
+     "type": "fill",
+     "en": "Three people ___ been rescued so far.",
+     "options": [
+      "have",
+      "has"
+     ],
+     "answer": 0,
+     "es": "Hasta ahora han sido rescatadas tres personas."
+    },
+    {
+     "type": "fill",
+     "en": "The winner will ___ announced on Friday.",
+     "options": [
+      "be",
+      "been"
+     ],
+     "answer": 0,
+     "es": "El ganador será anunciado el viernes."
+    },
+    {
+     "type": "fill",
+     "en": "It ___ said that the mayor will resign.",
+     "options": [
+      "is",
+      "was being"
+     ],
+     "answer": 0,
+     "es": "Se dice que el alcalde va a renunciar."
+    },
+    {
+     "type": "fill",
+     "en": "The singer is believed ___ in Miami now.",
+     "options": [
+      "to be",
+      "being"
+     ],
+     "answer": 0,
+     "es": "Se cree que la cantante está ahora en Miami."
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l3",
+   "title": "3. spokesperson, statement, claim…",
+   "focus": "reading",
+   "newItems": [
+    "u59.spokesperson",
+    "u59.statement",
+    "u59.claim",
+    "u59.deny",
+    "u59.confirm"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.spokesperson",
+      "u59.statement"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.claim",
+      "u59.deny"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.confirm"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.spokesperson",
+      "u59.statement",
+      "u59.claim",
+      "u59.deny",
+      "u59.confirm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.spokesperson",
+      "u59.statement",
+      "u59.claim",
+      "u59.deny",
+      "u59.confirm"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.spokesperson",
+      "u59.statement",
+      "u59.claim",
+      "u59.deny",
+      "u59.confirm"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.anchor",
+      "u59.correspondent",
+      "u59.editor",
+      "u59.press",
+      "u59.press-conference",
+      "u59.eyewitness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l4",
+   "title": "4. reveal, announce, investigate…",
+   "focus": "listening",
+   "newItems": [
+    "u59.reveal",
+    "u59.announce",
+    "u59.investigate",
+    "u59.investigation",
+    "u59.scandal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.reveal",
+      "u59.announce"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.investigate",
+      "u59.investigation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.scandal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.reveal",
+      "u59.announce",
+      "u59.investigate",
+      "u59.investigation",
+      "u59.scandal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.reveal",
+      "u59.announce",
+      "u59.investigate",
+      "u59.investigation",
+      "u59.scandal"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.reveal",
+      "u59.announce",
+      "u59.investigate",
+      "u59.investigation",
+      "u59.scandal"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.eyewitness",
+      "u59.spokesperson",
+      "u59.statement",
+      "u59.claim",
+      "u59.deny",
+      "u59.confirm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l5",
+   "title": "5. corruption, election, policy…",
+   "focus": "listening",
+   "newItems": [
+    "u59.corruption",
+    "u59.election",
+    "u59.policy",
+    "u59.politician",
+    "u59.minister"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.corruption",
+      "u59.election"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.policy",
+      "u59.politician"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.minister"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.corruption",
+      "u59.election",
+      "u59.policy",
+      "u59.politician",
+      "u59.minister"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.corruption",
+      "u59.election",
+      "u59.policy",
+      "u59.politician",
+      "u59.minister"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.corruption",
+      "u59.election",
+      "u59.policy",
+      "u59.politician",
+      "u59.minister"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.confirm",
+      "u59.reveal",
+      "u59.announce",
+      "u59.investigate",
+      "u59.investigation",
+      "u59.scandal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l6",
+   "title": "6. mayor, protest, strike…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u59.mayor",
+    "u59.protest",
+    "u59.strike",
+    "u59.crisis",
+    "u59.disaster"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.mayor",
+      "u59.protest"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.strike",
+      "u59.crisis"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.disaster"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.mayor",
+      "u59.protest",
+      "u59.strike",
+      "u59.crisis",
+      "u59.disaster"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.mayor",
+      "u59.protest",
+      "u59.strike",
+      "u59.crisis",
+      "u59.disaster"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.mayor",
+      "u59.protest",
+      "u59.strike",
+      "u59.crisis",
+      "u59.disaster"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.scandal",
+      "u59.corruption",
+      "u59.election",
+      "u59.policy",
+      "u59.politician",
+      "u59.minister"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l7",
+   "title": "7. earthquake, hurricane, landslide…",
+   "focus": "reading",
+   "newItems": [
+    "u59.earthquake",
+    "u59.hurricane",
+    "u59.landslide",
+    "u59.injured",
+    "u59.victim"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.earthquake",
+      "u59.hurricane"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.landslide",
+      "u59.injured"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.victim"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.earthquake",
+      "u59.hurricane",
+      "u59.landslide",
+      "u59.injured",
+      "u59.victim"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.earthquake",
+      "u59.hurricane",
+      "u59.landslide",
+      "u59.injured",
+      "u59.victim"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.earthquake",
+      "u59.hurricane",
+      "u59.landslide",
+      "u59.injured",
+      "u59.victim"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.minister",
+      "u59.mayor",
+      "u59.protest",
+      "u59.strike",
+      "u59.crisis",
+      "u59.disaster"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l8",
+   "title": "8. casualties, rescue, evacuate…",
+   "focus": "listening",
+   "newItems": [
+    "u59.casualties",
+    "u59.rescue",
+    "u59.evacuate",
+    "u59.aid",
+    "u59.estimate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.casualties",
+      "u59.rescue"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.evacuate",
+      "u59.aid"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.estimate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.casualties",
+      "u59.rescue",
+      "u59.evacuate",
+      "u59.aid",
+      "u59.estimate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.casualties",
+      "u59.rescue",
+      "u59.evacuate",
+      "u59.aid",
+      "u59.estimate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.casualties",
+      "u59.rescue",
+      "u59.evacuate",
+      "u59.aid",
+      "u59.estimate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.disaster",
+      "u59.earthquake",
+      "u59.hurricane",
+      "u59.landslide",
+      "u59.injured",
+      "u59.victim"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l9",
+   "title": "9. allegedly, reportedly, officially…",
+   "focus": "listening",
+   "newItems": [
+    "u59.allegedly",
+    "u59.reportedly",
+    "u59.officially",
+    "u59.unconfirmed",
+    "u59.biased"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.allegedly",
+      "u59.reportedly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.officially",
+      "u59.unconfirmed"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.biased"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.allegedly",
+      "u59.reportedly",
+      "u59.officially",
+      "u59.unconfirmed",
+      "u59.biased"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.allegedly",
+      "u59.reportedly",
+      "u59.officially",
+      "u59.unconfirmed",
+      "u59.biased"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.allegedly",
+      "u59.reportedly",
+      "u59.officially",
+      "u59.unconfirmed",
+      "u59.biased"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.victim",
+      "u59.casualties",
+      "u59.rescue",
+      "u59.evacuate",
+      "u59.aid",
+      "u59.estimate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l10",
+   "title": "10. objective, censorship, freedom of speech…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u59.objective",
+    "u59.censorship",
+    "u59.freedom-of-speech",
+    "u59.public-opinion",
+    "u59.poll"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.objective",
+      "u59.censorship"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.freedom-of-speech",
+      "u59.public-opinion"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.poll"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.objective",
+      "u59.censorship",
+      "u59.freedom-of-speech",
+      "u59.public-opinion",
+      "u59.poll"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.objective",
+      "u59.censorship",
+      "u59.freedom-of-speech",
+      "u59.public-opinion",
+      "u59.poll"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.objective",
+      "u59.censorship",
+      "u59.freedom-of-speech",
+      "u59.public-opinion",
+      "u59.poll"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.estimate",
+      "u59.allegedly",
+      "u59.reportedly",
+      "u59.officially",
+      "u59.unconfirmed",
+      "u59.biased"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Viste las noticias?",
+     "scene": "📺 Dos compañeros de trabajo comentan una noticia.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "Did you hear about the landslide on the highway?",
+       "es": "¿Supiste del derrumbe en la autopista?"
+      },
+      {
+       "who": "Pedro",
+       "en": "Yes. Apparently the road has been closed since yesterday.",
+       "es": "Sí. Al parecer la vía está cerrada desde ayer."
+      },
+      {
+       "who": "Ana",
+       "en": "Were there any casualties?",
+       "es": "¿Hubo víctimas?"
+      },
+      {
+       "who": "Pedro",
+       "en": "According to the news, two people were injured, but nobody was killed.",
+       "es": "Según las noticias, dos personas resultaron heridas, pero nadie murió."
+      },
+      {
+       "who": "Ana",
+       "en": "Thank God. Do they know when it will be reopened?",
+       "es": "Gracias a Dios. ¿Saben cuándo la van a reabrir?"
+      },
+      {
+       "who": "Pedro",
+       "en": "It's estimated that it'll take at least a week. Aid is being sent to the nearby towns.",
+       "es": "Se calcula que tomará al menos una semana. Se está enviando ayuda a los pueblos cercanos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l11",
+   "title": "11. survey, statistics, majority…",
+   "focus": "reading",
+   "newItems": [
+    "u59.survey",
+    "u59.statistics",
+    "u59.majority",
+    "u59.minority",
+    "u59.increase-sharply"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.survey",
+      "u59.statistics"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.majority",
+      "u59.minority"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.increase-sharply"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.survey",
+      "u59.statistics",
+      "u59.majority",
+      "u59.minority",
+      "u59.increase-sharply"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.survey",
+      "u59.statistics",
+      "u59.majority",
+      "u59.minority",
+      "u59.increase-sharply"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.survey",
+      "u59.statistics",
+      "u59.majority",
+      "u59.minority",
+      "u59.increase-sharply"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.biased",
+      "u59.objective",
+      "u59.censorship",
+      "u59.freedom-of-speech",
+      "u59.public-opinion",
+      "u59.poll"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l12",
+   "title": "12. remain, take place, It is said that……",
+   "focus": "listening",
+   "newItems": [
+    "u59.remain",
+    "u59.take-place",
+    "u59.it-is-said-that",
+    "u59.he-is-believed-to-be",
+    "u59.it-has-been-reported-that"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.remain",
+      "u59.take-place"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.it-is-said-that",
+      "u59.he-is-believed-to-be"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u59.it-has-been-reported-that"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.remain",
+      "u59.take-place",
+      "u59.it-is-said-that",
+      "u59.he-is-believed-to-be",
+      "u59.it-has-been-reported-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.remain",
+      "u59.take-place",
+      "u59.it-is-said-that",
+      "u59.he-is-believed-to-be",
+      "u59.it-has-been-reported-that"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.remain",
+      "u59.take-place",
+      "u59.it-is-said-that",
+      "u59.he-is-believed-to-be",
+      "u59.it-has-been-reported-that"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.poll",
+      "u59.survey",
+      "u59.statistics",
+      "u59.majority",
+      "u59.minority",
+      "u59.increase-sharply"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-l13",
+   "title": "13. The suspect was arrested, Talks are being held",
+   "focus": "listening",
+   "newItems": [
+    "u59.the-suspect-was-arrested",
+    "u59.talks-are-being-held"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u59.the-suspect-was-arrested",
+      "u59.talks-are-being-held"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.the-suspect-was-arrested",
+      "u59.talks-are-being-held"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.the-suspect-was-arrested",
+      "u59.talks-are-being-held"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.the-suspect-was-arrested",
+      "u59.talks-are-being-held"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.increase-sharply",
+      "u59.remain",
+      "u59.take-place",
+      "u59.it-is-said-that",
+      "u59.he-is-believed-to-be",
+      "u59.it-has-been-reported-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u59-noticias-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Cómo leer una noticia con ojo crítico",
+     "emoji": "🧐",
+     "paragraphs": [
+      {
+       "en": "Every day we are bombarded with headlines, but not all of them are reliable.",
+       "es": "Cada día nos bombardean con titulares, pero no todos son confiables."
+      },
+      {
+       "en": "First, check who wrote the article and when it was published.",
+       "es": "Primero, revisa quién escribió el artículo y cuándo fue publicado."
+      },
+      {
+       "en": "Second, notice the language. Words like \"allegedly\" or \"reportedly\" mean that the information hasn't been confirmed.",
+       "es": "Segundo, fíjate en el lenguaje. Palabras como \"supuestamente\" o \"según informes\" significan que la información no ha sido confirmada."
+      },
+      {
+       "en": "Third, ask yourself whether the article is objective or biased. Does it present different points of view?",
+       "es": "Tercero, pregúntate si el artículo es objetivo o parcializado. ¿Presenta distintos puntos de vista?"
+      },
+      {
+       "en": "Finally, compare the coverage in several media outlets before you form an opinion.",
+       "es": "Por último, compara el cubrimiento en varios medios antes de formarte una opinión."
+      },
+      {
+       "en": "In a world full of misinformation, critical reading is one of the most valuable skills you can develop.",
+       "es": "En un mundo lleno de desinformación, la lectura crítica es una de las habilidades más valiosas que puedes desarrollar."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué significa 'allegedly'?",
+       "options": [
+        "Que la información está confirmada",
+        "Que la información no ha sido confirmada",
+        "Que es una opinión"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué recomienda hacer antes de formarse una opinión?",
+       "options": [
+        "Compartir la noticia",
+        "Comparar el cubrimiento en varios medios",
+        "Leer solo el titular"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "Según el texto, ¿qué habilidad es muy valiosa?",
+       "options": [
+        "La lectura crítica",
+        "Escribir rápido",
+        "Usar redes sociales"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Resumir una noticia",
+     "scene": "🗞️ Tu jefa no vio las noticias y te pregunta qué pasó.",
+     "turns": [
+      {
+       "who": "Boss",
+       "en": "What happened in the city center this morning?",
+       "es": "¿Qué pasó en el centro esta mañana?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "There was a protest. Thousands of workers went on strike.",
+         "es": "Hubo una protesta. Miles de trabajadores se fueron a huelga.",
+         "ok": true
+        },
+        {
+         "en": "There was protested a strike.",
+         "es": "Hubo protestado una huelga.",
+         "ok": false,
+         "why": "Frase mal construida."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Was anybody hurt?",
+       "es": "¿Hubo heridos?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "It's been reported that a few people were slightly injured.",
+         "es": "Se ha informado que unas pocas personas resultaron levemente heridas.",
+         "ok": true
+        },
+        {
+         "en": "It has reported that people injured.",
+         "es": "Ha informado que gente hirió.",
+         "ok": false,
+         "why": "Falta la pasiva: \"It has been reported… were injured\"."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "What does the government say?",
+       "es": "¿Qué dice el gobierno?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "A spokesperson said talks are being held with the unions.",
+         "es": "Un vocero dijo que se están llevando a cabo conversaciones con los sindicatos.",
+         "ok": true
+        },
+        {
+         "en": "The government is said nothing.",
+         "es": "El gobierno es dicho nada.",
+         "ok": false,
+         "why": "Se dice \"The government hasn't said anything\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Se dice que el alcalde va a renunciar.",
+     "en": "It is said that the mayor will resign.",
+     "accept": [
+      "It's said that the mayor will resign.",
+      "The mayor is said to be resigning.",
+      "It is said that the mayor is going to resign."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "La carretera está siendo reparada.",
+     "en": "The road is being repaired."
+    },
+    {
+     "type": "write",
+     "es": "Diez personas han sido rescatadas.",
+     "en": "Ten people have been rescued."
+    },
+    {
+     "type": "dictation",
+     "en": "The results will be announced tomorrow morning.",
+     "es": "Los resultados se anunciarán mañana por la mañana."
+    },
+    {
+     "type": "dictation",
+     "en": "According to eyewitnesses, the fire started at midnight.",
+     "es": "Según testigos, el incendio empezó a la medianoche."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u59.increase-sharply",
+      "u59.remain",
+      "u59.take-place",
+      "u59.it-is-said-that",
+      "u59.he-is-believed-to-be",
+      "u59.it-has-been-reported-that",
+      "u59.the-suspect-was-arrested",
+      "u59.talks-are-being-held"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -42,27 +42,72 @@ export async function listVoices(): Promise<{ name: string; lang: string }[]> {
   return get().map((v) => ({ name: v.name, lang: v.lang }));
 }
 
-export async function speak(text: string, opts: { rate?: number; voiceName?: string } = {}): Promise<void> {
-  const rate = opts.rate ?? 0.85;
+/** Configuración global de voz (la fija el estado de la app cuando cambian los Ajustes). */
+const voiceConfig = { multiVoice: true, naturalSpeed: false };
+export function setVoiceConfig(c: Partial<typeof voiceConfig>) { Object.assign(voiceConfig, c); }
+
+function hash(s: string): number {
+  let h = 0;
+  for (const ch of s.toLowerCase()) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  return h;
+}
+
+/** Elige una voz distinta para cada personaje, variando acentos (EE. UU., Reino Unido, Australia…). */
+function pickWebVoice(voices: SpeechSynthesisVoice[], opts: SpeakOpts): SpeechSynthesisVoice | undefined {
+  const en = voices.filter((v) => v.lang.startsWith('en'));
+  const chosen = en.find((v) => v.name === opts.voiceName);
+  const fallback = chosen ?? en.find((v) => v.lang === 'en-US') ?? en[0];
+  if (!opts.speaker || !voiceConfig.multiVoice || opts.speaker === 'Tú') return fallback;
+  const others = en.filter((v) => v !== fallback);
+  if (!others.length) return fallback;
+  return others[hash(opts.speaker) % others.length];
+}
+
+export interface SpeakOpts {
+  rate?: number;
+  voiceName?: string;
+  /** Nombre del personaje: cada uno suena con una voz distinta. */
+  speaker?: string;
+  /** Audio a velocidad natural (escucha real), si está activado en Ajustes. */
+  natural?: boolean;
+}
+
+let nativeVoices: { name: string; lang: string; index: number }[] | null = null;
+
+export async function speak(text: string, opts: SpeakOpts = {}): Promise<void> {
+  const rate = opts.natural && voiceConfig.naturalSpeed ? 1.0 : opts.rate ?? 0.85;
   stopSpeaking();
   const m = await loadManifest();
-  const file = m?.[audioKey(text)];
+  const key = audioKey(text);
+  const file = (opts.speaker && voiceConfig.multiVoice ? m?.[`${opts.speaker.toLowerCase()}|${key}`] : undefined) ?? m?.[key];
   if (file) {
     current = new Audio(`./audio/${file}`);
-    current.playbackRate = Math.max(0.5, Math.min(1.2, rate / 0.85));
-    await current.play().catch(() => undefined);
+    current.playbackRate = Math.max(0.5, Math.min(1.3, rate / 0.9));
+    await new Promise<void>((resolve) => {
+      if (!current) return resolve();
+      current.onended = () => resolve();
+      current.onerror = () => resolve();
+      current.play().catch(() => resolve());
+    });
     return;
   }
   if (isNative) {
-    await TextToSpeech.speak({ text, lang: 'en-US', rate, pitch: 1, volume: 1, category: 'playback' }).catch(() => undefined);
+    let voice: number | undefined;
+    if (opts.speaker && voiceConfig.multiVoice && opts.speaker !== 'Tú') {
+      if (!nativeVoices) {
+        const { voices } = await TextToSpeech.getSupportedVoices().catch(() => ({ voices: [] as { name: string; lang: string }[] }));
+        nativeVoices = voices.map((v, index) => ({ name: v.name, lang: v.lang, index })).filter((v) => v.lang.startsWith('en'));
+      }
+      if (nativeVoices.length > 1) voice = nativeVoices[hash(opts.speaker) % nativeVoices.length].index;
+    }
+    await TextToSpeech.speak({ text, lang: 'en-US', rate, pitch: 1, volume: 1, category: 'playback', voice }).catch(() => undefined);
     return;
   }
   if (!('speechSynthesis' in window)) return;
   const u = new SpeechSynthesisUtterance(text);
-  u.lang = 'en-US';
+  const voice = pickWebVoice(speechSynthesis.getVoices(), opts);
+  u.lang = voice?.lang ?? 'en-US';
   u.rate = rate;
-  const voices = speechSynthesis.getVoices();
-  const voice = voices.find((v) => v.name === opts.voiceName) ?? voices.find((v) => v.lang === 'en-US') ?? voices.find((v) => v.lang.startsWith('en'));
   if (voice) u.voice = voice;
   await new Promise<void>((resolve) => {
     u.onend = () => resolve();

@@ -1,0 +1,1331 @@
+{
+ "_generated": true,
+ "id": "u31-tareas",
+ "level": "A2",
+ "title": "La casa y las obligaciones",
+ "emoji": "🧹",
+ "canDo": "Ya puedo hablar de las tareas de la casa y de lo que tengo que hacer",
+ "summary": "Oficios de la casa y have to / don't have to para obligaciones.",
+ "grammar": [
+  "Have to / don't have to"
+ ],
+ "items": [
+  {
+   "id": "u31.do-the-dishes",
+   "en": "do the dishes",
+   "es": "lavar los platos",
+   "kind": "chunk",
+   "emoji": "🍽️"
+  },
+  {
+   "id": "u31.do-the-laundry",
+   "en": "do the laundry",
+   "es": "lavar la ropa",
+   "kind": "chunk",
+   "emoji": "🧺",
+   "say": "du de lón-dri"
+  },
+  {
+   "id": "u31.make-the-bed",
+   "en": "make the bed",
+   "es": "tender la cama",
+   "kind": "chunk",
+   "emoji": "🛏️"
+  },
+  {
+   "id": "u31.take-out-the-trash",
+   "en": "take out the trash",
+   "es": "sacar la basura",
+   "kind": "chunk",
+   "emoji": "🗑️"
+  },
+  {
+   "id": "u31.sweep-the-floor",
+   "en": "sweep the floor",
+   "es": "barrer el piso",
+   "kind": "chunk",
+   "emoji": "🧹"
+  },
+  {
+   "id": "u31.mop-the-floor",
+   "en": "mop the floor",
+   "es": "trapear el piso",
+   "kind": "chunk",
+   "emoji": "🫧"
+  },
+  {
+   "id": "u31.vacuum",
+   "en": "vacuum",
+   "es": "aspirar",
+   "kind": "word",
+   "emoji": "🌀",
+   "say": "vá-kium"
+  },
+  {
+   "id": "u31.iron",
+   "en": "iron",
+   "es": "planchar",
+   "kind": "word",
+   "emoji": "👔",
+   "say": "ái-ron"
+  },
+  {
+   "id": "u31.dust",
+   "en": "dust",
+   "es": "sacudir el polvo",
+   "kind": "word",
+   "emoji": "🪶",
+   "say": "dast"
+  },
+  {
+   "id": "u31.water-the-plants",
+   "en": "water the plants",
+   "es": "regar las plantas",
+   "kind": "chunk",
+   "emoji": "🪴"
+  },
+  {
+   "id": "u31.feed-the-dog",
+   "en": "feed the dog",
+   "es": "darle comida al perro",
+   "kind": "chunk",
+   "emoji": "🐕"
+  },
+  {
+   "id": "u31.walk-the-dog",
+   "en": "walk the dog",
+   "es": "sacar a pasear al perro",
+   "kind": "chunk",
+   "emoji": "🦮"
+  },
+  {
+   "id": "u31.set-the-table",
+   "en": "set the table",
+   "es": "poner la mesa",
+   "kind": "chunk",
+   "emoji": "🍴"
+  },
+  {
+   "id": "u31.tidy-up",
+   "en": "tidy up",
+   "es": "ordenar",
+   "kind": "chunk",
+   "emoji": "🧸",
+   "say": "tái-di ap"
+  },
+  {
+   "id": "u31.wash",
+   "en": "wash",
+   "es": "lavar",
+   "kind": "word",
+   "emoji": "🫧",
+   "say": "uosh"
+  },
+  {
+   "id": "u31.fold",
+   "en": "fold",
+   "es": "doblar",
+   "kind": "word",
+   "emoji": "👕",
+   "say": "fóuld"
+  },
+  {
+   "id": "u31.fix",
+   "en": "fix",
+   "es": "arreglar",
+   "kind": "word",
+   "emoji": "🔧",
+   "say": "fiks"
+  },
+  {
+   "id": "u31.paint-the-walls",
+   "en": "paint the walls",
+   "es": "pintar las paredes",
+   "kind": "chunk",
+   "emoji": "🎨"
+  },
+  {
+   "id": "u31.grocery-shopping",
+   "en": "grocery shopping",
+   "es": "hacer mercado",
+   "kind": "chunk",
+   "emoji": "🛒",
+   "say": "gróu-se-ri"
+  },
+  {
+   "id": "u31.chores",
+   "en": "chores",
+   "es": "oficios / quehaceres",
+   "kind": "word",
+   "emoji": "📋",
+   "say": "chors"
+  },
+  {
+   "id": "u31.messy",
+   "en": "messy",
+   "es": "desordenado",
+   "kind": "word",
+   "emoji": "🌪️",
+   "say": "mé-si"
+  },
+  {
+   "id": "u31.tidy",
+   "en": "tidy",
+   "es": "ordenado",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "tái-di"
+  },
+  {
+   "id": "u31.dishwasher",
+   "en": "dishwasher",
+   "es": "lavaplatos (máquina)",
+   "kind": "word",
+   "emoji": "🍽️"
+  },
+  {
+   "id": "u31.washing-machine",
+   "en": "washing machine",
+   "es": "lavadora",
+   "kind": "chunk",
+   "emoji": "🧺"
+  },
+  {
+   "id": "u31.broom",
+   "en": "broom",
+   "es": "escoba",
+   "kind": "word",
+   "emoji": "🧹",
+   "say": "brum"
+  },
+  {
+   "id": "u31.bucket",
+   "en": "bucket",
+   "es": "balde",
+   "kind": "word",
+   "emoji": "🪣",
+   "say": "bá-ket"
+  },
+  {
+   "id": "u31.soap",
+   "en": "soap",
+   "es": "jabón",
+   "kind": "word",
+   "emoji": "🧼",
+   "say": "sóup"
+  },
+  {
+   "id": "u31.sponge",
+   "en": "sponge",
+   "es": "esponja",
+   "kind": "word",
+   "emoji": "🧽",
+   "say": "spanch"
+  },
+  {
+   "id": "u31.trash-can",
+   "en": "trash can",
+   "es": "caneca de basura",
+   "kind": "chunk",
+   "emoji": "🗑️"
+  },
+  {
+   "id": "u31.i-have-to-work",
+   "en": "I have to work",
+   "es": "Tengo que trabajar",
+   "kind": "chunk",
+   "emoji": "💼"
+  },
+  {
+   "id": "u31.she-has-to-study",
+   "en": "She has to study",
+   "es": "Ella tiene que estudiar",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u31.you-don-t-have-to-come",
+   "en": "You don't have to come",
+   "es": "No tienes que venir",
+   "kind": "chunk",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u31.do-i-have-to-pay",
+   "en": "Do I have to pay?",
+   "es": "¿Tengo que pagar?",
+   "kind": "chunk",
+   "emoji": "💵"
+  },
+  {
+   "id": "u31.it-s-your-turn",
+   "en": "It's your turn",
+   "es": "Es tu turno",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u31.help-out",
+   "en": "help out",
+   "es": "echar una mano",
+   "kind": "chunk",
+   "emoji": "🖐️"
+  },
+  {
+   "id": "u31.roommate",
+   "en": "roommate",
+   "es": "compañero de apartamento",
+   "kind": "word",
+   "emoji": "🏠",
+   "say": "rúum-meit"
+  },
+  {
+   "id": "u31.landlord",
+   "en": "landlord",
+   "es": "arrendador / dueño",
+   "kind": "word",
+   "emoji": "🔑",
+   "say": "lánd-lord"
+  },
+  {
+   "id": "u31.rent",
+   "en": "rent",
+   "es": "arriendo",
+   "kind": "word",
+   "emoji": "💲",
+   "say": "rent"
+  },
+  {
+   "id": "u31.bills",
+   "en": "bills",
+   "es": "cuentas / facturas",
+   "kind": "word",
+   "emoji": "🧾",
+   "say": "bils"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u31-tareas-l1",
+   "title": "1. do the dishes, do the laundry, make the bed…",
+   "focus": "listening",
+   "newItems": [
+    "u31.do-the-dishes",
+    "u31.do-the-laundry",
+    "u31.make-the-bed",
+    "u31.take-out-the-trash"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.do-the-dishes",
+      "u31.do-the-laundry"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.make-the-bed",
+      "u31.take-out-the-trash"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.do-the-dishes",
+      "u31.do-the-laundry",
+      "u31.make-the-bed",
+      "u31.take-out-the-trash"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.do-the-dishes",
+      "u31.do-the-laundry",
+      "u31.make-the-bed",
+      "u31.take-out-the-trash"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l2",
+   "title": "2. sweep the floor, mop the floor, vacuum…",
+   "focus": "grammar",
+   "newItems": [
+    "u31.sweep-the-floor",
+    "u31.mop-the-floor",
+    "u31.vacuum",
+    "u31.iron"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.sweep-the-floor",
+      "u31.mop-the-floor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.vacuum",
+      "u31.iron"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.sweep-the-floor",
+      "u31.mop-the-floor",
+      "u31.vacuum",
+      "u31.iron"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.sweep-the-floor",
+      "u31.mop-the-floor",
+      "u31.vacuum",
+      "u31.iron"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.do-the-dishes",
+      "u31.do-the-laundry",
+      "u31.make-the-bed",
+      "u31.take-out-the-trash"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "have to / don't have to",
+     "intro": "Lee lo que estas personas deben y no deben hacer.",
+     "examples": [
+      {
+       "en": "I have to do the dishes every night.",
+       "es": "Tengo que lavar los platos todas las noches.",
+       "mark": [
+        "have to"
+       ]
+      },
+      {
+       "en": "She has to take out the trash.",
+       "es": "Ella tiene que sacar la basura.",
+       "mark": [
+        "has to"
+       ]
+      },
+      {
+       "en": "We don't have to cook today.",
+       "es": "Hoy no tenemos que cocinar.",
+       "mark": [
+        "don't have to"
+       ]
+      },
+      {
+       "en": "He doesn't have to work on Sundays.",
+       "es": "Él no tiene que trabajar los domingos.",
+       "mark": [
+        "doesn't have to"
+       ]
+      },
+      {
+       "en": "Do you have to pay rent?",
+       "es": "¿Tienes que pagar arriendo?",
+       "mark": [
+        "have to"
+       ]
+      }
+     ],
+     "question": "¿Qué significa don't have to?",
+     "options": [
+      "Está prohibido",
+      "No es necesario",
+      "Lo hice ayer"
+     ],
+     "answer": 1,
+     "rule": "have to = tener que (obligación). Con he/she/it: has to. Ojo: don't have to NO significa 'prohibido', significa 'no es necesario': You don't have to come = no tienes que venir (si quieres, vienes).",
+     "ruleExamples": [
+      {
+       "en": "I have to clean my room, but I don't have to do it today.",
+       "es": "Tengo que limpiar mi cuarto, pero no tengo que hacerlo hoy."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "My brother ___ to walk the dog.",
+     "options": [
+      "have",
+      "has"
+     ],
+     "answer": 1,
+     "es": "Mi hermano tiene que sacar al perro."
+    },
+    {
+     "type": "fill",
+     "en": "You ___ have to come. It's optional.",
+     "options": [
+      "don't",
+      "doesn't"
+     ],
+     "answer": 0,
+     "es": "No tienes que venir. Es opcional."
+    },
+    {
+     "type": "fill",
+     "en": "___ we have to pay for the water?",
+     "options": [
+      "Do",
+      "Does"
+     ],
+     "answer": 0,
+     "es": "¿Tenemos que pagar el agua?"
+    },
+    {
+     "type": "fill",
+     "en": "She doesn't have ___ iron her clothes.",
+     "options": [
+      "to",
+      "—"
+     ],
+     "answer": 0,
+     "es": "Ella no tiene que planchar su ropa."
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l3",
+   "title": "3. dust, water the plants, feed the dog…",
+   "focus": "reading",
+   "newItems": [
+    "u31.dust",
+    "u31.water-the-plants",
+    "u31.feed-the-dog",
+    "u31.walk-the-dog"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.dust",
+      "u31.water-the-plants"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.feed-the-dog",
+      "u31.walk-the-dog"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.dust",
+      "u31.water-the-plants",
+      "u31.feed-the-dog",
+      "u31.walk-the-dog"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.dust",
+      "u31.water-the-plants",
+      "u31.feed-the-dog",
+      "u31.walk-the-dog"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.make-the-bed",
+      "u31.take-out-the-trash",
+      "u31.sweep-the-floor",
+      "u31.mop-the-floor",
+      "u31.vacuum",
+      "u31.iron"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l4",
+   "title": "4. set the table, tidy up, wash…",
+   "focus": "listening",
+   "newItems": [
+    "u31.set-the-table",
+    "u31.tidy-up",
+    "u31.wash",
+    "u31.fold"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.set-the-table",
+      "u31.tidy-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.wash",
+      "u31.fold"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.set-the-table",
+      "u31.tidy-up",
+      "u31.wash",
+      "u31.fold"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.set-the-table",
+      "u31.tidy-up",
+      "u31.wash",
+      "u31.fold"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.vacuum",
+      "u31.iron",
+      "u31.dust",
+      "u31.water-the-plants",
+      "u31.feed-the-dog",
+      "u31.walk-the-dog"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l5",
+   "title": "5. fix, paint the walls, grocery shopping…",
+   "focus": "listening",
+   "newItems": [
+    "u31.fix",
+    "u31.paint-the-walls",
+    "u31.grocery-shopping",
+    "u31.chores"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.fix",
+      "u31.paint-the-walls"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.grocery-shopping",
+      "u31.chores"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.fix",
+      "u31.paint-the-walls",
+      "u31.grocery-shopping",
+      "u31.chores"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.fix",
+      "u31.paint-the-walls",
+      "u31.grocery-shopping",
+      "u31.chores"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.feed-the-dog",
+      "u31.walk-the-dog",
+      "u31.set-the-table",
+      "u31.tidy-up",
+      "u31.wash",
+      "u31.fold"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l6",
+   "title": "6. messy, tidy, dishwasher…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u31.messy",
+    "u31.tidy",
+    "u31.dishwasher",
+    "u31.washing-machine"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.messy",
+      "u31.tidy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.dishwasher",
+      "u31.washing-machine"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.messy",
+      "u31.tidy",
+      "u31.dishwasher",
+      "u31.washing-machine"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.messy",
+      "u31.tidy",
+      "u31.dishwasher",
+      "u31.washing-machine"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.wash",
+      "u31.fold",
+      "u31.fix",
+      "u31.paint-the-walls",
+      "u31.grocery-shopping",
+      "u31.chores"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l7",
+   "title": "7. broom, bucket, soap…",
+   "focus": "reading",
+   "newItems": [
+    "u31.broom",
+    "u31.bucket",
+    "u31.soap",
+    "u31.sponge"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.broom",
+      "u31.bucket"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.soap",
+      "u31.sponge"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.broom",
+      "u31.bucket",
+      "u31.soap",
+      "u31.sponge"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.broom",
+      "u31.bucket",
+      "u31.soap",
+      "u31.sponge"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.grocery-shopping",
+      "u31.chores",
+      "u31.messy",
+      "u31.tidy",
+      "u31.dishwasher",
+      "u31.washing-machine"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l8",
+   "title": "8. trash can, I have to work, She has to study…",
+   "focus": "listening",
+   "newItems": [
+    "u31.trash-can",
+    "u31.i-have-to-work",
+    "u31.she-has-to-study",
+    "u31.you-don-t-have-to-come"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.trash-can",
+      "u31.i-have-to-work"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.she-has-to-study",
+      "u31.you-don-t-have-to-come"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.trash-can",
+      "u31.i-have-to-work",
+      "u31.she-has-to-study",
+      "u31.you-don-t-have-to-come"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.trash-can",
+      "u31.i-have-to-work",
+      "u31.she-has-to-study",
+      "u31.you-don-t-have-to-come"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.dishwasher",
+      "u31.washing-machine",
+      "u31.broom",
+      "u31.bucket",
+      "u31.soap",
+      "u31.sponge"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Repartiendo los oficios",
+     "scene": "🏠 Nuevos compañeros de apartamento.",
+     "lines": [
+      {
+       "who": "Lia",
+       "en": "OK, let's share the chores.",
+       "es": "Bueno, repartamos los oficios."
+      },
+      {
+       "who": "Sam",
+       "en": "I can do the dishes and take out the trash.",
+       "es": "Yo puedo lavar los platos y sacar la basura."
+      },
+      {
+       "who": "Lia",
+       "en": "Great. I'm going to do the laundry and water the plants.",
+       "es": "Genial. Yo voy a lavar la ropa y regar las plantas."
+      },
+      {
+       "who": "Sam",
+       "en": "Who has to clean the bathroom?",
+       "es": "¿Quién tiene que limpiar el baño?"
+      },
+      {
+       "who": "Lia",
+       "en": "We can take turns. This week it's your turn!",
+       "es": "Podemos turnarnos. ¡Esta semana es tu turno!"
+      },
+      {
+       "who": "Sam",
+       "en": "Oh no!",
+       "es": "¡Ay no!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l9",
+   "title": "9. Do I have to pay?, It's your turn, help out…",
+   "focus": "listening",
+   "newItems": [
+    "u31.do-i-have-to-pay",
+    "u31.it-s-your-turn",
+    "u31.help-out",
+    "u31.roommate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.do-i-have-to-pay",
+      "u31.it-s-your-turn"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.help-out",
+      "u31.roommate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.do-i-have-to-pay",
+      "u31.it-s-your-turn",
+      "u31.help-out",
+      "u31.roommate"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.do-i-have-to-pay",
+      "u31.it-s-your-turn",
+      "u31.help-out",
+      "u31.roommate"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.soap",
+      "u31.sponge",
+      "u31.trash-can",
+      "u31.i-have-to-work",
+      "u31.she-has-to-study",
+      "u31.you-don-t-have-to-come"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-l10",
+   "title": "10. landlord, rent, bills",
+   "focus": "vocabulary",
+   "newItems": [
+    "u31.landlord",
+    "u31.rent",
+    "u31.bills"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u31.landlord",
+      "u31.rent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u31.bills"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.landlord",
+      "u31.rent",
+      "u31.bills"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.landlord",
+      "u31.rent",
+      "u31.bills"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.she-has-to-study",
+      "u31.you-don-t-have-to-come",
+      "u31.do-i-have-to-pay",
+      "u31.it-s-your-turn",
+      "u31.help-out",
+      "u31.roommate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u31-tareas-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un sábado de oficios",
+     "emoji": "🧽",
+     "paragraphs": [
+      {
+       "en": "Every Saturday the Rojas family cleans the house together.",
+       "es": "Todos los sábados la familia Rojas limpia la casa junta."
+      },
+      {
+       "en": "Mom does the laundry and Dad vacuums the living room.",
+       "es": "Mamá lava la ropa y papá aspira la sala."
+      },
+      {
+       "en": "Ana has to make her bed and tidy up her room. It's always messy!",
+       "es": "Ana tiene que tender su cama y ordenar su cuarto. ¡Siempre está desordenado!"
+      },
+      {
+       "en": "Little Pedro doesn't have to clean, but he likes to feed the dog.",
+       "es": "El pequeño Pedro no tiene que limpiar, pero le gusta darle comida al perro."
+      },
+      {
+       "en": "At noon the house is clean and tidy.",
+       "es": "Al mediodía la casa está limpia y ordenada."
+      },
+      {
+       "en": "Then they do something fun: they go out for lunch!",
+       "es": "Luego hacen algo divertido: ¡salen a almorzar!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué hace papá?",
+       "options": [
+        "Lava la ropa",
+        "Aspira la sala",
+        "Riega las plantas"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo está siempre el cuarto de Ana?",
+       "options": [
+        "Ordenado",
+        "Desordenado",
+        "Vacío"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hacen al final?",
+       "options": [
+        "Duermen",
+        "Salen a almorzar",
+        "Ven televisión"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Hablar con el arrendador",
+     "scene": "🔑 Vas a arrendar un apartamento y tienes preguntas.",
+     "turns": [
+      {
+       "who": "Landlord",
+       "en": "The rent is six hundred thousand pesos.",
+       "es": "El arriendo es de seiscientos mil pesos."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Do I have to pay the bills too?",
+         "es": "¿También tengo que pagar los servicios?",
+         "ok": true
+        },
+        {
+         "en": "Do I has to pay the bills?",
+         "es": "¿Yo tiene que pagar los servicios?",
+         "ok": false,
+         "why": "Con I es \"have to\"."
+        }
+       ]
+      },
+      {
+       "who": "Landlord",
+       "en": "Yes, you have to pay water and electricity.",
+       "es": "Sí, tiene que pagar agua y luz."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "OK. Do I have to clean the stairs?",
+         "es": "Bueno. ¿Tengo que limpiar las escaleras?",
+         "ok": true
+        },
+        {
+         "en": "OK. I don't have to rent.",
+         "es": "Bueno. No tengo que arriendo.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      },
+      {
+       "who": "Landlord",
+       "en": "No, you don't have to. A cleaner comes every Friday.",
+       "es": "No, no tiene que hacerlo. Una señora del aseo viene todos los viernes."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Perfect. I'll take it.",
+         "es": "Perfecto. Lo tomo.",
+         "ok": true
+        },
+        {
+         "en": "Perfect. You have to take it.",
+         "es": "Perfecto. Usted tiene que tomarlo.",
+         "ok": false,
+         "why": "El que lo arrienda eres tú."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Tengo que lavar los platos.",
+     "en": "I have to do the dishes.",
+     "accept": [
+      "I have to wash the dishes."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ella no tiene que trabajar mañana.",
+     "en": "She doesn't have to work tomorrow.",
+     "accept": [
+      "She does not have to work tomorrow."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es tu turno.",
+     "en": "It's your turn.",
+     "accept": [
+      "It is your turn."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Do I have to pay the rent today?",
+     "es": "¿Tengo que pagar el arriendo hoy?"
+    },
+    {
+     "type": "dictation",
+     "en": "He has to take out the trash every night.",
+     "es": "Él tiene que sacar la basura todas las noches."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u31.you-don-t-have-to-come",
+      "u31.do-i-have-to-pay",
+      "u31.it-s-your-turn",
+      "u31.help-out",
+      "u31.roommate",
+      "u31.landlord",
+      "u31.rent",
+      "u31.bills"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

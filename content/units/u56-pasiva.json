@@ -1,0 +1,1582 @@
+{
+ "_generated": true,
+ "id": "u56-pasiva",
+ "level": "B1",
+ "title": "Cómo se hace",
+ "emoji": "🏭",
+ "canDo": "Ya puedo explicar procesos y hechos con la voz pasiva",
+ "summary": "La voz pasiva en presente y pasado para hablar de procesos, inventos e historia.",
+ "grammar": [
+  "Voz pasiva: is made / was built",
+  "by + agente"
+ ],
+ "items": [
+  {
+   "id": "u56.is-made-of",
+   "en": "is made of",
+   "es": "está hecho de",
+   "kind": "chunk",
+   "emoji": "🧱"
+  },
+  {
+   "id": "u56.is-made-in",
+   "en": "is made in",
+   "es": "se fabrica en",
+   "kind": "chunk",
+   "emoji": "🏭"
+  },
+  {
+   "id": "u56.was-built",
+   "en": "was built",
+   "es": "fue construido",
+   "kind": "chunk",
+   "emoji": "🏗️"
+  },
+  {
+   "id": "u56.was-invented",
+   "en": "was invented",
+   "es": "fue inventado",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u56.was-discovered",
+   "en": "was discovered",
+   "es": "fue descubierto",
+   "kind": "chunk",
+   "emoji": "🔭"
+  },
+  {
+   "id": "u56.was-written",
+   "en": "was written",
+   "es": "fue escrito",
+   "kind": "chunk",
+   "emoji": "✍️"
+  },
+  {
+   "id": "u56.was-painted",
+   "en": "was painted",
+   "es": "fue pintado",
+   "kind": "chunk",
+   "emoji": "🎨"
+  },
+  {
+   "id": "u56.is-grown",
+   "en": "is grown",
+   "es": "se cultiva",
+   "kind": "chunk",
+   "emoji": "🌱"
+  },
+  {
+   "id": "u56.is-produced",
+   "en": "is produced",
+   "es": "se produce",
+   "kind": "chunk",
+   "emoji": "⚙️"
+  },
+  {
+   "id": "u56.is-spoken",
+   "en": "is spoken",
+   "es": "se habla",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "u56.are-sold",
+   "en": "are sold",
+   "es": "se venden",
+   "kind": "chunk",
+   "emoji": "🏷️"
+  },
+  {
+   "id": "u56.is-used",
+   "en": "is used",
+   "es": "se usa",
+   "kind": "chunk",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u56.by",
+   "en": "by",
+   "es": "por (quien hace la acción)",
+   "kind": "word",
+   "emoji": "👤"
+  },
+  {
+   "id": "u56.process",
+   "en": "process",
+   "es": "proceso",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "pró-ses"
+  },
+  {
+   "id": "u56.material",
+   "en": "material",
+   "es": "material",
+   "kind": "word",
+   "emoji": "🧵",
+   "say": "ma-tí-ri-al"
+  },
+  {
+   "id": "u56.wood",
+   "en": "wood",
+   "es": "madera",
+   "kind": "word",
+   "emoji": "🪵",
+   "say": "wud"
+  },
+  {
+   "id": "u56.metal",
+   "en": "metal",
+   "es": "metal",
+   "kind": "word",
+   "emoji": "🔩",
+   "say": "mé-tal"
+  },
+  {
+   "id": "u56.glass-material",
+   "en": "glass",
+   "es": "vidrio",
+   "kind": "word",
+   "emoji": "🪟",
+   "tip": "Aquí con el sentido de: material."
+  },
+  {
+   "id": "u56.cotton",
+   "en": "cotton",
+   "es": "algodón",
+   "kind": "word",
+   "emoji": "🧶",
+   "say": "kó-ton"
+  },
+  {
+   "id": "u56.leather",
+   "en": "leather",
+   "es": "cuero",
+   "kind": "word",
+   "emoji": "👞",
+   "say": "lé-der"
+  },
+  {
+   "id": "u56.wool",
+   "en": "wool",
+   "es": "lana",
+   "kind": "word",
+   "emoji": "🐑",
+   "say": "wul"
+  },
+  {
+   "id": "u56.rubber",
+   "en": "rubber",
+   "es": "caucho",
+   "kind": "word",
+   "emoji": "🎈",
+   "say": "rá-ber"
+  },
+  {
+   "id": "u56.paper",
+   "en": "paper",
+   "es": "papel",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "péi-per"
+  },
+  {
+   "id": "u56.steel",
+   "en": "steel",
+   "es": "acero",
+   "kind": "word",
+   "emoji": "🏗️",
+   "say": "stíil"
+  },
+  {
+   "id": "u56.gold",
+   "en": "gold",
+   "es": "oro",
+   "kind": "word",
+   "emoji": "🥇",
+   "say": "góuld"
+  },
+  {
+   "id": "u56.silver",
+   "en": "silver",
+   "es": "plata (metal)",
+   "kind": "word",
+   "emoji": "🥈",
+   "say": "síl-ver"
+  },
+  {
+   "id": "u56.machine",
+   "en": "machine",
+   "es": "máquina",
+   "kind": "word",
+   "emoji": "⚙️",
+   "say": "ma-shíin"
+  },
+  {
+   "id": "u56.worker",
+   "en": "worker",
+   "es": "trabajador",
+   "kind": "word",
+   "emoji": "👷",
+   "say": "uér-ker"
+  },
+  {
+   "id": "u56.manufacture",
+   "en": "manufacture",
+   "es": "fabricar",
+   "kind": "word",
+   "emoji": "🏭",
+   "say": "ma-niu-fák-cher"
+  },
+  {
+   "id": "u56.export",
+   "en": "export",
+   "es": "exportar",
+   "kind": "word",
+   "emoji": "📤",
+   "say": "eks-pórt"
+  },
+  {
+   "id": "u56.import",
+   "en": "import",
+   "es": "importar",
+   "kind": "word",
+   "emoji": "📥",
+   "say": "im-pórt"
+  },
+  {
+   "id": "u56.harvest",
+   "en": "harvest",
+   "es": "cosechar / cosecha",
+   "kind": "word",
+   "emoji": "🌾",
+   "say": "jár-vest"
+  },
+  {
+   "id": "u56.pick",
+   "en": "pick",
+   "es": "recoger (frutos)",
+   "kind": "word",
+   "emoji": "🫐"
+  },
+  {
+   "id": "u56.roast",
+   "en": "roast",
+   "es": "tostar",
+   "kind": "word",
+   "emoji": "☕",
+   "say": "róust"
+  },
+  {
+   "id": "u56.grind",
+   "en": "grind",
+   "es": "moler",
+   "kind": "word",
+   "emoji": "⚙️",
+   "say": "gráind"
+  },
+  {
+   "id": "u56.package-verb",
+   "en": "package",
+   "es": "empacar",
+   "kind": "word",
+   "emoji": "📦",
+   "tip": "Aquí con el sentido de: verb."
+  },
+  {
+   "id": "u56.ship-verb",
+   "en": "ship",
+   "es": "despachar / enviar",
+   "kind": "word",
+   "emoji": "🚢",
+   "tip": "Aquí con el sentido de: verb."
+  },
+  {
+   "id": "u56.design",
+   "en": "design",
+   "es": "diseñar / diseño",
+   "kind": "word",
+   "emoji": "✏️",
+   "say": "di-sáin"
+  },
+  {
+   "id": "u56.create",
+   "en": "create",
+   "es": "crear",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "kri-éit"
+  },
+  {
+   "id": "u56.arrest",
+   "en": "arrest",
+   "es": "arrestar",
+   "kind": "word",
+   "emoji": "🚔",
+   "say": "a-rést"
+  },
+  {
+   "id": "u56.found-establish",
+   "en": "found",
+   "es": "fundar",
+   "kind": "word",
+   "emoji": "🏛️",
+   "tip": "Aquí con el sentido de: establish."
+  },
+  {
+   "id": "u56.the-wheel",
+   "en": "the Wheel",
+   "es": "la rueda",
+   "kind": "chunk",
+   "emoji": "🛞"
+  },
+  {
+   "id": "u56.the-printing-press",
+   "en": "the printing press",
+   "es": "la imprenta",
+   "kind": "chunk",
+   "emoji": "📰"
+  },
+  {
+   "id": "u56.penicillin",
+   "en": "penicillin",
+   "es": "penicilina",
+   "kind": "word",
+   "emoji": "💉",
+   "say": "pe-ni-sí-lin"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u56-pasiva-l1",
+   "title": "1. is made of, is made in, was built…",
+   "focus": "listening",
+   "newItems": [
+    "u56.is-made-of",
+    "u56.is-made-in",
+    "u56.was-built",
+    "u56.was-invented"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.is-made-of",
+      "u56.is-made-in"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.was-built",
+      "u56.was-invented"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.is-made-of",
+      "u56.is-made-in",
+      "u56.was-built",
+      "u56.was-invented"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.is-made-of",
+      "u56.is-made-in",
+      "u56.was-built",
+      "u56.was-invented"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.is-made-of",
+      "u56.is-made-in",
+      "u56.was-built",
+      "u56.was-invented"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l2",
+   "title": "2. was discovered, was written, was painted…",
+   "focus": "grammar",
+   "newItems": [
+    "u56.was-discovered",
+    "u56.was-written",
+    "u56.was-painted",
+    "u56.is-grown"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.was-discovered",
+      "u56.was-written"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.was-painted",
+      "u56.is-grown"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.was-discovered",
+      "u56.was-written",
+      "u56.was-painted",
+      "u56.is-grown"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.was-discovered",
+      "u56.was-written",
+      "u56.was-painted",
+      "u56.is-grown"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.was-discovered",
+      "u56.was-written",
+      "u56.was-painted",
+      "u56.is-grown"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.is-made-of",
+      "u56.is-made-in",
+      "u56.was-built",
+      "u56.was-invented"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "La voz pasiva",
+     "intro": "Compara: ¿importa quién lo hace, o importa la cosa?",
+     "examples": [
+      {
+       "en": "Colombia produces coffee. → Coffee is produced in Colombia.",
+       "es": "Colombia produce café. → El café se produce en Colombia.",
+       "mark": [
+        "is produced"
+       ]
+      },
+      {
+       "en": "People speak Spanish here. → Spanish is spoken here.",
+       "es": "La gente habla español aquí. → Aquí se habla español.",
+       "mark": [
+        "is spoken"
+       ]
+      },
+      {
+       "en": "Edison invented the light bulb. → The light bulb was invented by Edison.",
+       "es": "Edison inventó el bombillo. → El bombillo fue inventado por Edison.",
+       "mark": [
+        "was invented"
+       ]
+      },
+      {
+       "en": "The workers built the bridge in 1990. → The bridge was built in 1990.",
+       "es": "Los obreros construyeron el puente en 1990. → El puente fue construido en 1990.",
+       "mark": [
+        "was built"
+       ]
+      }
+     ],
+     "question": "¿Cómo se forma la voz pasiva?",
+     "options": [
+      "be (is/was) + participio",
+      "do + verbo",
+      "will + verbo"
+     ],
+     "answer": 0,
+     "rule": "La VOZ PASIVA pone el foco en la cosa, no en quien hace la acción: be + participio (is made, was built). Presente: is/are + participio. Pasado: was/were + participio. Si quieres decir quién lo hizo, usa by. En español muchas veces la traducimos con 'se': Spanish is spoken = se habla español.",
+     "ruleExamples": [
+      {
+       "en": "These shoes are made of leather. They were made in Italy.",
+       "es": "Estos zapatos son de cuero. Fueron hechos en Italia."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Coffee ___ grown in the mountains.",
+     "options": [
+      "is",
+      "are"
+     ],
+     "answer": 0,
+     "es": "El café se cultiva en las montañas."
+    },
+    {
+     "type": "fill",
+     "en": "The bridge ___ built in 1995.",
+     "options": [
+      "was",
+      "is"
+     ],
+     "answer": 0,
+     "es": "El puente fue construido en 1995."
+    },
+    {
+     "type": "fill",
+     "en": "This book was written ___ Gabriel García Márquez.",
+     "options": [
+      "by",
+      "for"
+     ],
+     "answer": 0,
+     "es": "Este libro fue escrito por Gabriel García Márquez."
+    },
+    {
+     "type": "fill",
+     "en": "These phones ___ made in China.",
+     "options": [
+      "are",
+      "is"
+     ],
+     "answer": 0,
+     "es": "Estos celulares se fabrican en China."
+    },
+    {
+     "type": "fill",
+     "en": "My bike ___ stolen last night!",
+     "options": [
+      "was",
+      "were"
+     ],
+     "answer": 0,
+     "es": "¡Me robaron la bicicleta anoche!"
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l3",
+   "title": "3. is produced, is spoken, are sold…",
+   "focus": "reading",
+   "newItems": [
+    "u56.is-produced",
+    "u56.is-spoken",
+    "u56.are-sold",
+    "u56.is-used"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.is-produced",
+      "u56.is-spoken"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.are-sold",
+      "u56.is-used"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.is-produced",
+      "u56.is-spoken",
+      "u56.are-sold",
+      "u56.is-used"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.is-produced",
+      "u56.is-spoken",
+      "u56.are-sold",
+      "u56.is-used"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.is-produced",
+      "u56.is-spoken",
+      "u56.are-sold",
+      "u56.is-used"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.was-built",
+      "u56.was-invented",
+      "u56.was-discovered",
+      "u56.was-written",
+      "u56.was-painted",
+      "u56.is-grown"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l4",
+   "title": "4. by, process, material…",
+   "focus": "listening",
+   "newItems": [
+    "u56.by",
+    "u56.process",
+    "u56.material",
+    "u56.wood"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.by",
+      "u56.process"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.material",
+      "u56.wood"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.by",
+      "u56.process",
+      "u56.material",
+      "u56.wood"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.by",
+      "u56.process",
+      "u56.material",
+      "u56.wood"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.by",
+      "u56.process",
+      "u56.material",
+      "u56.wood"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.was-painted",
+      "u56.is-grown",
+      "u56.is-produced",
+      "u56.is-spoken",
+      "u56.are-sold",
+      "u56.is-used"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l5",
+   "title": "5. metal, glass, cotton…",
+   "focus": "listening",
+   "newItems": [
+    "u56.metal",
+    "u56.glass-material",
+    "u56.cotton",
+    "u56.leather"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.metal",
+      "u56.glass-material"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.cotton",
+      "u56.leather"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.metal",
+      "u56.glass-material",
+      "u56.cotton",
+      "u56.leather"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.metal",
+      "u56.glass-material",
+      "u56.cotton",
+      "u56.leather"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.metal",
+      "u56.glass-material",
+      "u56.cotton",
+      "u56.leather"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.are-sold",
+      "u56.is-used",
+      "u56.by",
+      "u56.process",
+      "u56.material",
+      "u56.wood"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l6",
+   "title": "6. wool, rubber, paper…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u56.wool",
+    "u56.rubber",
+    "u56.paper",
+    "u56.steel"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.wool",
+      "u56.rubber"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.paper",
+      "u56.steel"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.wool",
+      "u56.rubber",
+      "u56.paper",
+      "u56.steel"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.wool",
+      "u56.rubber",
+      "u56.paper",
+      "u56.steel"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.wool",
+      "u56.rubber",
+      "u56.paper",
+      "u56.steel"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.material",
+      "u56.wood",
+      "u56.metal",
+      "u56.glass-material",
+      "u56.cotton",
+      "u56.leather"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l7",
+   "title": "7. gold, silver, machine…",
+   "focus": "reading",
+   "newItems": [
+    "u56.gold",
+    "u56.silver",
+    "u56.machine",
+    "u56.worker"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.gold",
+      "u56.silver"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.machine",
+      "u56.worker"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.gold",
+      "u56.silver",
+      "u56.machine",
+      "u56.worker"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.gold",
+      "u56.silver",
+      "u56.machine",
+      "u56.worker"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.gold",
+      "u56.silver",
+      "u56.machine",
+      "u56.worker"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.cotton",
+      "u56.leather",
+      "u56.wool",
+      "u56.rubber",
+      "u56.paper",
+      "u56.steel"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l8",
+   "title": "8. manufacture, export, import…",
+   "focus": "listening",
+   "newItems": [
+    "u56.manufacture",
+    "u56.export",
+    "u56.import",
+    "u56.harvest"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.manufacture",
+      "u56.export"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.import",
+      "u56.harvest"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.manufacture",
+      "u56.export",
+      "u56.import",
+      "u56.harvest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.manufacture",
+      "u56.export",
+      "u56.import",
+      "u56.harvest"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.manufacture",
+      "u56.export",
+      "u56.import",
+      "u56.harvest"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.paper",
+      "u56.steel",
+      "u56.gold",
+      "u56.silver",
+      "u56.machine",
+      "u56.worker"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Visita a una finca cafetera",
+     "scene": "☕ Un guía explica el proceso del café.",
+     "lines": [
+      {
+       "who": "Guide",
+       "en": "Welcome to the farm! The coffee is grown on these hills.",
+       "es": "¡Bienvenidos a la finca! El café se cultiva en estas lomas."
+      },
+      {
+       "who": "Tourist",
+       "en": "When is it harvested?",
+       "es": "¿Cuándo se cosecha?"
+      },
+      {
+       "who": "Guide",
+       "en": "Twice a year. The beans are picked by hand, one by one.",
+       "es": "Dos veces al año. Los granos se recogen a mano, uno por uno."
+      },
+      {
+       "who": "Tourist",
+       "en": "And then?",
+       "es": "¿Y después?"
+      },
+      {
+       "who": "Guide",
+       "en": "They're washed and dried in the sun. Then they're roasted and ground.",
+       "es": "Se lavan y se secan al sol. Luego se tuestan y se muelen."
+      },
+      {
+       "who": "Tourist",
+       "en": "Is all the coffee exported?",
+       "es": "¿Todo el café se exporta?"
+      },
+      {
+       "who": "Guide",
+       "en": "Most of it is exported, but the best part is drunk right here!",
+       "es": "La mayoría se exporta, ¡pero la mejor parte se toma aquí mismo!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l9",
+   "title": "9. pick, roast, grind…",
+   "focus": "listening",
+   "newItems": [
+    "u56.pick",
+    "u56.roast",
+    "u56.grind",
+    "u56.package-verb"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.pick",
+      "u56.roast"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.grind",
+      "u56.package-verb"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.pick",
+      "u56.roast",
+      "u56.grind",
+      "u56.package-verb"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.pick",
+      "u56.roast",
+      "u56.grind",
+      "u56.package-verb"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.pick",
+      "u56.roast",
+      "u56.grind",
+      "u56.package-verb"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.machine",
+      "u56.worker",
+      "u56.manufacture",
+      "u56.export",
+      "u56.import",
+      "u56.harvest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l10",
+   "title": "10. ship, design, create…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u56.ship-verb",
+    "u56.design",
+    "u56.create",
+    "u56.arrest"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.ship-verb",
+      "u56.design"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.create",
+      "u56.arrest"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.ship-verb",
+      "u56.design",
+      "u56.create",
+      "u56.arrest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.ship-verb",
+      "u56.design",
+      "u56.create",
+      "u56.arrest"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.ship-verb",
+      "u56.design",
+      "u56.create",
+      "u56.arrest"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.import",
+      "u56.harvest",
+      "u56.pick",
+      "u56.roast",
+      "u56.grind",
+      "u56.package-verb"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-l11",
+   "title": "11. found, the Wheel, the printing press…",
+   "focus": "reading",
+   "newItems": [
+    "u56.found-establish",
+    "u56.the-wheel",
+    "u56.the-printing-press",
+    "u56.penicillin"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u56.found-establish",
+      "u56.the-wheel"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u56.the-printing-press",
+      "u56.penicillin"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.found-establish",
+      "u56.the-wheel",
+      "u56.the-printing-press",
+      "u56.penicillin"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.found-establish",
+      "u56.the-wheel",
+      "u56.the-printing-press",
+      "u56.penicillin"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.found-establish",
+      "u56.the-wheel",
+      "u56.the-printing-press",
+      "u56.penicillin"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.grind",
+      "u56.package-verb",
+      "u56.ship-verb",
+      "u56.design",
+      "u56.create",
+      "u56.arrest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u56-pasiva-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Inventos que cambiaron el mundo",
+     "emoji": "💡",
+     "paragraphs": [
+      {
+       "en": "Many things we use every day were invented a long time ago.",
+       "es": "Muchas cosas que usamos todos los días fueron inventadas hace mucho tiempo."
+      },
+      {
+       "en": "The wheel was invented about five thousand years ago in Mesopotamia.",
+       "es": "La rueda fue inventada hace unos cinco mil años en Mesopotamia."
+      },
+      {
+       "en": "The printing press was created by Johannes Gutenberg around 1440.",
+       "es": "La imprenta fue creada por Johannes Gutenberg alrededor de 1440."
+      },
+      {
+       "en": "Thanks to it, books were produced faster and knowledge was shared around the world.",
+       "es": "Gracias a ella, los libros se produjeron más rápido y el conocimiento se compartió por el mundo."
+      },
+      {
+       "en": "Penicillin was discovered by Alexander Fleming in 1928, almost by accident.",
+       "es": "La penicilina fue descubierta por Alexander Fleming en 1928, casi por accidente."
+      },
+      {
+       "en": "Today millions of lives are saved by antibiotics every year.",
+       "es": "Hoy millones de vidas se salvan con antibióticos cada año."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Dónde se inventó la rueda?",
+       "options": [
+        "En Egipto",
+        "En Mesopotamia",
+        "En China"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Quién creó la imprenta?",
+       "options": [
+        "Fleming",
+        "Gutenberg",
+        "Edison"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo se descubrió la penicilina?",
+       "options": [
+        "Casi por accidente",
+        "Después de 50 años de estudio",
+        "En una fábrica"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Describir un producto",
+     "scene": "🛍️ En una feria artesanal, un turista te pregunta por un bolso.",
+     "turns": [
+      {
+       "who": "Tourist",
+       "en": "This bag is beautiful. What is it made of?",
+       "es": "Este bolso es hermoso. ¿De qué está hecho?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "It's made of wool and it was woven by hand.",
+         "es": "Está hecho de lana y fue tejido a mano.",
+         "ok": true
+        },
+        {
+         "en": "It's made by wool.",
+         "es": "Está hecho por lana.",
+         "ok": false,
+         "why": "El material se dice con \"made of\"."
+        }
+       ]
+      },
+      {
+       "who": "Tourist",
+       "en": "Where was it made?",
+       "es": "¿Dónde lo hicieron?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "It was made here in Nariño by a local artisan.",
+         "es": "Lo hizo aquí en Nariño un artesano local.",
+         "ok": true
+        },
+        {
+         "en": "It was make here.",
+         "es": "Fue hacer aquí.",
+         "ok": false,
+         "why": "Se necesita el participio: \"made\"."
+        }
+       ]
+      },
+      {
+       "who": "Tourist",
+       "en": "Are these bags sold abroad?",
+       "es": "¿Estos bolsos se venden en el extranjero?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, some of them are exported to Europe.",
+         "es": "Sí, algunos se exportan a Europa.",
+         "ok": true
+        },
+        {
+         "en": "Yes, they exports to Europe.",
+         "es": "Sí, ellos exporta a Europa.",
+         "ok": false,
+         "why": "Usa la pasiva: \"they are exported\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "El café se cultiva en Colombia.",
+     "en": "Coffee is grown in Colombia."
+    },
+    {
+     "type": "write",
+     "es": "Este puente fue construido en 1990.",
+     "en": "This bridge was built in 1990."
+    },
+    {
+     "type": "write",
+     "es": "Aquí se habla inglés.",
+     "en": "English is spoken here."
+    },
+    {
+     "type": "dictation",
+     "en": "The beans are picked by hand.",
+     "es": "Los granos se recogen a mano."
+    },
+    {
+     "type": "dictation",
+     "en": "Penicillin was discovered by Alexander Fleming.",
+     "es": "La penicilina fue descubierta por Alexander Fleming."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u56.ship-verb",
+      "u56.design",
+      "u56.create",
+      "u56.arrest",
+      "u56.found-establish",
+      "u56.the-wheel",
+      "u56.the-printing-press",
+      "u56.penicillin"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

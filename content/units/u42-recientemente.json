@@ -1,0 +1,1861 @@
+{
+ "_generated": true,
+ "id": "u42-recientemente",
+ "level": "B1",
+ "title": "Lo que acaba de pasar",
+ "emoji": "⏱️",
+ "canDo": "Ya puedo hablar de lo reciente y de cuánto tiempo llevo haciendo algo",
+ "summary": "Present perfect con just, already, yet, for y since, y cuándo usar pasado simple.",
+ "grammar": [
+  "just / already / yet",
+  "for / since",
+  "Present perfect vs pasado simple"
+ ],
+ "items": [
+  {
+   "id": "u42.just",
+   "en": "just",
+   "es": "acabar de",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "yast"
+  },
+  {
+   "id": "u42.i-ve-just-arrived",
+   "en": "I've just arrived",
+   "es": "Acabo de llegar",
+   "kind": "chunk",
+   "emoji": "🛬"
+  },
+  {
+   "id": "u42.have-you-finished-yet",
+   "en": "Have you finished yet?",
+   "es": "¿Ya terminaste?",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u42.i-haven-t-decided-yet",
+   "en": "I haven't decided yet",
+   "es": "Todavía no he decidido",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u42.for",
+   "en": "for",
+   "es": "durante / desde hace (tiempo)",
+   "kind": "word",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u42.since",
+   "en": "since",
+   "es": "desde (un momento)",
+   "kind": "word",
+   "emoji": "📌",
+   "say": "sins"
+  },
+  {
+   "id": "u42.for-ten-years",
+   "en": "for ten years",
+   "es": "desde hace diez años",
+   "kind": "chunk",
+   "emoji": "🔟"
+  },
+  {
+   "id": "u42.since-2019",
+   "en": "since 2019",
+   "es": "desde 2019",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u42.since-i-was-a-child",
+   "en": "since I was a child",
+   "es": "desde que era niño",
+   "kind": "chunk",
+   "emoji": "🧒"
+  },
+  {
+   "id": "u42.how-long-have-you-lived-here",
+   "en": "How long have you lived here?",
+   "es": "¿Cuánto tiempo llevas viviendo aquí?",
+   "kind": "chunk",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u42.recently",
+   "en": "recently",
+   "es": "recientemente",
+   "kind": "word",
+   "emoji": "🆕",
+   "say": "ríi-sent-li"
+  },
+  {
+   "id": "u42.lately",
+   "en": "lately",
+   "es": "últimamente",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "léit-li"
+  },
+  {
+   "id": "u42.these-days",
+   "en": "these days",
+   "es": "estos días",
+   "kind": "chunk",
+   "emoji": "📆"
+  },
+  {
+   "id": "u42.ever-since",
+   "en": "ever since",
+   "es": "desde entonces",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u42.up-to-now",
+   "en": "up to now",
+   "es": "hasta ahora",
+   "kind": "chunk",
+   "emoji": "📍"
+  },
+  {
+   "id": "u42.change",
+   "en": "change",
+   "es": "cambiar / cambio",
+   "kind": "word",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u42.improve",
+   "en": "improve",
+   "es": "mejorar",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "im-prúuv"
+  },
+  {
+   "id": "u42.grow",
+   "en": "grow",
+   "es": "crecer",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "gróu"
+  },
+  {
+   "id": "u42.increase",
+   "en": "increase",
+   "es": "aumentar",
+   "kind": "word",
+   "emoji": "⬆️",
+   "say": "in-kríis"
+  },
+  {
+   "id": "u42.decrease",
+   "en": "decrease",
+   "es": "disminuir",
+   "kind": "word",
+   "emoji": "⬇️",
+   "say": "di-kríis"
+  },
+  {
+   "id": "u42.get-used-to",
+   "en": "get used to",
+   "es": "acostumbrarse a",
+   "kind": "chunk",
+   "emoji": "🧩"
+  },
+  {
+   "id": "u42.quit",
+   "en": "quit",
+   "es": "dejar (un hábito, un trabajo)",
+   "kind": "word",
+   "emoji": "🛑",
+   "say": "kuit"
+  },
+  {
+   "id": "u42.give-up",
+   "en": "give up",
+   "es": "rendirse / dejar",
+   "kind": "chunk",
+   "emoji": "🏳️"
+  },
+  {
+   "id": "u42.take-up",
+   "en": "take up",
+   "es": "empezar (un hobby)",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u42.lose-weight",
+   "en": "lose weight",
+   "es": "bajar de peso",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u42.gain-weight",
+   "en": "gain weight",
+   "es": "subir de peso",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u42.move-house",
+   "en": "move house",
+   "es": "mudarse de casa",
+   "kind": "chunk",
+   "emoji": "📦"
+  },
+  {
+   "id": "u42.get-a-promotion",
+   "en": "get a promotion",
+   "es": "conseguir un ascenso",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u42.graduate-from",
+   "en": "graduate from",
+   "es": "graduarse de",
+   "kind": "chunk",
+   "emoji": "🎓"
+  },
+  {
+   "id": "u42.break-up",
+   "en": "break up",
+   "es": "terminar (una relación)",
+   "kind": "chunk",
+   "emoji": "💔"
+  },
+  {
+   "id": "u42.get-engaged",
+   "en": "get engaged",
+   "es": "comprometerse",
+   "kind": "chunk",
+   "emoji": "💍"
+  },
+  {
+   "id": "u42.known",
+   "en": "known",
+   "es": "conocido / sabido (know)",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "nóun"
+  },
+  {
+   "id": "u42.had-participle",
+   "en": "had",
+   "es": "tenido (have)",
+   "kind": "word",
+   "emoji": "🤲"
+  },
+  {
+   "id": "u42.made-participle",
+   "en": "made",
+   "es": "hecho (make)",
+   "kind": "word",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u42.bought-participle",
+   "en": "bought",
+   "es": "comprado (buy)",
+   "kind": "word",
+   "emoji": "🛍️"
+  },
+  {
+   "id": "u42.found-participle",
+   "en": "found",
+   "es": "encontrado (find)",
+   "kind": "word",
+   "emoji": "🔍"
+  },
+  {
+   "id": "u42.left-participle",
+   "en": "left",
+   "es": "dejado / salido (leave)",
+   "kind": "word",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u42.sent-participle",
+   "en": "sent",
+   "es": "enviado (send)",
+   "kind": "word",
+   "emoji": "📤"
+  },
+  {
+   "id": "u42.heard-participle",
+   "en": "heard",
+   "es": "oído (hear)",
+   "kind": "word",
+   "emoji": "👂"
+  },
+  {
+   "id": "u42.told-participle",
+   "en": "told",
+   "es": "contado / dicho (tell)",
+   "kind": "word",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "u42.forgotten",
+   "en": "forgotten",
+   "es": "olvidado (forget)",
+   "kind": "word",
+   "emoji": "🤦",
+   "say": "for-gó-ten"
+  },
+  {
+   "id": "u42.chosen",
+   "en": "chosen",
+   "es": "elegido (choose)",
+   "kind": "word",
+   "emoji": "☑️",
+   "say": "chóu-sen"
+  },
+  {
+   "id": "u42.grown",
+   "en": "grown",
+   "es": "crecido (grow)",
+   "kind": "word",
+   "emoji": "🌳",
+   "say": "gróun"
+  },
+  {
+   "id": "u42.given",
+   "en": "given",
+   "es": "dado (give)",
+   "kind": "word",
+   "emoji": "🎁",
+   "say": "guí-ven"
+  },
+  {
+   "id": "u42.news-good-news",
+   "en": "news",
+   "es": "buenas noticias",
+   "kind": "word",
+   "emoji": "🎉",
+   "tip": "Aquí con el sentido de: good news."
+  },
+  {
+   "id": "u42.guess-what",
+   "en": "Guess what!",
+   "es": "¡Adivina qué!",
+   "kind": "chunk",
+   "emoji": "🤭"
+  },
+  {
+   "id": "u42.i-can-t-believe-it",
+   "en": "I can't believe it",
+   "es": "No lo puedo creer",
+   "kind": "chunk",
+   "emoji": "😲"
+  },
+  {
+   "id": "u42.it-s-been-ages",
+   "en": "It's been ages!",
+   "es": "¡Hace siglos!",
+   "kind": "chunk",
+   "emoji": "🕰️"
+  },
+  {
+   "id": "u42.long-time-no-see",
+   "en": "Long time no see!",
+   "es": "¡Tanto tiempo sin verte!",
+   "kind": "chunk",
+   "emoji": "👋"
+  },
+  {
+   "id": "u42.catch-up",
+   "en": "catch up",
+   "es": "ponerse al día",
+   "kind": "chunk",
+   "emoji": "☕"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u42-recientemente-l1",
+   "title": "1. just, I've just arrived, Have you finished yet?…",
+   "focus": "listening",
+   "newItems": [
+    "u42.just",
+    "u42.i-ve-just-arrived",
+    "u42.have-you-finished-yet",
+    "u42.i-haven-t-decided-yet"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.just",
+      "u42.i-ve-just-arrived"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.have-you-finished-yet",
+      "u42.i-haven-t-decided-yet"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.just",
+      "u42.i-ve-just-arrived",
+      "u42.have-you-finished-yet",
+      "u42.i-haven-t-decided-yet"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.just",
+      "u42.i-ve-just-arrived",
+      "u42.have-you-finished-yet",
+      "u42.i-haven-t-decided-yet"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.just",
+      "u42.i-ve-just-arrived",
+      "u42.have-you-finished-yet",
+      "u42.i-haven-t-decided-yet"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l2",
+   "title": "2. for, since, for ten years…",
+   "focus": "grammar",
+   "newItems": [
+    "u42.for",
+    "u42.since",
+    "u42.for-ten-years",
+    "u42.since-2019"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.for",
+      "u42.since"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.for-ten-years",
+      "u42.since-2019"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.for",
+      "u42.since",
+      "u42.for-ten-years",
+      "u42.since-2019"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.for",
+      "u42.since",
+      "u42.for-ten-years",
+      "u42.since-2019"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.for",
+      "u42.since",
+      "u42.for-ten-years",
+      "u42.since-2019"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.just",
+      "u42.i-ve-just-arrived",
+      "u42.have-you-finished-yet",
+      "u42.i-haven-t-decided-yet"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "just, already, yet",
+     "intro": "Tres palabras que acompañan al present perfect. Mira su lugar.",
+     "examples": [
+      {
+       "en": "I've just finished my homework.",
+       "es": "Acabo de terminar mi tarea.",
+       "mark": [
+        "just"
+       ]
+      },
+      {
+       "en": "She's already eaten.",
+       "es": "Ella ya comió.",
+       "mark": [
+        "already"
+       ]
+      },
+      {
+       "en": "Have you called him yet?",
+       "es": "¿Ya lo llamaste?",
+       "mark": [
+        "yet"
+       ]
+      },
+      {
+       "en": "I haven't paid the rent yet.",
+       "es": "Todavía no he pagado el arriendo.",
+       "mark": [
+        "yet"
+       ]
+      },
+      {
+       "en": "We've just moved house.",
+       "es": "Acabamos de mudarnos.",
+       "mark": [
+        "just"
+       ]
+      }
+     ],
+     "question": "¿Dónde va yet?",
+     "options": [
+      "Antes del verbo",
+      "Al final de la frase, en preguntas y negativos",
+      "Al principio"
+     ],
+     "answer": 1,
+     "rule": "just = acaba de pasar (va entre have y el participio). already = ya, antes de lo esperado (también en medio). yet = ya / todavía, al FINAL de preguntas y negativos. Con estas palabras el inglés prefiere el present perfect.",
+     "ruleExamples": [
+      {
+       "en": "Has the bus left yet? Yes, it's just left!",
+       "es": "¿Ya se fue el bus? ¡Sí, acaba de irse!"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I've ___ arrived. Give me a minute.",
+     "options": [
+      "just",
+      "yet"
+     ],
+     "answer": 0,
+     "es": "Acabo de llegar. Dame un minuto."
+    },
+    {
+     "type": "fill",
+     "en": "Have you finished the report ___?",
+     "options": [
+      "yet",
+      "already"
+     ],
+     "answer": 0,
+     "es": "¿Ya terminaste el informe?"
+    },
+    {
+     "type": "fill",
+     "en": "She has ___ bought the tickets.",
+     "options": [
+      "already",
+      "yet"
+     ],
+     "answer": 0,
+     "es": "Ella ya compró los boletos."
+    },
+    {
+     "type": "fill",
+     "en": "We haven't decided ___.",
+     "options": [
+      "yet",
+      "just"
+     ],
+     "answer": 0,
+     "es": "Todavía no hemos decidido."
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l3",
+   "title": "3. since I was a child, How long have you lived here?, recently…",
+   "focus": "reading",
+   "newItems": [
+    "u42.since-i-was-a-child",
+    "u42.how-long-have-you-lived-here",
+    "u42.recently",
+    "u42.lately"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.since-i-was-a-child",
+      "u42.how-long-have-you-lived-here"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.recently",
+      "u42.lately"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.since-i-was-a-child",
+      "u42.how-long-have-you-lived-here",
+      "u42.recently",
+      "u42.lately"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.since-i-was-a-child",
+      "u42.how-long-have-you-lived-here",
+      "u42.recently",
+      "u42.lately"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.since-i-was-a-child",
+      "u42.how-long-have-you-lived-here",
+      "u42.recently",
+      "u42.lately"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.have-you-finished-yet",
+      "u42.i-haven-t-decided-yet",
+      "u42.for",
+      "u42.since",
+      "u42.for-ten-years",
+      "u42.since-2019"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l4",
+   "title": "4. these days, ever since, up to now…",
+   "focus": "listening",
+   "newItems": [
+    "u42.these-days",
+    "u42.ever-since",
+    "u42.up-to-now",
+    "u42.change"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.these-days",
+      "u42.ever-since"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.up-to-now",
+      "u42.change"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.these-days",
+      "u42.ever-since",
+      "u42.up-to-now",
+      "u42.change"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.these-days",
+      "u42.ever-since",
+      "u42.up-to-now",
+      "u42.change"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.these-days",
+      "u42.ever-since",
+      "u42.up-to-now",
+      "u42.change"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.for-ten-years",
+      "u42.since-2019",
+      "u42.since-i-was-a-child",
+      "u42.how-long-have-you-lived-here",
+      "u42.recently",
+      "u42.lately"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l5",
+   "title": "5. improve, grow, increase…",
+   "focus": "listening",
+   "newItems": [
+    "u42.improve",
+    "u42.grow",
+    "u42.increase",
+    "u42.decrease"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.improve",
+      "u42.grow"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.increase",
+      "u42.decrease"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.improve",
+      "u42.grow",
+      "u42.increase",
+      "u42.decrease"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.improve",
+      "u42.grow",
+      "u42.increase",
+      "u42.decrease"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.improve",
+      "u42.grow",
+      "u42.increase",
+      "u42.decrease"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.recently",
+      "u42.lately",
+      "u42.these-days",
+      "u42.ever-since",
+      "u42.up-to-now",
+      "u42.change"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l6",
+   "title": "6. get used to, quit, give up…",
+   "focus": "grammar",
+   "newItems": [
+    "u42.get-used-to",
+    "u42.quit",
+    "u42.give-up",
+    "u42.take-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.get-used-to",
+      "u42.quit"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.give-up",
+      "u42.take-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.get-used-to",
+      "u42.quit",
+      "u42.give-up",
+      "u42.take-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.get-used-to",
+      "u42.quit",
+      "u42.give-up",
+      "u42.take-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.get-used-to",
+      "u42.quit",
+      "u42.give-up",
+      "u42.take-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.up-to-now",
+      "u42.change",
+      "u42.improve",
+      "u42.grow",
+      "u42.increase",
+      "u42.decrease"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "for y since",
+     "intro": "Mira lo que va después de for y de since.",
+     "examples": [
+      {
+       "en": "I've lived here for ten years.",
+       "es": "Vivo aquí desde hace diez años.",
+       "mark": [
+        "for"
+       ]
+      },
+      {
+       "en": "She's worked at the bank for six months.",
+       "es": "Trabaja en el banco desde hace seis meses.",
+       "mark": [
+        "for"
+       ]
+      },
+      {
+       "en": "I've lived here since 2015.",
+       "es": "Vivo aquí desde 2015.",
+       "mark": [
+        "since"
+       ]
+      },
+      {
+       "en": "We've known each other since we were children.",
+       "es": "Nos conocemos desde niños.",
+       "mark": [
+        "since"
+       ]
+      },
+      {
+       "en": "How long have you studied English?",
+       "es": "¿Cuánto tiempo llevas estudiando inglés?",
+       "mark": [
+        "How long"
+       ]
+      }
+     ],
+     "question": "¿Qué va después de since?",
+     "options": [
+      "Una cantidad de tiempo (ten years)",
+      "Un punto de inicio (2015, Monday)"
+     ],
+     "answer": 1,
+     "rule": "Para algo que empezó en el pasado y SIGUE: present perfect + for (duración: for two years) o since (punto de inicio: since 2020, since Monday). Ojo: en español decimos 'vivo aquí desde hace…' en presente; en inglés NO: I've lived here (no 'I live here for…').",
+     "ruleExamples": [
+      {
+       "en": "How long have you known her? I've known her for five years, since university.",
+       "es": "¿Hace cuánto la conoces? La conozco desde hace cinco años, desde la universidad."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I've worked here ___ three years.",
+     "options": [
+      "for",
+      "since"
+     ],
+     "answer": 0,
+     "es": "Trabajo aquí desde hace tres años."
+    },
+    {
+     "type": "fill",
+     "en": "She has been sick ___ Monday.",
+     "options": [
+      "since",
+      "for"
+     ],
+     "answer": 0,
+     "es": "Está enferma desde el lunes."
+    },
+    {
+     "type": "fill",
+     "en": "How long ___ you lived in Pasto?",
+     "options": [
+      "have",
+      "do"
+     ],
+     "answer": 0,
+     "es": "¿Cuánto tiempo llevas viviendo en Pasto?"
+    },
+    {
+     "type": "fill",
+     "en": "I ___ him since we were kids.",
+     "options": [
+      "have known",
+      "know"
+     ],
+     "answer": 0,
+     "es": "Lo conozco desde que éramos niños."
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l7",
+   "title": "7. lose weight, gain weight, move house…",
+   "focus": "reading",
+   "newItems": [
+    "u42.lose-weight",
+    "u42.gain-weight",
+    "u42.move-house",
+    "u42.get-a-promotion"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.lose-weight",
+      "u42.gain-weight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.move-house",
+      "u42.get-a-promotion"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.lose-weight",
+      "u42.gain-weight",
+      "u42.move-house",
+      "u42.get-a-promotion"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.lose-weight",
+      "u42.gain-weight",
+      "u42.move-house",
+      "u42.get-a-promotion"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.lose-weight",
+      "u42.gain-weight",
+      "u42.move-house",
+      "u42.get-a-promotion"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.increase",
+      "u42.decrease",
+      "u42.get-used-to",
+      "u42.quit",
+      "u42.give-up",
+      "u42.take-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l8",
+   "title": "8. graduate from, break up, get engaged…",
+   "focus": "listening",
+   "newItems": [
+    "u42.graduate-from",
+    "u42.break-up",
+    "u42.get-engaged",
+    "u42.known"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.graduate-from",
+      "u42.break-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.get-engaged",
+      "u42.known"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.graduate-from",
+      "u42.break-up",
+      "u42.get-engaged",
+      "u42.known"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.graduate-from",
+      "u42.break-up",
+      "u42.get-engaged",
+      "u42.known"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.graduate-from",
+      "u42.break-up",
+      "u42.get-engaged",
+      "u42.known"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.give-up",
+      "u42.take-up",
+      "u42.lose-weight",
+      "u42.gain-weight",
+      "u42.move-house",
+      "u42.get-a-promotion"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l9",
+   "title": "9. had, made, bought…",
+   "focus": "listening",
+   "newItems": [
+    "u42.had-participle",
+    "u42.made-participle",
+    "u42.bought-participle",
+    "u42.found-participle"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.had-participle",
+      "u42.made-participle"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.bought-participle",
+      "u42.found-participle"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.had-participle",
+      "u42.made-participle",
+      "u42.bought-participle",
+      "u42.found-participle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.had-participle",
+      "u42.made-participle",
+      "u42.bought-participle",
+      "u42.found-participle"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.had-participle",
+      "u42.made-participle",
+      "u42.bought-participle",
+      "u42.found-participle"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.move-house",
+      "u42.get-a-promotion",
+      "u42.graduate-from",
+      "u42.break-up",
+      "u42.get-engaged",
+      "u42.known"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l10",
+   "title": "10. left, sent, heard…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u42.left-participle",
+    "u42.sent-participle",
+    "u42.heard-participle",
+    "u42.told-participle"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.left-participle",
+      "u42.sent-participle"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.heard-participle",
+      "u42.told-participle"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.left-participle",
+      "u42.sent-participle",
+      "u42.heard-participle",
+      "u42.told-participle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.left-participle",
+      "u42.sent-participle",
+      "u42.heard-participle",
+      "u42.told-participle"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.left-participle",
+      "u42.sent-participle",
+      "u42.heard-participle",
+      "u42.told-participle"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.get-engaged",
+      "u42.known",
+      "u42.had-participle",
+      "u42.made-participle",
+      "u42.bought-participle",
+      "u42.found-participle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l11",
+   "title": "11. forgotten, chosen, grown…",
+   "focus": "reading",
+   "newItems": [
+    "u42.forgotten",
+    "u42.chosen",
+    "u42.grown",
+    "u42.given"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.forgotten",
+      "u42.chosen"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.grown",
+      "u42.given"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.forgotten",
+      "u42.chosen",
+      "u42.grown",
+      "u42.given"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.forgotten",
+      "u42.chosen",
+      "u42.grown",
+      "u42.given"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.forgotten",
+      "u42.chosen",
+      "u42.grown",
+      "u42.given"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.bought-participle",
+      "u42.found-participle",
+      "u42.left-participle",
+      "u42.sent-participle",
+      "u42.heard-participle",
+      "u42.told-participle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¡Tanto tiempo!",
+     "scene": "☕ Te encuentras con un viejo amigo.",
+     "lines": [
+      {
+       "who": "Carlos",
+       "en": "Sara! Long time no see!",
+       "es": "¡Sara! ¡Tanto tiempo sin verte!"
+      },
+      {
+       "who": "Sara",
+       "en": "Carlos! It's been ages! How are you?",
+       "es": "¡Carlos! ¡Hace siglos! ¿Cómo estás?"
+      },
+      {
+       "who": "Carlos",
+       "en": "Great! Guess what, I've just got a promotion.",
+       "es": "¡Muy bien! Adivina qué, acabo de conseguir un ascenso."
+      },
+      {
+       "who": "Sara",
+       "en": "Congratulations! How long have you worked there?",
+       "es": "¡Felicitaciones! ¿Cuánto llevas trabajando allá?"
+      },
+      {
+       "who": "Carlos",
+       "en": "Since 2020. And you? Have you finished your master's yet?",
+       "es": "Desde 2020. ¿Y tú? ¿Ya terminaste la maestría?"
+      },
+      {
+       "who": "Sara",
+       "en": "Not yet, but I've already written half of my thesis.",
+       "es": "Todavía no, pero ya escribí la mitad de mi tesis."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l12",
+   "title": "12. news, Guess what!, I can't believe it…",
+   "focus": "listening",
+   "newItems": [
+    "u42.news-good-news",
+    "u42.guess-what",
+    "u42.i-can-t-believe-it",
+    "u42.it-s-been-ages"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.news-good-news",
+      "u42.guess-what"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u42.i-can-t-believe-it",
+      "u42.it-s-been-ages"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.news-good-news",
+      "u42.guess-what",
+      "u42.i-can-t-believe-it",
+      "u42.it-s-been-ages"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.news-good-news",
+      "u42.guess-what",
+      "u42.i-can-t-believe-it",
+      "u42.it-s-been-ages"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.news-good-news",
+      "u42.guess-what",
+      "u42.i-can-t-believe-it",
+      "u42.it-s-been-ages"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.heard-participle",
+      "u42.told-participle",
+      "u42.forgotten",
+      "u42.chosen",
+      "u42.grown",
+      "u42.given"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-l13",
+   "title": "13. Long time no see!, catch up",
+   "focus": "listening",
+   "newItems": [
+    "u42.long-time-no-see",
+    "u42.catch-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u42.long-time-no-see",
+      "u42.catch-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.long-time-no-see",
+      "u42.catch-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.long-time-no-see",
+      "u42.catch-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.long-time-no-see",
+      "u42.catch-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.grown",
+      "u42.given",
+      "u42.news-good-news",
+      "u42.guess-what",
+      "u42.i-can-t-believe-it",
+      "u42.it-s-been-ages"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u42-recientemente-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un año de cambios",
+     "emoji": "📈",
+     "paragraphs": [
+      {
+       "en": "It's been an amazing year for Julián. A lot of things have changed.",
+       "es": "Ha sido un año increíble para Julián. Muchas cosas han cambiado."
+      },
+      {
+       "en": "In January he quit his job at the call center.",
+       "es": "En enero renunció a su trabajo en el call center."
+      },
+      {
+       "en": "He has taken up running and he has lost ten kilos since March.",
+       "es": "Empezó a correr y ha bajado diez kilos desde marzo."
+      },
+      {
+       "en": "He has also moved to a new apartment near the park.",
+       "es": "También se ha mudado a un apartamento nuevo cerca del parque."
+      },
+      {
+       "en": "His English has improved a lot because he practices every day.",
+       "es": "Su inglés ha mejorado mucho porque practica todos los días."
+      },
+      {
+       "en": "He hasn't found a new job yet, but he's just had an interview. He's hopeful.",
+       "es": "Todavía no ha encontrado trabajo nuevo, pero acaba de tener una entrevista. Tiene esperanza."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué hizo Julián en enero?",
+       "options": [
+        "Se casó",
+        "Renunció a su trabajo",
+        "Se mudó"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuánto peso ha bajado?",
+       "options": [
+        "Cinco kilos",
+        "Diez kilos",
+        "Veinte kilos"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Ya encontró trabajo nuevo?",
+       "options": [
+        "Sí",
+        "Todavía no, pero acaba de tener una entrevista"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Ponerse al día",
+     "scene": "📱 Una amiga que no ves hace meses te escribe.",
+     "turns": [
+      {
+       "who": "Laura",
+       "en": "Hi! It's been ages! What have you been up to?",
+       "es": "¡Hola! ¡Hace siglos! ¿En qué has andado?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Hi! Lots of things. I've just started a new course.",
+         "es": "¡Hola! Muchas cosas. Acabo de empezar un curso nuevo.",
+         "ok": true
+        },
+        {
+         "en": "Hi! I've started a new course yesterday.",
+         "es": "¡Hola! He empezado un curso ayer.",
+         "ok": false,
+         "why": "Con \"yesterday\" se usa pasado: \"I started\"."
+        }
+       ]
+      },
+      {
+       "who": "Laura",
+       "en": "Cool! How long have you studied there?",
+       "es": "¡Chévere! ¿Cuánto tiempo llevas estudiando allá?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "For two weeks. Since the first of March.",
+         "es": "Dos semanas. Desde el primero de marzo.",
+         "ok": true
+        },
+        {
+         "en": "Since two weeks.",
+         "es": "Desde dos semanas.",
+         "ok": false,
+         "why": "Con una duración se usa \"for\": for two weeks."
+        }
+       ]
+      },
+      {
+       "who": "Laura",
+       "en": "Have you met anybody interesting yet?",
+       "es": "¿Ya conociste a alguien interesante?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I've already made some new friends.",
+         "es": "Sí, ya hice algunos amigos nuevos.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I already make friends tomorrow.",
+         "es": "Sí, ya hago amigos mañana.",
+         "ok": false,
+         "why": "Mezcla tiempos."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Acabo de llegar.",
+     "en": "I've just arrived.",
+     "accept": [
+      "I have just arrived."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Vivo aquí desde hace cinco años.",
+     "en": "I've lived here for five years.",
+     "accept": [
+      "I have lived here for five years.",
+      "I've been living here for five years."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Ya terminaste?",
+     "en": "Have you finished yet?",
+     "accept": [
+      "Have you finished?"
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "She hasn't called me yet.",
+     "es": "Ella todavía no me ha llamado."
+    },
+    {
+     "type": "dictation",
+     "en": "We've known each other since university.",
+     "es": "Nos conocemos desde la universidad."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u42.grown",
+      "u42.given",
+      "u42.news-good-news",
+      "u42.guess-what",
+      "u42.i-can-t-believe-it",
+      "u42.it-s-been-ages",
+      "u42.long-time-no-see",
+      "u42.catch-up"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

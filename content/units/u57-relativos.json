@@ -1,0 +1,1676 @@
+{
+ "_generated": true,
+ "id": "u57-relativos",
+ "level": "B1",
+ "title": "Personas, cosas y lugares",
+ "emoji": "🔍",
+ "canDo": "Ya puedo definir y describir personas, cosas y lugares con más detalle",
+ "summary": "Oraciones de relativo con who, which, that, where y whose para dar definiciones.",
+ "grammar": [
+  "Relativos: who / which / that / where / whose"
+ ],
+ "items": [
+  {
+   "id": "u57.who",
+   "en": "who",
+   "es": "que / quien (personas)",
+   "kind": "word",
+   "emoji": "🧑",
+   "say": "ju"
+  },
+  {
+   "id": "u57.which",
+   "en": "which",
+   "es": "que / el cual (cosas)",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "uích"
+  },
+  {
+   "id": "u57.where",
+   "en": "where",
+   "es": "donde (lugares)",
+   "kind": "word",
+   "emoji": "📍"
+  },
+  {
+   "id": "u57.whose",
+   "en": "whose",
+   "es": "cuyo / de quien",
+   "kind": "word",
+   "emoji": "👤",
+   "say": "juus"
+  },
+  {
+   "id": "u57.someone-who",
+   "en": "someone who",
+   "es": "alguien que",
+   "kind": "chunk",
+   "emoji": "🧑"
+  },
+  {
+   "id": "u57.something-that",
+   "en": "something that",
+   "es": "algo que",
+   "kind": "chunk",
+   "emoji": "📦"
+  },
+  {
+   "id": "u57.a-place-where",
+   "en": "a place where",
+   "es": "un lugar donde",
+   "kind": "chunk",
+   "emoji": "📍"
+  },
+  {
+   "id": "u57.the-person-who",
+   "en": "the person who",
+   "es": "la persona que",
+   "kind": "chunk",
+   "emoji": "👤"
+  },
+  {
+   "id": "u57.the-thing-that",
+   "en": "the thing that",
+   "es": "la cosa que",
+   "kind": "chunk",
+   "emoji": "📦"
+  },
+  {
+   "id": "u57.definition",
+   "en": "definition",
+   "es": "definición",
+   "kind": "word",
+   "emoji": "📖",
+   "say": "de-fi-ní-shon"
+  },
+  {
+   "id": "u57.describe",
+   "en": "describe",
+   "es": "describir",
+   "kind": "word",
+   "emoji": "🗒️",
+   "say": "dis-kráib"
+  },
+  {
+   "id": "u57.mean",
+   "en": "mean",
+   "es": "significar",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "míin"
+  },
+  {
+   "id": "u57.what-does-it-mean",
+   "en": "What does it mean?",
+   "es": "¿Qué significa?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u57.it-s-a-kind-of",
+   "en": "It's a kind of…",
+   "es": "Es un tipo de…",
+   "kind": "chunk",
+   "emoji": "🗂️"
+  },
+  {
+   "id": "u57.it-s-used-for",
+   "en": "It's used for…",
+   "es": "Se usa para…",
+   "kind": "chunk",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u57.tool",
+   "en": "tool",
+   "es": "herramienta",
+   "kind": "word",
+   "emoji": "🔧",
+   "say": "tuul"
+  },
+  {
+   "id": "u57.device",
+   "en": "device",
+   "es": "aparato / dispositivo",
+   "kind": "word",
+   "emoji": "📱",
+   "say": "di-váis"
+  },
+  {
+   "id": "u57.gadget",
+   "en": "gadget",
+   "es": "aparato / dispositivo pequeño",
+   "kind": "word",
+   "emoji": "⌚",
+   "say": "gá-yet"
+  },
+  {
+   "id": "u57.object",
+   "en": "object",
+   "es": "objeto",
+   "kind": "word",
+   "emoji": "🧸",
+   "say": "ób-yekt"
+  },
+  {
+   "id": "u57.creature",
+   "en": "creature",
+   "es": "criatura",
+   "kind": "word",
+   "emoji": "🐉",
+   "say": "krí-cher"
+  },
+  {
+   "id": "u57.inventor",
+   "en": "inventor",
+   "es": "inventor",
+   "kind": "word",
+   "emoji": "🧑‍🔬",
+   "say": "in-vén-tor"
+  },
+  {
+   "id": "u57.author",
+   "en": "author",
+   "es": "autor",
+   "kind": "word",
+   "emoji": "✒️",
+   "say": "ó-zor"
+  },
+  {
+   "id": "u57.owner",
+   "en": "owner",
+   "es": "dueño",
+   "kind": "word",
+   "emoji": "🔑",
+   "say": "óu-ner"
+  },
+  {
+   "id": "u57.tenant",
+   "en": "tenant",
+   "es": "inquilino",
+   "kind": "word",
+   "emoji": "🏠",
+   "say": "té-nant"
+  },
+  {
+   "id": "u57.coworker",
+   "en": "coworker",
+   "es": "compañero de trabajo",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "kóu-uer-ker"
+  },
+  {
+   "id": "u57.expert",
+   "en": "expert",
+   "es": "experto",
+   "kind": "word",
+   "emoji": "🎓",
+   "say": "éks-pert"
+  },
+  {
+   "id": "u57.beginner",
+   "en": "beginner",
+   "es": "principiante",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "bi-guí-ner"
+  },
+  {
+   "id": "u57.passenger",
+   "en": "passenger",
+   "es": "pasajero",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "pá-sen-yer"
+  },
+  {
+   "id": "u57.stranger",
+   "en": "stranger",
+   "es": "desconocido",
+   "kind": "word",
+   "emoji": "🕶️",
+   "say": "stréin-yer"
+  },
+  {
+   "id": "u57.hero",
+   "en": "hero",
+   "es": "héroe",
+   "kind": "word",
+   "emoji": "🦸",
+   "say": "jí-rou"
+  },
+  {
+   "id": "u57.villain",
+   "en": "villain",
+   "es": "villano",
+   "kind": "word",
+   "emoji": "🦹",
+   "say": "ví-lan"
+  },
+  {
+   "id": "u57.character",
+   "en": "character",
+   "es": "personaje",
+   "kind": "word",
+   "emoji": "🎭",
+   "say": "ká-rak-ter"
+  },
+  {
+   "id": "u57.main-character",
+   "en": "main character",
+   "es": "protagonista",
+   "kind": "chunk",
+   "emoji": "⭐"
+  },
+  {
+   "id": "u57.plot",
+   "en": "plot",
+   "es": "trama",
+   "kind": "word",
+   "emoji": "📖",
+   "say": "plot"
+  },
+  {
+   "id": "u57.scene",
+   "en": "scene",
+   "es": "escena",
+   "kind": "word",
+   "emoji": "🎬",
+   "say": "síin"
+  },
+  {
+   "id": "u57.square",
+   "en": "square",
+   "es": "plaza",
+   "kind": "word",
+   "emoji": "⛲",
+   "say": "skuér"
+  },
+  {
+   "id": "u57.cinema",
+   "en": "cinema",
+   "es": "cine",
+   "kind": "word",
+   "emoji": "🎦",
+   "say": "sí-ne-ma"
+  },
+  {
+   "id": "u57.stadium",
+   "en": "stadium",
+   "es": "estadio",
+   "kind": "word",
+   "emoji": "🏟️",
+   "say": "stéi-di-um"
+  },
+  {
+   "id": "u57.gallery",
+   "en": "gallery",
+   "es": "galería",
+   "kind": "word",
+   "emoji": "🖼️",
+   "say": "gá-le-ri"
+  },
+  {
+   "id": "u57.lab",
+   "en": "lab",
+   "es": "laboratorio",
+   "kind": "word",
+   "emoji": "🧪",
+   "say": "lab"
+  },
+  {
+   "id": "u57.warehouse",
+   "en": "warehouse",
+   "es": "bodega",
+   "kind": "word",
+   "emoji": "🏬",
+   "say": "uér-jaus"
+  },
+  {
+   "id": "u57.shelter",
+   "en": "shelter",
+   "es": "refugio",
+   "kind": "word",
+   "emoji": "⛺",
+   "say": "shél-ter"
+  },
+  {
+   "id": "u57.nest",
+   "en": "nest",
+   "es": "nido",
+   "kind": "word",
+   "emoji": "🪺",
+   "say": "nest"
+  },
+  {
+   "id": "u57.cave",
+   "en": "cave",
+   "es": "cueva",
+   "kind": "word",
+   "emoji": "🕳️",
+   "say": "kéiv"
+  },
+  {
+   "id": "u57.the-film-which-won-the-prize",
+   "en": "the film which won the prize",
+   "es": "la película que ganó el premio",
+   "kind": "chunk",
+   "emoji": "🏆"
+  },
+  {
+   "id": "u57.the-girl-whose-father-is-a-pilot",
+   "en": "the girl whose father is a pilot",
+   "es": "la chica cuyo papá es piloto",
+   "kind": "chunk",
+   "emoji": "👨‍✈️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u57-relativos-l1",
+   "title": "1. who, which, where…",
+   "focus": "listening",
+   "newItems": [
+    "u57.who",
+    "u57.which",
+    "u57.where",
+    "u57.whose"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.who",
+      "u57.which"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.where",
+      "u57.whose"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.who",
+      "u57.which",
+      "u57.where",
+      "u57.whose"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.who",
+      "u57.which",
+      "u57.where",
+      "u57.whose"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.who",
+      "u57.which",
+      "u57.where",
+      "u57.whose"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l2",
+   "title": "2. someone who, something that, a place where…",
+   "focus": "grammar",
+   "newItems": [
+    "u57.someone-who",
+    "u57.something-that",
+    "u57.a-place-where",
+    "u57.the-person-who"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.someone-who",
+      "u57.something-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.a-place-where",
+      "u57.the-person-who"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.someone-who",
+      "u57.something-that",
+      "u57.a-place-where",
+      "u57.the-person-who"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.someone-who",
+      "u57.something-that",
+      "u57.a-place-where",
+      "u57.the-person-who"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.someone-who",
+      "u57.something-that",
+      "u57.a-place-where",
+      "u57.the-person-who"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.who",
+      "u57.which",
+      "u57.where",
+      "u57.whose"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "who, which, that, where, whose",
+     "intro": "Mira qué palabra se usa según de qué se habla.",
+     "examples": [
+      {
+       "en": "A doctor is a person who helps sick people.",
+       "es": "Un médico es una persona que ayuda a los enfermos.",
+       "mark": [
+        "who"
+       ]
+      },
+      {
+       "en": "A fridge is a machine which keeps food cold.",
+       "es": "Una nevera es una máquina que mantiene fría la comida.",
+       "mark": [
+        "which"
+       ]
+      },
+      {
+       "en": "This is the phone that I bought yesterday.",
+       "es": "Este es el celular que compré ayer.",
+       "mark": [
+        "that"
+       ]
+      },
+      {
+       "en": "A library is a place where you can borrow books.",
+       "es": "Una biblioteca es un lugar donde puedes pedir libros prestados.",
+       "mark": [
+        "where"
+       ]
+      },
+      {
+       "en": "That's the man whose car was stolen.",
+       "es": "Ese es el señor cuyo carro fue robado.",
+       "mark": [
+        "whose"
+       ]
+      }
+     ],
+     "question": "¿Cuál se usa para lugares?",
+     "options": [
+      "who",
+      "which",
+      "where"
+     ],
+     "answer": 2,
+     "rule": "Los RELATIVOS unen dos ideas: who (personas), which (cosas), that (personas o cosas, muy común al hablar), where (lugares), whose (de quién / cuyo). Así puedes definir palabras que no sabes: 'It's a tool which…', 'It's a person who…'. ¡Muy útil cuando olvidas una palabra!",
+     "ruleExamples": [
+      {
+       "en": "I don't know the word, but it's the thing that you use to open bottles.",
+       "es": "No sé la palabra, pero es la cosa que usas para abrir botellas."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "A pilot is someone ___ flies planes.",
+     "options": [
+      "who",
+      "which"
+     ],
+     "answer": 0,
+     "es": "Un piloto es alguien que pilotea aviones."
+    },
+    {
+     "type": "fill",
+     "en": "This is the café ___ we met.",
+     "options": [
+      "where",
+      "which"
+     ],
+     "answer": 0,
+     "es": "Este es el café donde nos conocimos."
+    },
+    {
+     "type": "fill",
+     "en": "The movie ___ we saw was great.",
+     "options": [
+      "that",
+      "who"
+     ],
+     "answer": 0,
+     "es": "La película que vimos fue buenísima."
+    },
+    {
+     "type": "fill",
+     "en": "I have a friend ___ brother is a famous singer.",
+     "options": [
+      "whose",
+      "who"
+     ],
+     "answer": 0,
+     "es": "Tengo un amigo cuyo hermano es un cantante famoso."
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l3",
+   "title": "3. the thing that, definition, describe…",
+   "focus": "reading",
+   "newItems": [
+    "u57.the-thing-that",
+    "u57.definition",
+    "u57.describe",
+    "u57.mean"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.the-thing-that",
+      "u57.definition"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.describe",
+      "u57.mean"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.the-thing-that",
+      "u57.definition",
+      "u57.describe",
+      "u57.mean"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.the-thing-that",
+      "u57.definition",
+      "u57.describe",
+      "u57.mean"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.the-thing-that",
+      "u57.definition",
+      "u57.describe",
+      "u57.mean"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.where",
+      "u57.whose",
+      "u57.someone-who",
+      "u57.something-that",
+      "u57.a-place-where",
+      "u57.the-person-who"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l4",
+   "title": "4. What does it mean?, It's a kind of…, It's used for……",
+   "focus": "listening",
+   "newItems": [
+    "u57.what-does-it-mean",
+    "u57.it-s-a-kind-of",
+    "u57.it-s-used-for",
+    "u57.tool"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.what-does-it-mean",
+      "u57.it-s-a-kind-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.it-s-used-for",
+      "u57.tool"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.what-does-it-mean",
+      "u57.it-s-a-kind-of",
+      "u57.it-s-used-for",
+      "u57.tool"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.what-does-it-mean",
+      "u57.it-s-a-kind-of",
+      "u57.it-s-used-for",
+      "u57.tool"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.what-does-it-mean",
+      "u57.it-s-a-kind-of",
+      "u57.it-s-used-for",
+      "u57.tool"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.a-place-where",
+      "u57.the-person-who",
+      "u57.the-thing-that",
+      "u57.definition",
+      "u57.describe",
+      "u57.mean"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l5",
+   "title": "5. device, gadget, object…",
+   "focus": "listening",
+   "newItems": [
+    "u57.device",
+    "u57.gadget",
+    "u57.object",
+    "u57.creature"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.device",
+      "u57.gadget"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.object",
+      "u57.creature"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.device",
+      "u57.gadget",
+      "u57.object",
+      "u57.creature"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.device",
+      "u57.gadget",
+      "u57.object",
+      "u57.creature"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.device",
+      "u57.gadget",
+      "u57.object",
+      "u57.creature"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.describe",
+      "u57.mean",
+      "u57.what-does-it-mean",
+      "u57.it-s-a-kind-of",
+      "u57.it-s-used-for",
+      "u57.tool"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l6",
+   "title": "6. inventor, author, owner…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u57.inventor",
+    "u57.author",
+    "u57.owner",
+    "u57.tenant"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.inventor",
+      "u57.author"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.owner",
+      "u57.tenant"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.inventor",
+      "u57.author",
+      "u57.owner",
+      "u57.tenant"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.inventor",
+      "u57.author",
+      "u57.owner",
+      "u57.tenant"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.inventor",
+      "u57.author",
+      "u57.owner",
+      "u57.tenant"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.it-s-used-for",
+      "u57.tool",
+      "u57.device",
+      "u57.gadget",
+      "u57.object",
+      "u57.creature"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l7",
+   "title": "7. coworker, expert, beginner…",
+   "focus": "reading",
+   "newItems": [
+    "u57.coworker",
+    "u57.expert",
+    "u57.beginner",
+    "u57.passenger"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.coworker",
+      "u57.expert"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.beginner",
+      "u57.passenger"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.coworker",
+      "u57.expert",
+      "u57.beginner",
+      "u57.passenger"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.coworker",
+      "u57.expert",
+      "u57.beginner",
+      "u57.passenger"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.coworker",
+      "u57.expert",
+      "u57.beginner",
+      "u57.passenger"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.object",
+      "u57.creature",
+      "u57.inventor",
+      "u57.author",
+      "u57.owner",
+      "u57.tenant"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🗣️",
+     "title": "Cuando no sabes una palabra",
+     "text": "No te bloquees: descríbela. 'It's a thing that…', 'It's a person who…', 'It's a place where…'. Los nativos lo hacen todo el tiempo y es una de las habilidades más útiles para conversar."
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l8",
+   "title": "8. stranger, hero, villain…",
+   "focus": "listening",
+   "newItems": [
+    "u57.stranger",
+    "u57.hero",
+    "u57.villain",
+    "u57.character"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.stranger",
+      "u57.hero"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.villain",
+      "u57.character"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.stranger",
+      "u57.hero",
+      "u57.villain",
+      "u57.character"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.stranger",
+      "u57.hero",
+      "u57.villain",
+      "u57.character"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.stranger",
+      "u57.hero",
+      "u57.villain",
+      "u57.character"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.owner",
+      "u57.tenant",
+      "u57.coworker",
+      "u57.expert",
+      "u57.beginner",
+      "u57.passenger"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l9",
+   "title": "9. main character, plot, scene…",
+   "focus": "listening",
+   "newItems": [
+    "u57.main-character",
+    "u57.plot",
+    "u57.scene",
+    "u57.square"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.main-character",
+      "u57.plot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.scene",
+      "u57.square"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.main-character",
+      "u57.plot",
+      "u57.scene",
+      "u57.square"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.main-character",
+      "u57.plot",
+      "u57.scene",
+      "u57.square"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.main-character",
+      "u57.plot",
+      "u57.scene",
+      "u57.square"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.beginner",
+      "u57.passenger",
+      "u57.stranger",
+      "u57.hero",
+      "u57.villain",
+      "u57.character"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l10",
+   "title": "10. cinema, stadium, gallery…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u57.cinema",
+    "u57.stadium",
+    "u57.gallery",
+    "u57.lab"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.cinema",
+      "u57.stadium"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.gallery",
+      "u57.lab"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.cinema",
+      "u57.stadium",
+      "u57.gallery",
+      "u57.lab"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.cinema",
+      "u57.stadium",
+      "u57.gallery",
+      "u57.lab"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.cinema",
+      "u57.stadium",
+      "u57.gallery",
+      "u57.lab"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.villain",
+      "u57.character",
+      "u57.main-character",
+      "u57.plot",
+      "u57.scene",
+      "u57.square"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Adivina qué es",
+     "scene": "🎲 Juego de adivinanzas con un amigo.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "OK, it's a thing that you use in the kitchen. It's made of metal.",
+       "es": "Bueno, es una cosa que usas en la cocina. Es de metal."
+      },
+      {
+       "who": "Leo",
+       "en": "Is it a pan?",
+       "es": "¿Es una sartén?"
+      },
+      {
+       "who": "Ana",
+       "en": "No. It's a tool which you use to open cans.",
+       "es": "No. Es una herramienta que usas para abrir latas."
+      },
+      {
+       "who": "Leo",
+       "en": "A can opener! My turn. It's a place where people watch football.",
+       "es": "¡Un abrelatas! Mi turno. Es un lugar donde la gente ve fútbol."
+      },
+      {
+       "who": "Ana",
+       "en": "A stadium!",
+       "es": "¡Un estadio!"
+      },
+      {
+       "who": "Leo",
+       "en": "Correct! You're good at this.",
+       "es": "¡Correcto! Eres buena en esto."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l11",
+   "title": "11. warehouse, shelter, nest…",
+   "focus": "reading",
+   "newItems": [
+    "u57.warehouse",
+    "u57.shelter",
+    "u57.nest",
+    "u57.cave"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.warehouse",
+      "u57.shelter"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u57.nest",
+      "u57.cave"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.warehouse",
+      "u57.shelter",
+      "u57.nest",
+      "u57.cave"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.warehouse",
+      "u57.shelter",
+      "u57.nest",
+      "u57.cave"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.warehouse",
+      "u57.shelter",
+      "u57.nest",
+      "u57.cave"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.scene",
+      "u57.square",
+      "u57.cinema",
+      "u57.stadium",
+      "u57.gallery",
+      "u57.lab"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-l12",
+   "title": "12. the film which won the prize, the girl whose father is a pilot",
+   "focus": "listening",
+   "newItems": [
+    "u57.the-film-which-won-the-prize",
+    "u57.the-girl-whose-father-is-a-pilot"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u57.the-film-which-won-the-prize",
+      "u57.the-girl-whose-father-is-a-pilot"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.the-film-which-won-the-prize",
+      "u57.the-girl-whose-father-is-a-pilot"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.the-film-which-won-the-prize",
+      "u57.the-girl-whose-father-is-a-pilot"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.the-film-which-won-the-prize",
+      "u57.the-girl-whose-father-is-a-pilot"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.gallery",
+      "u57.lab",
+      "u57.warehouse",
+      "u57.shelter",
+      "u57.nest",
+      "u57.cave"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u57-relativos-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El personaje favorito de Valentina",
+     "emoji": "📚",
+     "paragraphs": [
+      {
+       "en": "Valentina loves a book which was written by a Colombian author.",
+       "es": "A Valentina le encanta un libro que fue escrito por un autor colombiano."
+      },
+      {
+       "en": "The main character is a girl who lives in a small town where it never stops raining.",
+       "es": "La protagonista es una niña que vive en un pueblo donde nunca para de llover."
+      },
+      {
+       "en": "She has a grandfather whose stories are full of magic.",
+       "es": "Tiene un abuelo cuyas historias están llenas de magia."
+      },
+      {
+       "en": "One day she finds a cave where there's a strange creature that can talk.",
+       "es": "Un día encuentra una cueva donde hay una criatura extraña que puede hablar."
+      },
+      {
+       "en": "The creature is the hero who saves the town from the villain at the end.",
+       "es": "La criatura es el héroe que salva al pueblo del villano al final."
+      },
+      {
+       "en": "\"It's the kind of story that makes you dream,\" Valentina says.",
+       "es": "\"Es el tipo de historia que te hace soñar\", dice Valentina."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Dónde vive la protagonista?",
+       "options": [
+        "En una ciudad grande",
+        "En un pueblo donde nunca para de llover",
+        "En una cueva"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo son las historias del abuelo?",
+       "options": [
+        "Aburridas",
+        "Llenas de magia",
+        "Tristes"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Quién salva al pueblo?",
+       "options": [
+        "El abuelo",
+        "La criatura",
+        "La niña"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Olvidaste la palabra",
+     "scene": "🛠️ Necesitas un destornillador en una ferretería, pero no recuerdas la palabra.",
+     "turns": [
+      {
+       "who": "Clerk",
+       "en": "Hi, what are you looking for?",
+       "es": "Hola, ¿qué busca?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I don't remember the word. It's a tool that you use to put in screws.",
+         "es": "No recuerdo la palabra. Es una herramienta que se usa para poner tornillos.",
+         "ok": true
+        },
+        {
+         "en": "I don't remember. Goodbye.",
+         "es": "No me acuerdo. Chao.",
+         "ok": false,
+         "why": "Mejor describe lo que necesitas."
+        }
+       ]
+      },
+      {
+       "who": "Clerk",
+       "en": "Ah, a screwdriver! Which kind do you need?",
+       "es": "¡Ah, un destornillador! ¿De qué tipo lo necesita?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "The one which is small, for electronics.",
+         "es": "El que es pequeño, para electrónica.",
+         "ok": true
+        },
+        {
+         "en": "The one who is small.",
+         "es": "El que (persona) es pequeño.",
+         "ok": false,
+         "why": "Para cosas se usa \"which\" o \"that\", no \"who\"."
+        }
+       ]
+      },
+      {
+       "who": "Clerk",
+       "en": "Here you are. Anything else?",
+       "es": "Aquí tiene. ¿Algo más?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, do you know a place where I can fix my laptop?",
+         "es": "Sí, ¿sabe de un lugar donde me puedan arreglar el portátil?",
+         "ok": true
+        },
+        {
+         "en": "Yes, do you know a place which I fix my laptop?",
+         "es": "Sí, ¿conoce un lugar cual arreglo mi portátil?",
+         "ok": false,
+         "why": "Para lugares se usa \"where\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es una persona que trabaja en un hospital.",
+     "en": "It's a person who works in a hospital.",
+     "accept": [
+      "It is a person who works in a hospital.",
+      "It's someone who works in a hospital."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Este es el lugar donde nací.",
+     "en": "This is the place where I was born."
+    },
+    {
+     "type": "write",
+     "es": "La película que vimos fue aburrida.",
+     "en": "The movie that we saw was boring.",
+     "accept": [
+      "The movie we saw was boring.",
+      "The film that we saw was boring."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "A library is a place where you can borrow books.",
+     "es": "Una biblioteca es un lugar donde puedes pedir libros prestados."
+    },
+    {
+     "type": "dictation",
+     "en": "That's the woman whose son is a pilot.",
+     "es": "Esa es la señora cuyo hijo es piloto."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u57.gallery",
+      "u57.lab",
+      "u57.warehouse",
+      "u57.shelter",
+      "u57.nest",
+      "u57.cave",
+      "u57.the-film-which-won-the-prize",
+      "u57.the-girl-whose-father-is-a-pilot"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

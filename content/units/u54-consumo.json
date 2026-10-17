@@ -1,0 +1,1677 @@
+{
+ "_generated": true,
+ "id": "u54-consumo",
+ "level": "B1",
+ "title": "Dinero, trabajo y consumo",
+ "emoji": "🛒",
+ "canDo": "Ya puedo hablar de economía personal, publicidad y decisiones de compra",
+ "summary": "Presupuesto, deudas, ahorro, publicidad y consumo responsable.",
+ "grammar": [
+  "Verbos + objeto + to: ask someone to, want someone to",
+  "Cuantificadores: a few / a little"
+ ],
+ "items": [
+  {
+   "id": "u54.budget",
+   "en": "budget",
+   "es": "presupuesto",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "bá-yet"
+  },
+  {
+   "id": "u54.income",
+   "en": "income",
+   "es": "ingresos",
+   "kind": "word",
+   "emoji": "💰",
+   "say": "ín-kam"
+  },
+  {
+   "id": "u54.expenses",
+   "en": "expenses",
+   "es": "gastos",
+   "kind": "word",
+   "emoji": "💸",
+   "say": "eks-pén-ses"
+  },
+  {
+   "id": "u54.savings",
+   "en": "savings",
+   "es": "ahorros",
+   "kind": "word",
+   "emoji": "🐷",
+   "say": "séi-vings"
+  },
+  {
+   "id": "u54.debt",
+   "en": "debt",
+   "es": "deuda",
+   "kind": "word",
+   "emoji": "🧾",
+   "say": "det",
+   "tip": "La b no suena."
+  },
+  {
+   "id": "u54.loan",
+   "en": "loan",
+   "es": "préstamo",
+   "kind": "word",
+   "emoji": "🏦",
+   "say": "lóun"
+  },
+  {
+   "id": "u54.interest-rate",
+   "en": "interest rate",
+   "es": "tasa de interés",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u54.installments",
+   "en": "installments",
+   "es": "cuotas",
+   "kind": "word",
+   "emoji": "📆",
+   "say": "ins-tól-ments"
+  },
+  {
+   "id": "u54.waste-money",
+   "en": "waste money",
+   "es": "botar la plata",
+   "kind": "chunk",
+   "emoji": "🗑️"
+  },
+  {
+   "id": "u54.spend-money-on",
+   "en": "spend money on",
+   "es": "gastar plata en",
+   "kind": "chunk",
+   "emoji": "🛍️"
+  },
+  {
+   "id": "u54.invest",
+   "en": "invest",
+   "es": "invertir",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "in-vést"
+  },
+  {
+   "id": "u54.investment",
+   "en": "investment",
+   "es": "inversión",
+   "kind": "word",
+   "emoji": "💹",
+   "say": "in-vést-ment"
+  },
+  {
+   "id": "u54.profit",
+   "en": "profit",
+   "es": "ganancia",
+   "kind": "word",
+   "emoji": "💵",
+   "say": "pró-fit"
+  },
+  {
+   "id": "u54.loss",
+   "en": "loss",
+   "es": "pérdida",
+   "kind": "word",
+   "emoji": "📉",
+   "say": "los"
+  },
+  {
+   "id": "u54.bargain",
+   "en": "bargain",
+   "es": "ganga",
+   "kind": "word",
+   "emoji": "🏷️",
+   "say": "bár-guen"
+  },
+  {
+   "id": "u54.second-hand",
+   "en": "second-hand",
+   "es": "de segunda",
+   "kind": "word",
+   "emoji": "♻️"
+  },
+  {
+   "id": "u54.brand-new",
+   "en": "brand-new",
+   "es": "nuevo de paquete",
+   "kind": "word",
+   "emoji": "✨"
+  },
+  {
+   "id": "u54.price-tag",
+   "en": "price tag",
+   "es": "etiqueta de precio",
+   "kind": "chunk",
+   "emoji": "🏷️"
+  },
+  {
+   "id": "u54.consumer",
+   "en": "consumer",
+   "es": "consumidor",
+   "kind": "word",
+   "emoji": "🧑",
+   "say": "kon-siú-mer"
+  },
+  {
+   "id": "u54.consumerism",
+   "en": "consumerism",
+   "es": "consumismo",
+   "kind": "word",
+   "emoji": "🛒",
+   "say": "kon-siú-me-rism"
+  },
+  {
+   "id": "u54.advertising",
+   "en": "advertising",
+   "es": "publicidad",
+   "kind": "word",
+   "emoji": "📺",
+   "say": "ád-ver-tai-sing"
+  },
+  {
+   "id": "u54.commercial",
+   "en": "commercial",
+   "es": "comercial (TV)",
+   "kind": "word",
+   "emoji": "📺",
+   "say": "ko-mér-shal"
+  },
+  {
+   "id": "u54.logo",
+   "en": "logo",
+   "es": "logo",
+   "kind": "word",
+   "emoji": "™️",
+   "say": "lóu-gou"
+  },
+  {
+   "id": "u54.product",
+   "en": "product",
+   "es": "producto",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "pró-dakt"
+  },
+  {
+   "id": "u54.service",
+   "en": "service",
+   "es": "servicio",
+   "kind": "word",
+   "emoji": "🛎️",
+   "say": "sér-vis"
+  },
+  {
+   "id": "u54.worth",
+   "en": "worth",
+   "es": "que vale (la pena)",
+   "kind": "word",
+   "emoji": "💎",
+   "say": "uerz"
+  },
+  {
+   "id": "u54.value",
+   "en": "value",
+   "es": "valor",
+   "kind": "word",
+   "emoji": "💲",
+   "say": "vá-liu"
+  },
+  {
+   "id": "u54.impulse-buy",
+   "en": "impulse buy",
+   "es": "compra impulsiva",
+   "kind": "chunk",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u54.need",
+   "en": "need",
+   "es": "necesidad / necesitar",
+   "kind": "word",
+   "emoji": "📝"
+  },
+  {
+   "id": "u54.want",
+   "en": "want",
+   "es": "deseo / querer",
+   "kind": "word",
+   "emoji": "💭"
+  },
+  {
+   "id": "u54.wealthy",
+   "en": "wealthy",
+   "es": "adinerado",
+   "kind": "word",
+   "emoji": "💎",
+   "say": "uél-zi"
+  },
+  {
+   "id": "u54.middle-class",
+   "en": "middle class",
+   "es": "clase media",
+   "kind": "chunk",
+   "emoji": "🏘️"
+  },
+  {
+   "id": "u54.cost-of-living",
+   "en": "cost of living",
+   "es": "costo de vida",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u54.inflation",
+   "en": "inflation",
+   "es": "inflación",
+   "kind": "word",
+   "emoji": "🎈",
+   "say": "in-fléi-shon"
+  },
+  {
+   "id": "u54.tax",
+   "en": "tax",
+   "es": "impuesto",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "taks"
+  },
+  {
+   "id": "u54.salary-increase",
+   "en": "salary increase",
+   "es": "aumento de sueldo",
+   "kind": "chunk",
+   "emoji": "⬆️"
+  },
+  {
+   "id": "u54.minimum-wage",
+   "en": "minimum wage",
+   "es": "salario mínimo",
+   "kind": "chunk",
+   "emoji": "💵",
+   "say": "mí-ni-mum uéich"
+  },
+  {
+   "id": "u54.earn-a-living",
+   "en": "earn a living",
+   "es": "ganarse la vida",
+   "kind": "chunk",
+   "emoji": "🧑‍🌾"
+  },
+  {
+   "id": "u54.financial",
+   "en": "financial",
+   "es": "financiero",
+   "kind": "word",
+   "emoji": "💼",
+   "say": "fai-nán-shal"
+  },
+  {
+   "id": "u54.economy",
+   "en": "economy",
+   "es": "economía",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "i-kó-no-mi"
+  },
+  {
+   "id": "u54.a-few",
+   "en": "a few",
+   "es": "unos pocos (contables)",
+   "kind": "chunk",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u54.several",
+   "en": "several",
+   "es": "varios",
+   "kind": "word",
+   "emoji": "🔢",
+   "say": "sé-ve-ral"
+  },
+  {
+   "id": "u54.most-people",
+   "en": "most people",
+   "es": "la mayoría de la gente",
+   "kind": "chunk",
+   "emoji": "👥"
+  },
+  {
+   "id": "u54.i-can-t-afford-it",
+   "en": "I can't afford it",
+   "es": "No me alcanza para eso",
+   "kind": "chunk",
+   "emoji": "😕"
+  },
+  {
+   "id": "u54.it-s-not-worth-it",
+   "en": "It's not worth it",
+   "es": "No vale la pena",
+   "kind": "chunk",
+   "emoji": "👎"
+  },
+  {
+   "id": "u54.it-s-a-bargain",
+   "en": "It's a bargain!",
+   "es": "¡Es una ganga!",
+   "kind": "chunk",
+   "emoji": "🎉"
+  },
+  {
+   "id": "u54.pay-off-a-debt",
+   "en": "pay off a debt",
+   "es": "pagar una deuda",
+   "kind": "chunk",
+   "emoji": "✅"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u54-consumo-l1",
+   "title": "1. budget, income, expenses…",
+   "focus": "listening",
+   "newItems": [
+    "u54.budget",
+    "u54.income",
+    "u54.expenses",
+    "u54.savings"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.budget",
+      "u54.income"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.expenses",
+      "u54.savings"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.budget",
+      "u54.income",
+      "u54.expenses",
+      "u54.savings"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.budget",
+      "u54.income",
+      "u54.expenses",
+      "u54.savings"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.budget",
+      "u54.income",
+      "u54.expenses",
+      "u54.savings"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l2",
+   "title": "2. debt, loan, interest rate…",
+   "focus": "grammar",
+   "newItems": [
+    "u54.debt",
+    "u54.loan",
+    "u54.interest-rate",
+    "u54.installments"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.debt",
+      "u54.loan"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.interest-rate",
+      "u54.installments"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.debt",
+      "u54.loan",
+      "u54.interest-rate",
+      "u54.installments"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.debt",
+      "u54.loan",
+      "u54.interest-rate",
+      "u54.installments"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.debt",
+      "u54.loan",
+      "u54.interest-rate",
+      "u54.installments"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.budget",
+      "u54.income",
+      "u54.expenses",
+      "u54.savings"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Querer que alguien haga algo",
+     "intro": "En español decimos 'quiero que tú…'. Mira el inglés.",
+     "examples": [
+      {
+       "en": "I want you to save more money.",
+       "es": "Quiero que ahorres más plata.",
+       "mark": [
+        "want you to"
+       ]
+      },
+      {
+       "en": "My boss asked me to prepare the budget.",
+       "es": "Mi jefe me pidió que preparara el presupuesto.",
+       "mark": [
+        "asked me to"
+       ]
+      },
+      {
+       "en": "The bank told us to pay before Friday.",
+       "es": "El banco nos dijo que pagáramos antes del viernes.",
+       "mark": [
+        "told us to"
+       ]
+      },
+      {
+       "en": "She advised him to invest carefully.",
+       "es": "Ella le aconsejó que invirtiera con cuidado.",
+       "mark": [
+        "advised him to"
+       ]
+      }
+     ],
+     "question": "¿Cómo se dice 'quiero que vengas'?",
+     "options": [
+      "I want that you come",
+      "I want you to come"
+     ],
+     "answer": 1,
+     "rule": "En inglés NO se dice 'I want that you…'. Se usa verbo + persona + to + verbo: I want you to come, She asked me to help, They told us to wait. Funciona con want, ask, tell, advise, expect, need.",
+     "ruleExamples": [
+      {
+       "en": "My parents want me to study finance, but I want to be a musician.",
+       "es": "Mis papás quieren que estudie finanzas, pero yo quiero ser músico."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I want ___ to help me with the budget.",
+     "options": [
+      "you",
+      "that you"
+     ],
+     "answer": 0,
+     "es": "Quiero que me ayudes con el presupuesto."
+    },
+    {
+     "type": "fill",
+     "en": "The manager asked us ___ arrive early.",
+     "options": [
+      "to",
+      "that"
+     ],
+     "answer": 0,
+     "es": "El gerente nos pidió que llegáramos temprano."
+    },
+    {
+     "type": "fill",
+     "en": "I have ___ money left. Not much.",
+     "options": [
+      "a little",
+      "a few"
+     ],
+     "answer": 0,
+     "es": "Me queda un poco de plata. No mucha."
+    },
+    {
+     "type": "fill",
+     "en": "There are ___ good bargains in this store.",
+     "options": [
+      "a few",
+      "a little"
+     ],
+     "answer": 0,
+     "es": "Hay unas cuantas gangas en esta tienda."
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l3",
+   "title": "3. waste money, spend money on, invest…",
+   "focus": "reading",
+   "newItems": [
+    "u54.waste-money",
+    "u54.spend-money-on",
+    "u54.invest",
+    "u54.investment"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.waste-money",
+      "u54.spend-money-on"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.invest",
+      "u54.investment"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.waste-money",
+      "u54.spend-money-on",
+      "u54.invest",
+      "u54.investment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.waste-money",
+      "u54.spend-money-on",
+      "u54.invest",
+      "u54.investment"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.waste-money",
+      "u54.spend-money-on",
+      "u54.invest",
+      "u54.investment"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.expenses",
+      "u54.savings",
+      "u54.debt",
+      "u54.loan",
+      "u54.interest-rate",
+      "u54.installments"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l4",
+   "title": "4. profit, loss, bargain…",
+   "focus": "listening",
+   "newItems": [
+    "u54.profit",
+    "u54.loss",
+    "u54.bargain",
+    "u54.second-hand"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.profit",
+      "u54.loss"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.bargain",
+      "u54.second-hand"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.profit",
+      "u54.loss",
+      "u54.bargain",
+      "u54.second-hand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.profit",
+      "u54.loss",
+      "u54.bargain",
+      "u54.second-hand"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.profit",
+      "u54.loss",
+      "u54.bargain",
+      "u54.second-hand"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.interest-rate",
+      "u54.installments",
+      "u54.waste-money",
+      "u54.spend-money-on",
+      "u54.invest",
+      "u54.investment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l5",
+   "title": "5. brand-new, price tag, consumer…",
+   "focus": "listening",
+   "newItems": [
+    "u54.brand-new",
+    "u54.price-tag",
+    "u54.consumer",
+    "u54.consumerism"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.brand-new",
+      "u54.price-tag"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.consumer",
+      "u54.consumerism"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.brand-new",
+      "u54.price-tag",
+      "u54.consumer",
+      "u54.consumerism"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.brand-new",
+      "u54.price-tag",
+      "u54.consumer",
+      "u54.consumerism"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.brand-new",
+      "u54.price-tag",
+      "u54.consumer",
+      "u54.consumerism"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.invest",
+      "u54.investment",
+      "u54.profit",
+      "u54.loss",
+      "u54.bargain",
+      "u54.second-hand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l6",
+   "title": "6. advertising, commercial, logo…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u54.advertising",
+    "u54.commercial",
+    "u54.logo",
+    "u54.product"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.advertising",
+      "u54.commercial"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.logo",
+      "u54.product"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.advertising",
+      "u54.commercial",
+      "u54.logo",
+      "u54.product"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.advertising",
+      "u54.commercial",
+      "u54.logo",
+      "u54.product"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.advertising",
+      "u54.commercial",
+      "u54.logo",
+      "u54.product"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.bargain",
+      "u54.second-hand",
+      "u54.brand-new",
+      "u54.price-tag",
+      "u54.consumer",
+      "u54.consumerism"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l7",
+   "title": "7. service, worth, value…",
+   "focus": "reading",
+   "newItems": [
+    "u54.service",
+    "u54.worth",
+    "u54.value",
+    "u54.impulse-buy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.service",
+      "u54.worth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.value",
+      "u54.impulse-buy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.service",
+      "u54.worth",
+      "u54.value",
+      "u54.impulse-buy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.service",
+      "u54.worth",
+      "u54.value",
+      "u54.impulse-buy"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.service",
+      "u54.worth",
+      "u54.value",
+      "u54.impulse-buy"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.consumer",
+      "u54.consumerism",
+      "u54.advertising",
+      "u54.commercial",
+      "u54.logo",
+      "u54.product"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l8",
+   "title": "8. need, want, wealthy…",
+   "focus": "listening",
+   "newItems": [
+    "u54.need",
+    "u54.want",
+    "u54.wealthy",
+    "u54.middle-class"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.need",
+      "u54.want"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.wealthy",
+      "u54.middle-class"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.need",
+      "u54.want",
+      "u54.wealthy",
+      "u54.middle-class"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.need",
+      "u54.want",
+      "u54.wealthy",
+      "u54.middle-class"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.need",
+      "u54.want",
+      "u54.wealthy",
+      "u54.middle-class"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.logo",
+      "u54.product",
+      "u54.service",
+      "u54.worth",
+      "u54.value",
+      "u54.impulse-buy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l9",
+   "title": "9. cost of living, inflation, tax…",
+   "focus": "listening",
+   "newItems": [
+    "u54.cost-of-living",
+    "u54.inflation",
+    "u54.tax",
+    "u54.salary-increase"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.cost-of-living",
+      "u54.inflation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.tax",
+      "u54.salary-increase"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.cost-of-living",
+      "u54.inflation",
+      "u54.tax",
+      "u54.salary-increase"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.cost-of-living",
+      "u54.inflation",
+      "u54.tax",
+      "u54.salary-increase"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.cost-of-living",
+      "u54.inflation",
+      "u54.tax",
+      "u54.salary-increase"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.value",
+      "u54.impulse-buy",
+      "u54.need",
+      "u54.want",
+      "u54.wealthy",
+      "u54.middle-class"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Organizando las finanzas",
+     "scene": "📊 Una pareja revisa sus gastos del mes.",
+     "lines": [
+      {
+       "who": "Laura",
+       "en": "We spent too much money this month.",
+       "es": "Gastamos demasiada plata este mes."
+      },
+      {
+       "who": "Diego",
+       "en": "You're right. Our expenses were higher than our income.",
+       "es": "Tienes razón. Los gastos fueron más altos que los ingresos."
+      },
+      {
+       "who": "Laura",
+       "en": "We need a budget. I want us to save ten percent every month.",
+       "es": "Necesitamos un presupuesto. Quiero que ahorremos el diez por ciento cada mes."
+      },
+      {
+       "who": "Diego",
+       "en": "OK, but first we have to pay off the credit card debt. The interest rate is very high.",
+       "es": "Bueno, pero primero tenemos que pagar la deuda de la tarjeta. La tasa de interés es muy alta."
+      },
+      {
+       "who": "Laura",
+       "en": "And no more impulse buys online!",
+       "es": "¡Y nada más de compras impulsivas por internet!"
+      },
+      {
+       "who": "Diego",
+       "en": "That's going to be hard, but it's worth it.",
+       "es": "Eso va a ser difícil, pero vale la pena."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l10",
+   "title": "10. minimum wage, earn a living, financial…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u54.minimum-wage",
+    "u54.earn-a-living",
+    "u54.financial",
+    "u54.economy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.minimum-wage",
+      "u54.earn-a-living"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.financial",
+      "u54.economy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.minimum-wage",
+      "u54.earn-a-living",
+      "u54.financial",
+      "u54.economy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.minimum-wage",
+      "u54.earn-a-living",
+      "u54.financial",
+      "u54.economy"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.minimum-wage",
+      "u54.earn-a-living",
+      "u54.financial",
+      "u54.economy"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.wealthy",
+      "u54.middle-class",
+      "u54.cost-of-living",
+      "u54.inflation",
+      "u54.tax",
+      "u54.salary-increase"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l11",
+   "title": "11. a few, several, most people…",
+   "focus": "reading",
+   "newItems": [
+    "u54.a-few",
+    "u54.several",
+    "u54.most-people",
+    "u54.i-can-t-afford-it"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.a-few",
+      "u54.several"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.most-people",
+      "u54.i-can-t-afford-it"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.a-few",
+      "u54.several",
+      "u54.most-people",
+      "u54.i-can-t-afford-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.a-few",
+      "u54.several",
+      "u54.most-people",
+      "u54.i-can-t-afford-it"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.a-few",
+      "u54.several",
+      "u54.most-people",
+      "u54.i-can-t-afford-it"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.tax",
+      "u54.salary-increase",
+      "u54.minimum-wage",
+      "u54.earn-a-living",
+      "u54.financial",
+      "u54.economy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-l12",
+   "title": "12. It's not worth it, It's a bargain!, pay off a debt",
+   "focus": "listening",
+   "newItems": [
+    "u54.it-s-not-worth-it",
+    "u54.it-s-a-bargain",
+    "u54.pay-off-a-debt"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u54.it-s-not-worth-it",
+      "u54.it-s-a-bargain"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u54.pay-off-a-debt"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.it-s-not-worth-it",
+      "u54.it-s-a-bargain",
+      "u54.pay-off-a-debt"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.it-s-not-worth-it",
+      "u54.it-s-a-bargain",
+      "u54.pay-off-a-debt"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.it-s-not-worth-it",
+      "u54.it-s-a-bargain",
+      "u54.pay-off-a-debt"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.financial",
+      "u54.economy",
+      "u54.a-few",
+      "u54.several",
+      "u54.most-people",
+      "u54.i-can-t-afford-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u54-consumo-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "¿Lo necesito o lo quiero?",
+     "emoji": "🛍️",
+     "paragraphs": [
+      {
+       "en": "Every day we see hundreds of advertisements on TV, in the street and on our phones.",
+       "es": "Cada día vemos cientos de anuncios en televisión, en la calle y en el celular."
+      },
+      {
+       "en": "Companies spend millions on advertising because they want us to buy their products.",
+       "es": "Las empresas gastan millones en publicidad porque quieren que compremos sus productos."
+      },
+      {
+       "en": "Many ads make us feel that we need something, but often it's only a want.",
+       "es": "Muchos anuncios nos hacen sentir que necesitamos algo, pero muchas veces es solo un deseo."
+      },
+      {
+       "en": "Experts advise consumers to wait twenty-four hours before buying something expensive.",
+       "es": "Los expertos aconsejan a los consumidores esperar veinticuatro horas antes de comprar algo caro."
+      },
+      {
+       "en": "If you still want it the next day, maybe it's worth it. If not, it was just an impulse buy.",
+       "es": "Si al día siguiente todavía lo quieres, tal vez valga la pena. Si no, era solo una compra impulsiva."
+      },
+      {
+       "en": "Buying second-hand and repairing things are also good ways to save money and help the planet.",
+       "es": "Comprar de segunda y reparar cosas también son buenas formas de ahorrar y ayudar al planeta."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué las empresas gastan en publicidad?",
+       "options": [
+        "Para que compremos sus productos",
+        "Para ayudar al planeta",
+        "Porque es obligatorio"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué aconsejan los expertos?",
+       "options": [
+        "Comprar rápido",
+        "Esperar 24 horas antes de comprar algo caro",
+        "Pedir un préstamo"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué otra forma de ahorrar mencionan?",
+       "options": [
+        "Comprar de segunda y reparar cosas",
+        "Usar más la tarjeta",
+        "Comprar marcas caras"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "En el banco: un préstamo",
+     "scene": "🏦 Pides información para un préstamo de estudio.",
+     "turns": [
+      {
+       "who": "Advisor",
+       "en": "How can I help you today?",
+       "es": "¿En qué le puedo ayudar hoy?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'd like some information about student loans.",
+         "es": "Quisiera información sobre préstamos de estudio.",
+         "ok": true
+        },
+        {
+         "en": "I'd like to waste money.",
+         "es": "Quisiera botar plata.",
+         "ok": false,
+         "why": "No es lo que buscas."
+        }
+       ]
+      },
+      {
+       "who": "Advisor",
+       "en": "Sure. What's your monthly income?",
+       "es": "Claro. ¿Cuáles son sus ingresos mensuales?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I earn the minimum wage. I work part-time.",
+         "es": "Gano el salario mínimo. Trabajo medio tiempo.",
+         "ok": true
+        },
+        {
+         "en": "I earn a debt.",
+         "es": "Gano una deuda.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      },
+      {
+       "who": "Advisor",
+       "en": "The interest rate is twelve percent and you can pay in thirty-six installments.",
+       "es": "La tasa de interés es del doce por ciento y puede pagar en treinta y seis cuotas."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That's a little high. Could you tell me about other options?",
+         "es": "Está un poco alta. ¿Me podría contar de otras opciones?",
+         "ok": true
+        },
+        {
+         "en": "I want you that tell me other options.",
+         "es": "Quiero que usted que me cuente otras opciones.",
+         "ok": false,
+         "why": "Se dice \"I want you to tell me…\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No me alcanza para eso.",
+     "en": "I can't afford it.",
+     "accept": [
+      "I cannot afford it."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Quiero que ahorres más.",
+     "en": "I want you to save more.",
+     "accept": [
+      "I want you to save more money."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No vale la pena.",
+     "en": "It's not worth it.",
+     "accept": [
+      "It isn't worth it.",
+      "It is not worth it."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Our expenses were higher than our income.",
+     "es": "Nuestros gastos fueron más altos que nuestros ingresos."
+    },
+    {
+     "type": "dictation",
+     "en": "My boss asked me to prepare the budget.",
+     "es": "Mi jefe me pidió que preparara el presupuesto."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u54.economy",
+      "u54.a-few",
+      "u54.several",
+      "u54.most-people",
+      "u54.i-can-t-afford-it",
+      "u54.it-s-not-worth-it",
+      "u54.it-s-a-bargain",
+      "u54.pay-off-a-debt"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

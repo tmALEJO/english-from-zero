@@ -1,0 +1,1794 @@
+{
+ "_generated": true,
+ "id": "u41-experiencias",
+ "level": "B1",
+ "title": "Experiencias de vida",
+ "emoji": "🌍",
+ "canDo": "Ya puedo hablar de experiencias que he tenido (o no) en mi vida",
+ "summary": "El present perfect para experiencias: Have you ever…? I've never…, been to.",
+ "grammar": [
+  "Present perfect: experiencias",
+  "ever / never / been to"
+ ],
+ "items": [
+  {
+   "id": "u41.have-you-ever",
+   "en": "Have you ever…?",
+   "es": "¿Alguna vez has…?",
+   "kind": "chunk",
+   "emoji": "❔",
+   "say": "jav iu é-ver"
+  },
+  {
+   "id": "u41.i-ve-never",
+   "en": "I've never…",
+   "es": "Nunca he…",
+   "kind": "chunk",
+   "emoji": "🚫",
+   "say": "aiv né-ver"
+  },
+  {
+   "id": "u41.i-ve-been-to-mexico",
+   "en": "I've been to Mexico",
+   "es": "He estado en México",
+   "kind": "chunk",
+   "emoji": "🇲🇽"
+  },
+  {
+   "id": "u41.she-has-visited-peru",
+   "en": "She has visited Peru",
+   "es": "Ella ha visitado Perú",
+   "kind": "chunk",
+   "emoji": "🗺️"
+  },
+  {
+   "id": "u41.experience",
+   "en": "experience",
+   "es": "experiencia",
+   "kind": "word",
+   "emoji": "🎒",
+   "say": "eks-pí-ri-ens"
+  },
+  {
+   "id": "u41.adventure",
+   "en": "adventure",
+   "es": "aventura",
+   "kind": "word",
+   "emoji": "🧗",
+   "say": "ad-vén-cher"
+  },
+  {
+   "id": "u41.once-in-my-life",
+   "en": "once in my life",
+   "es": "una vez en la vida",
+   "kind": "chunk",
+   "emoji": "1️⃣"
+  },
+  {
+   "id": "u41.several-times",
+   "en": "several times",
+   "es": "varias veces",
+   "kind": "chunk",
+   "emoji": "🔁",
+   "say": "sé-ve-ral"
+  },
+  {
+   "id": "u41.in-my-life",
+   "en": "in my life",
+   "es": "en mi vida",
+   "kind": "chunk",
+   "emoji": "🌱"
+  },
+  {
+   "id": "u41.so-far",
+   "en": "so far",
+   "es": "hasta ahora",
+   "kind": "chunk",
+   "emoji": "📍"
+  },
+  {
+   "id": "u41.climb-a-mountain",
+   "en": "climb a mountain",
+   "es": "subir una montaña",
+   "kind": "chunk",
+   "emoji": "🏔️"
+  },
+  {
+   "id": "u41.go-skydiving",
+   "en": "go skydiving",
+   "es": "lanzarse en paracaídas",
+   "kind": "chunk",
+   "emoji": "🪂"
+  },
+  {
+   "id": "u41.go-scuba-diving",
+   "en": "go scuba diving",
+   "es": "bucear",
+   "kind": "chunk",
+   "emoji": "🤿"
+  },
+  {
+   "id": "u41.ride-a-horse",
+   "en": "ride a horse",
+   "es": "montar a caballo",
+   "kind": "chunk",
+   "emoji": "🐎"
+  },
+  {
+   "id": "u41.try-new-food",
+   "en": "try new food",
+   "es": "probar comida nueva",
+   "kind": "chunk",
+   "emoji": "🍣"
+  },
+  {
+   "id": "u41.meet-someone-famous",
+   "en": "meet someone famous",
+   "es": "conocer a alguien famoso",
+   "kind": "chunk",
+   "emoji": "🌟"
+  },
+  {
+   "id": "u41.win-a-prize",
+   "en": "win a prize",
+   "es": "ganar un premio",
+   "kind": "chunk",
+   "emoji": "🏆"
+  },
+  {
+   "id": "u41.lose-your-wallet",
+   "en": "lose your wallet",
+   "es": "perder la billetera",
+   "kind": "chunk",
+   "emoji": "👛"
+  },
+  {
+   "id": "u41.break-a-bone",
+   "en": "break a bone",
+   "es": "romperse un hueso",
+   "kind": "chunk",
+   "emoji": "🦴"
+  },
+  {
+   "id": "u41.fall-in-love",
+   "en": "fall in love",
+   "es": "enamorarse",
+   "kind": "chunk",
+   "emoji": "💘"
+  },
+  {
+   "id": "u41.get-lost",
+   "en": "get lost",
+   "es": "perderse",
+   "kind": "chunk",
+   "emoji": "🧭"
+  },
+  {
+   "id": "u41.stay-up-all-night",
+   "en": "stay up all night",
+   "es": "trasnochar toda la noche",
+   "kind": "chunk",
+   "emoji": "🌃"
+  },
+  {
+   "id": "u41.miss-a-flight",
+   "en": "miss a flight",
+   "es": "perder un vuelo",
+   "kind": "chunk",
+   "emoji": "✈️"
+  },
+  {
+   "id": "u41.see-snow",
+   "en": "see snow",
+   "es": "ver nieve",
+   "kind": "chunk",
+   "emoji": "❄️"
+  },
+  {
+   "id": "u41.go-abroad",
+   "en": "go abroad",
+   "es": "ir al extranjero",
+   "kind": "chunk",
+   "emoji": "🌐"
+  },
+  {
+   "id": "u41.live-abroad",
+   "en": "live abroad",
+   "es": "vivir en el extranjero",
+   "kind": "chunk",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u41.seen",
+   "en": "seen",
+   "es": "visto (see)",
+   "kind": "word",
+   "emoji": "👀",
+   "say": "síin"
+  },
+  {
+   "id": "u41.been",
+   "en": "been",
+   "es": "estado / ido (be)",
+   "kind": "word",
+   "emoji": "📍",
+   "say": "bin"
+  },
+  {
+   "id": "u41.done",
+   "en": "done",
+   "es": "hecho (do)",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "dan"
+  },
+  {
+   "id": "u41.eaten",
+   "en": "eaten",
+   "es": "comido (eat)",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "íi-ten"
+  },
+  {
+   "id": "u41.drunk",
+   "en": "drunk",
+   "es": "bebido (drink)",
+   "kind": "word",
+   "emoji": "🥤",
+   "say": "drank"
+  },
+  {
+   "id": "u41.gone",
+   "en": "gone",
+   "es": "ido (go)",
+   "kind": "word",
+   "emoji": "🚶",
+   "say": "gon"
+  },
+  {
+   "id": "u41.taken",
+   "en": "taken",
+   "es": "tomado (take)",
+   "kind": "word",
+   "emoji": "📸",
+   "say": "téi-ken"
+  },
+  {
+   "id": "u41.written",
+   "en": "written",
+   "es": "escrito (write)",
+   "kind": "word",
+   "emoji": "✍️",
+   "say": "rí-ten"
+  },
+  {
+   "id": "u41.spoken",
+   "en": "spoken",
+   "es": "hablado (speak)",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "spóu-ken"
+  },
+  {
+   "id": "u41.ridden",
+   "en": "ridden",
+   "es": "montado (ride)",
+   "kind": "word",
+   "emoji": "🐴",
+   "say": "rí-den"
+  },
+  {
+   "id": "u41.flown",
+   "en": "flown",
+   "es": "volado (fly)",
+   "kind": "word",
+   "emoji": "🛩️",
+   "say": "flóun"
+  },
+  {
+   "id": "u41.swum",
+   "en": "swum",
+   "es": "nadado (swim)",
+   "kind": "word",
+   "emoji": "🏊",
+   "say": "suam"
+  },
+  {
+   "id": "u41.lost-participle",
+   "en": "lost",
+   "es": "perdido (lose)",
+   "kind": "word",
+   "emoji": "❓"
+  },
+  {
+   "id": "u41.won-participle",
+   "en": "won",
+   "es": "ganado (win)",
+   "kind": "word",
+   "emoji": "🥇"
+  },
+  {
+   "id": "u41.unforgettable",
+   "en": "unforgettable",
+   "es": "inolvidable",
+   "kind": "word",
+   "emoji": "💫",
+   "say": "an-for-gué-ta-bol"
+  },
+  {
+   "id": "u41.amazing-experience",
+   "en": "amazing experience",
+   "es": "experiencia increíble",
+   "kind": "chunk",
+   "emoji": "🤯"
+  },
+  {
+   "id": "u41.scary-experience",
+   "en": "scary experience",
+   "es": "experiencia aterradora",
+   "kind": "chunk",
+   "emoji": "😱"
+  },
+  {
+   "id": "u41.bucket-list",
+   "en": "bucket list",
+   "es": "lista de cosas por hacer antes de morir",
+   "kind": "chunk",
+   "emoji": "📝"
+  },
+  {
+   "id": "u41.dream-come-true",
+   "en": "dream come true",
+   "es": "sueño hecho realidad",
+   "kind": "chunk",
+   "emoji": "🌠"
+  },
+  {
+   "id": "u41.once-in-a-lifetime",
+   "en": "once-in-a-lifetime",
+   "es": "única en la vida",
+   "kind": "word",
+   "emoji": "💎"
+  },
+  {
+   "id": "u41.rather",
+   "en": "rather",
+   "es": "más bien / preferiría",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "rá-der"
+  },
+  {
+   "id": "u41.how-was-it",
+   "en": "How was it?",
+   "es": "¿Qué tal fue?",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u41.what-was-it-like",
+   "en": "What was it like?",
+   "es": "¿Cómo fue?",
+   "kind": "chunk",
+   "emoji": "🧐"
+  },
+  {
+   "id": "u41.i-ve-always-wanted-to",
+   "en": "I've always wanted to…",
+   "es": "Siempre he querido…",
+   "kind": "chunk",
+   "emoji": "💭"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u41-experiencias-l1",
+   "title": "1. Have you ever…?, I've never…, I've been to Mexico…",
+   "focus": "listening",
+   "newItems": [
+    "u41.have-you-ever",
+    "u41.i-ve-never",
+    "u41.i-ve-been-to-mexico",
+    "u41.she-has-visited-peru"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.have-you-ever",
+      "u41.i-ve-never"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.i-ve-been-to-mexico",
+      "u41.she-has-visited-peru"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.have-you-ever",
+      "u41.i-ve-never",
+      "u41.i-ve-been-to-mexico",
+      "u41.she-has-visited-peru"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.have-you-ever",
+      "u41.i-ve-never",
+      "u41.i-ve-been-to-mexico",
+      "u41.she-has-visited-peru"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.have-you-ever",
+      "u41.i-ve-never",
+      "u41.i-ve-been-to-mexico",
+      "u41.she-has-visited-peru"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l2",
+   "title": "2. experience, adventure, once in my life…",
+   "focus": "grammar",
+   "newItems": [
+    "u41.experience",
+    "u41.adventure",
+    "u41.once-in-my-life",
+    "u41.several-times"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.experience",
+      "u41.adventure"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.once-in-my-life",
+      "u41.several-times"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.experience",
+      "u41.adventure",
+      "u41.once-in-my-life",
+      "u41.several-times"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.experience",
+      "u41.adventure",
+      "u41.once-in-my-life",
+      "u41.several-times"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.experience",
+      "u41.adventure",
+      "u41.once-in-my-life",
+      "u41.several-times"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.have-you-ever",
+      "u41.i-ve-never",
+      "u41.i-ve-been-to-mexico",
+      "u41.she-has-visited-peru"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Present perfect para experiencias",
+     "intro": "Estas personas hablan de su vida, sin decir cuándo pasó.",
+     "examples": [
+      {
+       "en": "I've been to Mexico twice.",
+       "es": "He estado en México dos veces.",
+       "mark": [
+        "'ve been"
+       ]
+      },
+      {
+       "en": "She has tried sushi.",
+       "es": "Ella ha probado el sushi.",
+       "mark": [
+        "has tried"
+       ]
+      },
+      {
+       "en": "Have you ever ridden a horse?",
+       "es": "¿Alguna vez has montado a caballo?",
+       "mark": [
+        "Have",
+        "ridden"
+       ]
+      },
+      {
+       "en": "We've never seen snow.",
+       "es": "Nunca hemos visto nieve.",
+       "mark": [
+        "'ve",
+        "seen"
+       ]
+      },
+      {
+       "en": "He hasn't flown in a plane.",
+       "es": "Él no ha volado en avión.",
+       "mark": [
+        "hasn't flown"
+       ]
+      }
+     ],
+     "question": "¿Qué estructura se usa para experiencias de vida?",
+     "options": [
+      "have / has + participio (seen, been, tried)",
+      "did + verbo",
+      "was + -ing"
+     ],
+     "answer": 0,
+     "rule": "El PRESENT PERFECT (have/has + participio) habla de experiencias en tu vida hasta ahora, sin decir cuándo: I've been to Peru. Si dices CUÁNDO, usas pasado simple: I went to Peru in 2020. ever = alguna vez (en preguntas); never = nunca. been to = haber ido a un lugar.",
+     "ruleExamples": [
+      {
+       "en": "Have you ever been to Cartagena? Yes, I have. I went there last year.",
+       "es": "¿Has ido a Cartagena? Sí. Fui el año pasado."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Have you ever ___ a famous person?",
+     "options": [
+      "met",
+      "meet"
+     ],
+     "answer": 0,
+     "es": "¿Alguna vez has conocido a alguien famoso?"
+    },
+    {
+     "type": "fill",
+     "en": "I've never ___ to Europe.",
+     "options": [
+      "been",
+      "gone to"
+     ],
+     "answer": 0,
+     "es": "Nunca he ido a Europa."
+    },
+    {
+     "type": "fill",
+     "en": "She ___ tried Indian food.",
+     "options": [
+      "has",
+      "have"
+     ],
+     "answer": 0,
+     "es": "Ella ha probado comida india."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ to Cali last month. (dices cuándo)",
+     "options": [
+      "went",
+      "have gone"
+     ],
+     "answer": 0,
+     "es": "Fui a Cali el mes pasado."
+    },
+    {
+     "type": "fill",
+     "en": "They have never ___ in the sea.",
+     "options": [
+      "swum",
+      "swam"
+     ],
+     "answer": 0,
+     "es": "Nunca han nadado en el mar."
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l3",
+   "title": "3. in my life, so far, climb a mountain…",
+   "focus": "reading",
+   "newItems": [
+    "u41.in-my-life",
+    "u41.so-far",
+    "u41.climb-a-mountain",
+    "u41.go-skydiving"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.in-my-life",
+      "u41.so-far"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.climb-a-mountain",
+      "u41.go-skydiving"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.in-my-life",
+      "u41.so-far",
+      "u41.climb-a-mountain",
+      "u41.go-skydiving"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.in-my-life",
+      "u41.so-far",
+      "u41.climb-a-mountain",
+      "u41.go-skydiving"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.in-my-life",
+      "u41.so-far",
+      "u41.climb-a-mountain",
+      "u41.go-skydiving"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.i-ve-been-to-mexico",
+      "u41.she-has-visited-peru",
+      "u41.experience",
+      "u41.adventure",
+      "u41.once-in-my-life",
+      "u41.several-times"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l4",
+   "title": "4. go scuba diving, ride a horse, try new food…",
+   "focus": "listening",
+   "newItems": [
+    "u41.go-scuba-diving",
+    "u41.ride-a-horse",
+    "u41.try-new-food",
+    "u41.meet-someone-famous"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.go-scuba-diving",
+      "u41.ride-a-horse"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.try-new-food",
+      "u41.meet-someone-famous"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.go-scuba-diving",
+      "u41.ride-a-horse",
+      "u41.try-new-food",
+      "u41.meet-someone-famous"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.go-scuba-diving",
+      "u41.ride-a-horse",
+      "u41.try-new-food",
+      "u41.meet-someone-famous"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.go-scuba-diving",
+      "u41.ride-a-horse",
+      "u41.try-new-food",
+      "u41.meet-someone-famous"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.once-in-my-life",
+      "u41.several-times",
+      "u41.in-my-life",
+      "u41.so-far",
+      "u41.climb-a-mountain",
+      "u41.go-skydiving"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l5",
+   "title": "5. win a prize, lose your wallet, break a bone…",
+   "focus": "listening",
+   "newItems": [
+    "u41.win-a-prize",
+    "u41.lose-your-wallet",
+    "u41.break-a-bone",
+    "u41.fall-in-love"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.win-a-prize",
+      "u41.lose-your-wallet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.break-a-bone",
+      "u41.fall-in-love"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.win-a-prize",
+      "u41.lose-your-wallet",
+      "u41.break-a-bone",
+      "u41.fall-in-love"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.win-a-prize",
+      "u41.lose-your-wallet",
+      "u41.break-a-bone",
+      "u41.fall-in-love"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.win-a-prize",
+      "u41.lose-your-wallet",
+      "u41.break-a-bone",
+      "u41.fall-in-love"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.climb-a-mountain",
+      "u41.go-skydiving",
+      "u41.go-scuba-diving",
+      "u41.ride-a-horse",
+      "u41.try-new-food",
+      "u41.meet-someone-famous"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l6",
+   "title": "6. get lost, stay up all night, miss a flight…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u41.get-lost",
+    "u41.stay-up-all-night",
+    "u41.miss-a-flight",
+    "u41.see-snow"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.get-lost",
+      "u41.stay-up-all-night"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.miss-a-flight",
+      "u41.see-snow"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.get-lost",
+      "u41.stay-up-all-night",
+      "u41.miss-a-flight",
+      "u41.see-snow"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.get-lost",
+      "u41.stay-up-all-night",
+      "u41.miss-a-flight",
+      "u41.see-snow"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.get-lost",
+      "u41.stay-up-all-night",
+      "u41.miss-a-flight",
+      "u41.see-snow"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.try-new-food",
+      "u41.meet-someone-famous",
+      "u41.win-a-prize",
+      "u41.lose-your-wallet",
+      "u41.break-a-bone",
+      "u41.fall-in-love"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l7",
+   "title": "7. go abroad, live abroad, seen…",
+   "focus": "reading",
+   "newItems": [
+    "u41.go-abroad",
+    "u41.live-abroad",
+    "u41.seen",
+    "u41.been"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.go-abroad",
+      "u41.live-abroad"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.seen",
+      "u41.been"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.go-abroad",
+      "u41.live-abroad",
+      "u41.seen",
+      "u41.been"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.go-abroad",
+      "u41.live-abroad",
+      "u41.seen",
+      "u41.been"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.go-abroad",
+      "u41.live-abroad",
+      "u41.seen",
+      "u41.been"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.break-a-bone",
+      "u41.fall-in-love",
+      "u41.get-lost",
+      "u41.stay-up-all-night",
+      "u41.miss-a-flight",
+      "u41.see-snow"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🧭",
+     "title": "been vs gone",
+     "text": "She has been to Paris = ya fue y volvió (es una experiencia). She has gone to Paris = se fue a París y todavía está allá."
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l8",
+   "title": "8. done, eaten, drunk…",
+   "focus": "listening",
+   "newItems": [
+    "u41.done",
+    "u41.eaten",
+    "u41.drunk",
+    "u41.gone"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.done",
+      "u41.eaten"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.drunk",
+      "u41.gone"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.done",
+      "u41.eaten",
+      "u41.drunk",
+      "u41.gone"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.done",
+      "u41.eaten",
+      "u41.drunk",
+      "u41.gone"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.done",
+      "u41.eaten",
+      "u41.drunk",
+      "u41.gone"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.miss-a-flight",
+      "u41.see-snow",
+      "u41.go-abroad",
+      "u41.live-abroad",
+      "u41.seen",
+      "u41.been"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l9",
+   "title": "9. taken, written, spoken…",
+   "focus": "listening",
+   "newItems": [
+    "u41.taken",
+    "u41.written",
+    "u41.spoken",
+    "u41.ridden"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.taken",
+      "u41.written"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.spoken",
+      "u41.ridden"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.taken",
+      "u41.written",
+      "u41.spoken",
+      "u41.ridden"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.taken",
+      "u41.written",
+      "u41.spoken",
+      "u41.ridden"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.taken",
+      "u41.written",
+      "u41.spoken",
+      "u41.ridden"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.seen",
+      "u41.been",
+      "u41.done",
+      "u41.eaten",
+      "u41.drunk",
+      "u41.gone"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l10",
+   "title": "10. flown, swum, lost…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u41.flown",
+    "u41.swum",
+    "u41.lost-participle",
+    "u41.won-participle"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.flown",
+      "u41.swum"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.lost-participle",
+      "u41.won-participle"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.flown",
+      "u41.swum",
+      "u41.lost-participle",
+      "u41.won-participle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.flown",
+      "u41.swum",
+      "u41.lost-participle",
+      "u41.won-participle"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.flown",
+      "u41.swum",
+      "u41.lost-participle",
+      "u41.won-participle"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.drunk",
+      "u41.gone",
+      "u41.taken",
+      "u41.written",
+      "u41.spoken",
+      "u41.ridden"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l11",
+   "title": "11. unforgettable, amazing experience, scary experience…",
+   "focus": "reading",
+   "newItems": [
+    "u41.unforgettable",
+    "u41.amazing-experience",
+    "u41.scary-experience",
+    "u41.bucket-list"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.unforgettable",
+      "u41.amazing-experience"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.scary-experience",
+      "u41.bucket-list"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.unforgettable",
+      "u41.amazing-experience",
+      "u41.scary-experience",
+      "u41.bucket-list"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.unforgettable",
+      "u41.amazing-experience",
+      "u41.scary-experience",
+      "u41.bucket-list"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.unforgettable",
+      "u41.amazing-experience",
+      "u41.scary-experience",
+      "u41.bucket-list"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.spoken",
+      "u41.ridden",
+      "u41.flown",
+      "u41.swum",
+      "u41.lost-participle",
+      "u41.won-participle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Alguna vez has…?",
+     "scene": "🔥 Juego de preguntas en una fogata con amigos.",
+     "lines": [
+      {
+       "who": "Leo",
+       "en": "OK, my question. Have you ever gone skydiving?",
+       "es": "Bueno, mi pregunta. ¿Alguna vez te has lanzado en paracaídas?"
+      },
+      {
+       "who": "Ana",
+       "en": "No, never! I'm afraid of heights. Have you?",
+       "es": "¡No, nunca! Les tengo miedo a las alturas. ¿Y tú?"
+      },
+      {
+       "who": "Leo",
+       "en": "Yes, once. I did it in Brazil two years ago.",
+       "es": "Sí, una vez. Lo hice en Brasil hace dos años."
+      },
+      {
+       "who": "Ana",
+       "en": "Wow! What was it like?",
+       "es": "¡Uy! ¿Cómo fue?"
+      },
+      {
+       "who": "Leo",
+       "en": "Scary at first, but it was an unforgettable experience.",
+       "es": "Aterrador al principio, pero fue una experiencia inolvidable."
+      },
+      {
+       "who": "Ana",
+       "en": "It's not on my bucket list, ha ha.",
+       "es": "No está en mi lista de pendientes, ja ja."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l12",
+   "title": "12. dream come true, once-in-a-lifetime, rather…",
+   "focus": "listening",
+   "newItems": [
+    "u41.dream-come-true",
+    "u41.once-in-a-lifetime",
+    "u41.rather",
+    "u41.how-was-it"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.dream-come-true",
+      "u41.once-in-a-lifetime"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u41.rather",
+      "u41.how-was-it"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.dream-come-true",
+      "u41.once-in-a-lifetime",
+      "u41.rather",
+      "u41.how-was-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.dream-come-true",
+      "u41.once-in-a-lifetime",
+      "u41.rather",
+      "u41.how-was-it"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.dream-come-true",
+      "u41.once-in-a-lifetime",
+      "u41.rather",
+      "u41.how-was-it"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.lost-participle",
+      "u41.won-participle",
+      "u41.unforgettable",
+      "u41.amazing-experience",
+      "u41.scary-experience",
+      "u41.bucket-list"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-l13",
+   "title": "13. What was it like?, I've always wanted to…",
+   "focus": "listening",
+   "newItems": [
+    "u41.what-was-it-like",
+    "u41.i-ve-always-wanted-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u41.what-was-it-like",
+      "u41.i-ve-always-wanted-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.what-was-it-like",
+      "u41.i-ve-always-wanted-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.what-was-it-like",
+      "u41.i-ve-always-wanted-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.what-was-it-like",
+      "u41.i-ve-always-wanted-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.scary-experience",
+      "u41.bucket-list",
+      "u41.dream-come-true",
+      "u41.once-in-a-lifetime",
+      "u41.rather",
+      "u41.how-was-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u41-experiencias-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La lista de mi abuela",
+     "emoji": "📝",
+     "paragraphs": [
+      {
+       "en": "My grandmother is seventy-five and she has a very long bucket list.",
+       "es": "Mi abuela tiene setenta y cinco años y una lista de pendientes muy larga."
+      },
+      {
+       "en": "She has lived in three countries and she has learned four languages.",
+       "es": "Ha vivido en tres países y ha aprendido cuatro idiomas."
+      },
+      {
+       "en": "She has ridden a camel in Egypt and she has swum with dolphins.",
+       "es": "Ha montado en camello en Egipto y ha nadado con delfines."
+      },
+      {
+       "en": "But she has never seen snow. That's the next thing on her list.",
+       "es": "Pero nunca ha visto nieve. Eso es lo siguiente en su lista."
+      },
+      {
+       "en": "Last December we took her to the mountains in Chile.",
+       "es": "El diciembre pasado la llevamos a las montañas en Chile."
+      },
+      {
+       "en": "When she saw the snow, she cried and said, \"It's a dream come true.\"",
+       "es": "Cuando vio la nieve, lloró y dijo: \"Es un sueño hecho realidad.\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuántos idiomas ha aprendido?",
+       "options": [
+        "Dos",
+        "Cuatro",
+        "Tres"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué nunca había hecho?",
+       "options": [
+        "Montar en camello",
+        "Ver nieve",
+        "Nadar con delfines"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde vio la nieve?",
+       "options": [
+        "En Chile",
+        "En Egipto",
+        "En Canadá"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Entrevista para un voluntariado",
+     "scene": "🌎 Te entrevistan para un voluntariado en el extranjero.",
+     "turns": [
+      {
+       "who": "Interviewer",
+       "en": "Have you ever lived abroad?",
+       "es": "¿Alguna vez ha vivido en el extranjero?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No, I haven't, but I've traveled a lot in Colombia.",
+         "es": "No, pero he viajado mucho por Colombia.",
+         "ok": true
+        },
+        {
+         "en": "No, I didn't lived abroad.",
+         "es": "No, yo no vivido afuera.",
+         "ok": false,
+         "why": "La respuesta corta es \"No, I haven't\"."
+        }
+       ]
+      },
+      {
+       "who": "Interviewer",
+       "en": "Have you worked with children before?",
+       "es": "¿Ha trabajado con niños antes?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I have. I taught English at a school last year.",
+         "es": "Sí. Enseñé inglés en un colegio el año pasado.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I have teach at a school.",
+         "es": "Sí, he enseñar en un colegio.",
+         "ok": false,
+         "why": "El participio de teach es \"taught\"."
+        }
+       ]
+      },
+      {
+       "who": "Interviewer",
+       "en": "Why do you want to do this?",
+       "es": "¿Por qué quiere hacer esto?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I've always wanted to help people and learn about other cultures.",
+         "es": "Siempre he querido ayudar a la gente y aprender de otras culturas.",
+         "ok": true
+        },
+        {
+         "en": "I've never wanted to help people.",
+         "es": "Nunca he querido ayudar a la gente.",
+         "ok": false,
+         "why": "Es lo contrario de lo que buscan."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Alguna vez has estado en Bogotá?",
+     "en": "Have you ever been to Bogotá?",
+     "accept": [
+      "Have you ever been to Bogota?"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Nunca he visto la nieve.",
+     "en": "I've never seen snow.",
+     "accept": [
+      "I have never seen snow.",
+      "I've never seen the snow."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ella ha probado comida japonesa.",
+     "en": "She has tried Japanese food.",
+     "accept": [
+      "She's tried Japanese food."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Have you ever ridden a horse?",
+     "es": "¿Alguna vez has montado a caballo?"
+    },
+    {
+     "type": "dictation",
+     "en": "It was an unforgettable experience.",
+     "es": "Fue una experiencia inolvidable."
+    },
+    {
+     "type": "speak",
+     "en": "I've never been to Europe, but I've always wanted to go.",
+     "es": "Nunca he ido a Europa, pero siempre he querido ir.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u41.scary-experience",
+      "u41.bucket-list",
+      "u41.dream-come-true",
+      "u41.once-in-a-lifetime",
+      "u41.rather",
+      "u41.how-was-it",
+      "u41.what-was-it-like",
+      "u41.i-ve-always-wanted-to"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

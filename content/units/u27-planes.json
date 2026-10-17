@@ -1,0 +1,1247 @@
+{
+ "_generated": true,
+ "id": "u27-planes",
+ "level": "A2",
+ "title": "Planes para el futuro",
+ "emoji": "🧳",
+ "canDo": "Ya puedo hablar de mis planes",
+ "summary": "going to para planes e intenciones, y el presente continuo para citas ya arregladas.",
+ "grammar": [
+  "Going to",
+  "Presente continuo para planes"
+ ],
+ "items": [
+  {
+   "id": "u27.i-m-going-to-travel",
+   "en": "I'm going to travel",
+   "es": "Voy a viajar",
+   "kind": "chunk",
+   "emoji": "🧳",
+   "say": "áim góu-ing tu trá-vel"
+  },
+  {
+   "id": "u27.she-s-going-to-study",
+   "en": "She's going to study",
+   "es": "Ella va a estudiar",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u27.are-you-going-to-come",
+   "en": "Are you going to come?",
+   "es": "¿Vas a venir?",
+   "kind": "chunk",
+   "emoji": "❔"
+  },
+  {
+   "id": "u27.i-m-not-going-to-work",
+   "en": "I'm not going to work",
+   "es": "No voy a trabajar",
+   "kind": "chunk",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u27.gonna",
+   "en": "gonna",
+   "es": "contracción informal de going to",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "gá-na",
+   "tip": "Muy común al hablar: I'm gonna eat."
+  },
+  {
+   "id": "u27.plan",
+   "en": "plan",
+   "es": "plan / planear",
+   "kind": "word",
+   "emoji": "🗒️",
+   "say": "plan"
+  },
+  {
+   "id": "u27.next-week",
+   "en": "next week",
+   "es": "la próxima semana",
+   "kind": "chunk",
+   "emoji": "⏭️"
+  },
+  {
+   "id": "u27.next-month",
+   "en": "next month",
+   "es": "el próximo mes",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u27.next-year",
+   "en": "next year",
+   "es": "el próximo año",
+   "kind": "chunk",
+   "emoji": "🎆"
+  },
+  {
+   "id": "u27.this-weekend",
+   "en": "this weekend",
+   "es": "este fin de semana",
+   "kind": "chunk",
+   "emoji": "🛋️"
+  },
+  {
+   "id": "u27.tonight",
+   "en": "tonight",
+   "es": "esta noche",
+   "kind": "word",
+   "emoji": "🌙",
+   "say": "tu-náit"
+  },
+  {
+   "id": "u27.soon",
+   "en": "soon",
+   "es": "pronto",
+   "kind": "word",
+   "emoji": "⏩",
+   "say": "súun"
+  },
+  {
+   "id": "u27.later",
+   "en": "later",
+   "es": "más tarde",
+   "kind": "word",
+   "emoji": "🕓"
+  },
+  {
+   "id": "u27.in-the-future",
+   "en": "in the future",
+   "es": "en el futuro",
+   "kind": "chunk",
+   "emoji": "🔮"
+  },
+  {
+   "id": "u27.someday",
+   "en": "someday",
+   "es": "algún día",
+   "kind": "word",
+   "emoji": "🌠",
+   "say": "sám-dei"
+  },
+  {
+   "id": "u27.vacation",
+   "en": "vacation",
+   "es": "vacaciones",
+   "kind": "word",
+   "emoji": "🏝️",
+   "say": "vei-kéi-shon"
+  },
+  {
+   "id": "u27.visit",
+   "en": "visit",
+   "es": "visitar",
+   "kind": "word",
+   "emoji": "🧭"
+  },
+  {
+   "id": "u27.learn",
+   "en": "learn",
+   "es": "aprender",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "lern"
+  },
+  {
+   "id": "u27.save-money",
+   "en": "save money",
+   "es": "ahorrar plata",
+   "kind": "chunk",
+   "emoji": "🐷"
+  },
+  {
+   "id": "u27.get-married",
+   "en": "get married",
+   "es": "casarse",
+   "kind": "chunk",
+   "emoji": "💍",
+   "say": "get má-rid"
+  },
+  {
+   "id": "u27.have-a-baby",
+   "en": "have a baby",
+   "es": "tener un bebé",
+   "kind": "chunk",
+   "emoji": "👶"
+  },
+  {
+   "id": "u27.buy-a-house",
+   "en": "buy a house",
+   "es": "comprar una casa",
+   "kind": "chunk",
+   "emoji": "🏡"
+  },
+  {
+   "id": "u27.start-a-business",
+   "en": "start a business",
+   "es": "empezar un negocio",
+   "kind": "chunk",
+   "emoji": "🚀"
+  },
+  {
+   "id": "u27.change-jobs",
+   "en": "change jobs",
+   "es": "cambiar de trabajo",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u27.graduate",
+   "en": "graduate",
+   "es": "graduarse",
+   "kind": "word",
+   "emoji": "🎓",
+   "say": "grá-yu-eit"
+  },
+  {
+   "id": "u27.celebrate",
+   "en": "celebrate",
+   "es": "celebrar",
+   "kind": "word",
+   "emoji": "🥂",
+   "say": "sé-le-breit"
+  },
+  {
+   "id": "u27.stay",
+   "en": "stay",
+   "es": "quedarse",
+   "kind": "word",
+   "emoji": "🏨"
+  },
+  {
+   "id": "u27.pack",
+   "en": "pack",
+   "es": "empacar",
+   "kind": "word",
+   "emoji": "🎒",
+   "say": "pak"
+  },
+  {
+   "id": "u27.book-a-hotel",
+   "en": "book a hotel",
+   "es": "reservar un hotel",
+   "kind": "chunk",
+   "emoji": "🏨"
+  },
+  {
+   "id": "u27.dream",
+   "en": "dream",
+   "es": "sueño / soñar",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "dríim"
+  },
+  {
+   "id": "u27.goal",
+   "en": "goal",
+   "es": "meta",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "góul"
+  },
+  {
+   "id": "u27.maybe",
+   "en": "maybe",
+   "es": "tal vez",
+   "kind": "word",
+   "emoji": "🤷",
+   "say": "méi-bi"
+  },
+  {
+   "id": "u27.probably",
+   "en": "probably",
+   "es": "probablemente",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "pró-ba-bli"
+  },
+  {
+   "id": "u27.definitely",
+   "en": "definitely",
+   "es": "definitivamente",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "dé-fi-nit-li"
+  },
+  {
+   "id": "u27.i-can-t-wait",
+   "en": "I can't wait!",
+   "es": "¡No veo la hora!",
+   "kind": "chunk",
+   "emoji": "🤩"
+  },
+  {
+   "id": "u27.what-are-you-doing-tonight",
+   "en": "What are you doing tonight?",
+   "es": "¿Qué vas a hacer esta noche?",
+   "kind": "chunk",
+   "emoji": "🌃"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u27-planes-l1",
+   "title": "1. I'm going to travel, She's going to study, Are you going to come?…",
+   "focus": "listening",
+   "newItems": [
+    "u27.i-m-going-to-travel",
+    "u27.she-s-going-to-study",
+    "u27.are-you-going-to-come",
+    "u27.i-m-not-going-to-work"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.i-m-going-to-travel",
+      "u27.she-s-going-to-study"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.are-you-going-to-come",
+      "u27.i-m-not-going-to-work"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.i-m-going-to-travel",
+      "u27.she-s-going-to-study",
+      "u27.are-you-going-to-come",
+      "u27.i-m-not-going-to-work"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.i-m-going-to-travel",
+      "u27.she-s-going-to-study",
+      "u27.are-you-going-to-come",
+      "u27.i-m-not-going-to-work"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l2",
+   "title": "2. gonna, plan, next week…",
+   "focus": "grammar",
+   "newItems": [
+    "u27.gonna",
+    "u27.plan",
+    "u27.next-week",
+    "u27.next-month"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.gonna",
+      "u27.plan"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.next-week",
+      "u27.next-month"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.gonna",
+      "u27.plan",
+      "u27.next-week",
+      "u27.next-month"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.gonna",
+      "u27.plan",
+      "u27.next-week",
+      "u27.next-month"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.i-m-going-to-travel",
+      "u27.she-s-going-to-study",
+      "u27.are-you-going-to-come",
+      "u27.i-m-not-going-to-work"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "going to para planes",
+     "intro": "Mira cómo hablan estas personas de lo que van a hacer.",
+     "examples": [
+      {
+       "en": "I'm going to visit my parents next week.",
+       "es": "Voy a visitar a mis papás la próxima semana.",
+       "mark": [
+        "going to"
+       ]
+      },
+      {
+       "en": "She's going to start a business.",
+       "es": "Ella va a empezar un negocio.",
+       "mark": [
+        "going to"
+       ]
+      },
+      {
+       "en": "We're going to save money for a car.",
+       "es": "Vamos a ahorrar para un carro.",
+       "mark": [
+        "going to"
+       ]
+      },
+      {
+       "en": "Are you going to graduate this year?",
+       "es": "¿Te vas a graduar este año?",
+       "mark": [
+        "going to"
+       ]
+      },
+      {
+       "en": "They aren't going to come tonight.",
+       "es": "Ellos no van a venir esta noche.",
+       "mark": [
+        "going to"
+       ]
+      }
+     ],
+     "question": "¿Cómo se dice 'voy a + verbo'?",
+     "options": [
+      "am/is/are + going to + verbo",
+      "will + going",
+      "go + verbo con -ing"
+     ],
+     "answer": 0,
+     "rule": "GOING TO sirve para planes e intenciones: am / is / are + going to + verbo. Es casi igual al español 'voy a + verbo'. Al hablar rápido suena 'gonna': I'm gonna travel. Para citas ya fijadas también se usa el presente continuo: I'm meeting Ana at six.",
+     "ruleExamples": [
+      {
+       "en": "I'm going to learn English and someday I'm going to travel to London.",
+       "es": "Voy a aprender inglés y algún día voy a viajar a Londres."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I'm going ___ buy a car.",
+     "options": [
+      "to",
+      "for"
+     ],
+     "answer": 0,
+     "es": "Voy a comprar un carro."
+    },
+    {
+     "type": "fill",
+     "en": "She ___ going to get married in June.",
+     "options": [
+      "is",
+      "are"
+     ],
+     "answer": 0,
+     "es": "Ella se va a casar en junio."
+    },
+    {
+     "type": "fill",
+     "en": "___ you going to come tonight?",
+     "options": [
+      "Are",
+      "Do"
+     ],
+     "answer": 0,
+     "es": "¿Vas a venir esta noche?"
+    },
+    {
+     "type": "fill",
+     "en": "We ___ going to stay at a hotel.",
+     "options": [
+      "aren't",
+      "don't"
+     ],
+     "answer": 0,
+     "es": "No nos vamos a quedar en un hotel."
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l3",
+   "title": "3. next year, this weekend, tonight…",
+   "focus": "reading",
+   "newItems": [
+    "u27.next-year",
+    "u27.this-weekend",
+    "u27.tonight",
+    "u27.soon"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.next-year",
+      "u27.this-weekend"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.tonight",
+      "u27.soon"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.next-year",
+      "u27.this-weekend",
+      "u27.tonight",
+      "u27.soon"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.next-year",
+      "u27.this-weekend",
+      "u27.tonight",
+      "u27.soon"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.are-you-going-to-come",
+      "u27.i-m-not-going-to-work",
+      "u27.gonna",
+      "u27.plan",
+      "u27.next-week",
+      "u27.next-month"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l4",
+   "title": "4. later, in the future, someday…",
+   "focus": "listening",
+   "newItems": [
+    "u27.later",
+    "u27.in-the-future",
+    "u27.someday",
+    "u27.vacation"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.later",
+      "u27.in-the-future"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.someday",
+      "u27.vacation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.later",
+      "u27.in-the-future",
+      "u27.someday",
+      "u27.vacation"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.later",
+      "u27.in-the-future",
+      "u27.someday",
+      "u27.vacation"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.next-week",
+      "u27.next-month",
+      "u27.next-year",
+      "u27.this-weekend",
+      "u27.tonight",
+      "u27.soon"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l5",
+   "title": "5. visit, learn, save money…",
+   "focus": "listening",
+   "newItems": [
+    "u27.visit",
+    "u27.learn",
+    "u27.save-money",
+    "u27.get-married"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.visit",
+      "u27.learn"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.save-money",
+      "u27.get-married"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.visit",
+      "u27.learn",
+      "u27.save-money",
+      "u27.get-married"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.visit",
+      "u27.learn",
+      "u27.save-money",
+      "u27.get-married"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.tonight",
+      "u27.soon",
+      "u27.later",
+      "u27.in-the-future",
+      "u27.someday",
+      "u27.vacation"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l6",
+   "title": "6. have a baby, buy a house, start a business…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u27.have-a-baby",
+    "u27.buy-a-house",
+    "u27.start-a-business",
+    "u27.change-jobs"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.have-a-baby",
+      "u27.buy-a-house"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.start-a-business",
+      "u27.change-jobs"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.have-a-baby",
+      "u27.buy-a-house",
+      "u27.start-a-business",
+      "u27.change-jobs"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.have-a-baby",
+      "u27.buy-a-house",
+      "u27.start-a-business",
+      "u27.change-jobs"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.someday",
+      "u27.vacation",
+      "u27.visit",
+      "u27.learn",
+      "u27.save-money",
+      "u27.get-married"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l7",
+   "title": "7. graduate, celebrate, stay…",
+   "focus": "reading",
+   "newItems": [
+    "u27.graduate",
+    "u27.celebrate",
+    "u27.stay",
+    "u27.pack"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.graduate",
+      "u27.celebrate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.stay",
+      "u27.pack"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.graduate",
+      "u27.celebrate",
+      "u27.stay",
+      "u27.pack"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.graduate",
+      "u27.celebrate",
+      "u27.stay",
+      "u27.pack"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.save-money",
+      "u27.get-married",
+      "u27.have-a-baby",
+      "u27.buy-a-house",
+      "u27.start-a-business",
+      "u27.change-jobs"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Las vacaciones",
+     "scene": "🏝️ Faltan dos semanas para vacaciones.",
+     "lines": [
+      {
+       "who": "Ben",
+       "en": "What are you going to do on vacation?",
+       "es": "¿Qué vas a hacer en vacaciones?"
+      },
+      {
+       "who": "Lia",
+       "en": "I'm going to visit my cousins in Cali. And you?",
+       "es": "Voy a visitar a mis primos en Cali. ¿Y tú?"
+      },
+      {
+       "who": "Ben",
+       "en": "I'm going to stay at home and save money.",
+       "es": "Me voy a quedar en casa y ahorrar plata."
+      },
+      {
+       "who": "Lia",
+       "en": "Boring! Are you going to do anything fun?",
+       "es": "¡Qué aburrido! ¿Vas a hacer algo divertido?"
+      },
+      {
+       "who": "Ben",
+       "en": "Maybe. I'm meeting my friends on Saturday.",
+       "es": "Tal vez. Me voy a ver con mis amigos el sábado."
+      },
+      {
+       "who": "Lia",
+       "en": "Good! I can't wait for vacation!",
+       "es": "¡Bien! ¡No veo la hora de las vacaciones!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l8",
+   "title": "8. book a hotel, dream, goal…",
+   "focus": "listening",
+   "newItems": [
+    "u27.book-a-hotel",
+    "u27.dream",
+    "u27.goal",
+    "u27.maybe"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.book-a-hotel",
+      "u27.dream"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.goal",
+      "u27.maybe"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.book-a-hotel",
+      "u27.dream",
+      "u27.goal",
+      "u27.maybe"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.book-a-hotel",
+      "u27.dream",
+      "u27.goal",
+      "u27.maybe"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.start-a-business",
+      "u27.change-jobs",
+      "u27.graduate",
+      "u27.celebrate",
+      "u27.stay",
+      "u27.pack"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-l9",
+   "title": "9. probably, definitely, I can't wait!…",
+   "focus": "listening",
+   "newItems": [
+    "u27.probably",
+    "u27.definitely",
+    "u27.i-can-t-wait",
+    "u27.what-are-you-doing-tonight"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u27.probably",
+      "u27.definitely"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u27.i-can-t-wait",
+      "u27.what-are-you-doing-tonight"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.probably",
+      "u27.definitely",
+      "u27.i-can-t-wait",
+      "u27.what-are-you-doing-tonight"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.probably",
+      "u27.definitely",
+      "u27.i-can-t-wait",
+      "u27.what-are-you-doing-tonight"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.stay",
+      "u27.pack",
+      "u27.book-a-hotel",
+      "u27.dream",
+      "u27.goal",
+      "u27.maybe"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u27-planes-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Los planes de Andrés",
+     "emoji": "🚀",
+     "paragraphs": [
+      {
+       "en": "Andrés is twenty-three and he has big plans.",
+       "es": "Andrés tiene veintitrés años y tiene grandes planes."
+      },
+      {
+       "en": "Next year he's going to graduate from university.",
+       "es": "El próximo año se va a graduar de la universidad."
+      },
+      {
+       "en": "Then he's going to start a business with his best friend.",
+       "es": "Luego va a empezar un negocio con su mejor amigo."
+      },
+      {
+       "en": "They're going to make an app for small farmers.",
+       "es": "Van a hacer una aplicación para pequeños agricultores."
+      },
+      {
+       "en": "He isn't going to buy a car. He's going to save money first.",
+       "es": "No va a comprar carro. Primero va a ahorrar plata."
+      },
+      {
+       "en": "Someday he's going to buy a house in the mountains. That's his dream.",
+       "es": "Algún día va a comprar una casa en la montaña. Ese es su sueño."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué va a hacer Andrés el próximo año?",
+       "options": [
+        "Casarse",
+        "Graduarse",
+        "Comprar un carro"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué van a crear?",
+       "options": [
+        "Un restaurante",
+        "Una aplicación para agricultores",
+        "Una tienda"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuál es su sueño?",
+       "options": [
+        "Una casa en la montaña",
+        "Viajar a Europa",
+        "Un carro nuevo"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Organizar el sábado",
+     "scene": "📱 Una amiga te escribe para hacer planes.",
+     "turns": [
+      {
+       "who": "Sara",
+       "en": "Hi! What are you doing on Saturday?",
+       "es": "¡Hola! ¿Qué vas a hacer el sábado?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm going to clean my apartment in the morning. Why?",
+         "es": "Voy a limpiar mi apartamento por la mañana. ¿Por qué?",
+         "ok": true
+        },
+        {
+         "en": "I cleaned my apartment on Saturday.",
+         "es": "Limpié mi apartamento el sábado.",
+         "ok": false,
+         "why": "Ella pregunta por el futuro."
+        }
+       ]
+      },
+      {
+       "who": "Sara",
+       "en": "We're going to have a picnic in the afternoon. Do you want to come?",
+       "es": "Vamos a hacer un picnic por la tarde. ¿Quieres venir?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, definitely! What time?",
+         "es": "¡Sí, claro que sí! ¿A qué hora?",
+         "ok": true
+        },
+        {
+         "en": "Yes, I'm going to coming.",
+         "es": "Sí, voy a viniendo.",
+         "ok": false,
+         "why": "Después de \"going to\" va el verbo normal: come."
+        }
+       ]
+      },
+      {
+       "who": "Sara",
+       "en": "At three. I'm going to bring sandwiches.",
+       "es": "A las tres. Voy a llevar sándwiches."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Great! I'm going to bring juice.",
+         "es": "¡Genial! Yo voy a llevar jugo.",
+         "ok": true
+        },
+        {
+         "en": "Great! I bring juice yesterday.",
+         "es": "¡Genial! Llevo jugo ayer.",
+         "ok": false,
+         "why": "Mezcla tiempos."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Voy a viajar el próximo año.",
+     "en": "I'm going to travel next year.",
+     "accept": [
+      "I am going to travel next year."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Qué vas a hacer esta noche?",
+     "en": "What are you going to do tonight?",
+     "accept": [
+      "What are you doing tonight?"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No voy a trabajar mañana.",
+     "en": "I'm not going to work tomorrow.",
+     "accept": [
+      "I am not going to work tomorrow."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "She's going to start a business next year.",
+     "es": "Ella va a empezar un negocio el próximo año."
+    },
+    {
+     "type": "dictation",
+     "en": "We're gonna be late!",
+     "es": "¡Vamos a llegar tarde!"
+    },
+    {
+     "type": "speak",
+     "en": "Next year I'm going to speak English very well.",
+     "es": "El próximo año voy a hablar inglés muy bien.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u27.book-a-hotel",
+      "u27.dream",
+      "u27.goal",
+      "u27.maybe",
+      "u27.probably",
+      "u27.definitely",
+      "u27.i-can-t-wait",
+      "u27.what-are-you-doing-tonight"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1625 @@
+{
+ "_generated": true,
+ "id": "u75-matices",
+ "level": "C1",
+ "title": "Matices y registro",
+ "emoji": "🎩",
+ "canDo": "Ya adapto mi inglés a lo formal y lo informal con precisión",
+ "summary": "Collocations, formalidad y la inversión para dar énfasis, propios de un nivel avanzado.",
+ "grammar": [
+  "Inversión enfática: Not only…, Never have I…",
+  "Collocations formales"
+ ],
+ "items": [
+  {
+   "id": "u75.to-put-it-bluntly",
+   "en": "to put it bluntly",
+   "es": "para decirlo sin rodeos",
+   "kind": "chunk",
+   "emoji": "🗯️"
+  },
+  {
+   "id": "u75.to-be-frank",
+   "en": "to be frank",
+   "es": "para ser franco",
+   "kind": "chunk",
+   "emoji": "🫡"
+  },
+  {
+   "id": "u75.with-all-due-respect",
+   "en": "with all due respect",
+   "es": "con el debido respeto",
+   "kind": "chunk",
+   "emoji": "🙇"
+  },
+  {
+   "id": "u75.i-beg-to-differ",
+   "en": "I beg to differ",
+   "es": "me permito disentir",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u75.bear-in-mind",
+   "en": "bear in mind",
+   "es": "tener en cuenta",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u75.take-into-account",
+   "en": "take into account",
+   "es": "tomar en cuenta",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u75.in-light-of",
+   "en": "in light of",
+   "es": "a la luz de",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u75.with-regard-to",
+   "en": "with regard to",
+   "es": "con respecto a",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u75.notwithstanding",
+   "en": "notwithstanding",
+   "es": "no obstante",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "not-uiz-stán-ding"
+  },
+  {
+   "id": "u75.nevertheless",
+   "en": "nevertheless",
+   "es": "sin embargo",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "ne-ver-de-lés"
+  },
+  {
+   "id": "u75.albeit",
+   "en": "albeit",
+   "es": "aunque",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "ol-bíit"
+  },
+  {
+   "id": "u75.henceforth",
+   "en": "henceforth",
+   "es": "de ahora en adelante",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "jens-fórz"
+  },
+  {
+   "id": "u75.hereby",
+   "en": "hereby",
+   "es": "por la presente",
+   "kind": "word",
+   "emoji": "📜",
+   "say": "jíer-bai"
+  },
+  {
+   "id": "u75.aforementioned",
+   "en": "aforementioned",
+   "es": "antes mencionado",
+   "kind": "word",
+   "emoji": "🔙",
+   "say": "a-fór-men-shond"
+  },
+  {
+   "id": "u75.subsequently",
+   "en": "subsequently",
+   "es": "posteriormente",
+   "kind": "word",
+   "emoji": "⏭️",
+   "say": "sáb-se-kuent-li"
+  },
+  {
+   "id": "u75.accordingly",
+   "en": "accordingly",
+   "es": "en consecuencia",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "a-kór-ding-li"
+  },
+  {
+   "id": "u75.undoubtedly",
+   "en": "undoubtedly",
+   "es": "sin duda",
+   "kind": "word",
+   "emoji": "✔️",
+   "say": "an-dáu-ted-li"
+  },
+  {
+   "id": "u75.arguably",
+   "en": "arguably",
+   "es": "posiblemente / se podría decir",
+   "kind": "word",
+   "emoji": "🤔",
+   "say": "ár-güa-bli"
+  },
+  {
+   "id": "u75.by-no-means",
+   "en": "by no means",
+   "es": "de ninguna manera",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u75.to-a-certain-extent",
+   "en": "to a certain extent",
+   "es": "hasta cierto punto",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u75.bluntly",
+   "en": "bluntly",
+   "es": "sin rodeos",
+   "kind": "word",
+   "emoji": "🗯️",
+   "say": "blánt-li"
+  },
+  {
+   "id": "u75.tactfully",
+   "en": "tactfully",
+   "es": "con tacto",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "tákt-ful-li"
+  },
+  {
+   "id": "u75.succinctly",
+   "en": "succinctly",
+   "es": "de forma concisa",
+   "kind": "word",
+   "emoji": "✂️",
+   "say": "sak-sínkt-li"
+  },
+  {
+   "id": "u75.elaborate",
+   "en": "elaborate",
+   "es": "explayarse / detallar",
+   "kind": "word",
+   "emoji": "📝",
+   "say": "i-lá-bo-reit"
+  },
+  {
+   "id": "u75.clarify",
+   "en": "clarify",
+   "es": "aclarar",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "klá-ri-fai"
+  },
+  {
+   "id": "u75.emphasize",
+   "en": "emphasize",
+   "es": "enfatizar",
+   "kind": "word",
+   "emoji": "📢",
+   "say": "ém-fa-sais"
+  },
+  {
+   "id": "u75.imply",
+   "en": "imply",
+   "es": "insinuar / dar a entender",
+   "kind": "word",
+   "emoji": "🤨",
+   "say": "im-plái"
+  },
+  {
+   "id": "u75.infer",
+   "en": "infer",
+   "es": "inferir",
+   "kind": "word",
+   "emoji": "🧩",
+   "say": "in-fér"
+  },
+  {
+   "id": "u75.convey",
+   "en": "convey",
+   "es": "transmitir",
+   "kind": "word",
+   "emoji": "📡",
+   "say": "kon-véi"
+  },
+  {
+   "id": "u75.articulate",
+   "en": "articulate",
+   "es": "expresar con claridad",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "ar-tí-kiu-leit"
+  },
+  {
+   "id": "u75.eloquent",
+   "en": "eloquent",
+   "es": "elocuente",
+   "kind": "word",
+   "emoji": "🎤",
+   "say": "é-lo-kuent"
+  },
+  {
+   "id": "u75.concise",
+   "en": "concise",
+   "es": "conciso",
+   "kind": "word",
+   "emoji": "✂️",
+   "say": "kon-sáis"
+  },
+  {
+   "id": "u75.verbose",
+   "en": "verbose",
+   "es": "palabrero",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "ver-bóus"
+  },
+  {
+   "id": "u75.blunt",
+   "en": "blunt",
+   "es": "directo / sin filtros",
+   "kind": "word",
+   "emoji": "🗯️",
+   "say": "blant"
+  },
+  {
+   "id": "u75.diplomatic",
+   "en": "diplomatic",
+   "es": "diplomático",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "di-plo-má-tik"
+  },
+  {
+   "id": "u75.patronizing",
+   "en": "patronizing",
+   "es": "condescendiente",
+   "kind": "word",
+   "emoji": "🙄",
+   "say": "pá-tro-nai-sing"
+  },
+  {
+   "id": "u75.sarcastic",
+   "en": "sarcastic",
+   "es": "sarcástico",
+   "kind": "word",
+   "emoji": "😏",
+   "say": "sar-kás-tik"
+  },
+  {
+   "id": "u75.understatement",
+   "en": "understatement",
+   "es": "atenuación / decir menos",
+   "kind": "word",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u75.euphemism",
+   "en": "euphemism",
+   "es": "eufemismo",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "iú-fe-mism"
+  },
+  {
+   "id": "u75.nuance",
+   "en": "nuance",
+   "es": "matiz",
+   "kind": "word",
+   "emoji": "🎨",
+   "say": "niú-ans"
+  },
+  {
+   "id": "u75.connotation",
+   "en": "connotation",
+   "es": "connotación",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "ko-no-téi-shon"
+  },
+  {
+   "id": "u75.tone",
+   "en": "tone",
+   "es": "tono",
+   "kind": "word",
+   "emoji": "🎚️",
+   "say": "tóun"
+  },
+  {
+   "id": "u75.formal-register",
+   "en": "formal register",
+   "es": "registro formal",
+   "kind": "chunk",
+   "emoji": "🎩"
+  },
+  {
+   "id": "u75.colloquial",
+   "en": "colloquial",
+   "es": "coloquial",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "ko-lóu-kui-al"
+  },
+  {
+   "id": "u75.slang",
+   "en": "slang",
+   "es": "jerga",
+   "kind": "word",
+   "emoji": "🤙",
+   "say": "slang"
+  },
+  {
+   "id": "u75.jargon",
+   "en": "jargon",
+   "es": "jerga técnica",
+   "kind": "word",
+   "emoji": "🔧",
+   "say": "yár-gon"
+  },
+  {
+   "id": "u75.not-only-did-she",
+   "en": "Not only did she…",
+   "es": "No solo ella…",
+   "kind": "chunk",
+   "emoji": "⬆️"
+  },
+  {
+   "id": "u75.never-have-i-seen",
+   "en": "Never have I seen…",
+   "es": "Nunca he visto…",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u75.rarely-do-we",
+   "en": "Rarely do we…",
+   "es": "Rara vez…",
+   "kind": "chunk",
+   "emoji": "🌑"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u75-matices-l1",
+   "title": "1. to put it bluntly, to be frank, with all due respect…",
+   "focus": "listening",
+   "newItems": [
+    "u75.to-put-it-bluntly",
+    "u75.to-be-frank",
+    "u75.with-all-due-respect",
+    "u75.i-beg-to-differ",
+    "u75.bear-in-mind"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.to-put-it-bluntly",
+      "u75.to-be-frank"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.with-all-due-respect",
+      "u75.i-beg-to-differ"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.bear-in-mind"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.to-put-it-bluntly",
+      "u75.to-be-frank",
+      "u75.with-all-due-respect",
+      "u75.i-beg-to-differ",
+      "u75.bear-in-mind"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.to-put-it-bluntly",
+      "u75.to-be-frank",
+      "u75.with-all-due-respect",
+      "u75.i-beg-to-differ",
+      "u75.bear-in-mind"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.to-put-it-bluntly",
+      "u75.to-be-frank",
+      "u75.with-all-due-respect",
+      "u75.i-beg-to-differ",
+      "u75.bear-in-mind"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l2",
+   "title": "2. take into account, in light of, with regard to…",
+   "focus": "grammar",
+   "newItems": [
+    "u75.take-into-account",
+    "u75.in-light-of",
+    "u75.with-regard-to",
+    "u75.notwithstanding",
+    "u75.nevertheless"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.take-into-account",
+      "u75.in-light-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.with-regard-to",
+      "u75.notwithstanding"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.nevertheless"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.take-into-account",
+      "u75.in-light-of",
+      "u75.with-regard-to",
+      "u75.notwithstanding",
+      "u75.nevertheless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.take-into-account",
+      "u75.in-light-of",
+      "u75.with-regard-to",
+      "u75.notwithstanding",
+      "u75.nevertheless"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.take-into-account",
+      "u75.in-light-of",
+      "u75.with-regard-to",
+      "u75.notwithstanding",
+      "u75.nevertheless"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.to-put-it-bluntly",
+      "u75.to-be-frank",
+      "u75.with-all-due-respect",
+      "u75.i-beg-to-differ",
+      "u75.bear-in-mind"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "La inversión enfática",
+     "intro": "Para dar énfasis, el inglés formal invierte el orden, como en una pregunta.",
+     "examples": [
+      {
+       "en": "I have never seen such talent. → Never have I seen such talent.",
+       "es": "Nunca he visto tal talento.",
+       "mark": [
+        "Never have I"
+       ]
+      },
+      {
+       "en": "She not only sings but also dances. → Not only does she sing, but she also dances.",
+       "es": "No solo canta, sino que también baila.",
+       "mark": [
+        "Not only does"
+       ]
+      },
+      {
+       "en": "We rarely see this. → Rarely do we see this.",
+       "es": "Rara vez vemos esto.",
+       "mark": [
+        "Rarely do"
+       ]
+      },
+      {
+       "en": "You will not succeed under any circumstances. → Under no circumstances will you succeed.",
+       "es": "No tendrás éxito bajo ninguna circunstancia.",
+       "mark": [
+        "Under no circumstances will"
+       ]
+      },
+      {
+       "en": "I had no sooner arrived than it started. → No sooner had I arrived than it started.",
+       "es": "Apenas llegué, empezó.",
+       "mark": [
+        "No sooner had"
+       ]
+      }
+     ],
+     "question": "Cuando una frase empieza con un adverbio negativo (Never, Rarely, Not only), ¿qué pasa con el orden?",
+     "options": [
+      "Se invierte, como en una pregunta (did she, have I)",
+      "Se queda igual",
+      "Se omite el verbo"
+     ],
+     "answer": 0,
+     "rule": "La INVERSIÓN se usa en registro formal y escrito para enfatizar. Al empezar con un adverbio negativo o restrictivo (Never, Rarely, Seldom, Not only, Under no circumstances, No sooner), el sujeto y el auxiliar se invierten como en una pregunta: Never have I… / Rarely do they… Suena elegante y enfático.",
+     "ruleExamples": [
+      {
+       "en": "Not only did the project succeed, but it also exceeded all expectations.",
+       "es": "No solo el proyecto tuvo éxito, sino que también superó todas las expectativas."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Never ___ I seen such a beautiful sunset.",
+     "options": [
+      "have",
+      "has"
+     ],
+     "answer": 0,
+     "es": "Nunca he visto un atardecer tan hermoso."
+    },
+    {
+     "type": "fill",
+     "en": "Not only ___ she arrive late, but she also forgot the files.",
+     "options": [
+      "did",
+      "was"
+     ],
+     "answer": 0,
+     "es": "No solo llegó tarde, sino que además olvidó los archivos."
+    },
+    {
+     "type": "fill",
+     "en": "Rarely ___ we get a chance like this.",
+     "options": [
+      "do",
+      "are"
+     ],
+     "answer": 0,
+     "es": "Rara vez tenemos una oportunidad como esta."
+    },
+    {
+     "type": "fill",
+     "en": "Under no circumstances ___ you share this.",
+     "options": [
+      "should",
+      "you should"
+     ],
+     "answer": 0,
+     "es": "Bajo ninguna circunstancia debes compartir esto."
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l3",
+   "title": "3. albeit, henceforth, hereby…",
+   "focus": "reading",
+   "newItems": [
+    "u75.albeit",
+    "u75.henceforth",
+    "u75.hereby",
+    "u75.aforementioned",
+    "u75.subsequently"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.albeit",
+      "u75.henceforth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.hereby",
+      "u75.aforementioned"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.subsequently"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.albeit",
+      "u75.henceforth",
+      "u75.hereby",
+      "u75.aforementioned",
+      "u75.subsequently"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.albeit",
+      "u75.henceforth",
+      "u75.hereby",
+      "u75.aforementioned",
+      "u75.subsequently"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.albeit",
+      "u75.henceforth",
+      "u75.hereby",
+      "u75.aforementioned",
+      "u75.subsequently"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.bear-in-mind",
+      "u75.take-into-account",
+      "u75.in-light-of",
+      "u75.with-regard-to",
+      "u75.notwithstanding",
+      "u75.nevertheless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l4",
+   "title": "4. accordingly, undoubtedly, arguably…",
+   "focus": "listening",
+   "newItems": [
+    "u75.accordingly",
+    "u75.undoubtedly",
+    "u75.arguably",
+    "u75.by-no-means",
+    "u75.to-a-certain-extent"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.accordingly",
+      "u75.undoubtedly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.arguably",
+      "u75.by-no-means"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.to-a-certain-extent"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.accordingly",
+      "u75.undoubtedly",
+      "u75.arguably",
+      "u75.by-no-means",
+      "u75.to-a-certain-extent"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.accordingly",
+      "u75.undoubtedly",
+      "u75.arguably",
+      "u75.by-no-means",
+      "u75.to-a-certain-extent"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.accordingly",
+      "u75.undoubtedly",
+      "u75.arguably",
+      "u75.by-no-means",
+      "u75.to-a-certain-extent"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.nevertheless",
+      "u75.albeit",
+      "u75.henceforth",
+      "u75.hereby",
+      "u75.aforementioned",
+      "u75.subsequently"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l5",
+   "title": "5. bluntly, tactfully, succinctly…",
+   "focus": "listening",
+   "newItems": [
+    "u75.bluntly",
+    "u75.tactfully",
+    "u75.succinctly",
+    "u75.elaborate",
+    "u75.clarify"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.bluntly",
+      "u75.tactfully"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.succinctly",
+      "u75.elaborate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.clarify"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.bluntly",
+      "u75.tactfully",
+      "u75.succinctly",
+      "u75.elaborate",
+      "u75.clarify"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.bluntly",
+      "u75.tactfully",
+      "u75.succinctly",
+      "u75.elaborate",
+      "u75.clarify"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.bluntly",
+      "u75.tactfully",
+      "u75.succinctly",
+      "u75.elaborate",
+      "u75.clarify"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.subsequently",
+      "u75.accordingly",
+      "u75.undoubtedly",
+      "u75.arguably",
+      "u75.by-no-means",
+      "u75.to-a-certain-extent"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l6",
+   "title": "6. emphasize, imply, infer…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u75.emphasize",
+    "u75.imply",
+    "u75.infer",
+    "u75.convey",
+    "u75.articulate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.emphasize",
+      "u75.imply"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.infer",
+      "u75.convey"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.articulate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.emphasize",
+      "u75.imply",
+      "u75.infer",
+      "u75.convey",
+      "u75.articulate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.emphasize",
+      "u75.imply",
+      "u75.infer",
+      "u75.convey",
+      "u75.articulate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.emphasize",
+      "u75.imply",
+      "u75.infer",
+      "u75.convey",
+      "u75.articulate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.to-a-certain-extent",
+      "u75.bluntly",
+      "u75.tactfully",
+      "u75.succinctly",
+      "u75.elaborate",
+      "u75.clarify"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l7",
+   "title": "7. eloquent, concise, verbose…",
+   "focus": "reading",
+   "newItems": [
+    "u75.eloquent",
+    "u75.concise",
+    "u75.verbose",
+    "u75.blunt",
+    "u75.diplomatic"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.eloquent",
+      "u75.concise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.verbose",
+      "u75.blunt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.diplomatic"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.eloquent",
+      "u75.concise",
+      "u75.verbose",
+      "u75.blunt",
+      "u75.diplomatic"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.eloquent",
+      "u75.concise",
+      "u75.verbose",
+      "u75.blunt",
+      "u75.diplomatic"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.eloquent",
+      "u75.concise",
+      "u75.verbose",
+      "u75.blunt",
+      "u75.diplomatic"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.clarify",
+      "u75.emphasize",
+      "u75.imply",
+      "u75.infer",
+      "u75.convey",
+      "u75.articulate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l8",
+   "title": "8. patronizing, sarcastic, understatement…",
+   "focus": "listening",
+   "newItems": [
+    "u75.patronizing",
+    "u75.sarcastic",
+    "u75.understatement",
+    "u75.euphemism",
+    "u75.nuance"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.patronizing",
+      "u75.sarcastic"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.understatement",
+      "u75.euphemism"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.nuance"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.patronizing",
+      "u75.sarcastic",
+      "u75.understatement",
+      "u75.euphemism",
+      "u75.nuance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.patronizing",
+      "u75.sarcastic",
+      "u75.understatement",
+      "u75.euphemism",
+      "u75.nuance"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.patronizing",
+      "u75.sarcastic",
+      "u75.understatement",
+      "u75.euphemism",
+      "u75.nuance"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.articulate",
+      "u75.eloquent",
+      "u75.concise",
+      "u75.verbose",
+      "u75.blunt",
+      "u75.diplomatic"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Desacuerdo diplomático",
+     "scene": "💼 En una reunión de alto nivel.",
+     "lines": [
+      {
+       "who": "Director",
+       "en": "I believe we should cut the entire marketing budget.",
+       "es": "Creo que deberíamos recortar todo el presupuesto de mercadeo."
+      },
+      {
+       "who": "You",
+       "en": "With all due respect, I beg to differ.",
+       "es": "Con el debido respeto, me permito disentir."
+      },
+      {
+       "who": "Director",
+       "en": "Go on.",
+       "es": "Continúe."
+      },
+      {
+       "who": "You",
+       "en": "Bearing in mind our recent growth, cutting marketing entirely could be counterproductive.",
+       "es": "Teniendo en cuenta nuestro crecimiento reciente, recortar todo el mercadeo podría ser contraproducente."
+      },
+      {
+       "who": "Director",
+       "en": "That's a fair point. What would you suggest?",
+       "es": "Es un buen punto. ¿Qué sugeriría?"
+      },
+      {
+       "who": "You",
+       "en": "A moderate reduction, albeit a careful one, rather than a complete cut.",
+       "es": "Una reducción moderada, aunque cuidadosa, en lugar de un recorte total."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l9",
+   "title": "9. connotation, tone, formal register…",
+   "focus": "listening",
+   "newItems": [
+    "u75.connotation",
+    "u75.tone",
+    "u75.formal-register",
+    "u75.colloquial",
+    "u75.slang"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.connotation",
+      "u75.tone"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.formal-register",
+      "u75.colloquial"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.slang"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.connotation",
+      "u75.tone",
+      "u75.formal-register",
+      "u75.colloquial",
+      "u75.slang"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.connotation",
+      "u75.tone",
+      "u75.formal-register",
+      "u75.colloquial",
+      "u75.slang"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.connotation",
+      "u75.tone",
+      "u75.formal-register",
+      "u75.colloquial",
+      "u75.slang"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.diplomatic",
+      "u75.patronizing",
+      "u75.sarcastic",
+      "u75.understatement",
+      "u75.euphemism",
+      "u75.nuance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-l10",
+   "title": "10. jargon, Not only did she…, Never have I seen……",
+   "focus": "vocabulary",
+   "newItems": [
+    "u75.jargon",
+    "u75.not-only-did-she",
+    "u75.never-have-i-seen",
+    "u75.rarely-do-we"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u75.jargon",
+      "u75.not-only-did-she"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.never-have-i-seen",
+      "u75.rarely-do-we"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.jargon",
+      "u75.not-only-did-she",
+      "u75.never-have-i-seen",
+      "u75.rarely-do-we"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.jargon",
+      "u75.not-only-did-she",
+      "u75.never-have-i-seen",
+      "u75.rarely-do-we"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.jargon",
+      "u75.not-only-did-she",
+      "u75.never-have-i-seen",
+      "u75.rarely-do-we"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.nuance",
+      "u75.connotation",
+      "u75.tone",
+      "u75.formal-register",
+      "u75.colloquial",
+      "u75.slang"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u75-matices-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El arte de decir las cosas",
+     "emoji": "🎭",
+     "paragraphs": [
+      {
+       "en": "Daniel was known in his company for being blunt. He always said exactly what he thought.",
+       "es": "Daniel era conocido en su empresa por ser muy directo. Siempre decía exactamente lo que pensaba."
+      },
+      {
+       "en": "Although his honesty was valued, his lack of tact often created conflict.",
+       "es": "Aunque su honestidad se valoraba, su falta de tacto muchas veces creaba conflictos."
+      },
+      {
+       "en": "In one meeting he told a colleague her idea was \"completely useless.\" She was deeply offended.",
+       "es": "En una reunión le dijo a una colega que su idea era \"completamente inútil\". Ella se sintió muy ofendida."
+      },
+      {
+       "en": "His manager took him aside and explained the difference between being honest and being tactful.",
+       "es": "Su jefe lo apartó y le explicó la diferencia entre ser honesto y ser diplomático."
+      },
+      {
+       "en": "\"You can convey the same message,\" she said, \"but the tone and the words carry a connotation.\"",
+       "es": "\"Puedes transmitir el mismo mensaje\", dijo, \"pero el tono y las palabras cargan una connotación.\""
+      },
+      {
+       "en": "Daniel learned to be diplomatic without losing his honesty. Not only did his relationships improve, but his ideas were also better received.",
+       "es": "Daniel aprendió a ser diplomático sin perder su honestidad. No solo mejoraron sus relaciones, sino que sus ideas también fueron mejor recibidas."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué Daniel creaba conflictos?",
+       "options": [
+        "Por su falta de tacto",
+        "Porque mentía",
+        "Porque era callado"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué le explicó su jefa?",
+       "options": [
+        "La diferencia entre ser honesto y ser diplomático",
+        "Que debía quedarse callado",
+        "Que lo iban a despedir"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué pasó al final?",
+       "options": [
+        "Mejoraron sus relaciones y sus ideas fueron mejor recibidas",
+        "Renunció",
+        "Nada cambió"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Discrepar con elegancia",
+     "scene": "🎓 En un panel, un experto hace una afirmación con la que no estás de acuerdo.",
+     "turns": [
+      {
+       "who": "Expert",
+       "en": "In my view, traditional education is completely obsolete.",
+       "es": "En mi opinión, la educación tradicional es completamente obsoleta."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "With all due respect, I'd argue that it still plays a valuable role, to a certain extent.",
+         "es": "Con el debido respeto, yo diría que todavía cumple un papel valioso, hasta cierto punto.",
+         "ok": true
+        },
+        {
+         "en": "You're wrong and that's stupid.",
+         "es": "Estás equivocado y eso es estúpido.",
+         "ok": false,
+         "why": "Demasiado agresivo para un panel."
+        }
+       ]
+      },
+      {
+       "who": "Expert",
+       "en": "But technology can replace teachers, can't it?",
+       "es": "Pero la tecnología puede reemplazar a los profesores, ¿no?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Arguably, it can complement them, albeit not replace them entirely.",
+         "es": "Podría decirse que puede complementarlos, aunque no reemplazarlos del todo.",
+         "ok": true
+        },
+        {
+         "en": "Yes, undoubtedly teachers are useless.",
+         "es": "Sí, sin duda los profesores son inútiles.",
+         "ok": false,
+         "why": "Contradice tu propio argumento."
+        }
+       ]
+      },
+      {
+       "who": "Expert",
+       "en": "An interesting nuance. Could you elaborate?",
+       "es": "Un matiz interesante. ¿Podría explayarse?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Certainly. Bearing in mind the need for human mentorship, a hybrid model seems ideal.",
+         "es": "Con gusto. Teniendo en cuenta la necesidad de la mentoría humana, un modelo híbrido parece ideal.",
+         "ok": true
+        },
+        {
+         "en": "No. That's all.",
+         "es": "No. Eso es todo.",
+         "ok": false,
+         "why": "Te pidieron que desarrollaras; es descortés negarte así."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Con el debido respeto, me permito disentir.",
+     "en": "With all due respect, I beg to differ."
+    },
+    {
+     "type": "write",
+     "es": "Nunca he visto tal talento.",
+     "en": "Never have I seen such talent."
+    },
+    {
+     "type": "write",
+     "es": "Teniendo en cuenta la situación, deberíamos esperar.",
+     "en": "Bearing in mind the situation, we should wait.",
+     "accept": [
+      "Taking into account the situation, we should wait."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Not only did she arrive late, but she also forgot the documents.",
+     "es": "No solo llegó tarde, sino que también olvidó los documentos."
+    },
+    {
+     "type": "dictation",
+     "en": "Under no circumstances should you share this information.",
+     "es": "Bajo ninguna circunstancia deberías compartir esta información."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u75.tone",
+      "u75.formal-register",
+      "u75.colloquial",
+      "u75.slang",
+      "u75.jargon",
+      "u75.not-only-did-she",
+      "u75.never-have-i-seen",
+      "u75.rarely-do-we"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

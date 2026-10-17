@@ -1,0 +1,1368 @@
+{
+ "_generated": true,
+ "id": "u39-cocina",
+ "level": "A2",
+ "title": "En la cocina",
+ "emoji": "👨‍🍳",
+ "canDo": "Ya puedo seguir y dar una receta",
+ "summary": "Verbos de cocina, utensilios y cómo dar instrucciones en orden.",
+ "grammar": [
+  "Imperativo en recetas",
+  "Secuencia: first, then, next, finally"
+ ],
+ "items": [
+  {
+   "id": "u39.recipe",
+   "en": "recipe",
+   "es": "receta",
+   "kind": "word",
+   "emoji": "📜",
+   "say": "ré-si-pi"
+  },
+  {
+   "id": "u39.ingredients",
+   "en": "ingredients",
+   "es": "ingredientes",
+   "kind": "word",
+   "emoji": "🧺",
+   "say": "in-gríi-di-ents"
+  },
+  {
+   "id": "u39.cut",
+   "en": "cut",
+   "es": "cortar",
+   "kind": "word",
+   "emoji": "🔪",
+   "say": "kat"
+  },
+  {
+   "id": "u39.chop",
+   "en": "chop",
+   "es": "picar",
+   "kind": "word",
+   "emoji": "🥬",
+   "say": "chop"
+  },
+  {
+   "id": "u39.slice",
+   "en": "slice",
+   "es": "tajar / tajada",
+   "kind": "word",
+   "emoji": "🍕",
+   "say": "sláis"
+  },
+  {
+   "id": "u39.peel",
+   "en": "peel",
+   "es": "pelar",
+   "kind": "word",
+   "emoji": "🍌",
+   "say": "píil"
+  },
+  {
+   "id": "u39.mix",
+   "en": "mix",
+   "es": "mezclar",
+   "kind": "word",
+   "emoji": "🥣",
+   "say": "miks"
+  },
+  {
+   "id": "u39.stir",
+   "en": "stir",
+   "es": "revolver",
+   "kind": "word",
+   "emoji": "🥄",
+   "say": "ster"
+  },
+  {
+   "id": "u39.boil",
+   "en": "boil",
+   "es": "hervir",
+   "kind": "word",
+   "emoji": "♨️",
+   "say": "bóil"
+  },
+  {
+   "id": "u39.fry",
+   "en": "fry",
+   "es": "freír",
+   "kind": "word",
+   "emoji": "🍳",
+   "say": "frái"
+  },
+  {
+   "id": "u39.bake",
+   "en": "bake",
+   "es": "hornear",
+   "kind": "word",
+   "emoji": "🧁",
+   "say": "béik"
+  },
+  {
+   "id": "u39.grill",
+   "en": "grill",
+   "es": "asar a la parrilla",
+   "kind": "word",
+   "emoji": "🍖",
+   "say": "gril"
+  },
+  {
+   "id": "u39.heat",
+   "en": "heat",
+   "es": "calentar",
+   "kind": "word",
+   "emoji": "🔥",
+   "say": "jíit"
+  },
+  {
+   "id": "u39.add",
+   "en": "add",
+   "es": "agregar",
+   "kind": "word",
+   "emoji": "➕",
+   "say": "ad"
+  },
+  {
+   "id": "u39.pour",
+   "en": "pour",
+   "es": "verter / echar (líquido)",
+   "kind": "word",
+   "emoji": "🫗",
+   "say": "por"
+  },
+  {
+   "id": "u39.melt",
+   "en": "melt",
+   "es": "derretir",
+   "kind": "word",
+   "emoji": "🧈",
+   "say": "melt"
+  },
+  {
+   "id": "u39.taste",
+   "en": "taste",
+   "es": "probar (sabor) / sabor",
+   "kind": "word",
+   "emoji": "👅",
+   "say": "téist"
+  },
+  {
+   "id": "u39.serve",
+   "en": "serve",
+   "es": "servir",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "serv"
+  },
+  {
+   "id": "u39.pan",
+   "en": "pan",
+   "es": "sartén",
+   "kind": "word",
+   "emoji": "🍳",
+   "say": "pan"
+  },
+  {
+   "id": "u39.pot",
+   "en": "pot",
+   "es": "olla",
+   "kind": "word",
+   "emoji": "🍲",
+   "say": "pot"
+  },
+  {
+   "id": "u39.oven",
+   "en": "oven",
+   "es": "horno",
+   "kind": "word",
+   "emoji": "♨️",
+   "say": "á-ven"
+  },
+  {
+   "id": "u39.stove",
+   "en": "stove",
+   "es": "estufa",
+   "kind": "word",
+   "emoji": "🔥",
+   "say": "stóuv"
+  },
+  {
+   "id": "u39.knife",
+   "en": "knife",
+   "es": "cuchillo",
+   "kind": "word",
+   "emoji": "🔪",
+   "say": "náif",
+   "tip": "La k no suena."
+  },
+  {
+   "id": "u39.spoon",
+   "en": "spoon",
+   "es": "cuchara",
+   "kind": "word",
+   "emoji": "🥄",
+   "say": "spuun"
+  },
+  {
+   "id": "u39.fork",
+   "en": "fork",
+   "es": "tenedor",
+   "kind": "word",
+   "emoji": "🍴",
+   "say": "fork"
+  },
+  {
+   "id": "u39.plate",
+   "en": "plate",
+   "es": "plato",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "pléit"
+  },
+  {
+   "id": "u39.bowl",
+   "en": "bowl",
+   "es": "tazón / bowl",
+   "kind": "word",
+   "emoji": "🥣",
+   "say": "bóul"
+  },
+  {
+   "id": "u39.cup",
+   "en": "cup",
+   "es": "taza",
+   "kind": "word",
+   "emoji": "☕",
+   "say": "kap"
+  },
+  {
+   "id": "u39.glass",
+   "en": "glass",
+   "es": "vaso",
+   "kind": "word",
+   "emoji": "🥛",
+   "say": "glas"
+  },
+  {
+   "id": "u39.flour",
+   "en": "flour",
+   "es": "harina",
+   "kind": "word",
+   "emoji": "🌾",
+   "say": "fláur"
+  },
+  {
+   "id": "u39.butter",
+   "en": "butter",
+   "es": "mantequilla",
+   "kind": "word",
+   "emoji": "🧈",
+   "say": "bá-ter"
+  },
+  {
+   "id": "u39.garlic",
+   "en": "garlic",
+   "es": "ajo",
+   "kind": "word",
+   "emoji": "🧄",
+   "say": "gár-lik"
+  },
+  {
+   "id": "u39.pepper",
+   "en": "pepper",
+   "es": "pimienta",
+   "kind": "word",
+   "emoji": "🌶️",
+   "say": "pé-per"
+  },
+  {
+   "id": "u39.spicy",
+   "en": "spicy",
+   "es": "picante",
+   "kind": "word",
+   "emoji": "🌶️",
+   "say": "spái-si"
+  },
+  {
+   "id": "u39.sweet",
+   "en": "sweet",
+   "es": "dulce",
+   "kind": "word",
+   "emoji": "🍭",
+   "say": "suíit"
+  },
+  {
+   "id": "u39.salty",
+   "en": "salty",
+   "es": "salado",
+   "kind": "word",
+   "emoji": "🧂",
+   "say": "sól-ti"
+  },
+  {
+   "id": "u39.raw",
+   "en": "raw",
+   "es": "crudo",
+   "kind": "word",
+   "emoji": "🥩",
+   "say": "ró"
+  },
+  {
+   "id": "u39.first",
+   "en": "first",
+   "es": "primero",
+   "kind": "word",
+   "emoji": "1️⃣",
+   "say": "ferst"
+  },
+  {
+   "id": "u39.next",
+   "en": "next",
+   "es": "luego / después",
+   "kind": "word",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u39.finally-recipe",
+   "en": "finally",
+   "es": "por último",
+   "kind": "word",
+   "emoji": "🏁",
+   "tip": "Aquí con el sentido de: recipe."
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u39-cocina-l1",
+   "title": "1. recipe, ingredients, cut…",
+   "focus": "listening",
+   "newItems": [
+    "u39.recipe",
+    "u39.ingredients",
+    "u39.cut",
+    "u39.chop"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.recipe",
+      "u39.ingredients"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.cut",
+      "u39.chop"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.recipe",
+      "u39.ingredients",
+      "u39.cut",
+      "u39.chop"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.recipe",
+      "u39.ingredients",
+      "u39.cut",
+      "u39.chop"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l2",
+   "title": "2. slice, peel, mix…",
+   "focus": "grammar",
+   "newItems": [
+    "u39.slice",
+    "u39.peel",
+    "u39.mix",
+    "u39.stir"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.slice",
+      "u39.peel"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.mix",
+      "u39.stir"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.slice",
+      "u39.peel",
+      "u39.mix",
+      "u39.stir"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.slice",
+      "u39.peel",
+      "u39.mix",
+      "u39.stir"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.recipe",
+      "u39.ingredients",
+      "u39.cut",
+      "u39.chop"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Dar una receta en orden",
+     "intro": "Así se escribe una receta. Mira cómo empiezan los pasos.",
+     "examples": [
+      {
+       "en": "First, chop the onion and the garlic.",
+       "es": "Primero, pica la cebolla y el ajo.",
+       "mark": [
+        "First"
+       ]
+      },
+      {
+       "en": "Then, heat some oil in a pan.",
+       "es": "Luego, calienta un poco de aceite en una sartén.",
+       "mark": [
+        "Then"
+       ]
+      },
+      {
+       "en": "Next, add the vegetables and stir.",
+       "es": "Después, agrega las verduras y revuelve.",
+       "mark": [
+        "Next"
+       ]
+      },
+      {
+       "en": "Fry for five minutes. Don't burn them!",
+       "es": "Fríe cinco minutos. ¡No las quemes!",
+       "mark": [
+        "Don't"
+       ]
+      },
+      {
+       "en": "Finally, add salt and serve.",
+       "es": "Por último, agrega sal y sirve.",
+       "mark": [
+        "Finally"
+       ]
+      }
+     ],
+     "question": "¿Cómo están escritos los pasos de una receta?",
+     "options": [
+      "Con el verbo al principio (imperativo)",
+      "En pasado",
+      "Con 'you should' siempre"
+     ],
+     "answer": 0,
+     "rule": "Las recetas usan el IMPERATIVO (el verbo solo, al principio): Chop, Add, Stir. Para ordenar los pasos: First → Then → Next → After that → Finally. Para algo que NO se debe hacer: Don't + verbo.",
+     "ruleExamples": [
+      {
+       "en": "First, boil the water. Then add the rice. Finally, wait twenty minutes.",
+       "es": "Primero, hierve el agua. Luego agrega el arroz. Por último, espera veinte minutos."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___, peel the potatoes. (primer paso)",
+     "options": [
+      "First",
+      "Finally"
+     ],
+     "answer": 0,
+     "es": "Primero, pela las papas."
+    },
+    {
+     "type": "fill",
+     "en": "___ the eggs and the sugar in a bowl.",
+     "options": [
+      "Mix",
+      "Mixes"
+     ],
+     "answer": 0,
+     "es": "Mezcla los huevos y el azúcar en un tazón."
+    },
+    {
+     "type": "fill",
+     "en": "___ the cake in the oven for forty minutes.",
+     "options": [
+      "Bake",
+      "Fry"
+     ],
+     "answer": 0,
+     "es": "Hornea la torta en el horno cuarenta minutos."
+    },
+    {
+     "type": "fill",
+     "en": "Don't ___ the milk. It burns easily.",
+     "options": [
+      "boil",
+      "boiling"
+     ],
+     "answer": 0,
+     "es": "No hiervas la leche. Se quema fácil."
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l3",
+   "title": "3. boil, fry, bake…",
+   "focus": "reading",
+   "newItems": [
+    "u39.boil",
+    "u39.fry",
+    "u39.bake",
+    "u39.grill"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.boil",
+      "u39.fry"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.bake",
+      "u39.grill"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.boil",
+      "u39.fry",
+      "u39.bake",
+      "u39.grill"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.boil",
+      "u39.fry",
+      "u39.bake",
+      "u39.grill"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.cut",
+      "u39.chop",
+      "u39.slice",
+      "u39.peel",
+      "u39.mix",
+      "u39.stir"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l4",
+   "title": "4. heat, add, pour…",
+   "focus": "listening",
+   "newItems": [
+    "u39.heat",
+    "u39.add",
+    "u39.pour",
+    "u39.melt"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.heat",
+      "u39.add"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.pour",
+      "u39.melt"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.heat",
+      "u39.add",
+      "u39.pour",
+      "u39.melt"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.heat",
+      "u39.add",
+      "u39.pour",
+      "u39.melt"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.mix",
+      "u39.stir",
+      "u39.boil",
+      "u39.fry",
+      "u39.bake",
+      "u39.grill"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l5",
+   "title": "5. taste, serve, pan…",
+   "focus": "listening",
+   "newItems": [
+    "u39.taste",
+    "u39.serve",
+    "u39.pan",
+    "u39.pot"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.taste",
+      "u39.serve"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.pan",
+      "u39.pot"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.taste",
+      "u39.serve",
+      "u39.pan",
+      "u39.pot"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.taste",
+      "u39.serve",
+      "u39.pan",
+      "u39.pot"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.bake",
+      "u39.grill",
+      "u39.heat",
+      "u39.add",
+      "u39.pour",
+      "u39.melt"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l6",
+   "title": "6. oven, stove, knife…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u39.oven",
+    "u39.stove",
+    "u39.knife",
+    "u39.spoon"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.oven",
+      "u39.stove"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.knife",
+      "u39.spoon"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.oven",
+      "u39.stove",
+      "u39.knife",
+      "u39.spoon"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.oven",
+      "u39.stove",
+      "u39.knife",
+      "u39.spoon"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.pour",
+      "u39.melt",
+      "u39.taste",
+      "u39.serve",
+      "u39.pan",
+      "u39.pot"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l7",
+   "title": "7. fork, plate, bowl…",
+   "focus": "reading",
+   "newItems": [
+    "u39.fork",
+    "u39.plate",
+    "u39.bowl",
+    "u39.cup"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.fork",
+      "u39.plate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.bowl",
+      "u39.cup"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.fork",
+      "u39.plate",
+      "u39.bowl",
+      "u39.cup"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.fork",
+      "u39.plate",
+      "u39.bowl",
+      "u39.cup"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.pan",
+      "u39.pot",
+      "u39.oven",
+      "u39.stove",
+      "u39.knife",
+      "u39.spoon"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l8",
+   "title": "8. glass, flour, butter…",
+   "focus": "listening",
+   "newItems": [
+    "u39.glass",
+    "u39.flour",
+    "u39.butter",
+    "u39.garlic"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.glass",
+      "u39.flour"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.butter",
+      "u39.garlic"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.glass",
+      "u39.flour",
+      "u39.butter",
+      "u39.garlic"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.glass",
+      "u39.flour",
+      "u39.butter",
+      "u39.garlic"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.knife",
+      "u39.spoon",
+      "u39.fork",
+      "u39.plate",
+      "u39.bowl",
+      "u39.cup"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Cocinando juntos",
+     "scene": "🍳 Le enseñas a tu amigo extranjero a hacer arepas.",
+     "lines": [
+      {
+       "who": "Mark",
+       "en": "What do we need?",
+       "es": "¿Qué necesitamos?"
+      },
+      {
+       "who": "You",
+       "en": "Corn flour, water, salt and cheese.",
+       "es": "Harina de maíz, agua, sal y queso."
+      },
+      {
+       "who": "Mark",
+       "en": "OK. What do I do first?",
+       "es": "Bueno. ¿Qué hago primero?"
+      },
+      {
+       "who": "You",
+       "en": "First, mix the flour with warm water and a little salt.",
+       "es": "Primero, mezcla la harina con agua tibia y un poco de sal."
+      },
+      {
+       "who": "Mark",
+       "en": "Like this?",
+       "es": "¿Así?"
+      },
+      {
+       "who": "You",
+       "en": "Perfect. Next, make small balls and press them. Then cook them in a hot pan.",
+       "es": "Perfecto. Luego, haz bolitas y aplánalas. Después ásalas en una sartén caliente."
+      },
+      {
+       "who": "Mark",
+       "en": "Mmm, they smell amazing!",
+       "es": "¡Mmm, huelen increíble!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l9",
+   "title": "9. pepper, spicy, sweet…",
+   "focus": "listening",
+   "newItems": [
+    "u39.pepper",
+    "u39.spicy",
+    "u39.sweet",
+    "u39.salty"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.pepper",
+      "u39.spicy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.sweet",
+      "u39.salty"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.pepper",
+      "u39.spicy",
+      "u39.sweet",
+      "u39.salty"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.pepper",
+      "u39.spicy",
+      "u39.sweet",
+      "u39.salty"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.bowl",
+      "u39.cup",
+      "u39.glass",
+      "u39.flour",
+      "u39.butter",
+      "u39.garlic"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-l10",
+   "title": "10. raw, first, next…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u39.raw",
+    "u39.first",
+    "u39.next",
+    "u39.finally-recipe"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u39.raw",
+      "u39.first"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u39.next",
+      "u39.finally-recipe"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.raw",
+      "u39.first",
+      "u39.next",
+      "u39.finally-recipe"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.raw",
+      "u39.first",
+      "u39.next",
+      "u39.finally-recipe"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.butter",
+      "u39.garlic",
+      "u39.pepper",
+      "u39.spicy",
+      "u39.sweet",
+      "u39.salty"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u39-cocina-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El desastre de la torta",
+     "emoji": "🎂",
+     "paragraphs": [
+      {
+       "en": "For her mom's birthday, Isabel wanted to bake a chocolate cake.",
+       "es": "Para el cumpleaños de su mamá, Isabel quería hornear una torta de chocolate."
+      },
+      {
+       "en": "She found a recipe online and bought all the ingredients.",
+       "es": "Encontró una receta en internet y compró todos los ingredientes."
+      },
+      {
+       "en": "First she melted the butter and the chocolate. Then she mixed the flour, eggs and sugar.",
+       "es": "Primero derritió la mantequilla y el chocolate. Luego mezcló la harina, los huevos y el azúcar."
+      },
+      {
+       "en": "She put the cake in the oven, but she forgot to set the timer!",
+       "es": "Puso la torta en el horno, ¡pero se le olvidó poner el temporizador!"
+      },
+      {
+       "en": "After two hours the kitchen smelled terrible. The cake was black!",
+       "es": "Después de dos horas la cocina olía horrible. ¡La torta estaba negra!"
+      },
+      {
+       "en": "She laughed, bought a cake at the bakery and wrote \"Made with love\" on the box.",
+       "es": "Se rió, compró una torta en la panadería y escribió \"Hecha con amor\" en la caja."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué quería hornear Isabel?",
+       "options": [
+        "Pan",
+        "Una torta de chocolate",
+        "Galletas"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué se le olvidó?",
+       "options": [
+        "Comprar huevos",
+        "Poner el temporizador",
+        "Prender el horno"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hizo al final?",
+       "options": [
+        "Lloró",
+        "Compró una torta en la panadería",
+        "Hizo otra torta"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Explica tu receta",
+     "scene": "🍲 Un amigo quiere saber cómo haces tu sopa favorita.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "How do you make your soup?",
+       "es": "¿Cómo haces tu sopa?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "First, I boil water in a big pot.",
+         "es": "Primero, hiervo agua en una olla grande.",
+         "ok": true
+        },
+        {
+         "en": "First, I bake water in the oven.",
+         "es": "Primero, horneo agua en el horno.",
+         "ok": false,
+         "why": "El agua se hierve, no se hornea."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "And then?",
+       "es": "¿Y luego?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Then I add potatoes, carrots and chicken.",
+         "es": "Luego agrego papas, zanahorias y pollo.",
+         "ok": true
+        },
+        {
+         "en": "Then I add a knife.",
+         "es": "Luego agrego un cuchillo.",
+         "ok": false,
+         "why": "El cuchillo no va en la sopa."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "How long does it take?",
+       "es": "¿Cuánto se demora?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "About an hour. Finally, I add salt and serve it hot.",
+         "es": "Como una hora. Por último, agrego sal y la sirvo caliente.",
+         "ok": true
+        },
+        {
+         "en": "About an hour ago.",
+         "es": "Hace como una hora.",
+         "ok": false,
+         "why": "\"Ago\" es pasado; aquí es duración."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Primero, pica la cebolla.",
+     "en": "First, chop the onion.",
+     "accept": [
+      "First chop the onion."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Agrega sal y revuelve.",
+     "en": "Add salt and stir.",
+     "accept": [
+      "Add some salt and stir."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No quemes el arroz.",
+     "en": "Don't burn the rice.",
+     "accept": [
+      "Do not burn the rice."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Mix the flour with the eggs.",
+     "es": "Mezcla la harina con los huevos."
+    },
+    {
+     "type": "dictation",
+     "en": "Bake the cake for forty minutes.",
+     "es": "Hornea la torta durante cuarenta minutos."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u39.pepper",
+      "u39.spicy",
+      "u39.sweet",
+      "u39.salty",
+      "u39.raw",
+      "u39.first",
+      "u39.next",
+      "u39.finally-recipe"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

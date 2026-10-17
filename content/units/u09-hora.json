@@ -1,0 +1,1178 @@
+{
+ "_generated": true,
+ "id": "u09-hora",
+ "level": "A1",
+ "title": "La hora y los días",
+ "emoji": "🗓️",
+ "canDo": "Ya puedo decir la hora y acordar una cita",
+ "summary": "Días, meses, la hora y las preposiciones at, on, in para decir cuándo pasa algo.",
+ "grammar": [
+  "Preposiciones de tiempo: at / on / in"
+ ],
+ "items": [
+  {
+   "id": "u09.what-time-is-it",
+   "en": "What time is it?",
+   "es": "¿Qué hora es?",
+   "kind": "chunk",
+   "emoji": "⌚",
+   "say": "uát táim is it"
+  },
+  {
+   "id": "u09.it-s-three-o-clock",
+   "en": "It's three o'clock",
+   "es": "Son las tres en punto",
+   "kind": "chunk",
+   "emoji": "🕒",
+   "say": "its zrí o-klók"
+  },
+  {
+   "id": "u09.it-s-half-past-four",
+   "en": "It's half past four",
+   "es": "Son las cuatro y media",
+   "kind": "chunk",
+   "emoji": "🕟"
+  },
+  {
+   "id": "u09.it-s-a-quarter-to-six",
+   "en": "It's a quarter to six",
+   "es": "Son las seis menos cuarto",
+   "kind": "chunk",
+   "emoji": "🕠"
+  },
+  {
+   "id": "u09.in-the-afternoon",
+   "en": "in the afternoon",
+   "es": "por la tarde",
+   "kind": "chunk",
+   "emoji": "🌤️"
+  },
+  {
+   "id": "u09.at-night",
+   "en": "at night",
+   "es": "en la noche",
+   "kind": "chunk",
+   "emoji": "🌃"
+  },
+  {
+   "id": "u09.today",
+   "en": "today",
+   "es": "hoy",
+   "kind": "word",
+   "emoji": "📍",
+   "say": "tu-déi"
+  },
+  {
+   "id": "u09.tomorrow",
+   "en": "tomorrow",
+   "es": "mañana (el día siguiente)",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "tu-mó-rou"
+  },
+  {
+   "id": "u09.yesterday",
+   "en": "yesterday",
+   "es": "ayer",
+   "kind": "word",
+   "emoji": "⬅️",
+   "say": "iés-ter-dei"
+  },
+  {
+   "id": "u09.week",
+   "en": "week",
+   "es": "semana",
+   "kind": "word",
+   "emoji": "📅",
+   "say": "uíik"
+  },
+  {
+   "id": "u09.month",
+   "en": "month",
+   "es": "mes",
+   "kind": "word",
+   "emoji": "🗓️",
+   "say": "manz"
+  },
+  {
+   "id": "u09.year",
+   "en": "year",
+   "es": "año",
+   "kind": "word",
+   "emoji": "🎆",
+   "say": "íer"
+  },
+  {
+   "id": "u09.monday",
+   "en": "Monday",
+   "es": "lunes",
+   "kind": "word",
+   "emoji": "1️⃣",
+   "say": "mán-dei"
+  },
+  {
+   "id": "u09.tuesday",
+   "en": "Tuesday",
+   "es": "martes",
+   "kind": "word",
+   "emoji": "2️⃣",
+   "say": "tiús-dei"
+  },
+  {
+   "id": "u09.wednesday",
+   "en": "Wednesday",
+   "es": "miércoles",
+   "kind": "word",
+   "emoji": "3️⃣",
+   "say": "uéns-dei",
+   "tip": "La primera d no suena."
+  },
+  {
+   "id": "u09.thursday",
+   "en": "Thursday",
+   "es": "jueves",
+   "kind": "word",
+   "emoji": "4️⃣",
+   "say": "zérs-dei"
+  },
+  {
+   "id": "u09.friday",
+   "en": "Friday",
+   "es": "viernes",
+   "kind": "word",
+   "emoji": "5️⃣",
+   "say": "frái-dei"
+  },
+  {
+   "id": "u09.saturday",
+   "en": "Saturday",
+   "es": "sábado",
+   "kind": "word",
+   "emoji": "6️⃣",
+   "say": "sá-ter-dei"
+  },
+  {
+   "id": "u09.sunday",
+   "en": "Sunday",
+   "es": "domingo",
+   "kind": "word",
+   "emoji": "☀️",
+   "say": "sán-dei"
+  },
+  {
+   "id": "u09.january",
+   "en": "January",
+   "es": "enero",
+   "kind": "word",
+   "emoji": "❄️",
+   "say": "yá-niu-e-ri"
+  },
+  {
+   "id": "u09.april",
+   "en": "April",
+   "es": "abril",
+   "kind": "word",
+   "emoji": "🌷"
+  },
+  {
+   "id": "u09.july",
+   "en": "July",
+   "es": "julio",
+   "kind": "word",
+   "emoji": "🏖️",
+   "say": "yu-lái"
+  },
+  {
+   "id": "u09.december",
+   "en": "December",
+   "es": "diciembre",
+   "kind": "word",
+   "emoji": "🎄",
+   "say": "di-sém-ber"
+  },
+  {
+   "id": "u09.birthday",
+   "en": "birthday",
+   "es": "cumpleaños",
+   "kind": "word",
+   "emoji": "🎂",
+   "say": "bérz-dei"
+  },
+  {
+   "id": "u09.early",
+   "en": "early",
+   "es": "temprano",
+   "kind": "word",
+   "emoji": "🐓",
+   "say": "ér-li"
+  },
+  {
+   "id": "u09.late",
+   "en": "late",
+   "es": "tarde (con retraso)",
+   "kind": "word",
+   "emoji": "🐢",
+   "say": "léit"
+  },
+  {
+   "id": "u09.see-you-on-monday",
+   "en": "See you on Monday",
+   "es": "Nos vemos el lunes",
+   "kind": "chunk",
+   "emoji": "👋"
+  },
+  {
+   "id": "u09.what-day-is-it-today",
+   "en": "What day is it today?",
+   "es": "¿Qué día es hoy?",
+   "kind": "chunk",
+   "emoji": "📆"
+  },
+  {
+   "id": "u09.appointment",
+   "en": "appointment",
+   "es": "cita",
+   "kind": "word",
+   "emoji": "🩺",
+   "say": "a-póint-ment"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u09-hora-l1",
+   "title": "1. What time is it?, It's three o'clock, It's half past four…",
+   "focus": "listening",
+   "newItems": [
+    "u09.what-time-is-it",
+    "u09.it-s-three-o-clock",
+    "u09.it-s-half-past-four",
+    "u09.it-s-a-quarter-to-six"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.what-time-is-it",
+      "u09.it-s-three-o-clock"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u09.it-s-half-past-four",
+      "u09.it-s-a-quarter-to-six"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.what-time-is-it",
+      "u09.it-s-three-o-clock",
+      "u09.it-s-half-past-four",
+      "u09.it-s-a-quarter-to-six"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.what-time-is-it",
+      "u09.it-s-three-o-clock",
+      "u09.it-s-half-past-four",
+      "u09.it-s-a-quarter-to-six"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.what-time-is-it",
+      "u09.it-s-three-o-clock"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-l2",
+   "title": "2. in the afternoon, at night, today…",
+   "focus": "grammar",
+   "newItems": [
+    "u09.in-the-afternoon",
+    "u09.at-night",
+    "u09.today",
+    "u09.tomorrow"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.in-the-afternoon",
+      "u09.at-night"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u09.today",
+      "u09.tomorrow"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.in-the-afternoon",
+      "u09.at-night",
+      "u09.today",
+      "u09.tomorrow"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.in-the-afternoon",
+      "u09.at-night",
+      "u09.today",
+      "u09.tomorrow"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.in-the-afternoon",
+      "u09.at-night"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.what-time-is-it",
+      "u09.it-s-three-o-clock",
+      "u09.it-s-half-past-four",
+      "u09.it-s-a-quarter-to-six"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "at, on, in para el tiempo",
+     "intro": "Fíjate qué palabra va antes de horas, días y meses.",
+     "examples": [
+      {
+       "en": "at seven o'clock",
+       "es": "a las siete",
+       "mark": [
+        "at"
+       ]
+      },
+      {
+       "en": "at night",
+       "es": "en la noche",
+       "mark": [
+        "at"
+       ]
+      },
+      {
+       "en": "on Monday",
+       "es": "el lunes",
+       "mark": [
+        "on"
+       ]
+      },
+      {
+       "en": "on my birthday",
+       "es": "en mi cumpleaños",
+       "mark": [
+        "on"
+       ]
+      },
+      {
+       "en": "in July",
+       "es": "en julio",
+       "mark": [
+        "in"
+       ]
+      },
+      {
+       "en": "in the morning",
+       "es": "por la mañana",
+       "mark": [
+        "in"
+       ]
+      }
+     ],
+     "question": "¿Qué va antes de un día de la semana?",
+     "options": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 1,
+     "rule": "at → horas exactas y at night. on → días y fechas (on Monday, on my birthday). in → meses, años y partes del día (in July, in the morning). Y los días y meses siempre se escriben con mayúscula.",
+     "ruleExamples": [
+      {
+       "en": "I work on Monday at eight in the morning.",
+       "es": "Trabajo el lunes a las ocho de la mañana."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "The class is ___ nine o'clock.",
+     "options": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 0,
+     "es": "La clase es a las nueve."
+    },
+    {
+     "type": "fill",
+     "en": "My birthday is ___ April.",
+     "options": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 2,
+     "es": "Mi cumpleaños es en abril."
+    },
+    {
+     "type": "fill",
+     "en": "See you ___ Friday!",
+     "options": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 1,
+     "es": "¡Nos vemos el viernes!"
+    },
+    {
+     "type": "fill",
+     "en": "I sleep ___ night.",
+     "options": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 0,
+     "es": "Duermo en la noche."
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-l3",
+   "title": "3. yesterday, week, month…",
+   "focus": "reading",
+   "newItems": [
+    "u09.yesterday",
+    "u09.week",
+    "u09.month",
+    "u09.year"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.yesterday",
+      "u09.week"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u09.month",
+      "u09.year"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.yesterday",
+      "u09.week",
+      "u09.month",
+      "u09.year"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.yesterday",
+      "u09.week",
+      "u09.month",
+      "u09.year"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.yesterday",
+      "u09.week"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.it-s-half-past-four",
+      "u09.it-s-a-quarter-to-six",
+      "u09.in-the-afternoon",
+      "u09.at-night",
+      "u09.today",
+      "u09.tomorrow"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-l4",
+   "title": "4. Monday, Tuesday, Wednesday…",
+   "focus": "listening",
+   "newItems": [
+    "u09.monday",
+    "u09.tuesday",
+    "u09.wednesday",
+    "u09.thursday"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.monday",
+      "u09.tuesday"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u09.wednesday",
+      "u09.thursday"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.monday",
+      "u09.tuesday",
+      "u09.wednesday",
+      "u09.thursday"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.monday",
+      "u09.tuesday",
+      "u09.wednesday",
+      "u09.thursday"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.monday",
+      "u09.tuesday"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.today",
+      "u09.tomorrow",
+      "u09.yesterday",
+      "u09.week",
+      "u09.month",
+      "u09.year"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-l5",
+   "title": "5. Friday, Saturday, Sunday…",
+   "focus": "listening",
+   "newItems": [
+    "u09.friday",
+    "u09.saturday",
+    "u09.sunday",
+    "u09.january"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.friday",
+      "u09.saturday"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u09.sunday",
+      "u09.january"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.friday",
+      "u09.saturday",
+      "u09.sunday",
+      "u09.january"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.friday",
+      "u09.saturday",
+      "u09.sunday",
+      "u09.january"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.friday",
+      "u09.saturday"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.month",
+      "u09.year",
+      "u09.monday",
+      "u09.tuesday",
+      "u09.wednesday",
+      "u09.thursday"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🕰️",
+     "title": "Leer la hora",
+     "text": "o'clock = en punto. half past = y media. quarter past = y cuarto. quarter to = menos cuarto. También se dice fácil: It's four thirty (4:30)."
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-l6",
+   "title": "6. April, July, December…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u09.april",
+    "u09.july",
+    "u09.december",
+    "u09.birthday"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.april",
+      "u09.july"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u09.december",
+      "u09.birthday"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.april",
+      "u09.july",
+      "u09.december",
+      "u09.birthday"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.april",
+      "u09.july",
+      "u09.december",
+      "u09.birthday"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.april",
+      "u09.july"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.wednesday",
+      "u09.thursday",
+      "u09.friday",
+      "u09.saturday",
+      "u09.sunday",
+      "u09.january"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-l7",
+   "title": "7. early, late, See you on Monday…",
+   "focus": "reading",
+   "newItems": [
+    "u09.early",
+    "u09.late",
+    "u09.see-you-on-monday",
+    "u09.what-day-is-it-today"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.early",
+      "u09.late"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u09.see-you-on-monday",
+      "u09.what-day-is-it-today"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.early",
+      "u09.late",
+      "u09.see-you-on-monday",
+      "u09.what-day-is-it-today"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.early",
+      "u09.late",
+      "u09.see-you-on-monday",
+      "u09.what-day-is-it-today"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.see-you-on-monday",
+      "u09.what-day-is-it-today"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.sunday",
+      "u09.january",
+      "u09.april",
+      "u09.july",
+      "u09.december",
+      "u09.birthday"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Pidiendo una cita",
+     "scene": "📞 Llamas al consultorio.",
+     "lines": [
+      {
+       "who": "Receptionist",
+       "en": "Good morning, City Clinic.",
+       "es": "Buenos días, Clínica City."
+      },
+      {
+       "who": "You",
+       "en": "Hi. I'd like an appointment, please.",
+       "es": "Hola. Quisiera una cita, por favor."
+      },
+      {
+       "who": "Receptionist",
+       "en": "Is Tuesday OK?",
+       "es": "¿Le sirve el martes?"
+      },
+      {
+       "who": "You",
+       "en": "Tuesday is good. What time?",
+       "es": "El martes está bien. ¿A qué hora?"
+      },
+      {
+       "who": "Receptionist",
+       "en": "At half past ten in the morning.",
+       "es": "A las diez y media de la mañana."
+      },
+      {
+       "who": "You",
+       "en": "Perfect. Thank you!",
+       "es": "Perfecto. ¡Gracias!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-l8",
+   "title": "8. appointment",
+   "focus": "listening",
+   "newItems": [
+    "u09.appointment"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u09.appointment"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.appointment"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.appointment"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.appointment"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.december",
+      "u09.birthday",
+      "u09.early",
+      "u09.late",
+      "u09.see-you-on-monday",
+      "u09.what-day-is-it-today"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u09-hora-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La semana de Eva",
+     "emoji": "📅",
+     "paragraphs": [
+      {
+       "en": "Eva is very busy. On Monday she works from eight to five.",
+       "es": "Eva está muy ocupada. El lunes trabaja de ocho a cinco."
+      },
+      {
+       "en": "On Tuesday and Thursday she studies English at night.",
+       "es": "El martes y el jueves estudia inglés en la noche."
+      },
+      {
+       "en": "On Wednesday she cooks for her family.",
+       "es": "El miércoles cocina para su familia."
+      },
+      {
+       "en": "On Friday she goes to the cinema with friends.",
+       "es": "El viernes va al cine con amigos."
+      },
+      {
+       "en": "On Saturday she sleeps late. On Sunday she visits her grandmother.",
+       "es": "El sábado duerme hasta tarde. El domingo visita a su abuela."
+      },
+      {
+       "en": "Her birthday is in December. She is very happy in December!",
+       "es": "Su cumpleaños es en diciembre. ¡Está muy feliz en diciembre!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuándo estudia inglés Eva?",
+       "options": [
+        "Lunes y miércoles",
+        "Martes y jueves en la noche",
+        "Los domingos"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hace el domingo?",
+       "options": [
+        "Duerme tarde",
+        "Va al cine",
+        "Visita a su abuela"
+       ],
+       "answer": 2
+      },
+      {
+       "q": "¿En qué mes es su cumpleaños?",
+       "options": [
+        "Diciembre",
+        "Abril",
+        "Julio"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "¿Nos vemos?",
+     "scene": "📱 Un amigo te escribe para verse.",
+     "turns": [
+      {
+       "who": "Sam",
+       "en": "Hey! Are you free tomorrow?",
+       "es": "¡Hola! ¿Estás libre mañana?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes! What time?",
+         "es": "¡Sí! ¿A qué hora?",
+         "ok": true
+        },
+        {
+         "en": "Yes, yesterday.",
+         "es": "Sí, ayer.",
+         "ok": false,
+         "why": "\"Ayer\" no responde a \"¿estás libre mañana?\"."
+        }
+       ]
+      },
+      {
+       "who": "Sam",
+       "en": "At six in the evening?",
+       "es": "¿A las seis de la tarde?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Six is late for me. Is five OK?",
+         "es": "Las seis es tarde para mí. ¿Te sirve a las cinco?",
+         "ok": true
+        },
+        {
+         "en": "It's half past January.",
+         "es": "Son enero y media.",
+         "ok": false,
+         "why": "Mezcla la hora con un mes."
+        }
+       ]
+      },
+      {
+       "who": "Sam",
+       "en": "Five is perfect. See you tomorrow!",
+       "es": "Las cinco es perfecto. ¡Nos vemos mañana!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "See you tomorrow!",
+         "es": "¡Nos vemos mañana!",
+         "ok": true
+        },
+        {
+         "en": "See you on yesterday!",
+         "es": "¡Nos vemos el ayer!",
+         "ok": false,
+         "why": "Se dice \"See you tomorrow\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Qué hora es?",
+     "en": "What time is it?"
+    },
+    {
+     "type": "write",
+     "es": "Mi cumpleaños es en julio.",
+     "en": "My birthday is in July."
+    },
+    {
+     "type": "write",
+     "es": "Nos vemos el lunes.",
+     "en": "See you on Monday."
+    },
+    {
+     "type": "dictation",
+     "en": "It's half past four.",
+     "es": "Son las cuatro y media."
+    },
+    {
+     "type": "dictation",
+     "en": "I have an appointment on Tuesday.",
+     "es": "Tengo una cita el martes."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u09.july",
+      "u09.december",
+      "u09.birthday",
+      "u09.early",
+      "u09.late",
+      "u09.see-you-on-monday",
+      "u09.what-day-is-it-today",
+      "u09.appointment"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

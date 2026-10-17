@@ -1,0 +1,1671 @@
+{
+ "_generated": true,
+ "id": "u47-phrasal",
+ "level": "B1",
+ "title": "Phrasal verbs del día a día",
+ "emoji": "🧩",
+ "canDo": "Ya entiendo y uso los phrasal verbs más comunes",
+ "summary": "Verbos de dos partes (get up, look for, turn on) que los nativos usan todo el tiempo.",
+ "grammar": [
+  "Phrasal verbs separables e inseparables"
+ ],
+ "items": [
+  {
+   "id": "u47.get-up",
+   "en": "get up",
+   "es": "levantarse",
+   "kind": "chunk",
+   "emoji": "🛏️"
+  },
+  {
+   "id": "u47.get-along-with",
+   "en": "get along with",
+   "es": "llevarse bien con",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u47.get-back",
+   "en": "get back",
+   "es": "volver / regresar",
+   "kind": "chunk",
+   "emoji": "🔙"
+  },
+  {
+   "id": "u47.get-over",
+   "en": "get over",
+   "es": "superar (algo malo)",
+   "kind": "chunk",
+   "emoji": "🌈"
+  },
+  {
+   "id": "u47.get-rid-of",
+   "en": "get rid of",
+   "es": "deshacerse de",
+   "kind": "chunk",
+   "emoji": "🗑️"
+  },
+  {
+   "id": "u47.look-after",
+   "en": "look after",
+   "es": "cuidar",
+   "kind": "chunk",
+   "emoji": "🍼"
+  },
+  {
+   "id": "u47.look-forward-to",
+   "en": "look forward to",
+   "es": "esperar con ganas",
+   "kind": "chunk",
+   "emoji": "🤩"
+  },
+  {
+   "id": "u47.look-up",
+   "en": "look up",
+   "es": "buscar (información)",
+   "kind": "chunk",
+   "emoji": "📖"
+  },
+  {
+   "id": "u47.look-out",
+   "en": "look out!",
+   "es": "¡cuidado!",
+   "kind": "chunk",
+   "emoji": "⚠️"
+  },
+  {
+   "id": "u47.find-out",
+   "en": "find out",
+   "es": "averiguar / descubrir",
+   "kind": "chunk",
+   "emoji": "🕵️"
+  },
+  {
+   "id": "u47.figure-out",
+   "en": "figure out",
+   "es": "entender / resolver",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u47.turn-up",
+   "en": "turn up",
+   "es": "subir (volumen) / aparecer",
+   "kind": "chunk",
+   "emoji": "🔊"
+  },
+  {
+   "id": "u47.turn-down",
+   "en": "turn down",
+   "es": "bajar (volumen) / rechazar",
+   "kind": "chunk",
+   "emoji": "🔉"
+  },
+  {
+   "id": "u47.put-on",
+   "en": "put on",
+   "es": "ponerse (ropa)",
+   "kind": "chunk",
+   "emoji": "🧥"
+  },
+  {
+   "id": "u47.take-off",
+   "en": "take off",
+   "es": "quitarse (ropa) / despegar",
+   "kind": "chunk",
+   "emoji": "✈️"
+  },
+  {
+   "id": "u47.put-away",
+   "en": "put away",
+   "es": "guardar",
+   "kind": "chunk",
+   "emoji": "📥"
+  },
+  {
+   "id": "u47.throw-away",
+   "en": "throw away",
+   "es": "botar",
+   "kind": "chunk",
+   "emoji": "🗑️"
+  },
+  {
+   "id": "u47.pick-up",
+   "en": "pick up",
+   "es": "recoger / contestar el teléfono",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u47.come-back",
+   "en": "come back",
+   "es": "volver",
+   "kind": "chunk",
+   "emoji": "↩️"
+  },
+  {
+   "id": "u47.come-in",
+   "en": "come in",
+   "es": "entrar / pasar",
+   "kind": "chunk",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u47.go-out",
+   "en": "go out",
+   "es": "salir (de rumba, a la calle)",
+   "kind": "chunk",
+   "emoji": "🌃"
+  },
+  {
+   "id": "u47.go-on",
+   "en": "go on",
+   "es": "continuar",
+   "kind": "chunk",
+   "emoji": "▶️"
+  },
+  {
+   "id": "u47.carry-on",
+   "en": "carry on",
+   "es": "seguir / continuar",
+   "kind": "chunk",
+   "emoji": "⏩"
+  },
+  {
+   "id": "u47.run-out-of",
+   "en": "run out of",
+   "es": "quedarse sin",
+   "kind": "chunk",
+   "emoji": "🪫"
+  },
+  {
+   "id": "u47.set-up",
+   "en": "set up",
+   "es": "montar / configurar",
+   "kind": "chunk",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u47.fill-in",
+   "en": "fill in",
+   "es": "llenar (formulario)",
+   "kind": "chunk",
+   "emoji": "📝"
+  },
+  {
+   "id": "u47.sort-out",
+   "en": "sort out",
+   "es": "arreglar / resolver",
+   "kind": "chunk",
+   "emoji": "🧹"
+  },
+  {
+   "id": "u47.work-out",
+   "en": "work out",
+   "es": "hacer ejercicio / salir bien",
+   "kind": "chunk",
+   "emoji": "🏋️"
+  },
+  {
+   "id": "u47.hang-out",
+   "en": "hang out",
+   "es": "pasar el rato",
+   "kind": "chunk",
+   "emoji": "🛹"
+  },
+  {
+   "id": "u47.hang-up",
+   "en": "hang up",
+   "es": "colgar (teléfono)",
+   "kind": "chunk",
+   "emoji": "📵"
+  },
+  {
+   "id": "u47.call-back",
+   "en": "call back",
+   "es": "devolver la llamada",
+   "kind": "chunk",
+   "emoji": "📲"
+  },
+  {
+   "id": "u47.show-up",
+   "en": "show up",
+   "es": "aparecer / llegar",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u47.break-down",
+   "en": "break down",
+   "es": "dañarse (máquina)",
+   "kind": "chunk",
+   "emoji": "🚗💥"
+  },
+  {
+   "id": "u47.grow-up",
+   "en": "grow up",
+   "es": "crecer (una persona)",
+   "kind": "chunk",
+   "emoji": "🧒➡️🧑"
+  },
+  {
+   "id": "u47.bring-up",
+   "en": "bring up",
+   "es": "criar / sacar un tema",
+   "kind": "chunk",
+   "emoji": "👪"
+  },
+  {
+   "id": "u47.make-up",
+   "en": "make up",
+   "es": "inventar / reconciliarse",
+   "kind": "chunk",
+   "emoji": "🎭"
+  },
+  {
+   "id": "u47.give-back",
+   "en": "give back",
+   "es": "devolver",
+   "kind": "chunk",
+   "emoji": "🎁"
+  },
+  {
+   "id": "u47.take-care-of",
+   "en": "take care of",
+   "es": "encargarse de / cuidar",
+   "kind": "chunk",
+   "emoji": "💚"
+  },
+  {
+   "id": "u47.slow-down",
+   "en": "slow down",
+   "es": "ir más despacio",
+   "kind": "chunk",
+   "emoji": "🐢"
+  },
+  {
+   "id": "u47.speed-up",
+   "en": "speed up",
+   "es": "acelerar",
+   "kind": "chunk",
+   "emoji": "🏎️"
+  },
+  {
+   "id": "u47.hold-on",
+   "en": "hold on",
+   "es": "esperar un momento",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u47.watch-out",
+   "en": "watch out",
+   "es": "tener cuidado",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u47.try-on",
+   "en": "try on",
+   "es": "probarse (ropa)",
+   "kind": "chunk",
+   "emoji": "🪞"
+  },
+  {
+   "id": "u47.eat-out",
+   "en": "eat out",
+   "es": "comer afuera",
+   "kind": "chunk",
+   "emoji": "🍽️"
+  },
+  {
+   "id": "u47.stay-in",
+   "en": "stay in",
+   "es": "quedarse en casa",
+   "kind": "chunk",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u47.end-up",
+   "en": "end up",
+   "es": "terminar (en un lugar/situación)",
+   "kind": "chunk",
+   "emoji": "🏁"
+  },
+  {
+   "id": "u47.come-up-with",
+   "en": "come up with",
+   "es": "ocurrírsele (una idea)",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u47.put-off",
+   "en": "put off",
+   "es": "aplazar",
+   "kind": "chunk",
+   "emoji": "📅"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u47-phrasal-l1",
+   "title": "1. get up, get along with, get back…",
+   "focus": "listening",
+   "newItems": [
+    "u47.get-up",
+    "u47.get-along-with",
+    "u47.get-back",
+    "u47.get-over"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.get-up",
+      "u47.get-along-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.get-back",
+      "u47.get-over"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-up",
+      "u47.get-along-with",
+      "u47.get-back",
+      "u47.get-over"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-up",
+      "u47.get-along-with",
+      "u47.get-back",
+      "u47.get-over"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-up",
+      "u47.get-along-with",
+      "u47.get-back",
+      "u47.get-over"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l2",
+   "title": "2. get rid of, look after, look forward to…",
+   "focus": "grammar",
+   "newItems": [
+    "u47.get-rid-of",
+    "u47.look-after",
+    "u47.look-forward-to",
+    "u47.look-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.get-rid-of",
+      "u47.look-after"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.look-forward-to",
+      "u47.look-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-rid-of",
+      "u47.look-after",
+      "u47.look-forward-to",
+      "u47.look-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-rid-of",
+      "u47.look-after",
+      "u47.look-forward-to",
+      "u47.look-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-rid-of",
+      "u47.look-after",
+      "u47.look-forward-to",
+      "u47.look-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-up",
+      "u47.get-along-with",
+      "u47.get-back",
+      "u47.get-over"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Qué es un phrasal verb",
+     "intro": "Mira cómo una partícula cambia el significado del verbo.",
+     "examples": [
+      {
+       "en": "Look at the photo.",
+       "es": "Mira la foto.",
+       "mark": [
+        "Look at"
+       ]
+      },
+      {
+       "en": "I'm looking for my keys.",
+       "es": "Estoy buscando mis llaves.",
+       "mark": [
+        "looking for"
+       ]
+      },
+      {
+       "en": "Can you look after my dog?",
+       "es": "¿Me cuidas el perro?",
+       "mark": [
+        "look after"
+       ]
+      },
+      {
+       "en": "I'm looking forward to the trip.",
+       "es": "Espero con ganas el viaje.",
+       "mark": [
+        "looking forward to"
+       ]
+      },
+      {
+       "en": "Look up the word in the dictionary.",
+       "es": "Busca la palabra en el diccionario.",
+       "mark": [
+        "Look up"
+       ]
+      }
+     ],
+     "question": "¿Qué pasa con el significado de look?",
+     "options": [
+      "Siempre significa 'mirar'",
+      "Cambia según la partícula (for, after, up)"
+     ],
+     "answer": 1,
+     "rule": "Un PHRASAL VERB es verbo + partícula (up, on, for…) y su significado suele ser distinto al del verbo solo. No se traducen palabra por palabra: apréndelos como vocabulario nuevo. Muchos se pueden separar con un pronombre: Turn it off (no 'turn off it').",
+     "ruleExamples": [
+      {
+       "en": "It's cold. Put on your jacket. / Put it on.",
+       "es": "Hace frío. Ponte la chaqueta. / Póntela."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I need to ___ my glasses. I can't find them.",
+     "options": [
+      "look for",
+      "look after"
+     ],
+     "answer": 0,
+     "es": "Necesito buscar mis gafas. No las encuentro."
+    },
+    {
+     "type": "fill",
+     "en": "Please ___ the TV. I want to sleep.",
+     "options": [
+      "turn off",
+      "turn on"
+     ],
+     "answer": 0,
+     "es": "Por favor apaga el televisor. Quiero dormir."
+    },
+    {
+     "type": "fill",
+     "en": "We ran ___ milk. Can you buy some?",
+     "options": [
+      "out of",
+      "out"
+     ],
+     "answer": 0,
+     "es": "Se nos acabó la leche. ¿Puedes comprar?"
+    },
+    {
+     "type": "fill",
+     "en": "I get ___ well with my brother.",
+     "options": [
+      "along",
+      "over"
+     ],
+     "answer": 0,
+     "es": "Me llevo bien con mi hermano."
+    },
+    {
+     "type": "fill",
+     "en": "The music is too loud. Turn it ___.",
+     "options": [
+      "down",
+      "up"
+     ],
+     "answer": 0,
+     "es": "La música está muy duro. Bájale."
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l3",
+   "title": "3. look out!, find out, figure out…",
+   "focus": "reading",
+   "newItems": [
+    "u47.look-out",
+    "u47.find-out",
+    "u47.figure-out",
+    "u47.turn-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.look-out",
+      "u47.find-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.figure-out",
+      "u47.turn-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.look-out",
+      "u47.find-out",
+      "u47.figure-out",
+      "u47.turn-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.look-out",
+      "u47.find-out",
+      "u47.figure-out",
+      "u47.turn-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.look-out",
+      "u47.find-out",
+      "u47.figure-out",
+      "u47.turn-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.get-back",
+      "u47.get-over",
+      "u47.get-rid-of",
+      "u47.look-after",
+      "u47.look-forward-to",
+      "u47.look-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l4",
+   "title": "4. turn down, put on, take off…",
+   "focus": "listening",
+   "newItems": [
+    "u47.turn-down",
+    "u47.put-on",
+    "u47.take-off",
+    "u47.put-away"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.turn-down",
+      "u47.put-on"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.take-off",
+      "u47.put-away"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.turn-down",
+      "u47.put-on",
+      "u47.take-off",
+      "u47.put-away"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.turn-down",
+      "u47.put-on",
+      "u47.take-off",
+      "u47.put-away"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.turn-down",
+      "u47.put-on",
+      "u47.take-off",
+      "u47.put-away"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.look-forward-to",
+      "u47.look-up",
+      "u47.look-out",
+      "u47.find-out",
+      "u47.figure-out",
+      "u47.turn-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l5",
+   "title": "5. throw away, pick up, come back…",
+   "focus": "listening",
+   "newItems": [
+    "u47.throw-away",
+    "u47.pick-up",
+    "u47.come-back",
+    "u47.come-in"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.throw-away",
+      "u47.pick-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.come-back",
+      "u47.come-in"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.throw-away",
+      "u47.pick-up",
+      "u47.come-back",
+      "u47.come-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.throw-away",
+      "u47.pick-up",
+      "u47.come-back",
+      "u47.come-in"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.throw-away",
+      "u47.pick-up",
+      "u47.come-back",
+      "u47.come-in"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.figure-out",
+      "u47.turn-up",
+      "u47.turn-down",
+      "u47.put-on",
+      "u47.take-off",
+      "u47.put-away"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l6",
+   "title": "6. go out, go on, carry on…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u47.go-out",
+    "u47.go-on",
+    "u47.carry-on",
+    "u47.run-out-of"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.go-out",
+      "u47.go-on"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.carry-on",
+      "u47.run-out-of"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.go-out",
+      "u47.go-on",
+      "u47.carry-on",
+      "u47.run-out-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.go-out",
+      "u47.go-on",
+      "u47.carry-on",
+      "u47.run-out-of"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.go-out",
+      "u47.go-on",
+      "u47.carry-on",
+      "u47.run-out-of"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.take-off",
+      "u47.put-away",
+      "u47.throw-away",
+      "u47.pick-up",
+      "u47.come-back",
+      "u47.come-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l7",
+   "title": "7. set up, fill in, sort out…",
+   "focus": "reading",
+   "newItems": [
+    "u47.set-up",
+    "u47.fill-in",
+    "u47.sort-out",
+    "u47.work-out"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.set-up",
+      "u47.fill-in"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.sort-out",
+      "u47.work-out"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.set-up",
+      "u47.fill-in",
+      "u47.sort-out",
+      "u47.work-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.set-up",
+      "u47.fill-in",
+      "u47.sort-out",
+      "u47.work-out"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.set-up",
+      "u47.fill-in",
+      "u47.sort-out",
+      "u47.work-out"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.come-back",
+      "u47.come-in",
+      "u47.go-out",
+      "u47.go-on",
+      "u47.carry-on",
+      "u47.run-out-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l8",
+   "title": "8. hang out, hang up, call back…",
+   "focus": "listening",
+   "newItems": [
+    "u47.hang-out",
+    "u47.hang-up",
+    "u47.call-back",
+    "u47.show-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.hang-out",
+      "u47.hang-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.call-back",
+      "u47.show-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.hang-out",
+      "u47.hang-up",
+      "u47.call-back",
+      "u47.show-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.hang-out",
+      "u47.hang-up",
+      "u47.call-back",
+      "u47.show-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.hang-out",
+      "u47.hang-up",
+      "u47.call-back",
+      "u47.show-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.carry-on",
+      "u47.run-out-of",
+      "u47.set-up",
+      "u47.fill-in",
+      "u47.sort-out",
+      "u47.work-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l9",
+   "title": "9. break down, grow up, bring up…",
+   "focus": "listening",
+   "newItems": [
+    "u47.break-down",
+    "u47.grow-up",
+    "u47.bring-up",
+    "u47.make-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.break-down",
+      "u47.grow-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.bring-up",
+      "u47.make-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.break-down",
+      "u47.grow-up",
+      "u47.bring-up",
+      "u47.make-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.break-down",
+      "u47.grow-up",
+      "u47.bring-up",
+      "u47.make-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.break-down",
+      "u47.grow-up",
+      "u47.bring-up",
+      "u47.make-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.sort-out",
+      "u47.work-out",
+      "u47.hang-out",
+      "u47.hang-up",
+      "u47.call-back",
+      "u47.show-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Una mañana caótica",
+     "scene": "⏰ Hablas con tu compañero de apartamento.",
+     "lines": [
+      {
+       "who": "Sam",
+       "en": "Hurry up! We're late. Did you get up late again?",
+       "es": "¡Apúrate! Vamos tarde. ¿Te levantaste tarde otra vez?"
+      },
+      {
+       "who": "Leo",
+       "en": "Yes. And I'm looking for my phone. I can't find it.",
+       "es": "Sí. Y estoy buscando mi celular. No lo encuentro."
+      },
+      {
+       "who": "Sam",
+       "en": "Hold on, I'll call it. Listen… it's under the sofa.",
+       "es": "Espera, lo llamo. Escucha… está debajo del sofá."
+      },
+      {
+       "who": "Leo",
+       "en": "Thanks! Oh no, we've run out of coffee.",
+       "es": "¡Gracias! Ay no, se nos acabó el café."
+      },
+      {
+       "who": "Sam",
+       "en": "We can pick some up on the way. Put on your jacket and let's go!",
+       "es": "Podemos comprar en el camino. ¡Ponte la chaqueta y vámonos!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l10",
+   "title": "10. give back, take care of, slow down…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u47.give-back",
+    "u47.take-care-of",
+    "u47.slow-down",
+    "u47.speed-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.give-back",
+      "u47.take-care-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.slow-down",
+      "u47.speed-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.give-back",
+      "u47.take-care-of",
+      "u47.slow-down",
+      "u47.speed-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.give-back",
+      "u47.take-care-of",
+      "u47.slow-down",
+      "u47.speed-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.give-back",
+      "u47.take-care-of",
+      "u47.slow-down",
+      "u47.speed-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.call-back",
+      "u47.show-up",
+      "u47.break-down",
+      "u47.grow-up",
+      "u47.bring-up",
+      "u47.make-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l11",
+   "title": "11. hold on, watch out, try on…",
+   "focus": "reading",
+   "newItems": [
+    "u47.hold-on",
+    "u47.watch-out",
+    "u47.try-on",
+    "u47.eat-out"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.hold-on",
+      "u47.watch-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.try-on",
+      "u47.eat-out"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.hold-on",
+      "u47.watch-out",
+      "u47.try-on",
+      "u47.eat-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.hold-on",
+      "u47.watch-out",
+      "u47.try-on",
+      "u47.eat-out"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.hold-on",
+      "u47.watch-out",
+      "u47.try-on",
+      "u47.eat-out"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.bring-up",
+      "u47.make-up",
+      "u47.give-back",
+      "u47.take-care-of",
+      "u47.slow-down",
+      "u47.speed-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-l12",
+   "title": "12. stay in, end up, come up with…",
+   "focus": "listening",
+   "newItems": [
+    "u47.stay-in",
+    "u47.end-up",
+    "u47.come-up-with",
+    "u47.put-off"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u47.stay-in",
+      "u47.end-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u47.come-up-with",
+      "u47.put-off"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.stay-in",
+      "u47.end-up",
+      "u47.come-up-with",
+      "u47.put-off"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.stay-in",
+      "u47.end-up",
+      "u47.come-up-with",
+      "u47.put-off"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.stay-in",
+      "u47.end-up",
+      "u47.come-up-with",
+      "u47.put-off"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.slow-down",
+      "u47.speed-up",
+      "u47.hold-on",
+      "u47.watch-out",
+      "u47.try-on",
+      "u47.eat-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u47-phrasal-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El carro que se dañó",
+     "emoji": "🚗",
+     "paragraphs": [
+      {
+       "en": "Last Sunday Felipe and his girlfriend set off early for a trip to the coast.",
+       "es": "El domingo pasado Felipe y su novia salieron temprano para un viaje a la costa."
+      },
+      {
+       "en": "They were looking forward to a relaxing weekend.",
+       "es": "Estaban esperando con ganas un fin de semana relajante."
+      },
+      {
+       "en": "After two hours the car broke down in the middle of nowhere.",
+       "es": "Después de dos horas el carro se dañó en la mitad de la nada."
+      },
+      {
+       "en": "Felipe tried to figure out the problem, but he couldn't. They had also run out of water.",
+       "es": "Felipe intentó entender el problema, pero no pudo. Además se les había acabado el agua."
+      },
+      {
+       "en": "Finally a farmer showed up with his truck and helped them.",
+       "es": "Por fin apareció un campesino con su camioneta y los ayudó."
+      },
+      {
+       "en": "They ended up spending the night at the farmer's house. It turned out to be the best part of the trip!",
+       "es": "Terminaron pasando la noche en la casa del campesino. ¡Resultó ser la mejor parte del viaje!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué pasó después de dos horas?",
+       "options": [
+        "Llovió",
+        "Se dañó el carro",
+        "Llegaron a la costa"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿De qué se habían quedado sin?",
+       "options": [
+        "Gasolina",
+        "Agua",
+        "Dinero"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde pasaron la noche?",
+       "options": [
+        "En un hotel",
+        "En la casa del campesino",
+        "En el carro"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Cuidar la casa de un vecino",
+     "scene": "🏡 Tu vecina se va de viaje y te pide favores.",
+     "turns": [
+      {
+       "who": "Neighbor",
+       "en": "Could you look after my cat this weekend?",
+       "es": "¿Me podrías cuidar el gato este fin de semana?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sure, no problem. When are you coming back?",
+         "es": "Claro, no hay problema. ¿Cuándo vuelves?",
+         "ok": true
+        },
+        {
+         "en": "Sure. When are you looking for back?",
+         "es": "Claro. ¿Cuándo estás buscando atrás?",
+         "ok": false,
+         "why": "Se dice \"When are you coming back?\"."
+        }
+       ]
+      },
+      {
+       "who": "Neighbor",
+       "en": "On Monday. Please pick up my mail too.",
+       "es": "El lunes. Por favor recoge mi correo también."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "OK. Should I turn on the lights at night?",
+         "es": "Bueno. ¿Prendo las luces en la noche?",
+         "ok": true
+        },
+        {
+         "en": "OK. Should I throw away your cat?",
+         "es": "Bueno. ¿Boto tu gato?",
+         "ok": false,
+         "why": "¡Para nada!"
+        }
+       ]
+      },
+      {
+       "who": "Neighbor",
+       "en": "Yes, please. And if there's a problem, call me and I'll call you back.",
+       "es": "Sí, por favor. Y si hay algún problema, llámame y te devuelvo la llamada."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Don't worry. Have a great trip!",
+         "es": "Tranquila. ¡Que tengas un muy buen viaje!",
+         "ok": true
+        },
+        {
+         "en": "Hang up, please.",
+         "es": "Cuelga, por favor.",
+         "ok": false,
+         "why": "No tiene sentido aquí."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Estoy buscando mis llaves.",
+     "en": "I'm looking for my keys.",
+     "accept": [
+      "I am looking for my keys."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ponte la chaqueta.",
+     "en": "Put on your jacket.",
+     "accept": [
+      "Put your jacket on."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Se nos acabó la leche.",
+     "en": "We've run out of milk.",
+     "accept": [
+      "We ran out of milk.",
+      "We have run out of milk."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I'm really looking forward to the weekend.",
+     "es": "De verdad espero con ganas el fin de semana."
+    },
+    {
+     "type": "dictation",
+     "en": "Can you turn the music down, please?",
+     "es": "¿Puedes bajarle a la música, por favor?"
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u47.hold-on",
+      "u47.watch-out",
+      "u47.try-on",
+      "u47.eat-out",
+      "u47.stay-in",
+      "u47.end-up",
+      "u47.come-up-with",
+      "u47.put-off"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

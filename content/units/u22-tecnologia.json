@@ -1,0 +1,1216 @@
+{
+ "_generated": true,
+ "id": "u22-tecnologia",
+ "level": "A1",
+ "title": "El celular y la tecnología",
+ "emoji": "📲",
+ "canDo": "Ya puedo usar el celular y el computador en inglés",
+ "summary": "Las palabras que ves todos los días en tu celular, apps y computador.",
+ "grammar": [
+  "Imperativos de las apps",
+  "my / your / our"
+ ],
+ "items": [
+  {
+   "id": "u22.phone",
+   "en": "phone",
+   "es": "celular / teléfono",
+   "kind": "word",
+   "emoji": "📱",
+   "say": "fóun"
+  },
+  {
+   "id": "u22.computer",
+   "en": "computer",
+   "es": "computador",
+   "kind": "word",
+   "emoji": "💻",
+   "say": "kom-piú-ter"
+  },
+  {
+   "id": "u22.screen",
+   "en": "screen",
+   "es": "pantalla",
+   "kind": "word",
+   "emoji": "🖥️",
+   "say": "skríin"
+  },
+  {
+   "id": "u22.keyboard",
+   "en": "keyboard",
+   "es": "teclado",
+   "kind": "word",
+   "emoji": "⌨️",
+   "say": "kíi-bord"
+  },
+  {
+   "id": "u22.mouse",
+   "en": "mouse",
+   "es": "mouse / ratón",
+   "kind": "word",
+   "emoji": "🖱️",
+   "say": "máus"
+  },
+  {
+   "id": "u22.charger",
+   "en": "charger",
+   "es": "cargador",
+   "kind": "word",
+   "emoji": "🔌",
+   "say": "chár-yer"
+  },
+  {
+   "id": "u22.battery",
+   "en": "battery",
+   "es": "batería",
+   "kind": "word",
+   "emoji": "🔋",
+   "say": "bá-te-ri"
+  },
+  {
+   "id": "u22.password",
+   "en": "password",
+   "es": "contraseña",
+   "kind": "word",
+   "emoji": "🔐",
+   "say": "pás-uerd"
+  },
+  {
+   "id": "u22.email",
+   "en": "email",
+   "es": "correo electrónico",
+   "kind": "word",
+   "emoji": "📧",
+   "say": "íi-meil"
+  },
+  {
+   "id": "u22.message",
+   "en": "message",
+   "es": "mensaje",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "mé-sich"
+  },
+  {
+   "id": "u22.photo",
+   "en": "photo",
+   "es": "foto",
+   "kind": "word",
+   "emoji": "🖼️",
+   "say": "fóu-tou"
+  },
+  {
+   "id": "u22.video",
+   "en": "video",
+   "es": "video",
+   "kind": "word",
+   "emoji": "🎥",
+   "say": "ví-di-ou"
+  },
+  {
+   "id": "u22.app",
+   "en": "app",
+   "es": "aplicación",
+   "kind": "word",
+   "emoji": "📲",
+   "say": "ap"
+  },
+  {
+   "id": "u22.internet",
+   "en": "internet",
+   "es": "internet",
+   "kind": "word",
+   "emoji": "🌐",
+   "say": "ín-ter-net"
+  },
+  {
+   "id": "u22.wi-fi",
+   "en": "Wi-Fi",
+   "es": "wifi",
+   "kind": "word",
+   "emoji": "📶",
+   "say": "uái-fai"
+  },
+  {
+   "id": "u22.download",
+   "en": "download",
+   "es": "descargar",
+   "kind": "word",
+   "emoji": "⬇️",
+   "say": "dáun-loud"
+  },
+  {
+   "id": "u22.upload",
+   "en": "upload",
+   "es": "subir (un archivo)",
+   "kind": "word",
+   "emoji": "⬆️",
+   "say": "áp-loud"
+  },
+  {
+   "id": "u22.save",
+   "en": "save",
+   "es": "guardar",
+   "kind": "word",
+   "emoji": "💾",
+   "say": "séiv"
+  },
+  {
+   "id": "u22.delete",
+   "en": "delete",
+   "es": "borrar",
+   "kind": "word",
+   "emoji": "🗑️",
+   "say": "di-líit"
+  },
+  {
+   "id": "u22.search",
+   "en": "search",
+   "es": "buscar",
+   "kind": "word",
+   "emoji": "🔎",
+   "say": "serch"
+  },
+  {
+   "id": "u22.click",
+   "en": "click",
+   "es": "hacer clic",
+   "kind": "word",
+   "emoji": "🖱️",
+   "say": "klik"
+  },
+  {
+   "id": "u22.share",
+   "en": "share",
+   "es": "compartir",
+   "kind": "word",
+   "emoji": "🔗",
+   "say": "sher"
+  },
+  {
+   "id": "u22.log-in",
+   "en": "log in",
+   "es": "iniciar sesión",
+   "kind": "chunk",
+   "emoji": "🔓",
+   "say": "log in"
+  },
+  {
+   "id": "u22.sign-up",
+   "en": "sign up",
+   "es": "registrarse",
+   "kind": "chunk",
+   "emoji": "📝",
+   "say": "sáin ap"
+  },
+  {
+   "id": "u22.settings",
+   "en": "settings",
+   "es": "configuración / ajustes",
+   "kind": "word",
+   "emoji": "⚙️",
+   "say": "sé-tings"
+  },
+  {
+   "id": "u22.my-battery-is-low",
+   "en": "My battery is low",
+   "es": "Tengo poca batería",
+   "kind": "chunk",
+   "emoji": "🪫"
+  },
+  {
+   "id": "u22.what-s-the-wi-fi-password",
+   "en": "What's the Wi-Fi password?",
+   "es": "¿Cuál es la clave del wifi?",
+   "kind": "chunk",
+   "emoji": "📶"
+  },
+  {
+   "id": "u22.send-me-a-message",
+   "en": "Send me a message",
+   "es": "Mándame un mensaje",
+   "kind": "chunk",
+   "emoji": "💌"
+  },
+  {
+   "id": "u22.can-i-charge-my-phone",
+   "en": "Can I charge my phone?",
+   "es": "¿Puedo cargar mi celular?",
+   "kind": "chunk",
+   "emoji": "🔌"
+  },
+  {
+   "id": "u22.our",
+   "en": "our",
+   "es": "nuestro",
+   "kind": "word",
+   "emoji": "👨‍👩‍👧",
+   "say": "áur"
+  },
+  {
+   "id": "u22.their",
+   "en": "their",
+   "es": "su / de ellos",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "der"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u22-tecnologia-l1",
+   "title": "1. phone, computer, screen…",
+   "focus": "listening",
+   "newItems": [
+    "u22.phone",
+    "u22.computer",
+    "u22.screen",
+    "u22.keyboard"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.phone",
+      "u22.computer"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.screen",
+      "u22.keyboard"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.phone",
+      "u22.computer",
+      "u22.screen",
+      "u22.keyboard"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.phone",
+      "u22.computer",
+      "u22.screen",
+      "u22.keyboard"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.phone",
+      "u22.computer"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-l2",
+   "title": "2. mouse, charger, battery…",
+   "focus": "grammar",
+   "newItems": [
+    "u22.mouse",
+    "u22.charger",
+    "u22.battery",
+    "u22.password"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.mouse",
+      "u22.charger"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.battery",
+      "u22.password"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.mouse",
+      "u22.charger",
+      "u22.battery",
+      "u22.password"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.mouse",
+      "u22.charger",
+      "u22.battery",
+      "u22.password"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.mouse",
+      "u22.charger"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.phone",
+      "u22.computer",
+      "u22.screen",
+      "u22.keyboard"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Los posesivos",
+     "intro": "Mira cómo se dice 'de quién es' cada cosa.",
+     "examples": [
+      {
+       "en": "This is my phone.",
+       "es": "Este es mi celular.",
+       "mark": [
+        "my"
+       ]
+      },
+      {
+       "en": "Is this your charger?",
+       "es": "¿Este es tu cargador?",
+       "mark": [
+        "your"
+       ]
+      },
+      {
+       "en": "His password is easy.",
+       "es": "Su contraseña (de él) es fácil.",
+       "mark": [
+        "His"
+       ]
+      },
+      {
+       "en": "Her computer is new.",
+       "es": "Su computador (de ella) es nuevo.",
+       "mark": [
+        "Her"
+       ]
+      },
+      {
+       "en": "Our Wi-Fi is fast.",
+       "es": "Nuestro wifi es rápido.",
+       "mark": [
+        "Our"
+       ]
+      },
+      {
+       "en": "Their app is great.",
+       "es": "Su app (de ellos) es genial.",
+       "mark": [
+        "Their"
+       ]
+      }
+     ],
+     "question": "¿Cómo se dice 'nuestro'?",
+     "options": [
+      "their",
+      "our",
+      "your"
+     ],
+     "answer": 1,
+     "rule": "Los posesivos van antes de la cosa y no cambian por plural: my phones, our computers. Son: my (mi), your (tu/su de usted), his (de él), her (de ella), its (de una cosa), our (nuestro), their (de ellos).",
+     "ruleExamples": [
+      {
+       "en": "Our teacher sends us an email every week.",
+       "es": "Nuestro profesor nos manda un correo cada semana."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I can't find ___ charger. (yo)",
+     "options": [
+      "my",
+      "me"
+     ],
+     "answer": 0,
+     "es": "No encuentro mi cargador."
+    },
+    {
+     "type": "fill",
+     "en": "Lia and Tom love ___ new phones.",
+     "options": [
+      "their",
+      "our"
+     ],
+     "answer": 0,
+     "es": "A Lia y Tom les encantan sus celulares nuevos."
+    },
+    {
+     "type": "fill",
+     "en": "We need ___ password.",
+     "options": [
+      "our",
+      "us"
+     ],
+     "answer": 0,
+     "es": "Necesitamos nuestra contraseña."
+    },
+    {
+     "type": "fill",
+     "en": "Is this ___ email, Mr. Pérez?",
+     "options": [
+      "your",
+      "you"
+     ],
+     "answer": 0,
+     "es": "¿Este es su correo, señor Pérez?"
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-l3",
+   "title": "3. email, message, photo…",
+   "focus": "reading",
+   "newItems": [
+    "u22.email",
+    "u22.message",
+    "u22.photo",
+    "u22.video"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.email",
+      "u22.message"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.photo",
+      "u22.video"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.email",
+      "u22.message",
+      "u22.photo",
+      "u22.video"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.email",
+      "u22.message",
+      "u22.photo",
+      "u22.video"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.email",
+      "u22.message"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.screen",
+      "u22.keyboard",
+      "u22.mouse",
+      "u22.charger",
+      "u22.battery",
+      "u22.password"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-l4",
+   "title": "4. app, internet, Wi-Fi…",
+   "focus": "listening",
+   "newItems": [
+    "u22.app",
+    "u22.internet",
+    "u22.wi-fi",
+    "u22.download"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.app",
+      "u22.internet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.wi-fi",
+      "u22.download"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.app",
+      "u22.internet",
+      "u22.wi-fi",
+      "u22.download"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.app",
+      "u22.internet",
+      "u22.wi-fi",
+      "u22.download"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.app",
+      "u22.internet"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.battery",
+      "u22.password",
+      "u22.email",
+      "u22.message",
+      "u22.photo",
+      "u22.video"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-l5",
+   "title": "5. upload, save, delete…",
+   "focus": "listening",
+   "newItems": [
+    "u22.upload",
+    "u22.save",
+    "u22.delete",
+    "u22.search"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.upload",
+      "u22.save"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.delete",
+      "u22.search"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.upload",
+      "u22.save",
+      "u22.delete",
+      "u22.search"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.upload",
+      "u22.save",
+      "u22.delete",
+      "u22.search"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.upload",
+      "u22.save"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.photo",
+      "u22.video",
+      "u22.app",
+      "u22.internet",
+      "u22.wi-fi",
+      "u22.download"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "📱",
+     "title": "Cambia tu celular a inglés",
+     "text": "Un truco muy efectivo y gratis: pon tu celular en inglés. Ya conoces dónde está cada cosa, así que aprendes settings, download, share y delete sin esfuerzo."
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-l6",
+   "title": "6. click, share, log in…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u22.click",
+    "u22.share",
+    "u22.log-in",
+    "u22.sign-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.click",
+      "u22.share"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.log-in",
+      "u22.sign-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.click",
+      "u22.share",
+      "u22.log-in",
+      "u22.sign-up"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.click",
+      "u22.share",
+      "u22.log-in",
+      "u22.sign-up"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.log-in",
+      "u22.sign-up"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.wi-fi",
+      "u22.download",
+      "u22.upload",
+      "u22.save",
+      "u22.delete",
+      "u22.search"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-l7",
+   "title": "7. settings, My battery is low, What's the Wi-Fi password?…",
+   "focus": "reading",
+   "newItems": [
+    "u22.settings",
+    "u22.my-battery-is-low",
+    "u22.what-s-the-wi-fi-password",
+    "u22.send-me-a-message"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.settings",
+      "u22.my-battery-is-low"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.what-s-the-wi-fi-password",
+      "u22.send-me-a-message"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.settings",
+      "u22.my-battery-is-low",
+      "u22.what-s-the-wi-fi-password",
+      "u22.send-me-a-message"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.settings",
+      "u22.my-battery-is-low",
+      "u22.what-s-the-wi-fi-password",
+      "u22.send-me-a-message"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.my-battery-is-low",
+      "u22.what-s-the-wi-fi-password"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.delete",
+      "u22.search",
+      "u22.click",
+      "u22.share",
+      "u22.log-in",
+      "u22.sign-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En la casa de un amigo",
+     "scene": "🏠 Llegas y necesitas internet.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Can I charge my phone? My battery is low.",
+       "es": "¿Puedo cargar mi celular? Tengo poca batería."
+      },
+      {
+       "who": "Jake",
+       "en": "Sure. The charger is next to the computer.",
+       "es": "Claro. El cargador está al lado del computador."
+      },
+      {
+       "who": "You",
+       "en": "Thanks! And what's the Wi-Fi password?",
+       "es": "¡Gracias! ¿Y cuál es la clave del wifi?"
+      },
+      {
+       "who": "Jake",
+       "en": "It's \"happycat2024\". All small letters.",
+       "es": "Es \"happycat2024\". Todo en minúscula."
+      },
+      {
+       "who": "You",
+       "en": "Got it. Can I send you the photos later?",
+       "es": "Listo. ¿Te mando las fotos más tarde?"
+      },
+      {
+       "who": "Jake",
+       "en": "Yes, send me a message.",
+       "es": "Sí, mándame un mensaje."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-l8",
+   "title": "8. Can I charge my phone?, our, their",
+   "focus": "listening",
+   "newItems": [
+    "u22.can-i-charge-my-phone",
+    "u22.our",
+    "u22.their"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u22.can-i-charge-my-phone",
+      "u22.our"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u22.their"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.can-i-charge-my-phone",
+      "u22.our",
+      "u22.their"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.can-i-charge-my-phone",
+      "u22.our",
+      "u22.their"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.can-i-charge-my-phone"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.log-in",
+      "u22.sign-up",
+      "u22.settings",
+      "u22.my-battery-is-low",
+      "u22.what-s-the-wi-fi-password",
+      "u22.send-me-a-message"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u22-tecnologia-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La abuela y su celular nuevo",
+     "emoji": "👵📱",
+     "paragraphs": [
+      {
+       "en": "Grandma Rosa has a new phone. She doesn't know how to use it.",
+       "es": "La abuela Rosa tiene un celular nuevo. No sabe cómo usarlo."
+      },
+      {
+       "en": "Her grandson Sam helps her. \"First, go to settings.\"",
+       "es": "Su nieto Sam le ayuda. \"Primero, ve a configuración.\""
+      },
+      {
+       "en": "\"Now download this app. Then sign up with your email.\"",
+       "es": "\"Ahora descarga esta aplicación. Luego regístrate con tu correo.\""
+      },
+      {
+       "en": "\"Choose a password. Don't share it with anyone!\"",
+       "es": "\"Elige una contraseña. ¡No se la compartas a nadie!\""
+      },
+      {
+       "en": "Grandma takes a photo of Sam and shares it with the family.",
+       "es": "La abuela le toma una foto a Sam y la comparte con la familia."
+      },
+      {
+       "en": "Now she sends messages every day. She loves her new phone!",
+       "es": "Ahora manda mensajes todos los días. ¡Le encanta su celular nuevo!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Quién ayuda a la abuela?",
+       "options": [
+        "Su hija",
+        "Su nieto Sam",
+        "Un vecino"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Con qué se registra?",
+       "options": [
+        "Con su correo",
+        "Con su teléfono fijo",
+        "Con una foto"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué no debe compartir?",
+       "options": [
+        "Las fotos",
+        "La contraseña",
+        "Los mensajes"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Soporte técnico",
+     "scene": "🛠️ Llamas porque no puedes entrar a tu cuenta.",
+     "turns": [
+      {
+       "who": "Agent",
+       "en": "Hello, how can I help you?",
+       "es": "Hola, ¿en qué le puedo ayudar?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Hi. I can't log in to my account.",
+         "es": "Hola. No puedo iniciar sesión en mi cuenta.",
+         "ok": true
+        },
+        {
+         "en": "Hi. I can't log in to your account.",
+         "es": "Hola. No puedo entrar a su cuenta.",
+         "ok": false,
+         "why": "Es TU cuenta: \"my account\"."
+        }
+       ]
+      },
+      {
+       "who": "Agent",
+       "en": "Do you remember your password?",
+       "es": "¿Recuerda su contraseña?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No, I don't.",
+         "es": "No, no la recuerdo.",
+         "ok": true
+        },
+        {
+         "en": "No, I doesn't.",
+         "es": "No, yo no recuerda.",
+         "ok": false,
+         "why": "Con I se dice \"I don't\"."
+        }
+       ]
+      },
+      {
+       "who": "Agent",
+       "en": "OK. Click \"Forgot password\" and check your email.",
+       "es": "Bueno. Haga clic en \"Olvidé mi contraseña\" y revise su correo."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Great, thank you!",
+         "es": "¡Perfecto, gracias!",
+         "ok": true
+        },
+        {
+         "en": "Delete my email, please.",
+         "es": "Borre mi correo, por favor.",
+         "ok": false,
+         "why": "No es lo que necesitas."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Cuál es la clave del wifi?",
+     "en": "What's the Wi-Fi password?",
+     "accept": [
+      "What is the Wi-Fi password?",
+      "What's the wifi password?"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Tengo poca batería.",
+     "en": "My battery is low."
+    },
+    {
+     "type": "write",
+     "es": "Mándame un mensaje.",
+     "en": "Send me a message."
+    },
+    {
+     "type": "dictation",
+     "en": "Can I charge my phone?",
+     "es": "¿Puedo cargar mi celular?"
+    },
+    {
+     "type": "dictation",
+     "en": "Don't share your password.",
+     "es": "No compartas tu contraseña."
+    },
+    {
+     "type": "speak",
+     "en": "I use my phone every day.",
+     "es": "Uso mi celular todos los días.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u22.sign-up",
+      "u22.settings",
+      "u22.my-battery-is-low",
+      "u22.what-s-the-wi-fi-password",
+      "u22.send-me-a-message",
+      "u22.can-i-charge-my-phone",
+      "u22.our",
+      "u22.their"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

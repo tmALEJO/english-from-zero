@@ -1,0 +1,1242 @@
+{
+ "_generated": true,
+ "id": "u28-comparar",
+ "level": "A2",
+ "title": "Comparando cosas",
+ "emoji": "⚖️",
+ "canDo": "Ya puedo comparar productos, lugares y personas",
+ "summary": "Comparativos (bigger than) y superlativos (the biggest) para elegir y opinar.",
+ "grammar": [
+  "Comparativos: -er / more",
+  "Superlativos: the -est / the most"
+ ],
+ "items": [
+  {
+   "id": "u28.bigger-than",
+   "en": "bigger than",
+   "es": "más grande que",
+   "kind": "chunk",
+   "emoji": "🐘"
+  },
+  {
+   "id": "u28.smaller-than",
+   "en": "smaller than",
+   "es": "más pequeño que",
+   "kind": "chunk",
+   "emoji": "🐭"
+  },
+  {
+   "id": "u28.cheaper-than",
+   "en": "cheaper than",
+   "es": "más barato que",
+   "kind": "chunk",
+   "emoji": "🪙"
+  },
+  {
+   "id": "u28.more-expensive-than",
+   "en": "more expensive than",
+   "es": "más caro que",
+   "kind": "chunk",
+   "emoji": "💎"
+  },
+  {
+   "id": "u28.better-than",
+   "en": "better than",
+   "es": "mejor que",
+   "kind": "chunk",
+   "emoji": "👍",
+   "say": "bé-ter dan"
+  },
+  {
+   "id": "u28.worse-than",
+   "en": "worse than",
+   "es": "peor que",
+   "kind": "chunk",
+   "emoji": "👎",
+   "say": "uers dan"
+  },
+  {
+   "id": "u28.the-best",
+   "en": "the best",
+   "es": "el mejor",
+   "kind": "chunk",
+   "emoji": "🥇",
+   "say": "de best"
+  },
+  {
+   "id": "u28.the-worst",
+   "en": "the worst",
+   "es": "el peor",
+   "kind": "chunk",
+   "emoji": "🥉",
+   "say": "de uerst"
+  },
+  {
+   "id": "u28.the-biggest",
+   "en": "the biggest",
+   "es": "el más grande",
+   "kind": "chunk",
+   "emoji": "🏔️"
+  },
+  {
+   "id": "u28.the-most-beautiful",
+   "en": "the most beautiful",
+   "es": "el más hermoso",
+   "kind": "chunk",
+   "emoji": "🌹"
+  },
+  {
+   "id": "u28.as-tall-as",
+   "en": "as tall as",
+   "es": "tan alto como",
+   "kind": "chunk",
+   "emoji": "📏"
+  },
+  {
+   "id": "u28.heavy",
+   "en": "heavy",
+   "es": "pesado",
+   "kind": "word",
+   "emoji": "🏋️",
+   "say": "jé-vi"
+  },
+  {
+   "id": "u28.light",
+   "en": "light",
+   "es": "liviano / claro",
+   "kind": "word",
+   "emoji": "🪶",
+   "say": "láit"
+  },
+  {
+   "id": "u28.hot",
+   "en": "hot",
+   "es": "caliente",
+   "kind": "word",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u28.cold",
+   "en": "cold",
+   "es": "frío",
+   "kind": "word",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u28.far",
+   "en": "far",
+   "es": "lejos",
+   "kind": "word",
+   "emoji": "🛣️",
+   "say": "far"
+  },
+  {
+   "id": "u28.near",
+   "en": "near",
+   "es": "cerca",
+   "kind": "word",
+   "emoji": "📍",
+   "say": "níer"
+  },
+  {
+   "id": "u28.safe",
+   "en": "safe",
+   "es": "seguro",
+   "kind": "word",
+   "emoji": "🛡️",
+   "say": "séif"
+  },
+  {
+   "id": "u28.dangerous",
+   "en": "dangerous",
+   "es": "peligroso",
+   "kind": "word",
+   "emoji": "☠️",
+   "say": "déin-ye-ros"
+  },
+  {
+   "id": "u28.comfortable",
+   "en": "comfortable",
+   "es": "cómodo",
+   "kind": "word",
+   "emoji": "🛋️",
+   "say": "kámf-ta-bol"
+  },
+  {
+   "id": "u28.modern",
+   "en": "modern",
+   "es": "moderno",
+   "kind": "word",
+   "emoji": "🏙️",
+   "say": "mó-dern"
+  },
+  {
+   "id": "u28.old-fashioned",
+   "en": "old-fashioned",
+   "es": "anticuado",
+   "kind": "word",
+   "emoji": "📻",
+   "say": "óuld-fá-shond"
+  },
+  {
+   "id": "u28.popular",
+   "en": "popular",
+   "es": "popular",
+   "kind": "word",
+   "emoji": "🌟",
+   "say": "pó-piu-lar"
+  },
+  {
+   "id": "u28.famous",
+   "en": "famous",
+   "es": "famoso",
+   "kind": "word",
+   "emoji": "🎬",
+   "say": "féi-mos"
+  },
+  {
+   "id": "u28.rich",
+   "en": "rich",
+   "es": "rico (con dinero)",
+   "kind": "word",
+   "emoji": "💰",
+   "say": "rich"
+  },
+  {
+   "id": "u28.poor",
+   "en": "poor",
+   "es": "pobre",
+   "kind": "word",
+   "emoji": "🪫",
+   "say": "pur"
+  },
+  {
+   "id": "u28.clean",
+   "en": "clean",
+   "es": "limpio",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "klíin"
+  },
+  {
+   "id": "u28.dirty",
+   "en": "dirty",
+   "es": "sucio",
+   "kind": "word",
+   "emoji": "🦠",
+   "say": "dér-ti"
+  },
+  {
+   "id": "u28.healthy",
+   "en": "healthy",
+   "es": "saludable",
+   "kind": "word",
+   "emoji": "🥗",
+   "say": "jél-zi"
+  },
+  {
+   "id": "u28.high",
+   "en": "high",
+   "es": "alto (montaña, precio)",
+   "kind": "word",
+   "emoji": "🏔️",
+   "say": "jái"
+  },
+  {
+   "id": "u28.low",
+   "en": "low",
+   "es": "bajo",
+   "kind": "word",
+   "emoji": "⬇️",
+   "say": "lóu"
+  },
+  {
+   "id": "u28.wide",
+   "en": "wide",
+   "es": "ancho",
+   "kind": "word",
+   "emoji": "↔️",
+   "say": "uáid"
+  },
+  {
+   "id": "u28.deep",
+   "en": "deep",
+   "es": "profundo",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "díip"
+  },
+  {
+   "id": "u28.in-the-world",
+   "en": "in the world",
+   "es": "en el mundo",
+   "kind": "chunk",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u28.which-one-is-better",
+   "en": "Which one is better?",
+   "es": "¿Cuál es mejor?",
+   "kind": "chunk",
+   "emoji": "🤔"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u28-comparar-l1",
+   "title": "1. bigger than, smaller than, cheaper than…",
+   "focus": "listening",
+   "newItems": [
+    "u28.bigger-than",
+    "u28.smaller-than",
+    "u28.cheaper-than",
+    "u28.more-expensive-than"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.bigger-than",
+      "u28.smaller-than"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.cheaper-than",
+      "u28.more-expensive-than"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.bigger-than",
+      "u28.smaller-than",
+      "u28.cheaper-than",
+      "u28.more-expensive-than"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.bigger-than",
+      "u28.smaller-than",
+      "u28.cheaper-than",
+      "u28.more-expensive-than"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l2",
+   "title": "2. better than, worse than, the best…",
+   "focus": "grammar",
+   "newItems": [
+    "u28.better-than",
+    "u28.worse-than",
+    "u28.the-best",
+    "u28.the-worst"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.better-than",
+      "u28.worse-than"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.the-best",
+      "u28.the-worst"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.better-than",
+      "u28.worse-than",
+      "u28.the-best",
+      "u28.the-worst"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.better-than",
+      "u28.worse-than",
+      "u28.the-best",
+      "u28.the-worst"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.bigger-than",
+      "u28.smaller-than",
+      "u28.cheaper-than",
+      "u28.more-expensive-than"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Comparativos y superlativos",
+     "intro": "Mira cómo cambia el adjetivo al comparar.",
+     "examples": [
+      {
+       "en": "A cat is smaller than a dog.",
+       "es": "Un gato es más pequeño que un perro.",
+       "mark": [
+        "smaller than"
+       ]
+      },
+      {
+       "en": "The train is faster than the bus.",
+       "es": "El tren es más rápido que el bus.",
+       "mark": [
+        "faster than"
+       ]
+      },
+      {
+       "en": "This phone is more expensive than that one.",
+       "es": "Este celular es más caro que ese.",
+       "mark": [
+        "more expensive than"
+       ]
+      },
+      {
+       "en": "Everest is the highest mountain in the world.",
+       "es": "El Everest es la montaña más alta del mundo.",
+       "mark": [
+        "the highest"
+       ]
+      },
+      {
+       "en": "This is the most beautiful beach.",
+       "es": "Esta es la playa más hermosa.",
+       "mark": [
+        "the most beautiful"
+       ]
+      }
+     ],
+     "question": "¿Cuándo se usa more en vez de -er?",
+     "options": [
+      "Con adjetivos cortos",
+      "Con adjetivos largos",
+      "Nunca"
+     ],
+     "answer": 1,
+     "rule": "Para comparar: adjetivo corto + -er + than (cheaper than); adjetivo largo: more + adjetivo + than (more expensive than). Para 'el más': the + -est (the cheapest) o the most + adjetivo (the most expensive). Irregulares: good → better → the best; bad → worse → the worst.",
+     "ruleExamples": [
+      {
+       "en": "Pasto is colder than Cali, but Cali is hotter than Pasto.",
+       "es": "Pasto es más frío que Cali, pero Cali es más caliente que Pasto."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "My car is ___ than your car.",
+     "options": [
+      "older",
+      "more old"
+     ],
+     "answer": 0,
+     "es": "Mi carro es más viejo que el tuyo."
+    },
+    {
+     "type": "fill",
+     "en": "This hotel is ___ comfortable than the other.",
+     "options": [
+      "more",
+      "most"
+     ],
+     "answer": 0,
+     "es": "Este hotel es más cómodo que el otro."
+    },
+    {
+     "type": "fill",
+     "en": "She's the ___ student in the class.",
+     "options": [
+      "better",
+      "best"
+     ],
+     "answer": 1,
+     "es": "Ella es la mejor estudiante de la clase."
+    },
+    {
+     "type": "fill",
+     "en": "Today is ___ than yesterday. It's raining more.",
+     "options": [
+      "worse",
+      "worst"
+     ],
+     "answer": 0,
+     "es": "Hoy está peor que ayer."
+    },
+    {
+     "type": "fill",
+     "en": "Is Bogotá ___ than Pasto?",
+     "options": [
+      "bigger",
+      "more big"
+     ],
+     "answer": 0,
+     "es": "¿Bogotá es más grande que Pasto?"
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l3",
+   "title": "3. the biggest, the most beautiful, as tall as…",
+   "focus": "reading",
+   "newItems": [
+    "u28.the-biggest",
+    "u28.the-most-beautiful",
+    "u28.as-tall-as",
+    "u28.heavy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.the-biggest",
+      "u28.the-most-beautiful"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.as-tall-as",
+      "u28.heavy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.the-biggest",
+      "u28.the-most-beautiful",
+      "u28.as-tall-as",
+      "u28.heavy"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.the-biggest",
+      "u28.the-most-beautiful",
+      "u28.as-tall-as",
+      "u28.heavy"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.cheaper-than",
+      "u28.more-expensive-than",
+      "u28.better-than",
+      "u28.worse-than",
+      "u28.the-best",
+      "u28.the-worst"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l4",
+   "title": "4. light, hot, cold…",
+   "focus": "listening",
+   "newItems": [
+    "u28.light",
+    "u28.hot",
+    "u28.cold",
+    "u28.far"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.light",
+      "u28.hot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.cold",
+      "u28.far"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.light",
+      "u28.hot",
+      "u28.cold",
+      "u28.far"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.light",
+      "u28.hot",
+      "u28.cold",
+      "u28.far"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.the-best",
+      "u28.the-worst",
+      "u28.the-biggest",
+      "u28.the-most-beautiful",
+      "u28.as-tall-as",
+      "u28.heavy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l5",
+   "title": "5. near, safe, dangerous…",
+   "focus": "listening",
+   "newItems": [
+    "u28.near",
+    "u28.safe",
+    "u28.dangerous",
+    "u28.comfortable"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.near",
+      "u28.safe"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.dangerous",
+      "u28.comfortable"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.near",
+      "u28.safe",
+      "u28.dangerous",
+      "u28.comfortable"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.near",
+      "u28.safe",
+      "u28.dangerous",
+      "u28.comfortable"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.as-tall-as",
+      "u28.heavy",
+      "u28.light",
+      "u28.hot",
+      "u28.cold",
+      "u28.far"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l6",
+   "title": "6. modern, old-fashioned, popular…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u28.modern",
+    "u28.old-fashioned",
+    "u28.popular",
+    "u28.famous"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.modern",
+      "u28.old-fashioned"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.popular",
+      "u28.famous"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.modern",
+      "u28.old-fashioned",
+      "u28.popular",
+      "u28.famous"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.modern",
+      "u28.old-fashioned",
+      "u28.popular",
+      "u28.famous"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.cold",
+      "u28.far",
+      "u28.near",
+      "u28.safe",
+      "u28.dangerous",
+      "u28.comfortable"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l7",
+   "title": "7. rich, poor, clean…",
+   "focus": "reading",
+   "newItems": [
+    "u28.rich",
+    "u28.poor",
+    "u28.clean",
+    "u28.dirty"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.rich",
+      "u28.poor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.clean",
+      "u28.dirty"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.rich",
+      "u28.poor",
+      "u28.clean",
+      "u28.dirty"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.rich",
+      "u28.poor",
+      "u28.clean",
+      "u28.dirty"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.dangerous",
+      "u28.comfortable",
+      "u28.modern",
+      "u28.old-fashioned",
+      "u28.popular",
+      "u28.famous"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Cuál compro?",
+     "scene": "💻 Eliges un computador con un vendedor.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Which one is better, this laptop or that one?",
+       "es": "¿Cuál es mejor, este portátil o ese?"
+      },
+      {
+       "who": "Seller",
+       "en": "This one is faster and lighter.",
+       "es": "Este es más rápido y más liviano."
+      },
+      {
+       "who": "You",
+       "en": "Is it more expensive?",
+       "es": "¿Es más caro?"
+      },
+      {
+       "who": "Seller",
+       "en": "Yes, it's a little more expensive, but the battery is better.",
+       "es": "Sí, es un poco más caro, pero la batería es mejor."
+      },
+      {
+       "who": "You",
+       "en": "What is the cheapest one?",
+       "es": "¿Cuál es el más barato?"
+      },
+      {
+       "who": "Seller",
+       "en": "That black one. But it's the slowest.",
+       "es": "Ese negro. Pero es el más lento."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l8",
+   "title": "8. healthy, high, low…",
+   "focus": "listening",
+   "newItems": [
+    "u28.healthy",
+    "u28.high",
+    "u28.low",
+    "u28.wide"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.healthy",
+      "u28.high"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.low",
+      "u28.wide"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.healthy",
+      "u28.high",
+      "u28.low",
+      "u28.wide"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.healthy",
+      "u28.high",
+      "u28.low",
+      "u28.wide"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.popular",
+      "u28.famous",
+      "u28.rich",
+      "u28.poor",
+      "u28.clean",
+      "u28.dirty"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-l9",
+   "title": "9. deep, in the world, Which one is better?",
+   "focus": "listening",
+   "newItems": [
+    "u28.deep",
+    "u28.in-the-world",
+    "u28.which-one-is-better"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u28.deep",
+      "u28.in-the-world"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u28.which-one-is-better"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.deep",
+      "u28.in-the-world",
+      "u28.which-one-is-better"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.deep",
+      "u28.in-the-world",
+      "u28.which-one-is-better"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.clean",
+      "u28.dirty",
+      "u28.healthy",
+      "u28.high",
+      "u28.low",
+      "u28.wide"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u28-comparar-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Dos ciudades",
+     "emoji": "🏙️",
+     "paragraphs": [
+      {
+       "en": "Medellín and Pasto are two very different cities in Colombia.",
+       "es": "Medellín y Pasto son dos ciudades muy diferentes de Colombia."
+      },
+      {
+       "en": "Medellín is bigger and more modern than Pasto. It has a metro.",
+       "es": "Medellín es más grande y más moderna que Pasto. Tiene metro."
+      },
+      {
+       "en": "Pasto is smaller and quieter. The streets are less crowded.",
+       "es": "Pasto es más pequeña y tranquila. Las calles están menos llenas."
+      },
+      {
+       "en": "Medellín is warmer. Pasto is colder, but the views of the volcano are amazing.",
+       "es": "Medellín es más cálida. Pasto es más fría, pero la vista del volcán es increíble."
+      },
+      {
+       "en": "For many people, the Carnival in Pasto is the most beautiful party in Colombia.",
+       "es": "Para mucha gente, el Carnaval de Pasto es la fiesta más hermosa de Colombia."
+      },
+      {
+       "en": "Which city is better? It depends on you!",
+       "es": "¿Qué ciudad es mejor? ¡Depende de ti!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué ciudad es más grande?",
+       "options": [
+        "Pasto",
+        "Medellín",
+        "Son iguales"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué ciudad es más tranquila?",
+       "options": [
+        "Pasto",
+        "Medellín"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué fiesta mencionan?",
+       "options": [
+        "La Feria de las Flores",
+        "El Carnaval de Pasto",
+        "El Festival Vallenato"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Elegir un hotel",
+     "scene": "🏨 Ayudas a tu pareja a elegir hotel para el viaje.",
+     "turns": [
+      {
+       "who": "Partner",
+       "en": "Hotel Sol or Hotel Mar?",
+       "es": "¿Hotel Sol o Hotel Mar?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Hotel Mar is closer to the beach.",
+         "es": "El Hotel Mar queda más cerca de la playa.",
+         "ok": true
+        },
+        {
+         "en": "Hotel Mar is the more close.",
+         "es": "El Hotel Mar es el más cerca.",
+         "ok": false,
+         "why": "Se dice \"closer\" o \"the closest\"."
+        }
+       ]
+      },
+      {
+       "who": "Partner",
+       "en": "But it's more expensive.",
+       "es": "Pero es más caro."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, but it's cleaner and more comfortable.",
+         "es": "Sí, pero es más limpio y más cómodo.",
+         "ok": true
+        },
+        {
+         "en": "Yes, but it's the cheaper in the world.",
+         "es": "Sí, pero es el más barato del mundo.",
+         "ok": false,
+         "why": "Acaban de decir que es más caro."
+        }
+       ]
+      },
+      {
+       "who": "Partner",
+       "en": "OK, let's book the best one!",
+       "es": "¡Bueno, reservemos el mejor!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Perfect. I'm going to book it now.",
+         "es": "Perfecto. Lo voy a reservar ya.",
+         "ok": true
+        },
+        {
+         "en": "I'm going to book the worst.",
+         "es": "Voy a reservar el peor.",
+         "ok": false,
+         "why": "Quieren el mejor."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "El tren es más rápido que el bus.",
+     "en": "The train is faster than the bus."
+    },
+    {
+     "type": "write",
+     "es": "Esta es la mejor pizza de la ciudad.",
+     "en": "This is the best pizza in the city.",
+     "accept": [
+      "This is the best pizza in town."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Mi celular es más caro que el tuyo.",
+     "en": "My phone is more expensive than yours.",
+     "accept": [
+      "My phone is more expensive than your phone."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Which one is cheaper?",
+     "es": "¿Cuál es más barato?"
+    },
+    {
+     "type": "dictation",
+     "en": "It's the most beautiful beach in the world.",
+     "es": "Es la playa más hermosa del mundo."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u28.dirty",
+      "u28.healthy",
+      "u28.high",
+      "u28.low",
+      "u28.wide",
+      "u28.deep",
+      "u28.in-the-world",
+      "u28.which-one-is-better"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

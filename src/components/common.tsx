@@ -4,12 +4,12 @@ import { lookupWord } from '../engine/content';
 import { useApp } from '../state';
 
 /** Botón de audio. El segundo botón (tortuga) repite más lento. */
-export function SpeakButton({ text, auto = false, big = false, label }: { text: string; auto?: boolean; big?: boolean; label?: string }) {
+export function SpeakButton({ text, auto = false, big = false, label, speaker, natural }: { text: string; auto?: boolean; big?: boolean; label?: string; speaker?: string; natural?: boolean }) {
   const { settings } = useApp();
   const [playing, setPlaying] = useState(false);
   const play = async (rate: number) => {
     setPlaying(true);
-    await speak(text, { rate, voiceName: settings.voiceName });
+    await speak(text, { rate, voiceName: settings.voiceName, speaker, natural });
     setPlaying(false);
   };
   useEffect(() => {

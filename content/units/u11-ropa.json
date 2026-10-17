@@ -1,0 +1,1165 @@
+{
+ "_generated": true,
+ "id": "u11-ropa",
+ "level": "A1",
+ "title": "Ropa y compras",
+ "emoji": "🛍️",
+ "canDo": "Ya puedo comprar ropa y pedir otra talla",
+ "summary": "La ropa, las tallas, cómo pedir probarte algo y señalar con this, that, these, those.",
+ "grammar": [
+  "This / that / these / those"
+ ],
+ "items": [
+  {
+   "id": "u11.shirt",
+   "en": "shirt",
+   "es": "camisa",
+   "kind": "word",
+   "emoji": "👔",
+   "say": "shert"
+  },
+  {
+   "id": "u11.t-shirt",
+   "en": "T-shirt",
+   "es": "camiseta",
+   "kind": "word",
+   "emoji": "👕",
+   "say": "tíi-shert"
+  },
+  {
+   "id": "u11.pants",
+   "en": "pants",
+   "es": "pantalón",
+   "kind": "word",
+   "emoji": "👖",
+   "say": "pants"
+  },
+  {
+   "id": "u11.jeans",
+   "en": "jeans",
+   "es": "jeans / bluyín",
+   "kind": "word",
+   "emoji": "👖",
+   "say": "yíins"
+  },
+  {
+   "id": "u11.dress",
+   "en": "dress",
+   "es": "vestido",
+   "kind": "word",
+   "emoji": "👗",
+   "say": "dres"
+  },
+  {
+   "id": "u11.skirt",
+   "en": "skirt",
+   "es": "falda",
+   "kind": "word",
+   "emoji": "👗",
+   "say": "skert"
+  },
+  {
+   "id": "u11.shoes",
+   "en": "shoes",
+   "es": "zapatos",
+   "kind": "word",
+   "emoji": "👞",
+   "say": "shúus"
+  },
+  {
+   "id": "u11.sneakers",
+   "en": "sneakers",
+   "es": "tenis",
+   "kind": "word",
+   "emoji": "👟",
+   "say": "sníi-kers"
+  },
+  {
+   "id": "u11.jacket",
+   "en": "jacket",
+   "es": "chaqueta",
+   "kind": "word",
+   "emoji": "🧥",
+   "say": "yá-ket"
+  },
+  {
+   "id": "u11.hat",
+   "en": "hat",
+   "es": "sombrero / gorra",
+   "kind": "word",
+   "emoji": "👒",
+   "say": "jat"
+  },
+  {
+   "id": "u11.socks",
+   "en": "socks",
+   "es": "medias",
+   "kind": "word",
+   "emoji": "🧦",
+   "say": "soks"
+  },
+  {
+   "id": "u11.bag",
+   "en": "bag",
+   "es": "bolso",
+   "kind": "word",
+   "emoji": "👜",
+   "say": "bag"
+  },
+  {
+   "id": "u11.size",
+   "en": "size",
+   "es": "talla",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "sáis"
+  },
+  {
+   "id": "u11.medium",
+   "en": "medium",
+   "es": "mediano (talla M)",
+   "kind": "word",
+   "emoji": "🔷",
+   "say": "mí-di-um"
+  },
+  {
+   "id": "u11.large",
+   "en": "large",
+   "es": "grande (talla L)",
+   "kind": "word",
+   "emoji": "🔶",
+   "say": "larch"
+  },
+  {
+   "id": "u11.can-i-try-it-on",
+   "en": "Can I try it on?",
+   "es": "¿Me lo puedo probar?",
+   "kind": "chunk",
+   "emoji": "🪞",
+   "say": "kan ai trái it on"
+  },
+  {
+   "id": "u11.do-you-have-a-smaller-size",
+   "en": "Do you have a smaller size?",
+   "es": "¿Tiene una talla más pequeña?",
+   "kind": "chunk",
+   "emoji": "⬇️"
+  },
+  {
+   "id": "u11.do-you-have-it-in-black",
+   "en": "Do you have it in black?",
+   "es": "¿Lo tiene en negro?",
+   "kind": "chunk",
+   "emoji": "⚫"
+  },
+  {
+   "id": "u11.it-s-too-big",
+   "en": "It's too big",
+   "es": "Me queda muy grande",
+   "kind": "chunk",
+   "emoji": "🎈"
+  },
+  {
+   "id": "u11.it-s-too-small",
+   "en": "It's too small",
+   "es": "Me queda muy pequeño",
+   "kind": "chunk",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u11.it-fits-well",
+   "en": "It fits well",
+   "es": "Me queda bien",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u11.i-ll-take-it",
+   "en": "I'll take it",
+   "es": "Me lo llevo",
+   "kind": "chunk",
+   "emoji": "🛒",
+   "say": "ail téik it"
+  },
+  {
+   "id": "u11.how-much-are-these",
+   "en": "How much are these?",
+   "es": "¿Cuánto cuestan estos?",
+   "kind": "chunk",
+   "emoji": "🏷️"
+  },
+  {
+   "id": "u11.this",
+   "en": "this",
+   "es": "este / esta (cerca, uno)",
+   "kind": "word",
+   "emoji": "👇",
+   "say": "dis"
+  },
+  {
+   "id": "u11.that",
+   "en": "that",
+   "es": "ese / aquel (lejos, uno)",
+   "kind": "word",
+   "emoji": "👉",
+   "say": "dat"
+  },
+  {
+   "id": "u11.these",
+   "en": "these",
+   "es": "estos / estas (cerca, varios)",
+   "kind": "word",
+   "emoji": "👇👇",
+   "say": "díis"
+  },
+  {
+   "id": "u11.those",
+   "en": "those",
+   "es": "esos / aquellos (lejos, varios)",
+   "kind": "word",
+   "emoji": "👉👉",
+   "say": "dóus"
+  },
+  {
+   "id": "u11.cash",
+   "en": "cash",
+   "es": "efectivo",
+   "kind": "word",
+   "emoji": "💵",
+   "say": "cash"
+  },
+  {
+   "id": "u11.credit-card",
+   "en": "credit card",
+   "es": "tarjeta de crédito",
+   "kind": "chunk",
+   "emoji": "💳"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u11-ropa-l1",
+   "title": "1. shirt, T-shirt, pants…",
+   "focus": "listening",
+   "newItems": [
+    "u11.shirt",
+    "u11.t-shirt",
+    "u11.pants",
+    "u11.jeans"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.shirt",
+      "u11.t-shirt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u11.pants",
+      "u11.jeans"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.shirt",
+      "u11.t-shirt",
+      "u11.pants",
+      "u11.jeans"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.shirt",
+      "u11.t-shirt",
+      "u11.pants",
+      "u11.jeans"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.shirt",
+      "u11.t-shirt"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-l2",
+   "title": "2. dress, skirt, shoes…",
+   "focus": "grammar",
+   "newItems": [
+    "u11.dress",
+    "u11.skirt",
+    "u11.shoes",
+    "u11.sneakers"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.dress",
+      "u11.skirt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u11.shoes",
+      "u11.sneakers"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.dress",
+      "u11.skirt",
+      "u11.shoes",
+      "u11.sneakers"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.dress",
+      "u11.skirt",
+      "u11.shoes",
+      "u11.sneakers"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.dress",
+      "u11.skirt"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.shirt",
+      "u11.t-shirt",
+      "u11.pants",
+      "u11.jeans"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "this, that, these, those",
+     "intro": "Mira la distancia y la cantidad en cada frase.",
+     "examples": [
+      {
+       "en": "This shirt is nice. (en mi mano)",
+       "es": "Esta camisa es bonita.",
+       "mark": [
+        "This"
+       ]
+      },
+      {
+       "en": "That jacket is expensive. (allá)",
+       "es": "Esa chaqueta es cara.",
+       "mark": [
+        "That"
+       ]
+      },
+      {
+       "en": "These shoes are small. (aquí, varios)",
+       "es": "Estos zapatos son pequeños.",
+       "mark": [
+        "These"
+       ]
+      },
+      {
+       "en": "Those socks are cheap. (allá, varios)",
+       "es": "Esas medias son baratas.",
+       "mark": [
+        "Those"
+       ]
+      }
+     ],
+     "question": "¿Cuál usas para varias cosas que están lejos?",
+     "options": [
+      "this",
+      "these",
+      "those"
+     ],
+     "answer": 2,
+     "rule": "this = una cosa cerca; that = una cosa lejos; these = varias cerca; those = varias lejos. En inglés no cambian por masculino o femenino: this shirt, this dress.",
+     "ruleExamples": [
+      {
+       "en": "I like this hat, but I don't like those shoes.",
+       "es": "Me gusta este sombrero, pero no me gustan esos zapatos."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "How much is ___ dress? (en tu mano)",
+     "options": [
+      "this",
+      "these"
+     ],
+     "answer": 0,
+     "es": "¿Cuánto cuesta este vestido?"
+    },
+    {
+     "type": "fill",
+     "en": "___ sneakers are great! (aquí, varios)",
+     "options": [
+      "This",
+      "These"
+     ],
+     "answer": 1,
+     "es": "¡Estos tenis son geniales!"
+    },
+    {
+     "type": "fill",
+     "en": "Can I see ___ jacket over there?",
+     "options": [
+      "that",
+      "those"
+     ],
+     "answer": 0,
+     "es": "¿Puedo ver esa chaqueta de allá?"
+    },
+    {
+     "type": "fill",
+     "en": "___ socks are too big. (allá)",
+     "options": [
+      "That",
+      "Those"
+     ],
+     "answer": 1,
+     "es": "Esas medias son muy grandes."
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-l3",
+   "title": "3. jacket, hat, socks…",
+   "focus": "reading",
+   "newItems": [
+    "u11.jacket",
+    "u11.hat",
+    "u11.socks",
+    "u11.bag"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.jacket",
+      "u11.hat"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u11.socks",
+      "u11.bag"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.jacket",
+      "u11.hat",
+      "u11.socks",
+      "u11.bag"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.jacket",
+      "u11.hat",
+      "u11.socks",
+      "u11.bag"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.jacket",
+      "u11.hat"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.pants",
+      "u11.jeans",
+      "u11.dress",
+      "u11.skirt",
+      "u11.shoes",
+      "u11.sneakers"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-l4",
+   "title": "4. size, medium, large…",
+   "focus": "listening",
+   "newItems": [
+    "u11.size",
+    "u11.medium",
+    "u11.large",
+    "u11.can-i-try-it-on"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.size",
+      "u11.medium"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u11.large",
+      "u11.can-i-try-it-on"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.size",
+      "u11.medium",
+      "u11.large",
+      "u11.can-i-try-it-on"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.size",
+      "u11.medium",
+      "u11.large",
+      "u11.can-i-try-it-on"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.can-i-try-it-on"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.shoes",
+      "u11.sneakers",
+      "u11.jacket",
+      "u11.hat",
+      "u11.socks",
+      "u11.bag"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-l5",
+   "title": "5. Do you have a smaller size?, Do you have it in black?, It's too big…",
+   "focus": "listening",
+   "newItems": [
+    "u11.do-you-have-a-smaller-size",
+    "u11.do-you-have-it-in-black",
+    "u11.it-s-too-big",
+    "u11.it-s-too-small"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.do-you-have-a-smaller-size",
+      "u11.do-you-have-it-in-black"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u11.it-s-too-big",
+      "u11.it-s-too-small"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.do-you-have-a-smaller-size",
+      "u11.do-you-have-it-in-black",
+      "u11.it-s-too-big",
+      "u11.it-s-too-small"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.do-you-have-a-smaller-size",
+      "u11.do-you-have-it-in-black",
+      "u11.it-s-too-big",
+      "u11.it-s-too-small"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.do-you-have-a-smaller-size",
+      "u11.do-you-have-it-in-black"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.socks",
+      "u11.bag",
+      "u11.size",
+      "u11.medium",
+      "u11.large",
+      "u11.can-i-try-it-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-l6",
+   "title": "6. It fits well, I'll take it, How much are these?…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u11.it-fits-well",
+    "u11.i-ll-take-it",
+    "u11.how-much-are-these",
+    "u11.this"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.it-fits-well",
+      "u11.i-ll-take-it"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u11.how-much-are-these",
+      "u11.this"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.it-fits-well",
+      "u11.i-ll-take-it",
+      "u11.how-much-are-these",
+      "u11.this"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.it-fits-well",
+      "u11.i-ll-take-it",
+      "u11.how-much-are-these",
+      "u11.this"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.it-fits-well",
+      "u11.i-ll-take-it"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.large",
+      "u11.can-i-try-it-on",
+      "u11.do-you-have-a-smaller-size",
+      "u11.do-you-have-it-in-black",
+      "u11.it-s-too-big",
+      "u11.it-s-too-small"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En la tienda de ropa",
+     "scene": "🛍️ Quieres comprar una chaqueta.",
+     "lines": [
+      {
+       "who": "Clerk",
+       "en": "Hi! Can I help you?",
+       "es": "¡Hola! ¿Le puedo ayudar?"
+      },
+      {
+       "who": "You",
+       "en": "Yes, please. How much is this jacket?",
+       "es": "Sí, por favor. ¿Cuánto cuesta esta chaqueta?"
+      },
+      {
+       "who": "Clerk",
+       "en": "It's forty dollars.",
+       "es": "Cuesta cuarenta dólares."
+      },
+      {
+       "who": "You",
+       "en": "Can I try it on?",
+       "es": "¿Me la puedo probar?"
+      },
+      {
+       "who": "Clerk",
+       "en": "Of course. What size are you?",
+       "es": "Claro. ¿Qué talla es usted?"
+      },
+      {
+       "who": "You",
+       "en": "Medium. Oh no, it's too big. Do you have a smaller size?",
+       "es": "Mediana. Ay no, me queda muy grande. ¿Tiene una talla más pequeña?"
+      },
+      {
+       "who": "Clerk",
+       "en": "Here is a small.",
+       "es": "Aquí tiene una pequeña."
+      },
+      {
+       "who": "You",
+       "en": "It fits well. I'll take it!",
+       "es": "Me queda bien. ¡Me la llevo!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-l7",
+   "title": "7. that, these, those…",
+   "focus": "reading",
+   "newItems": [
+    "u11.that",
+    "u11.these",
+    "u11.those",
+    "u11.cash"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.that",
+      "u11.these"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u11.those",
+      "u11.cash"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.that",
+      "u11.these",
+      "u11.those",
+      "u11.cash"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.that",
+      "u11.these",
+      "u11.those",
+      "u11.cash"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.that",
+      "u11.these"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.it-s-too-big",
+      "u11.it-s-too-small",
+      "u11.it-fits-well",
+      "u11.i-ll-take-it",
+      "u11.how-much-are-these",
+      "u11.this"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-l8",
+   "title": "8. credit card",
+   "focus": "listening",
+   "newItems": [
+    "u11.credit-card"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u11.credit-card"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.credit-card"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.credit-card"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.credit-card"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.how-much-are-these",
+      "u11.this",
+      "u11.that",
+      "u11.these",
+      "u11.those",
+      "u11.cash"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u11-ropa-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El regalo de cumpleaños",
+     "emoji": "🎁",
+     "paragraphs": [
+      {
+       "en": "It's Lia's birthday on Saturday. Her brother Tom wants a present for her.",
+       "es": "El cumpleaños de Lia es el sábado. Su hermano Tom quiere un regalo para ella."
+      },
+      {
+       "en": "He goes to a store. He sees a red dress and a black bag.",
+       "es": "Va a una tienda. Ve un vestido rojo y un bolso negro."
+      },
+      {
+       "en": "The dress is beautiful, but it's very expensive.",
+       "es": "El vestido es hermoso, pero es muy caro."
+      },
+      {
+       "en": "The bag is cheap and Lia loves black.",
+       "es": "El bolso es barato y a Lia le encanta el negro."
+      },
+      {
+       "en": "Tom pays in cash. \"I'll take this bag, please.\"",
+       "es": "Tom paga en efectivo. \"Me llevo este bolso, por favor.\""
+      },
+      {
+       "en": "On Saturday, Lia opens the present. She is very happy!",
+       "es": "El sábado, Lia abre el regalo. ¡Está muy feliz!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Para quién es el regalo?",
+       "options": [
+        "Para Tom",
+        "Para Lia",
+        "Para su mamá"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Por qué no compra el vestido?",
+       "options": [
+        "Es muy caro",
+        "Es feo",
+        "Es pequeño"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cómo paga Tom?",
+       "options": [
+        "Con tarjeta",
+        "En efectivo",
+        "No paga"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Cambiar la talla",
+     "scene": "👟 Te pruebas unos tenis en la tienda.",
+     "turns": [
+      {
+       "who": "Clerk",
+       "en": "How are the sneakers?",
+       "es": "¿Qué tal los tenis?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "They're too small. Do you have a bigger size?",
+         "es": "Me quedan pequeños. ¿Tiene una talla más grande?",
+         "ok": true
+        },
+        {
+         "en": "I'm too small.",
+         "es": "Yo soy muy pequeño.",
+         "ok": false,
+         "why": "Hablas de ti, no de los tenis."
+        }
+       ]
+      },
+      {
+       "who": "Clerk",
+       "en": "Yes, here you are.",
+       "es": "Sí, aquí tiene."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you. They fit well!",
+         "es": "Gracias. ¡Me quedan bien!",
+         "ok": true
+        },
+        {
+         "en": "They fit well yesterday.",
+         "es": "Me quedaron bien ayer.",
+         "ok": false,
+         "why": "Te los estás probando ahora."
+        }
+       ]
+      },
+      {
+       "who": "Clerk",
+       "en": "Cash or credit card?",
+       "es": "¿Efectivo o tarjeta?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Credit card, please.",
+         "es": "Con tarjeta, por favor.",
+         "ok": true
+        },
+        {
+         "en": "Yes, please.",
+         "es": "Sí, por favor.",
+         "ok": false,
+         "why": "Te preguntaron cuál de las dos opciones."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Me lo puedo probar?",
+     "en": "Can I try it on?"
+    },
+    {
+     "type": "write",
+     "es": "Estos zapatos me quedan muy pequeños.",
+     "en": "These shoes are too small."
+    },
+    {
+     "type": "write",
+     "es": "Me lo llevo.",
+     "en": "I'll take it.",
+     "accept": [
+      "I will take it."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Do you have it in black?",
+     "es": "¿Lo tiene en negro?"
+    },
+    {
+     "type": "dictation",
+     "en": "How much are these shoes?",
+     "es": "¿Cuánto cuestan estos zapatos?"
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u11.i-ll-take-it",
+      "u11.how-much-are-these",
+      "u11.this",
+      "u11.that",
+      "u11.these",
+      "u11.those",
+      "u11.cash",
+      "u11.credit-card"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

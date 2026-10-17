@@ -95,8 +95,9 @@ def main() -> int:
             if l["id"] in lesson_ids:
                 errors.append(f"Lección repetida: {l['id']}")
             lesson_ids.add(l["id"])
-            if len(l["newItems"]) > MAX_NEW:
-                errors.append(f"{where}: {len(l['newItems'])} ítems nuevos (máximo {MAX_NEW})")
+            max_new = MAX_NEW + (1 if u["level"] in ("B2", "C1") else 0)
+            if len(l["newItems"]) > max_new:
+                errors.append(f"{where}: {len(l['newItems'])} ítems nuevos (máximo {max_new})")
             for iid in l["newItems"]:
                 if iid not in items:
                     errors.append(f"{where}: newItems referencia '{iid}', que no existe")

@@ -1,0 +1,1733 @@
+{
+ "_generated": true,
+ "id": "u67-ciencia",
+ "level": "B2",
+ "title": "Ciencia y tecnología",
+ "emoji": "🔬",
+ "canDo": "Ya puedo hablar y leer sobre ciencia, tecnología e innovación",
+ "summary": "Investigación, inventos, inteligencia artificial y ciberseguridad, con verbos para describir avances.",
+ "grammar": [
+  "Futuro continuo y perfecto: will be doing / will have done"
+ ],
+ "items": [
+  {
+   "id": "u67.research",
+   "en": "research",
+   "es": "investigación / investigar",
+   "kind": "word",
+   "emoji": "🔬",
+   "say": "ri-sérch"
+  },
+  {
+   "id": "u67.researcher",
+   "en": "researcher",
+   "es": "investigador",
+   "kind": "word",
+   "emoji": "🧑‍🔬",
+   "say": "ri-sér-cher"
+  },
+  {
+   "id": "u67.experiment",
+   "en": "experiment",
+   "es": "experimento",
+   "kind": "word",
+   "emoji": "🧪",
+   "say": "eks-pé-ri-ment"
+  },
+  {
+   "id": "u67.laboratory",
+   "en": "laboratory",
+   "es": "laboratorio",
+   "kind": "word",
+   "emoji": "⚗️",
+   "say": "la-bó-ra-to-ri"
+  },
+  {
+   "id": "u67.hypothesis",
+   "en": "hypothesis",
+   "es": "hipótesis",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "jai-pó-ze-sis"
+  },
+  {
+   "id": "u67.theory",
+   "en": "theory",
+   "es": "teoría",
+   "kind": "word",
+   "emoji": "📐",
+   "say": "zí-o-ri"
+  },
+  {
+   "id": "u67.data",
+   "en": "data",
+   "es": "datos",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "déi-ta"
+  },
+  {
+   "id": "u67.analyze",
+   "en": "analyze",
+   "es": "analizar",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "á-na-lais"
+  },
+  {
+   "id": "u67.findings",
+   "en": "findings",
+   "es": "hallazgos",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "fáin-dings"
+  },
+  {
+   "id": "u67.breakthrough",
+   "en": "breakthrough",
+   "es": "avance decisivo",
+   "kind": "word",
+   "emoji": "🚀",
+   "say": "bréik-zru"
+  },
+  {
+   "id": "u67.innovation",
+   "en": "innovation",
+   "es": "innovación",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "i-no-véi-shon"
+  },
+  {
+   "id": "u67.cutting-edge",
+   "en": "cutting-edge",
+   "es": "de vanguardia",
+   "kind": "word",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u67.develop",
+   "en": "develop",
+   "es": "desarrollar",
+   "kind": "word",
+   "emoji": "🛠️",
+   "say": "di-vé-lop"
+  },
+  {
+   "id": "u67.development",
+   "en": "development",
+   "es": "desarrollo",
+   "kind": "word",
+   "emoji": "🏗️"
+  },
+  {
+   "id": "u67.machine-learning",
+   "en": "machine learning",
+   "es": "aprendizaje automático",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u67.algorithm",
+   "en": "algorithm",
+   "es": "algoritmo",
+   "kind": "word",
+   "emoji": "🧮",
+   "say": "ál-go-ri-dem"
+  },
+  {
+   "id": "u67.software",
+   "en": "software",
+   "es": "software",
+   "kind": "word",
+   "emoji": "💾",
+   "say": "sóft-uer"
+  },
+  {
+   "id": "u67.hardware",
+   "en": "hardware",
+   "es": "hardware",
+   "kind": "word",
+   "emoji": "🖥️",
+   "say": "jard-uer"
+  },
+  {
+   "id": "u67.database",
+   "en": "database",
+   "es": "base de datos",
+   "kind": "word",
+   "emoji": "🗄️",
+   "say": "déi-ta-beis"
+  },
+  {
+   "id": "u67.cloud-computing",
+   "en": "cloud computing",
+   "es": "computación en la nube",
+   "kind": "chunk",
+   "emoji": "☁️"
+  },
+  {
+   "id": "u67.network",
+   "en": "network",
+   "es": "red",
+   "kind": "word",
+   "emoji": "🌐",
+   "say": "nét-uerk"
+  },
+  {
+   "id": "u67.server",
+   "en": "server",
+   "es": "servidor",
+   "kind": "word",
+   "emoji": "🖥️",
+   "say": "sér-ver"
+  },
+  {
+   "id": "u67.code",
+   "en": "code",
+   "es": "código / programar",
+   "kind": "word",
+   "emoji": "💻",
+   "say": "kóud"
+  },
+  {
+   "id": "u67.programming",
+   "en": "programming",
+   "es": "programación",
+   "kind": "word",
+   "emoji": "👨‍💻"
+  },
+  {
+   "id": "u67.user",
+   "en": "user",
+   "es": "usuario",
+   "kind": "word",
+   "emoji": "👤",
+   "say": "iú-ser"
+  },
+  {
+   "id": "u67.interface",
+   "en": "interface",
+   "es": "interfaz",
+   "kind": "word",
+   "emoji": "🖼️",
+   "say": "ín-ter-feis"
+  },
+  {
+   "id": "u67.wireless",
+   "en": "wireless",
+   "es": "inalámbrico",
+   "kind": "word",
+   "emoji": "📶",
+   "say": "uáier-les"
+  },
+  {
+   "id": "u67.upgrade",
+   "en": "upgrade",
+   "es": "mejorar / actualizar",
+   "kind": "word",
+   "emoji": "⬆️",
+   "say": "ap-gréid"
+  },
+  {
+   "id": "u67.install",
+   "en": "install",
+   "es": "instalar",
+   "kind": "word",
+   "emoji": "📥",
+   "say": "ins-tól"
+  },
+  {
+   "id": "u67.bug",
+   "en": "bug",
+   "es": "error de programación",
+   "kind": "word",
+   "emoji": "🐞",
+   "say": "bag"
+  },
+  {
+   "id": "u67.cybersecurity",
+   "en": "cybersecurity",
+   "es": "ciberseguridad",
+   "kind": "word",
+   "emoji": "🛡️",
+   "say": "sai-ber-se-kiú-ri-ti"
+  },
+  {
+   "id": "u67.vulnerability",
+   "en": "vulnerability",
+   "es": "vulnerabilidad",
+   "kind": "word",
+   "emoji": "🕳️",
+   "say": "val-ne-ra-bí-li-ti"
+  },
+  {
+   "id": "u67.encryption",
+   "en": "encryption",
+   "es": "cifrado",
+   "kind": "word",
+   "emoji": "🔐",
+   "say": "en-kríp-shon"
+  },
+  {
+   "id": "u67.data-breach",
+   "en": "data breach",
+   "es": "filtración de datos",
+   "kind": "chunk",
+   "emoji": "💧"
+  },
+  {
+   "id": "u67.malware",
+   "en": "malware",
+   "es": "software malicioso",
+   "kind": "word",
+   "emoji": "🦠",
+   "say": "mál-uer"
+  },
+  {
+   "id": "u67.phishing",
+   "en": "phishing",
+   "es": "suplantación (phishing)",
+   "kind": "word",
+   "emoji": "🎣",
+   "say": "fí-shing"
+  },
+  {
+   "id": "u67.firewall",
+   "en": "firewall",
+   "es": "cortafuegos",
+   "kind": "word",
+   "emoji": "🧱",
+   "say": "fáier-uol"
+  },
+  {
+   "id": "u67.authentication",
+   "en": "authentication",
+   "es": "autenticación",
+   "kind": "word",
+   "emoji": "🔑",
+   "say": "o-zen-ti-kéi-shon"
+  },
+  {
+   "id": "u67.genetics",
+   "en": "genetics",
+   "es": "genética",
+   "kind": "word",
+   "emoji": "🧬",
+   "say": "ye-né-tiks"
+  },
+  {
+   "id": "u67.vaccine",
+   "en": "vaccine",
+   "es": "vacuna",
+   "kind": "word",
+   "emoji": "💉",
+   "say": "vak-síin"
+  },
+  {
+   "id": "u67.cure",
+   "en": "cure",
+   "es": "cura / curar",
+   "kind": "word",
+   "emoji": "💊",
+   "say": "kiúr"
+  },
+  {
+   "id": "u67.disease",
+   "en": "disease",
+   "es": "enfermedad",
+   "kind": "word",
+   "emoji": "🦠",
+   "say": "di-síis"
+  },
+  {
+   "id": "u67.satellite",
+   "en": "satellite",
+   "es": "satélite",
+   "kind": "word",
+   "emoji": "🛰️",
+   "say": "sá-te-lait"
+  },
+  {
+   "id": "u67.telescope",
+   "en": "telescope",
+   "es": "telescopio",
+   "kind": "word",
+   "emoji": "🔭",
+   "say": "té-les-koup"
+  },
+  {
+   "id": "u67.universe",
+   "en": "universe",
+   "es": "universo",
+   "kind": "word",
+   "emoji": "🌌",
+   "say": "iú-ni-vers"
+  },
+  {
+   "id": "u67.gravity",
+   "en": "gravity",
+   "es": "gravedad",
+   "kind": "word",
+   "emoji": "🍎",
+   "say": "grá-vi-ti"
+  },
+  {
+   "id": "u67.robotics",
+   "en": "robotics",
+   "es": "robótica",
+   "kind": "word",
+   "emoji": "🦾",
+   "say": "rou-bó-tiks"
+  },
+  {
+   "id": "u67.drone",
+   "en": "drone",
+   "es": "dron",
+   "kind": "word",
+   "emoji": "🛸",
+   "say": "dróun"
+  },
+  {
+   "id": "u67.virtual-reality",
+   "en": "virtual reality",
+   "es": "realidad virtual",
+   "kind": "chunk",
+   "emoji": "🥽"
+  },
+  {
+   "id": "u67.ethical",
+   "en": "ethical",
+   "es": "ético",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "é-zi-kal"
+  },
+  {
+   "id": "u67.in-ten-years-we-will-be-using",
+   "en": "In ten years we will be using…",
+   "es": "En diez años estaremos usando…",
+   "kind": "chunk",
+   "emoji": "🔮"
+  },
+  {
+   "id": "u67.by-2040-scientists-will-have-found",
+   "en": "By 2040 scientists will have found…",
+   "es": "Para 2040 los científicos habrán encontrado…",
+   "kind": "chunk",
+   "emoji": "🧪"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u67-ciencia-l1",
+   "title": "1. research, researcher, experiment…",
+   "focus": "listening",
+   "newItems": [
+    "u67.research",
+    "u67.researcher",
+    "u67.experiment",
+    "u67.laboratory",
+    "u67.hypothesis"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.research",
+      "u67.researcher"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.experiment",
+      "u67.laboratory"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.hypothesis"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.research",
+      "u67.researcher",
+      "u67.experiment",
+      "u67.laboratory",
+      "u67.hypothesis"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.research",
+      "u67.researcher",
+      "u67.experiment",
+      "u67.laboratory",
+      "u67.hypothesis"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.research",
+      "u67.researcher",
+      "u67.experiment",
+      "u67.laboratory",
+      "u67.hypothesis"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l2",
+   "title": "2. theory, data, analyze…",
+   "focus": "grammar",
+   "newItems": [
+    "u67.theory",
+    "u67.data",
+    "u67.analyze",
+    "u67.findings",
+    "u67.breakthrough"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.theory",
+      "u67.data"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.analyze",
+      "u67.findings"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.breakthrough"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.theory",
+      "u67.data",
+      "u67.analyze",
+      "u67.findings",
+      "u67.breakthrough"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.theory",
+      "u67.data",
+      "u67.analyze",
+      "u67.findings",
+      "u67.breakthrough"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.theory",
+      "u67.data",
+      "u67.analyze",
+      "u67.findings",
+      "u67.breakthrough"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.research",
+      "u67.researcher",
+      "u67.experiment",
+      "u67.laboratory",
+      "u67.hypothesis"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Futuro continuo y futuro perfecto",
+     "intro": "Dos formas de mirar el futuro con precisión.",
+     "examples": [
+      {
+       "en": "This time next year, I will be working in Canada.",
+       "es": "A esta hora el próximo año estaré trabajando en Canadá.",
+       "mark": [
+        "will be working"
+       ]
+      },
+      {
+       "en": "In 2050 we will be using flying cars.",
+       "es": "En 2050 estaremos usando carros voladores.",
+       "mark": [
+        "will be using"
+       ]
+      },
+      {
+       "en": "By 2030 scientists will have found a cure.",
+       "es": "Para 2030 los científicos habrán encontrado una cura.",
+       "mark": [
+        "will have found"
+       ]
+      },
+      {
+       "en": "By Friday I will have finished the code.",
+       "es": "Para el viernes habré terminado el código.",
+       "mark": [
+        "will have finished"
+       ]
+      }
+     ],
+     "question": "¿Qué estructura indica que algo estará TERMINADO antes de un momento futuro?",
+     "options": [
+      "will be + -ing",
+      "will have + participio"
+     ],
+     "answer": 1,
+     "rule": "FUTURO CONTINUO (will be + -ing): algo que estará en curso en un momento futuro. FUTURO PERFECTO (will have + participio): algo que ya estará terminado antes de un momento futuro; suele ir con by (para / antes de): by 2030, by Friday.",
+     "ruleExamples": [
+      {
+       "en": "By the time you arrive, I'll have fixed the bug, and I'll be testing the new version.",
+       "es": "Para cuando llegues, habré arreglado el error y estaré probando la nueva versión."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Don't call me at 9. I ___ be sleeping.",
+     "options": [
+      "will",
+      "will have"
+     ],
+     "answer": 0,
+     "es": "No me llames a las 9. Estaré durmiendo."
+    },
+    {
+     "type": "fill",
+     "en": "By 2030, we will have ___ a new vaccine.",
+     "options": [
+      "developed",
+      "develop"
+     ],
+     "answer": 0,
+     "es": "Para 2030 habremos desarrollado una vacuna nueva."
+    },
+    {
+     "type": "fill",
+     "en": "This time tomorrow, we will be ___ to Madrid.",
+     "options": [
+      "flying",
+      "flown"
+     ],
+     "answer": 0,
+     "es": "Mañana a esta hora estaremos volando a Madrid."
+    },
+    {
+     "type": "fill",
+     "en": "___ the end of the month, I'll have saved enough.",
+     "options": [
+      "By",
+      "Until"
+     ],
+     "answer": 0,
+     "es": "Para fin de mes habré ahorrado suficiente."
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l3",
+   "title": "3. innovation, cutting-edge, develop…",
+   "focus": "reading",
+   "newItems": [
+    "u67.innovation",
+    "u67.cutting-edge",
+    "u67.develop",
+    "u67.development",
+    "u67.machine-learning"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.innovation",
+      "u67.cutting-edge"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.develop",
+      "u67.development"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.machine-learning"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.innovation",
+      "u67.cutting-edge",
+      "u67.develop",
+      "u67.development",
+      "u67.machine-learning"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.innovation",
+      "u67.cutting-edge",
+      "u67.develop",
+      "u67.development",
+      "u67.machine-learning"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.innovation",
+      "u67.cutting-edge",
+      "u67.develop",
+      "u67.development",
+      "u67.machine-learning"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.hypothesis",
+      "u67.theory",
+      "u67.data",
+      "u67.analyze",
+      "u67.findings",
+      "u67.breakthrough"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l4",
+   "title": "4. algorithm, software, hardware…",
+   "focus": "listening",
+   "newItems": [
+    "u67.algorithm",
+    "u67.software",
+    "u67.hardware",
+    "u67.database",
+    "u67.cloud-computing"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.algorithm",
+      "u67.software"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.hardware",
+      "u67.database"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.cloud-computing"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.algorithm",
+      "u67.software",
+      "u67.hardware",
+      "u67.database",
+      "u67.cloud-computing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.algorithm",
+      "u67.software",
+      "u67.hardware",
+      "u67.database",
+      "u67.cloud-computing"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.algorithm",
+      "u67.software",
+      "u67.hardware",
+      "u67.database",
+      "u67.cloud-computing"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.breakthrough",
+      "u67.innovation",
+      "u67.cutting-edge",
+      "u67.develop",
+      "u67.development",
+      "u67.machine-learning"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l5",
+   "title": "5. network, server, code…",
+   "focus": "listening",
+   "newItems": [
+    "u67.network",
+    "u67.server",
+    "u67.code",
+    "u67.programming",
+    "u67.user"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.network",
+      "u67.server"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.code",
+      "u67.programming"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.user"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.network",
+      "u67.server",
+      "u67.code",
+      "u67.programming",
+      "u67.user"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.network",
+      "u67.server",
+      "u67.code",
+      "u67.programming",
+      "u67.user"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.network",
+      "u67.server",
+      "u67.code",
+      "u67.programming",
+      "u67.user"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.machine-learning",
+      "u67.algorithm",
+      "u67.software",
+      "u67.hardware",
+      "u67.database",
+      "u67.cloud-computing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l6",
+   "title": "6. interface, wireless, upgrade…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u67.interface",
+    "u67.wireless",
+    "u67.upgrade",
+    "u67.install",
+    "u67.bug"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.interface",
+      "u67.wireless"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.upgrade",
+      "u67.install"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.bug"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.interface",
+      "u67.wireless",
+      "u67.upgrade",
+      "u67.install",
+      "u67.bug"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.interface",
+      "u67.wireless",
+      "u67.upgrade",
+      "u67.install",
+      "u67.bug"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.interface",
+      "u67.wireless",
+      "u67.upgrade",
+      "u67.install",
+      "u67.bug"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.cloud-computing",
+      "u67.network",
+      "u67.server",
+      "u67.code",
+      "u67.programming",
+      "u67.user"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l7",
+   "title": "7. cybersecurity, vulnerability, encryption…",
+   "focus": "reading",
+   "newItems": [
+    "u67.cybersecurity",
+    "u67.vulnerability",
+    "u67.encryption",
+    "u67.data-breach",
+    "u67.malware"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.cybersecurity",
+      "u67.vulnerability"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.encryption",
+      "u67.data-breach"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.malware"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.cybersecurity",
+      "u67.vulnerability",
+      "u67.encryption",
+      "u67.data-breach",
+      "u67.malware"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.cybersecurity",
+      "u67.vulnerability",
+      "u67.encryption",
+      "u67.data-breach",
+      "u67.malware"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.cybersecurity",
+      "u67.vulnerability",
+      "u67.encryption",
+      "u67.data-breach",
+      "u67.malware"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.user",
+      "u67.interface",
+      "u67.wireless",
+      "u67.upgrade",
+      "u67.install",
+      "u67.bug"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l8",
+   "title": "8. phishing, firewall, authentication…",
+   "focus": "listening",
+   "newItems": [
+    "u67.phishing",
+    "u67.firewall",
+    "u67.authentication",
+    "u67.genetics",
+    "u67.vaccine"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.phishing",
+      "u67.firewall"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.authentication",
+      "u67.genetics"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.vaccine"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.phishing",
+      "u67.firewall",
+      "u67.authentication",
+      "u67.genetics",
+      "u67.vaccine"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.phishing",
+      "u67.firewall",
+      "u67.authentication",
+      "u67.genetics",
+      "u67.vaccine"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.phishing",
+      "u67.firewall",
+      "u67.authentication",
+      "u67.genetics",
+      "u67.vaccine"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.bug",
+      "u67.cybersecurity",
+      "u67.vulnerability",
+      "u67.encryption",
+      "u67.data-breach",
+      "u67.malware"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Una charla sobre IA",
+     "scene": "🤖 Pregunta del público en una conferencia.",
+     "lines": [
+      {
+       "who": "Student",
+       "en": "Do you think artificial intelligence will replace programmers?",
+       "es": "¿Cree que la inteligencia artificial reemplazará a los programadores?"
+      },
+      {
+       "who": "Speaker",
+       "en": "I don't think so. In ten years, programmers will be working with AI, not against it.",
+       "es": "No lo creo. En diez años los programadores estarán trabajando con la IA, no contra ella."
+      },
+      {
+       "who": "Student",
+       "en": "What skills will be most important?",
+       "es": "¿Qué habilidades serán más importantes?"
+      },
+      {
+       "who": "Speaker",
+       "en": "Problem-solving, cybersecurity and ethics. Every new technology brings new vulnerabilities.",
+       "es": "Resolución de problemas, ciberseguridad y ética. Toda tecnología nueva trae nuevas vulnerabilidades."
+      },
+      {
+       "who": "Student",
+       "en": "So learning security is a good idea?",
+       "es": "¿Entonces aprender seguridad es buena idea?"
+      },
+      {
+       "who": "Speaker",
+       "en": "Definitely. By 2030, millions of new cybersecurity jobs will have been created.",
+       "es": "Definitivamente. Para 2030 se habrán creado millones de nuevos empleos en ciberseguridad."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l9",
+   "title": "9. cure, disease, satellite…",
+   "focus": "listening",
+   "newItems": [
+    "u67.cure",
+    "u67.disease",
+    "u67.satellite",
+    "u67.telescope",
+    "u67.universe"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.cure",
+      "u67.disease"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.satellite",
+      "u67.telescope"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.universe"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.cure",
+      "u67.disease",
+      "u67.satellite",
+      "u67.telescope",
+      "u67.universe"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.cure",
+      "u67.disease",
+      "u67.satellite",
+      "u67.telescope",
+      "u67.universe"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.cure",
+      "u67.disease",
+      "u67.satellite",
+      "u67.telescope",
+      "u67.universe"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.malware",
+      "u67.phishing",
+      "u67.firewall",
+      "u67.authentication",
+      "u67.genetics",
+      "u67.vaccine"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l10",
+   "title": "10. gravity, robotics, drone…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u67.gravity",
+    "u67.robotics",
+    "u67.drone",
+    "u67.virtual-reality",
+    "u67.ethical"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.gravity",
+      "u67.robotics"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.drone",
+      "u67.virtual-reality"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u67.ethical"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.gravity",
+      "u67.robotics",
+      "u67.drone",
+      "u67.virtual-reality",
+      "u67.ethical"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.gravity",
+      "u67.robotics",
+      "u67.drone",
+      "u67.virtual-reality",
+      "u67.ethical"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.gravity",
+      "u67.robotics",
+      "u67.drone",
+      "u67.virtual-reality",
+      "u67.ethical"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.vaccine",
+      "u67.cure",
+      "u67.disease",
+      "u67.satellite",
+      "u67.telescope",
+      "u67.universe"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-l11",
+   "title": "11. In ten years we will be using…, By 2040 scientists will have found…",
+   "focus": "reading",
+   "newItems": [
+    "u67.in-ten-years-we-will-be-using",
+    "u67.by-2040-scientists-will-have-found"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u67.in-ten-years-we-will-be-using",
+      "u67.by-2040-scientists-will-have-found"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.in-ten-years-we-will-be-using",
+      "u67.by-2040-scientists-will-have-found"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.in-ten-years-we-will-be-using",
+      "u67.by-2040-scientists-will-have-found"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.in-ten-years-we-will-be-using",
+      "u67.by-2040-scientists-will-have-found"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.universe",
+      "u67.gravity",
+      "u67.robotics",
+      "u67.drone",
+      "u67.virtual-reality",
+      "u67.ethical"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u67-ciencia-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Cómo se reportó una vulnerabilidad",
+     "emoji": "🛡️",
+     "paragraphs": [
+      {
+       "en": "Valeria is a cybersecurity researcher who tests apps to find weaknesses before criminals do.",
+       "es": "Valeria es una investigadora de ciberseguridad que prueba aplicaciones para encontrar debilidades antes que los delincuentes."
+      },
+      {
+       "en": "Last month, while she was analyzing a banking app, she noticed something strange in the code.",
+       "es": "El mes pasado, mientras analizaba una app bancaria, notó algo extraño en el código."
+      },
+      {
+       "en": "The app wasn't using proper encryption, so personal data could be exposed on public Wi-Fi networks.",
+       "es": "La app no usaba un cifrado adecuado, así que los datos personales podían quedar expuestos en redes wifi públicas."
+      },
+      {
+       "en": "Instead of publishing the vulnerability, she reported it privately to the bank. This is called responsible disclosure.",
+       "es": "En vez de publicar la vulnerabilidad, la reportó en privado al banco. Esto se llama divulgación responsable."
+      },
+      {
+       "en": "The developers fixed the bug in a week and released an update for all users.",
+       "es": "Los desarrolladores arreglaron el error en una semana y lanzaron una actualización para todos los usuarios."
+      },
+      {
+       "en": "Thanks to ethical hackers like Valeria, millions of people are protected without even knowing it.",
+       "es": "Gracias a hackers éticos como Valeria, millones de personas están protegidas sin siquiera saberlo."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuál es el trabajo de Valeria?",
+       "options": [
+        "Robar datos",
+        "Encontrar debilidades antes que los delincuentes",
+        "Vender apps"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué problema encontró?",
+       "options": [
+        "La app no usaba un cifrado adecuado",
+        "La app era muy lenta",
+        "La app no tenía usuarios"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué es la 'divulgación responsable'?",
+       "options": [
+        "Publicar la falla en redes",
+        "Reportar la falla en privado a la empresa",
+        "Ignorar la falla"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Soporte técnico avanzado",
+     "scene": "🧑‍💻 Un cliente ve una alerta de inicio de sesión extraña.",
+     "turns": [
+      {
+       "who": "Client",
+       "en": "I received a strange login alert on my account.",
+       "es": "Recibí una alerta de inicio de sesión extraña en mi cuenta."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Don't worry. First, change your password and enable two-factor authentication.",
+         "es": "Tranquilo. Primero, cambie su contraseña y active la autenticación de dos factores.",
+         "ok": true
+        },
+        {
+         "en": "Send me your password and I'll check.",
+         "es": "Envíeme su contraseña y yo reviso.",
+         "ok": false,
+         "why": "Nunca se pide la contraseña: eso es phishing."
+        }
+       ]
+      },
+      {
+       "who": "Client",
+       "en": "Done. Was my data exposed?",
+       "es": "Listo. ¿Quedaron expuestos mis datos?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'll analyze the activity log. By this afternoon I'll have finished the analysis.",
+         "es": "Voy a analizar el registro de actividad. Para esta tarde habré terminado el análisis.",
+         "ok": true
+        },
+        {
+         "en": "By this afternoon I'll be finished analyze.",
+         "es": "Para esta tarde estaré terminado analizar.",
+         "ok": false,
+         "why": "Futuro perfecto: \"I'll have finished\"."
+        }
+       ]
+      },
+      {
+       "who": "Client",
+       "en": "Thank you. How did it happen?",
+       "es": "Gracias. ¿Cómo pasó?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "It might have been a phishing email. Never click on suspicious links.",
+         "es": "Pudo haber sido un correo de phishing. Nunca haga clic en enlaces sospechosos.",
+         "ok": true
+        },
+        {
+         "en": "It must have been the satellite.",
+         "es": "Debió de haber sido el satélite.",
+         "ok": false,
+         "why": "Explicación sin sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Para 2030 habremos encontrado una cura.",
+     "en": "By 2030 we will have found a cure.",
+     "accept": [
+      "By 2030, we will have found a cure.",
+      "By 2030 we'll have found a cure."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Mañana a esta hora estaré trabajando.",
+     "en": "This time tomorrow I will be working.",
+     "accept": [
+      "This time tomorrow, I'll be working.",
+      "This time tomorrow I'll be working."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Active la autenticación de dos factores.",
+     "en": "Enable two-factor authentication.",
+     "accept": [
+      "Turn on two-factor authentication."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "The researchers published their findings last week.",
+     "es": "Los investigadores publicaron sus hallazgos la semana pasada."
+    },
+    {
+     "type": "dictation",
+     "en": "Every new technology brings new vulnerabilities.",
+     "es": "Toda tecnología nueva trae nuevas vulnerabilidades."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u67.universe",
+      "u67.gravity",
+      "u67.robotics",
+      "u67.drone",
+      "u67.virtual-reality",
+      "u67.ethical",
+      "u67.in-ten-years-we-will-be-using",
+      "u67.by-2040-scientists-will-have-found"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

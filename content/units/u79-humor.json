@@ -1,0 +1,1468 @@
+{
+ "_generated": true,
+ "id": "u79-humor",
+ "level": "C1",
+ "title": "Humor, ironía y conversación",
+ "emoji": "😏",
+ "canDo": "Ya entiendo el humor, la ironía y las sutilezas de una conversación nativa",
+ "summary": "Humor, sarcasmo, ironía, understatement británico y cómo reaccionar con naturalidad.",
+ "grammar": [
+  "Question tags para ironía y conversación",
+  "Understatement"
+ ],
+ "items": [
+  {
+   "id": "u79.sense-of-humor",
+   "en": "sense of humor",
+   "es": "sentido del humor",
+   "kind": "chunk",
+   "emoji": "😄"
+  },
+  {
+   "id": "u79.sarcasm",
+   "en": "sarcasm",
+   "es": "sarcasmo",
+   "kind": "word",
+   "emoji": "🙄",
+   "say": "sár-kasm"
+  },
+  {
+   "id": "u79.irony",
+   "en": "irony",
+   "es": "ironía",
+   "kind": "word",
+   "emoji": "🎭",
+   "say": "ái-ro-ni"
+  },
+  {
+   "id": "u79.pun",
+   "en": "pun",
+   "es": "juego de palabras",
+   "kind": "word",
+   "emoji": "🔤",
+   "say": "pan"
+  },
+  {
+   "id": "u79.wordplay",
+   "en": "wordplay",
+   "es": "juego de palabras",
+   "kind": "word",
+   "emoji": "🎲"
+  },
+  {
+   "id": "u79.joke",
+   "en": "joke",
+   "es": "chiste / broma",
+   "kind": "word",
+   "emoji": "😂",
+   "say": "yóuk"
+  },
+  {
+   "id": "u79.tease",
+   "en": "tease",
+   "es": "molestar en broma",
+   "kind": "word",
+   "emoji": "😜",
+   "say": "tíis"
+  },
+  {
+   "id": "u79.mock",
+   "en": "mock",
+   "es": "burlarse",
+   "kind": "word",
+   "emoji": "🤭",
+   "say": "mok"
+  },
+  {
+   "id": "u79.banter",
+   "en": "banter",
+   "es": "vacile / pulla amistosa",
+   "kind": "word",
+   "emoji": "🗯️",
+   "say": "bán-ter"
+  },
+  {
+   "id": "u79.dry-humor",
+   "en": "dry humor",
+   "es": "humor seco",
+   "kind": "chunk",
+   "emoji": "🏜️"
+  },
+  {
+   "id": "u79.deadpan",
+   "en": "deadpan",
+   "es": "con cara seria (humor)",
+   "kind": "word",
+   "emoji": "😐",
+   "say": "déd-pan"
+  },
+  {
+   "id": "u79.tongue-in-cheek",
+   "en": "tongue-in-cheek",
+   "es": "en tono de broma",
+   "kind": "word",
+   "emoji": "😏"
+  },
+  {
+   "id": "u79.take-a-joke",
+   "en": "take a joke",
+   "es": "aguantar una broma",
+   "kind": "chunk",
+   "emoji": "😌"
+  },
+  {
+   "id": "u79.crack-a-joke",
+   "en": "crack a joke",
+   "es": "soltar un chiste",
+   "kind": "chunk",
+   "emoji": "😆"
+  },
+  {
+   "id": "u79.burst-out-laughing",
+   "en": "burst out laughing",
+   "es": "soltar la carcajada",
+   "kind": "chunk",
+   "emoji": "🤣"
+  },
+  {
+   "id": "u79.hilarious",
+   "en": "hilarious",
+   "es": "divertidísimo",
+   "kind": "word",
+   "emoji": "🤣",
+   "say": "ji-lé-ri-os"
+  },
+  {
+   "id": "u79.corny",
+   "en": "corny",
+   "es": "choto / malo (chiste)",
+   "kind": "word",
+   "emoji": "🌽",
+   "say": "kór-ni"
+  },
+  {
+   "id": "u79.awkward",
+   "en": "awkward",
+   "es": "incómodo",
+   "kind": "word",
+   "emoji": "😬",
+   "say": "ó-kuard"
+  },
+  {
+   "id": "u79.cringe",
+   "en": "cringe",
+   "es": "vergüenza ajena",
+   "kind": "word",
+   "emoji": "😖",
+   "say": "krinch"
+  },
+  {
+   "id": "u79.chuckle",
+   "en": "chuckle",
+   "es": "reírse por lo bajo",
+   "kind": "word",
+   "emoji": "🙂",
+   "say": "chá-kol"
+  },
+  {
+   "id": "u79.giggle",
+   "en": "giggle",
+   "es": "reír tontamente",
+   "kind": "word",
+   "emoji": "🤭",
+   "say": "guí-gol"
+  },
+  {
+   "id": "u79.grin",
+   "en": "grin",
+   "es": "sonreír de oreja a oreja",
+   "kind": "word",
+   "emoji": "😁",
+   "say": "grin"
+  },
+  {
+   "id": "u79.smirk",
+   "en": "smirk",
+   "es": "sonreír con suficiencia",
+   "kind": "word",
+   "emoji": "😏",
+   "say": "smerk"
+  },
+  {
+   "id": "u79.break-the-ice",
+   "en": "break the ice",
+   "es": "romper el hielo",
+   "kind": "chunk",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u79.light-hearted",
+   "en": "light-hearted",
+   "es": "desenfadado",
+   "kind": "word",
+   "emoji": "🎈"
+  },
+  {
+   "id": "u79.good-natured",
+   "en": "good-natured",
+   "es": "de buen carácter",
+   "kind": "word",
+   "emoji": "😊"
+  },
+  {
+   "id": "u79.cheeky",
+   "en": "cheeky",
+   "es": "descarado (simpático)",
+   "kind": "word",
+   "emoji": "😜",
+   "say": "chíi-ki"
+  },
+  {
+   "id": "u79.quick-witted",
+   "en": "quick-witted",
+   "es": "de respuesta rápida",
+   "kind": "word",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u79.lose-the-plot",
+   "en": "lose the plot",
+   "es": "perder el hilo",
+   "kind": "chunk",
+   "emoji": "🧶"
+  },
+  {
+   "id": "u79.get-the-joke",
+   "en": "get the joke",
+   "es": "entender el chiste",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u79.inside-joke",
+   "en": "inside joke",
+   "es": "chiste interno",
+   "kind": "chunk",
+   "emoji": "🤫"
+  },
+  {
+   "id": "u79.play-on-words",
+   "en": "play on words",
+   "es": "juego de palabras",
+   "kind": "chunk",
+   "emoji": "🎭"
+  },
+  {
+   "id": "u79.exaggerate",
+   "en": "exaggerate",
+   "es": "exagerar",
+   "kind": "word",
+   "emoji": "🎈",
+   "say": "eg-sá-ye-reit"
+  },
+  {
+   "id": "u79.that-s-an-understatement",
+   "en": "That's an understatement",
+   "es": "Y eso es quedarse corto",
+   "kind": "chunk",
+   "emoji": "😅"
+  },
+  {
+   "id": "u79.not-bad-actually",
+   "en": "Not bad, actually",
+   "es": "Nada mal, la verdad",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u79.i-could-have-been-better",
+   "en": "I could have been better",
+   "es": "He estado mejor",
+   "kind": "chunk",
+   "emoji": "😐"
+  },
+  {
+   "id": "u79.it-s-just-a-joke",
+   "en": "It's just a joke",
+   "es": "Es solo una broma",
+   "kind": "chunk",
+   "emoji": "😅"
+  },
+  {
+   "id": "u79.no-offense",
+   "en": "No offense",
+   "es": "Sin ofender",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u79.none-taken",
+   "en": "None taken",
+   "es": "No me ofende",
+   "kind": "chunk",
+   "emoji": "👌"
+  },
+  {
+   "id": "u79.you-re-pulling-my-leg",
+   "en": "You're pulling my leg",
+   "es": "Me estás tomando el pelo",
+   "kind": "chunk",
+   "emoji": "🦵"
+  },
+  {
+   "id": "u79.i-m-just-kidding",
+   "en": "I'm just kidding",
+   "es": "Solo estoy bromeando",
+   "kind": "chunk",
+   "emoji": "😜"
+  },
+  {
+   "id": "u79.lighten-up",
+   "en": "Lighten up!",
+   "es": "¡Relájate!",
+   "kind": "chunk",
+   "emoji": "😌"
+  },
+  {
+   "id": "u79.read-the-room",
+   "en": "read the room",
+   "es": "leer el ambiente",
+   "kind": "chunk",
+   "emoji": "👀"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u79-humor-l1",
+   "title": "1. sense of humor, sarcasm, irony…",
+   "focus": "listening",
+   "newItems": [
+    "u79.sense-of-humor",
+    "u79.sarcasm",
+    "u79.irony",
+    "u79.pun",
+    "u79.wordplay"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.sense-of-humor",
+      "u79.sarcasm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.irony",
+      "u79.pun"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.wordplay"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.sense-of-humor",
+      "u79.sarcasm",
+      "u79.irony",
+      "u79.pun",
+      "u79.wordplay"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.sense-of-humor",
+      "u79.sarcasm",
+      "u79.irony",
+      "u79.pun",
+      "u79.wordplay"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.sense-of-humor",
+      "u79.sarcasm",
+      "u79.irony",
+      "u79.pun",
+      "u79.wordplay"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l2",
+   "title": "2. joke, tease, mock…",
+   "focus": "grammar",
+   "newItems": [
+    "u79.joke",
+    "u79.tease",
+    "u79.mock",
+    "u79.banter",
+    "u79.dry-humor"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.joke",
+      "u79.tease"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.mock",
+      "u79.banter"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.dry-humor"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.joke",
+      "u79.tease",
+      "u79.mock",
+      "u79.banter",
+      "u79.dry-humor"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.joke",
+      "u79.tease",
+      "u79.mock",
+      "u79.banter",
+      "u79.dry-humor"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.joke",
+      "u79.tease",
+      "u79.mock",
+      "u79.banter",
+      "u79.dry-humor"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.sense-of-humor",
+      "u79.sarcasm",
+      "u79.irony",
+      "u79.pun",
+      "u79.wordplay"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Understatement e ironía",
+     "intro": "Los nativos (sobre todo británicos) suelen decir menos de lo que quieren decir, o lo contrario.",
+     "examples": [
+      {
+       "en": "The exam was extremely hard. → \"That was a bit tricky.\"",
+       "es": "El examen fue durísimo. → \"Estuvo un poco complicado.\"",
+       "mark": [
+        "a bit tricky"
+       ]
+      },
+      {
+       "en": "It's freezing. → \"It's a little chilly, isn't it?\"",
+       "es": "Hace un frío terrible. → \"Hace un poquito de fresco, ¿no?\"",
+       "mark": [
+        "a little chilly"
+       ]
+      },
+      {
+       "en": "After a disaster: \"Well, that could have gone better.\"",
+       "es": "Tras un desastre: \"Bueno, pudo haber salido mejor.\"",
+       "mark": [
+        "could have gone better"
+       ]
+      },
+      {
+       "en": "(Sarcasm) Raining on your day off: \"Oh, great. Just what I needed.\"",
+       "es": "(Sarcasmo) Que llueva en tu día libre: \"Ah, genial. Justo lo que necesitaba.\"",
+       "mark": [
+        "Just what I needed"
+       ]
+      },
+      {
+       "en": "You won the lottery? \"Not bad!\"",
+       "es": "¿Te ganaste la lotería? \"¡Nada mal!\"",
+       "mark": [
+        "Not bad"
+       ]
+      }
+     ],
+     "question": "El 'understatement' consiste en…",
+     "options": [
+      "Decir algo de forma más suave o pequeña de lo que realmente es",
+      "Gritar",
+      "Exagerar"
+     ],
+     "answer": 0,
+     "rule": "El UNDERSTATEMENT (atenuación) dice menos de lo que se siente, para sonar modesto o irónico: tras algo horrible, 'that wasn't ideal'. La IRONÍA/SARCASMO dice lo contrario de lo que se piensa, con cierto tono: '¡Genial!' cuando algo sale mal. Para entenderlos hay que 'leer el ambiente' (read the room) y el tono.",
+     "ruleExamples": [
+      {
+       "en": "A: \"You crashed the car on your first day?\" B: \"Yeah, not my finest moment.\"",
+       "es": "A: \"¿Chocaste el carro en tu primer día?\" B: \"Sí, no fue mi mejor momento.\""
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "After failing badly: \"Well, that wasn't ___.\"",
+     "options": [
+      "ideal",
+      "amazing"
+     ],
+     "answer": 0,
+     "es": "Tras fallar feo: \"Bueno, eso no fue lo ideal.\""
+    },
+    {
+     "type": "fill",
+     "en": "Someone tells a bad pun and you say it's ___.",
+     "options": [
+      "corny",
+      "brilliant"
+     ],
+     "answer": 0,
+     "es": "Alguien dice un chiste malo y dices que es choto."
+    },
+    {
+     "type": "fill",
+     "en": "\"You're ___ my leg!\" means you don't believe them.",
+     "options": [
+      "pulling",
+      "breaking"
+     ],
+     "answer": 0,
+     "es": "\"¡Me estás tomando el pelo!\""
+    },
+    {
+     "type": "fill",
+     "en": "When a joke makes everyone uncomfortable, it's ___.",
+     "options": [
+      "awkward",
+      "hilarious"
+     ],
+     "answer": 0,
+     "es": "Cuando un chiste incomoda a todos, es incómodo."
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l3",
+   "title": "3. deadpan, tongue-in-cheek, take a joke…",
+   "focus": "reading",
+   "newItems": [
+    "u79.deadpan",
+    "u79.tongue-in-cheek",
+    "u79.take-a-joke",
+    "u79.crack-a-joke",
+    "u79.burst-out-laughing"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.deadpan",
+      "u79.tongue-in-cheek"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.take-a-joke",
+      "u79.crack-a-joke"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.burst-out-laughing"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.deadpan",
+      "u79.tongue-in-cheek",
+      "u79.take-a-joke",
+      "u79.crack-a-joke",
+      "u79.burst-out-laughing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.deadpan",
+      "u79.tongue-in-cheek",
+      "u79.take-a-joke",
+      "u79.crack-a-joke",
+      "u79.burst-out-laughing"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.deadpan",
+      "u79.tongue-in-cheek",
+      "u79.take-a-joke",
+      "u79.crack-a-joke",
+      "u79.burst-out-laughing"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.wordplay",
+      "u79.joke",
+      "u79.tease",
+      "u79.mock",
+      "u79.banter",
+      "u79.dry-humor"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l4",
+   "title": "4. hilarious, corny, awkward…",
+   "focus": "listening",
+   "newItems": [
+    "u79.hilarious",
+    "u79.corny",
+    "u79.awkward",
+    "u79.cringe",
+    "u79.chuckle"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.hilarious",
+      "u79.corny"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.awkward",
+      "u79.cringe"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.chuckle"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.hilarious",
+      "u79.corny",
+      "u79.awkward",
+      "u79.cringe",
+      "u79.chuckle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.hilarious",
+      "u79.corny",
+      "u79.awkward",
+      "u79.cringe",
+      "u79.chuckle"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.hilarious",
+      "u79.corny",
+      "u79.awkward",
+      "u79.cringe",
+      "u79.chuckle"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.dry-humor",
+      "u79.deadpan",
+      "u79.tongue-in-cheek",
+      "u79.take-a-joke",
+      "u79.crack-a-joke",
+      "u79.burst-out-laughing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l5",
+   "title": "5. giggle, grin, smirk…",
+   "focus": "listening",
+   "newItems": [
+    "u79.giggle",
+    "u79.grin",
+    "u79.smirk",
+    "u79.break-the-ice",
+    "u79.light-hearted"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.giggle",
+      "u79.grin"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.smirk",
+      "u79.break-the-ice"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.light-hearted"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.giggle",
+      "u79.grin",
+      "u79.smirk",
+      "u79.break-the-ice",
+      "u79.light-hearted"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.giggle",
+      "u79.grin",
+      "u79.smirk",
+      "u79.break-the-ice",
+      "u79.light-hearted"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.giggle",
+      "u79.grin",
+      "u79.smirk",
+      "u79.break-the-ice",
+      "u79.light-hearted"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.burst-out-laughing",
+      "u79.hilarious",
+      "u79.corny",
+      "u79.awkward",
+      "u79.cringe",
+      "u79.chuckle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l6",
+   "title": "6. good-natured, cheeky, quick-witted…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u79.good-natured",
+    "u79.cheeky",
+    "u79.quick-witted",
+    "u79.lose-the-plot",
+    "u79.get-the-joke"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.good-natured",
+      "u79.cheeky"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.quick-witted",
+      "u79.lose-the-plot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.get-the-joke"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.good-natured",
+      "u79.cheeky",
+      "u79.quick-witted",
+      "u79.lose-the-plot",
+      "u79.get-the-joke"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.good-natured",
+      "u79.cheeky",
+      "u79.quick-witted",
+      "u79.lose-the-plot",
+      "u79.get-the-joke"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.good-natured",
+      "u79.cheeky",
+      "u79.quick-witted",
+      "u79.lose-the-plot",
+      "u79.get-the-joke"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.chuckle",
+      "u79.giggle",
+      "u79.grin",
+      "u79.smirk",
+      "u79.break-the-ice",
+      "u79.light-hearted"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l7",
+   "title": "7. inside joke, play on words, exaggerate…",
+   "focus": "reading",
+   "newItems": [
+    "u79.inside-joke",
+    "u79.play-on-words",
+    "u79.exaggerate",
+    "u79.that-s-an-understatement",
+    "u79.not-bad-actually"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.inside-joke",
+      "u79.play-on-words"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.exaggerate",
+      "u79.that-s-an-understatement"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.not-bad-actually"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.inside-joke",
+      "u79.play-on-words",
+      "u79.exaggerate",
+      "u79.that-s-an-understatement",
+      "u79.not-bad-actually"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.inside-joke",
+      "u79.play-on-words",
+      "u79.exaggerate",
+      "u79.that-s-an-understatement",
+      "u79.not-bad-actually"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.inside-joke",
+      "u79.play-on-words",
+      "u79.exaggerate",
+      "u79.that-s-an-understatement",
+      "u79.not-bad-actually"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.light-hearted",
+      "u79.good-natured",
+      "u79.cheeky",
+      "u79.quick-witted",
+      "u79.lose-the-plot",
+      "u79.get-the-joke"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Vacile entre amigos",
+     "scene": "😏 Banter típico entre amigos.",
+     "lines": [
+      {
+       "who": "Sam",
+       "en": "Nice haircut. Did you lose a bet?",
+       "es": "Qué bonito corte. ¿Perdiste una apuesta?"
+      },
+      {
+       "who": "Leo",
+       "en": "Ha ha. Very funny. At least I have hair, baldy.",
+       "es": "Ja ja. Muy gracioso. Al menos yo tengo pelo, calvo."
+      },
+      {
+       "who": "Sam",
+       "en": "Ouch! Fair enough. No offense meant.",
+       "es": "¡Auch! Me lo merezco. Sin ofender."
+      },
+      {
+       "who": "Leo",
+       "en": "None taken. You know I can take a joke.",
+       "es": "No me ofende. Sabes que aguanto una broma."
+      },
+      {
+       "who": "Sam",
+       "en": "Seriously though, how was the interview?",
+       "es": "Ya en serio, ¿cómo estuvo la entrevista?"
+      },
+      {
+       "who": "Leo",
+       "en": "Let's just say it could have gone better.",
+       "es": "Digamos que pudo haber salido mejor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l8",
+   "title": "8. I could have been better, It's just a joke, No offense…",
+   "focus": "listening",
+   "newItems": [
+    "u79.i-could-have-been-better",
+    "u79.it-s-just-a-joke",
+    "u79.no-offense",
+    "u79.none-taken",
+    "u79.you-re-pulling-my-leg"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.i-could-have-been-better",
+      "u79.it-s-just-a-joke"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.no-offense",
+      "u79.none-taken"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.you-re-pulling-my-leg"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.i-could-have-been-better",
+      "u79.it-s-just-a-joke",
+      "u79.no-offense",
+      "u79.none-taken",
+      "u79.you-re-pulling-my-leg"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.i-could-have-been-better",
+      "u79.it-s-just-a-joke",
+      "u79.no-offense",
+      "u79.none-taken",
+      "u79.you-re-pulling-my-leg"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.i-could-have-been-better",
+      "u79.it-s-just-a-joke",
+      "u79.no-offense",
+      "u79.none-taken",
+      "u79.you-re-pulling-my-leg"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.get-the-joke",
+      "u79.inside-joke",
+      "u79.play-on-words",
+      "u79.exaggerate",
+      "u79.that-s-an-understatement",
+      "u79.not-bad-actually"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-l9",
+   "title": "9. I'm just kidding, Lighten up!, read the room",
+   "focus": "listening",
+   "newItems": [
+    "u79.i-m-just-kidding",
+    "u79.lighten-up",
+    "u79.read-the-room"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u79.i-m-just-kidding",
+      "u79.lighten-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u79.read-the-room"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.i-m-just-kidding",
+      "u79.lighten-up",
+      "u79.read-the-room"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.i-m-just-kidding",
+      "u79.lighten-up",
+      "u79.read-the-room"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.i-m-just-kidding",
+      "u79.lighten-up",
+      "u79.read-the-room"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.not-bad-actually",
+      "u79.i-could-have-been-better",
+      "u79.it-s-just-a-joke",
+      "u79.no-offense",
+      "u79.none-taken",
+      "u79.you-re-pulling-my-leg"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u79-humor-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El malentendido del sarcasmo",
+     "emoji": "😅",
+     "paragraphs": [
+      {
+       "en": "When Mateo moved to London, he struggled with British humor more than with the grammar.",
+       "es": "Cuando Mateo se mudó a Londres, le costó más el humor británico que la gramática."
+      },
+      {
+       "en": "His coworkers used so much sarcasm and understatement that he often didn't get the joke.",
+       "es": "Sus colegas usaban tanto sarcasmo y atenuación que muchas veces no entendía el chiste."
+      },
+      {
+       "en": "One rainy Monday his boss said, \"Lovely weather we're having, isn't it?\" Mateo replied seriously, \"No, it's terrible.\"",
+       "es": "Un lunes lluvioso su jefe dijo: \"Qué clima tan encantador tenemos, ¿no?\" Mateo respondió en serio: \"No, está terrible.\""
+      },
+      {
+       "en": "Everyone burst out laughing, and Mateo felt awkward until a kind colleague explained the irony.",
+       "es": "Todos soltaron la carcajada, y Mateo se sintió incómodo hasta que una colega amable le explicó la ironía."
+      },
+      {
+       "en": "Little by little, he learned to read the room and even to banter back.",
+       "es": "Poco a poco, aprendió a leer el ambiente e incluso a devolver el vacile."
+      },
+      {
+       "en": "A year later, he was the one making tongue-in-cheek jokes that left his British friends laughing.",
+       "es": "Un año después, era él quien hacía chistes en tono de broma que dejaban riendo a sus amigos británicos."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué le costó más a Mateo que la gramática?",
+       "options": [
+        "El humor británico",
+        "La comida",
+        "El clima"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hizo cuando su jefe fue sarcástico sobre el clima?",
+       "options": [
+        "Respondió en serio y no entendió la ironía",
+        "Se rió",
+        "Se enojó"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué aprendió con el tiempo?",
+       "options": [
+        "A leer el ambiente y devolver el vacile",
+        "A quedarse callado",
+        "A evitar a sus colegas"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Entender una broma",
+     "scene": "😏 Un colega británico usa humor seco contigo.",
+     "turns": [
+      {
+       "who": "Colleague",
+       "en": "Another meeting that could have been an email. Thrilling, isn't it?",
+       "es": "Otra reunión que pudo haber sido un correo. Emocionante, ¿no?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Ha, absolutely riveting. I'm on the edge of my seat.",
+         "es": "Ja, absolutamente fascinante. Estoy al borde del asiento.",
+         "ok": true
+        },
+        {
+         "en": "No, meetings are boring. | No, las reuniones son aburridas.",
+         "es": "Te tomó el sarcasmo en serio y perdió la gracia.",
+         "ok": false
+        }
+       ]
+      },
+      {
+       "who": "Colleague",
+       "en": "Finally, someone who gets it.",
+       "es": "Por fin, alguien que lo capta."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "We should start a club for meeting survivors.",
+         "es": "Deberíamos armar un club de sobrevivientes de reuniones.",
+         "ok": true
+        },
+        {
+         "en": "I don't understand you. | No te entiendo.",
+         "es": "Corta la conversación en vez de seguir el vacile.",
+         "ok": false
+        }
+       ]
+      },
+      {
+       "who": "Colleague",
+       "en": "Ha! You've got a good sense of humor.",
+       "es": "¡Ja! Tienes buen sentido del humor."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I try. Someone has to keep things light-hearted.",
+         "es": "Hago lo que puedo. Alguien tiene que mantener el ambiente desenfadado.",
+         "ok": true
+        },
+        {
+         "en": "Thanks. I'm pulling your leg. | Gracias. Te estoy tomando el pelo.",
+         "es": "No tiene sentido como respuesta.",
+         "ok": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me estás tomando el pelo.",
+     "en": "You're pulling my leg.",
+     "accept": [
+      "You are pulling my leg."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es solo una broma, relájate.",
+     "en": "It's just a joke, lighten up.",
+     "accept": [
+      "It's just a joke. Lighten up."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Digamos que pudo haber salido mejor.",
+     "en": "Let's just say it could have gone better."
+    },
+    {
+     "type": "dictation",
+     "en": "Don't take it seriously, I'm just kidding.",
+     "es": "No lo tomes en serio, solo estoy bromeando."
+    },
+    {
+     "type": "dictation",
+     "en": "He has a very dry sense of humor.",
+     "es": "Él tiene un sentido del humor muy seco."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u79.i-could-have-been-better",
+      "u79.it-s-just-a-joke",
+      "u79.no-offense",
+      "u79.none-taken",
+      "u79.you-re-pulling-my-leg",
+      "u79.i-m-just-kidding",
+      "u79.lighten-up",
+      "u79.read-the-room"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

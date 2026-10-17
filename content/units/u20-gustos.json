@@ -1,0 +1,1196 @@
+{
+ "_generated": true,
+ "id": "u20-gustos",
+ "level": "A1",
+ "title": "Gustos y opiniones",
+ "emoji": "❤️",
+ "canDo": "Ya puedo decir lo que me gusta y lo que no",
+ "summary": "like, love y hate con -ing, y adjetivos para dar tu opinión.",
+ "grammar": [
+  "like / love / hate + -ing",
+  "Adjetivos de opinión"
+ ],
+ "items": [
+  {
+   "id": "u20.love",
+   "en": "love",
+   "es": "encantar / amar",
+   "kind": "word",
+   "emoji": "😍",
+   "say": "lav"
+  },
+  {
+   "id": "u20.hate",
+   "en": "hate",
+   "es": "odiar",
+   "kind": "word",
+   "emoji": "😤",
+   "say": "jéit"
+  },
+  {
+   "id": "u20.don-t-mind",
+   "en": "don't mind",
+   "es": "no me molesta",
+   "kind": "chunk",
+   "emoji": "😐",
+   "say": "dóunt máind"
+  },
+  {
+   "id": "u20.prefer",
+   "en": "prefer",
+   "es": "preferir",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "pri-fér"
+  },
+  {
+   "id": "u20.i-love-dancing",
+   "en": "I love dancing",
+   "es": "Me encanta bailar",
+   "kind": "chunk",
+   "emoji": "💃"
+  },
+  {
+   "id": "u20.i-hate-waking-up-early",
+   "en": "I hate waking up early",
+   "es": "Odio madrugar",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u20.i-don-t-like-cooking",
+   "en": "I don't like cooking",
+   "es": "No me gusta cocinar",
+   "kind": "chunk",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u20.do-you-like-reading",
+   "en": "Do you like reading?",
+   "es": "¿Te gusta leer?",
+   "kind": "chunk",
+   "emoji": "📖"
+  },
+  {
+   "id": "u20.favorite",
+   "en": "favorite",
+   "es": "favorito",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "féi-vo-rit"
+  },
+  {
+   "id": "u20.music",
+   "en": "music",
+   "es": "música",
+   "kind": "word",
+   "emoji": "🎶",
+   "say": "miú-sik"
+  },
+  {
+   "id": "u20.movie",
+   "en": "movie",
+   "es": "película",
+   "kind": "word",
+   "emoji": "🎬",
+   "say": "múu-vi"
+  },
+  {
+   "id": "u20.book",
+   "en": "book",
+   "es": "libro",
+   "kind": "word",
+   "emoji": "📕",
+   "say": "buk"
+  },
+  {
+   "id": "u20.video-games",
+   "en": "video games",
+   "es": "videojuegos",
+   "kind": "chunk",
+   "emoji": "🎮",
+   "say": "ví-di-o guéims"
+  },
+  {
+   "id": "u20.series",
+   "en": "series",
+   "es": "serie",
+   "kind": "word",
+   "emoji": "📺",
+   "say": "sí-ris"
+  },
+  {
+   "id": "u20.sport",
+   "en": "sport",
+   "es": "deporte",
+   "kind": "word",
+   "emoji": "🏅",
+   "say": "sport"
+  },
+  {
+   "id": "u20.good",
+   "en": "good",
+   "es": "bueno",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "gud"
+  },
+  {
+   "id": "u20.bad",
+   "en": "bad",
+   "es": "malo",
+   "kind": "word",
+   "emoji": "👎",
+   "say": "bad"
+  },
+  {
+   "id": "u20.great",
+   "en": "great",
+   "es": "genial / excelente",
+   "kind": "word",
+   "emoji": "🤩",
+   "say": "gréit"
+  },
+  {
+   "id": "u20.boring",
+   "en": "boring",
+   "es": "aburrido (que aburre)",
+   "kind": "word",
+   "emoji": "🥱",
+   "say": "bó-ring"
+  },
+  {
+   "id": "u20.interesting",
+   "en": "interesting",
+   "es": "interesante",
+   "kind": "word",
+   "emoji": "🧐",
+   "say": "ín-tres-ting"
+  },
+  {
+   "id": "u20.funny",
+   "en": "funny",
+   "es": "chistoso / gracioso",
+   "kind": "word",
+   "emoji": "😆",
+   "say": "fá-ni"
+  },
+  {
+   "id": "u20.scary",
+   "en": "scary",
+   "es": "de miedo",
+   "kind": "word",
+   "emoji": "👻",
+   "say": "ské-ri"
+  },
+  {
+   "id": "u20.beautiful",
+   "en": "beautiful",
+   "es": "hermoso",
+   "kind": "word",
+   "emoji": "🌺",
+   "say": "biú-ti-ful"
+  },
+  {
+   "id": "u20.ugly",
+   "en": "ugly",
+   "es": "feo",
+   "kind": "word",
+   "emoji": "👺",
+   "say": "á-gli"
+  },
+  {
+   "id": "u20.easy",
+   "en": "easy",
+   "es": "fácil",
+   "kind": "word",
+   "emoji": "🟢",
+   "say": "íi-si"
+  },
+  {
+   "id": "u20.difficult",
+   "en": "difficult",
+   "es": "difícil",
+   "kind": "word",
+   "emoji": "🔴",
+   "say": "dí-fi-kalt"
+  },
+  {
+   "id": "u20.amazing",
+   "en": "amazing",
+   "es": "increíble",
+   "kind": "word",
+   "emoji": "🤯",
+   "say": "a-méi-sing"
+  },
+  {
+   "id": "u20.i-think-it-s-great",
+   "en": "I think it's great",
+   "es": "Creo que es genial",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u20.me-too",
+   "en": "Me too",
+   "es": "Yo también",
+   "kind": "chunk",
+   "emoji": "🙋‍♂️",
+   "say": "mi túu"
+  },
+  {
+   "id": "u20.me-neither",
+   "en": "Me neither",
+   "es": "Yo tampoco",
+   "kind": "chunk",
+   "emoji": "🙅‍♀️",
+   "say": "mi ní-der"
+  },
+  {
+   "id": "u20.what-s-your-favorite-movie",
+   "en": "What's your favorite movie?",
+   "es": "¿Cuál es tu película favorita?",
+   "kind": "chunk",
+   "emoji": "🎞️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u20-gustos-l1",
+   "title": "1. love, hate, don't mind…",
+   "focus": "listening",
+   "newItems": [
+    "u20.love",
+    "u20.hate",
+    "u20.don-t-mind",
+    "u20.prefer"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.love",
+      "u20.hate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.don-t-mind",
+      "u20.prefer"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.love",
+      "u20.hate",
+      "u20.don-t-mind",
+      "u20.prefer"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.love",
+      "u20.hate",
+      "u20.don-t-mind",
+      "u20.prefer"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.don-t-mind"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-l2",
+   "title": "2. I love dancing, I hate waking up early, I don't like cooking…",
+   "focus": "grammar",
+   "newItems": [
+    "u20.i-love-dancing",
+    "u20.i-hate-waking-up-early",
+    "u20.i-don-t-like-cooking",
+    "u20.do-you-like-reading"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.i-love-dancing",
+      "u20.i-hate-waking-up-early"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.i-don-t-like-cooking",
+      "u20.do-you-like-reading"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.i-love-dancing",
+      "u20.i-hate-waking-up-early",
+      "u20.i-don-t-like-cooking",
+      "u20.do-you-like-reading"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.i-love-dancing",
+      "u20.i-hate-waking-up-early",
+      "u20.i-don-t-like-cooking",
+      "u20.do-you-like-reading"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.i-love-dancing",
+      "u20.i-hate-waking-up-early"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.love",
+      "u20.hate",
+      "u20.don-t-mind",
+      "u20.prefer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "like / love / hate + -ing",
+     "intro": "Mira la forma del verbo después de like, love y hate.",
+     "examples": [
+      {
+       "en": "I like reading.",
+       "es": "Me gusta leer.",
+       "mark": [
+        "reading"
+       ]
+      },
+      {
+       "en": "She loves dancing.",
+       "es": "A ella le encanta bailar.",
+       "mark": [
+        "dancing"
+       ]
+      },
+      {
+       "en": "They hate waking up early.",
+       "es": "Odian madrugar.",
+       "mark": [
+        "waking"
+       ]
+      },
+      {
+       "en": "Do you like cooking?",
+       "es": "¿Te gusta cocinar?",
+       "mark": [
+        "cooking"
+       ]
+      },
+      {
+       "en": "He doesn't like running.",
+       "es": "A él no le gusta correr.",
+       "mark": [
+        "running"
+       ]
+      }
+     ],
+     "question": "¿Qué forma tiene el verbo que va después de like?",
+     "options": [
+      "Termina en -ing",
+      "Lleva to siempre",
+      "Va en pasado"
+     ],
+     "answer": 0,
+     "rule": "Después de like, love, hate y don't mind el segundo verbo suele ir con -ing: I love dancing. Ojo con el orden: en español 'me gusta', pero en inglés la persona va primero: I like (yo gusto), She likes (ella gusta).",
+     "ruleExamples": [
+      {
+       "en": "I love music, but I hate dancing.",
+       "es": "Me encanta la música, pero odio bailar."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I love ___ to music.",
+     "options": [
+      "listening",
+      "listen"
+     ],
+     "answer": 0,
+     "es": "Me encanta escuchar música."
+    },
+    {
+     "type": "fill",
+     "en": "She ___ cooking.",
+     "options": [
+      "likes",
+      "like"
+     ],
+     "answer": 0,
+     "es": "A ella le gusta cocinar."
+    },
+    {
+     "type": "fill",
+     "en": "This movie is ___. I want to sleep.",
+     "options": [
+      "boring",
+      "bored"
+     ],
+     "answer": 0,
+     "es": "Esta película es aburrida."
+    },
+    {
+     "type": "fill",
+     "en": "\"I love pizza.\" \"Me ___!\"",
+     "options": [
+      "too",
+      "neither"
+     ],
+     "answer": 0,
+     "es": "\"Me encanta la pizza.\" \"¡A mí también!\""
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-l3",
+   "title": "3. favorite, music, movie…",
+   "focus": "reading",
+   "newItems": [
+    "u20.favorite",
+    "u20.music",
+    "u20.movie",
+    "u20.book"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.favorite",
+      "u20.music"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.movie",
+      "u20.book"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.favorite",
+      "u20.music",
+      "u20.movie",
+      "u20.book"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.favorite",
+      "u20.music",
+      "u20.movie",
+      "u20.book"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.favorite",
+      "u20.music"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.don-t-mind",
+      "u20.prefer",
+      "u20.i-love-dancing",
+      "u20.i-hate-waking-up-early",
+      "u20.i-don-t-like-cooking",
+      "u20.do-you-like-reading"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-l4",
+   "title": "4. video games, series, sport…",
+   "focus": "listening",
+   "newItems": [
+    "u20.video-games",
+    "u20.series",
+    "u20.sport",
+    "u20.good"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.video-games",
+      "u20.series"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.sport",
+      "u20.good"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.video-games",
+      "u20.series",
+      "u20.sport",
+      "u20.good"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.video-games",
+      "u20.series",
+      "u20.sport",
+      "u20.good"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.video-games"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.i-don-t-like-cooking",
+      "u20.do-you-like-reading",
+      "u20.favorite",
+      "u20.music",
+      "u20.movie",
+      "u20.book"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-l5",
+   "title": "5. bad, great, boring…",
+   "focus": "listening",
+   "newItems": [
+    "u20.bad",
+    "u20.great",
+    "u20.boring",
+    "u20.interesting"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.bad",
+      "u20.great"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.boring",
+      "u20.interesting"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.bad",
+      "u20.great",
+      "u20.boring",
+      "u20.interesting"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.bad",
+      "u20.great",
+      "u20.boring",
+      "u20.interesting"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.bad",
+      "u20.great"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.movie",
+      "u20.book",
+      "u20.video-games",
+      "u20.series",
+      "u20.sport",
+      "u20.good"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "😴",
+     "title": "boring o bored",
+     "text": "boring = algo que aburre (The movie is boring). bored = cómo te sientes (I'm bored). Lo mismo con interesting/interested y scary/scared."
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-l6",
+   "title": "6. funny, scary, beautiful…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u20.funny",
+    "u20.scary",
+    "u20.beautiful",
+    "u20.ugly"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.funny",
+      "u20.scary"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.beautiful",
+      "u20.ugly"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.funny",
+      "u20.scary",
+      "u20.beautiful",
+      "u20.ugly"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.funny",
+      "u20.scary",
+      "u20.beautiful",
+      "u20.ugly"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.funny",
+      "u20.scary"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.sport",
+      "u20.good",
+      "u20.bad",
+      "u20.great",
+      "u20.boring",
+      "u20.interesting"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-l7",
+   "title": "7. easy, difficult, amazing…",
+   "focus": "reading",
+   "newItems": [
+    "u20.easy",
+    "u20.difficult",
+    "u20.amazing",
+    "u20.i-think-it-s-great"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.easy",
+      "u20.difficult"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.amazing",
+      "u20.i-think-it-s-great"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.easy",
+      "u20.difficult",
+      "u20.amazing",
+      "u20.i-think-it-s-great"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.easy",
+      "u20.difficult",
+      "u20.amazing",
+      "u20.i-think-it-s-great"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.i-think-it-s-great"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.boring",
+      "u20.interesting",
+      "u20.funny",
+      "u20.scary",
+      "u20.beautiful",
+      "u20.ugly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Qué vemos?",
+     "scene": "🍿 Viernes en la noche, eligiendo qué ver.",
+     "lines": [
+      {
+       "who": "Ben",
+       "en": "Do you like scary movies?",
+       "es": "¿Te gustan las películas de miedo?"
+      },
+      {
+       "who": "Mia",
+       "en": "No, I hate them. I prefer funny movies.",
+       "es": "No, las odio. Prefiero las películas chistosas."
+      },
+      {
+       "who": "Ben",
+       "en": "Me too! What's your favorite movie?",
+       "es": "¡Yo también! ¿Cuál es tu película favorita?"
+      },
+      {
+       "who": "Mia",
+       "en": "Toy Story. It's amazing.",
+       "es": "Toy Story. Es increíble."
+      },
+      {
+       "who": "Ben",
+       "en": "I think it's great too. Let's watch it!",
+       "es": "A mí también me parece genial. ¡Veámosla!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-l8",
+   "title": "8. Me too, Me neither, What's your favorite movie?",
+   "focus": "listening",
+   "newItems": [
+    "u20.me-too",
+    "u20.me-neither",
+    "u20.what-s-your-favorite-movie"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u20.me-too",
+      "u20.me-neither"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u20.what-s-your-favorite-movie"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.me-too",
+      "u20.me-neither",
+      "u20.what-s-your-favorite-movie"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.me-too",
+      "u20.me-neither",
+      "u20.what-s-your-favorite-movie"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.me-too",
+      "u20.me-neither"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.beautiful",
+      "u20.ugly",
+      "u20.easy",
+      "u20.difficult",
+      "u20.amazing",
+      "u20.i-think-it-s-great"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u20-gustos-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Gustos muy distintos",
+     "emoji": "🎮",
+     "paragraphs": [
+      {
+       "en": "Leo and Sofía are best friends, but they like different things.",
+       "es": "Leo y Sofía son mejores amigos, pero les gustan cosas diferentes."
+      },
+      {
+       "en": "Leo loves video games. He thinks books are boring.",
+       "es": "A Leo le encantan los videojuegos. Cree que los libros son aburridos."
+      },
+      {
+       "en": "Sofía loves reading. Her favorite book is about a dragon.",
+       "es": "A Sofía le encanta leer. Su libro favorito es sobre un dragón."
+      },
+      {
+       "en": "Leo hates waking up early. Sofía doesn't mind it.",
+       "es": "Leo odia madrugar. A Sofía no le molesta."
+      },
+      {
+       "en": "But they both love music and dancing.",
+       "es": "Pero a los dos les encanta la música y bailar."
+      },
+      {
+       "en": "On Saturdays they go dancing together. It's their favorite day!",
+       "es": "Los sábados van a bailar juntos. ¡Es su día favorito!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué piensa Leo de los libros?",
+       "options": [
+        "Que son aburridos",
+        "Que son increíbles",
+        "Que son fáciles"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿A quién no le molesta madrugar?",
+       "options": [
+        "A Leo",
+        "A Sofía",
+        "A ninguno"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué les gusta a los dos?",
+       "options": [
+        "Leer",
+        "Los videojuegos",
+        "La música y bailar"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Conociendo gustos",
+     "scene": "☕ Charlas con una compañera nueva.",
+     "turns": [
+      {
+       "who": "Eva",
+       "en": "Do you like sports?",
+       "es": "¿Te gustan los deportes?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes! I love playing football.",
+         "es": "¡Sí! Me encanta jugar fútbol.",
+         "ok": true
+        },
+        {
+         "en": "Yes! I love play football yesterday.",
+         "es": "¡Sí! Me encanta jugar fútbol ayer.",
+         "ok": false,
+         "why": "Se dice \"playing\" y sin \"yesterday\"."
+        }
+       ]
+      },
+      {
+       "who": "Eva",
+       "en": "Me too! Do you like running?",
+       "es": "¡A mí también! ¿Te gusta correr?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Not really. I think it's boring.",
+         "es": "No mucho. Me parece aburrido.",
+         "ok": true
+        },
+        {
+         "en": "Not really. I'm boring.",
+         "es": "No mucho. Soy aburrido.",
+         "ok": false,
+         "why": "\"I'm boring\" significa que tú aburres a los demás."
+        }
+       ]
+      },
+      {
+       "who": "Eva",
+       "en": "Ha ha. What's your favorite series?",
+       "es": "Ja ja. ¿Cuál es tu serie favorita?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I love Stranger Things. It's scary but amazing.",
+         "es": "Me encanta Stranger Things. Da miedo pero es increíble.",
+         "ok": true
+        },
+        {
+         "en": "Me neither.",
+         "es": "Yo tampoco.",
+         "ok": false,
+         "why": "No responde la pregunta."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me encanta bailar.",
+     "en": "I love dancing."
+    },
+    {
+     "type": "write",
+     "es": "No me gusta cocinar.",
+     "en": "I don't like cooking.",
+     "accept": [
+      "I do not like cooking."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Cuál es tu película favorita?",
+     "en": "What's your favorite movie?",
+     "accept": [
+      "What is your favorite movie?"
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I think it's interesting.",
+     "es": "Creo que es interesante."
+    },
+    {
+     "type": "dictation",
+     "en": "She hates waking up early.",
+     "es": "Ella odia madrugar."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u20.ugly",
+      "u20.easy",
+      "u20.difficult",
+      "u20.amazing",
+      "u20.i-think-it-s-great",
+      "u20.me-too",
+      "u20.me-neither",
+      "u20.what-s-your-favorite-movie"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

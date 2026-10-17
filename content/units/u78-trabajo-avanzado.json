@@ -1,0 +1,1496 @@
+{
+ "_generated": true,
+ "id": "u78-trabajo-avanzado",
+ "level": "C1",
+ "title": "Liderazgo y carrera profesional",
+ "emoji": "🧭",
+ "canDo": "Ya puedo desenvolverme en entornos profesionales exigentes y hablar de liderazgo",
+ "summary": "Liderazgo, gestión de equipos y desarrollo profesional, con collocations del mundo laboral avanzado.",
+ "grammar": [
+  "Collocations profesionales",
+  "Verbos delexicales: make, take, give"
+ ],
+ "items": [
+  {
+   "id": "u78.leadership",
+   "en": "leadership",
+   "es": "liderazgo",
+   "kind": "word",
+   "emoji": "🧭",
+   "say": "líi-der-ship"
+  },
+  {
+   "id": "u78.mentor",
+   "en": "mentor",
+   "es": "mentor",
+   "kind": "word",
+   "emoji": "🧑‍🏫",
+   "say": "mén-tor"
+  },
+  {
+   "id": "u78.delegate-effectively",
+   "en": "delegate effectively",
+   "es": "delegar con eficacia",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u78.empower",
+   "en": "empower",
+   "es": "empoderar",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "em-páu-er"
+  },
+  {
+   "id": "u78.inspire",
+   "en": "inspire",
+   "es": "inspirar",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "in-spáier"
+  },
+  {
+   "id": "u78.motivate",
+   "en": "motivate",
+   "es": "motivar",
+   "kind": "word",
+   "emoji": "🔥",
+   "say": "móu-ti-veit"
+  },
+  {
+   "id": "u78.foster",
+   "en": "foster",
+   "es": "fomentar",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "fós-ter"
+  },
+  {
+   "id": "u78.set-an-example",
+   "en": "set an example",
+   "es": "dar ejemplo",
+   "kind": "chunk",
+   "emoji": "🏅"
+  },
+  {
+   "id": "u78.lead-by-example",
+   "en": "lead by example",
+   "es": "liderar con el ejemplo",
+   "kind": "chunk",
+   "emoji": "🧭"
+  },
+  {
+   "id": "u78.take-ownership",
+   "en": "take ownership",
+   "es": "asumir la responsabilidad",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u78.take-the-initiative",
+   "en": "take the initiative",
+   "es": "tomar la iniciativa",
+   "kind": "chunk",
+   "emoji": "🚀"
+  },
+  {
+   "id": "u78.take-credit",
+   "en": "take credit",
+   "es": "atribuirse el mérito",
+   "kind": "chunk",
+   "emoji": "🏆"
+  },
+  {
+   "id": "u78.take-the-blame",
+   "en": "take the blame",
+   "es": "asumir la culpa",
+   "kind": "chunk",
+   "emoji": "👉"
+  },
+  {
+   "id": "u78.make-a-decision",
+   "en": "make a decision",
+   "es": "tomar una decisión",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u78.make-an-effort",
+   "en": "make an effort",
+   "es": "hacer un esfuerzo",
+   "kind": "chunk",
+   "emoji": "💪"
+  },
+  {
+   "id": "u78.give-feedback",
+   "en": "give feedback",
+   "es": "dar retroalimentación",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u78.constructive-criticism",
+   "en": "constructive criticism",
+   "es": "crítica constructiva",
+   "kind": "chunk",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u78.accountability",
+   "en": "accountability",
+   "es": "rendición de cuentas",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "a-kaun-ta-bí-li-ti"
+  },
+  {
+   "id": "u78.integrity",
+   "en": "integrity",
+   "es": "integridad",
+   "kind": "word",
+   "emoji": "🛡️",
+   "say": "in-té-gri-ti"
+  },
+  {
+   "id": "u78.adaptability",
+   "en": "adaptability",
+   "es": "adaptabilidad",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "a-dap-ta-bí-li-ti"
+  },
+  {
+   "id": "u78.work-ethic",
+   "en": "work ethic",
+   "es": "ética de trabajo",
+   "kind": "chunk",
+   "emoji": "🐝"
+  },
+  {
+   "id": "u78.soft-skills",
+   "en": "soft skills",
+   "es": "habilidades blandas",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u78.hard-skills",
+   "en": "hard skills",
+   "es": "habilidades técnicas",
+   "kind": "chunk",
+   "emoji": "🔧"
+  },
+  {
+   "id": "u78.emotional-intelligence",
+   "en": "emotional intelligence",
+   "es": "inteligencia emocional",
+   "kind": "chunk",
+   "emoji": "💗"
+  },
+  {
+   "id": "u78.conflict-resolution",
+   "en": "conflict resolution",
+   "es": "resolución de conflictos",
+   "kind": "chunk",
+   "emoji": "🕊️"
+  },
+  {
+   "id": "u78.decision-making",
+   "en": "decision-making",
+   "es": "toma de decisiones",
+   "kind": "word",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u78.problem-solving",
+   "en": "problem-solving",
+   "es": "resolución de problemas",
+   "kind": "word",
+   "emoji": "🧩"
+  },
+  {
+   "id": "u78.time-management",
+   "en": "time management",
+   "es": "gestión del tiempo",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u78.prioritize",
+   "en": "prioritize",
+   "es": "priorizar",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "prai-ó-ri-tais"
+  },
+  {
+   "id": "u78.multitask",
+   "en": "multitask",
+   "es": "hacer varias cosas a la vez",
+   "kind": "word",
+   "emoji": "🤹",
+   "say": "mál-ti-task"
+  },
+  {
+   "id": "u78.meet-a-deadline",
+   "en": "meet a deadline",
+   "es": "cumplir un plazo",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u78.under-pressure",
+   "en": "under pressure",
+   "es": "bajo presión",
+   "kind": "chunk",
+   "emoji": "😰"
+  },
+  {
+   "id": "u78.burnout",
+   "en": "burnout",
+   "es": "agotamiento",
+   "kind": "word",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u78.work-life-balance",
+   "en": "work-life balance",
+   "es": "equilibrio vida-trabajo",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u78.career-path",
+   "en": "career path",
+   "es": "trayectoria profesional",
+   "kind": "chunk",
+   "emoji": "🧗"
+  },
+  {
+   "id": "u78.networking",
+   "en": "networking",
+   "es": "hacer contactos",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "nét-uer-king"
+  },
+  {
+   "id": "u78.mentorship",
+   "en": "mentorship",
+   "es": "mentoría",
+   "kind": "word",
+   "emoji": "🧑‍🏫"
+  },
+  {
+   "id": "u78.onboarding",
+   "en": "onboarding",
+   "es": "inducción",
+   "kind": "word",
+   "emoji": "📋"
+  },
+  {
+   "id": "u78.retention",
+   "en": "retention",
+   "es": "retención (de personal)",
+   "kind": "word",
+   "emoji": "🔒",
+   "say": "ri-tén-shon"
+  },
+  {
+   "id": "u78.turnover",
+   "en": "turnover",
+   "es": "rotación de personal",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "tér-nou-ver"
+  },
+  {
+   "id": "u78.micromanage",
+   "en": "micromanage",
+   "es": "microgestionar",
+   "kind": "word",
+   "emoji": "🔬",
+   "say": "mái-kro-ma-nich"
+  },
+  {
+   "id": "u78.step-up",
+   "en": "step up",
+   "es": "dar un paso al frente",
+   "kind": "chunk",
+   "emoji": "⬆️"
+  },
+  {
+   "id": "u78.step-down",
+   "en": "step down",
+   "es": "renunciar a un cargo",
+   "kind": "chunk",
+   "emoji": "⬇️"
+  },
+  {
+   "id": "u78.climb-the-ladder",
+   "en": "climb the ladder",
+   "es": "escalar posiciones",
+   "kind": "chunk",
+   "emoji": "🪜"
+  },
+  {
+   "id": "u78.glass-ceiling",
+   "en": "glass ceiling",
+   "es": "techo de cristal",
+   "kind": "chunk",
+   "emoji": "🧊"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u78-trabajo-avanzado-l1",
+   "title": "1. leadership, mentor, delegate effectively…",
+   "focus": "listening",
+   "newItems": [
+    "u78.leadership",
+    "u78.mentor",
+    "u78.delegate-effectively",
+    "u78.empower",
+    "u78.inspire"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.leadership",
+      "u78.mentor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.delegate-effectively",
+      "u78.empower"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.inspire"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.leadership",
+      "u78.mentor",
+      "u78.delegate-effectively",
+      "u78.empower",
+      "u78.inspire"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.leadership",
+      "u78.mentor",
+      "u78.delegate-effectively",
+      "u78.empower",
+      "u78.inspire"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.leadership",
+      "u78.mentor",
+      "u78.delegate-effectively",
+      "u78.empower",
+      "u78.inspire"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l2",
+   "title": "2. motivate, foster, set an example…",
+   "focus": "grammar",
+   "newItems": [
+    "u78.motivate",
+    "u78.foster",
+    "u78.set-an-example",
+    "u78.lead-by-example",
+    "u78.take-ownership"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.motivate",
+      "u78.foster"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.set-an-example",
+      "u78.lead-by-example"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.take-ownership"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.motivate",
+      "u78.foster",
+      "u78.set-an-example",
+      "u78.lead-by-example",
+      "u78.take-ownership"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.motivate",
+      "u78.foster",
+      "u78.set-an-example",
+      "u78.lead-by-example",
+      "u78.take-ownership"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.motivate",
+      "u78.foster",
+      "u78.set-an-example",
+      "u78.lead-by-example",
+      "u78.take-ownership"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.leadership",
+      "u78.mentor",
+      "u78.delegate-effectively",
+      "u78.empower",
+      "u78.inspire"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Verbos delexicales: make, take, give",
+     "intro": "Estos verbos se combinan con sustantivos específicos. Hay que aprender la combinación.",
+     "examples": [
+      {
+       "en": "make a decision",
+       "es": "tomar una decisión",
+       "mark": [
+        "make"
+       ]
+      },
+      {
+       "en": "take responsibility",
+       "es": "asumir la responsabilidad",
+       "mark": [
+        "take"
+       ]
+      },
+      {
+       "en": "give feedback",
+       "es": "dar retroalimentación",
+       "mark": [
+        "give"
+       ]
+      },
+      {
+       "en": "make an effort",
+       "es": "hacer un esfuerzo",
+       "mark": [
+        "make"
+       ]
+      },
+      {
+       "en": "take the initiative",
+       "es": "tomar la iniciativa",
+       "mark": [
+        "take"
+       ]
+      }
+     ],
+     "question": "¿Se dice 'make a decision' o 'take a decision' en inglés estándar?",
+     "options": [
+      "make a decision",
+      "do a decision"
+     ],
+     "answer": 0,
+     "rule": "Los verbos make, take, give, do forman COLLOCATIONS fijas: make a decision / an effort / progress / a mistake; take responsibility / the initiative / a risk / credit; give feedback / a presentation / advice; do business / research / your best. No se traducen literalmente del español (se dice make a decision, no 'take a decision' en inglés estándar).",
+     "ruleExamples": [
+      {
+       "en": "A good leader takes responsibility for mistakes and gives credit to the team.",
+       "es": "Un buen líder asume la responsabilidad por los errores y le da el crédito al equipo."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "We need to ___ a decision today.",
+     "options": [
+      "make",
+      "take"
+     ],
+     "answer": 0,
+     "es": "Tenemos que tomar una decisión hoy."
+    },
+    {
+     "type": "fill",
+     "en": "She ___ the initiative to solve the problem.",
+     "options": [
+      "took",
+      "made"
+     ],
+     "answer": 0,
+     "es": "Ella tomó la iniciativa para resolver el problema."
+    },
+    {
+     "type": "fill",
+     "en": "My manager ___ me useful feedback.",
+     "options": [
+      "gave",
+      "did"
+     ],
+     "answer": 0,
+     "es": "Mi jefe me dio una retroalimentación útil."
+    },
+    {
+     "type": "fill",
+     "en": "Let's ___ an effort to meet the deadline.",
+     "options": [
+      "make",
+      "take"
+     ],
+     "answer": 0,
+     "es": "Hagamos un esfuerzo por cumplir el plazo."
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l3",
+   "title": "3. take the initiative, take credit, take the blame…",
+   "focus": "reading",
+   "newItems": [
+    "u78.take-the-initiative",
+    "u78.take-credit",
+    "u78.take-the-blame",
+    "u78.make-a-decision",
+    "u78.make-an-effort"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.take-the-initiative",
+      "u78.take-credit"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.take-the-blame",
+      "u78.make-a-decision"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.make-an-effort"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.take-the-initiative",
+      "u78.take-credit",
+      "u78.take-the-blame",
+      "u78.make-a-decision",
+      "u78.make-an-effort"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.take-the-initiative",
+      "u78.take-credit",
+      "u78.take-the-blame",
+      "u78.make-a-decision",
+      "u78.make-an-effort"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.take-the-initiative",
+      "u78.take-credit",
+      "u78.take-the-blame",
+      "u78.make-a-decision",
+      "u78.make-an-effort"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.inspire",
+      "u78.motivate",
+      "u78.foster",
+      "u78.set-an-example",
+      "u78.lead-by-example",
+      "u78.take-ownership"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l4",
+   "title": "4. give feedback, constructive criticism, accountability…",
+   "focus": "listening",
+   "newItems": [
+    "u78.give-feedback",
+    "u78.constructive-criticism",
+    "u78.accountability",
+    "u78.integrity",
+    "u78.adaptability"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.give-feedback",
+      "u78.constructive-criticism"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.accountability",
+      "u78.integrity"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.adaptability"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.give-feedback",
+      "u78.constructive-criticism",
+      "u78.accountability",
+      "u78.integrity",
+      "u78.adaptability"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.give-feedback",
+      "u78.constructive-criticism",
+      "u78.accountability",
+      "u78.integrity",
+      "u78.adaptability"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.give-feedback",
+      "u78.constructive-criticism",
+      "u78.accountability",
+      "u78.integrity",
+      "u78.adaptability"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.take-ownership",
+      "u78.take-the-initiative",
+      "u78.take-credit",
+      "u78.take-the-blame",
+      "u78.make-a-decision",
+      "u78.make-an-effort"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l5",
+   "title": "5. work ethic, soft skills, hard skills…",
+   "focus": "listening",
+   "newItems": [
+    "u78.work-ethic",
+    "u78.soft-skills",
+    "u78.hard-skills",
+    "u78.emotional-intelligence",
+    "u78.conflict-resolution"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.work-ethic",
+      "u78.soft-skills"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.hard-skills",
+      "u78.emotional-intelligence"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.conflict-resolution"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.work-ethic",
+      "u78.soft-skills",
+      "u78.hard-skills",
+      "u78.emotional-intelligence",
+      "u78.conflict-resolution"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.work-ethic",
+      "u78.soft-skills",
+      "u78.hard-skills",
+      "u78.emotional-intelligence",
+      "u78.conflict-resolution"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.work-ethic",
+      "u78.soft-skills",
+      "u78.hard-skills",
+      "u78.emotional-intelligence",
+      "u78.conflict-resolution"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.make-an-effort",
+      "u78.give-feedback",
+      "u78.constructive-criticism",
+      "u78.accountability",
+      "u78.integrity",
+      "u78.adaptability"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l6",
+   "title": "6. decision-making, problem-solving, time management…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u78.decision-making",
+    "u78.problem-solving",
+    "u78.time-management",
+    "u78.prioritize",
+    "u78.multitask"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.decision-making",
+      "u78.problem-solving"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.time-management",
+      "u78.prioritize"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.multitask"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.decision-making",
+      "u78.problem-solving",
+      "u78.time-management",
+      "u78.prioritize",
+      "u78.multitask"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.decision-making",
+      "u78.problem-solving",
+      "u78.time-management",
+      "u78.prioritize",
+      "u78.multitask"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.decision-making",
+      "u78.problem-solving",
+      "u78.time-management",
+      "u78.prioritize",
+      "u78.multitask"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.adaptability",
+      "u78.work-ethic",
+      "u78.soft-skills",
+      "u78.hard-skills",
+      "u78.emotional-intelligence",
+      "u78.conflict-resolution"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l7",
+   "title": "7. meet a deadline, under pressure, burnout…",
+   "focus": "reading",
+   "newItems": [
+    "u78.meet-a-deadline",
+    "u78.under-pressure",
+    "u78.burnout",
+    "u78.work-life-balance",
+    "u78.career-path"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.meet-a-deadline",
+      "u78.under-pressure"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.burnout",
+      "u78.work-life-balance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.career-path"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.meet-a-deadline",
+      "u78.under-pressure",
+      "u78.burnout",
+      "u78.work-life-balance",
+      "u78.career-path"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.meet-a-deadline",
+      "u78.under-pressure",
+      "u78.burnout",
+      "u78.work-life-balance",
+      "u78.career-path"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.meet-a-deadline",
+      "u78.under-pressure",
+      "u78.burnout",
+      "u78.work-life-balance",
+      "u78.career-path"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.conflict-resolution",
+      "u78.decision-making",
+      "u78.problem-solving",
+      "u78.time-management",
+      "u78.prioritize",
+      "u78.multitask"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Retroalimentación de liderazgo",
+     "scene": "🧭 Un líder recibe comentarios de su equipo.",
+     "lines": [
+      {
+       "who": "Team member",
+       "en": "Can I give you some honest feedback?",
+       "es": "¿Te puedo dar una retroalimentación honesta?"
+      },
+      {
+       "who": "Leader",
+       "en": "Please do. I value accountability.",
+       "es": "Por favor. Valoro la rendición de cuentas."
+      },
+      {
+       "who": "Team member",
+       "en": "Sometimes you micromanage. We'd feel more empowered with autonomy.",
+       "es": "A veces microgestionas. Nos sentiríamos más empoderados con autonomía."
+      },
+      {
+       "who": "Leader",
+       "en": "That's fair. I'll make an effort to delegate more effectively.",
+       "es": "Es justo. Haré un esfuerzo por delegar con más eficacia."
+      },
+      {
+       "who": "Team member",
+       "en": "Thank you for taking it so well.",
+       "es": "Gracias por tomarlo tan bien."
+      },
+      {
+       "who": "Leader",
+       "en": "Good leaders lead by example, and that means listening.",
+       "es": "Los buenos líderes lideran con el ejemplo, y eso significa escuchar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l8",
+   "title": "8. networking, mentorship, onboarding…",
+   "focus": "listening",
+   "newItems": [
+    "u78.networking",
+    "u78.mentorship",
+    "u78.onboarding",
+    "u78.retention",
+    "u78.turnover"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.networking",
+      "u78.mentorship"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.onboarding",
+      "u78.retention"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.turnover"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.networking",
+      "u78.mentorship",
+      "u78.onboarding",
+      "u78.retention",
+      "u78.turnover"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.networking",
+      "u78.mentorship",
+      "u78.onboarding",
+      "u78.retention",
+      "u78.turnover"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.networking",
+      "u78.mentorship",
+      "u78.onboarding",
+      "u78.retention",
+      "u78.turnover"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.multitask",
+      "u78.meet-a-deadline",
+      "u78.under-pressure",
+      "u78.burnout",
+      "u78.work-life-balance",
+      "u78.career-path"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-l9",
+   "title": "9. micromanage, step up, step down…",
+   "focus": "listening",
+   "newItems": [
+    "u78.micromanage",
+    "u78.step-up",
+    "u78.step-down",
+    "u78.climb-the-ladder",
+    "u78.glass-ceiling"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u78.micromanage",
+      "u78.step-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.step-down",
+      "u78.climb-the-ladder"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u78.glass-ceiling"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.micromanage",
+      "u78.step-up",
+      "u78.step-down",
+      "u78.climb-the-ladder",
+      "u78.glass-ceiling"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.micromanage",
+      "u78.step-up",
+      "u78.step-down",
+      "u78.climb-the-ladder",
+      "u78.glass-ceiling"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.micromanage",
+      "u78.step-up",
+      "u78.step-down",
+      "u78.climb-the-ladder",
+      "u78.glass-ceiling"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.career-path",
+      "u78.networking",
+      "u78.mentorship",
+      "u78.onboarding",
+      "u78.retention",
+      "u78.turnover"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u78-trabajo-avanzado-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "De empleada a líder",
+     "emoji": "🧗",
+     "paragraphs": [
+      {
+       "en": "When Natalia started at the company, she was just an intern making coffee and taking notes.",
+       "es": "Cuando Natalia empezó en la empresa, era solo una practicante que hacía café y tomaba notas."
+      },
+      {
+       "en": "But she had a strong work ethic and always took the initiative.",
+       "es": "Pero tenía una fuerte ética de trabajo y siempre tomaba la iniciativa."
+      },
+      {
+       "en": "When a project was failing, she stepped up, took ownership and found a solution.",
+       "es": "Cuando un proyecto estaba fracasando, dio un paso al frente, asumió la responsabilidad y encontró una solución."
+      },
+      {
+       "en": "Her manager noticed her emotional intelligence and her ability to resolve conflicts.",
+       "es": "Su jefe notó su inteligencia emocional y su capacidad para resolver conflictos."
+      },
+      {
+       "en": "Over the years she climbed the ladder, breaking through the glass ceiling that had stopped others.",
+       "es": "Con los años escaló posiciones, rompiendo el techo de cristal que había frenado a otras."
+      },
+      {
+       "en": "Now she mentors young professionals. \"Leadership isn't about taking credit,\" she says, \"it's about empowering others.\"",
+       "es": "Ahora es mentora de jóvenes profesionales. \"El liderazgo no se trata de atribuirse el mérito\", dice, \"sino de empoderar a los demás.\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo empezó Natalia?",
+       "options": [
+        "Como practicante",
+        "Como gerente",
+        "Como dueña"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hizo cuando un proyecto fracasaba?",
+       "options": [
+        "Dio un paso al frente y asumió la responsabilidad",
+        "Renunció",
+        "Culpó a otros"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "Según ella, ¿de qué se trata el liderazgo?",
+       "options": [
+        "De empoderar a los demás",
+        "De atribuirse el mérito",
+        "De microgestionar"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Pedir un ascenso",
+     "scene": "💼 Hablas con tu jefa sobre tu carrera.",
+     "turns": [
+      {
+       "who": "Boss",
+       "en": "You wanted to discuss your career path?",
+       "es": "¿Querías hablar de tu trayectoria profesional?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes. I've taken on more responsibility this year and I'd like to discuss a promotion.",
+         "es": "Sí. He asumido más responsabilidad este año y me gustaría hablar de un ascenso.",
+         "ok": true
+        },
+        {
+         "en": "Yes. Give me a promotion or I quit.",
+         "es": "Sí. Deme un ascenso o renuncio.",
+         "ok": false,
+         "why": "Un ultimátum suele ser contraproducente."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "You have made real progress. What makes you ready?",
+       "es": "Has avanzado de verdad. ¿Qué te hace estar listo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I've taken the initiative on two projects and mentored new team members.",
+         "es": "He tomado la iniciativa en dos proyectos y he sido mentor de los nuevos del equipo.",
+         "ok": true
+        },
+        {
+         "en": "I do decisions very well.",
+         "es": "Yo hago decisiones muy bien.",
+         "ok": false,
+         "why": "Se dice \"make decisions\"."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Impressive. Leadership also means handling pressure.",
+       "es": "Impresionante. El liderazgo también significa manejar la presión."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Absolutely. I've learned to prioritize and keep calm under pressure.",
+         "es": "Claro. He aprendido a priorizar y a mantener la calma bajo presión.",
+         "ok": true
+        },
+        {
+         "en": "Absolutely. I take all the credit for everything.",
+         "es": "Claro. Me atribuyo el mérito de todo.",
+         "ok": false,
+         "why": "Un buen líder comparte el crédito."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Tenemos que tomar una decisión.",
+     "en": "We have to make a decision.",
+     "accept": [
+      "We need to make a decision."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Un buen líder lidera con el ejemplo.",
+     "en": "A good leader leads by example."
+    },
+    {
+     "type": "write",
+     "es": "Me gustaría hablar de un ascenso.",
+     "en": "I'd like to discuss a promotion.",
+     "accept": [
+      "I would like to discuss a promotion."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "A good leader takes responsibility and gives credit to the team.",
+     "es": "Un buen líder asume la responsabilidad y le da el crédito al equipo."
+    },
+    {
+     "type": "dictation",
+     "en": "I've learned to prioritize and keep calm under pressure.",
+     "es": "He aprendido a priorizar y a mantener la calma bajo presión."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u78.onboarding",
+      "u78.retention",
+      "u78.turnover",
+      "u78.micromanage",
+      "u78.step-up",
+      "u78.step-down",
+      "u78.climb-the-ladder",
+      "u78.glass-ceiling"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

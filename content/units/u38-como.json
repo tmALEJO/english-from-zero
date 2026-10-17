@@ -1,0 +1,1248 @@
+{
+ "_generated": true,
+ "id": "u38-como",
+ "level": "A2",
+ "title": "Cómo hacemos las cosas",
+ "emoji": "🏃‍♂️",
+ "canDo": "Ya puedo describir cómo y con qué frecuencia hago las cosas",
+ "summary": "Adverbios de modo (-ly) y expresiones de frecuencia para describir acciones.",
+ "grammar": [
+  "Adverbios de modo: quickly, carefully",
+  "How often…?"
+ ],
+ "items": [
+  {
+   "id": "u38.quickly",
+   "en": "quickly",
+   "es": "rápidamente",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "kuík-li"
+  },
+  {
+   "id": "u38.slowly",
+   "en": "slowly",
+   "es": "lentamente",
+   "kind": "word",
+   "emoji": "🐢",
+   "say": "slóu-li"
+  },
+  {
+   "id": "u38.carefully",
+   "en": "carefully",
+   "es": "con cuidado",
+   "kind": "word",
+   "emoji": "🧐",
+   "say": "kér-fu-li"
+  },
+  {
+   "id": "u38.easily",
+   "en": "easily",
+   "es": "fácilmente",
+   "kind": "word",
+   "emoji": "👌",
+   "say": "íi-si-li"
+  },
+  {
+   "id": "u38.quietly",
+   "en": "quietly",
+   "es": "en voz baja / en silencio",
+   "kind": "word",
+   "emoji": "🤫",
+   "say": "kuái-et-li"
+  },
+  {
+   "id": "u38.loudly",
+   "en": "loudly",
+   "es": "en voz alta / duro",
+   "kind": "word",
+   "emoji": "📢",
+   "say": "láud-li"
+  },
+  {
+   "id": "u38.badly",
+   "en": "badly",
+   "es": "mal",
+   "kind": "word",
+   "emoji": "👎",
+   "say": "bád-li"
+  },
+  {
+   "id": "u38.well",
+   "en": "well",
+   "es": "bien",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "uel"
+  },
+  {
+   "id": "u38.hard",
+   "en": "hard",
+   "es": "duro / con esfuerzo",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "jard"
+  },
+  {
+   "id": "u38.fast-adverb",
+   "en": "fast",
+   "es": "rápido",
+   "kind": "word",
+   "emoji": "🏎️",
+   "tip": "Aquí con el sentido de: adverb."
+  },
+  {
+   "id": "u38.early-adverb",
+   "en": "early",
+   "es": "temprano",
+   "kind": "word",
+   "emoji": "🌅",
+   "tip": "Aquí con el sentido de: adverb."
+  },
+  {
+   "id": "u38.late-adverb",
+   "en": "late",
+   "es": "tarde",
+   "kind": "word",
+   "emoji": "🌙",
+   "tip": "Aquí con el sentido de: adverb."
+  },
+  {
+   "id": "u38.suddenly",
+   "en": "suddenly",
+   "es": "de repente",
+   "kind": "word",
+   "emoji": "💥",
+   "say": "sá-den-li"
+  },
+  {
+   "id": "u38.fortunately",
+   "en": "fortunately",
+   "es": "afortunadamente",
+   "kind": "word",
+   "emoji": "🍀",
+   "say": "fór-chu-net-li"
+  },
+  {
+   "id": "u38.unfortunately",
+   "en": "unfortunately",
+   "es": "desafortunadamente",
+   "kind": "word",
+   "emoji": "😓",
+   "say": "an-fór-chu-net-li"
+  },
+  {
+   "id": "u38.perfectly",
+   "en": "perfectly",
+   "es": "perfectamente",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "pér-fekt-li"
+  },
+  {
+   "id": "u38.clearly",
+   "en": "clearly",
+   "es": "claramente",
+   "kind": "word",
+   "emoji": "🔊",
+   "say": "klíer-li"
+  },
+  {
+   "id": "u38.politely",
+   "en": "politely",
+   "es": "educadamente",
+   "kind": "word",
+   "emoji": "🎩",
+   "say": "po-láit-li"
+  },
+  {
+   "id": "u38.happily",
+   "en": "happily",
+   "es": "felizmente / con alegría",
+   "kind": "word",
+   "emoji": "😄",
+   "say": "já-pi-li"
+  },
+  {
+   "id": "u38.together",
+   "en": "together",
+   "es": "juntos",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "tu-gué-der"
+  },
+  {
+   "id": "u38.alone",
+   "en": "alone",
+   "es": "solo / solos",
+   "kind": "word",
+   "emoji": "🧍",
+   "say": "a-lóun"
+  },
+  {
+   "id": "u38.how-often",
+   "en": "How often?",
+   "es": "¿Con qué frecuencia?",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u38.once-a-week",
+   "en": "once a week",
+   "es": "una vez a la semana",
+   "kind": "chunk",
+   "emoji": "1️⃣"
+  },
+  {
+   "id": "u38.twice-a-month",
+   "en": "twice a month",
+   "es": "dos veces al mes",
+   "kind": "chunk",
+   "emoji": "2️⃣"
+  },
+  {
+   "id": "u38.three-times-a-year",
+   "en": "three times a year",
+   "es": "tres veces al año",
+   "kind": "chunk",
+   "emoji": "3️⃣"
+  },
+  {
+   "id": "u38.every-morning",
+   "en": "every morning",
+   "es": "todas las mañanas",
+   "kind": "chunk",
+   "emoji": "🌄"
+  },
+  {
+   "id": "u38.once-in-a-while",
+   "en": "once in a while",
+   "es": "de vez en cuando",
+   "kind": "chunk",
+   "emoji": "🎲"
+  },
+  {
+   "id": "u38.almost-never",
+   "en": "almost never",
+   "es": "casi nunca",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u38.hardly-ever",
+   "en": "hardly ever",
+   "es": "casi nunca",
+   "kind": "chunk",
+   "emoji": "🚫",
+   "say": "hárd-li é-ver"
+  },
+  {
+   "id": "u38.often",
+   "en": "often",
+   "es": "a menudo",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "ó-fen"
+  },
+  {
+   "id": "u38.rarely",
+   "en": "rarely",
+   "es": "rara vez",
+   "kind": "word",
+   "emoji": "🌑",
+   "say": "rér-li"
+  },
+  {
+   "id": "u38.still",
+   "en": "still",
+   "es": "todavía",
+   "kind": "word",
+   "emoji": "⏸️",
+   "say": "stil"
+  },
+  {
+   "id": "u38.already",
+   "en": "already",
+   "es": "ya",
+   "kind": "word",
+   "emoji": "✔️",
+   "say": "ol-ré-di"
+  },
+  {
+   "id": "u38.yet",
+   "en": "yet",
+   "es": "todavía (en negativo) / ya (en preguntas)",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "iet"
+  },
+  {
+   "id": "u38.again",
+   "en": "again",
+   "es": "otra vez",
+   "kind": "word",
+   "emoji": "🔂",
+   "say": "a-guén"
+  },
+  {
+   "id": "u38.almost",
+   "en": "almost",
+   "es": "casi",
+   "kind": "word",
+   "emoji": "🔜",
+   "say": "ól-moust"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u38-como-l1",
+   "title": "1. quickly, slowly, carefully…",
+   "focus": "listening",
+   "newItems": [
+    "u38.quickly",
+    "u38.slowly",
+    "u38.carefully",
+    "u38.easily"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.quickly",
+      "u38.slowly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.carefully",
+      "u38.easily"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.quickly",
+      "u38.slowly",
+      "u38.carefully",
+      "u38.easily"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.quickly",
+      "u38.slowly",
+      "u38.carefully",
+      "u38.easily"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l2",
+   "title": "2. quietly, loudly, badly…",
+   "focus": "grammar",
+   "newItems": [
+    "u38.quietly",
+    "u38.loudly",
+    "u38.badly",
+    "u38.well"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.quietly",
+      "u38.loudly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.badly",
+      "u38.well"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.quietly",
+      "u38.loudly",
+      "u38.badly",
+      "u38.well"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.quietly",
+      "u38.loudly",
+      "u38.badly",
+      "u38.well"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.quickly",
+      "u38.slowly",
+      "u38.carefully",
+      "u38.easily"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Adverbios con -ly",
+     "intro": "Compara la palabra que describe a la persona con la que describe la acción.",
+     "examples": [
+      {
+       "en": "She's a careful driver. She drives carefully.",
+       "es": "Es una conductora cuidadosa. Maneja con cuidado.",
+       "mark": [
+        "carefully"
+       ]
+      },
+      {
+       "en": "He's a quick runner. He runs quickly.",
+       "es": "Es un corredor rápido. Corre rápidamente.",
+       "mark": [
+        "quickly"
+       ]
+      },
+      {
+       "en": "The music is loud. They sing loudly.",
+       "es": "La música está duro. Cantan duro.",
+       "mark": [
+        "loudly"
+       ]
+      },
+      {
+       "en": "He's a good singer. He sings well.",
+       "es": "Es un buen cantante. Canta bien.",
+       "mark": [
+        "well"
+       ]
+      },
+      {
+       "en": "She's a hard worker. She works hard.",
+       "es": "Es muy trabajadora. Trabaja duro.",
+       "mark": [
+        "hard"
+       ]
+      }
+     ],
+     "question": "¿Qué se agrega al adjetivo para describir cómo se hace algo?",
+     "options": [
+      "-ly",
+      "-ing",
+      "-er"
+     ],
+     "answer": 0,
+     "rule": "El adjetivo describe a la persona o cosa (a careful driver); el ADVERBIO describe la acción (drives carefully). Casi siempre es adjetivo + -ly (como '-mente' en español). Irregulares: good → well, fast → fast, hard → hard.",
+     "ruleExamples": [
+      {
+       "en": "I speak English slowly, but I speak it clearly.",
+       "es": "Hablo inglés despacio, pero lo hablo claramente."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Please drive ___. The road is dangerous.",
+     "options": [
+      "carefully",
+      "careful"
+     ],
+     "answer": 0,
+     "es": "Por favor maneja con cuidado. La carretera es peligrosa."
+    },
+    {
+     "type": "fill",
+     "en": "She speaks English very ___.",
+     "options": [
+      "well",
+      "good"
+     ],
+     "answer": 0,
+     "es": "Ella habla inglés muy bien."
+    },
+    {
+     "type": "fill",
+     "en": "How ___ do you go to the gym?",
+     "options": [
+      "often",
+      "much"
+     ],
+     "answer": 0,
+     "es": "¿Con qué frecuencia vas al gimnasio?"
+    },
+    {
+     "type": "fill",
+     "en": "I go to the dentist ___ a year.",
+     "options": [
+      "twice",
+      "two"
+     ],
+     "answer": 0,
+     "es": "Voy al odontólogo dos veces al año."
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l3",
+   "title": "3. hard, fast, early…",
+   "focus": "reading",
+   "newItems": [
+    "u38.hard",
+    "u38.fast-adverb",
+    "u38.early-adverb",
+    "u38.late-adverb"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.hard",
+      "u38.fast-adverb"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.early-adverb",
+      "u38.late-adverb"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.hard",
+      "u38.fast-adverb",
+      "u38.early-adverb",
+      "u38.late-adverb"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.hard",
+      "u38.fast-adverb",
+      "u38.early-adverb",
+      "u38.late-adverb"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.carefully",
+      "u38.easily",
+      "u38.quietly",
+      "u38.loudly",
+      "u38.badly",
+      "u38.well"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l4",
+   "title": "4. suddenly, fortunately, unfortunately…",
+   "focus": "listening",
+   "newItems": [
+    "u38.suddenly",
+    "u38.fortunately",
+    "u38.unfortunately",
+    "u38.perfectly"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.suddenly",
+      "u38.fortunately"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.unfortunately",
+      "u38.perfectly"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.suddenly",
+      "u38.fortunately",
+      "u38.unfortunately",
+      "u38.perfectly"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.suddenly",
+      "u38.fortunately",
+      "u38.unfortunately",
+      "u38.perfectly"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.badly",
+      "u38.well",
+      "u38.hard",
+      "u38.fast-adverb",
+      "u38.early-adverb",
+      "u38.late-adverb"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l5",
+   "title": "5. clearly, politely, happily…",
+   "focus": "listening",
+   "newItems": [
+    "u38.clearly",
+    "u38.politely",
+    "u38.happily",
+    "u38.together"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.clearly",
+      "u38.politely"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.happily",
+      "u38.together"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.clearly",
+      "u38.politely",
+      "u38.happily",
+      "u38.together"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.clearly",
+      "u38.politely",
+      "u38.happily",
+      "u38.together"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.early-adverb",
+      "u38.late-adverb",
+      "u38.suddenly",
+      "u38.fortunately",
+      "u38.unfortunately",
+      "u38.perfectly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "⏳",
+     "title": "already / yet / still",
+     "text": "already = ya (antes de lo esperado): I already finished. yet = ya / todavía, en preguntas y negativos al final: Did you finish yet? I didn't finish yet. still = todavía (sigue pasando): I still live with my parents."
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l6",
+   "title": "6. alone, How often?, once a week…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u38.alone",
+    "u38.how-often",
+    "u38.once-a-week",
+    "u38.twice-a-month"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.alone",
+      "u38.how-often"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.once-a-week",
+      "u38.twice-a-month"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.alone",
+      "u38.how-often",
+      "u38.once-a-week",
+      "u38.twice-a-month"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.alone",
+      "u38.how-often",
+      "u38.once-a-week",
+      "u38.twice-a-month"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.unfortunately",
+      "u38.perfectly",
+      "u38.clearly",
+      "u38.politely",
+      "u38.happily",
+      "u38.together"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l7",
+   "title": "7. three times a year, every morning, once in a while…",
+   "focus": "reading",
+   "newItems": [
+    "u38.three-times-a-year",
+    "u38.every-morning",
+    "u38.once-in-a-while",
+    "u38.almost-never"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.three-times-a-year",
+      "u38.every-morning"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.once-in-a-while",
+      "u38.almost-never"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.three-times-a-year",
+      "u38.every-morning",
+      "u38.once-in-a-while",
+      "u38.almost-never"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.three-times-a-year",
+      "u38.every-morning",
+      "u38.once-in-a-while",
+      "u38.almost-never"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.happily",
+      "u38.together",
+      "u38.alone",
+      "u38.how-often",
+      "u38.once-a-week",
+      "u38.twice-a-month"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l8",
+   "title": "8. hardly ever, often, rarely…",
+   "focus": "listening",
+   "newItems": [
+    "u38.hardly-ever",
+    "u38.often",
+    "u38.rarely",
+    "u38.still"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.hardly-ever",
+      "u38.often"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.rarely",
+      "u38.still"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.hardly-ever",
+      "u38.often",
+      "u38.rarely",
+      "u38.still"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.hardly-ever",
+      "u38.often",
+      "u38.rarely",
+      "u38.still"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.once-a-week",
+      "u38.twice-a-month",
+      "u38.three-times-a-year",
+      "u38.every-morning",
+      "u38.once-in-a-while",
+      "u38.almost-never"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Hábitos saludables",
+     "scene": "🏃 Una entrevista para una revista de salud.",
+     "lines": [
+      {
+       "who": "Reporter",
+       "en": "How often do you exercise?",
+       "es": "¿Con qué frecuencia hace ejercicio?"
+      },
+      {
+       "who": "Runner",
+       "en": "I run every morning and I go to the gym twice a week.",
+       "es": "Corro todas las mañanas y voy al gimnasio dos veces por semana."
+      },
+      {
+       "who": "Reporter",
+       "en": "Do you eat fast food?",
+       "es": "¿Come comida rápida?"
+      },
+      {
+       "who": "Runner",
+       "en": "Hardly ever. Maybe once in a while with my kids.",
+       "es": "Casi nunca. Tal vez de vez en cuando con mis hijos."
+      },
+      {
+       "who": "Reporter",
+       "en": "And do you sleep well?",
+       "es": "¿Y duerme bien?"
+      },
+      {
+       "who": "Runner",
+       "en": "Yes, I sleep perfectly. I go to bed early.",
+       "es": "Sí, duermo perfectamente. Me acuesto temprano."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u38-como-l9",
+   "title": "9. already, yet, again…",
+   "focus": "listening",
+   "newItems": [
+    "u38.already",
+    "u38.yet",
+    "u38.again",
+    "u38.almost"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u38.already",
+      "u38.yet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u38.again",
+      "u38.almost"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.already",
+      "u38.yet",
+      "u38.again",
+      "u38.almost"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.already",
+      "u38.yet",
+      "u38.again",
+      "u38.almost"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.once-in-a-while",
+      "u38.almost-never",
+      "u38.hardly-ever",
+      "u38.often",
+      "u38.rarely",
+      "u38.still"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u38-como-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El examen de conducción",
+     "emoji": "🚗",
+     "paragraphs": [
+      {
+       "en": "Pablo took his driving test last Tuesday. He was very nervous.",
+       "es": "Pablo presentó su examen de conducción el martes pasado. Estaba muy nervioso."
+      },
+      {
+       "en": "He started the car slowly and drove carefully through the city.",
+       "es": "Prendió el carro despacio y manejó con cuidado por la ciudad."
+      },
+      {
+       "en": "Suddenly a dog ran into the street!",
+       "es": "¡De repente un perro se atravesó en la calle!"
+      },
+      {
+       "en": "Fortunately Pablo stopped quickly and the dog was OK.",
+       "es": "Afortunadamente Pablo frenó rápido y el perro estuvo bien."
+      },
+      {
+       "en": "The examiner smiled and said, \"You reacted perfectly.\"",
+       "es": "El examinador sonrió y dijo: \"Reaccionó perfectamente.\""
+      },
+      {
+       "en": "Pablo passed the test. He still remembers that dog!",
+       "es": "Pablo pasó el examen. ¡Todavía se acuerda de ese perro!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo manejó Pablo?",
+       "options": [
+        "Rápido y sin cuidado",
+        "Con cuidado",
+        "Muy mal"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué pasó de repente?",
+       "options": [
+        "Llovió",
+        "Un perro se atravesó",
+        "Se dañó el carro"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Pasó el examen?",
+       "options": [
+        "Sí",
+        "No"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Pedir que hablen más despacio",
+     "scene": "📞 Una persona te habla en inglés muy rápido por teléfono.",
+     "turns": [
+      {
+       "who": "Agent",
+       "en": "Hithankyouforcallinghowcanihelpyoutoday?",
+       "es": "Holagraciasporllamarenquélepuedoayudar?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sorry, could you speak more slowly, please?",
+         "es": "Perdón, ¿podría hablar más despacio, por favor?",
+         "ok": true
+        },
+        {
+         "en": "Sorry, could you speak more slow quickly?",
+         "es": "Perdón, ¿podría hablar más lento rápidamente?",
+         "ok": false,
+         "why": "Contradictorio."
+        }
+       ]
+      },
+      {
+       "who": "Agent",
+       "en": "Of course. How… can… I… help… you?",
+       "es": "Claro. ¿En… qué… le… puedo… ayudar?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you. I'd like to change my address.",
+         "es": "Gracias. Quisiera cambiar mi dirección.",
+         "ok": true
+        },
+        {
+         "en": "Thank you. You speak badly.",
+         "es": "Gracias. Usted habla mal.",
+         "ok": false,
+         "why": "Es grosero."
+        }
+       ]
+      },
+      {
+       "who": "Agent",
+       "en": "No problem. Can you spell your name, please?",
+       "es": "No hay problema. ¿Me puede deletrear su nombre?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sure. It's S-A-M.",
+         "es": "Claro. Es S-A-M.",
+         "ok": true
+        },
+        {
+         "en": "Sure. It's quickly.",
+         "es": "Claro. Es rápidamente.",
+         "ok": false,
+         "why": "No responde."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Maneja con cuidado.",
+     "en": "Drive carefully."
+    },
+    {
+     "type": "write",
+     "es": "Ella habla inglés muy bien.",
+     "en": "She speaks English very well."
+    },
+    {
+     "type": "write",
+     "es": "Voy al gimnasio dos veces a la semana.",
+     "en": "I go to the gym twice a week."
+    },
+    {
+     "type": "dictation",
+     "en": "Could you speak more slowly, please?",
+     "es": "¿Podría hablar más despacio, por favor?"
+    },
+    {
+     "type": "dictation",
+     "en": "I still live with my parents.",
+     "es": "Todavía vivo con mis papás."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u38.hardly-ever",
+      "u38.often",
+      "u38.rarely",
+      "u38.still",
+      "u38.already",
+      "u38.yet",
+      "u38.again",
+      "u38.almost"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

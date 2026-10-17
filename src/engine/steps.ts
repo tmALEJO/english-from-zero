@@ -25,6 +25,7 @@ function options(target: Item, pool: Item[], n: number, rand: Rand): Item[] {
 
 export function canUseMode(item: Item, mode: AutoMode): boolean {
   if (mode === 'build') return item.en.trim().split(/\s+/).length >= 2;
+  if (mode === 'dictation') return item.kind !== 'sound';
   if (item.kind === 'sound') return mode === 'listen-pick';
   return true;
 }
@@ -49,6 +50,8 @@ export function autoStep(item: Item, mode: AutoMode, pool: Item[], rand: Rand = 
     }
     case 'speak':
       return { kind: 'speak', en: item.en, es: item.es, itemId: item.id, note: item.say ? `Suena parecido a: ${item.say}` : undefined };
+    case 'dictation':
+      return { kind: 'dictation', en: item.en, es: item.es, itemId: item.id };
   }
 }
 
@@ -103,6 +106,15 @@ export function expandLesson(lesson: Lesson, unit: Unit, rand: Rand = Math.rando
         break;
       case 'tip':
         steps.push({ kind: 'tip', title: a.title, text: a.text, emoji: a.emoji });
+        break;
+      case 'dictation':
+        steps.push({ kind: 'dictation', en: a.en, es: a.es });
+        break;
+      case 'write':
+        steps.push({ kind: 'write', es: a.es, en: a.en, accept: a.accept, hint: a.hint });
+        break;
+      case 'roleplay':
+        steps.push({ kind: 'roleplay', title: a.title, scene: a.scene, turns: a.turns });
         break;
     }
   }

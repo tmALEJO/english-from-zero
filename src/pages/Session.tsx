@@ -3,12 +3,13 @@ import { Link, useLocation, useNavigate, useParams, useSearchParams } from 'reac
 import type { AutoMode, Step } from '../types';
 import { useApp } from '../state';
 import { StepView, type StepResult } from '../components/Steps';
+import { ExamContext } from '../components/Steps';
 import { ProgressBar } from '../components/common';
-import { findLesson, getItem, itemsById } from '../engine/content';
+import { findLesson, getItem, itemsById, units } from '../engine/content';
 import { expandLesson } from '../engine/steps';
-import { buildPractice, buildReview, buildWarmup, isUnitDone, nextLesson, type PlannedStep } from '../engine/progress';
+import { buildPractice, buildReview, buildWarmup, buildUnitTest, buildExam, findExam, isUnitDone, nextLesson, testId, examRowId, UNIT_TEST_PASS, type PlannedStep } from '../engine/progress';
 import { outcomeFrom } from '../engine/srs';
-import { completeLesson, completePractice, completeReview, type ItemResult, type SessionSummary } from '../db/actions';
+import { completeLesson, completePractice, completeReview, completeAssessment, type ItemResult, type SessionSummary } from '../db/actions';
 import { stopSpeaking } from '../engine/speech';
 
 function stepItemId(s: Step): string | undefined {
@@ -22,11 +23,12 @@ interface QueueEntry extends PlannedStep { key: number; retry?: boolean; section
 interface PlayerProps {
   title: string;
   planned: QueueEntry[];
+  exam?: boolean;
   onFinish: (s: Omit<SessionSummary, 'type' | 'refId' | 'title'>) => Promise<ReactNode>;
 }
 
 /** Reproductor común para lecciones, repasos y práctica libre. */
-function Player({ title, planned, onFinish }: PlayerProps) {
+function Player({ title, planned, exam = false, onFinish }: PlayerProps) {
   const { openDict } = useApp();
   const navigate = useNavigate();
   const [queue, setQueue] = useState<QueueEntry[]>(planned);
@@ -51,7 +53,7 @@ function Player({ title, planned, onFinish }: PlayerProps) {
       results.current.push({ itemId, outcome: outcomeFrom(r.correctFirstTry, r.attempts), mode: e.mode as AutoMode | undefined });
     }
     // Si fallaste, el ejercicio vuelve al final de la sesión (una sola vez), en otro momento.
-    if (r.graded && !r.correctFirstTry && !e.retry && e.step.kind !== 'discover') {
+    if (r.graded && !r.correctFirstTry && !e.retry && e.step.kind !== 'discover' && !exam) {
       q = [...queue, { ...e, key: nextKey.current++, retry: true, section: 'Otra oportunidad' }];
       setQueue(q);
     }
@@ -81,7 +83,9 @@ function Player({ title, planned, onFinish }: PlayerProps) {
         <button type="button" className="icon-btn" onClick={() => openDict()} aria-label="Abrir diccionario" title="Diccionario">📖</button>
       </header>
       <div className="session__body" key={current.key}>
-        <StepView step={current.step} onDone={handleDone} />
+        <ExamContext.Provider value={exam}>
+          <StepView step={current.step} onDone={handleDone} />
+        </ExamContext.Provider>
       </div>
     </div>
   );
@@ -216,6 +220,71 @@ function EndScreen(p: {
   );
 }
 
+// ─── Prueba de unidad ───────────────────────────────────────
+
+function UnitTestInner() {
+  const { unitId = '' } = useParams();
+  const { settings } = useApp();
+  const unit = units[unitId];
+  const [planned] = useState(() => (unit ? toEntries(buildUnitTest(unit)) : []));
+  if (!unit) return <div className="session"><p>Unidad no encontrada.</p><Link to="/ruta" className="btn btn--primary">Ruta</Link></div>;
+  return (
+    <Player
+      title={`Prueba: ${unit.title}`}
+      planned={planned}
+      exam
+      onFinish={async (s) => {
+        const score = await completeAssessment(testId(unit.id), unit.id, { ...s, type: 'test', refId: testId(unit.id), title: `Prueba: ${unit.title}` });
+        const passed = score >= UNIT_TEST_PASS;
+        const next = nextLesson([], settings.explorerMode);
+        return (
+          <EndScreen
+            title={passed ? '¡Prueba aprobada!' : 'Prueba no aprobada'}
+            correct={s.correct}
+            total={s.total}
+            milestone={passed ? unit.canDo : undefined}
+            note={passed ? 'Unidad completada. Esta palabra entra firme a tu repaso.' : `Necesitas ${UNIT_TEST_PASS}% para aprobar. Repasa la unidad y vuelve a intentarlo: ¡no pierdes nada!`}
+            next={passed && next ? { to: `/leccion/${next.lesson.id}`, label: `Siguiente: ${next.unit.title}` } : undefined}
+            repeat={passed ? undefined : `/prueba/${unit.id}`}
+            back={`/unidad/${unit.id}`}
+          />
+        );
+      }}
+    />
+  );
+}
+
+// ─── Examen de control / final ──────────────────────────────
+
+function ExamInner() {
+  const { examId = '' } = useParams();
+  const exam = findExam(examId);
+  const [planned] = useState(() => (exam ? toEntries(buildExam(exam)) : []));
+  if (!exam) return <div className="session"><p>Examen no encontrado.</p><Link to="/ruta" className="btn btn--primary">Ruta</Link></div>;
+  return (
+    <Player
+      title={exam.title}
+      planned={planned}
+      exam
+      onFinish={async (s) => {
+        const score = await completeAssessment(examRowId(exam.id), exam.id, { ...s, type: 'exam', refId: exam.id, title: exam.title });
+        const passed = score >= exam.passPct;
+        return (
+          <EndScreen
+            title={passed ? (exam.kind === 'final' ? `¡Nivel ${exam.level} aprobado!` : '¡Examen aprobado!') : 'Examen no aprobado'}
+            correct={s.correct}
+            total={s.total}
+            milestone={passed && exam.kind === 'final' ? `Alcanzaste el nivel ${exam.level}` : undefined}
+            note={passed ? (exam.kind === 'final' ? '¡Felicitaciones! Has certificado este nivel completo.' : 'Puedes seguir avanzando en la ruta.') : `Necesitas ${exam.passPct}%. Repasa las unidades de este bloque y vuelve a intentarlo.`}
+            repeat={passed ? undefined : `/examen/${exam.id}`}
+            back="/ruta"
+          />
+        );
+      }}
+    />
+  );
+}
+
 // Cada visita (incluido "Repetir") arma una sesión nueva: la clave de la ruta reinicia el componente.
 function useSessionKey() {
   const l = useLocation();
@@ -224,3 +293,5 @@ function useSessionKey() {
 export function LessonSession() { return <LessonInner key={useSessionKey()} />; }
 export function ReviewSession() { return <ReviewInner key={useSessionKey()} />; }
 export function PracticeSession() { return <PracticeInner key={useSessionKey()} />; }
+export function UnitTestSession() { return <UnitTestInner key={useSessionKey()} />; }
+export function ExamSession() { return <ExamInner key={useSessionKey()} />; }

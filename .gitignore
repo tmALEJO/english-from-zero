@@ -23,7 +23,4 @@ keystore-base64.txt
 
 # Audio generado localmente con Piper (opcional; puedes quitar esta línea si quieres versionarlo)
 scripts/.piper/
-
-*.tsbuildinfo
-
 *.tsbuildinfo

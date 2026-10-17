@@ -1,0 +1,1333 @@
+{
+ "_generated": true,
+ "id": "u73-futuro-planeta",
+ "level": "B2",
+ "title": "El futuro del planeta",
+ "emoji": "🌱",
+ "canDo": "Ya puedo debatir sobre sostenibilidad, energía y el futuro del medio ambiente",
+ "summary": "Energías, economía circular y soluciones climáticas; estructuras para proponer y predecir.",
+ "grammar": [
+  "unless / provided that / as long as",
+  "be likely to / be bound to"
+ ],
+ "items": [
+  {
+   "id": "u73.sustainability",
+   "en": "sustainability",
+   "es": "sostenibilidad",
+   "kind": "word",
+   "emoji": "🌿",
+   "say": "sas-tei-na-bí-li-ti"
+  },
+  {
+   "id": "u73.carbon-footprint",
+   "en": "carbon footprint",
+   "es": "huella de carbono",
+   "kind": "chunk",
+   "emoji": "👣"
+  },
+  {
+   "id": "u73.emissions",
+   "en": "emissions",
+   "es": "emisiones",
+   "kind": "word",
+   "emoji": "💨",
+   "say": "i-mí-shons"
+  },
+  {
+   "id": "u73.renewable",
+   "en": "renewable",
+   "es": "renovable",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "ri-niú-a-bol"
+  },
+  {
+   "id": "u73.solar-power",
+   "en": "solar power",
+   "es": "energía solar",
+   "kind": "chunk",
+   "emoji": "☀️"
+  },
+  {
+   "id": "u73.wind-power",
+   "en": "wind power",
+   "es": "energía eólica",
+   "kind": "chunk",
+   "emoji": "🌬️"
+  },
+  {
+   "id": "u73.hydropower",
+   "en": "hydropower",
+   "es": "energía hidroeléctrica",
+   "kind": "word",
+   "emoji": "💧",
+   "say": "jái-dro-pau-er"
+  },
+  {
+   "id": "u73.nuclear",
+   "en": "nuclear",
+   "es": "nuclear",
+   "kind": "word",
+   "emoji": "⚛️",
+   "say": "niú-kli-ar"
+  },
+  {
+   "id": "u73.electric-vehicle",
+   "en": "electric vehicle",
+   "es": "vehículo eléctrico",
+   "kind": "chunk",
+   "emoji": "🔌"
+  },
+  {
+   "id": "u73.grid",
+   "en": "grid",
+   "es": "red eléctrica",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "grid"
+  },
+  {
+   "id": "u73.efficiency",
+   "en": "efficiency",
+   "es": "eficiencia",
+   "kind": "word",
+   "emoji": "⚙️",
+   "say": "i-fí-shen-si"
+  },
+  {
+   "id": "u73.consumption",
+   "en": "consumption",
+   "es": "consumo",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "kon-sámp-shon"
+  },
+  {
+   "id": "u73.circular-economy",
+   "en": "circular economy",
+   "es": "economía circular",
+   "kind": "chunk",
+   "emoji": "♻️"
+  },
+  {
+   "id": "u73.recycling",
+   "en": "recycling",
+   "es": "reciclaje",
+   "kind": "word",
+   "emoji": "♻️",
+   "say": "ri-sái-kling"
+  },
+  {
+   "id": "u73.upcycle",
+   "en": "upcycle",
+   "es": "reutilizar creativamente",
+   "kind": "word",
+   "emoji": "🎨",
+   "say": "áp-sai-kol"
+  },
+  {
+   "id": "u73.biodegradable",
+   "en": "biodegradable",
+   "es": "biodegradable",
+   "kind": "word",
+   "emoji": "🍂",
+   "say": "bai-o-di-gréi-da-bol"
+  },
+  {
+   "id": "u73.conservation",
+   "en": "conservation",
+   "es": "conservación",
+   "kind": "word",
+   "emoji": "🌲",
+   "say": "kon-ser-véi-shon"
+  },
+  {
+   "id": "u73.biodiversity",
+   "en": "biodiversity",
+   "es": "biodiversidad",
+   "kind": "word",
+   "emoji": "🦋",
+   "say": "bai-o-dai-vér-si-ti"
+  },
+  {
+   "id": "u73.ecosystem",
+   "en": "ecosystem",
+   "es": "ecosistema",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "íi-ko-sis-tem"
+  },
+  {
+   "id": "u73.habitat",
+   "en": "habitat",
+   "es": "hábitat",
+   "kind": "word",
+   "emoji": "🏞️",
+   "say": "já-bi-tat"
+  },
+  {
+   "id": "u73.endangered-species",
+   "en": "endangered species",
+   "es": "especies en peligro",
+   "kind": "chunk",
+   "emoji": "🐆"
+  },
+  {
+   "id": "u73.reforestation",
+   "en": "reforestation",
+   "es": "reforestación",
+   "kind": "word",
+   "emoji": "🌳",
+   "say": "ri-fo-res-téi-shon"
+  },
+  {
+   "id": "u73.greenhouse-gas",
+   "en": "greenhouse gas",
+   "es": "gas de efecto invernadero",
+   "kind": "chunk",
+   "emoji": "🏭"
+  },
+  {
+   "id": "u73.sea-level",
+   "en": "sea level",
+   "es": "nivel del mar",
+   "kind": "chunk",
+   "emoji": "🌊"
+  },
+  {
+   "id": "u73.extreme-weather",
+   "en": "extreme weather",
+   "es": "clima extremo",
+   "kind": "chunk",
+   "emoji": "🌪️"
+  },
+  {
+   "id": "u73.melting",
+   "en": "melting",
+   "es": "derretimiento",
+   "kind": "word",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u73.flooding",
+   "en": "flooding",
+   "es": "inundaciones",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "flá-ding"
+  },
+  {
+   "id": "u73.offset",
+   "en": "offset",
+   "es": "compensar",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "óf-set"
+  },
+  {
+   "id": "u73.sustainable-development",
+   "en": "sustainable development",
+   "es": "desarrollo sostenible",
+   "kind": "chunk",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u73.climate-action",
+   "en": "climate action",
+   "es": "acción climática",
+   "kind": "chunk",
+   "emoji": "✊"
+  },
+  {
+   "id": "u73.regulation",
+   "en": "regulation",
+   "es": "regulación",
+   "kind": "word",
+   "emoji": "📜",
+   "say": "re-giu-léi-shon"
+  },
+  {
+   "id": "u73.subsidy",
+   "en": "subsidy",
+   "es": "subsidio",
+   "kind": "word",
+   "emoji": "💵",
+   "say": "sáb-si-di"
+  },
+  {
+   "id": "u73.incentive",
+   "en": "incentive",
+   "es": "incentivo",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "in-sén-tiv"
+  },
+  {
+   "id": "u73.be-likely-to",
+   "en": "be likely to",
+   "es": "ser probable que",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u73.be-bound-to",
+   "en": "be bound to",
+   "es": "ser casi seguro que",
+   "kind": "chunk",
+   "emoji": "🔒"
+  },
+  {
+   "id": "u73.it-s-up-to-us",
+   "en": "It's up to us",
+   "es": "Depende de nosotros",
+   "kind": "chunk",
+   "emoji": "🙌"
+  },
+  {
+   "id": "u73.future-generations",
+   "en": "future generations",
+   "es": "generaciones futuras",
+   "kind": "chunk",
+   "emoji": "👶"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u73-futuro-planeta-l1",
+   "title": "1. sustainability, carbon footprint, emissions…",
+   "focus": "listening",
+   "newItems": [
+    "u73.sustainability",
+    "u73.carbon-footprint",
+    "u73.emissions",
+    "u73.renewable",
+    "u73.solar-power"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.sustainability",
+      "u73.carbon-footprint"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.emissions",
+      "u73.renewable"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.solar-power"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.sustainability",
+      "u73.carbon-footprint",
+      "u73.emissions",
+      "u73.renewable",
+      "u73.solar-power"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.sustainability",
+      "u73.carbon-footprint",
+      "u73.emissions",
+      "u73.renewable",
+      "u73.solar-power"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.sustainability",
+      "u73.carbon-footprint",
+      "u73.emissions",
+      "u73.renewable",
+      "u73.solar-power"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-l2",
+   "title": "2. wind power, hydropower, nuclear…",
+   "focus": "grammar",
+   "newItems": [
+    "u73.wind-power",
+    "u73.hydropower",
+    "u73.nuclear",
+    "u73.electric-vehicle",
+    "u73.grid"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.wind-power",
+      "u73.hydropower"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.nuclear",
+      "u73.electric-vehicle"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.grid"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.wind-power",
+      "u73.hydropower",
+      "u73.nuclear",
+      "u73.electric-vehicle",
+      "u73.grid"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.wind-power",
+      "u73.hydropower",
+      "u73.nuclear",
+      "u73.electric-vehicle",
+      "u73.grid"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.wind-power",
+      "u73.hydropower",
+      "u73.nuclear",
+      "u73.electric-vehicle",
+      "u73.grid"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.sustainability",
+      "u73.carbon-footprint",
+      "u73.emissions",
+      "u73.renewable",
+      "u73.solar-power"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Probabilidad y condiciones",
+     "intro": "Mira cómo se expresa qué tan probable es algo y bajo qué condición.",
+     "examples": [
+      {
+       "en": "Sea levels are likely to rise.",
+       "es": "Es probable que suba el nivel del mar.",
+       "mark": [
+        "likely to"
+       ]
+      },
+      {
+       "en": "If we don't act, disasters are bound to increase.",
+       "es": "Si no actuamos, es casi seguro que aumenten los desastres.",
+       "mark": [
+        "bound to"
+       ]
+      },
+      {
+       "en": "We can reduce emissions provided that governments invest.",
+       "es": "Podemos reducir emisiones con tal de que los gobiernos inviertan.",
+       "mark": [
+        "provided that"
+       ]
+      },
+      {
+       "en": "We'll meet our goals as long as everyone helps.",
+       "es": "Cumpliremos las metas siempre y cuando todos ayuden.",
+       "mark": [
+        "as long as"
+       ]
+      },
+      {
+       "en": "Unless we change, the planet will suffer.",
+       "es": "A menos que cambiemos, el planeta sufrirá.",
+       "mark": [
+        "Unless"
+       ]
+      }
+     ],
+     "question": "¿Qué es más seguro: be likely to o be bound to?",
+     "options": [
+      "be bound to (casi seguro)",
+      "be likely to (casi seguro)"
+     ],
+     "answer": 0,
+     "rule": "be likely to = probable; be unlikely to = improbable; be bound to = casi seguro. Para condiciones: provided that / as long as = con tal de que, siempre y cuando; unless = a menos que. Todas van seguidas de presente, no de futuro.",
+     "ruleExamples": [
+      {
+       "en": "Renewable energy is likely to become cheaper, provided that governments offer incentives.",
+       "es": "Es probable que la energía renovable se abarate, con tal de que los gobiernos ofrezcan incentivos."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Temperatures are ___ to rise this century.",
+     "options": [
+      "likely",
+      "like"
+     ],
+     "answer": 0,
+     "es": "Es probable que las temperaturas suban este siglo."
+    },
+    {
+     "type": "fill",
+     "en": "We'll succeed ___ as everyone does their part.",
+     "options": [
+      "as long",
+      "so long"
+     ],
+     "answer": 0,
+     "es": "Lo lograremos siempre y cuando todos hagan su parte."
+    },
+    {
+     "type": "fill",
+     "en": "___ we act now, the problem will get worse.",
+     "options": [
+      "Unless",
+      "If"
+     ],
+     "answer": 0,
+     "es": "A menos que actuemos ya, el problema empeorará."
+    },
+    {
+     "type": "fill",
+     "en": "Electric cars are ___ to become more common.",
+     "options": [
+      "bound",
+      "bind"
+     ],
+     "answer": 0,
+     "es": "Es casi seguro que los carros eléctricos se vuelvan más comunes."
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-l3",
+   "title": "3. efficiency, consumption, circular economy…",
+   "focus": "reading",
+   "newItems": [
+    "u73.efficiency",
+    "u73.consumption",
+    "u73.circular-economy",
+    "u73.recycling",
+    "u73.upcycle"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.efficiency",
+      "u73.consumption"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.circular-economy",
+      "u73.recycling"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.upcycle"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.efficiency",
+      "u73.consumption",
+      "u73.circular-economy",
+      "u73.recycling",
+      "u73.upcycle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.efficiency",
+      "u73.consumption",
+      "u73.circular-economy",
+      "u73.recycling",
+      "u73.upcycle"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.efficiency",
+      "u73.consumption",
+      "u73.circular-economy",
+      "u73.recycling",
+      "u73.upcycle"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.solar-power",
+      "u73.wind-power",
+      "u73.hydropower",
+      "u73.nuclear",
+      "u73.electric-vehicle",
+      "u73.grid"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-l4",
+   "title": "4. biodegradable, conservation, biodiversity…",
+   "focus": "listening",
+   "newItems": [
+    "u73.biodegradable",
+    "u73.conservation",
+    "u73.biodiversity",
+    "u73.ecosystem",
+    "u73.habitat"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.biodegradable",
+      "u73.conservation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.biodiversity",
+      "u73.ecosystem"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.habitat"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.biodegradable",
+      "u73.conservation",
+      "u73.biodiversity",
+      "u73.ecosystem",
+      "u73.habitat"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.biodegradable",
+      "u73.conservation",
+      "u73.biodiversity",
+      "u73.ecosystem",
+      "u73.habitat"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.biodegradable",
+      "u73.conservation",
+      "u73.biodiversity",
+      "u73.ecosystem",
+      "u73.habitat"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.grid",
+      "u73.efficiency",
+      "u73.consumption",
+      "u73.circular-economy",
+      "u73.recycling",
+      "u73.upcycle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-l5",
+   "title": "5. endangered species, reforestation, greenhouse gas…",
+   "focus": "listening",
+   "newItems": [
+    "u73.endangered-species",
+    "u73.reforestation",
+    "u73.greenhouse-gas",
+    "u73.sea-level",
+    "u73.extreme-weather"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.endangered-species",
+      "u73.reforestation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.greenhouse-gas",
+      "u73.sea-level"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.extreme-weather"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.endangered-species",
+      "u73.reforestation",
+      "u73.greenhouse-gas",
+      "u73.sea-level",
+      "u73.extreme-weather"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.endangered-species",
+      "u73.reforestation",
+      "u73.greenhouse-gas",
+      "u73.sea-level",
+      "u73.extreme-weather"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.endangered-species",
+      "u73.reforestation",
+      "u73.greenhouse-gas",
+      "u73.sea-level",
+      "u73.extreme-weather"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.upcycle",
+      "u73.biodegradable",
+      "u73.conservation",
+      "u73.biodiversity",
+      "u73.ecosystem",
+      "u73.habitat"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-l6",
+   "title": "6. melting, flooding, offset…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u73.melting",
+    "u73.flooding",
+    "u73.offset",
+    "u73.sustainable-development",
+    "u73.climate-action"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.melting",
+      "u73.flooding"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.offset",
+      "u73.sustainable-development"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.climate-action"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.melting",
+      "u73.flooding",
+      "u73.offset",
+      "u73.sustainable-development",
+      "u73.climate-action"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.melting",
+      "u73.flooding",
+      "u73.offset",
+      "u73.sustainable-development",
+      "u73.climate-action"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.melting",
+      "u73.flooding",
+      "u73.offset",
+      "u73.sustainable-development",
+      "u73.climate-action"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.habitat",
+      "u73.endangered-species",
+      "u73.reforestation",
+      "u73.greenhouse-gas",
+      "u73.sea-level",
+      "u73.extreme-weather"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Carro eléctrico?",
+     "scene": "🔌 Dos amigos hablan de comprar carro.",
+     "lines": [
+      {
+       "who": "Leo",
+       "en": "I'm thinking of buying an electric car.",
+       "es": "Estoy pensando en comprar un carro eléctrico."
+      },
+      {
+       "who": "Ana",
+       "en": "Good idea. They're likely to be the norm in ten years.",
+       "es": "Buena idea. Es probable que sean la norma en diez años."
+      },
+      {
+       "who": "Leo",
+       "en": "But aren't they expensive?",
+       "es": "¿Pero no son caros?"
+      },
+      {
+       "who": "Ana",
+       "en": "A bit, but prices are bound to drop as long as demand keeps growing.",
+       "es": "Un poco, pero los precios seguro bajarán siempre y cuando la demanda siga creciendo."
+      },
+      {
+       "who": "Leo",
+       "en": "And charging?",
+       "es": "¿Y la carga?"
+      },
+      {
+       "who": "Ana",
+       "en": "It's getting easier, provided that the city builds more charging stations.",
+       "es": "Cada vez es más fácil, con tal de que la ciudad construya más estaciones de carga."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-l7",
+   "title": "7. regulation, subsidy, incentive…",
+   "focus": "reading",
+   "newItems": [
+    "u73.regulation",
+    "u73.subsidy",
+    "u73.incentive",
+    "u73.be-likely-to",
+    "u73.be-bound-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.regulation",
+      "u73.subsidy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.incentive",
+      "u73.be-likely-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u73.be-bound-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.regulation",
+      "u73.subsidy",
+      "u73.incentive",
+      "u73.be-likely-to",
+      "u73.be-bound-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.regulation",
+      "u73.subsidy",
+      "u73.incentive",
+      "u73.be-likely-to",
+      "u73.be-bound-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.regulation",
+      "u73.subsidy",
+      "u73.incentive",
+      "u73.be-likely-to",
+      "u73.be-bound-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.extreme-weather",
+      "u73.melting",
+      "u73.flooding",
+      "u73.offset",
+      "u73.sustainable-development",
+      "u73.climate-action"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-l8",
+   "title": "8. It's up to us, future generations",
+   "focus": "listening",
+   "newItems": [
+    "u73.it-s-up-to-us",
+    "u73.future-generations"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u73.it-s-up-to-us",
+      "u73.future-generations"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.it-s-up-to-us",
+      "u73.future-generations"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.it-s-up-to-us",
+      "u73.future-generations"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.it-s-up-to-us",
+      "u73.future-generations"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.climate-action",
+      "u73.regulation",
+      "u73.subsidy",
+      "u73.incentive",
+      "u73.be-likely-to",
+      "u73.be-bound-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u73-futuro-planeta-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El pueblo que cambió",
+     "emoji": "🌞",
+     "paragraphs": [
+      {
+       "en": "A small town in the mountains used to depend entirely on fossil fuels for its energy.",
+       "es": "Un pueblo pequeño en las montañas dependía totalmente de los combustibles fósiles para su energía."
+      },
+      {
+       "en": "The air was polluted and the electricity bills were high.",
+       "es": "El aire estaba contaminado y las facturas de luz eran altas."
+      },
+      {
+       "en": "Then the mayor proposed an ambitious plan: to make the town run on renewable energy.",
+       "es": "Entonces el alcalde propuso un plan ambicioso: que el pueblo funcionara con energía renovable."
+      },
+      {
+       "en": "With government subsidies, they installed solar panels on the roofs and a small wind farm on the hill.",
+       "es": "Con subsidios del gobierno, instalaron paneles solares en los techos y un pequeño parque eólico en la loma."
+      },
+      {
+       "en": "They also started a recycling program and a community compost.",
+       "es": "También empezaron un programa de reciclaje y un compostaje comunitario."
+      },
+      {
+       "en": "Five years later, the town's carbon footprint had dropped by seventy percent. \"It's up to all of us to protect future generations,\" the mayor said.",
+       "es": "Cinco años después, la huella de carbono del pueblo había bajado un setenta por ciento. \"Depende de todos nosotros proteger a las generaciones futuras\", dijo el alcalde."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿De qué dependía el pueblo al principio?",
+       "options": [
+        "De los combustibles fósiles",
+        "De la energía solar",
+        "Del carbón importado"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué instalaron?",
+       "options": [
+        "Paneles solares y un parque eólico",
+        "Una fábrica",
+        "Una represa grande"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cuánto bajó la huella de carbono?",
+       "options": [
+        "Un 70 %",
+        "Un 10 %",
+        "Nada"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Proponer una medida en el trabajo",
+     "scene": "♻️ Propones reducir el plástico en tu oficina.",
+     "turns": [
+      {
+       "who": "Boss",
+       "en": "You wanted to propose something?",
+       "es": "¿Querías proponer algo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes. We could reduce our plastic waste by using reusable cups.",
+         "es": "Sí. Podríamos reducir nuestros residuos plásticos usando vasos reutilizables.",
+         "ok": true
+        },
+        {
+         "en": "Yes. We should use more single-use plastic.",
+         "es": "Sí. Deberíamos usar más plástico de un solo uso.",
+         "ok": false,
+         "why": "Es lo contrario de reducir residuos."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Interesting. Would it be expensive?",
+       "es": "Interesante. ¿Sería caro?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Not really. It'll save money as long as everyone uses their own cup.",
+         "es": "No mucho. Ahorrará dinero siempre y cuando todos usen su propio vaso.",
+         "ok": true
+        },
+        {
+         "en": "Not really. It'll save money unless everyone helps.",
+         "es": "No mucho. Ahorrará dinero a menos que todos ayuden.",
+         "ok": false,
+         "why": "\"Unless\" aquí dice lo contrario de lo que quieres."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Alright. What else do you suggest?",
+       "es": "Bien. ¿Qué más sugieres?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "A recycling program. It's likely to improve our image too.",
+         "es": "Un programa de reciclaje. Es probable que también mejore nuestra imagen.",
+         "ok": true
+        },
+        {
+         "en": "A recycling program. It's bound to make a difference next century.",
+         "es": "Un programa de reciclaje. Seguro marcará la diferencia el próximo siglo.",
+         "ok": false,
+         "why": "Exageradamente lejano."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es probable que suba el nivel del mar.",
+     "en": "Sea levels are likely to rise.",
+     "accept": [
+      "The sea level is likely to rise."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "A menos que actuemos, el planeta sufrirá.",
+     "en": "Unless we act, the planet will suffer."
+    },
+    {
+     "type": "write",
+     "es": "Depende de nosotros proteger el planeta.",
+     "en": "It's up to us to protect the planet.",
+     "accept": [
+      "It is up to us to protect the planet."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "We can reduce emissions provided that governments invest.",
+     "es": "Podemos reducir emisiones con tal de que los gobiernos inviertan."
+    },
+    {
+     "type": "dictation",
+     "en": "Electric cars are bound to become more common.",
+     "es": "Es casi seguro que los carros eléctricos se vuelvan más comunes."
+    },
+    {
+     "type": "speak",
+     "en": "I think renewable energy is likely to be cheaper in the future.",
+     "es": "Creo que es probable que la energía renovable sea más barata en el futuro.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u73.climate-action",
+      "u73.regulation",
+      "u73.subsidy",
+      "u73.incentive",
+      "u73.be-likely-to",
+      "u73.be-bound-to",
+      "u73.it-s-up-to-us",
+      "u73.future-generations"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

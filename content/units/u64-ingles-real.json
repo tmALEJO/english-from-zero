@@ -1,0 +1,1796 @@
+{
+ "_generated": true,
+ "id": "u64-ingles-real",
+ "level": "B2",
+ "title": "Inglés real: cómo hablan los nativos",
+ "emoji": "🎧",
+ "canDo": "Ya entiendo el inglés hablado rápido y las reducciones de los nativos",
+ "summary": "gonna, wanna, gotta, kinda y todo el habla conectada que no aparece en los libros pero sí en las series.",
+ "grammar": [
+  "Reducciones: gonna, wanna, gotta",
+  "Habla conectada y sonidos que desaparecen"
+ ],
+ "items": [
+  {
+   "id": "u64.gonna-going-to",
+   "en": "gonna",
+   "es": "voy a / va a",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "gá-na",
+   "tip": "Aquí con el sentido de: going to."
+  },
+  {
+   "id": "u64.wanna-want-to",
+   "en": "wanna",
+   "es": "quiero / quieres",
+   "kind": "word",
+   "emoji": "🙋",
+   "say": "uá-na",
+   "tip": "Aquí con el sentido de: want to."
+  },
+  {
+   "id": "u64.gotta-have-got-to",
+   "en": "gotta",
+   "es": "tengo que",
+   "kind": "word",
+   "emoji": "❗",
+   "say": "gá-ra",
+   "tip": "Aquí con el sentido de: have got to."
+  },
+  {
+   "id": "u64.hafta-have-to",
+   "en": "hafta",
+   "es": "tengo que",
+   "kind": "word",
+   "emoji": "📌",
+   "say": "jáf-ta",
+   "tip": "Aquí con el sentido de: have to."
+  },
+  {
+   "id": "u64.kinda-kind-of",
+   "en": "kinda",
+   "es": "como que / medio",
+   "kind": "word",
+   "emoji": "🤏",
+   "say": "káin-da",
+   "tip": "Aquí con el sentido de: kind of."
+  },
+  {
+   "id": "u64.sorta-sort-of",
+   "en": "sorta",
+   "es": "más o menos / algo así",
+   "kind": "word",
+   "emoji": "🤷",
+   "say": "sór-ta",
+   "tip": "Aquí con el sentido de: sort of."
+  },
+  {
+   "id": "u64.dunno-don-t-know",
+   "en": "dunno",
+   "es": "no sé",
+   "kind": "word",
+   "emoji": "🤷",
+   "say": "da-nóu",
+   "tip": "Aquí con el sentido de: don't know."
+  },
+  {
+   "id": "u64.lemme-let-me",
+   "en": "lemme",
+   "es": "déjame",
+   "kind": "word",
+   "emoji": "✋",
+   "say": "lé-mi",
+   "tip": "Aquí con el sentido de: let me."
+  },
+  {
+   "id": "u64.gimme-give-me",
+   "en": "gimme",
+   "es": "dame",
+   "kind": "word",
+   "emoji": "🫴",
+   "say": "guí-mi",
+   "tip": "Aquí con el sentido de: give me."
+  },
+  {
+   "id": "u64.gotcha-got-you",
+   "en": "gotcha",
+   "es": "entendido / te agarré",
+   "kind": "word",
+   "emoji": "👌",
+   "say": "gá-cha",
+   "tip": "Aquí con el sentido de: got you."
+  },
+  {
+   "id": "u64.whatcha-what-are-you",
+   "en": "whatcha",
+   "es": "qué estás…",
+   "kind": "word",
+   "emoji": "❓",
+   "say": "uá-cha",
+   "tip": "Aquí con el sentido de: what are you."
+  },
+  {
+   "id": "u64.didja-did-you",
+   "en": "didja",
+   "es": "¿(tú) hiciste…?",
+   "kind": "word",
+   "emoji": "❔",
+   "say": "dí-ya",
+   "tip": "Aquí con el sentido de: did you."
+  },
+  {
+   "id": "u64.d-ya-do-you",
+   "en": "d'ya",
+   "es": "¿(tú)…?",
+   "kind": "word",
+   "emoji": "❔",
+   "say": "dya",
+   "tip": "Aquí con el sentido de: do you."
+  },
+  {
+   "id": "u64.ya-you",
+   "en": "ya",
+   "es": "tú / te (informal)",
+   "kind": "word",
+   "emoji": "🫵",
+   "say": "ya",
+   "tip": "Aquí con el sentido de: you."
+  },
+  {
+   "id": "u64.cause-because",
+   "en": "'cause",
+   "es": "porque",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "kos",
+   "tip": "Aquí con el sentido de: because."
+  },
+  {
+   "id": "u64.em-them",
+   "en": "'em",
+   "es": "los / las / ellos",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "em",
+   "tip": "Aquí con el sentido de: them."
+  },
+  {
+   "id": "u64.outta-out-of",
+   "en": "outta",
+   "es": "fuera de",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "áu-ra",
+   "tip": "Aquí con el sentido de: out of."
+  },
+  {
+   "id": "u64.lotta-a-lot-of",
+   "en": "lotta",
+   "es": "mucho(s)",
+   "kind": "word",
+   "emoji": "🔢",
+   "say": "lá-ra",
+   "tip": "Aquí con el sentido de: a lot of."
+  },
+  {
+   "id": "u64.coulda-could-have",
+   "en": "coulda",
+   "es": "pudo haber",
+   "kind": "word",
+   "emoji": "🎲",
+   "say": "kú-da",
+   "tip": "Aquí con el sentido de: could have."
+  },
+  {
+   "id": "u64.shoulda-should-have",
+   "en": "shoulda",
+   "es": "debió haber",
+   "kind": "word",
+   "emoji": "🤦",
+   "say": "shú-da",
+   "tip": "Aquí con el sentido de: should have."
+  },
+  {
+   "id": "u64.woulda-would-have",
+   "en": "woulda",
+   "es": "habría",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "uú-da",
+   "tip": "Aquí con el sentido de: would have."
+  },
+  {
+   "id": "u64.y-all-you-all",
+   "en": "y'all",
+   "es": "ustedes (sur de EE. UU.)",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "yol",
+   "tip": "Aquí con el sentido de: you all."
+  },
+  {
+   "id": "u64.ain-t",
+   "en": "ain't",
+   "es": "no es / no está / no hay (muy informal)",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "éint"
+  },
+  {
+   "id": "u64.innit-isn-t-it",
+   "en": "innit",
+   "es": "¿no? (Reino Unido)",
+   "kind": "word",
+   "emoji": "🇬🇧",
+   "say": "í-nit",
+   "tip": "Aquí con el sentido de: isn't it."
+  },
+  {
+   "id": "u64.yeah",
+   "en": "yeah",
+   "es": "sí (informal)",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "iéa"
+  },
+  {
+   "id": "u64.nope",
+   "en": "nope",
+   "es": "no (informal)",
+   "kind": "word",
+   "emoji": "👎",
+   "say": "nóup"
+  },
+  {
+   "id": "u64.yep",
+   "en": "yep",
+   "es": "sí (informal)",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "iep"
+  },
+  {
+   "id": "u64.uh-huh",
+   "en": "uh-huh",
+   "es": "ajá",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "a-já"
+  },
+  {
+   "id": "u64.uh-uh",
+   "en": "uh-uh",
+   "es": "no (con sonido)",
+   "kind": "word",
+   "emoji": "👎",
+   "say": "á-a"
+  },
+  {
+   "id": "u64.hey",
+   "en": "hey",
+   "es": "oye / hola",
+   "kind": "word",
+   "emoji": "👋",
+   "say": "jéi"
+  },
+  {
+   "id": "u64.dude",
+   "en": "dude",
+   "es": "parcero / man",
+   "kind": "word",
+   "emoji": "🤙",
+   "say": "duud"
+  },
+  {
+   "id": "u64.guys",
+   "en": "guys",
+   "es": "gente / chicos (grupo, cualquier género)",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "gáis"
+  },
+  {
+   "id": "u64.buddy",
+   "en": "buddy",
+   "es": "amigo / parce",
+   "kind": "word",
+   "emoji": "🫂",
+   "say": "bá-di"
+  },
+  {
+   "id": "u64.awesome",
+   "en": "awesome",
+   "es": "genial / chévere",
+   "kind": "word",
+   "emoji": "🤩",
+   "say": "ó-som"
+  },
+  {
+   "id": "u64.no-way",
+   "en": "no way!",
+   "es": "¡no puede ser!",
+   "kind": "chunk",
+   "emoji": "😱"
+  },
+  {
+   "id": "u64.for-real",
+   "en": "for real?",
+   "es": "¿en serio?",
+   "kind": "chunk",
+   "emoji": "😮"
+  },
+  {
+   "id": "u64.my-bad",
+   "en": "my bad",
+   "es": "mi culpa",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u64.no-worries",
+   "en": "no worries",
+   "es": "tranquilo / no hay problema",
+   "kind": "chunk",
+   "emoji": "😌"
+  },
+  {
+   "id": "u64.i-m-down",
+   "en": "I'm down",
+   "es": "me apunto",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u64.hang-on",
+   "en": "hang on",
+   "es": "espera / un momento",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u64.what-s-up",
+   "en": "What's up?",
+   "es": "¿Qué más? / ¿Qué hubo?",
+   "kind": "chunk",
+   "emoji": "👋"
+  },
+  {
+   "id": "u64.not-much",
+   "en": "Not much",
+   "es": "Nada, aquí",
+   "kind": "chunk",
+   "emoji": "🙂"
+  },
+  {
+   "id": "u64.how-s-it-going",
+   "en": "How's it going?",
+   "es": "¿Cómo va todo?",
+   "kind": "chunk",
+   "emoji": "🙂"
+  },
+  {
+   "id": "u64.i-m-beat",
+   "en": "I'm beat",
+   "es": "Estoy muerto (cansado)",
+   "kind": "chunk",
+   "emoji": "😩"
+  },
+  {
+   "id": "u64.that-sucks",
+   "en": "That sucks",
+   "es": "Qué mala onda / qué mamera",
+   "kind": "chunk",
+   "emoji": "👎"
+  },
+  {
+   "id": "u64.it-s-no-big-deal",
+   "en": "It's no big deal",
+   "es": "No es para tanto",
+   "kind": "chunk",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u64.hold-on-a-sec",
+   "en": "Hold on a sec",
+   "es": "Espera un segundo",
+   "kind": "chunk",
+   "emoji": "⏱️"
+  },
+  {
+   "id": "u64.you-know-what-i-mean",
+   "en": "You know what I mean?",
+   "es": "¿Me entiendes?",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u64.i-mean",
+   "en": "I mean…",
+   "es": "O sea… / quiero decir…",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u64.like-filler",
+   "en": "like",
+   "es": "como (muletilla)",
+   "kind": "word",
+   "emoji": "💬",
+   "tip": "Aquí con el sentido de: filler."
+  },
+  {
+   "id": "u64.basically",
+   "en": "basically",
+   "es": "básicamente",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "béi-si-kli"
+  },
+  {
+   "id": "u64.literally",
+   "en": "literally",
+   "es": "literalmente",
+   "kind": "word",
+   "emoji": "😂",
+   "say": "lí-te-ra-li"
+  },
+  {
+   "id": "u64.whatever",
+   "en": "whatever",
+   "es": "lo que sea / da igual",
+   "kind": "word",
+   "emoji": "🙄",
+   "say": "uat-é-ver"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u64-ingles-real-l1",
+   "title": "1. gonna, wanna, gotta…",
+   "focus": "listening",
+   "newItems": [
+    "u64.gonna-going-to",
+    "u64.wanna-want-to",
+    "u64.gotta-have-got-to",
+    "u64.hafta-have-to",
+    "u64.kinda-kind-of"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.gonna-going-to",
+      "u64.wanna-want-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.gotta-have-got-to",
+      "u64.hafta-have-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.kinda-kind-of"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.gonna-going-to",
+      "u64.wanna-want-to",
+      "u64.gotta-have-got-to",
+      "u64.hafta-have-to",
+      "u64.kinda-kind-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.gonna-going-to",
+      "u64.wanna-want-to",
+      "u64.gotta-have-got-to",
+      "u64.hafta-have-to",
+      "u64.kinda-kind-of"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.gonna-going-to",
+      "u64.wanna-want-to",
+      "u64.gotta-have-got-to",
+      "u64.hafta-have-to",
+      "u64.kinda-kind-of"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l2",
+   "title": "2. sorta, dunno, lemme…",
+   "focus": "grammar",
+   "newItems": [
+    "u64.sorta-sort-of",
+    "u64.dunno-don-t-know",
+    "u64.lemme-let-me",
+    "u64.gimme-give-me",
+    "u64.gotcha-got-you"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.sorta-sort-of",
+      "u64.dunno-don-t-know"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.lemme-let-me",
+      "u64.gimme-give-me"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.gotcha-got-you"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.sorta-sort-of",
+      "u64.dunno-don-t-know",
+      "u64.lemme-let-me",
+      "u64.gimme-give-me",
+      "u64.gotcha-got-you"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.sorta-sort-of",
+      "u64.dunno-don-t-know",
+      "u64.lemme-let-me",
+      "u64.gimme-give-me",
+      "u64.gotcha-got-you"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.sorta-sort-of",
+      "u64.dunno-don-t-know",
+      "u64.lemme-let-me",
+      "u64.gimme-give-me",
+      "u64.gotcha-got-you"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.gonna-going-to",
+      "u64.wanna-want-to",
+      "u64.gotta-have-got-to",
+      "u64.hafta-have-to",
+      "u64.kinda-kind-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Cómo se 'comen' las palabras",
+     "intro": "Lee la forma escrita formal y luego cómo suena de verdad. Escucha con atención.",
+     "examples": [
+      {
+       "en": "I'm going to eat. → I'm gonna eat.",
+       "es": "Voy a comer.",
+       "mark": [
+        "gonna"
+       ]
+      },
+      {
+       "en": "Do you want to go? → D'ya wanna go?",
+       "es": "¿Quieres ir?",
+       "mark": [
+        "wanna"
+       ]
+      },
+      {
+       "en": "I have got to leave. → I gotta leave.",
+       "es": "Me tengo que ir.",
+       "mark": [
+        "gotta"
+       ]
+      },
+      {
+       "en": "I don't know. → I dunno.",
+       "es": "No sé.",
+       "mark": [
+        "dunno"
+       ]
+      },
+      {
+       "en": "Let me see. → Lemme see.",
+       "es": "Déjame ver.",
+       "mark": [
+        "Lemme"
+       ]
+      },
+      {
+       "en": "What are you doing? → Whatcha doin'?",
+       "es": "¿Qué estás haciendo?",
+       "mark": [
+        "Whatcha"
+       ]
+      }
+     ],
+     "question": "¿Cuándo se usan estas formas?",
+     "options": [
+      "En exámenes y correos formales",
+      "Al hablar informalmente (y en mensajes entre amigos)"
+     ],
+     "answer": 1,
+     "rule": "Estas REDUCCIONES son como los nativos hablan de verdad: las palabras se juntan y se acortan (going to → gonna, want to → wanna, got to → gotta). Debes ENTENDERLAS porque aparecen en series, canciones y conversaciones. Al escribir formal (trabajo, exámenes), usa siempre la forma completa.",
+     "ruleExamples": [
+      {
+       "en": "\"Whatcha gonna do this weekend?\" \"Dunno. Wanna hang out?\"",
+       "es": "\"¿Qué vas a hacer este fin de semana?\" \"No sé. ¿Quieres que salgamos?\""
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "\"I'm gonna call her.\" significa: I'm ___ to call her.",
+     "options": [
+      "going",
+      "want"
+     ],
+     "answer": 0,
+     "es": "Voy a llamarla."
+    },
+    {
+     "type": "fill",
+     "en": "\"I wanna sleep.\" significa: I want ___ sleep.",
+     "options": [
+      "to",
+      "of"
+     ],
+     "answer": 0,
+     "es": "Quiero dormir."
+    },
+    {
+     "type": "fill",
+     "en": "\"I gotta go.\" significa: I have ___ to go.",
+     "options": [
+      "got",
+      "get"
+     ],
+     "answer": 0,
+     "es": "Me tengo que ir."
+    },
+    {
+     "type": "fill",
+     "en": "En un correo formal escribes: \"I am ___ to attend.\"",
+     "options": [
+      "going",
+      "gonna"
+     ],
+     "answer": 0,
+     "es": "Voy a asistir.",
+     "explain": "En escritura formal no se usa \"gonna\"."
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l3",
+   "title": "3. whatcha, didja, d'ya…",
+   "focus": "reading",
+   "newItems": [
+    "u64.whatcha-what-are-you",
+    "u64.didja-did-you",
+    "u64.d-ya-do-you",
+    "u64.ya-you",
+    "u64.cause-because"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.whatcha-what-are-you",
+      "u64.didja-did-you"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.d-ya-do-you",
+      "u64.ya-you"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.cause-because"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.whatcha-what-are-you",
+      "u64.didja-did-you",
+      "u64.d-ya-do-you",
+      "u64.ya-you",
+      "u64.cause-because"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.whatcha-what-are-you",
+      "u64.didja-did-you",
+      "u64.d-ya-do-you",
+      "u64.ya-you",
+      "u64.cause-because"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.whatcha-what-are-you",
+      "u64.didja-did-you",
+      "u64.d-ya-do-you",
+      "u64.ya-you",
+      "u64.cause-because"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.kinda-kind-of",
+      "u64.sorta-sort-of",
+      "u64.dunno-don-t-know",
+      "u64.lemme-let-me",
+      "u64.gimme-give-me",
+      "u64.gotcha-got-you"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l4",
+   "title": "4. 'em, outta, lotta…",
+   "focus": "listening",
+   "newItems": [
+    "u64.em-them",
+    "u64.outta-out-of",
+    "u64.lotta-a-lot-of",
+    "u64.coulda-could-have",
+    "u64.shoulda-should-have"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.em-them",
+      "u64.outta-out-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.lotta-a-lot-of",
+      "u64.coulda-could-have"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.shoulda-should-have"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.em-them",
+      "u64.outta-out-of",
+      "u64.lotta-a-lot-of",
+      "u64.coulda-could-have",
+      "u64.shoulda-should-have"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.em-them",
+      "u64.outta-out-of",
+      "u64.lotta-a-lot-of",
+      "u64.coulda-could-have",
+      "u64.shoulda-should-have"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.em-them",
+      "u64.outta-out-of",
+      "u64.lotta-a-lot-of",
+      "u64.coulda-could-have",
+      "u64.shoulda-should-have"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.gotcha-got-you",
+      "u64.whatcha-what-are-you",
+      "u64.didja-did-you",
+      "u64.d-ya-do-you",
+      "u64.ya-you",
+      "u64.cause-because"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l5",
+   "title": "5. woulda, y'all, ain't…",
+   "focus": "listening",
+   "newItems": [
+    "u64.woulda-would-have",
+    "u64.y-all-you-all",
+    "u64.ain-t",
+    "u64.innit-isn-t-it",
+    "u64.yeah"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.woulda-would-have",
+      "u64.y-all-you-all"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.ain-t",
+      "u64.innit-isn-t-it"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.yeah"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.woulda-would-have",
+      "u64.y-all-you-all",
+      "u64.ain-t",
+      "u64.innit-isn-t-it",
+      "u64.yeah"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.woulda-would-have",
+      "u64.y-all-you-all",
+      "u64.ain-t",
+      "u64.innit-isn-t-it",
+      "u64.yeah"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.woulda-would-have",
+      "u64.y-all-you-all",
+      "u64.ain-t",
+      "u64.innit-isn-t-it",
+      "u64.yeah"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.cause-because",
+      "u64.em-them",
+      "u64.outta-out-of",
+      "u64.lotta-a-lot-of",
+      "u64.coulda-could-have",
+      "u64.shoulda-should-have"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l6",
+   "title": "6. nope, yep, uh-huh…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u64.nope",
+    "u64.yep",
+    "u64.uh-huh",
+    "u64.uh-uh",
+    "u64.hey"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.nope",
+      "u64.yep"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.uh-huh",
+      "u64.uh-uh"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.hey"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.nope",
+      "u64.yep",
+      "u64.uh-huh",
+      "u64.uh-uh",
+      "u64.hey"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.nope",
+      "u64.yep",
+      "u64.uh-huh",
+      "u64.uh-uh",
+      "u64.hey"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.nope",
+      "u64.yep",
+      "u64.uh-huh",
+      "u64.uh-uh",
+      "u64.hey"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.shoulda-should-have",
+      "u64.woulda-would-have",
+      "u64.y-all-you-all",
+      "u64.ain-t",
+      "u64.innit-isn-t-it",
+      "u64.yeah"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l7",
+   "title": "7. dude, guys, buddy…",
+   "focus": "reading",
+   "newItems": [
+    "u64.dude",
+    "u64.guys",
+    "u64.buddy",
+    "u64.awesome",
+    "u64.no-way"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.dude",
+      "u64.guys"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.buddy",
+      "u64.awesome"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.no-way"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.dude",
+      "u64.guys",
+      "u64.buddy",
+      "u64.awesome",
+      "u64.no-way"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.dude",
+      "u64.guys",
+      "u64.buddy",
+      "u64.awesome",
+      "u64.no-way"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.dude",
+      "u64.guys",
+      "u64.buddy",
+      "u64.awesome",
+      "u64.no-way"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.yeah",
+      "u64.nope",
+      "u64.yep",
+      "u64.uh-huh",
+      "u64.uh-uh",
+      "u64.hey"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "👂",
+     "title": "Más trucos del habla conectada",
+     "text": "1) La t entre vocales suena como una r suave en EE. UU.: water → 'wárer', better → 'bérer'. 2) Las palabras se unen: an apple → 'anápple'. 3) Las palabras pequeñas casi desaparecen: and → 'n' (rock 'n' roll), of → 'a' (cup of coffee → 'cuppa coffee'). Escucha esto en series con subtítulos en inglés."
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l8",
+   "title": "8. for real?, my bad, no worries…",
+   "focus": "listening",
+   "newItems": [
+    "u64.for-real",
+    "u64.my-bad",
+    "u64.no-worries",
+    "u64.i-m-down",
+    "u64.hang-on"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.for-real",
+      "u64.my-bad"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.no-worries",
+      "u64.i-m-down"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.hang-on"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.for-real",
+      "u64.my-bad",
+      "u64.no-worries",
+      "u64.i-m-down",
+      "u64.hang-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.for-real",
+      "u64.my-bad",
+      "u64.no-worries",
+      "u64.i-m-down",
+      "u64.hang-on"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.for-real",
+      "u64.my-bad",
+      "u64.no-worries",
+      "u64.i-m-down",
+      "u64.hang-on"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.hey",
+      "u64.dude",
+      "u64.guys",
+      "u64.buddy",
+      "u64.awesome",
+      "u64.no-way"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l9",
+   "title": "9. What's up?, Not much, How's it going?…",
+   "focus": "listening",
+   "newItems": [
+    "u64.what-s-up",
+    "u64.not-much",
+    "u64.how-s-it-going",
+    "u64.i-m-beat",
+    "u64.that-sucks"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.what-s-up",
+      "u64.not-much"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.how-s-it-going",
+      "u64.i-m-beat"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.that-sucks"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.what-s-up",
+      "u64.not-much",
+      "u64.how-s-it-going",
+      "u64.i-m-beat",
+      "u64.that-sucks"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.what-s-up",
+      "u64.not-much",
+      "u64.how-s-it-going",
+      "u64.i-m-beat",
+      "u64.that-sucks"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.what-s-up",
+      "u64.not-much",
+      "u64.how-s-it-going",
+      "u64.i-m-beat",
+      "u64.that-sucks"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.no-way",
+      "u64.for-real",
+      "u64.my-bad",
+      "u64.no-worries",
+      "u64.i-m-down",
+      "u64.hang-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Conversación real entre amigos",
+     "scene": "🎧 Así suena una conversación de verdad. Escúchala varias veces.",
+     "lines": [
+      {
+       "who": "Jake",
+       "en": "Hey dude, what's up?",
+       "es": "Quiubo parce, ¿qué más?"
+      },
+      {
+       "who": "Matt",
+       "en": "Not much. I'm kinda tired. Whatcha doin' tonight?",
+       "es": "Nada, aquí. Estoy medio cansado. ¿Qué vas a hacer esta noche?"
+      },
+      {
+       "who": "Jake",
+       "en": "I dunno. Wanna grab some pizza?",
+       "es": "No sé. ¿Quieres que vayamos por una pizza?"
+      },
+      {
+       "who": "Matt",
+       "en": "I'm down, but I gotta finish this report first. Gimme an hour.",
+       "es": "Me apunto, pero tengo que terminar este informe primero. Dame una hora."
+      },
+      {
+       "who": "Jake",
+       "en": "No worries. Lemme know when you're ready.",
+       "es": "Tranquilo. Avísame cuando estés listo."
+      },
+      {
+       "who": "Matt",
+       "en": "Gotcha. See ya!",
+       "es": "Listo. ¡Nos vemos!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l10",
+   "title": "10. It's no big deal, Hold on a sec, You know what I mean?…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u64.it-s-no-big-deal",
+    "u64.hold-on-a-sec",
+    "u64.you-know-what-i-mean",
+    "u64.i-mean",
+    "u64.like-filler"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.you-know-what-i-mean",
+      "u64.i-mean"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.like-filler"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec",
+      "u64.you-know-what-i-mean",
+      "u64.i-mean",
+      "u64.like-filler"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec",
+      "u64.you-know-what-i-mean",
+      "u64.i-mean",
+      "u64.like-filler"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec",
+      "u64.you-know-what-i-mean",
+      "u64.i-mean",
+      "u64.like-filler"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.hang-on",
+      "u64.what-s-up",
+      "u64.not-much",
+      "u64.how-s-it-going",
+      "u64.i-m-beat",
+      "u64.that-sucks"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-l11",
+   "title": "11. basically, literally, whatever",
+   "focus": "reading",
+   "newItems": [
+    "u64.basically",
+    "u64.literally",
+    "u64.whatever"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u64.basically",
+      "u64.literally"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.whatever"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.basically",
+      "u64.literally",
+      "u64.whatever"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.basically",
+      "u64.literally",
+      "u64.whatever"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.basically",
+      "u64.literally",
+      "u64.whatever"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.that-sucks",
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec",
+      "u64.you-know-what-i-mean",
+      "u64.i-mean",
+      "u64.like-filler"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u64-ingles-real-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Primer mes en Estados Unidos",
+     "emoji": "🇺🇸",
+     "paragraphs": [
+      {
+       "en": "When Camilo arrived in Texas, he thought his English was pretty good. He had studied for years.",
+       "es": "Cuando Camilo llegó a Texas, pensaba que su inglés era bastante bueno. Había estudiado por años."
+      },
+      {
+       "en": "But on his first day, his neighbor said, \"Hey y'all, whatcha gonna do this weekend?\"",
+       "es": "Pero el primer día su vecino dijo: \"Hey y'all, whatcha gonna do this weekend?\""
+      },
+      {
+       "en": "Camilo didn't understand a single word. He just smiled and said, \"Yes!\"",
+       "es": "Camilo no entendió ni una palabra. Solo sonrió y dijo: \"¡Sí!\""
+      },
+      {
+       "en": "He realized that people don't speak like textbooks. They connect words, shorten them and use a lotta slang.",
+       "es": "Se dio cuenta de que la gente no habla como los libros. Unen palabras, las acortan y usan mucha jerga."
+      },
+      {
+       "en": "So he started watching series with English subtitles and repeating the dialogues out loud.",
+       "es": "Así que empezó a ver series con subtítulos en inglés y a repetir los diálogos en voz alta."
+      },
+      {
+       "en": "After three months he could follow conversations easily. \"Now I'm kinda used to it,\" he says, laughing.",
+       "es": "Después de tres meses podía seguir conversaciones fácilmente. \"Ahora como que ya me acostumbré\", dice riéndose."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué Camilo no entendió al vecino?",
+       "options": [
+        "Porque el vecino hablaba otro idioma",
+        "Porque los nativos unen y acortan palabras",
+        "Porque había mucho ruido"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hizo para mejorar?",
+       "options": [
+        "Ver series con subtítulos en inglés y repetir diálogos",
+        "Leer gramática",
+        "Nada"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cuánto tiempo le tomó?",
+       "options": [
+        "Una semana",
+        "Tres meses",
+        "Dos años"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Responder como nativo",
+     "scene": "🎮 Un amigo gringo te escribe por chat de juego.",
+     "turns": [
+      {
+       "who": "Tyler",
+       "en": "yo whatcha doin?",
+       "es": "oye qué haces?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Not much, just chillin'. Wanna play?",
+         "es": "Nada, aquí relajado. ¿Quieres jugar?",
+         "ok": true
+        },
+        {
+         "en": "I am realizing activities of rest.",
+         "es": "Estoy realizando actividades de descanso.",
+         "ok": false,
+         "why": "Demasiado formal para un chat entre amigos."
+        }
+       ]
+      },
+      {
+       "who": "Tyler",
+       "en": "yeah but I gotta eat first. gimme 10 min",
+       "es": "sí pero tengo que comer primero. dame 10 min"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No worries. Lemme know when you're ready.",
+         "es": "Tranquilo. Avísame cuando estés listo.",
+         "ok": true
+        },
+        {
+         "en": "No. You must play now.",
+         "es": "No. Debes jugar ya.",
+         "ok": false,
+         "why": "Suena brusco e inapropiado."
+        }
+       ]
+      },
+      {
+       "who": "Tyler",
+       "en": "my bad, I dunno if I can play tonight. my mom's mad lol",
+       "es": "mi culpa, no sé si pueda jugar esta noche. mi mamá está brava jaja"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That sucks. It's no big deal, we can play tomorrow.",
+         "es": "Qué mamera. No es para tanto, podemos jugar mañana.",
+         "ok": true
+        },
+        {
+         "en": "Congratulations!",
+         "es": "¡Felicitaciones!",
+         "ok": false,
+         "why": "No encaja con la situación."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Escribe formal: \"Voy a llamarte mañana.\"",
+     "en": "I'm going to call you tomorrow.",
+     "accept": [
+      "I am going to call you tomorrow.",
+      "I'll call you tomorrow."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Escribe formal: \"No sé.\"",
+     "en": "I don't know.",
+     "accept": [
+      "I do not know."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Escribe formal: \"Tengo que irme.\"",
+     "en": "I have to go.",
+     "accept": [
+      "I've got to go.",
+      "I have got to go."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I'm gonna grab some coffee. Wanna come?",
+     "es": "Voy a tomarme un café. ¿Quieres venir?"
+    },
+    {
+     "type": "dictation",
+     "en": "I dunno, I'm kinda tired.",
+     "es": "No sé, estoy medio cansado."
+    },
+    {
+     "type": "speak",
+     "en": "Hey, what's up? I'm gonna be a little late.",
+     "es": "Hola, ¿qué más? Voy a llegar un poco tarde.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec",
+      "u64.you-know-what-i-mean",
+      "u64.i-mean",
+      "u64.like-filler",
+      "u64.basically",
+      "u64.literally",
+      "u64.whatever"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

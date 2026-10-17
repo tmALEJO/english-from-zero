@@ -36,6 +36,11 @@ export default function ProgressPage() {
               <span className="muted">{lv.done}/{total}</span>
             </header>
             <ProgressBar value={total ? lv.done / total : 0} label={`Avance ${lv.id}`} />
+            {lv.finalExam && (
+              lv.certified
+                ? <p className="lvl__cert">🏅 Nivel certificado</p>
+                : <Link to={`/examen/${lv.finalExam.id}`} className="btn btn--ghost btn--sm">Examen final {lv.id}</Link>
+            )}
             <ul className="cando-list">
               {lv.canDo.map((c) => (
                 <li key={c.unitId} className={c.done ? 'is-done' : c.planned ? 'is-planned' : ''}>

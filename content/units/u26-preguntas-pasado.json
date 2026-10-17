@@ -1,0 +1,1241 @@
+{
+ "_generated": true,
+ "id": "u26-preguntas-pasado",
+ "level": "A2",
+ "title": "Preguntar por el pasado",
+ "emoji": "🔎",
+ "canDo": "Ya puedo preguntar qué pasó y negar en pasado",
+ "summary": "did / didn't para preguntas y negaciones en pasado, y las preguntas con wh-.",
+ "grammar": [
+  "Did / didn't",
+  "Wh- questions en pasado"
+ ],
+ "items": [
+  {
+   "id": "u26.did-you-see-it",
+   "en": "Did you see it?",
+   "es": "¿Lo viste?",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u26.yes-i-did",
+   "en": "Yes, I did",
+   "es": "Sí (en pasado)",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u26.no-i-didn-t",
+   "en": "No, I didn't",
+   "es": "No (en pasado)",
+   "kind": "chunk",
+   "emoji": "👎",
+   "say": "nóu, ai dí-dent"
+  },
+  {
+   "id": "u26.i-didn-t-go",
+   "en": "I didn't go",
+   "es": "No fui",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u26.what-did-you-do",
+   "en": "What did you do?",
+   "es": "¿Qué hiciste?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u26.where-did-you-go",
+   "en": "Where did you go?",
+   "es": "¿A dónde fuiste?",
+   "kind": "chunk",
+   "emoji": "🗺️"
+  },
+  {
+   "id": "u26.when-did-it-happen",
+   "en": "When did it happen?",
+   "es": "¿Cuándo pasó?",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u26.why-did-you-leave",
+   "en": "Why did you leave?",
+   "es": "¿Por qué te fuiste?",
+   "kind": "chunk",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u26.who-did-you-meet",
+   "en": "Who did you meet?",
+   "es": "¿A quién conociste?",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u26.how-did-you-know",
+   "en": "How did you know?",
+   "es": "¿Cómo supiste?",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u26.what-happened",
+   "en": "What happened?",
+   "es": "¿Qué pasó?",
+   "kind": "chunk",
+   "emoji": "😮",
+   "say": "uát já-pend"
+  },
+  {
+   "id": "u26.because",
+   "en": "because",
+   "es": "porque",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "bi-kós"
+  },
+  {
+   "id": "u26.happen",
+   "en": "happen",
+   "es": "pasar / suceder",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "já-pen"
+  },
+  {
+   "id": "u26.accident",
+   "en": "accident",
+   "es": "accidente",
+   "kind": "word",
+   "emoji": "💥",
+   "say": "ák-si-dent"
+  },
+  {
+   "id": "u26.problem",
+   "en": "problem",
+   "es": "problema",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "pró-blem"
+  },
+  {
+   "id": "u26.news",
+   "en": "news",
+   "es": "noticias",
+   "kind": "word",
+   "emoji": "📰",
+   "say": "niús"
+  },
+  {
+   "id": "u26.story",
+   "en": "story",
+   "es": "historia / cuento",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "stó-ri"
+  },
+  {
+   "id": "u26.truth",
+   "en": "truth",
+   "es": "verdad",
+   "kind": "word",
+   "emoji": "✔️",
+   "say": "truz"
+  },
+  {
+   "id": "u26.lie",
+   "en": "lie",
+   "es": "mentira / mentir",
+   "kind": "word",
+   "emoji": "🤥",
+   "say": "lái"
+  },
+  {
+   "id": "u26.secret",
+   "en": "secret",
+   "es": "secreto",
+   "kind": "word",
+   "emoji": "🤫",
+   "say": "síi-kret"
+  },
+  {
+   "id": "u26.mistake",
+   "en": "mistake",
+   "es": "error",
+   "kind": "word",
+   "emoji": "❌",
+   "say": "mis-téik"
+  },
+  {
+   "id": "u26.answer",
+   "en": "answer",
+   "es": "respuesta / responder",
+   "kind": "word",
+   "emoji": "🅰️",
+   "say": "án-ser"
+  },
+  {
+   "id": "u26.question",
+   "en": "question",
+   "es": "pregunta",
+   "kind": "word",
+   "emoji": "❓",
+   "say": "kués-chon"
+  },
+  {
+   "id": "u26.remember",
+   "en": "remember",
+   "es": "recordar",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "ri-mém-ber"
+  },
+  {
+   "id": "u26.believe",
+   "en": "believe",
+   "es": "creer",
+   "kind": "word",
+   "emoji": "🙏",
+   "say": "bi-líiv"
+  },
+  {
+   "id": "u26.explain",
+   "en": "explain",
+   "es": "explicar",
+   "kind": "word",
+   "emoji": "🧑‍🏫",
+   "say": "eks-pléin"
+  },
+  {
+   "id": "u26.ask",
+   "en": "ask",
+   "es": "preguntar / pedir",
+   "kind": "word",
+   "emoji": "🙋",
+   "say": "ask"
+  },
+  {
+   "id": "u26.agree",
+   "en": "agree",
+   "es": "estar de acuerdo",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "a-gríi"
+  },
+  {
+   "id": "u26.anybody",
+   "en": "anybody",
+   "es": "alguien / nadie (en preguntas y negativos)",
+   "kind": "word",
+   "emoji": "👤",
+   "say": "é-ni-ba-di"
+  },
+  {
+   "id": "u26.nothing",
+   "en": "nothing",
+   "es": "nada",
+   "kind": "word",
+   "emoji": "🫥",
+   "say": "ná-zing"
+  },
+  {
+   "id": "u26.something",
+   "en": "something",
+   "es": "algo",
+   "kind": "word",
+   "emoji": "🎁",
+   "say": "sám-zing"
+  },
+  {
+   "id": "u26.somewhere",
+   "en": "somewhere",
+   "es": "en algún lugar",
+   "kind": "word",
+   "emoji": "📍",
+   "say": "sám-uer"
+  },
+  {
+   "id": "u26.everybody",
+   "en": "everybody",
+   "es": "todo el mundo",
+   "kind": "word",
+   "emoji": "👨‍👩‍👧‍👦",
+   "say": "év-ri-ba-di"
+  },
+  {
+   "id": "u26.i-don-t-remember",
+   "en": "I don't remember",
+   "es": "No me acuerdo",
+   "kind": "chunk",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u26.are-you-sure",
+   "en": "Are you sure?",
+   "es": "¿Estás seguro?",
+   "kind": "chunk",
+   "emoji": "🧐"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u26-preguntas-pasado-l1",
+   "title": "1. Did you see it?, Yes, I did, No, I didn't…",
+   "focus": "listening",
+   "newItems": [
+    "u26.did-you-see-it",
+    "u26.yes-i-did",
+    "u26.no-i-didn-t",
+    "u26.i-didn-t-go"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.did-you-see-it",
+      "u26.yes-i-did"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.no-i-didn-t",
+      "u26.i-didn-t-go"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.did-you-see-it",
+      "u26.yes-i-did",
+      "u26.no-i-didn-t",
+      "u26.i-didn-t-go"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.did-you-see-it",
+      "u26.yes-i-did",
+      "u26.no-i-didn-t",
+      "u26.i-didn-t-go"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l2",
+   "title": "2. What did you do?, Where did you go?, When did it happen?…",
+   "focus": "grammar",
+   "newItems": [
+    "u26.what-did-you-do",
+    "u26.where-did-you-go",
+    "u26.when-did-it-happen",
+    "u26.why-did-you-leave"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.what-did-you-do",
+      "u26.where-did-you-go"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.when-did-it-happen",
+      "u26.why-did-you-leave"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.what-did-you-do",
+      "u26.where-did-you-go",
+      "u26.when-did-it-happen",
+      "u26.why-did-you-leave"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.what-did-you-do",
+      "u26.where-did-you-go",
+      "u26.when-did-it-happen",
+      "u26.why-did-you-leave"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.did-you-see-it",
+      "u26.yes-i-did",
+      "u26.no-i-didn-t",
+      "u26.i-didn-t-go"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "did / didn't",
+     "intro": "Mira cómo se pregunta y se niega en pasado.",
+     "examples": [
+      {
+       "en": "Did you go to the party? Yes, I did.",
+       "es": "¿Fuiste a la fiesta? Sí.",
+       "mark": [
+        "Did"
+       ]
+      },
+      {
+       "en": "Did she call you? No, she didn't.",
+       "es": "¿Ella te llamó? No.",
+       "mark": [
+        "Did",
+        "didn't"
+       ]
+      },
+      {
+       "en": "I didn't see the news.",
+       "es": "No vi las noticias.",
+       "mark": [
+        "didn't"
+       ]
+      },
+      {
+       "en": "Where did you go?",
+       "es": "¿A dónde fuiste?",
+       "mark": [
+        "did"
+       ]
+      },
+      {
+       "en": "He didn't eat breakfast.",
+       "es": "Él no desayunó.",
+       "mark": [
+        "didn't"
+       ]
+      }
+     ],
+     "question": "Después de did / didn't, el verbo va…",
+     "options": [
+      "En pasado (went, saw)",
+      "En su forma normal (go, see)",
+      "Con -ing"
+     ],
+     "answer": 1,
+     "rule": "En pasado, las preguntas y negaciones usan did / didn't, y el verbo vuelve a su forma normal: Did you go? (no 'Did you went?'), I didn't see (no 'I didn't saw'). El pasado ya está en did.",
+     "ruleExamples": [
+      {
+       "en": "What did you do yesterday? I didn't do anything.",
+       "es": "¿Qué hiciste ayer? No hice nada."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Did you ___ the movie?",
+     "options": [
+      "see",
+      "saw"
+     ],
+     "answer": 0,
+     "es": "¿Viste la película?"
+    },
+    {
+     "type": "fill",
+     "en": "I didn't ___ to work yesterday.",
+     "options": [
+      "go",
+      "went"
+     ],
+     "answer": 0,
+     "es": "Ayer no fui al trabajo."
+    },
+    {
+     "type": "fill",
+     "en": "Where ___ you buy that jacket?",
+     "options": [
+      "did",
+      "were"
+     ],
+     "answer": 0,
+     "es": "¿Dónde compraste esa chaqueta?"
+    },
+    {
+     "type": "fill",
+     "en": "She ___ answer my message.",
+     "options": [
+      "didn't",
+      "don't"
+     ],
+     "answer": 0,
+     "es": "Ella no contestó mi mensaje."
+    },
+    {
+     "type": "fill",
+     "en": "Why did they ___ early?",
+     "options": [
+      "leave",
+      "left"
+     ],
+     "answer": 0,
+     "es": "¿Por qué se fueron temprano?"
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l3",
+   "title": "3. Who did you meet?, How did you know?, What happened?…",
+   "focus": "reading",
+   "newItems": [
+    "u26.who-did-you-meet",
+    "u26.how-did-you-know",
+    "u26.what-happened",
+    "u26.because"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.who-did-you-meet",
+      "u26.how-did-you-know"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.what-happened",
+      "u26.because"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.who-did-you-meet",
+      "u26.how-did-you-know",
+      "u26.what-happened",
+      "u26.because"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.who-did-you-meet",
+      "u26.how-did-you-know",
+      "u26.what-happened",
+      "u26.because"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.no-i-didn-t",
+      "u26.i-didn-t-go",
+      "u26.what-did-you-do",
+      "u26.where-did-you-go",
+      "u26.when-did-it-happen",
+      "u26.why-did-you-leave"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l4",
+   "title": "4. happen, accident, problem…",
+   "focus": "listening",
+   "newItems": [
+    "u26.happen",
+    "u26.accident",
+    "u26.problem",
+    "u26.news"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.happen",
+      "u26.accident"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.problem",
+      "u26.news"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.happen",
+      "u26.accident",
+      "u26.problem",
+      "u26.news"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.happen",
+      "u26.accident",
+      "u26.problem",
+      "u26.news"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.when-did-it-happen",
+      "u26.why-did-you-leave",
+      "u26.who-did-you-meet",
+      "u26.how-did-you-know",
+      "u26.what-happened",
+      "u26.because"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l5",
+   "title": "5. story, truth, lie…",
+   "focus": "listening",
+   "newItems": [
+    "u26.story",
+    "u26.truth",
+    "u26.lie",
+    "u26.secret"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.story",
+      "u26.truth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.lie",
+      "u26.secret"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.story",
+      "u26.truth",
+      "u26.lie",
+      "u26.secret"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.story",
+      "u26.truth",
+      "u26.lie",
+      "u26.secret"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.what-happened",
+      "u26.because",
+      "u26.happen",
+      "u26.accident",
+      "u26.problem",
+      "u26.news"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l6",
+   "title": "6. mistake, answer, question…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u26.mistake",
+    "u26.answer",
+    "u26.question",
+    "u26.remember"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.mistake",
+      "u26.answer"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.question",
+      "u26.remember"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.mistake",
+      "u26.answer",
+      "u26.question",
+      "u26.remember"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.mistake",
+      "u26.answer",
+      "u26.question",
+      "u26.remember"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.problem",
+      "u26.news",
+      "u26.story",
+      "u26.truth",
+      "u26.lie",
+      "u26.secret"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l7",
+   "title": "7. believe, explain, ask…",
+   "focus": "reading",
+   "newItems": [
+    "u26.believe",
+    "u26.explain",
+    "u26.ask",
+    "u26.agree"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.believe",
+      "u26.explain"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.ask",
+      "u26.agree"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.believe",
+      "u26.explain",
+      "u26.ask",
+      "u26.agree"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.believe",
+      "u26.explain",
+      "u26.ask",
+      "u26.agree"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.lie",
+      "u26.secret",
+      "u26.mistake",
+      "u26.answer",
+      "u26.question",
+      "u26.remember"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Qué pasó anoche?",
+     "scene": "🕵️ Tu compañera de apartamento encuentra la cocina desordenada.",
+     "lines": [
+      {
+       "who": "Eva",
+       "en": "What happened in the kitchen?",
+       "es": "¿Qué pasó en la cocina?"
+      },
+      {
+       "who": "You",
+       "en": "I don't know. I didn't cook last night.",
+       "es": "No sé. Anoche no cociné."
+      },
+      {
+       "who": "Eva",
+       "en": "Did you invite anybody?",
+       "es": "¿Invitaste a alguien?"
+      },
+      {
+       "who": "You",
+       "en": "No, I didn't. Wait… Did you leave the window open?",
+       "es": "No. Espera… ¿Dejaste la ventana abierta?"
+      },
+      {
+       "who": "Eva",
+       "en": "Yes, I did. Why?",
+       "es": "Sí. ¿Por qué?"
+      },
+      {
+       "who": "You",
+       "en": "Because the neighbor's cat came in!",
+       "es": "¡Porque se entró el gato del vecino!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l8",
+   "title": "8. anybody, nothing, something…",
+   "focus": "listening",
+   "newItems": [
+    "u26.anybody",
+    "u26.nothing",
+    "u26.something",
+    "u26.somewhere"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.anybody",
+      "u26.nothing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.something",
+      "u26.somewhere"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.anybody",
+      "u26.nothing",
+      "u26.something",
+      "u26.somewhere"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.anybody",
+      "u26.nothing",
+      "u26.something",
+      "u26.somewhere"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.question",
+      "u26.remember",
+      "u26.believe",
+      "u26.explain",
+      "u26.ask",
+      "u26.agree"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-l9",
+   "title": "9. everybody, I don't remember, Are you sure?",
+   "focus": "listening",
+   "newItems": [
+    "u26.everybody",
+    "u26.i-don-t-remember",
+    "u26.are-you-sure"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u26.everybody",
+      "u26.i-don-t-remember"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u26.are-you-sure"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.everybody",
+      "u26.i-don-t-remember",
+      "u26.are-you-sure"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.everybody",
+      "u26.i-don-t-remember",
+      "u26.are-you-sure"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.ask",
+      "u26.agree",
+      "u26.anybody",
+      "u26.nothing",
+      "u26.something",
+      "u26.somewhere"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u26-preguntas-pasado-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El misterio del pastel",
+     "emoji": "🎂",
+     "paragraphs": [
+      {
+       "en": "On Sunday Grandma made a chocolate cake for the family.",
+       "es": "El domingo la abuela hizo un pastel de chocolate para la familia."
+      },
+      {
+       "en": "She put it on the table and went to the garden.",
+       "es": "Lo puso en la mesa y se fue al jardín."
+      },
+      {
+       "en": "When she came back, half of the cake wasn't there!",
+       "es": "Cuando volvió, ¡la mitad del pastel no estaba!"
+      },
+      {
+       "en": "\"Who ate my cake?\" she asked. Nobody answered.",
+       "es": "\"¿Quién se comió mi pastel?\", preguntó. Nadie contestó."
+      },
+      {
+       "en": "\"Did you eat it, Tom?\" \"No, I didn't! I was in my room.\"",
+       "es": "\"¿Te lo comiste tú, Tom?\" \"¡No! Estaba en mi cuarto.\""
+      },
+      {
+       "en": "Then she saw the dog. Its nose was brown with chocolate!",
+       "es": "Entonces vio al perro. ¡Tenía la nariz café de chocolate!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué hizo la abuela?",
+       "options": [
+        "Un pastel de chocolate",
+        "Una sopa",
+        "Pan"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Dónde estaba Tom?",
+       "options": [
+        "En el jardín",
+        "En su cuarto",
+        "En la cocina"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Quién se comió el pastel?",
+       "options": [
+        "Tom",
+        "El perro",
+        "La abuela"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "El testigo",
+     "scene": "👮 Viste un pequeño accidente en la calle y un policía te pregunta.",
+     "turns": [
+      {
+       "who": "Officer",
+       "en": "Excuse me, did you see the accident?",
+       "es": "Disculpe, ¿vio el accidente?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I did. I was at the bus stop.",
+         "es": "Sí. Estaba en la parada del bus.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I saw it tomorrow.",
+         "es": "Sí, lo vi mañana.",
+         "ok": false,
+         "why": "\"Tomorrow\" es futuro."
+        }
+       ]
+      },
+      {
+       "who": "Officer",
+       "en": "What happened?",
+       "es": "¿Qué pasó?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "A motorcycle didn't stop at the red light.",
+         "es": "Una moto no paró en el semáforo en rojo.",
+         "ok": true
+        },
+        {
+         "en": "A motorcycle didn't stopped.",
+         "es": "Una moto no paró.",
+         "ok": false,
+         "why": "Después de didn't, el verbo va en forma normal: stop."
+        }
+       ]
+      },
+      {
+       "who": "Officer",
+       "en": "Did the driver leave?",
+       "es": "¿El conductor se fue?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No, he didn't. He is over there.",
+         "es": "No. Está allá.",
+         "ok": true
+        },
+        {
+         "en": "No, he don't.",
+         "es": "No, él no (presente).",
+         "ok": false,
+         "why": "En pasado: \"No, he didn't\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Qué hiciste ayer?",
+     "en": "What did you do yesterday?"
+    },
+    {
+     "type": "write",
+     "es": "No fui a la fiesta.",
+     "en": "I didn't go to the party.",
+     "accept": [
+      "I did not go to the party."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿A dónde fueron ustedes?",
+     "en": "Where did you go?"
+    },
+    {
+     "type": "dictation",
+     "en": "Did you remember my birthday?",
+     "es": "¿Te acordaste de mi cumpleaños?"
+    },
+    {
+     "type": "dictation",
+     "en": "I didn't understand the question.",
+     "es": "No entendí la pregunta."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u26.agree",
+      "u26.anybody",
+      "u26.nothing",
+      "u26.something",
+      "u26.somewhere",
+      "u26.everybody",
+      "u26.i-don-t-remember",
+      "u26.are-you-sure"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

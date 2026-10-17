@@ -1,0 +1,1328 @@
+{
+ "_generated": true,
+ "id": "u80-fluidez",
+ "level": "C1",
+ "title": "Fluidez y pensamiento en inglés",
+ "emoji": "🧠",
+ "canDo": "Ya puedo expresarme con fluidez, ganar tiempo y reformular con naturalidad",
+ "summary": "Discourse markers, muletillas naturales, cómo ganar tiempo y reformular para sonar fluido y espontáneo.",
+ "grammar": [
+  "Discourse markers",
+  "Fillers y reformulación"
+ ],
+ "items": [
+  {
+   "id": "u80.anyway",
+   "en": "anyway",
+   "es": "en fin / como sea",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "é-ni-uei"
+  },
+  {
+   "id": "u80.you-know",
+   "en": "you know",
+   "es": "sabes / ¿cómo te digo?",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u80.sort-of",
+   "en": "sort of",
+   "es": "como que / más o menos",
+   "kind": "chunk",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u80.kind-of",
+   "en": "kind of",
+   "es": "como que / medio",
+   "kind": "chunk",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u80.let-me-think",
+   "en": "let me think",
+   "es": "déjame pensar",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u80.let-me-see",
+   "en": "let me see",
+   "es": "a ver",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u80.how-can-i-put-it",
+   "en": "how can I put it",
+   "es": "cómo lo digo",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u80.the-thing-is",
+   "en": "the thing is",
+   "es": "la cosa es que",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u80.the-point-is",
+   "en": "the point is",
+   "es": "el punto es que",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u80.what-i-m-trying-to-say",
+   "en": "what I'm trying to say",
+   "es": "lo que intento decir",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "u80.in-other-words",
+   "en": "in other words",
+   "es": "en otras palabras",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u80.that-is-to-say",
+   "en": "that is to say",
+   "es": "es decir",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u80.or-rather",
+   "en": "or rather",
+   "es": "o más bien",
+   "kind": "chunk",
+   "emoji": "↩️"
+  },
+  {
+   "id": "u80.come-to-think-of-it",
+   "en": "come to think of it",
+   "es": "ahora que lo pienso",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u80.speaking-of-which",
+   "en": "speaking of which",
+   "es": "hablando de eso",
+   "kind": "chunk",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u80.by-the-way",
+   "en": "by the way",
+   "es": "por cierto",
+   "kind": "chunk",
+   "emoji": "📎"
+  },
+  {
+   "id": "u80.as-i-was-saying",
+   "en": "as I was saying",
+   "es": "como decía",
+   "kind": "chunk",
+   "emoji": "🔙"
+  },
+  {
+   "id": "u80.where-was-i",
+   "en": "where was I",
+   "es": "¿en qué iba?",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u80.to-cut-a-long-story-short",
+   "en": "to cut a long story short",
+   "es": "para resumir",
+   "kind": "chunk",
+   "emoji": "✂️"
+  },
+  {
+   "id": "u80.at-the-end-of-the-day",
+   "en": "at the end of the day",
+   "es": "a fin de cuentas",
+   "kind": "chunk",
+   "emoji": "🌅"
+  },
+  {
+   "id": "u80.all-things-considered",
+   "en": "all things considered",
+   "es": "considerándolo todo",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u80.on-second-thought",
+   "en": "on second thought",
+   "es": "pensándolo bien",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u80.mind-you",
+   "en": "mind you",
+   "es": "eso sí / ten en cuenta",
+   "kind": "chunk",
+   "emoji": "☝️"
+  },
+  {
+   "id": "u80.having-said-that",
+   "en": "having said that",
+   "es": "dicho esto",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u80.granted",
+   "en": "granted",
+   "es": "de acuerdo / es cierto",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "grán-ted"
+  },
+  {
+   "id": "u80.fair-enough",
+   "en": "fair enough",
+   "es": "me parece justo",
+   "kind": "chunk",
+   "emoji": "👌"
+  },
+  {
+   "id": "u80.i-take-your-point",
+   "en": "I take your point",
+   "es": "entiendo tu punto",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u80.that-s-a-good-question",
+   "en": "that's a good question",
+   "es": "buena pregunta",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u80.off-the-top-of-my-head",
+   "en": "off the top of my head",
+   "es": "así de memoria",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u80.if-i-m-not-mistaken",
+   "en": "if I'm not mistaken",
+   "es": "si no me equivoco",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u80.correct-me-if-i-m-wrong",
+   "en": "correct me if I'm wrong",
+   "es": "corrígeme si me equivoco",
+   "kind": "chunk",
+   "emoji": "✏️"
+  },
+  {
+   "id": "u80.don-t-get-me-wrong",
+   "en": "don't get me wrong",
+   "es": "no me malinterpretes",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u80.that-reminds-me",
+   "en": "that reminds me",
+   "es": "eso me recuerda",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u80.long-story-short",
+   "en": "long story short",
+   "es": "para resumir",
+   "kind": "chunk",
+   "emoji": "✂️"
+  },
+  {
+   "id": "u80.needless-to-say",
+   "en": "needless to say",
+   "es": "ni qué decir",
+   "kind": "chunk",
+   "emoji": "💯"
+  },
+  {
+   "id": "u80.as-far-as-i-m-concerned",
+   "en": "as far as I'm concerned",
+   "es": "en lo que a mí respecta",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u80.when-it-comes-to",
+   "en": "when it comes to",
+   "es": "cuando se trata de",
+   "kind": "chunk",
+   "emoji": "🎯"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u80-fluidez-l1",
+   "title": "1. anyway, you know, sort of…",
+   "focus": "listening",
+   "newItems": [
+    "u80.anyway",
+    "u80.you-know",
+    "u80.sort-of",
+    "u80.kind-of",
+    "u80.let-me-think"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.anyway",
+      "u80.you-know"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.sort-of",
+      "u80.kind-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.let-me-think"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.anyway",
+      "u80.you-know",
+      "u80.sort-of",
+      "u80.kind-of",
+      "u80.let-me-think"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.anyway",
+      "u80.you-know",
+      "u80.sort-of",
+      "u80.kind-of",
+      "u80.let-me-think"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.anyway",
+      "u80.you-know",
+      "u80.sort-of",
+      "u80.kind-of",
+      "u80.let-me-think"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-l2",
+   "title": "2. let me see, how can I put it, the thing is…",
+   "focus": "grammar",
+   "newItems": [
+    "u80.let-me-see",
+    "u80.how-can-i-put-it",
+    "u80.the-thing-is",
+    "u80.the-point-is",
+    "u80.what-i-m-trying-to-say"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.let-me-see",
+      "u80.how-can-i-put-it"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.the-thing-is",
+      "u80.the-point-is"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.what-i-m-trying-to-say"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.let-me-see",
+      "u80.how-can-i-put-it",
+      "u80.the-thing-is",
+      "u80.the-point-is",
+      "u80.what-i-m-trying-to-say"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.let-me-see",
+      "u80.how-can-i-put-it",
+      "u80.the-thing-is",
+      "u80.the-point-is",
+      "u80.what-i-m-trying-to-say"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.let-me-see",
+      "u80.how-can-i-put-it",
+      "u80.the-thing-is",
+      "u80.the-point-is",
+      "u80.what-i-m-trying-to-say"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.anyway",
+      "u80.you-know",
+      "u80.sort-of",
+      "u80.kind-of",
+      "u80.let-me-think"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Ganar tiempo y reformular",
+     "intro": "Los fluidos no hablan perfecto: usan muletillas para pensar y reformular sobre la marcha.",
+     "examples": [
+      {
+       "en": "\"What do you do?\" \"Well, I'm sort of a developer, I mean, I build apps.\"",
+       "es": "\"¿A qué te dedicas?\" \"Pues, soy como un desarrollador, o sea, hago apps.\"",
+       "mark": [
+        "Well",
+        "sort of",
+        "I mean"
+       ]
+      },
+      {
+       "en": "\"Why did you move?\" \"Hmm, let me think… basically, for work.\"",
+       "es": "\"¿Por qué te mudaste?\" \"Mmm, déjame pensar… básicamente, por trabajo.\"",
+       "mark": [
+        "let me think",
+        "basically"
+       ]
+      },
+      {
+       "en": "\"The thing is, I'm not sure I agree. Having said that, you have a point.\"",
+       "es": "\"La cosa es que no estoy seguro de estar de acuerdo. Dicho esto, tienes razón.\"",
+       "mark": [
+        "The thing is",
+        "Having said that"
+       ]
+      },
+      {
+       "en": "\"To cut a long story short, we didn't go.\"",
+       "es": "\"Para resumir, no fuimos.\"",
+       "mark": [
+        "To cut a long story short"
+       ]
+      },
+      {
+       "en": "\"Off the top of my head, I'd say about fifty.\"",
+       "es": "\"Así de memoria, diría que unos cincuenta.\"",
+       "mark": [
+        "Off the top of my head"
+       ]
+      }
+     ],
+     "question": "¿Para qué sirven las muletillas como 'well', 'I mean', 'let me think'?",
+     "options": [
+      "Para ganar tiempo y sonar natural mientras piensas",
+      "Para rellenar sin sentido",
+      "Solo en escritura formal"
+     ],
+     "answer": 0,
+     "rule": "Los DISCOURSE MARKERS y FILLERS (well, so, I mean, you know, actually) dan tiempo para pensar y conectan ideas, haciéndote sonar fluido y natural en vez de robótico. Para reformular: I mean, in other words, what I'm trying to say. No busques la frase perfecta: reformula sobre la marcha, como hacen los nativos.",
+     "ruleExamples": [
+      {
+       "en": "Well, the thing is, I'm not totally against it. I mean, it has advantages, but, you know, it's complicated.",
+       "es": "Pues, la cosa es que no estoy totalmente en contra. O sea, tiene ventajas, pero, sabes, es complicado."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "\"Well, ___ I'm trying to say is that it's complicated.\"",
+     "options": [
+      "what",
+      "that"
+     ],
+     "answer": 0,
+     "es": "\"Pues, lo que intento decir es que es complicado.\""
+    },
+    {
+     "type": "fill",
+     "en": "\"To cut a long story ___, we didn't win.\"",
+     "options": [
+      "short",
+      "small"
+     ],
+     "answer": 0,
+     "es": "\"Para resumir, no ganamos.\""
+    },
+    {
+     "type": "fill",
+     "en": "\"Off the ___ of my head, I'd say twenty.\"",
+     "options": [
+      "top",
+      "head"
+     ],
+     "answer": 0,
+     "es": "\"Así de memoria, diría que veinte.\""
+    },
+    {
+     "type": "fill",
+     "en": "\"I take your ___, but I still disagree.\"",
+     "options": [
+      "point",
+      "idea"
+     ],
+     "answer": 0,
+     "es": "\"Entiendo tu punto, pero aún no estoy de acuerdo.\""
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-l3",
+   "title": "3. in other words, that is to say, or rather…",
+   "focus": "reading",
+   "newItems": [
+    "u80.in-other-words",
+    "u80.that-is-to-say",
+    "u80.or-rather",
+    "u80.come-to-think-of-it",
+    "u80.speaking-of-which"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.in-other-words",
+      "u80.that-is-to-say"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.or-rather",
+      "u80.come-to-think-of-it"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.speaking-of-which"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.in-other-words",
+      "u80.that-is-to-say",
+      "u80.or-rather",
+      "u80.come-to-think-of-it",
+      "u80.speaking-of-which"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.in-other-words",
+      "u80.that-is-to-say",
+      "u80.or-rather",
+      "u80.come-to-think-of-it",
+      "u80.speaking-of-which"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.in-other-words",
+      "u80.that-is-to-say",
+      "u80.or-rather",
+      "u80.come-to-think-of-it",
+      "u80.speaking-of-which"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.let-me-think",
+      "u80.let-me-see",
+      "u80.how-can-i-put-it",
+      "u80.the-thing-is",
+      "u80.the-point-is",
+      "u80.what-i-m-trying-to-say"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-l4",
+   "title": "4. by the way, as I was saying, where was I…",
+   "focus": "listening",
+   "newItems": [
+    "u80.by-the-way",
+    "u80.as-i-was-saying",
+    "u80.where-was-i",
+    "u80.to-cut-a-long-story-short",
+    "u80.at-the-end-of-the-day"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.by-the-way",
+      "u80.as-i-was-saying"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.where-was-i",
+      "u80.to-cut-a-long-story-short"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.at-the-end-of-the-day"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.by-the-way",
+      "u80.as-i-was-saying",
+      "u80.where-was-i",
+      "u80.to-cut-a-long-story-short",
+      "u80.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.by-the-way",
+      "u80.as-i-was-saying",
+      "u80.where-was-i",
+      "u80.to-cut-a-long-story-short",
+      "u80.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.by-the-way",
+      "u80.as-i-was-saying",
+      "u80.where-was-i",
+      "u80.to-cut-a-long-story-short",
+      "u80.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.what-i-m-trying-to-say",
+      "u80.in-other-words",
+      "u80.that-is-to-say",
+      "u80.or-rather",
+      "u80.come-to-think-of-it",
+      "u80.speaking-of-which"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-l5",
+   "title": "5. all things considered, on second thought, mind you…",
+   "focus": "listening",
+   "newItems": [
+    "u80.all-things-considered",
+    "u80.on-second-thought",
+    "u80.mind-you",
+    "u80.having-said-that",
+    "u80.granted"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.all-things-considered",
+      "u80.on-second-thought"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.mind-you",
+      "u80.having-said-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.granted"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.all-things-considered",
+      "u80.on-second-thought",
+      "u80.mind-you",
+      "u80.having-said-that",
+      "u80.granted"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.all-things-considered",
+      "u80.on-second-thought",
+      "u80.mind-you",
+      "u80.having-said-that",
+      "u80.granted"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.all-things-considered",
+      "u80.on-second-thought",
+      "u80.mind-you",
+      "u80.having-said-that",
+      "u80.granted"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.speaking-of-which",
+      "u80.by-the-way",
+      "u80.as-i-was-saying",
+      "u80.where-was-i",
+      "u80.to-cut-a-long-story-short",
+      "u80.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🧠",
+     "title": "El secreto de la fluidez",
+     "text": "La fluidez no es hablar sin pausas, sino manejar las pausas con naturalidad. En vez de quedarte callado buscando una palabra, di 'how can I put it…' o reformula con 'I mean…'. Y empieza a pensar en inglés: nárrate tu día mentalmente, sin traducir."
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-l6",
+   "title": "6. fair enough, I take your point, that's a good question…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u80.fair-enough",
+    "u80.i-take-your-point",
+    "u80.that-s-a-good-question",
+    "u80.off-the-top-of-my-head",
+    "u80.if-i-m-not-mistaken"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.fair-enough",
+      "u80.i-take-your-point"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.that-s-a-good-question",
+      "u80.off-the-top-of-my-head"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.if-i-m-not-mistaken"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.fair-enough",
+      "u80.i-take-your-point",
+      "u80.that-s-a-good-question",
+      "u80.off-the-top-of-my-head",
+      "u80.if-i-m-not-mistaken"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.fair-enough",
+      "u80.i-take-your-point",
+      "u80.that-s-a-good-question",
+      "u80.off-the-top-of-my-head",
+      "u80.if-i-m-not-mistaken"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.fair-enough",
+      "u80.i-take-your-point",
+      "u80.that-s-a-good-question",
+      "u80.off-the-top-of-my-head",
+      "u80.if-i-m-not-mistaken"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.at-the-end-of-the-day",
+      "u80.all-things-considered",
+      "u80.on-second-thought",
+      "u80.mind-you",
+      "u80.having-said-that",
+      "u80.granted"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-l7",
+   "title": "7. correct me if I'm wrong, don't get me wrong, that reminds me…",
+   "focus": "reading",
+   "newItems": [
+    "u80.correct-me-if-i-m-wrong",
+    "u80.don-t-get-me-wrong",
+    "u80.that-reminds-me",
+    "u80.long-story-short",
+    "u80.needless-to-say"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.correct-me-if-i-m-wrong",
+      "u80.don-t-get-me-wrong"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.that-reminds-me",
+      "u80.long-story-short"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u80.needless-to-say"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.correct-me-if-i-m-wrong",
+      "u80.don-t-get-me-wrong",
+      "u80.that-reminds-me",
+      "u80.long-story-short",
+      "u80.needless-to-say"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.correct-me-if-i-m-wrong",
+      "u80.don-t-get-me-wrong",
+      "u80.that-reminds-me",
+      "u80.long-story-short",
+      "u80.needless-to-say"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.correct-me-if-i-m-wrong",
+      "u80.don-t-get-me-wrong",
+      "u80.that-reminds-me",
+      "u80.long-story-short",
+      "u80.needless-to-say"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.granted",
+      "u80.fair-enough",
+      "u80.i-take-your-point",
+      "u80.that-s-a-good-question",
+      "u80.off-the-top-of-my-head",
+      "u80.if-i-m-not-mistaken"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Conversación espontánea",
+     "scene": "☕ Una charla real, con muletillas naturales.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "So, how's the new job going?",
+       "es": "Entonces, ¿cómo va el nuevo trabajo?"
+      },
+      {
+       "who": "Leo",
+       "en": "Well, it's… how can I put it… intense, I guess.",
+       "es": "Pues, es… cómo lo digo… intenso, supongo."
+      },
+      {
+       "who": "Ana",
+       "en": "Intense in a good way?",
+       "es": "¿Intenso para bien?"
+      },
+      {
+       "who": "Leo",
+       "en": "Sort of. I mean, I'm learning a lot, but the hours are long. Having said that, the team is great.",
+       "es": "Como que sí. O sea, estoy aprendiendo mucho, pero los horarios son largos. Dicho esto, el equipo es buenísimo."
+      },
+      {
+       "who": "Ana",
+       "en": "Fair enough. At the end of the day, if you're learning, it's worth it.",
+       "es": "Me parece justo. A fin de cuentas, si estás aprendiendo, vale la pena."
+      },
+      {
+       "who": "Leo",
+       "en": "Exactly. Anyway, enough about me. How about you?",
+       "es": "Exacto. En fin, suficiente de mí. ¿Y tú qué?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-l8",
+   "title": "8. as far as I'm concerned, when it comes to",
+   "focus": "listening",
+   "newItems": [
+    "u80.as-far-as-i-m-concerned",
+    "u80.when-it-comes-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u80.as-far-as-i-m-concerned",
+      "u80.when-it-comes-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.as-far-as-i-m-concerned",
+      "u80.when-it-comes-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.as-far-as-i-m-concerned",
+      "u80.when-it-comes-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.as-far-as-i-m-concerned",
+      "u80.when-it-comes-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.if-i-m-not-mistaken",
+      "u80.correct-me-if-i-m-wrong",
+      "u80.don-t-get-me-wrong",
+      "u80.that-reminds-me",
+      "u80.long-story-short",
+      "u80.needless-to-say"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u80-fluidez-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Pensar en inglés",
+     "emoji": "💭",
+     "paragraphs": [
+      {
+       "en": "For years, Andrea translated everything in her head before speaking. It made her slow and nervous.",
+       "es": "Por años, Andrea traducía todo en su cabeza antes de hablar. Eso la hacía lenta y nerviosa."
+      },
+      {
+       "en": "Her teacher gave her a piece of advice that changed everything: \"Stop looking for the perfect word.\"",
+       "es": "Su profesora le dio un consejo que lo cambió todo: \"Deja de buscar la palabra perfecta.\""
+      },
+      {
+       "en": "\"When you don't know a word, don't freeze. Reformulate. Say it another way.\"",
+       "es": "\"Cuando no sepas una palabra, no te bloquees. Reformula. Dilo de otra forma.\""
+      },
+      {
+       "en": "So Andrea started filling her pauses with markers like \"well\" and \"I mean,\" and describing words she didn't know.",
+       "es": "Así que Andrea empezó a llenar sus pausas con muletillas como \"well\" e \"I mean\", y a describir las palabras que no sabía."
+      },
+      {
+       "en": "She also began to think directly in English, narrating her day in her head without translating.",
+       "es": "También empezó a pensar directamente en inglés, narrando su día en su cabeza sin traducir."
+      },
+      {
+       "en": "Six months later, a stranger asked if she had lived abroad. \"No,\" she smiled, \"I just stopped translating.\"",
+       "es": "Seis meses después, un desconocido le preguntó si había vivido en el extranjero. \"No\", sonrió, \"solo dejé de traducir.\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué hacía Andrea que la hacía lenta?",
+       "options": [
+        "Traducía todo en su cabeza antes de hablar",
+        "Hablaba muy rápido",
+        "No estudiaba"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué consejo le dio su profesora?",
+       "options": [
+        "Dejar de buscar la palabra perfecta y reformular",
+        "Memorizar listas",
+        "Hablar menos"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué le preguntó un desconocido al final?",
+       "options": [
+        "Si había vivido en el extranjero",
+        "De dónde era",
+        "Qué hora era"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Mantener la conversación fluida",
+     "scene": "💬 Un amigo nuevo te hace una pregunta inesperada.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "So, what's your opinion on artificial intelligence?",
+       "es": "Entonces, ¿cuál es tu opinión sobre la inteligencia artificial?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Hmm, that's a good question. Let me think… I'd say it's a double-edged sword.",
+         "es": "Mmm, buena pregunta. Déjame pensar… diría que es un arma de doble filo.",
+         "ok": true
+        },
+        {
+         "en": "I don't know that word. Bye.",
+         "es": "No sé esa palabra. Chao.",
+         "ok": false,
+         "why": "Bloquearte y cortar la conversación no ayuda a la fluidez."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "How so?",
+       "es": "¿En qué sentido?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Well, I mean, it's incredibly useful, but, you know, there are risks too.",
+         "es": "Pues, o sea, es increíblemente útil, pero, sabes, también hay riesgos.",
+         "ok": true
+        },
+        {
+         "en": "Yes. No. Maybe.",
+         "es": "Sí. No. Tal vez.",
+         "ok": false,
+         "why": "Respuestas cortadas; desarrolla la idea."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Can you give an example?",
+       "es": "¿Puedes dar un ejemplo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Off the top of my head, it can help doctors, but it can also spread misinformation.",
+         "es": "Así de memoria, puede ayudar a los médicos, pero también puede difundir desinformación.",
+         "ok": true
+        },
+        {
+         "en": "I forgot the word for it. The end.",
+         "es": "Olvidé la palabra. Fin.",
+         "ok": false,
+         "why": "Reformula en vez de rendirte."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Para resumir, no fuimos.",
+     "en": "To cut a long story short, we didn't go.",
+     "accept": [
+      "Long story short, we didn't go."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "A fin de cuentas, vale la pena.",
+     "en": "At the end of the day, it's worth it.",
+     "accept": [
+      "At the end of the day, it is worth it."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Lo que intento decir es que es complicado.",
+     "en": "What I'm trying to say is that it's complicated.",
+     "accept": [
+      "What I'm trying to say is it's complicated."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Well, to be honest, I'm not sure about that.",
+     "es": "Pues, para ser honesto, no estoy seguro de eso."
+    },
+    {
+     "type": "dictation",
+     "en": "At the end of the day, what matters is that you tried.",
+     "es": "A fin de cuentas, lo que importa es que lo intentaste."
+    },
+    {
+     "type": "speak",
+     "en": "Well, how can I put it… I think it's a good idea, but it's complicated.",
+     "es": "Pues, cómo lo digo… creo que es buena idea, pero es complicado.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u80.if-i-m-not-mistaken",
+      "u80.correct-me-if-i-m-wrong",
+      "u80.don-t-get-me-wrong",
+      "u80.that-reminds-me",
+      "u80.long-story-short",
+      "u80.needless-to-say",
+      "u80.as-far-as-i-m-concerned",
+      "u80.when-it-comes-to"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

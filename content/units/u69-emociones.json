@@ -1,0 +1,1334 @@
+{
+ "_generated": true,
+ "id": "u69-emociones",
+ "level": "B2",
+ "title": "Emociones y personalidad",
+ "emoji": "🎭",
+ "canDo": "Ya puedo describir emociones y rasgos de carácter con matices",
+ "summary": "Adjetivos fuertes, expresiones idiomáticas de ánimo y rasgos de personalidad para hablar con naturalidad.",
+ "grammar": [
+  "Adjetivos fuertes: absolutely exhausted",
+  "Expresiones idiomáticas de ánimo"
+ ],
+ "items": [
+  {
+   "id": "u69.emotion",
+   "en": "emotion",
+   "es": "emoción",
+   "kind": "word",
+   "emoji": "💗",
+   "say": "i-móu-shon"
+  },
+  {
+   "id": "u69.confidence",
+   "en": "confidence",
+   "es": "seguridad en sí mismo",
+   "kind": "word",
+   "emoji": "😎",
+   "say": "kón-fi-dens"
+  },
+  {
+   "id": "u69.self-esteem",
+   "en": "self-esteem",
+   "es": "autoestima",
+   "kind": "word",
+   "emoji": "🌟",
+   "say": "self-es-tíim"
+  },
+  {
+   "id": "u69.motivated",
+   "en": "motivated",
+   "es": "motivado",
+   "kind": "word",
+   "emoji": "🔥",
+   "say": "móu-ti-vei-ted"
+  },
+  {
+   "id": "u69.determined",
+   "en": "determined",
+   "es": "decidido",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "di-tér-mind"
+  },
+  {
+   "id": "u69.content",
+   "en": "content",
+   "es": "satisfecho / en paz",
+   "kind": "word",
+   "emoji": "😌",
+   "say": "kon-tént"
+  },
+  {
+   "id": "u69.overwhelmed",
+   "en": "overwhelmed",
+   "es": "abrumado",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "ou-ver-uélmd"
+  },
+  {
+   "id": "u69.frustrated",
+   "en": "frustrated",
+   "es": "frustrado",
+   "kind": "word",
+   "emoji": "😤",
+   "say": "fras-tréi-ted"
+  },
+  {
+   "id": "u69.envious",
+   "en": "envious",
+   "es": "envidioso",
+   "kind": "word",
+   "emoji": "💚",
+   "say": "én-vi-os"
+  },
+  {
+   "id": "u69.empathy",
+   "en": "empathy",
+   "es": "empatía",
+   "kind": "word",
+   "emoji": "🫂",
+   "say": "ém-pa-zi"
+  },
+  {
+   "id": "u69.resilience",
+   "en": "resilience",
+   "es": "resiliencia",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "ri-sí-li-ens"
+  },
+  {
+   "id": "u69.cope-with",
+   "en": "cope with",
+   "es": "sobrellevar / afrontar",
+   "kind": "chunk",
+   "emoji": "🧯"
+  },
+  {
+   "id": "u69.overcome",
+   "en": "overcome",
+   "es": "superar",
+   "kind": "word",
+   "emoji": "🏔️",
+   "say": "ou-ver-kám"
+  },
+  {
+   "id": "u69.mindset",
+   "en": "mindset",
+   "es": "mentalidad",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "máind-set"
+  },
+  {
+   "id": "u69.attitude",
+   "en": "attitude",
+   "es": "actitud",
+   "kind": "word",
+   "emoji": "😏",
+   "say": "á-ti-tud"
+  },
+  {
+   "id": "u69.patience",
+   "en": "patience",
+   "es": "paciencia",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "péi-shens"
+  },
+  {
+   "id": "u69.willpower",
+   "en": "willpower",
+   "es": "fuerza de voluntad",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "uíl-pau-er"
+  },
+  {
+   "id": "u69.curiosity",
+   "en": "curiosity",
+   "es": "curiosidad",
+   "kind": "word",
+   "emoji": "🔍",
+   "say": "kiu-ri-ó-si-ti"
+  },
+  {
+   "id": "u69.introvert",
+   "en": "introvert",
+   "es": "introvertido",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "ín-tro-vert"
+  },
+  {
+   "id": "u69.extrovert",
+   "en": "extrovert",
+   "es": "extrovertido",
+   "kind": "word",
+   "emoji": "🎉",
+   "say": "éks-tro-vert"
+  },
+  {
+   "id": "u69.perfectionist",
+   "en": "perfectionist",
+   "es": "perfeccionista",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "per-fék-sho-nist"
+  },
+  {
+   "id": "u69.optimist",
+   "en": "optimist",
+   "es": "optimista",
+   "kind": "word",
+   "emoji": "☀️",
+   "say": "óp-ti-mist"
+  },
+  {
+   "id": "u69.pessimist",
+   "en": "pessimist",
+   "es": "pesimista",
+   "kind": "word",
+   "emoji": "🌧️",
+   "say": "pé-si-mist"
+  },
+  {
+   "id": "u69.down-to-earth",
+   "en": "down-to-earth",
+   "es": "con los pies en la tierra",
+   "kind": "word",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u69.thoughtful",
+   "en": "thoughtful",
+   "es": "considerado / atento",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "zót-ful"
+  },
+  {
+   "id": "u69.absolutely-exhausted",
+   "en": "absolutely exhausted",
+   "es": "absolutamente agotado",
+   "kind": "chunk",
+   "emoji": "😩"
+  },
+  {
+   "id": "u69.really-thrilled",
+   "en": "really thrilled",
+   "es": "emocionadísimo",
+   "kind": "chunk",
+   "emoji": "🤩"
+  },
+  {
+   "id": "u69.over-the-moon",
+   "en": "over the moon",
+   "es": "feliz de la vida",
+   "kind": "chunk",
+   "emoji": "🌙"
+  },
+  {
+   "id": "u69.on-top-of-the-world",
+   "en": "on top of the world",
+   "es": "en la cima del mundo",
+   "kind": "chunk",
+   "emoji": "🏔️"
+  },
+  {
+   "id": "u69.butterflies-in-my-stomach",
+   "en": "butterflies in my stomach",
+   "es": "mariposas en el estómago",
+   "kind": "chunk",
+   "emoji": "🦋"
+  },
+  {
+   "id": "u69.a-weight-off-my-shoulders",
+   "en": "a weight off my shoulders",
+   "es": "un peso de encima",
+   "kind": "chunk",
+   "emoji": "🎒"
+  },
+  {
+   "id": "u69.keep-calm",
+   "en": "keep calm",
+   "es": "mantener la calma",
+   "kind": "chunk",
+   "emoji": "🧘"
+  },
+  {
+   "id": "u69.cheer-someone-up",
+   "en": "cheer someone up",
+   "es": "animar a alguien",
+   "kind": "chunk",
+   "emoji": "🌈"
+  },
+  {
+   "id": "u69.look-on-the-bright-side",
+   "en": "look on the bright side",
+   "es": "ver el lado positivo",
+   "kind": "chunk",
+   "emoji": "☀️"
+  },
+  {
+   "id": "u69.it-s-not-the-end-of-the-world",
+   "en": "It's not the end of the world",
+   "es": "No es el fin del mundo",
+   "kind": "chunk",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u69.pull-yourself-together",
+   "en": "pull yourself together",
+   "es": "recomponerse",
+   "kind": "chunk",
+   "emoji": "💪"
+  },
+  {
+   "id": "u69.mixed-feelings",
+   "en": "mixed feelings",
+   "es": "sentimientos encontrados",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u69-emociones-l1",
+   "title": "1. emotion, confidence, self-esteem…",
+   "focus": "listening",
+   "newItems": [
+    "u69.emotion",
+    "u69.confidence",
+    "u69.self-esteem",
+    "u69.motivated",
+    "u69.determined"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.emotion",
+      "u69.confidence"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.self-esteem",
+      "u69.motivated"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.determined"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.emotion",
+      "u69.confidence",
+      "u69.self-esteem",
+      "u69.motivated",
+      "u69.determined"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.emotion",
+      "u69.confidence",
+      "u69.self-esteem",
+      "u69.motivated",
+      "u69.determined"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.emotion",
+      "u69.confidence",
+      "u69.self-esteem",
+      "u69.motivated",
+      "u69.determined"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-l2",
+   "title": "2. content, overwhelmed, frustrated…",
+   "focus": "grammar",
+   "newItems": [
+    "u69.content",
+    "u69.overwhelmed",
+    "u69.frustrated",
+    "u69.envious",
+    "u69.empathy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.content",
+      "u69.overwhelmed"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.frustrated",
+      "u69.envious"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.empathy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.content",
+      "u69.overwhelmed",
+      "u69.frustrated",
+      "u69.envious",
+      "u69.empathy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.content",
+      "u69.overwhelmed",
+      "u69.frustrated",
+      "u69.envious",
+      "u69.empathy"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.content",
+      "u69.overwhelmed",
+      "u69.frustrated",
+      "u69.envious",
+      "u69.empathy"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.emotion",
+      "u69.confidence",
+      "u69.self-esteem",
+      "u69.motivated",
+      "u69.determined"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Adjetivos fuertes",
+     "intro": "Algunos adjetivos ya son 'extremos'. Mira qué palabra los acompaña.",
+     "examples": [
+      {
+       "en": "I'm very tired. → I'm absolutely exhausted.",
+       "es": "Estoy muy cansado. → Estoy absolutamente agotado.",
+       "mark": [
+        "absolutely exhausted"
+       ]
+      },
+      {
+       "en": "The movie was very good. → It was absolutely amazing.",
+       "es": "La película fue muy buena. → Fue absolutamente increíble.",
+       "mark": [
+        "absolutely amazing"
+       ]
+      },
+      {
+       "en": "I'm very happy. → I'm over the moon!",
+       "es": "Estoy muy feliz. → ¡Estoy feliz de la vida!",
+       "mark": [
+        "over the moon"
+       ]
+      },
+      {
+       "en": "The food was very bad. → It was absolutely terrible.",
+       "es": "La comida estuvo muy mala. → Estuvo absolutamente terrible.",
+       "mark": [
+        "absolutely terrible"
+       ]
+      }
+     ],
+     "question": "¿Qué palabra suele ir con adjetivos extremos (exhausted, amazing)?",
+     "options": [
+      "very",
+      "absolutely"
+     ],
+     "answer": 1,
+     "rule": "Con adjetivos normales (tired, good) usamos very. Con adjetivos EXTREMOS, que ya significan 'muy', no se usa very sino absolutely o really: absolutely exhausted (no 'very exhausted'), really thrilled. Para el ánimo hay muchas expresiones idiomáticas: over the moon (feliz), a weight off my shoulders (aliviado).",
+     "ruleExamples": [
+      {
+       "en": "I'm not just happy, I'm absolutely thrilled! Getting the job was a weight off my shoulders.",
+       "es": "No solo estoy feliz, ¡estoy emocionadísimo! Conseguir el trabajo fue un peso de encima."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I'm ___ exhausted after the trip.",
+     "options": [
+      "absolutely",
+      "very"
+     ],
+     "answer": 0,
+     "es": "Estoy absolutamente agotado después del viaje."
+    },
+    {
+     "type": "fill",
+     "en": "She's a ___ person; she always sees the bright side.",
+     "options": [
+      "positive",
+      "positively"
+     ],
+     "answer": 0,
+     "es": "Es una persona positiva; siempre ve el lado bueno."
+    },
+    {
+     "type": "fill",
+     "en": "When I passed the exam, I was over the ___.",
+     "options": [
+      "moon",
+      "sun"
+     ],
+     "answer": 0,
+     "es": "Cuando pasé el examen, estaba feliz de la vida."
+    },
+    {
+     "type": "fill",
+     "en": "Try to ___ calm. It's not the end of the world.",
+     "options": [
+      "keep",
+      "make"
+     ],
+     "answer": 0,
+     "es": "Trata de mantener la calma. No es el fin del mundo."
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-l3",
+   "title": "3. resilience, cope with, overcome…",
+   "focus": "reading",
+   "newItems": [
+    "u69.resilience",
+    "u69.cope-with",
+    "u69.overcome",
+    "u69.mindset",
+    "u69.attitude"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.resilience",
+      "u69.cope-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.overcome",
+      "u69.mindset"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.attitude"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.resilience",
+      "u69.cope-with",
+      "u69.overcome",
+      "u69.mindset",
+      "u69.attitude"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.resilience",
+      "u69.cope-with",
+      "u69.overcome",
+      "u69.mindset",
+      "u69.attitude"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.resilience",
+      "u69.cope-with",
+      "u69.overcome",
+      "u69.mindset",
+      "u69.attitude"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.determined",
+      "u69.content",
+      "u69.overwhelmed",
+      "u69.frustrated",
+      "u69.envious",
+      "u69.empathy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-l4",
+   "title": "4. patience, willpower, curiosity…",
+   "focus": "listening",
+   "newItems": [
+    "u69.patience",
+    "u69.willpower",
+    "u69.curiosity",
+    "u69.introvert",
+    "u69.extrovert"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.patience",
+      "u69.willpower"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.curiosity",
+      "u69.introvert"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.extrovert"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.patience",
+      "u69.willpower",
+      "u69.curiosity",
+      "u69.introvert",
+      "u69.extrovert"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.patience",
+      "u69.willpower",
+      "u69.curiosity",
+      "u69.introvert",
+      "u69.extrovert"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.patience",
+      "u69.willpower",
+      "u69.curiosity",
+      "u69.introvert",
+      "u69.extrovert"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.empathy",
+      "u69.resilience",
+      "u69.cope-with",
+      "u69.overcome",
+      "u69.mindset",
+      "u69.attitude"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-l5",
+   "title": "5. perfectionist, optimist, pessimist…",
+   "focus": "listening",
+   "newItems": [
+    "u69.perfectionist",
+    "u69.optimist",
+    "u69.pessimist",
+    "u69.down-to-earth",
+    "u69.thoughtful"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.perfectionist",
+      "u69.optimist"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.pessimist",
+      "u69.down-to-earth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.thoughtful"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.perfectionist",
+      "u69.optimist",
+      "u69.pessimist",
+      "u69.down-to-earth",
+      "u69.thoughtful"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.perfectionist",
+      "u69.optimist",
+      "u69.pessimist",
+      "u69.down-to-earth",
+      "u69.thoughtful"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.perfectionist",
+      "u69.optimist",
+      "u69.pessimist",
+      "u69.down-to-earth",
+      "u69.thoughtful"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.attitude",
+      "u69.patience",
+      "u69.willpower",
+      "u69.curiosity",
+      "u69.introvert",
+      "u69.extrovert"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🎭",
+     "title": "Describir el carácter",
+     "text": "Para sonar natural, combina rasgos: 'She's hard-working and reliable, but a bit of a perfectionist.' Un rasgo con 'but a bit of a…' suena muy nativo para matizar."
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-l6",
+   "title": "6. absolutely exhausted, really thrilled, over the moon…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u69.absolutely-exhausted",
+    "u69.really-thrilled",
+    "u69.over-the-moon",
+    "u69.on-top-of-the-world",
+    "u69.butterflies-in-my-stomach"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.absolutely-exhausted",
+      "u69.really-thrilled"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.over-the-moon",
+      "u69.on-top-of-the-world"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.butterflies-in-my-stomach"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.absolutely-exhausted",
+      "u69.really-thrilled",
+      "u69.over-the-moon",
+      "u69.on-top-of-the-world",
+      "u69.butterflies-in-my-stomach"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.absolutely-exhausted",
+      "u69.really-thrilled",
+      "u69.over-the-moon",
+      "u69.on-top-of-the-world",
+      "u69.butterflies-in-my-stomach"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.absolutely-exhausted",
+      "u69.really-thrilled",
+      "u69.over-the-moon",
+      "u69.on-top-of-the-world",
+      "u69.butterflies-in-my-stomach"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.extrovert",
+      "u69.perfectionist",
+      "u69.optimist",
+      "u69.pessimist",
+      "u69.down-to-earth",
+      "u69.thoughtful"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-l7",
+   "title": "7. a weight off my shoulders, keep calm, cheer someone up…",
+   "focus": "reading",
+   "newItems": [
+    "u69.a-weight-off-my-shoulders",
+    "u69.keep-calm",
+    "u69.cheer-someone-up",
+    "u69.look-on-the-bright-side",
+    "u69.it-s-not-the-end-of-the-world"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.a-weight-off-my-shoulders",
+      "u69.keep-calm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.cheer-someone-up",
+      "u69.look-on-the-bright-side"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u69.it-s-not-the-end-of-the-world"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.a-weight-off-my-shoulders",
+      "u69.keep-calm",
+      "u69.cheer-someone-up",
+      "u69.look-on-the-bright-side",
+      "u69.it-s-not-the-end-of-the-world"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.a-weight-off-my-shoulders",
+      "u69.keep-calm",
+      "u69.cheer-someone-up",
+      "u69.look-on-the-bright-side",
+      "u69.it-s-not-the-end-of-the-world"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.a-weight-off-my-shoulders",
+      "u69.keep-calm",
+      "u69.cheer-someone-up",
+      "u69.look-on-the-bright-side",
+      "u69.it-s-not-the-end-of-the-world"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.thoughtful",
+      "u69.absolutely-exhausted",
+      "u69.really-thrilled",
+      "u69.over-the-moon",
+      "u69.on-top-of-the-world",
+      "u69.butterflies-in-my-stomach"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Animar a un amigo",
+     "scene": "☕ Tu amigo no pasó una entrevista.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Hey, you look down. What's wrong?",
+       "es": "Oye, te ves bajoneado. ¿Qué pasa?"
+      },
+      {
+       "who": "Leo",
+       "en": "I didn't get the job. I'm really frustrated.",
+       "es": "No me dieron el trabajo. Estoy muy frustrado."
+      },
+      {
+       "who": "You",
+       "en": "I'm sorry. But look on the bright side: you got to the final interview.",
+       "es": "Lo siento. Pero mira el lado positivo: llegaste a la entrevista final."
+      },
+      {
+       "who": "Leo",
+       "en": "That's true. I guess it's not the end of the world.",
+       "es": "Es cierto. Supongo que no es el fin del mundo."
+      },
+      {
+       "who": "You",
+       "en": "Exactly. You're hard-working and reliable. The right job will come.",
+       "es": "Exacto. Eres trabajador y confiable. El trabajo indicado va a llegar."
+      },
+      {
+       "who": "Leo",
+       "en": "Thanks. I feel a bit better now.",
+       "es": "Gracias. Ya me siento un poco mejor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-l8",
+   "title": "8. pull yourself together, mixed feelings",
+   "focus": "listening",
+   "newItems": [
+    "u69.pull-yourself-together",
+    "u69.mixed-feelings"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u69.pull-yourself-together",
+      "u69.mixed-feelings"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.pull-yourself-together",
+      "u69.mixed-feelings"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.pull-yourself-together",
+      "u69.mixed-feelings"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.pull-yourself-together",
+      "u69.mixed-feelings"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.butterflies-in-my-stomach",
+      "u69.a-weight-off-my-shoulders",
+      "u69.keep-calm",
+      "u69.cheer-someone-up",
+      "u69.look-on-the-bright-side",
+      "u69.it-s-not-the-end-of-the-world"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u69-emociones-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Dos hermanas, dos mentalidades",
+     "emoji": "🌗",
+     "paragraphs": [
+      {
+       "en": "Camila and Daniela are sisters, but they have very different mindsets.",
+       "es": "Camila y Daniela son hermanas, pero tienen mentalidades muy diferentes."
+      },
+      {
+       "en": "Camila is an optimist. When something goes wrong, she looks on the bright side.",
+       "es": "Camila es optimista. Cuando algo sale mal, ve el lado positivo."
+      },
+      {
+       "en": "Daniela is more of a pessimist and a perfectionist. Small mistakes make her feel overwhelmed.",
+       "es": "Daniela es más pesimista y perfeccionista. Los errores pequeños la hacen sentir abrumada."
+      },
+      {
+       "en": "Last year both of them started a small business together. The first months were really hard.",
+       "es": "El año pasado las dos empezaron un pequeño negocio juntas. Los primeros meses fueron muy difíciles."
+      },
+      {
+       "en": "When sales dropped, Daniela wanted to give up, but Camila helped her keep calm.",
+       "es": "Cuando cayeron las ventas, Daniela quería rendirse, pero Camila la ayudó a mantener la calma."
+      },
+      {
+       "en": "With patience and resilience, they overcame the hard times. Now their business is doing great.",
+       "es": "Con paciencia y resiliencia, superaron los tiempos difíciles. Ahora su negocio va muy bien."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo es Camila?",
+       "options": [
+        "Optimista",
+        "Pesimista",
+        "Perezosa"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hace Daniela cuando comete errores pequeños?",
+       "options": [
+        "Se ríe",
+        "Se siente abrumada",
+        "Los ignora"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo superaron los tiempos difíciles?",
+       "options": [
+        "Con paciencia y resiliencia",
+        "Cerrando el negocio",
+        "Con suerte"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Describir tu personalidad",
+     "scene": "🧑‍💼 En una dinámica de grupo te piden describirte.",
+     "turns": [
+      {
+       "who": "Facilitator",
+       "en": "Tell us three words that describe you.",
+       "es": "Dinos tres palabras que te describan."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'd say I'm hard-working, curious and down-to-earth.",
+         "es": "Diría que soy trabajador, curioso y con los pies en la tierra.",
+         "ok": true
+        },
+        {
+         "en": "I'd say I'm very exhausted.",
+         "es": "Diría que soy muy agotado.",
+         "ok": false,
+         "why": "Eso es un estado, no un rasgo de carácter."
+        }
+       ]
+      },
+      {
+       "who": "Facilitator",
+       "en": "Nice. And a weakness?",
+       "es": "Qué bien. ¿Y una debilidad?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm a bit of a perfectionist, so sometimes I'm too hard on myself.",
+         "es": "Soy un poco perfeccionista, así que a veces soy muy duro conmigo mismo.",
+         "ok": true
+        },
+        {
+         "en": "I'm absolutely perfect.",
+         "es": "Soy absolutamente perfecto.",
+         "ok": false,
+         "why": "Suena arrogante y no responde la pregunta."
+        }
+       ]
+      },
+      {
+       "who": "Facilitator",
+       "en": "How do you handle stress?",
+       "es": "¿Cómo manejas el estrés?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I try to keep calm and look on the bright side.",
+         "es": "Trato de mantener la calma y ver el lado positivo.",
+         "ok": true
+        },
+        {
+         "en": "I lose the calm always.",
+         "es": "Pierdo la calma siempre.",
+         "ok": false,
+         "why": "Se dice \"I lose my temper\" y no es ideal decirlo así."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Estoy absolutamente agotado.",
+     "en": "I'm absolutely exhausted.",
+     "accept": [
+      "I am absolutely exhausted."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Trata de ver el lado positivo.",
+     "en": "Try to look on the bright side."
+    },
+    {
+     "type": "write",
+     "es": "Es trabajadora y confiable.",
+     "en": "She's hard-working and reliable.",
+     "accept": [
+      "She is hard-working and reliable."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "When I got the news, I was over the moon.",
+     "es": "Cuando recibí la noticia, estaba feliz de la vida."
+    },
+    {
+     "type": "dictation",
+     "en": "It's not the end of the world. Try to keep calm.",
+     "es": "No es el fin del mundo. Trata de mantener la calma."
+    },
+    {
+     "type": "speak",
+     "en": "I'm a hard-working and curious person who likes learning new things.",
+     "es": "Soy una persona trabajadora y curiosa a la que le gusta aprender cosas nuevas.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u69.butterflies-in-my-stomach",
+      "u69.a-weight-off-my-shoulders",
+      "u69.keep-calm",
+      "u69.cheer-someone-up",
+      "u69.look-on-the-bright-side",
+      "u69.it-s-not-the-end-of-the-world",
+      "u69.pull-yourself-together",
+      "u69.mixed-feelings"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

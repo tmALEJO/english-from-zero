@@ -1,0 +1,1094 @@
+{
+ "_generated": true,
+ "id": "u12-habilidades",
+ "level": "A1",
+ "title": "Lo que sé hacer",
+ "emoji": "🎸",
+ "canDo": "Ya puedo decir lo que sé y no sé hacer",
+ "summary": "Deportes, hobbies y el verbo can para hablar de habilidades y pedir permiso.",
+ "grammar": [
+  "Can / can't"
+ ],
+ "items": [
+  {
+   "id": "u12.i-can-swim",
+   "en": "I can swim",
+   "es": "Sé nadar",
+   "kind": "chunk",
+   "emoji": "🏊",
+   "say": "ai kan suím"
+  },
+  {
+   "id": "u12.i-can-t-dance",
+   "en": "I can't dance",
+   "es": "No sé bailar",
+   "kind": "chunk",
+   "emoji": "🙅",
+   "say": "ai kant dans"
+  },
+  {
+   "id": "u12.can-you-sing",
+   "en": "Can you sing?",
+   "es": "¿Sabes cantar?",
+   "kind": "chunk",
+   "emoji": "🎤"
+  },
+  {
+   "id": "u12.swim",
+   "en": "swim",
+   "es": "nadar",
+   "kind": "word",
+   "emoji": "🏊‍♀️",
+   "say": "suím"
+  },
+  {
+   "id": "u12.dance",
+   "en": "dance",
+   "es": "bailar",
+   "kind": "word",
+   "emoji": "💃",
+   "say": "dans"
+  },
+  {
+   "id": "u12.sing",
+   "en": "sing",
+   "es": "cantar",
+   "kind": "word",
+   "emoji": "🎤",
+   "say": "sing"
+  },
+  {
+   "id": "u12.draw",
+   "en": "draw",
+   "es": "dibujar",
+   "kind": "word",
+   "emoji": "🎨",
+   "say": "dró"
+  },
+  {
+   "id": "u12.paint",
+   "en": "paint",
+   "es": "pintar",
+   "kind": "word",
+   "emoji": "🖌️",
+   "say": "péint"
+  },
+  {
+   "id": "u12.ride-a-bike",
+   "en": "ride a bike",
+   "es": "montar en bicicleta",
+   "kind": "chunk",
+   "emoji": "🚲",
+   "say": "ráid a báik"
+  },
+  {
+   "id": "u12.play-football",
+   "en": "play football",
+   "es": "jugar fútbol",
+   "kind": "chunk",
+   "emoji": "⚽"
+  },
+  {
+   "id": "u12.play-basketball",
+   "en": "play basketball",
+   "es": "jugar baloncesto",
+   "kind": "chunk",
+   "emoji": "🏀"
+  },
+  {
+   "id": "u12.play-the-guitar",
+   "en": "play the guitar",
+   "es": "tocar la guitarra",
+   "kind": "chunk",
+   "emoji": "🎸",
+   "say": "pléi de gi-tár"
+  },
+  {
+   "id": "u12.play-the-piano",
+   "en": "play the piano",
+   "es": "tocar el piano",
+   "kind": "chunk",
+   "emoji": "🎹"
+  },
+  {
+   "id": "u12.speak-english",
+   "en": "speak English",
+   "es": "hablar inglés",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "u12.take-photos",
+   "en": "take photos",
+   "es": "tomar fotos",
+   "kind": "chunk",
+   "emoji": "📷"
+  },
+  {
+   "id": "u12.climb",
+   "en": "climb",
+   "es": "escalar / trepar",
+   "kind": "word",
+   "emoji": "🧗",
+   "say": "kláim"
+  },
+  {
+   "id": "u12.jump",
+   "en": "jump",
+   "es": "saltar",
+   "kind": "word",
+   "emoji": "🦘",
+   "say": "yamp"
+  },
+  {
+   "id": "u12.fly",
+   "en": "fly",
+   "es": "volar",
+   "kind": "word",
+   "emoji": "🕊️",
+   "say": "flái"
+  },
+  {
+   "id": "u12.fix-a-computer",
+   "en": "fix a computer",
+   "es": "arreglar un computador",
+   "kind": "chunk",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u12.very-well",
+   "en": "very well",
+   "es": "muy bien",
+   "kind": "chunk",
+   "emoji": "🌟"
+  },
+  {
+   "id": "u12.a-little",
+   "en": "a little",
+   "es": "un poco",
+   "kind": "chunk",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u12.not-at-all",
+   "en": "not at all",
+   "es": "para nada",
+   "kind": "chunk",
+   "emoji": "❌"
+  },
+  {
+   "id": "u12.hobby",
+   "en": "hobby",
+   "es": "pasatiempo",
+   "kind": "word",
+   "emoji": "🧩",
+   "say": "jó-bi"
+  },
+  {
+   "id": "u12.team",
+   "en": "team",
+   "es": "equipo",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "tíim"
+  },
+  {
+   "id": "u12.game",
+   "en": "game",
+   "es": "juego / partido",
+   "kind": "word",
+   "emoji": "🎲",
+   "say": "guéim"
+  },
+  {
+   "id": "u12.can-i-open-the-window",
+   "en": "Can I open the window?",
+   "es": "¿Puedo abrir la ventana?",
+   "kind": "chunk",
+   "emoji": "🪟"
+  },
+  {
+   "id": "u12.can-you-help-me",
+   "en": "Can you help me?",
+   "es": "¿Me puedes ayudar?",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u12.sure",
+   "en": "Sure!",
+   "es": "¡Claro!",
+   "kind": "word",
+   "emoji": "👌",
+   "say": "shúr"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u12-habilidades-l1",
+   "title": "1. I can swim, I can't dance, Can you sing?…",
+   "focus": "listening",
+   "newItems": [
+    "u12.i-can-swim",
+    "u12.i-can-t-dance",
+    "u12.can-you-sing",
+    "u12.swim"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u12.i-can-swim",
+      "u12.i-can-t-dance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u12.can-you-sing",
+      "u12.swim"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.i-can-swim",
+      "u12.i-can-t-dance",
+      "u12.can-you-sing",
+      "u12.swim"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.i-can-swim",
+      "u12.i-can-t-dance",
+      "u12.can-you-sing",
+      "u12.swim"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.i-can-swim",
+      "u12.i-can-t-dance"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u12-habilidades-l2",
+   "title": "2. dance, sing, draw…",
+   "focus": "grammar",
+   "newItems": [
+    "u12.dance",
+    "u12.sing",
+    "u12.draw",
+    "u12.paint"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u12.dance",
+      "u12.sing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u12.draw",
+      "u12.paint"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.dance",
+      "u12.sing",
+      "u12.draw",
+      "u12.paint"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.dance",
+      "u12.sing",
+      "u12.draw",
+      "u12.paint"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.dance",
+      "u12.sing"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.i-can-swim",
+      "u12.i-can-t-dance",
+      "u12.can-you-sing",
+      "u12.swim"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Can / can't",
+     "intro": "Lee y escucha. ¿Notas algo raro en el verbo después de can?",
+     "examples": [
+      {
+       "en": "I can swim.",
+       "es": "Sé nadar.",
+       "mark": [
+        "can"
+       ]
+      },
+      {
+       "en": "She can sing very well.",
+       "es": "Ella canta muy bien.",
+       "mark": [
+        "can"
+       ]
+      },
+      {
+       "en": "He can't dance.",
+       "es": "Él no sabe bailar.",
+       "mark": [
+        "can't"
+       ]
+      },
+      {
+       "en": "We can play the guitar.",
+       "es": "Sabemos tocar la guitarra.",
+       "mark": [
+        "can"
+       ]
+      },
+      {
+       "en": "Can you draw? Yes, I can.",
+       "es": "¿Sabes dibujar? Sí.",
+       "mark": [
+        "Can"
+       ]
+      }
+     ],
+     "question": "Después de can, el verbo…",
+     "options": [
+      "Lleva -s con he y she",
+      "Siempre queda igual",
+      "Va con to"
+     ],
+     "answer": 1,
+     "rule": "can sirve para habilidades (saber hacer) y para pedir permiso o ayuda. Es igual para todas las personas y el verbo siguiente nunca cambia: She can swim (no cans ni swims). Negativo: can't. Pregunta: Can you…?",
+     "ruleExamples": [
+      {
+       "en": "Can I help you?",
+       "es": "¿Le puedo ayudar?"
+      },
+      {
+       "en": "My brother can't swim.",
+       "es": "Mi hermano no sabe nadar."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "She can ___ the piano.",
+     "options": [
+      "play",
+      "plays"
+     ],
+     "answer": 0,
+     "es": "Ella sabe tocar el piano."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ swim. I'm afraid of water.",
+     "options": [
+      "can",
+      "can't"
+     ],
+     "answer": 1,
+     "es": "No sé nadar. Le tengo miedo al agua."
+    },
+    {
+     "type": "fill",
+     "en": "___ you help me, please?",
+     "options": [
+      "Can",
+      "Do"
+     ],
+     "answer": 0,
+     "es": "¿Me puedes ayudar, por favor?"
+    },
+    {
+     "type": "fill",
+     "en": "He ___ speak English very well.",
+     "options": [
+      "can",
+      "cans"
+     ],
+     "answer": 0,
+     "es": "Él habla inglés muy bien."
+    }
+   ]
+  },
+  {
+   "id": "u12-habilidades-l3",
+   "title": "3. ride a bike, play football, play basketball…",
+   "focus": "reading",
+   "newItems": [
+    "u12.ride-a-bike",
+    "u12.play-football",
+    "u12.play-basketball",
+    "u12.play-the-guitar"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u12.ride-a-bike",
+      "u12.play-football"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u12.play-basketball",
+      "u12.play-the-guitar"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.ride-a-bike",
+      "u12.play-football",
+      "u12.play-basketball",
+      "u12.play-the-guitar"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.ride-a-bike",
+      "u12.play-football",
+      "u12.play-basketball",
+      "u12.play-the-guitar"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.ride-a-bike",
+      "u12.play-football"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.can-you-sing",
+      "u12.swim",
+      "u12.dance",
+      "u12.sing",
+      "u12.draw",
+      "u12.paint"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u12-habilidades-l4",
+   "title": "4. play the piano, speak English, take photos…",
+   "focus": "listening",
+   "newItems": [
+    "u12.play-the-piano",
+    "u12.speak-english",
+    "u12.take-photos",
+    "u12.climb"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u12.play-the-piano",
+      "u12.speak-english"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u12.take-photos",
+      "u12.climb"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.play-the-piano",
+      "u12.speak-english",
+      "u12.take-photos",
+      "u12.climb"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.play-the-piano",
+      "u12.speak-english",
+      "u12.take-photos",
+      "u12.climb"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.play-the-piano",
+      "u12.speak-english"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.draw",
+      "u12.paint",
+      "u12.ride-a-bike",
+      "u12.play-football",
+      "u12.play-basketball",
+      "u12.play-the-guitar"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u12-habilidades-l5",
+   "title": "5. jump, fly, fix a computer…",
+   "focus": "listening",
+   "newItems": [
+    "u12.jump",
+    "u12.fly",
+    "u12.fix-a-computer",
+    "u12.very-well"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u12.jump",
+      "u12.fly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u12.fix-a-computer",
+      "u12.very-well"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.jump",
+      "u12.fly",
+      "u12.fix-a-computer",
+      "u12.very-well"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.jump",
+      "u12.fly",
+      "u12.fix-a-computer",
+      "u12.very-well"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.fix-a-computer",
+      "u12.very-well"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.play-basketball",
+      "u12.play-the-guitar",
+      "u12.play-the-piano",
+      "u12.speak-english",
+      "u12.take-photos",
+      "u12.climb"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "👂",
+     "title": "can vs can't al oído",
+     "text": "can suele sonar corto y débil (kən): I kən swim. can't suena fuerte y claro (kant): I KANT swim. Escucha el volumen, no solo la t final."
+    }
+   ]
+  },
+  {
+   "id": "u12-habilidades-l6",
+   "title": "6. a little, not at all, hobby…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u12.a-little",
+    "u12.not-at-all",
+    "u12.hobby",
+    "u12.team"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u12.a-little",
+      "u12.not-at-all"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u12.hobby",
+      "u12.team"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.a-little",
+      "u12.not-at-all",
+      "u12.hobby",
+      "u12.team"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.a-little",
+      "u12.not-at-all",
+      "u12.hobby",
+      "u12.team"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.a-little",
+      "u12.not-at-all"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.take-photos",
+      "u12.climb",
+      "u12.jump",
+      "u12.fly",
+      "u12.fix-a-computer",
+      "u12.very-well"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En la clase de música",
+     "scene": "🎵 Primer día en un club de música.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "en": "Welcome! Can you play an instrument?",
+       "es": "¡Bienvenido! ¿Sabes tocar algún instrumento?"
+      },
+      {
+       "who": "Leo",
+       "en": "I can play the guitar a little.",
+       "es": "Sé tocar un poco la guitarra."
+      },
+      {
+       "who": "Teacher",
+       "en": "Great! Can you sing?",
+       "es": "¡Genial! ¿Sabes cantar?"
+      },
+      {
+       "who": "Leo",
+       "en": "No, I can't sing at all!",
+       "es": "¡No, no sé cantar para nada!"
+      },
+      {
+       "who": "Teacher",
+       "en": "That's OK. You can learn here.",
+       "es": "No pasa nada. Aquí puedes aprender."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u12-habilidades-l7",
+   "title": "7. game, Can I open the window?, Can you help me?…",
+   "focus": "reading",
+   "newItems": [
+    "u12.game",
+    "u12.can-i-open-the-window",
+    "u12.can-you-help-me",
+    "u12.sure"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u12.game",
+      "u12.can-i-open-the-window"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u12.can-you-help-me",
+      "u12.sure"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.game",
+      "u12.can-i-open-the-window",
+      "u12.can-you-help-me",
+      "u12.sure"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.game",
+      "u12.can-i-open-the-window",
+      "u12.can-you-help-me",
+      "u12.sure"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.can-i-open-the-window",
+      "u12.can-you-help-me"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.fix-a-computer",
+      "u12.very-well",
+      "u12.a-little",
+      "u12.not-at-all",
+      "u12.hobby",
+      "u12.team"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u12-habilidades-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El equipo del barrio",
+     "emoji": "⚽",
+     "paragraphs": [
+      {
+       "en": "In my neighborhood there is a small football team.",
+       "es": "En mi barrio hay un pequeño equipo de fútbol."
+      },
+      {
+       "en": "Carlos can run very fast. Ana can jump very high.",
+       "es": "Carlos corre muy rápido. Ana salta muy alto."
+      },
+      {
+       "en": "Sam can't play football very well, but he can take great photos.",
+       "es": "Sam no juega muy bien fútbol, pero toma fotos excelentes."
+      },
+      {
+       "en": "On Saturday the team has a big game.",
+       "es": "El sábado el equipo tiene un partido importante."
+      },
+      {
+       "en": "Sam takes photos of every goal. Now he is the team photographer!",
+       "es": "Sam toma fotos de cada gol. ¡Ahora es el fotógrafo del equipo!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué sabe hacer Ana?",
+       "options": [
+        "Correr rápido",
+        "Saltar muy alto",
+        "Tomar fotos"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Sam juega bien fútbol?",
+       "options": [
+        "Sí, muy bien",
+        "No muy bien"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuál es el nuevo papel de Sam?",
+       "options": [
+        "Portero",
+        "Entrenador",
+        "Fotógrafo del equipo"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "¿Me ayudas?",
+     "scene": "💻 Tu computador no funciona y le pides ayuda a una amiga.",
+     "turns": [
+      {
+       "who": "Narrador",
+       "en": "You see your friend Mia.",
+       "es": "Ves a tu amiga Mia."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Hi Mia! Can you help me?",
+         "es": "¡Hola Mia! ¿Me puedes ayudar?",
+         "ok": true
+        },
+        {
+         "en": "Hi Mia! You can't help me.",
+         "es": "¡Hola Mia! No me puedes ayudar.",
+         "ok": false,
+         "why": "Así no estás pidiendo ayuda."
+        }
+       ]
+      },
+      {
+       "who": "Mia",
+       "en": "Sure! What's the problem?",
+       "es": "¡Claro! ¿Cuál es el problema?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "My computer doesn't work. Can you fix it?",
+         "es": "Mi computador no funciona. ¿Lo puedes arreglar?",
+         "ok": true
+        },
+        {
+         "en": "My computer can swim.",
+         "es": "Mi computador sabe nadar.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      },
+      {
+       "who": "Mia",
+       "en": "I can try. Can I open it?",
+       "es": "Puedo intentarlo. ¿Lo puedo abrir?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, of course. Thank you!",
+         "es": "Sí, claro. ¡Gracias!",
+         "ok": true
+        },
+        {
+         "en": "No, I can't.",
+         "es": "No, yo no puedo.",
+         "ok": false,
+         "why": "Ella pidió permiso; respóndele sí o no a ella."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Sé nadar, pero no sé bailar.",
+     "en": "I can swim, but I can't dance.",
+     "accept": [
+      "I can swim but I can't dance."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Me puedes ayudar?",
+     "en": "Can you help me?"
+    },
+    {
+     "type": "write",
+     "es": "Ella toca muy bien la guitarra.",
+     "en": "She can play the guitar very well."
+    },
+    {
+     "type": "dictation",
+     "en": "Can you ride a bike?",
+     "es": "¿Sabes montar en bicicleta?"
+    },
+    {
+     "type": "dictation",
+     "en": "He can't sing at all.",
+     "es": "Él no sabe cantar para nada."
+    },
+    {
+     "type": "speak",
+     "en": "I can speak English a little.",
+     "es": "Hablo un poco de inglés.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u12.a-little",
+      "u12.not-at-all",
+      "u12.hobby",
+      "u12.team",
+      "u12.game",
+      "u12.can-i-open-the-window",
+      "u12.can-you-help-me",
+      "u12.sure"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

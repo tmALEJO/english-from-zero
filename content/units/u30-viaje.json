@@ -1,0 +1,1322 @@
+{
+ "_generated": true,
+ "id": "u30-viaje",
+ "level": "A2",
+ "title": "De viaje",
+ "emoji": "✈️",
+ "canDo": "Ya puedo moverme en un aeropuerto y un hotel",
+ "summary": "Aeropuerto, migración, hotel y pedir cosas con amabilidad (can / could).",
+ "grammar": [
+  "Could you…? para pedir con amabilidad"
+ ],
+ "items": [
+  {
+   "id": "u30.passport",
+   "en": "passport",
+   "es": "pasaporte",
+   "kind": "word",
+   "emoji": "🛂",
+   "say": "pás-port"
+  },
+  {
+   "id": "u30.boarding-pass",
+   "en": "boarding pass",
+   "es": "pase de abordar",
+   "kind": "chunk",
+   "emoji": "🎫",
+   "say": "bór-ding pas"
+  },
+  {
+   "id": "u30.flight",
+   "en": "flight",
+   "es": "vuelo",
+   "kind": "word",
+   "emoji": "🛫",
+   "say": "fláit"
+  },
+  {
+   "id": "u30.gate",
+   "en": "gate",
+   "es": "puerta de embarque",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "guéit"
+  },
+  {
+   "id": "u30.luggage",
+   "en": "luggage",
+   "es": "equipaje",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "lá-gich"
+  },
+  {
+   "id": "u30.suitcase",
+   "en": "suitcase",
+   "es": "maleta",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "súut-keis"
+  },
+  {
+   "id": "u30.backpack",
+   "en": "backpack",
+   "es": "morral",
+   "kind": "word",
+   "emoji": "🎒",
+   "say": "bák-pak"
+  },
+  {
+   "id": "u30.check-in",
+   "en": "check in",
+   "es": "registrarse (vuelo / hotel)",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u30.check-out",
+   "en": "check out",
+   "es": "salir del hotel / entregar la habitación",
+   "kind": "chunk",
+   "emoji": "🔚"
+  },
+  {
+   "id": "u30.departure",
+   "en": "departure",
+   "es": "salida",
+   "kind": "word",
+   "emoji": "🛫",
+   "say": "di-pár-cher"
+  },
+  {
+   "id": "u30.arrival",
+   "en": "arrival",
+   "es": "llegada",
+   "kind": "word",
+   "emoji": "🛬",
+   "say": "a-rái-val"
+  },
+  {
+   "id": "u30.delayed",
+   "en": "delayed",
+   "es": "retrasado",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "di-léid"
+  },
+  {
+   "id": "u30.canceled",
+   "en": "canceled",
+   "es": "cancelado",
+   "kind": "word",
+   "emoji": "❌",
+   "say": "kán-seld"
+  },
+  {
+   "id": "u30.customs",
+   "en": "customs",
+   "es": "aduana",
+   "kind": "word",
+   "emoji": "🛃",
+   "say": "kás-toms"
+  },
+  {
+   "id": "u30.tourist",
+   "en": "tourist",
+   "es": "turista",
+   "kind": "word",
+   "emoji": "📸",
+   "say": "túu-rist"
+  },
+  {
+   "id": "u30.abroad",
+   "en": "abroad",
+   "es": "en el extranjero",
+   "kind": "word",
+   "emoji": "🌍",
+   "say": "a-bród"
+  },
+  {
+   "id": "u30.foreign",
+   "en": "foreign",
+   "es": "extranjero",
+   "kind": "word",
+   "emoji": "🗺️",
+   "say": "fó-ren"
+  },
+  {
+   "id": "u30.reservation",
+   "en": "reservation",
+   "es": "reserva",
+   "kind": "word",
+   "emoji": "📒",
+   "say": "re-ser-véi-shon"
+  },
+  {
+   "id": "u30.single-room",
+   "en": "single room",
+   "es": "habitación sencilla",
+   "kind": "chunk",
+   "emoji": "🛏️"
+  },
+  {
+   "id": "u30.double-room",
+   "en": "double room",
+   "es": "habitación doble",
+   "kind": "chunk",
+   "emoji": "🛏️🛏️"
+  },
+  {
+   "id": "u30.reception",
+   "en": "reception",
+   "es": "recepción",
+   "kind": "word",
+   "emoji": "🛎️",
+   "say": "ri-sép-shon"
+  },
+  {
+   "id": "u30.towel",
+   "en": "towel",
+   "es": "toalla",
+   "kind": "word",
+   "emoji": "🧺",
+   "say": "táu-el"
+  },
+  {
+   "id": "u30.air-conditioning",
+   "en": "air conditioning",
+   "es": "aire acondicionado",
+   "kind": "chunk",
+   "emoji": "❄️"
+  },
+  {
+   "id": "u30.elevator",
+   "en": "elevator",
+   "es": "ascensor",
+   "kind": "word",
+   "emoji": "🛗",
+   "say": "é-le-vei-tor"
+  },
+  {
+   "id": "u30.view",
+   "en": "view",
+   "es": "vista",
+   "kind": "word",
+   "emoji": "🏞️",
+   "say": "viú"
+  },
+  {
+   "id": "u30.map",
+   "en": "map",
+   "es": "mapa",
+   "kind": "word",
+   "emoji": "🗺️",
+   "say": "map"
+  },
+  {
+   "id": "u30.guide",
+   "en": "guide",
+   "es": "guía",
+   "kind": "word",
+   "emoji": "🧑‍🏫",
+   "say": "gáid"
+  },
+  {
+   "id": "u30.souvenir",
+   "en": "souvenir",
+   "es": "recuerdo (de viaje)",
+   "kind": "word",
+   "emoji": "🗿",
+   "say": "su-ve-níer"
+  },
+  {
+   "id": "u30.exchange-money",
+   "en": "exchange money",
+   "es": "cambiar dinero",
+   "kind": "chunk",
+   "emoji": "💱"
+  },
+  {
+   "id": "u30.how-long-are-you-staying",
+   "en": "How long are you staying?",
+   "es": "¿Cuánto tiempo se va a quedar?",
+   "kind": "chunk",
+   "emoji": "📆"
+  },
+  {
+   "id": "u30.i-m-here-on-vacation",
+   "en": "I'm here on vacation",
+   "es": "Estoy aquí de vacaciones",
+   "kind": "chunk",
+   "emoji": "🏖️"
+  },
+  {
+   "id": "u30.i-m-here-for-work",
+   "en": "I'm here for work",
+   "es": "Estoy aquí por trabajo",
+   "kind": "chunk",
+   "emoji": "💼"
+  },
+  {
+   "id": "u30.could-you-help-me-please",
+   "en": "Could you help me, please?",
+   "es": "¿Podría ayudarme, por favor?",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u30.could-i-have-a-window-seat",
+   "en": "Could I have a window seat?",
+   "es": "¿Me podría dar un puesto en la ventana?",
+   "kind": "chunk",
+   "emoji": "🪟"
+  },
+  {
+   "id": "u30.is-breakfast-included",
+   "en": "Is breakfast included?",
+   "es": "¿El desayuno está incluido?",
+   "kind": "chunk",
+   "emoji": "🥐"
+  },
+  {
+   "id": "u30.i-have-a-reservation",
+   "en": "I have a reservation",
+   "es": "Tengo una reserva",
+   "kind": "chunk",
+   "emoji": "📝"
+  },
+  {
+   "id": "u30.where-is-gate-twelve",
+   "en": "Where is gate twelve?",
+   "es": "¿Dónde está la puerta doce?",
+   "kind": "chunk",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u30.have-a-nice-trip",
+   "en": "Have a nice trip!",
+   "es": "¡Buen viaje!",
+   "kind": "chunk",
+   "emoji": "👋"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u30-viaje-l1",
+   "title": "1. passport, boarding pass, flight…",
+   "focus": "listening",
+   "newItems": [
+    "u30.passport",
+    "u30.boarding-pass",
+    "u30.flight",
+    "u30.gate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.passport",
+      "u30.boarding-pass"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.flight",
+      "u30.gate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.passport",
+      "u30.boarding-pass",
+      "u30.flight",
+      "u30.gate"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.passport",
+      "u30.boarding-pass",
+      "u30.flight",
+      "u30.gate"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l2",
+   "title": "2. luggage, suitcase, backpack…",
+   "focus": "grammar",
+   "newItems": [
+    "u30.luggage",
+    "u30.suitcase",
+    "u30.backpack",
+    "u30.check-in"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.luggage",
+      "u30.suitcase"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.backpack",
+      "u30.check-in"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.luggage",
+      "u30.suitcase",
+      "u30.backpack",
+      "u30.check-in"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.luggage",
+      "u30.suitcase",
+      "u30.backpack",
+      "u30.check-in"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.passport",
+      "u30.boarding-pass",
+      "u30.flight",
+      "u30.gate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "can y could para pedir",
+     "intro": "Compara estas formas de pedir algo.",
+     "examples": [
+      {
+       "en": "Can you help me?",
+       "es": "¿Me puedes ayudar?",
+       "mark": [
+        "Can"
+       ]
+      },
+      {
+       "en": "Could you help me, please?",
+       "es": "¿Podría ayudarme, por favor?",
+       "mark": [
+        "Could"
+       ]
+      },
+      {
+       "en": "Can I have a towel?",
+       "es": "¿Me das una toalla?",
+       "mark": [
+        "Can"
+       ]
+      },
+      {
+       "en": "Could I have a window seat?",
+       "es": "¿Me podría dar un puesto en la ventana?",
+       "mark": [
+        "Could"
+       ]
+      },
+      {
+       "en": "Could you repeat that, please?",
+       "es": "¿Podría repetir eso, por favor?",
+       "mark": [
+        "Could"
+       ]
+      }
+     ],
+     "question": "¿Qué forma suena más amable y formal?",
+     "options": [
+      "can",
+      "could"
+     ],
+     "answer": 1,
+     "rule": "Can y could sirven para pedir algo. Could es más amable y formal (como 'podría'), ideal con desconocidos, en hoteles, aeropuertos o el trabajo. Después de los dos, el verbo va en forma normal.",
+     "ruleExamples": [
+      {
+       "en": "Excuse me, could you tell me where the elevator is?",
+       "es": "Disculpe, ¿podría decirme dónde está el ascensor?"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ you call a taxi for me, please?",
+     "options": [
+      "Could",
+      "Should"
+     ],
+     "answer": 0,
+     "es": "¿Podría pedirme un taxi, por favor?"
+    },
+    {
+     "type": "fill",
+     "en": "Could I ___ the bill, please?",
+     "options": [
+      "have",
+      "has"
+     ],
+     "answer": 0,
+     "es": "¿Me podría traer la cuenta, por favor?"
+    },
+    {
+     "type": "fill",
+     "en": "My flight is ___. It leaves at ten now.",
+     "options": [
+      "delayed",
+      "canceled"
+     ],
+     "answer": 0,
+     "es": "Mi vuelo está retrasado. Ahora sale a las diez."
+    },
+    {
+     "type": "fill",
+     "en": "I'd like a ___ room for two people.",
+     "options": [
+      "double",
+      "single"
+     ],
+     "answer": 0,
+     "es": "Quisiera una habitación doble para dos personas."
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l3",
+   "title": "3. check out, departure, arrival…",
+   "focus": "reading",
+   "newItems": [
+    "u30.check-out",
+    "u30.departure",
+    "u30.arrival",
+    "u30.delayed"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.check-out",
+      "u30.departure"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.arrival",
+      "u30.delayed"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.check-out",
+      "u30.departure",
+      "u30.arrival",
+      "u30.delayed"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.check-out",
+      "u30.departure",
+      "u30.arrival",
+      "u30.delayed"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.flight",
+      "u30.gate",
+      "u30.luggage",
+      "u30.suitcase",
+      "u30.backpack",
+      "u30.check-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l4",
+   "title": "4. canceled, customs, tourist…",
+   "focus": "listening",
+   "newItems": [
+    "u30.canceled",
+    "u30.customs",
+    "u30.tourist",
+    "u30.abroad"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.canceled",
+      "u30.customs"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.tourist",
+      "u30.abroad"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.canceled",
+      "u30.customs",
+      "u30.tourist",
+      "u30.abroad"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.canceled",
+      "u30.customs",
+      "u30.tourist",
+      "u30.abroad"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.backpack",
+      "u30.check-in",
+      "u30.check-out",
+      "u30.departure",
+      "u30.arrival",
+      "u30.delayed"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l5",
+   "title": "5. foreign, reservation, single room…",
+   "focus": "listening",
+   "newItems": [
+    "u30.foreign",
+    "u30.reservation",
+    "u30.single-room",
+    "u30.double-room"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.foreign",
+      "u30.reservation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.single-room",
+      "u30.double-room"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.foreign",
+      "u30.reservation",
+      "u30.single-room",
+      "u30.double-room"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.foreign",
+      "u30.reservation",
+      "u30.single-room",
+      "u30.double-room"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.arrival",
+      "u30.delayed",
+      "u30.canceled",
+      "u30.customs",
+      "u30.tourist",
+      "u30.abroad"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l6",
+   "title": "6. reception, towel, air conditioning…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u30.reception",
+    "u30.towel",
+    "u30.air-conditioning",
+    "u30.elevator"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.reception",
+      "u30.towel"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.air-conditioning",
+      "u30.elevator"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.reception",
+      "u30.towel",
+      "u30.air-conditioning",
+      "u30.elevator"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.reception",
+      "u30.towel",
+      "u30.air-conditioning",
+      "u30.elevator"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.tourist",
+      "u30.abroad",
+      "u30.foreign",
+      "u30.reservation",
+      "u30.single-room",
+      "u30.double-room"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l7",
+   "title": "7. view, map, guide…",
+   "focus": "reading",
+   "newItems": [
+    "u30.view",
+    "u30.map",
+    "u30.guide",
+    "u30.souvenir"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.view",
+      "u30.map"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.guide",
+      "u30.souvenir"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.view",
+      "u30.map",
+      "u30.guide",
+      "u30.souvenir"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.view",
+      "u30.map",
+      "u30.guide",
+      "u30.souvenir"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.single-room",
+      "u30.double-room",
+      "u30.reception",
+      "u30.towel",
+      "u30.air-conditioning",
+      "u30.elevator"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l8",
+   "title": "8. exchange money, How long are you staying?, I'm here on vacation…",
+   "focus": "listening",
+   "newItems": [
+    "u30.exchange-money",
+    "u30.how-long-are-you-staying",
+    "u30.i-m-here-on-vacation",
+    "u30.i-m-here-for-work"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.exchange-money",
+      "u30.how-long-are-you-staying"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.i-m-here-on-vacation",
+      "u30.i-m-here-for-work"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.exchange-money",
+      "u30.how-long-are-you-staying",
+      "u30.i-m-here-on-vacation",
+      "u30.i-m-here-for-work"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.exchange-money",
+      "u30.how-long-are-you-staying",
+      "u30.i-m-here-on-vacation",
+      "u30.i-m-here-for-work"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.air-conditioning",
+      "u30.elevator",
+      "u30.view",
+      "u30.map",
+      "u30.guide",
+      "u30.souvenir"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En migración",
+     "scene": "🛂 Llegas al aeropuerto de Miami.",
+     "lines": [
+      {
+       "who": "Officer",
+       "en": "Passport, please.",
+       "es": "Pasaporte, por favor."
+      },
+      {
+       "who": "You",
+       "en": "Here you are.",
+       "es": "Aquí tiene."
+      },
+      {
+       "who": "Officer",
+       "en": "What's the purpose of your visit?",
+       "es": "¿Cuál es el motivo de su visita?"
+      },
+      {
+       "who": "You",
+       "en": "I'm here on vacation.",
+       "es": "Estoy aquí de vacaciones."
+      },
+      {
+       "who": "Officer",
+       "en": "How long are you staying?",
+       "es": "¿Cuánto tiempo se va a quedar?"
+      },
+      {
+       "who": "You",
+       "en": "Two weeks. I have a hotel reservation.",
+       "es": "Dos semanas. Tengo reserva de hotel."
+      },
+      {
+       "who": "Officer",
+       "en": "OK. Enjoy your trip!",
+       "es": "Bien. ¡Disfrute su viaje!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l9",
+   "title": "9. Could you help me, please?, Could I have a window seat?, Is breakfast included?…",
+   "focus": "listening",
+   "newItems": [
+    "u30.could-you-help-me-please",
+    "u30.could-i-have-a-window-seat",
+    "u30.is-breakfast-included",
+    "u30.i-have-a-reservation"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.could-you-help-me-please",
+      "u30.could-i-have-a-window-seat"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u30.is-breakfast-included",
+      "u30.i-have-a-reservation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.could-you-help-me-please",
+      "u30.could-i-have-a-window-seat",
+      "u30.is-breakfast-included",
+      "u30.i-have-a-reservation"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.could-you-help-me-please",
+      "u30.could-i-have-a-window-seat",
+      "u30.is-breakfast-included",
+      "u30.i-have-a-reservation"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.guide",
+      "u30.souvenir",
+      "u30.exchange-money",
+      "u30.how-long-are-you-staying",
+      "u30.i-m-here-on-vacation",
+      "u30.i-m-here-for-work"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-l10",
+   "title": "10. Where is gate twelve?, Have a nice trip!",
+   "focus": "vocabulary",
+   "newItems": [
+    "u30.where-is-gate-twelve",
+    "u30.have-a-nice-trip"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u30.where-is-gate-twelve",
+      "u30.have-a-nice-trip"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.where-is-gate-twelve",
+      "u30.have-a-nice-trip"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.where-is-gate-twelve",
+      "u30.have-a-nice-trip"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.i-m-here-on-vacation",
+      "u30.i-m-here-for-work",
+      "u30.could-you-help-me-please",
+      "u30.could-i-have-a-window-seat",
+      "u30.is-breakfast-included",
+      "u30.i-have-a-reservation"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u30-viaje-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un vuelo retrasado",
+     "emoji": "⏳",
+     "paragraphs": [
+      {
+       "en": "Laura arrived at the airport at five in the morning. Her flight to Madrid was at seven.",
+       "es": "Laura llegó al aeropuerto a las cinco de la mañana. Su vuelo a Madrid era a las siete."
+      },
+      {
+       "en": "She checked in, showed her passport and went to gate twelve.",
+       "es": "Hizo el check-in, mostró su pasaporte y se fue a la puerta doce."
+      },
+      {
+       "en": "Then she saw the screen: \"Flight 304: DELAYED.\"",
+       "es": "Entonces vio la pantalla: \"Vuelo 304: RETRASADO.\""
+      },
+      {
+       "en": "She waited for four hours. She read a book and bought a souvenir.",
+       "es": "Esperó cuatro horas. Leyó un libro y compró un recuerdo."
+      },
+      {
+       "en": "On the plane she asked, \"Could I have a window seat?\" The attendant said yes.",
+       "es": "En el avión preguntó: \"¿Me podría dar un puesto en la ventana?\" La azafata dijo que sí."
+      },
+      {
+       "en": "When she arrived in Madrid, the view from the window was beautiful.",
+       "es": "Cuando llegó a Madrid, la vista desde la ventana era hermosa."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿A dónde viajaba Laura?",
+       "options": [
+        "A Miami",
+        "A Madrid",
+        "A Bogotá"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuánto esperó?",
+       "options": [
+        "Una hora",
+        "Cuatro horas",
+        "Dos días"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué pidió en el avión?",
+       "options": [
+        "Un puesto en la ventana",
+        "Una toalla",
+        "Comida"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Llegada al hotel",
+     "scene": "🛎️ Llegas a la recepción del hotel.",
+     "turns": [
+      {
+       "who": "Receptionist",
+       "en": "Good evening. Welcome to Hotel Andes.",
+       "es": "Buenas noches. Bienvenido al Hotel Andes."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Good evening. I have a reservation. My name is Sam Ruiz.",
+         "es": "Buenas noches. Tengo una reserva. Me llamo Sam Ruiz.",
+         "ok": true
+        },
+        {
+         "en": "Good evening. I'm a reservation.",
+         "es": "Buenas noches. Soy una reserva.",
+         "ok": false,
+         "why": "Tú tienes una reserva: \"I have a reservation\"."
+        }
+       ]
+      },
+      {
+       "who": "Receptionist",
+       "en": "Yes, a single room for three nights.",
+       "es": "Sí, una habitación sencilla por tres noches."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Is breakfast included?",
+         "es": "¿El desayuno está incluido?",
+         "ok": true
+        },
+        {
+         "en": "Is breakfast delayed?",
+         "es": "¿El desayuno está retrasado?",
+         "ok": false,
+         "why": "\"Delayed\" se usa para vuelos o buses."
+        }
+       ]
+      },
+      {
+       "who": "Receptionist",
+       "en": "Yes, from six to ten. Here is your key.",
+       "es": "Sí, de seis a diez. Aquí está su llave."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you. Could you tell me where the elevator is?",
+         "es": "Gracias. ¿Podría decirme dónde está el ascensor?",
+         "ok": true
+        },
+        {
+         "en": "Thank you. Could you to tell me the elevator?",
+         "es": "Gracias. ¿Podría a decirme el ascensor?",
+         "ok": false,
+         "why": "Después de could no va \"to\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Tengo una reserva.",
+     "en": "I have a reservation."
+    },
+    {
+     "type": "write",
+     "es": "¿Podría ayudarme, por favor?",
+     "en": "Could you help me, please?",
+     "accept": [
+      "Could you help me please?"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Mi vuelo está retrasado.",
+     "en": "My flight is delayed."
+    },
+    {
+     "type": "dictation",
+     "en": "Where is gate twelve?",
+     "es": "¿Dónde está la puerta doce?"
+    },
+    {
+     "type": "dictation",
+     "en": "Could I have a window seat, please?",
+     "es": "¿Me podría dar un puesto en la ventana, por favor?"
+    },
+    {
+     "type": "speak",
+     "en": "I'm here on vacation for two weeks.",
+     "es": "Estoy aquí de vacaciones por dos semanas.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u30.i-m-here-on-vacation",
+      "u30.i-m-here-for-work",
+      "u30.could-you-help-me-please",
+      "u30.could-i-have-a-window-seat",
+      "u30.is-breakfast-included",
+      "u30.i-have-a-reservation",
+      "u30.where-is-gate-twelve",
+      "u30.have-a-nice-trip"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

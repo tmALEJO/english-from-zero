@@ -1,0 +1,1432 @@
+{
+ "_generated": true,
+ "id": "u74-idioms",
+ "level": "B2",
+ "title": "Expresiones que usan los nativos",
+ "emoji": "💬",
+ "canDo": "Ya entiendo y uso expresiones idiomáticas comunes del inglés",
+ "summary": "Idioms frecuentes por temas (tiempo, dinero, trabajo, emociones) que aparecen a diario.",
+ "grammar": [
+  "Idioms y su significado no literal"
+ ],
+ "items": [
+  {
+   "id": "u74.once-in-a-blue-moon",
+   "en": "once in a blue moon",
+   "es": "muy de vez en cuando",
+   "kind": "chunk",
+   "emoji": "🌙"
+  },
+  {
+   "id": "u74.in-the-long-run",
+   "en": "in the long run",
+   "es": "a la larga",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u74.around-the-clock",
+   "en": "around the clock",
+   "es": "las 24 horas",
+   "kind": "chunk",
+   "emoji": "🕐"
+  },
+  {
+   "id": "u74.call-it-a-day",
+   "en": "call it a day",
+   "es": "dar por terminado el día",
+   "kind": "chunk",
+   "emoji": "🛑"
+  },
+  {
+   "id": "u74.beat-around-the-bush",
+   "en": "beat around the bush",
+   "es": "irse por las ramas",
+   "kind": "chunk",
+   "emoji": "🌳"
+  },
+  {
+   "id": "u74.get-to-the-point",
+   "en": "get to the point",
+   "es": "ir al grano",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u74.piece-of-cake",
+   "en": "piece of cake",
+   "es": "pan comido",
+   "kind": "chunk",
+   "emoji": "🍰"
+  },
+  {
+   "id": "u74.a-rip-off",
+   "en": "a rip-off",
+   "es": "un robo (muy caro)",
+   "kind": "chunk",
+   "emoji": "💸"
+  },
+  {
+   "id": "u74.cost-an-arm-and-a-leg",
+   "en": "cost an arm and a leg",
+   "es": "costar un ojo de la cara",
+   "kind": "chunk",
+   "emoji": "💰"
+  },
+  {
+   "id": "u74.save-for-a-rainy-day",
+   "en": "save for a rainy day",
+   "es": "ahorrar para una emergencia",
+   "kind": "chunk",
+   "emoji": "☔"
+  },
+  {
+   "id": "u74.tighten-your-belt",
+   "en": "tighten your belt",
+   "es": "apretarse el cinturón",
+   "kind": "chunk",
+   "emoji": "🔧"
+  },
+  {
+   "id": "u74.break-the-bank",
+   "en": "break the bank",
+   "es": "gastar de más",
+   "kind": "chunk",
+   "emoji": "🏦"
+  },
+  {
+   "id": "u74.be-in-the-red",
+   "en": "be in the red",
+   "es": "estar en números rojos",
+   "kind": "chunk",
+   "emoji": "📉"
+  },
+  {
+   "id": "u74.pull-your-weight",
+   "en": "pull your weight",
+   "es": "hacer tu parte",
+   "kind": "chunk",
+   "emoji": "🏋️"
+  },
+  {
+   "id": "u74.go-the-extra-mile",
+   "en": "go the extra mile",
+   "es": "hacer un esfuerzo extra",
+   "kind": "chunk",
+   "emoji": "🏃"
+  },
+  {
+   "id": "u74.learn-the-ropes",
+   "en": "learn the ropes",
+   "es": "aprender cómo se hace",
+   "kind": "chunk",
+   "emoji": "🪢"
+  },
+  {
+   "id": "u74.think-outside-the-box",
+   "en": "think outside the box",
+   "es": "pensar diferente",
+   "kind": "chunk",
+   "emoji": "📦"
+  },
+  {
+   "id": "u74.a-long-shot",
+   "en": "a long shot",
+   "es": "poco probable",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u74.hit-the-nail-on-the-head",
+   "en": "hit the nail on the head",
+   "es": "dar en el clavo",
+   "kind": "chunk",
+   "emoji": "🔨"
+  },
+  {
+   "id": "u74.the-ball-is-in-your-court",
+   "en": "the ball is in your court",
+   "es": "te toca a ti decidir",
+   "kind": "chunk",
+   "emoji": "🎾"
+  },
+  {
+   "id": "u74.bite-off-more-than-you-can-chew",
+   "en": "bite off more than you can chew",
+   "es": "abarcar más de lo que puedes",
+   "kind": "chunk",
+   "emoji": "🍔"
+  },
+  {
+   "id": "u74.burn-the-midnight-oil",
+   "en": "burn the midnight oil",
+   "es": "trasnochar trabajando",
+   "kind": "chunk",
+   "emoji": "🕯️"
+  },
+  {
+   "id": "u74.under-the-weather",
+   "en": "under the weather",
+   "es": "con malestar",
+   "kind": "chunk",
+   "emoji": "🤒"
+  },
+  {
+   "id": "u74.on-cloud-nine",
+   "en": "on cloud nine",
+   "es": "feliz de la vida",
+   "kind": "chunk",
+   "emoji": "☁️"
+  },
+  {
+   "id": "u74.a-pain-in-the-neck",
+   "en": "a pain in the neck",
+   "es": "un fastidio",
+   "kind": "chunk",
+   "emoji": "😤"
+  },
+  {
+   "id": "u74.get-cold-feet",
+   "en": "get cold feet",
+   "es": "arrepentirse / echarse para atrás",
+   "kind": "chunk",
+   "emoji": "🥶"
+  },
+  {
+   "id": "u74.spill-the-beans",
+   "en": "spill the beans",
+   "es": "revelar un secreto",
+   "kind": "chunk",
+   "emoji": "🫘"
+  },
+  {
+   "id": "u74.let-the-cat-out-of-the-bag",
+   "en": "let the cat out of the bag",
+   "es": "revelar un secreto",
+   "kind": "chunk",
+   "emoji": "🐈"
+  },
+  {
+   "id": "u74.a-blessing-in-disguise",
+   "en": "a blessing in disguise",
+   "es": "un mal que vino por bien",
+   "kind": "chunk",
+   "emoji": "🎁"
+  },
+  {
+   "id": "u74.when-pigs-fly",
+   "en": "when pigs fly",
+   "es": "cuando las ranas críen pelo",
+   "kind": "chunk",
+   "emoji": "🐷"
+  },
+  {
+   "id": "u74.break-a-leg",
+   "en": "break a leg",
+   "es": "mucha suerte (antes de actuar)",
+   "kind": "chunk",
+   "emoji": "🎭"
+  },
+  {
+   "id": "u74.hang-in-there",
+   "en": "hang in there",
+   "es": "aguanta / no te rindas",
+   "kind": "chunk",
+   "emoji": "🪢"
+  },
+  {
+   "id": "u74.it-s-not-rocket-science",
+   "en": "it's not rocket science",
+   "es": "no es tan difícil",
+   "kind": "chunk",
+   "emoji": "🚀"
+  },
+  {
+   "id": "u74.read-between-the-lines",
+   "en": "read between the lines",
+   "es": "leer entre líneas",
+   "kind": "chunk",
+   "emoji": "📖"
+  },
+  {
+   "id": "u74.the-last-straw",
+   "en": "the last straw",
+   "es": "la gota que rebasó el vaso",
+   "kind": "chunk",
+   "emoji": "🥤"
+  },
+  {
+   "id": "u74.speak-of-the-devil",
+   "en": "speak of the devil",
+   "es": "hablando del rey de Roma",
+   "kind": "chunk",
+   "emoji": "😈"
+  },
+  {
+   "id": "u74.better-late-than-never",
+   "en": "better late than never",
+   "es": "más vale tarde que nunca",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u74.to-make-matters-worse",
+   "en": "to make matters worse",
+   "es": "para colmo de males",
+   "kind": "chunk",
+   "emoji": "😩"
+  },
+  {
+   "id": "u74.no-pain-no-gain",
+   "en": "no pain, no gain",
+   "es": "sin esfuerzo no hay recompensa",
+   "kind": "chunk",
+   "emoji": "💪"
+  },
+  {
+   "id": "u74.actions-speak-louder-than-words",
+   "en": "actions speak louder than words",
+   "es": "las acciones valen más que las palabras",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u74.the-early-bird-catches-the-worm",
+   "en": "the early bird catches the worm",
+   "es": "al que madruga Dios lo ayuda",
+   "kind": "chunk",
+   "emoji": "🐦"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u74-idioms-l1",
+   "title": "1. once in a blue moon, in the long run, around the clock…",
+   "focus": "listening",
+   "newItems": [
+    "u74.once-in-a-blue-moon",
+    "u74.in-the-long-run",
+    "u74.around-the-clock",
+    "u74.call-it-a-day",
+    "u74.beat-around-the-bush"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.once-in-a-blue-moon",
+      "u74.in-the-long-run"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.around-the-clock",
+      "u74.call-it-a-day"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.beat-around-the-bush"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.once-in-a-blue-moon",
+      "u74.in-the-long-run",
+      "u74.around-the-clock",
+      "u74.call-it-a-day",
+      "u74.beat-around-the-bush"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.once-in-a-blue-moon",
+      "u74.in-the-long-run",
+      "u74.around-the-clock",
+      "u74.call-it-a-day",
+      "u74.beat-around-the-bush"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.once-in-a-blue-moon",
+      "u74.in-the-long-run",
+      "u74.around-the-clock",
+      "u74.call-it-a-day",
+      "u74.beat-around-the-bush"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l2",
+   "title": "2. get to the point, piece of cake, a rip-off…",
+   "focus": "grammar",
+   "newItems": [
+    "u74.get-to-the-point",
+    "u74.piece-of-cake",
+    "u74.a-rip-off",
+    "u74.cost-an-arm-and-a-leg",
+    "u74.save-for-a-rainy-day"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.get-to-the-point",
+      "u74.piece-of-cake"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.a-rip-off",
+      "u74.cost-an-arm-and-a-leg"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.save-for-a-rainy-day"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.get-to-the-point",
+      "u74.piece-of-cake",
+      "u74.a-rip-off",
+      "u74.cost-an-arm-and-a-leg",
+      "u74.save-for-a-rainy-day"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.get-to-the-point",
+      "u74.piece-of-cake",
+      "u74.a-rip-off",
+      "u74.cost-an-arm-and-a-leg",
+      "u74.save-for-a-rainy-day"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.get-to-the-point",
+      "u74.piece-of-cake",
+      "u74.a-rip-off",
+      "u74.cost-an-arm-and-a-leg",
+      "u74.save-for-a-rainy-day"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.once-in-a-blue-moon",
+      "u74.in-the-long-run",
+      "u74.around-the-clock",
+      "u74.call-it-a-day",
+      "u74.beat-around-the-bush"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Qué es un idiom",
+     "intro": "El significado NO es literal. Lee el contexto y adivina el sentido.",
+     "examples": [
+      {
+       "en": "Learning this app is a piece of cake.",
+       "es": "Aprender esta app es pan comido.",
+       "mark": [
+        "piece of cake"
+       ]
+      },
+      {
+       "en": "That phone cost an arm and a leg.",
+       "es": "Ese celular costó un ojo de la cara.",
+       "mark": [
+        "an arm and a leg"
+       ]
+      },
+      {
+       "en": "Don't beat around the bush, get to the point.",
+       "es": "No te vayas por las ramas, ve al grano.",
+       "mark": [
+        "beat around the bush"
+       ]
+      },
+      {
+       "en": "Losing that job was a blessing in disguise.",
+       "es": "Perder ese trabajo fue un mal que vino por bien.",
+       "mark": [
+        "a blessing in disguise"
+       ]
+      },
+      {
+       "en": "Hang in there, things will get better.",
+       "es": "Aguanta, las cosas van a mejorar.",
+       "mark": [
+        "Hang in there"
+       ]
+      }
+     ],
+     "question": "¿Cómo se entiende un idiom?",
+     "options": [
+      "Palabra por palabra",
+      "Por su significado completo, no literal, con el contexto"
+     ],
+     "answer": 1,
+     "rule": "Un IDIOM es una expresión cuyo significado no se deduce palabra por palabra: 'it's a piece of cake' no habla de torta, significa 'es muy fácil'. Hay que aprenderlos como bloques. Son muy comunes en conversación, series y correos, así que entenderlos te acerca al nivel nativo.",
+     "ruleExamples": [
+      {
+       "en": "I was nervous before the interview, but my friend said \"break a leg!\" and it went great.",
+       "es": "Estaba nervioso antes de la entrevista, pero mi amigo me dijo \"¡mucha suerte!\" y me fue muy bien."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "This exercise is easy. It's a piece of ___.",
+     "options": [
+      "cake",
+      "pie"
+     ],
+     "answer": 0,
+     "es": "Este ejercicio es fácil. Es pan comido."
+    },
+    {
+     "type": "fill",
+     "en": "That car costs an arm and a ___.",
+     "options": [
+      "leg",
+      "foot"
+     ],
+     "answer": 0,
+     "es": "Ese carro cuesta un ojo de la cara."
+    },
+    {
+     "type": "fill",
+     "en": "Don't give up. Just ___ in there!",
+     "options": [
+      "hang",
+      "stay"
+     ],
+     "answer": 0,
+     "es": "No te rindas. ¡Solo aguanta!"
+    },
+    {
+     "type": "fill",
+     "en": "Stop beating around the ___ and tell me.",
+     "options": [
+      "bush",
+      "tree"
+     ],
+     "answer": 0,
+     "es": "Deja de irte por las ramas y dime."
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l3",
+   "title": "3. tighten your belt, break the bank, be in the red…",
+   "focus": "reading",
+   "newItems": [
+    "u74.tighten-your-belt",
+    "u74.break-the-bank",
+    "u74.be-in-the-red",
+    "u74.pull-your-weight",
+    "u74.go-the-extra-mile"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.tighten-your-belt",
+      "u74.break-the-bank"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.be-in-the-red",
+      "u74.pull-your-weight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.go-the-extra-mile"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.tighten-your-belt",
+      "u74.break-the-bank",
+      "u74.be-in-the-red",
+      "u74.pull-your-weight",
+      "u74.go-the-extra-mile"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.tighten-your-belt",
+      "u74.break-the-bank",
+      "u74.be-in-the-red",
+      "u74.pull-your-weight",
+      "u74.go-the-extra-mile"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.tighten-your-belt",
+      "u74.break-the-bank",
+      "u74.be-in-the-red",
+      "u74.pull-your-weight",
+      "u74.go-the-extra-mile"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.beat-around-the-bush",
+      "u74.get-to-the-point",
+      "u74.piece-of-cake",
+      "u74.a-rip-off",
+      "u74.cost-an-arm-and-a-leg",
+      "u74.save-for-a-rainy-day"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l4",
+   "title": "4. learn the ropes, think outside the box, a long shot…",
+   "focus": "listening",
+   "newItems": [
+    "u74.learn-the-ropes",
+    "u74.think-outside-the-box",
+    "u74.a-long-shot",
+    "u74.hit-the-nail-on-the-head",
+    "u74.the-ball-is-in-your-court"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.learn-the-ropes",
+      "u74.think-outside-the-box"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.a-long-shot",
+      "u74.hit-the-nail-on-the-head"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.the-ball-is-in-your-court"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.learn-the-ropes",
+      "u74.think-outside-the-box",
+      "u74.a-long-shot",
+      "u74.hit-the-nail-on-the-head",
+      "u74.the-ball-is-in-your-court"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.learn-the-ropes",
+      "u74.think-outside-the-box",
+      "u74.a-long-shot",
+      "u74.hit-the-nail-on-the-head",
+      "u74.the-ball-is-in-your-court"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.learn-the-ropes",
+      "u74.think-outside-the-box",
+      "u74.a-long-shot",
+      "u74.hit-the-nail-on-the-head",
+      "u74.the-ball-is-in-your-court"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.save-for-a-rainy-day",
+      "u74.tighten-your-belt",
+      "u74.break-the-bank",
+      "u74.be-in-the-red",
+      "u74.pull-your-weight",
+      "u74.go-the-extra-mile"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l5",
+   "title": "5. bite off more than you can chew, burn the midnight oil, under the weather…",
+   "focus": "listening",
+   "newItems": [
+    "u74.bite-off-more-than-you-can-chew",
+    "u74.burn-the-midnight-oil",
+    "u74.under-the-weather",
+    "u74.on-cloud-nine",
+    "u74.a-pain-in-the-neck"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.bite-off-more-than-you-can-chew",
+      "u74.burn-the-midnight-oil"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.under-the-weather",
+      "u74.on-cloud-nine"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.a-pain-in-the-neck"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.bite-off-more-than-you-can-chew",
+      "u74.burn-the-midnight-oil",
+      "u74.under-the-weather",
+      "u74.on-cloud-nine",
+      "u74.a-pain-in-the-neck"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.bite-off-more-than-you-can-chew",
+      "u74.burn-the-midnight-oil",
+      "u74.under-the-weather",
+      "u74.on-cloud-nine",
+      "u74.a-pain-in-the-neck"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.bite-off-more-than-you-can-chew",
+      "u74.burn-the-midnight-oil",
+      "u74.under-the-weather",
+      "u74.on-cloud-nine",
+      "u74.a-pain-in-the-neck"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.go-the-extra-mile",
+      "u74.learn-the-ropes",
+      "u74.think-outside-the-box",
+      "u74.a-long-shot",
+      "u74.hit-the-nail-on-the-head",
+      "u74.the-ball-is-in-your-court"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🎬",
+     "title": "Cómo aprender idioms",
+     "text": "No intentes memorizar listas. Apréndelos cuando los veas en una serie o canción, en su contexto. Y ojo: suenan raros si los usas demasiado. Un idiom bien puesto, de vez en cuando (once in a blue moon), suena natural."
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l6",
+   "title": "6. get cold feet, spill the beans, let the cat out of the bag…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u74.get-cold-feet",
+    "u74.spill-the-beans",
+    "u74.let-the-cat-out-of-the-bag",
+    "u74.a-blessing-in-disguise",
+    "u74.when-pigs-fly"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.get-cold-feet",
+      "u74.spill-the-beans"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.let-the-cat-out-of-the-bag",
+      "u74.a-blessing-in-disguise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.when-pigs-fly"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.get-cold-feet",
+      "u74.spill-the-beans",
+      "u74.let-the-cat-out-of-the-bag",
+      "u74.a-blessing-in-disguise",
+      "u74.when-pigs-fly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.get-cold-feet",
+      "u74.spill-the-beans",
+      "u74.let-the-cat-out-of-the-bag",
+      "u74.a-blessing-in-disguise",
+      "u74.when-pigs-fly"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.get-cold-feet",
+      "u74.spill-the-beans",
+      "u74.let-the-cat-out-of-the-bag",
+      "u74.a-blessing-in-disguise",
+      "u74.when-pigs-fly"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.the-ball-is-in-your-court",
+      "u74.bite-off-more-than-you-can-chew",
+      "u74.burn-the-midnight-oil",
+      "u74.under-the-weather",
+      "u74.on-cloud-nine",
+      "u74.a-pain-in-the-neck"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l7",
+   "title": "7. break a leg, hang in there, it's not rocket science…",
+   "focus": "reading",
+   "newItems": [
+    "u74.break-a-leg",
+    "u74.hang-in-there",
+    "u74.it-s-not-rocket-science",
+    "u74.read-between-the-lines",
+    "u74.the-last-straw"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.break-a-leg",
+      "u74.hang-in-there"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.it-s-not-rocket-science",
+      "u74.read-between-the-lines"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.the-last-straw"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.break-a-leg",
+      "u74.hang-in-there",
+      "u74.it-s-not-rocket-science",
+      "u74.read-between-the-lines",
+      "u74.the-last-straw"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.break-a-leg",
+      "u74.hang-in-there",
+      "u74.it-s-not-rocket-science",
+      "u74.read-between-the-lines",
+      "u74.the-last-straw"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.break-a-leg",
+      "u74.hang-in-there",
+      "u74.it-s-not-rocket-science",
+      "u74.read-between-the-lines",
+      "u74.the-last-straw"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.a-pain-in-the-neck",
+      "u74.get-cold-feet",
+      "u74.spill-the-beans",
+      "u74.let-the-cat-out-of-the-bag",
+      "u74.a-blessing-in-disguise",
+      "u74.when-pigs-fly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l8",
+   "title": "8. speak of the devil, better late than never, to make matters worse…",
+   "focus": "listening",
+   "newItems": [
+    "u74.speak-of-the-devil",
+    "u74.better-late-than-never",
+    "u74.to-make-matters-worse",
+    "u74.no-pain-no-gain",
+    "u74.actions-speak-louder-than-words"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.speak-of-the-devil",
+      "u74.better-late-than-never"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.to-make-matters-worse",
+      "u74.no-pain-no-gain"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u74.actions-speak-louder-than-words"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.speak-of-the-devil",
+      "u74.better-late-than-never",
+      "u74.to-make-matters-worse",
+      "u74.no-pain-no-gain",
+      "u74.actions-speak-louder-than-words"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.speak-of-the-devil",
+      "u74.better-late-than-never",
+      "u74.to-make-matters-worse",
+      "u74.no-pain-no-gain",
+      "u74.actions-speak-louder-than-words"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.speak-of-the-devil",
+      "u74.better-late-than-never",
+      "u74.to-make-matters-worse",
+      "u74.no-pain-no-gain",
+      "u74.actions-speak-louder-than-words"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.when-pigs-fly",
+      "u74.break-a-leg",
+      "u74.hang-in-there",
+      "u74.it-s-not-rocket-science",
+      "u74.read-between-the-lines",
+      "u74.the-last-straw"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Charla de oficina",
+     "scene": "☕ Dos colegas en el descanso.",
+     "lines": [
+      {
+       "who": "Sara",
+       "en": "You look tired. Everything OK?",
+       "es": "Te ves cansado. ¿Todo bien?"
+      },
+      {
+       "who": "Juan",
+       "en": "I'm a bit under the weather, and to make matters worse, the deadline got moved up.",
+       "es": "Estoy un poco indispuesto, y para colmo, adelantaron la fecha límite."
+      },
+      {
+       "who": "Sara",
+       "en": "Oh no. Were you burning the midnight oil again?",
+       "es": "Ay no. ¿Trasnochaste trabajando otra vez?"
+      },
+      {
+       "who": "Juan",
+       "en": "Yeah, but hey, no pain, no gain. The project is almost done.",
+       "es": "Sí, pero bueno, sin esfuerzo no hay recompensa. El proyecto ya casi está."
+      },
+      {
+       "who": "Sara",
+       "en": "You always go the extra mile. Let's call it a day and get some coffee.",
+       "es": "Siempre haces el esfuerzo extra. Demos por terminado el día y vamos por un café."
+      },
+      {
+       "who": "Juan",
+       "en": "Now you're speaking my language!",
+       "es": "¡Ahora sí hablamos el mismo idioma!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-l9",
+   "title": "9. the early bird catches the worm",
+   "focus": "listening",
+   "newItems": [
+    "u74.the-early-bird-catches-the-worm"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u74.the-early-bird-catches-the-worm"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.the-early-bird-catches-the-worm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.the-early-bird-catches-the-worm"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.the-early-bird-catches-the-worm"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.the-last-straw",
+      "u74.speak-of-the-devil",
+      "u74.better-late-than-never",
+      "u74.to-make-matters-worse",
+      "u74.no-pain-no-gain",
+      "u74.actions-speak-louder-than-words"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u74-idioms-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La apuesta del abuelo",
+     "emoji": "🎲",
+     "paragraphs": [
+      {
+       "en": "When I told my grandfather I wanted to quit my job and start a business, he didn't laugh.",
+       "es": "Cuando le dije a mi abuelo que quería renunciar a mi trabajo y empezar un negocio, no se rió."
+      },
+      {
+       "en": "\"It's a long shot,\" he said, \"but actions speak louder than words. Show me you're serious.\"",
+       "es": "\"Es poco probable\", dijo, \"pero las acciones valen más que las palabras. Demuéstrame que vas en serio.\""
+      },
+      {
+       "en": "For a year I burned the midnight oil, learning the ropes and saving every peso for a rainy day.",
+       "es": "Por un año trasnoché trabajando, aprendiendo cómo se hacía y ahorrando cada peso para una emergencia."
+      },
+      {
+       "en": "At first sales were so slow that I almost got cold feet and gave up.",
+       "es": "Al principio las ventas iban tan lentas que casi me eché para atrás y me rendí."
+      },
+      {
+       "en": "But I hung in there, and little by little the business grew.",
+       "es": "Pero aguanté, y poco a poco el negocio creció."
+      },
+      {
+       "en": "On my grandfather's birthday, I gave him the first profit. \"Better late than never,\" he smiled. \"I knew you had it in you.\"",
+       "es": "En el cumpleaños de mi abuelo, le di la primera ganancia. \"Más vale tarde que nunca\", sonrió. \"Sabía que lo tenías en ti.\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué le dijo el abuelo al principio?",
+       "options": [
+        "Que era poco probable, pero que demostrara con acciones",
+        "Que era imposible",
+        "Que no lo hiciera"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué casi hace el narrador cuando las ventas iban lentas?",
+       "options": [
+        "Echarse para atrás y rendirse",
+        "Pedir un préstamo",
+        "Mudarse"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué le dio al abuelo en su cumpleaños?",
+       "options": [
+        "La primera ganancia",
+        "Un carro",
+        "Una carta"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Usar idioms naturalmente",
+     "scene": "🎤 Tu amigo está nervioso antes de una presentación.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "I'm so nervous about my presentation. What if I mess up?",
+       "es": "Estoy muy nervioso por mi presentación. ¿Y si la riego?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Relax, you've practiced a lot. It's not rocket science. Break a leg!",
+         "es": "Relájate, has practicado mucho. No es tan difícil. ¡Mucha suerte!",
+         "ok": true
+        },
+        {
+         "en": "Relax, break your leg literally.",
+         "es": "Relájate, rómpete la pierna literalmente.",
+         "ok": false,
+         "why": "\"Break a leg\" es un idiom; no es literal."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Thanks. But the boss will be watching. He's a pain in the neck.",
+       "es": "Gracias. Pero el jefe estará mirando. Es un fastidio."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Just hang in there. You've got this.",
+         "es": "Solo aguanta. Tú puedes.",
+         "ok": true
+        },
+        {
+         "en": "Just spill the beans.",
+         "es": "Solo revela el secreto.",
+         "ok": false,
+         "why": "No encaja con la situación."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "You're right. Here goes nothing!",
+       "es": "Tienes razón. ¡Allá voy!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Go get 'em. You'll do great.",
+         "es": "Ve por ellos. Te va a ir genial.",
+         "ok": true
+        },
+        {
+         "en": "When pigs fly.",
+         "es": "Cuando las ranas críen pelo.",
+         "ok": false,
+         "why": "Significa \"nunca\"; justo lo contrario de animarlo."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ese celular cuesta un ojo de la cara.",
+     "en": "That phone costs an arm and a leg."
+    },
+    {
+     "type": "write",
+     "es": "A la larga, vale la pena.",
+     "en": "In the long run, it's worth it.",
+     "accept": [
+      "In the long run, it is worth it.",
+      "In the long run it's worth it."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No te vayas por las ramas.",
+     "en": "Don't beat around the bush."
+    },
+    {
+     "type": "dictation",
+     "en": "Learning this is a piece of cake.",
+     "es": "Aprender esto es pan comido."
+    },
+    {
+     "type": "dictation",
+     "en": "Hang in there, things will get better.",
+     "es": "Aguanta, las cosas van a mejorar."
+    },
+    {
+     "type": "speak",
+     "en": "Don't worry, it's not rocket science. You've got this!",
+     "es": "No te preocupes, no es tan difícil. ¡Tú puedes!",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u74.read-between-the-lines",
+      "u74.the-last-straw",
+      "u74.speak-of-the-devil",
+      "u74.better-late-than-never",
+      "u74.to-make-matters-worse",
+      "u74.no-pain-no-gain",
+      "u74.actions-speak-louder-than-words",
+      "u74.the-early-bird-catches-the-worm"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

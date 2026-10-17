@@ -1,0 +1,1175 @@
+{
+ "_generated": true,
+ "id": "u21-personas",
+ "level": "A1",
+ "title": "Describir personas",
+ "emoji": "🧑‍🤝‍🧑",
+ "canDo": "Ya puedo describir cómo es alguien",
+ "summary": "Apariencia física, personalidad y cómo preguntar cómo es una persona.",
+ "grammar": [
+  "What does he look like?",
+  "Orden de adjetivos sencillo"
+ ],
+ "items": [
+  {
+   "id": "u21.tall",
+   "en": "tall",
+   "es": "alto",
+   "kind": "word",
+   "emoji": "🦒",
+   "say": "tól"
+  },
+  {
+   "id": "u21.short",
+   "en": "short",
+   "es": "bajo / corto",
+   "kind": "word",
+   "emoji": "🐿️",
+   "say": "short"
+  },
+  {
+   "id": "u21.young",
+   "en": "young",
+   "es": "joven",
+   "kind": "word",
+   "emoji": "🧒",
+   "say": "iang"
+  },
+  {
+   "id": "u21.old",
+   "en": "old",
+   "es": "viejo / mayor",
+   "kind": "word",
+   "emoji": "🧓",
+   "say": "óuld"
+  },
+  {
+   "id": "u21.thin",
+   "en": "thin",
+   "es": "delgado",
+   "kind": "word",
+   "emoji": "🥢",
+   "say": "zin"
+  },
+  {
+   "id": "u21.strong",
+   "en": "strong",
+   "es": "fuerte",
+   "kind": "word",
+   "emoji": "🏋️",
+   "say": "strong"
+  },
+  {
+   "id": "u21.long-hair",
+   "en": "long hair",
+   "es": "pelo largo",
+   "kind": "chunk",
+   "emoji": "💁‍♀️"
+  },
+  {
+   "id": "u21.short-hair",
+   "en": "short hair",
+   "es": "pelo corto",
+   "kind": "chunk",
+   "emoji": "💇‍♂️"
+  },
+  {
+   "id": "u21.curly-hair",
+   "en": "curly hair",
+   "es": "pelo crespo",
+   "kind": "chunk",
+   "emoji": "👩‍🦱",
+   "say": "kér-li jér"
+  },
+  {
+   "id": "u21.straight-hair",
+   "en": "straight hair",
+   "es": "pelo liso",
+   "kind": "chunk",
+   "emoji": "👱",
+   "say": "stréit jér"
+  },
+  {
+   "id": "u21.blond",
+   "en": "blond",
+   "es": "rubio",
+   "kind": "word",
+   "emoji": "👱‍♀️",
+   "say": "blond"
+  },
+  {
+   "id": "u21.dark-hair",
+   "en": "dark hair",
+   "es": "pelo oscuro",
+   "kind": "chunk",
+   "emoji": "🧑"
+  },
+  {
+   "id": "u21.brown-eyes",
+   "en": "brown eyes",
+   "es": "ojos cafés",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u21.beard",
+   "en": "beard",
+   "es": "barba",
+   "kind": "word",
+   "emoji": "🧔",
+   "say": "bíerd"
+  },
+  {
+   "id": "u21.glasses",
+   "en": "glasses",
+   "es": "gafas",
+   "kind": "word",
+   "emoji": "👓",
+   "say": "glá-ses"
+  },
+  {
+   "id": "u21.handsome",
+   "en": "handsome",
+   "es": "guapo (hombre)",
+   "kind": "word",
+   "emoji": "😎",
+   "say": "ján-som"
+  },
+  {
+   "id": "u21.pretty",
+   "en": "pretty",
+   "es": "bonita",
+   "kind": "word",
+   "emoji": "🌸",
+   "say": "prí-ti"
+  },
+  {
+   "id": "u21.kind",
+   "en": "kind",
+   "es": "amable",
+   "kind": "word",
+   "emoji": "🤗",
+   "say": "káind"
+  },
+  {
+   "id": "u21.friendly",
+   "en": "friendly",
+   "es": "amigable",
+   "kind": "word",
+   "emoji": "😊",
+   "say": "frénd-li"
+  },
+  {
+   "id": "u21.shy",
+   "en": "shy",
+   "es": "tímido",
+   "kind": "word",
+   "emoji": "🙈",
+   "say": "shái"
+  },
+  {
+   "id": "u21.smart",
+   "en": "smart",
+   "es": "inteligente",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "smart"
+  },
+  {
+   "id": "u21.lazy",
+   "en": "lazy",
+   "es": "perezoso",
+   "kind": "word",
+   "emoji": "🦥",
+   "say": "léi-si"
+  },
+  {
+   "id": "u21.hard-working",
+   "en": "hard-working",
+   "es": "trabajador",
+   "kind": "word",
+   "emoji": "🐝",
+   "say": "jard-uér-king"
+  },
+  {
+   "id": "u21.quiet",
+   "en": "quiet",
+   "es": "callado / tranquilo",
+   "kind": "word",
+   "emoji": "🤫",
+   "say": "kuái-et"
+  },
+  {
+   "id": "u21.talkative",
+   "en": "talkative",
+   "es": "conversador",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "tó-ka-tiv"
+  },
+  {
+   "id": "u21.honest",
+   "en": "honest",
+   "es": "honesto",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "ó-nest",
+   "tip": "La h no suena."
+  },
+  {
+   "id": "u21.patient",
+   "en": "patient",
+   "es": "paciente",
+   "kind": "word",
+   "emoji": "🧘",
+   "say": "péi-shent"
+  },
+  {
+   "id": "u21.what-does-she-look-like",
+   "en": "What does she look like?",
+   "es": "¿Cómo es ella (físicamente)?",
+   "kind": "chunk",
+   "emoji": "🔍"
+  },
+  {
+   "id": "u21.what-is-he-like",
+   "en": "What is he like?",
+   "es": "¿Cómo es él (de personalidad)?",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u21.she-looks-like-her-mother",
+   "en": "She looks like her mother",
+   "es": "Se parece a su mamá",
+   "kind": "chunk",
+   "emoji": "👩‍👧"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u21-personas-l1",
+   "title": "1. tall, short, young…",
+   "focus": "listening",
+   "newItems": [
+    "u21.tall",
+    "u21.short",
+    "u21.young",
+    "u21.old"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.tall",
+      "u21.short"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u21.young",
+      "u21.old"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.tall",
+      "u21.short",
+      "u21.young",
+      "u21.old"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.tall",
+      "u21.short",
+      "u21.young",
+      "u21.old"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.tall",
+      "u21.short"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-l2",
+   "title": "2. thin, strong, long hair…",
+   "focus": "grammar",
+   "newItems": [
+    "u21.thin",
+    "u21.strong",
+    "u21.long-hair",
+    "u21.short-hair"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.thin",
+      "u21.strong"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u21.long-hair",
+      "u21.short-hair"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.thin",
+      "u21.strong",
+      "u21.long-hair",
+      "u21.short-hair"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.thin",
+      "u21.strong",
+      "u21.long-hair",
+      "u21.short-hair"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.long-hair",
+      "u21.short-hair"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.tall",
+      "u21.short",
+      "u21.young",
+      "u21.old"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "look like vs be like",
+     "intro": "Las dos preguntas se traducen '¿cómo es?'. Mira las respuestas.",
+     "examples": [
+      {
+       "en": "What does she look like? She's tall and has curly hair.",
+       "es": "¿Cómo es ella? Es alta y tiene el pelo crespo.",
+       "mark": [
+        "look like"
+       ]
+      },
+      {
+       "en": "What does he look like? He has a beard and glasses.",
+       "es": "¿Cómo es él? Tiene barba y gafas.",
+       "mark": [
+        "look like"
+       ]
+      },
+      {
+       "en": "What is she like? She's kind and patient.",
+       "es": "¿Cómo es ella? Es amable y paciente.",
+       "mark": [
+        "like"
+       ]
+      },
+      {
+       "en": "What is he like? He's shy but very smart.",
+       "es": "¿Cómo es él? Es tímido pero muy inteligente.",
+       "mark": [
+        "like"
+       ]
+      }
+     ],
+     "question": "¿Qué pregunta sirve para la personalidad?",
+     "options": [
+      "What does he look like?",
+      "What is he like?"
+     ],
+     "answer": 1,
+     "rule": "What does … look like? pregunta por la apariencia (alto, pelo, ojos). What is … like? pregunta por la personalidad (amable, tímido). Y para el pelo y los ojos se usa have: She has brown eyes.",
+     "ruleExamples": [
+      {
+       "en": "My brother is tall and strong, but he's very shy.",
+       "es": "Mi hermano es alto y fuerte, pero muy tímido."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "She ___ long straight hair.",
+     "options": [
+      "has",
+      "is"
+     ],
+     "answer": 0,
+     "es": "Ella tiene el pelo largo y liso."
+    },
+    {
+     "type": "fill",
+     "en": "What ___ your teacher like?",
+     "options": [
+      "is",
+      "does"
+     ],
+     "answer": 0,
+     "es": "¿Cómo es tu profesor?"
+    },
+    {
+     "type": "fill",
+     "en": "He ___ tall and thin.",
+     "options": [
+      "is",
+      "has"
+     ],
+     "answer": 0,
+     "es": "Él es alto y delgado."
+    },
+    {
+     "type": "fill",
+     "en": "What does she look ___?",
+     "options": [
+      "like",
+      "as"
+     ],
+     "answer": 0,
+     "es": "¿Cómo es ella físicamente?"
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-l3",
+   "title": "3. curly hair, straight hair, blond…",
+   "focus": "reading",
+   "newItems": [
+    "u21.curly-hair",
+    "u21.straight-hair",
+    "u21.blond",
+    "u21.dark-hair"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.curly-hair",
+      "u21.straight-hair"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u21.blond",
+      "u21.dark-hair"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.curly-hair",
+      "u21.straight-hair",
+      "u21.blond",
+      "u21.dark-hair"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.curly-hair",
+      "u21.straight-hair",
+      "u21.blond",
+      "u21.dark-hair"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.curly-hair",
+      "u21.straight-hair"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.young",
+      "u21.old",
+      "u21.thin",
+      "u21.strong",
+      "u21.long-hair",
+      "u21.short-hair"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-l4",
+   "title": "4. brown eyes, beard, glasses…",
+   "focus": "listening",
+   "newItems": [
+    "u21.brown-eyes",
+    "u21.beard",
+    "u21.glasses",
+    "u21.handsome"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.brown-eyes",
+      "u21.beard"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u21.glasses",
+      "u21.handsome"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.brown-eyes",
+      "u21.beard",
+      "u21.glasses",
+      "u21.handsome"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.brown-eyes",
+      "u21.beard",
+      "u21.glasses",
+      "u21.handsome"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.brown-eyes"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.long-hair",
+      "u21.short-hair",
+      "u21.curly-hair",
+      "u21.straight-hair",
+      "u21.blond",
+      "u21.dark-hair"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-l5",
+   "title": "5. pretty, kind, friendly…",
+   "focus": "listening",
+   "newItems": [
+    "u21.pretty",
+    "u21.kind",
+    "u21.friendly",
+    "u21.shy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.pretty",
+      "u21.kind"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u21.friendly",
+      "u21.shy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.pretty",
+      "u21.kind",
+      "u21.friendly",
+      "u21.shy"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.pretty",
+      "u21.kind",
+      "u21.friendly",
+      "u21.shy"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.pretty",
+      "u21.kind"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.blond",
+      "u21.dark-hair",
+      "u21.brown-eyes",
+      "u21.beard",
+      "u21.glasses",
+      "u21.handsome"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-l6",
+   "title": "6. smart, lazy, hard-working…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u21.smart",
+    "u21.lazy",
+    "u21.hard-working",
+    "u21.quiet"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.smart",
+      "u21.lazy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u21.hard-working",
+      "u21.quiet"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.smart",
+      "u21.lazy",
+      "u21.hard-working",
+      "u21.quiet"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.smart",
+      "u21.lazy",
+      "u21.hard-working",
+      "u21.quiet"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.smart",
+      "u21.lazy"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.glasses",
+      "u21.handsome",
+      "u21.pretty",
+      "u21.kind",
+      "u21.friendly",
+      "u21.shy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Quién es?",
+     "scene": "📸 Miran una foto del grupo de la universidad.",
+     "lines": [
+      {
+       "who": "Lia",
+       "en": "Who is that? The tall boy with glasses.",
+       "es": "¿Quién es ese? El muchacho alto con gafas."
+      },
+      {
+       "who": "Sam",
+       "en": "That's Andrés. He's my classmate.",
+       "es": "Ese es Andrés. Es mi compañero de clase."
+      },
+      {
+       "who": "Lia",
+       "en": "What is he like?",
+       "es": "¿Cómo es él?"
+      },
+      {
+       "who": "Sam",
+       "en": "He's very smart and friendly, but a little shy.",
+       "es": "Es muy inteligente y amigable, pero un poco tímido."
+      },
+      {
+       "who": "Lia",
+       "en": "And the girl with curly hair?",
+       "es": "¿Y la muchacha de pelo crespo?"
+      },
+      {
+       "who": "Sam",
+       "en": "That's Camila. She's very talkative and funny!",
+       "es": "Esa es Camila. ¡Es muy conversadora y chistosa!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-l7",
+   "title": "7. talkative, honest, patient…",
+   "focus": "reading",
+   "newItems": [
+    "u21.talkative",
+    "u21.honest",
+    "u21.patient",
+    "u21.what-does-she-look-like"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.talkative",
+      "u21.honest"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u21.patient",
+      "u21.what-does-she-look-like"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.talkative",
+      "u21.honest",
+      "u21.patient",
+      "u21.what-does-she-look-like"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.talkative",
+      "u21.honest",
+      "u21.patient",
+      "u21.what-does-she-look-like"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.what-does-she-look-like"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.friendly",
+      "u21.shy",
+      "u21.smart",
+      "u21.lazy",
+      "u21.hard-working",
+      "u21.quiet"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-l8",
+   "title": "8. What is he like?, She looks like her mother",
+   "focus": "listening",
+   "newItems": [
+    "u21.what-is-he-like",
+    "u21.she-looks-like-her-mother"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u21.what-is-he-like",
+      "u21.she-looks-like-her-mother"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.what-is-he-like",
+      "u21.she-looks-like-her-mother"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.what-is-he-like",
+      "u21.she-looks-like-her-mother"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.what-is-he-like",
+      "u21.she-looks-like-her-mother"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.hard-working",
+      "u21.quiet",
+      "u21.talkative",
+      "u21.honest",
+      "u21.patient",
+      "u21.what-does-she-look-like"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u21-personas-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Mi mejor amiga",
+     "emoji": "👭",
+     "paragraphs": [
+      {
+       "en": "My best friend is called Valentina. She's twenty-two years old.",
+       "es": "Mi mejor amiga se llama Valentina. Tiene veintidós años."
+      },
+      {
+       "en": "She's short and has long dark hair and big brown eyes.",
+       "es": "Es bajita y tiene el pelo largo y oscuro y unos ojos cafés grandes."
+      },
+      {
+       "en": "She looks like her mother, but she has her father's smile.",
+       "es": "Se parece a su mamá, pero tiene la sonrisa de su papá."
+      },
+      {
+       "en": "Valentina is very kind and patient. She always listens to me.",
+       "es": "Valentina es muy amable y paciente. Siempre me escucha."
+      },
+      {
+       "en": "She's also hard-working. She studies and works at the same time.",
+       "es": "También es muy trabajadora. Estudia y trabaja al mismo tiempo."
+      },
+      {
+       "en": "She isn't perfect: she's a little lazy on Sundays!",
+       "es": "No es perfecta: ¡es un poquito perezosa los domingos!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo es el pelo de Valentina?",
+       "options": [
+        "Corto y rubio",
+        "Largo y oscuro",
+        "Crespo y rubio"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿A quién se parece?",
+       "options": [
+        "A su mamá",
+        "A su abuela",
+        "A su hermana"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cuándo es perezosa?",
+       "options": [
+        "Los lunes",
+        "Los domingos",
+        "Nunca"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Buscando a alguien en el aeropuerto",
+     "scene": "✈️ Debes recoger a tu primo, pero el conductor no lo conoce.",
+     "turns": [
+      {
+       "who": "Driver",
+       "en": "What does your cousin look like?",
+       "es": "¿Cómo es su primo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "He's tall and he has short blond hair.",
+         "es": "Es alto y tiene el pelo corto y rubio.",
+         "ok": true
+        },
+        {
+         "en": "He's very kind and patient.",
+         "es": "Es muy amable y paciente.",
+         "ok": false,
+         "why": "Eso es personalidad; te preguntaron cómo se ve."
+        }
+       ]
+      },
+      {
+       "who": "Driver",
+       "en": "Does he wear glasses?",
+       "es": "¿Usa gafas?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, he does. And he has a beard.",
+         "es": "Sí. Y tiene barba.",
+         "ok": true
+        },
+        {
+         "en": "Yes, he is glasses.",
+         "es": "Sí, él es gafas.",
+         "ok": false,
+         "why": "Se dice \"Yes, he does\"."
+        }
+       ]
+      },
+      {
+       "who": "Driver",
+       "en": "I think that's him, with the blue jacket!",
+       "es": "¡Creo que es él, el de la chaqueta azul!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, that's him! Thank you.",
+         "es": "¡Sí, es él! Gracias.",
+         "ok": true
+        },
+        {
+         "en": "No, that's a pharmacy.",
+         "es": "No, eso es una farmacia.",
+         "ok": false,
+         "why": "No tiene sentido aquí."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ella es alta y tiene el pelo crespo.",
+     "en": "She's tall and has curly hair.",
+     "accept": [
+      "She is tall and she has curly hair.",
+      "She's tall and she has curly hair."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Él es muy amable.",
+     "en": "He's very kind.",
+     "accept": [
+      "He is very kind."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me parezco a mi papá.",
+     "en": "I look like my father.",
+     "accept": [
+      "I look like my dad."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "What does your brother look like?",
+     "es": "¿Cómo es tu hermano físicamente?"
+    },
+    {
+     "type": "dictation",
+     "en": "She's friendly but a little shy.",
+     "es": "Es amigable pero un poco tímida."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u21.hard-working",
+      "u21.quiet",
+      "u21.talkative",
+      "u21.honest",
+      "u21.patient",
+      "u21.what-does-she-look-like",
+      "u21.what-is-he-like",
+      "u21.she-looks-like-her-mother"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

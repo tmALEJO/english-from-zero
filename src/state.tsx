@@ -1,6 +1,7 @@
 import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db, getSettings, saveSettings } from './db/db';
+import { setVoiceConfig } from './engine/speech';
 import type { CardRow, HistoryRow, LessonRow, Settings } from './types';
 import { DEFAULT_SETTINGS } from './types';
 import type { DictionaryRow } from './engine/content';
@@ -33,6 +34,8 @@ export function AppProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     getSettings().then((s) => { setSettings(s); setSettingsReady(true); });
   }, [kv]);
+
+  useEffect(() => { setVoiceConfig({ multiVoice: settings.multiVoice, naturalSpeed: settings.naturalSpeed }); }, [settings.multiVoice, settings.naturalSpeed]);
 
   const updateSettings = useCallback(async (p: Partial<Settings>) => {
     setSettings(await saveSettings(p));

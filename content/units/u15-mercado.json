@@ -1,0 +1,1292 @@
+{
+ "_generated": true,
+ "id": "u15-mercado",
+ "level": "A1",
+ "title": "Comida y mercado",
+ "emoji": "🧺",
+ "canDo": "Ya puedo hacer el mercado en inglés",
+ "summary": "Frutas, verduras y alimentos; cuánto y cuántos; some y any.",
+ "grammar": [
+  "Some / any",
+  "How much / how many"
+ ],
+ "items": [
+  {
+   "id": "u15.banana",
+   "en": "banana",
+   "es": "banano",
+   "kind": "word",
+   "emoji": "🍌",
+   "say": "ba-ná-na"
+  },
+  {
+   "id": "u15.grapes",
+   "en": "grapes",
+   "es": "uvas",
+   "kind": "word",
+   "emoji": "🍇",
+   "say": "gréips"
+  },
+  {
+   "id": "u15.strawberry",
+   "en": "strawberry",
+   "es": "fresa",
+   "kind": "word",
+   "emoji": "🍓",
+   "say": "stró-be-ri"
+  },
+  {
+   "id": "u15.pineapple",
+   "en": "pineapple",
+   "es": "piña",
+   "kind": "word",
+   "emoji": "🍍",
+   "say": "páin-a-pol"
+  },
+  {
+   "id": "u15.lemon",
+   "en": "lemon",
+   "es": "limón",
+   "kind": "word",
+   "emoji": "🍋",
+   "say": "lé-mon"
+  },
+  {
+   "id": "u15.tomato",
+   "en": "tomato",
+   "es": "tomate",
+   "kind": "word",
+   "emoji": "🍅",
+   "say": "to-méi-tou"
+  },
+  {
+   "id": "u15.potato",
+   "en": "potato",
+   "es": "papa",
+   "kind": "word",
+   "emoji": "🥔",
+   "say": "po-téi-tou"
+  },
+  {
+   "id": "u15.carrot",
+   "en": "carrot",
+   "es": "zanahoria",
+   "kind": "word",
+   "emoji": "🥕",
+   "say": "ká-rot"
+  },
+  {
+   "id": "u15.onion",
+   "en": "onion",
+   "es": "cebolla",
+   "kind": "word",
+   "emoji": "🧅",
+   "say": "á-nion"
+  },
+  {
+   "id": "u15.corn",
+   "en": "corn",
+   "es": "maíz",
+   "kind": "word",
+   "emoji": "🌽",
+   "say": "korn"
+  },
+  {
+   "id": "u15.beans",
+   "en": "beans",
+   "es": "fríjoles",
+   "kind": "word",
+   "emoji": "🫘",
+   "say": "bíins"
+  },
+  {
+   "id": "u15.egg",
+   "en": "egg",
+   "es": "huevo",
+   "kind": "word",
+   "emoji": "🥚",
+   "say": "eg"
+  },
+  {
+   "id": "u15.cheese",
+   "en": "cheese",
+   "es": "queso",
+   "kind": "word",
+   "emoji": "🧀",
+   "say": "chíis"
+  },
+  {
+   "id": "u15.milk",
+   "en": "milk",
+   "es": "leche",
+   "kind": "word",
+   "emoji": "🥛",
+   "say": "milk"
+  },
+  {
+   "id": "u15.meat",
+   "en": "meat",
+   "es": "carne",
+   "kind": "word",
+   "emoji": "🥩",
+   "say": "míit"
+  },
+  {
+   "id": "u15.fish",
+   "en": "fish",
+   "es": "pescado",
+   "kind": "word",
+   "emoji": "🐟",
+   "say": "fish"
+  },
+  {
+   "id": "u15.sugar",
+   "en": "sugar",
+   "es": "azúcar",
+   "kind": "word",
+   "emoji": "🍬",
+   "say": "shú-gar"
+  },
+  {
+   "id": "u15.salt",
+   "en": "salt",
+   "es": "sal",
+   "kind": "word",
+   "emoji": "🧂",
+   "say": "solt"
+  },
+  {
+   "id": "u15.oil",
+   "en": "oil",
+   "es": "aceite",
+   "kind": "word",
+   "emoji": "🫒",
+   "say": "óil"
+  },
+  {
+   "id": "u15.breakfast",
+   "en": "breakfast",
+   "es": "desayuno",
+   "kind": "word",
+   "emoji": "🥣",
+   "say": "brék-fast"
+  },
+  {
+   "id": "u15.lunch",
+   "en": "lunch",
+   "es": "almuerzo",
+   "kind": "word",
+   "emoji": "🍱",
+   "say": "lanch"
+  },
+  {
+   "id": "u15.dinner",
+   "en": "dinner",
+   "es": "cena",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "dí-ner"
+  },
+  {
+   "id": "u15.a-kilo-of",
+   "en": "a kilo of",
+   "es": "un kilo de",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u15.a-bottle-of",
+   "en": "a bottle of",
+   "es": "una botella de",
+   "kind": "chunk",
+   "emoji": "🍾"
+  },
+  {
+   "id": "u15.a-bag-of",
+   "en": "a bag of",
+   "es": "una bolsa de",
+   "kind": "chunk",
+   "emoji": "🛍️"
+  },
+  {
+   "id": "u15.some",
+   "en": "some",
+   "es": "algo de / unos",
+   "kind": "word",
+   "emoji": "🫳",
+   "say": "sam"
+  },
+  {
+   "id": "u15.any",
+   "en": "any",
+   "es": "nada de / algún (en preguntas y negativos)",
+   "kind": "word",
+   "emoji": "❔",
+   "say": "é-ni"
+  },
+  {
+   "id": "u15.how-many-apples",
+   "en": "How many apples?",
+   "es": "¿Cuántas manzanas?",
+   "kind": "chunk",
+   "emoji": "🔢"
+  },
+  {
+   "id": "u15.how-much-milk",
+   "en": "How much milk?",
+   "es": "¿Cuánta leche?",
+   "kind": "chunk",
+   "emoji": "🥛"
+  },
+  {
+   "id": "u15.fresh",
+   "en": "fresh",
+   "es": "fresco",
+   "kind": "word",
+   "emoji": "🌿",
+   "say": "fresh"
+  },
+  {
+   "id": "u15.hungry",
+   "en": "hungry",
+   "es": "con hambre",
+   "kind": "word",
+   "emoji": "😋",
+   "say": "ján-gri"
+  },
+  {
+   "id": "u15.thirsty",
+   "en": "thirsty",
+   "es": "con sed",
+   "kind": "word",
+   "emoji": "🥤",
+   "say": "zérs-ti"
+  },
+  {
+   "id": "u15.i-m-hungry",
+   "en": "I'm hungry",
+   "es": "Tengo hambre",
+   "kind": "chunk",
+   "emoji": "🍽️"
+  },
+  {
+   "id": "u15.we-need-eggs",
+   "en": "We need eggs",
+   "es": "Necesitamos huevos",
+   "kind": "chunk",
+   "emoji": "📝"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u15-mercado-l1",
+   "title": "1. banana, grapes, strawberry…",
+   "focus": "listening",
+   "newItems": [
+    "u15.banana",
+    "u15.grapes",
+    "u15.strawberry",
+    "u15.pineapple"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.banana",
+      "u15.grapes"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.strawberry",
+      "u15.pineapple"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.banana",
+      "u15.grapes",
+      "u15.strawberry",
+      "u15.pineapple"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.banana",
+      "u15.grapes",
+      "u15.strawberry",
+      "u15.pineapple"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.banana",
+      "u15.grapes"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l2",
+   "title": "2. lemon, tomato, potato…",
+   "focus": "grammar",
+   "newItems": [
+    "u15.lemon",
+    "u15.tomato",
+    "u15.potato",
+    "u15.carrot"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.lemon",
+      "u15.tomato"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.potato",
+      "u15.carrot"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.lemon",
+      "u15.tomato",
+      "u15.potato",
+      "u15.carrot"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.lemon",
+      "u15.tomato",
+      "u15.potato",
+      "u15.carrot"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.lemon",
+      "u15.tomato"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.banana",
+      "u15.grapes",
+      "u15.strawberry",
+      "u15.pineapple"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "some y any",
+     "intro": "Mira cuándo aparece some y cuándo any.",
+     "examples": [
+      {
+       "en": "There are some bananas.",
+       "es": "Hay unos bananos.",
+       "mark": [
+        "some"
+       ]
+      },
+      {
+       "en": "I need some milk.",
+       "es": "Necesito (algo de) leche.",
+       "mark": [
+        "some"
+       ]
+      },
+      {
+       "en": "There isn't any cheese.",
+       "es": "No hay nada de queso.",
+       "mark": [
+        "any"
+       ]
+      },
+      {
+       "en": "Do we have any eggs?",
+       "es": "¿Tenemos huevos?",
+       "mark": [
+        "any"
+       ]
+      },
+      {
+       "en": "We don't have any sugar.",
+       "es": "No tenemos azúcar.",
+       "mark": [
+        "any"
+       ]
+      }
+     ],
+     "question": "¿Dónde se usa any?",
+     "options": [
+      "En frases afirmativas",
+      "En preguntas y negativos",
+      "Solo con frutas"
+     ],
+     "answer": 1,
+     "rule": "some = algo de / unos, en frases afirmativas. any = en preguntas (Do you have any…?) y en negativos (There isn't any…). Con cosas que se cuentan se usa How many (how many eggs); con cosas que no se cuentan, How much (how much milk).",
+     "ruleExamples": [
+      {
+       "en": "How many potatoes do we need?",
+       "es": "¿Cuántas papas necesitamos?"
+      },
+      {
+       "en": "How much rice is there?",
+       "es": "¿Cuánto arroz hay?"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "There are ___ grapes in the fridge.",
+     "options": [
+      "some",
+      "any"
+     ],
+     "answer": 0,
+     "es": "Hay unas uvas en la nevera."
+    },
+    {
+     "type": "fill",
+     "en": "We don't have ___ salt.",
+     "options": [
+      "some",
+      "any"
+     ],
+     "answer": 1,
+     "es": "No tenemos sal."
+    },
+    {
+     "type": "fill",
+     "en": "How ___ eggs do you want?",
+     "options": [
+      "much",
+      "many"
+     ],
+     "answer": 1,
+     "es": "¿Cuántos huevos quieres?"
+    },
+    {
+     "type": "fill",
+     "en": "How ___ sugar do you need?",
+     "options": [
+      "much",
+      "many"
+     ],
+     "answer": 0,
+     "es": "¿Cuánta azúcar necesitas?"
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l3",
+   "title": "3. onion, corn, beans…",
+   "focus": "reading",
+   "newItems": [
+    "u15.onion",
+    "u15.corn",
+    "u15.beans",
+    "u15.egg"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.onion",
+      "u15.corn"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.beans",
+      "u15.egg"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.onion",
+      "u15.corn",
+      "u15.beans",
+      "u15.egg"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.onion",
+      "u15.corn",
+      "u15.beans",
+      "u15.egg"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.onion",
+      "u15.corn"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.strawberry",
+      "u15.pineapple",
+      "u15.lemon",
+      "u15.tomato",
+      "u15.potato",
+      "u15.carrot"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l4",
+   "title": "4. cheese, milk, meat…",
+   "focus": "listening",
+   "newItems": [
+    "u15.cheese",
+    "u15.milk",
+    "u15.meat",
+    "u15.fish"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.cheese",
+      "u15.milk"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.meat",
+      "u15.fish"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.cheese",
+      "u15.milk",
+      "u15.meat",
+      "u15.fish"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.cheese",
+      "u15.milk",
+      "u15.meat",
+      "u15.fish"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.cheese",
+      "u15.milk"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.potato",
+      "u15.carrot",
+      "u15.onion",
+      "u15.corn",
+      "u15.beans",
+      "u15.egg"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l5",
+   "title": "5. sugar, salt, oil…",
+   "focus": "listening",
+   "newItems": [
+    "u15.sugar",
+    "u15.salt",
+    "u15.oil",
+    "u15.breakfast"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.sugar",
+      "u15.salt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.oil",
+      "u15.breakfast"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.sugar",
+      "u15.salt",
+      "u15.oil",
+      "u15.breakfast"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.sugar",
+      "u15.salt",
+      "u15.oil",
+      "u15.breakfast"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.sugar",
+      "u15.salt"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.beans",
+      "u15.egg",
+      "u15.cheese",
+      "u15.milk",
+      "u15.meat",
+      "u15.fish"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l6",
+   "title": "6. lunch, dinner, a kilo of…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u15.lunch",
+    "u15.dinner",
+    "u15.a-kilo-of",
+    "u15.a-bottle-of"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.lunch",
+      "u15.dinner"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.a-kilo-of",
+      "u15.a-bottle-of"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.lunch",
+      "u15.dinner",
+      "u15.a-kilo-of",
+      "u15.a-bottle-of"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.lunch",
+      "u15.dinner",
+      "u15.a-kilo-of",
+      "u15.a-bottle-of"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.a-kilo-of",
+      "u15.a-bottle-of"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.meat",
+      "u15.fish",
+      "u15.sugar",
+      "u15.salt",
+      "u15.oil",
+      "u15.breakfast"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l7",
+   "title": "7. a bag of, some, any…",
+   "focus": "reading",
+   "newItems": [
+    "u15.a-bag-of",
+    "u15.some",
+    "u15.any",
+    "u15.how-many-apples"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.a-bag-of",
+      "u15.some"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.any",
+      "u15.how-many-apples"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.a-bag-of",
+      "u15.some",
+      "u15.any",
+      "u15.how-many-apples"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.a-bag-of",
+      "u15.some",
+      "u15.any",
+      "u15.how-many-apples"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.a-bag-of",
+      "u15.how-many-apples"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.oil",
+      "u15.breakfast",
+      "u15.lunch",
+      "u15.dinner",
+      "u15.a-kilo-of",
+      "u15.a-bottle-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "La lista del mercado",
+     "scene": "📝 En casa, antes de ir al mercado.",
+     "lines": [
+      {
+       "who": "Rosa",
+       "en": "What do we need for dinner?",
+       "es": "¿Qué necesitamos para la cena?"
+      },
+      {
+       "who": "Tom",
+       "en": "We need some potatoes and an onion.",
+       "es": "Necesitamos unas papas y una cebolla."
+      },
+      {
+       "who": "Rosa",
+       "en": "Do we have any meat?",
+       "es": "¿Tenemos carne?"
+      },
+      {
+       "who": "Tom",
+       "en": "No, we don't have any. And we need a bottle of oil.",
+       "es": "No, no hay nada. Y necesitamos una botella de aceite."
+      },
+      {
+       "who": "Rosa",
+       "en": "How many eggs are there?",
+       "es": "¿Cuántos huevos hay?"
+      },
+      {
+       "who": "Tom",
+       "en": "Only two. Let's buy a dozen.",
+       "es": "Solo dos. Compremos una docena."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l8",
+   "title": "8. How much milk?, fresh, hungry…",
+   "focus": "listening",
+   "newItems": [
+    "u15.how-much-milk",
+    "u15.fresh",
+    "u15.hungry",
+    "u15.thirsty"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.how-much-milk",
+      "u15.fresh"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u15.hungry",
+      "u15.thirsty"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.how-much-milk",
+      "u15.fresh",
+      "u15.hungry",
+      "u15.thirsty"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.how-much-milk",
+      "u15.fresh",
+      "u15.hungry",
+      "u15.thirsty"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.how-much-milk"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.a-kilo-of",
+      "u15.a-bottle-of",
+      "u15.a-bag-of",
+      "u15.some",
+      "u15.any",
+      "u15.how-many-apples"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-l9",
+   "title": "9. I'm hungry, We need eggs",
+   "focus": "listening",
+   "newItems": [
+    "u15.i-m-hungry",
+    "u15.we-need-eggs"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u15.i-m-hungry",
+      "u15.we-need-eggs"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.i-m-hungry",
+      "u15.we-need-eggs"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.i-m-hungry",
+      "u15.we-need-eggs"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.i-m-hungry",
+      "u15.we-need-eggs"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.any",
+      "u15.how-many-apples",
+      "u15.how-much-milk",
+      "u15.fresh",
+      "u15.hungry",
+      "u15.thirsty"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u15-mercado-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "En la plaza de mercado",
+     "emoji": "🍍",
+     "paragraphs": [
+      {
+       "en": "Every Saturday, Ana goes to the market with her grandmother.",
+       "es": "Todos los sábados, Ana va al mercado con su abuela."
+      },
+      {
+       "en": "The fruit is fresh and cheap. There are pineapples, strawberries and lemons.",
+       "es": "La fruta es fresca y barata. Hay piñas, fresas y limones."
+      },
+      {
+       "en": "Her grandmother buys a kilo of potatoes, some carrots and some corn.",
+       "es": "Su abuela compra un kilo de papas, unas zanahorias y algo de maíz."
+      },
+      {
+       "en": "\"Do you have any fish today?\" she asks. \"No, sorry, there isn't any fish.\"",
+       "es": "\"¿Tiene pescado hoy?\", pregunta. \"No, lo siento, no hay pescado.\""
+      },
+      {
+       "en": "They buy chicken for lunch. Ana is hungry, so they eat a banana.",
+       "es": "Compran pollo para el almuerzo. Ana tiene hambre, así que se comen un banano."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuándo van al mercado?",
+       "options": [
+        "Todos los domingos",
+        "Todos los sábados",
+        "Todos los días"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué no hay hoy?",
+       "options": [
+        "Pollo",
+        "Pescado",
+        "Papas"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué compran para el almuerzo?",
+       "options": [
+        "Pollo",
+        "Pescado",
+        "Queso"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "En la tienda de la esquina",
+     "scene": "🏪 Compras para el desayuno.",
+     "turns": [
+      {
+       "who": "Seller",
+       "en": "Good morning! What do you need?",
+       "es": "¡Buenos días! ¿Qué necesita?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Good morning. I need some eggs and milk.",
+         "es": "Buenos días. Necesito unos huevos y leche.",
+         "ok": true
+        },
+        {
+         "en": "I need any eggs.",
+         "es": "Necesito nada de huevos.",
+         "ok": false,
+         "why": "En afirmativo se usa \"some\"."
+        }
+       ]
+      },
+      {
+       "who": "Seller",
+       "en": "How many eggs?",
+       "es": "¿Cuántos huevos?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Six, please.",
+         "es": "Seis, por favor.",
+         "ok": true
+        },
+        {
+         "en": "How much eggs.",
+         "es": "Cuánto huevos.",
+         "ok": false,
+         "why": "Responde con una cantidad."
+        }
+       ]
+      },
+      {
+       "who": "Seller",
+       "en": "Do you need any bread?",
+       "es": "¿Necesita pan?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No, thanks. That's all.",
+         "es": "No, gracias. Eso es todo.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I'm bread.",
+         "es": "Sí, soy pan.",
+         "ok": false,
+         "why": "Se dice \"Yes, please\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Tengo hambre.",
+     "en": "I'm hungry.",
+     "accept": [
+      "I am hungry."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No tenemos leche.",
+     "en": "We don't have any milk.",
+     "accept": [
+      "We do not have any milk.",
+      "We have no milk."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Cuántos huevos necesitas?",
+     "en": "How many eggs do you need?"
+    },
+    {
+     "type": "dictation",
+     "en": "There isn't any cheese in the fridge.",
+     "es": "No hay queso en la nevera."
+    },
+    {
+     "type": "dictation",
+     "en": "I need a kilo of tomatoes.",
+     "es": "Necesito un kilo de tomates."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u15.any",
+      "u15.how-many-apples",
+      "u15.how-much-milk",
+      "u15.fresh",
+      "u15.hungry",
+      "u15.thirsty",
+      "u15.i-m-hungry",
+      "u15.we-need-eggs"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

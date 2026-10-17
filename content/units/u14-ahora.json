@@ -1,0 +1,1097 @@
+{
+ "_generated": true,
+ "id": "u14-ahora",
+ "level": "A1",
+ "title": "Lo que pasa ahora",
+ "emoji": "📱",
+ "canDo": "Ya puedo contar lo que estoy haciendo ahora mismo",
+ "summary": "El presente continuo para lo que pasa en este momento, y la diferencia con la rutina.",
+ "grammar": [
+  "Presente continuo: I'm working",
+  "Presente simple vs continuo"
+ ],
+ "items": [
+  {
+   "id": "u14.i-m-working",
+   "en": "I'm working",
+   "es": "Estoy trabajando",
+   "kind": "chunk",
+   "emoji": "💻",
+   "say": "áim uér-king"
+  },
+  {
+   "id": "u14.she-s-sleeping",
+   "en": "She's sleeping",
+   "es": "Ella está durmiendo",
+   "kind": "chunk",
+   "emoji": "😴"
+  },
+  {
+   "id": "u14.what-are-you-doing",
+   "en": "What are you doing?",
+   "es": "¿Qué estás haciendo?",
+   "kind": "chunk",
+   "emoji": "🤔",
+   "say": "uát ar iu dú-ing"
+  },
+  {
+   "id": "u14.i-m-cooking-dinner",
+   "en": "I'm cooking dinner",
+   "es": "Estoy cocinando la cena",
+   "kind": "chunk",
+   "emoji": "🍝"
+  },
+  {
+   "id": "u14.they-re-watching-a-movie",
+   "en": "They're watching a movie",
+   "es": "Están viendo una película",
+   "kind": "chunk",
+   "emoji": "🎬"
+  },
+  {
+   "id": "u14.it-s-raining",
+   "en": "It's raining",
+   "es": "Está lloviendo",
+   "kind": "chunk",
+   "emoji": "🌧️",
+   "say": "its réi-ning"
+  },
+  {
+   "id": "u14.now",
+   "en": "now",
+   "es": "ahora",
+   "kind": "word",
+   "emoji": "⏱️",
+   "say": "náu"
+  },
+  {
+   "id": "u14.right-now",
+   "en": "right now",
+   "es": "ahora mismo",
+   "kind": "chunk",
+   "emoji": "⚡",
+   "say": "ráit náu"
+  },
+  {
+   "id": "u14.at-the-moment",
+   "en": "at the moment",
+   "es": "en este momento",
+   "kind": "chunk",
+   "emoji": "🕐"
+  },
+  {
+   "id": "u14.wait",
+   "en": "wait",
+   "es": "esperar",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "uéit"
+  },
+  {
+   "id": "u14.call",
+   "en": "call",
+   "es": "llamar (por teléfono)",
+   "kind": "word",
+   "emoji": "📞",
+   "say": "kól"
+  },
+  {
+   "id": "u14.text",
+   "en": "text",
+   "es": "escribir un mensaje",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "tekst"
+  },
+  {
+   "id": "u14.send",
+   "en": "send",
+   "es": "enviar",
+   "kind": "word",
+   "emoji": "📤",
+   "say": "send"
+  },
+  {
+   "id": "u14.look-for",
+   "en": "look for",
+   "es": "buscar",
+   "kind": "chunk",
+   "emoji": "🔍",
+   "say": "luk for"
+  },
+  {
+   "id": "u14.talk",
+   "en": "talk",
+   "es": "hablar / conversar",
+   "kind": "word",
+   "emoji": "🗨️",
+   "say": "tók"
+  },
+  {
+   "id": "u14.stand",
+   "en": "stand",
+   "es": "estar de pie",
+   "kind": "word",
+   "emoji": "🧍",
+   "say": "stand"
+  },
+  {
+   "id": "u14.smile",
+   "en": "smile",
+   "es": "sonreír",
+   "kind": "word",
+   "emoji": "😊",
+   "say": "smáil"
+  },
+  {
+   "id": "u14.cry",
+   "en": "cry",
+   "es": "llorar",
+   "kind": "word",
+   "emoji": "😢",
+   "say": "krái"
+  },
+  {
+   "id": "u14.laugh",
+   "en": "laugh",
+   "es": "reírse",
+   "kind": "word",
+   "emoji": "😂",
+   "say": "laf"
+  },
+  {
+   "id": "u14.wear",
+   "en": "wear",
+   "es": "llevar puesto",
+   "kind": "word",
+   "emoji": "🧥",
+   "say": "uér"
+  },
+  {
+   "id": "u14.carry",
+   "en": "carry",
+   "es": "cargar",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "ká-ri"
+  },
+  {
+   "id": "u14.open",
+   "en": "open",
+   "es": "abrir",
+   "kind": "word",
+   "emoji": "📂",
+   "say": "óu-pen"
+  },
+  {
+   "id": "u14.close",
+   "en": "close",
+   "es": "cerrar",
+   "kind": "word",
+   "emoji": "📁",
+   "say": "klóus"
+  },
+  {
+   "id": "u14.busy",
+   "en": "busy",
+   "es": "ocupado",
+   "kind": "word",
+   "emoji": "📵",
+   "say": "bí-si"
+  },
+  {
+   "id": "u14.free",
+   "en": "free",
+   "es": "libre / gratis",
+   "kind": "word",
+   "emoji": "🆓",
+   "say": "fríi"
+  },
+  {
+   "id": "u14.are-you-busy",
+   "en": "Are you busy?",
+   "es": "¿Estás ocupado?",
+   "kind": "chunk",
+   "emoji": "📵"
+  },
+  {
+   "id": "u14.i-m-on-my-way",
+   "en": "I'm on my way",
+   "es": "Voy en camino",
+   "kind": "chunk",
+   "emoji": "🛣️",
+   "say": "áim on mai uéi"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u14-ahora-l1",
+   "title": "1. I'm working, She's sleeping, What are you doing?…",
+   "focus": "listening",
+   "newItems": [
+    "u14.i-m-working",
+    "u14.she-s-sleeping",
+    "u14.what-are-you-doing",
+    "u14.i-m-cooking-dinner"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u14.i-m-working",
+      "u14.she-s-sleeping"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u14.what-are-you-doing",
+      "u14.i-m-cooking-dinner"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.i-m-working",
+      "u14.she-s-sleeping",
+      "u14.what-are-you-doing",
+      "u14.i-m-cooking-dinner"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.i-m-working",
+      "u14.she-s-sleeping",
+      "u14.what-are-you-doing",
+      "u14.i-m-cooking-dinner"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.i-m-working",
+      "u14.she-s-sleeping"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u14-ahora-l2",
+   "title": "2. They're watching a movie, It's raining, now…",
+   "focus": "grammar",
+   "newItems": [
+    "u14.they-re-watching-a-movie",
+    "u14.it-s-raining",
+    "u14.now",
+    "u14.right-now"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u14.they-re-watching-a-movie",
+      "u14.it-s-raining"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u14.now",
+      "u14.right-now"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.they-re-watching-a-movie",
+      "u14.it-s-raining",
+      "u14.now",
+      "u14.right-now"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.they-re-watching-a-movie",
+      "u14.it-s-raining",
+      "u14.now",
+      "u14.right-now"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.they-re-watching-a-movie",
+      "u14.it-s-raining"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.i-m-working",
+      "u14.she-s-sleeping",
+      "u14.what-are-you-doing",
+      "u14.i-m-cooking-dinner"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Presente continuo (lo que pasa ahora)",
+     "intro": "Mira lo que la gente está haciendo en este momento.",
+     "examples": [
+      {
+       "en": "I'm cooking dinner right now.",
+       "es": "Estoy cocinando la cena ahora mismo.",
+       "mark": [
+        "'m",
+        "cooking"
+       ]
+      },
+      {
+       "en": "She's talking on the phone.",
+       "es": "Ella está hablando por teléfono.",
+       "mark": [
+        "'s",
+        "talking"
+       ]
+      },
+      {
+       "en": "They're watching a movie.",
+       "es": "Están viendo una película.",
+       "mark": [
+        "'re",
+        "watching"
+       ]
+      },
+      {
+       "en": "We're waiting for the bus.",
+       "es": "Estamos esperando el bus.",
+       "mark": [
+        "'re",
+        "waiting"
+       ]
+      },
+      {
+       "en": "It's raining now.",
+       "es": "Está lloviendo ahora.",
+       "mark": [
+        "'s",
+        "raining"
+       ]
+      }
+     ],
+     "question": "¿Cómo se forma lo que pasa en este momento?",
+     "options": [
+      "am/is/are + verbo con -ing",
+      "do/does + verbo",
+      "verbo + -ed"
+     ],
+     "answer": 0,
+     "rule": "Esto se llama PRESENTE CONTINUO: am / is / are + verbo con -ing. Es como 'estoy + -ando/-iendo'. Se usa para lo que pasa ahora. Para rutinas sigues usando el presente simple: I work every day, pero I'm working now.",
+     "ruleExamples": [
+      {
+       "en": "Every day I walk to work, but today I'm taking the bus.",
+       "es": "Todos los días camino al trabajo, pero hoy estoy tomando el bus."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Shh! The baby ___ sleeping.",
+     "options": [
+      "is",
+      "are"
+     ],
+     "answer": 0,
+     "es": "¡Shh! El bebé está durmiendo."
+    },
+    {
+     "type": "fill",
+     "en": "What are you ___?",
+     "options": [
+      "do",
+      "doing"
+     ],
+     "answer": 1,
+     "es": "¿Qué estás haciendo?"
+    },
+    {
+     "type": "fill",
+     "en": "I ___ to work every day. (rutina)",
+     "options": [
+      "walk",
+      "am walking"
+     ],
+     "answer": 0,
+     "es": "Camino al trabajo todos los días."
+    },
+    {
+     "type": "fill",
+     "en": "Look! It ___ raining.",
+     "options": [
+      "is",
+      "does"
+     ],
+     "answer": 0,
+     "es": "¡Mira! Está lloviendo."
+    }
+   ]
+  },
+  {
+   "id": "u14-ahora-l3",
+   "title": "3. at the moment, wait, call…",
+   "focus": "reading",
+   "newItems": [
+    "u14.at-the-moment",
+    "u14.wait",
+    "u14.call",
+    "u14.text"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u14.at-the-moment",
+      "u14.wait"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u14.call",
+      "u14.text"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.at-the-moment",
+      "u14.wait",
+      "u14.call",
+      "u14.text"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.at-the-moment",
+      "u14.wait",
+      "u14.call",
+      "u14.text"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.at-the-moment"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.what-are-you-doing",
+      "u14.i-m-cooking-dinner",
+      "u14.they-re-watching-a-movie",
+      "u14.it-s-raining",
+      "u14.now",
+      "u14.right-now"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u14-ahora-l4",
+   "title": "4. send, look for, talk…",
+   "focus": "listening",
+   "newItems": [
+    "u14.send",
+    "u14.look-for",
+    "u14.talk",
+    "u14.stand"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u14.send",
+      "u14.look-for"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u14.talk",
+      "u14.stand"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.send",
+      "u14.look-for",
+      "u14.talk",
+      "u14.stand"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.send",
+      "u14.look-for",
+      "u14.talk",
+      "u14.stand"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.look-for"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.now",
+      "u14.right-now",
+      "u14.at-the-moment",
+      "u14.wait",
+      "u14.call",
+      "u14.text"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u14-ahora-l5",
+   "title": "5. smile, cry, laugh…",
+   "focus": "listening",
+   "newItems": [
+    "u14.smile",
+    "u14.cry",
+    "u14.laugh",
+    "u14.wear"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u14.smile",
+      "u14.cry"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u14.laugh",
+      "u14.wear"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.smile",
+      "u14.cry",
+      "u14.laugh",
+      "u14.wear"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.smile",
+      "u14.cry",
+      "u14.laugh",
+      "u14.wear"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.smile",
+      "u14.cry"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.call",
+      "u14.text",
+      "u14.send",
+      "u14.look-for",
+      "u14.talk",
+      "u14.stand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "✍️",
+     "title": "Cómo se escribe el -ing",
+     "text": "La mayoría solo agrega -ing (work → working). Si termina en e, se quita la e (smile → smiling). Si es corta y termina en vocal + consonante, se dobla la consonante (sit → sitting, run → running)."
+    }
+   ]
+  },
+  {
+   "id": "u14-ahora-l6",
+   "title": "6. carry, open, close…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u14.carry",
+    "u14.open",
+    "u14.close",
+    "u14.busy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u14.carry",
+      "u14.open"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u14.close",
+      "u14.busy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.carry",
+      "u14.open",
+      "u14.close",
+      "u14.busy"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.carry",
+      "u14.open",
+      "u14.close",
+      "u14.busy"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.carry",
+      "u14.open"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.talk",
+      "u14.stand",
+      "u14.smile",
+      "u14.cry",
+      "u14.laugh",
+      "u14.wear"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Qué estás haciendo?",
+     "scene": "📞 Tu amiga te llama.",
+     "lines": [
+      {
+       "who": "Mia",
+       "en": "Hi! What are you doing?",
+       "es": "¡Hola! ¿Qué estás haciendo?"
+      },
+      {
+       "who": "You",
+       "en": "I'm cooking dinner. And you?",
+       "es": "Estoy cocinando la cena. ¿Y tú?"
+      },
+      {
+       "who": "Mia",
+       "en": "I'm waiting for the bus. It's raining!",
+       "es": "Estoy esperando el bus. ¡Está lloviendo!"
+      },
+      {
+       "who": "You",
+       "en": "Oh no! Are you wearing a jacket?",
+       "es": "¡Ay no! ¿Llevas chaqueta?"
+      },
+      {
+       "who": "Mia",
+       "en": "Yes. Oh, the bus is coming. I'm on my way!",
+       "es": "Sí. Ah, ya viene el bus. ¡Voy en camino!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u14-ahora-l7",
+   "title": "7. free, Are you busy?, I'm on my way",
+   "focus": "reading",
+   "newItems": [
+    "u14.free",
+    "u14.are-you-busy",
+    "u14.i-m-on-my-way"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u14.free",
+      "u14.are-you-busy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u14.i-m-on-my-way"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.free",
+      "u14.are-you-busy",
+      "u14.i-m-on-my-way"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.free",
+      "u14.are-you-busy",
+      "u14.i-m-on-my-way"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.are-you-busy",
+      "u14.i-m-on-my-way"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.laugh",
+      "u14.wear",
+      "u14.carry",
+      "u14.open",
+      "u14.close",
+      "u14.busy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u14-ahora-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Una foto en la plaza",
+     "emoji": "📸",
+     "paragraphs": [
+      {
+       "en": "This is a photo of the main square on a Sunday.",
+       "es": "Esta es una foto de la plaza principal un domingo."
+      },
+      {
+       "en": "A man is sitting on a chair. He is reading a newspaper.",
+       "es": "Un señor está sentado en una silla. Está leyendo el periódico."
+      },
+      {
+       "en": "Two children are running and laughing.",
+       "es": "Dos niños están corriendo y riéndose."
+      },
+      {
+       "en": "A woman is carrying a big bag. She is looking for her keys.",
+       "es": "Una mujer está cargando un bolso grande. Está buscando sus llaves."
+      },
+      {
+       "en": "A dog is sleeping under a tree.",
+       "es": "Un perro está durmiendo debajo de un árbol."
+      },
+      {
+       "en": "And me? I'm taking the photo, of course!",
+       "es": "¿Y yo? ¡Estoy tomando la foto, claro!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué está haciendo el señor?",
+       "options": [
+        "Leyendo el periódico",
+        "Corriendo",
+        "Durmiendo"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué busca la mujer?",
+       "options": [
+        "Su perro",
+        "Sus llaves",
+        "Un periódico"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde duerme el perro?",
+       "options": [
+        "En una silla",
+        "Debajo de un árbol",
+        "En el bolso"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Un mensaje de tu jefe",
+     "scene": "💬 Tu jefe te llama mientras almuerzas.",
+     "turns": [
+      {
+       "who": "Boss",
+       "en": "Hi! Are you busy?",
+       "es": "¡Hola! ¿Estás ocupado?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm having lunch right now.",
+         "es": "Estoy almorzando ahora mismo.",
+         "ok": true
+        },
+        {
+         "en": "I have lunch every day yesterday.",
+         "es": "Almuerzo todos los días ayer.",
+         "ok": false,
+         "why": "Mezcla rutina y pasado; él pregunta por ahora."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "OK. Can you call me later?",
+       "es": "Bueno. ¿Me puedes llamar más tarde?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sure. I'm free at two.",
+         "es": "Claro. Estoy libre a las dos.",
+         "ok": true
+        },
+        {
+         "en": "Sure. I'm calling you later.",
+         "es": "Claro. Te estoy llamando más tarde.",
+         "ok": false,
+         "why": "Para planes de luego, aquí suena mejor \"I'll call you later\"."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Perfect. Enjoy your lunch!",
+       "es": "Perfecto. ¡Disfruta tu almuerzo!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you!",
+         "es": "¡Gracias!",
+         "ok": true
+        },
+        {
+         "en": "You're welcome!",
+         "es": "¡De nada!",
+         "ok": false,
+         "why": "Él te deseó algo; se responde \"Thank you\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Qué estás haciendo?",
+     "en": "What are you doing?"
+    },
+    {
+     "type": "write",
+     "es": "Estoy esperando el bus.",
+     "en": "I'm waiting for the bus.",
+     "accept": [
+      "I am waiting for the bus."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Está lloviendo.",
+     "en": "It's raining.",
+     "accept": [
+      "It is raining."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "They're watching a movie right now.",
+     "es": "Están viendo una película ahora mismo."
+    },
+    {
+     "type": "dictation",
+     "en": "I'm on my way.",
+     "es": "Voy en camino."
+    },
+    {
+     "type": "speak",
+     "en": "Right now I'm studying English.",
+     "es": "Ahora mismo estoy estudiando inglés.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u14.wear",
+      "u14.carry",
+      "u14.open",
+      "u14.close",
+      "u14.busy",
+      "u14.free",
+      "u14.are-you-busy",
+      "u14.i-m-on-my-way"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

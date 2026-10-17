@@ -1,0 +1,1758 @@
+{
+ "_generated": true,
+ "id": "u46-opiniones",
+ "level": "B1",
+ "title": "Dar y defender opiniones",
+ "emoji": "💬",
+ "canDo": "Ya puedo dar mi opinión, estar de acuerdo o no, y explicar por qué",
+ "summary": "Expresiones de opinión, acuerdo y desacuerdo, y conectores para argumentar.",
+ "grammar": [
+  "Conectores: however, although, therefore",
+  "Expresiones de opinión"
+ ],
+ "items": [
+  {
+   "id": "u46.in-my-opinion",
+   "en": "In my opinion",
+   "es": "En mi opinión",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u46.i-think-that",
+   "en": "I think that",
+   "es": "Creo que",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u46.i-believe-that",
+   "en": "I believe that",
+   "es": "Creo firmemente que",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u46.i-feel-that",
+   "en": "I feel that",
+   "es": "Siento que",
+   "kind": "chunk",
+   "emoji": "💗"
+  },
+  {
+   "id": "u46.from-my-point-of-view",
+   "en": "From my point of view",
+   "es": "Desde mi punto de vista",
+   "kind": "chunk",
+   "emoji": "👁️"
+  },
+  {
+   "id": "u46.as-far-as-i-know",
+   "en": "As far as I know",
+   "es": "Hasta donde sé",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u46.i-agree",
+   "en": "I agree",
+   "es": "Estoy de acuerdo",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u46.i-disagree",
+   "en": "I disagree",
+   "es": "No estoy de acuerdo",
+   "kind": "chunk",
+   "emoji": "👎",
+   "say": "ai dis-a-gríi"
+  },
+  {
+   "id": "u46.i-totally-agree",
+   "en": "I totally agree",
+   "es": "Estoy totalmente de acuerdo",
+   "kind": "chunk",
+   "emoji": "💯"
+  },
+  {
+   "id": "u46.i-m-not-sure-about-that",
+   "en": "I'm not sure about that",
+   "es": "No estoy seguro de eso",
+   "kind": "chunk",
+   "emoji": "🤨"
+  },
+  {
+   "id": "u46.that-s-true-but",
+   "en": "That's true, but…",
+   "es": "Es cierto, pero…",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u46.you-have-a-point",
+   "en": "You have a point",
+   "es": "Tienes razón en eso",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u46.that-s-a-good-point",
+   "en": "That's a good point",
+   "es": "Ese es un buen punto",
+   "kind": "chunk",
+   "emoji": "👌"
+  },
+  {
+   "id": "u46.i-see-what-you-mean",
+   "en": "I see what you mean",
+   "es": "Entiendo lo que dices",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u46.however",
+   "en": "however",
+   "es": "sin embargo",
+   "kind": "word",
+   "emoji": "↔️",
+   "say": "jau-é-ver"
+  },
+  {
+   "id": "u46.although",
+   "en": "although",
+   "es": "aunque",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "ol-dóu"
+  },
+  {
+   "id": "u46.even-though",
+   "en": "even though",
+   "es": "aunque / a pesar de que",
+   "kind": "chunk",
+   "emoji": "🔂"
+  },
+  {
+   "id": "u46.therefore",
+   "en": "therefore",
+   "es": "por lo tanto",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "dér-for"
+  },
+  {
+   "id": "u46.on-the-one-hand",
+   "en": "on the one hand",
+   "es": "por un lado",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u46.on-the-other-hand",
+   "en": "on the other hand",
+   "es": "por otro lado",
+   "kind": "chunk",
+   "emoji": "🤚"
+  },
+  {
+   "id": "u46.for-example",
+   "en": "for example",
+   "es": "por ejemplo",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u46.such-as",
+   "en": "such as",
+   "es": "como (por ejemplo)",
+   "kind": "chunk",
+   "emoji": "📋"
+  },
+  {
+   "id": "u46.also",
+   "en": "also",
+   "es": "también",
+   "kind": "word",
+   "emoji": "➕"
+  },
+  {
+   "id": "u46.moreover",
+   "en": "moreover",
+   "es": "además",
+   "kind": "word",
+   "emoji": "➕➕",
+   "say": "mor-óu-ver"
+  },
+  {
+   "id": "u46.in-addition",
+   "en": "in addition",
+   "es": "además",
+   "kind": "chunk",
+   "emoji": "➕"
+  },
+  {
+   "id": "u46.because-of",
+   "en": "because of",
+   "es": "debido a",
+   "kind": "chunk",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u46.due-to",
+   "en": "due to",
+   "es": "debido a",
+   "kind": "chunk",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u46.as-a-result",
+   "en": "as a result",
+   "es": "como resultado",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u46.in-conclusion",
+   "en": "in conclusion",
+   "es": "en conclusión",
+   "kind": "chunk",
+   "emoji": "🏁"
+  },
+  {
+   "id": "u46.argument",
+   "en": "argument",
+   "es": "argumento / discusión",
+   "kind": "word",
+   "emoji": "🗯️",
+   "say": "ár-giu-ment"
+  },
+  {
+   "id": "u46.reason",
+   "en": "reason",
+   "es": "razón",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "ríi-son"
+  },
+  {
+   "id": "u46.advantage",
+   "en": "advantage",
+   "es": "ventaja",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "ad-ván-tich"
+  },
+  {
+   "id": "u46.disadvantage",
+   "en": "disadvantage",
+   "es": "desventaja",
+   "kind": "word",
+   "emoji": "❌",
+   "say": "dis-ad-ván-tich"
+  },
+  {
+   "id": "u46.pros-and-cons",
+   "en": "pros and cons",
+   "es": "pros y contras",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u46.debate",
+   "en": "debate",
+   "es": "debate",
+   "kind": "word",
+   "emoji": "🎤",
+   "say": "di-béit"
+  },
+  {
+   "id": "u46.convince",
+   "en": "convince",
+   "es": "convencer",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "kon-víns"
+  },
+  {
+   "id": "u46.persuade",
+   "en": "persuade",
+   "es": "persuadir",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "per-suéid"
+  },
+  {
+   "id": "u46.point-of-view",
+   "en": "point of view",
+   "es": "punto de vista",
+   "kind": "chunk",
+   "emoji": "👁️"
+  },
+  {
+   "id": "u46.fair",
+   "en": "fair",
+   "es": "justo",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "fer"
+  },
+  {
+   "id": "u46.unfair",
+   "en": "unfair",
+   "es": "injusto",
+   "kind": "word",
+   "emoji": "😤",
+   "say": "an-fér"
+  },
+  {
+   "id": "u46.important",
+   "en": "important",
+   "es": "importante",
+   "kind": "word",
+   "emoji": "❗"
+  },
+  {
+   "id": "u46.necessary",
+   "en": "necessary",
+   "es": "necesario",
+   "kind": "word",
+   "emoji": "✔️",
+   "say": "né-se-se-ri"
+  },
+  {
+   "id": "u46.useful",
+   "en": "useful",
+   "es": "útil",
+   "kind": "word",
+   "emoji": "🛠️",
+   "say": "iús-ful"
+  },
+  {
+   "id": "u46.useless",
+   "en": "useless",
+   "es": "inútil",
+   "kind": "word",
+   "emoji": "🗑️",
+   "say": "iús-les"
+  },
+  {
+   "id": "u46.obviously",
+   "en": "obviously",
+   "es": "obviamente",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "ób-vi-os-li"
+  },
+  {
+   "id": "u46.actually",
+   "en": "actually",
+   "es": "en realidad",
+   "kind": "word",
+   "emoji": "🧐",
+   "say": "ák-chua-li",
+   "tip": "No significa \"actualmente\"."
+  },
+  {
+   "id": "u46.especially",
+   "en": "especially",
+   "es": "especialmente",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "es-pé-sha-li"
+  },
+  {
+   "id": "u46.for-instance",
+   "en": "for instance",
+   "es": "por ejemplo",
+   "kind": "chunk",
+   "emoji": "📍"
+  },
+  {
+   "id": "u46.to-be-honest",
+   "en": "to be honest",
+   "es": "para ser honesto",
+   "kind": "chunk",
+   "emoji": "🫡"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u46-opiniones-l1",
+   "title": "1. In my opinion, I think that, I believe that…",
+   "focus": "listening",
+   "newItems": [
+    "u46.in-my-opinion",
+    "u46.i-think-that",
+    "u46.i-believe-that",
+    "u46.i-feel-that"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.in-my-opinion",
+      "u46.i-think-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.i-believe-that",
+      "u46.i-feel-that"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-my-opinion",
+      "u46.i-think-that",
+      "u46.i-believe-that",
+      "u46.i-feel-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-my-opinion",
+      "u46.i-think-that",
+      "u46.i-believe-that",
+      "u46.i-feel-that"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-my-opinion",
+      "u46.i-think-that",
+      "u46.i-believe-that",
+      "u46.i-feel-that"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l2",
+   "title": "2. From my point of view, As far as I know, I agree…",
+   "focus": "grammar",
+   "newItems": [
+    "u46.from-my-point-of-view",
+    "u46.as-far-as-i-know",
+    "u46.i-agree",
+    "u46.i-disagree"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.from-my-point-of-view",
+      "u46.as-far-as-i-know"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.i-agree",
+      "u46.i-disagree"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.from-my-point-of-view",
+      "u46.as-far-as-i-know",
+      "u46.i-agree",
+      "u46.i-disagree"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.from-my-point-of-view",
+      "u46.as-far-as-i-know",
+      "u46.i-agree",
+      "u46.i-disagree"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.from-my-point-of-view",
+      "u46.as-far-as-i-know",
+      "u46.i-agree",
+      "u46.i-disagree"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-my-opinion",
+      "u46.i-think-that",
+      "u46.i-believe-that",
+      "u46.i-feel-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "however y although",
+     "intro": "Las dos muestran contraste, pero se usan distinto.",
+     "examples": [
+      {
+       "en": "Social media is useful. However, it can be addictive.",
+       "es": "Las redes sociales son útiles. Sin embargo, pueden ser adictivas.",
+       "mark": [
+        "However"
+       ]
+      },
+      {
+       "en": "Although it was raining, we went out.",
+       "es": "Aunque estaba lloviendo, salimos.",
+       "mark": [
+        "Although"
+       ]
+      },
+      {
+       "en": "I like my job. However, the salary is low.",
+       "es": "Me gusta mi trabajo. Sin embargo, el salario es bajo.",
+       "mark": [
+        "However"
+       ]
+      },
+      {
+       "en": "Even though he studied, he failed the exam.",
+       "es": "Aunque estudió, perdió el examen.",
+       "mark": [
+        "Even though"
+       ]
+      },
+      {
+       "en": "It's expensive. Therefore, not many people buy it.",
+       "es": "Es caro. Por lo tanto, no mucha gente lo compra.",
+       "mark": [
+        "Therefore"
+       ]
+      }
+     ],
+     "question": "¿Cuál suele empezar una NUEVA oración, seguido de coma?",
+     "options": [
+      "However",
+      "Although"
+     ],
+     "answer": 0,
+     "rule": "although / even though (aunque) unen dos ideas en UNA oración: Although it was late, I called her. however (sin embargo) normalmente empieza una oración nueva con coma: It was late. However, I called her. therefore = por lo tanto. Ojo: actually = en realidad (no 'actualmente').",
+     "ruleExamples": [
+      {
+       "en": "Although online classes are flexible, some students prefer face-to-face classes.",
+       "es": "Aunque las clases virtuales son flexibles, algunos estudiantes prefieren las presenciales."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ it was cold, she didn't wear a jacket.",
+     "options": [
+      "Although",
+      "However"
+     ],
+     "answer": 0,
+     "es": "Aunque hacía frío, no se puso chaqueta."
+    },
+    {
+     "type": "fill",
+     "en": "The hotel was nice. ___, it was too expensive.",
+     "options": [
+      "However",
+      "Although"
+     ],
+     "answer": 0,
+     "es": "El hotel era bonito. Sin embargo, era muy caro."
+    },
+    {
+     "type": "fill",
+     "en": "He didn't study. ___, he failed.",
+     "options": [
+      "Therefore",
+      "Although"
+     ],
+     "answer": 0,
+     "es": "No estudió. Por lo tanto, perdió."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ with you. That's a good point.",
+     "options": [
+      "agree",
+      "am agree"
+     ],
+     "answer": 0,
+     "es": "Estoy de acuerdo contigo. Ese es un buen punto.",
+     "explain": "Nunca se dice \"I am agree\"."
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l3",
+   "title": "3. I totally agree, I'm not sure about that, That's true, but……",
+   "focus": "reading",
+   "newItems": [
+    "u46.i-totally-agree",
+    "u46.i-m-not-sure-about-that",
+    "u46.that-s-true-but",
+    "u46.you-have-a-point"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.i-totally-agree",
+      "u46.i-m-not-sure-about-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.that-s-true-but",
+      "u46.you-have-a-point"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.i-totally-agree",
+      "u46.i-m-not-sure-about-that",
+      "u46.that-s-true-but",
+      "u46.you-have-a-point"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.i-totally-agree",
+      "u46.i-m-not-sure-about-that",
+      "u46.that-s-true-but",
+      "u46.you-have-a-point"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.i-totally-agree",
+      "u46.i-m-not-sure-about-that",
+      "u46.that-s-true-but",
+      "u46.you-have-a-point"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.i-believe-that",
+      "u46.i-feel-that",
+      "u46.from-my-point-of-view",
+      "u46.as-far-as-i-know",
+      "u46.i-agree",
+      "u46.i-disagree"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l4",
+   "title": "4. That's a good point, I see what you mean, however…",
+   "focus": "listening",
+   "newItems": [
+    "u46.that-s-a-good-point",
+    "u46.i-see-what-you-mean",
+    "u46.however",
+    "u46.although"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.that-s-a-good-point",
+      "u46.i-see-what-you-mean"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.however",
+      "u46.although"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.that-s-a-good-point",
+      "u46.i-see-what-you-mean",
+      "u46.however",
+      "u46.although"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.that-s-a-good-point",
+      "u46.i-see-what-you-mean",
+      "u46.however",
+      "u46.although"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.that-s-a-good-point",
+      "u46.i-see-what-you-mean",
+      "u46.however",
+      "u46.although"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.i-agree",
+      "u46.i-disagree",
+      "u46.i-totally-agree",
+      "u46.i-m-not-sure-about-that",
+      "u46.that-s-true-but",
+      "u46.you-have-a-point"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l5",
+   "title": "5. even though, therefore, on the one hand…",
+   "focus": "listening",
+   "newItems": [
+    "u46.even-though",
+    "u46.therefore",
+    "u46.on-the-one-hand",
+    "u46.on-the-other-hand"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.even-though",
+      "u46.therefore"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.on-the-one-hand",
+      "u46.on-the-other-hand"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.even-though",
+      "u46.therefore",
+      "u46.on-the-one-hand",
+      "u46.on-the-other-hand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.even-though",
+      "u46.therefore",
+      "u46.on-the-one-hand",
+      "u46.on-the-other-hand"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.even-though",
+      "u46.therefore",
+      "u46.on-the-one-hand",
+      "u46.on-the-other-hand"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.that-s-true-but",
+      "u46.you-have-a-point",
+      "u46.that-s-a-good-point",
+      "u46.i-see-what-you-mean",
+      "u46.however",
+      "u46.although"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l6",
+   "title": "6. for example, such as, also…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u46.for-example",
+    "u46.such-as",
+    "u46.also",
+    "u46.moreover"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.for-example",
+      "u46.such-as"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.also",
+      "u46.moreover"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.for-example",
+      "u46.such-as",
+      "u46.also",
+      "u46.moreover"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.for-example",
+      "u46.such-as",
+      "u46.also",
+      "u46.moreover"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.for-example",
+      "u46.such-as",
+      "u46.also",
+      "u46.moreover"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.however",
+      "u46.although",
+      "u46.even-though",
+      "u46.therefore",
+      "u46.on-the-one-hand",
+      "u46.on-the-other-hand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l7",
+   "title": "7. in addition, because of, due to…",
+   "focus": "reading",
+   "newItems": [
+    "u46.in-addition",
+    "u46.because-of",
+    "u46.due-to",
+    "u46.as-a-result"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.in-addition",
+      "u46.because-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.due-to",
+      "u46.as-a-result"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-addition",
+      "u46.because-of",
+      "u46.due-to",
+      "u46.as-a-result"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-addition",
+      "u46.because-of",
+      "u46.due-to",
+      "u46.as-a-result"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-addition",
+      "u46.because-of",
+      "u46.due-to",
+      "u46.as-a-result"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.on-the-one-hand",
+      "u46.on-the-other-hand",
+      "u46.for-example",
+      "u46.such-as",
+      "u46.also",
+      "u46.moreover"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "⚠️",
+     "title": "I agree, no 'I am agree'",
+     "text": "Un error muy común de los hispanohablantes es decir 'I am agree'. En inglés agree es un verbo: I agree, I don't agree, Do you agree?"
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l8",
+   "title": "8. in conclusion, argument, reason…",
+   "focus": "listening",
+   "newItems": [
+    "u46.in-conclusion",
+    "u46.argument",
+    "u46.reason",
+    "u46.advantage"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.in-conclusion",
+      "u46.argument"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.reason",
+      "u46.advantage"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-conclusion",
+      "u46.argument",
+      "u46.reason",
+      "u46.advantage"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-conclusion",
+      "u46.argument",
+      "u46.reason",
+      "u46.advantage"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.in-conclusion",
+      "u46.argument",
+      "u46.reason",
+      "u46.advantage"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.also",
+      "u46.moreover",
+      "u46.in-addition",
+      "u46.because-of",
+      "u46.due-to",
+      "u46.as-a-result"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l9",
+   "title": "9. disadvantage, pros and cons, debate…",
+   "focus": "listening",
+   "newItems": [
+    "u46.disadvantage",
+    "u46.pros-and-cons",
+    "u46.debate",
+    "u46.convince"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.disadvantage",
+      "u46.pros-and-cons"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.debate",
+      "u46.convince"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.disadvantage",
+      "u46.pros-and-cons",
+      "u46.debate",
+      "u46.convince"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.disadvantage",
+      "u46.pros-and-cons",
+      "u46.debate",
+      "u46.convince"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.disadvantage",
+      "u46.pros-and-cons",
+      "u46.debate",
+      "u46.convince"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.due-to",
+      "u46.as-a-result",
+      "u46.in-conclusion",
+      "u46.argument",
+      "u46.reason",
+      "u46.advantage"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l10",
+   "title": "10. persuade, point of view, fair…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u46.persuade",
+    "u46.point-of-view",
+    "u46.fair",
+    "u46.unfair"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.persuade",
+      "u46.point-of-view"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.fair",
+      "u46.unfair"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.persuade",
+      "u46.point-of-view",
+      "u46.fair",
+      "u46.unfair"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.persuade",
+      "u46.point-of-view",
+      "u46.fair",
+      "u46.unfair"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.persuade",
+      "u46.point-of-view",
+      "u46.fair",
+      "u46.unfair"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.reason",
+      "u46.advantage",
+      "u46.disadvantage",
+      "u46.pros-and-cons",
+      "u46.debate",
+      "u46.convince"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l11",
+   "title": "11. important, necessary, useful…",
+   "focus": "reading",
+   "newItems": [
+    "u46.important",
+    "u46.necessary",
+    "u46.useful",
+    "u46.useless"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.important",
+      "u46.necessary"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.useful",
+      "u46.useless"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.important",
+      "u46.necessary",
+      "u46.useful",
+      "u46.useless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.important",
+      "u46.necessary",
+      "u46.useful",
+      "u46.useless"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.important",
+      "u46.necessary",
+      "u46.useful",
+      "u46.useless"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.debate",
+      "u46.convince",
+      "u46.persuade",
+      "u46.point-of-view",
+      "u46.fair",
+      "u46.unfair"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Celulares en el colegio?",
+     "scene": "🏫 Un debate entre dos papás.",
+     "lines": [
+      {
+       "who": "Rosa",
+       "en": "In my opinion, children shouldn't have phones at school.",
+       "es": "En mi opinión, los niños no deberían tener celular en el colegio."
+      },
+      {
+       "who": "Juan",
+       "en": "I see what you mean. However, phones are useful in emergencies.",
+       "es": "Entiendo lo que dices. Sin embargo, los celulares son útiles en emergencias."
+      },
+      {
+       "who": "Rosa",
+       "en": "That's true, but they're very distracting. Moreover, some kids spend hours on social media.",
+       "es": "Es cierto, pero distraen mucho. Además, algunos niños pasan horas en redes sociales."
+      },
+      {
+       "who": "Juan",
+       "en": "You have a point. Maybe the school should keep the phones during classes.",
+       "es": "Tienes razón en eso. Tal vez el colegio debería guardar los celulares durante las clases."
+      },
+      {
+       "who": "Rosa",
+       "en": "I totally agree. That's a fair solution.",
+       "es": "Estoy totalmente de acuerdo. Es una solución justa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l12",
+   "title": "12. obviously, actually, especially…",
+   "focus": "listening",
+   "newItems": [
+    "u46.obviously",
+    "u46.actually",
+    "u46.especially",
+    "u46.for-instance"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.obviously",
+      "u46.actually"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u46.especially",
+      "u46.for-instance"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.obviously",
+      "u46.actually",
+      "u46.especially",
+      "u46.for-instance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.obviously",
+      "u46.actually",
+      "u46.especially",
+      "u46.for-instance"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.obviously",
+      "u46.actually",
+      "u46.especially",
+      "u46.for-instance"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.fair",
+      "u46.unfair",
+      "u46.important",
+      "u46.necessary",
+      "u46.useful",
+      "u46.useless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-l13",
+   "title": "13. to be honest",
+   "focus": "listening",
+   "newItems": [
+    "u46.to-be-honest"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u46.to-be-honest"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.to-be-honest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.to-be-honest"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.to-be-honest"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.useful",
+      "u46.useless",
+      "u46.obviously",
+      "u46.actually",
+      "u46.especially",
+      "u46.for-instance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u46-opiniones-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Ventajas y desventajas de vivir en la ciudad",
+     "emoji": "🏙️",
+     "paragraphs": [
+      {
+       "en": "Many young people move from small towns to big cities. Is it a good idea?",
+       "es": "Muchos jóvenes se mudan de pueblos pequeños a ciudades grandes. ¿Es buena idea?"
+      },
+      {
+       "en": "On the one hand, cities offer more opportunities, such as better jobs and universities.",
+       "es": "Por un lado, las ciudades ofrecen más oportunidades, como mejores trabajos y universidades."
+      },
+      {
+       "en": "In addition, there are more cultural activities, for example concerts and museums.",
+       "es": "Además, hay más actividades culturales, por ejemplo conciertos y museos."
+      },
+      {
+       "en": "On the other hand, life in the city is more expensive and stressful.",
+       "es": "Por otro lado, la vida en la ciudad es más cara y estresante."
+      },
+      {
+       "en": "Although people earn more, they also spend more on rent and transport.",
+       "es": "Aunque la gente gana más, también gasta más en arriendo y transporte."
+      },
+      {
+       "en": "In conclusion, it depends on what you want from life.",
+       "es": "En conclusión, depende de lo que quieras de la vida."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué ventaja menciona de la ciudad?",
+       "options": [
+        "Es más barata",
+        "Ofrece más oportunidades",
+        "Es más tranquila"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué desventaja menciona?",
+       "options": [
+        "Hay pocos museos",
+        "Es más cara y estresante",
+        "No hay universidades"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuál es la conclusión?",
+       "options": [
+        "Depende de lo que quieras",
+        "Siempre es mejor el pueblo",
+        "Siempre es mejor la ciudad"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Debate en clase",
+     "scene": "🎤 Tu profesora pregunta tu opinión sobre trabajar desde casa.",
+     "turns": [
+      {
+       "who": "Teacher",
+       "en": "What do you think about working from home?",
+       "es": "¿Qué piensas de trabajar desde casa?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "In my opinion, it has more advantages than disadvantages.",
+         "es": "En mi opinión, tiene más ventajas que desventajas.",
+         "ok": true
+        },
+        {
+         "en": "I am agree with working from home.",
+         "es": "Yo estoy de acuerdo con trabajar desde casa.",
+         "ok": false,
+         "why": "Se dice \"I agree\", nunca \"I am agree\"."
+        }
+       ]
+      },
+      {
+       "who": "Teacher",
+       "en": "Why?",
+       "es": "¿Por qué?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Because people save time and money. For example, they don't need to commute.",
+         "es": "Porque la gente ahorra tiempo y plata. Por ejemplo, no necesitan transportarse.",
+         "ok": true
+        },
+        {
+         "en": "Because however.",
+         "es": "Porque sin embargo.",
+         "ok": false,
+         "why": "No es un argumento."
+        }
+       ]
+      },
+      {
+       "who": "Teacher",
+       "en": "But some people feel lonely at home.",
+       "es": "Pero algunas personas se sienten solas en casa."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That's a good point. However, they can work in a café some days.",
+         "es": "Ese es un buen punto. Sin embargo, pueden trabajar en un café algunos días.",
+         "ok": true
+        },
+        {
+         "en": "You're unfair.",
+         "es": "Usted es injusta.",
+         "ok": false,
+         "why": "Grosero; reconoce su punto y argumenta."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Estoy de acuerdo contigo.",
+     "en": "I agree with you."
+    },
+    {
+     "type": "write",
+     "es": "Aunque estaba cansado, fui a trabajar.",
+     "en": "Although I was tired, I went to work.",
+     "accept": [
+      "Even though I was tired, I went to work."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "En mi opinión, es muy útil.",
+     "en": "In my opinion, it's very useful.",
+     "accept": [
+      "In my opinion, it is very useful.",
+      "In my opinion it's very useful."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "That's true, but it's too expensive.",
+     "es": "Es cierto, pero es demasiado caro."
+    },
+    {
+     "type": "dictation",
+     "en": "On the other hand, it can be stressful.",
+     "es": "Por otro lado, puede ser estresante."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u46.necessary",
+      "u46.useful",
+      "u46.useless",
+      "u46.obviously",
+      "u46.actually",
+      "u46.especially",
+      "u46.for-instance",
+      "u46.to-be-honest"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1178 @@
+{
+ "_generated": true,
+ "id": "u10-casa",
+ "level": "A1",
+ "title": "Mi casa",
+ "emoji": "🏠",
+ "canDo": "Ya puedo describir dónde vivo",
+ "summary": "Las partes de la casa, los muebles y cómo decir qué hay (there is / there are).",
+ "grammar": [
+  "There is / there are",
+  "Preposiciones de lugar: in, on, under, next to"
+ ],
+ "items": [
+  {
+   "id": "u10.kitchen",
+   "en": "kitchen",
+   "es": "cocina",
+   "kind": "word",
+   "emoji": "🍳",
+   "say": "kí-chen"
+  },
+  {
+   "id": "u10.bedroom",
+   "en": "bedroom",
+   "es": "habitación / cuarto",
+   "kind": "word",
+   "emoji": "🛏️",
+   "say": "béd-rum"
+  },
+  {
+   "id": "u10.bathroom",
+   "en": "bathroom",
+   "es": "baño",
+   "kind": "word",
+   "emoji": "🛁",
+   "say": "báz-rum"
+  },
+  {
+   "id": "u10.living-room",
+   "en": "living room",
+   "es": "sala",
+   "kind": "chunk",
+   "emoji": "🛋️",
+   "say": "lí-ving rum"
+  },
+  {
+   "id": "u10.garden",
+   "en": "garden",
+   "es": "jardín",
+   "kind": "word",
+   "emoji": "🌻",
+   "say": "gár-den"
+  },
+  {
+   "id": "u10.door",
+   "en": "door",
+   "es": "puerta",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "dór"
+  },
+  {
+   "id": "u10.window",
+   "en": "window",
+   "es": "ventana",
+   "kind": "word",
+   "emoji": "🪟",
+   "say": "uín-dou"
+  },
+  {
+   "id": "u10.table",
+   "en": "table",
+   "es": "mesa",
+   "kind": "word",
+   "emoji": "🪑",
+   "say": "téi-bol"
+  },
+  {
+   "id": "u10.chair",
+   "en": "chair",
+   "es": "silla",
+   "kind": "word",
+   "emoji": "💺",
+   "say": "chér"
+  },
+  {
+   "id": "u10.bed",
+   "en": "bed",
+   "es": "cama",
+   "kind": "word",
+   "emoji": "🛌",
+   "say": "bed"
+  },
+  {
+   "id": "u10.sofa",
+   "en": "sofa",
+   "es": "sofá",
+   "kind": "word",
+   "emoji": "🛋️",
+   "say": "sóu-fa"
+  },
+  {
+   "id": "u10.lamp",
+   "en": "lamp",
+   "es": "lámpara",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "lamp"
+  },
+  {
+   "id": "u10.fridge",
+   "en": "fridge",
+   "es": "nevera",
+   "kind": "word",
+   "emoji": "🧊",
+   "say": "frich"
+  },
+  {
+   "id": "u10.shower",
+   "en": "shower",
+   "es": "ducha",
+   "kind": "word",
+   "emoji": "🚿",
+   "say": "sháu-er"
+  },
+  {
+   "id": "u10.mirror",
+   "en": "mirror",
+   "es": "espejo",
+   "kind": "word",
+   "emoji": "🪞",
+   "say": "mí-ror"
+  },
+  {
+   "id": "u10.key",
+   "en": "key",
+   "es": "llave",
+   "kind": "word",
+   "emoji": "🔑",
+   "say": "kíi"
+  },
+  {
+   "id": "u10.stairs",
+   "en": "stairs",
+   "es": "escaleras",
+   "kind": "word",
+   "emoji": "🪜",
+   "say": "stérs"
+  },
+  {
+   "id": "u10.floor",
+   "en": "floor",
+   "es": "piso / suelo",
+   "kind": "word",
+   "emoji": "🟫",
+   "say": "flór"
+  },
+  {
+   "id": "u10.wall",
+   "en": "wall",
+   "es": "pared",
+   "kind": "word",
+   "emoji": "🧱",
+   "say": "uól"
+  },
+  {
+   "id": "u10.apartment",
+   "en": "apartment",
+   "es": "apartamento",
+   "kind": "word",
+   "emoji": "🏢",
+   "say": "a-párt-ment"
+  },
+  {
+   "id": "u10.there-is-a-sofa",
+   "en": "There is a sofa",
+   "es": "Hay un sofá",
+   "kind": "chunk",
+   "emoji": "🛋️",
+   "say": "dér is a sóu-fa"
+  },
+  {
+   "id": "u10.there-are-two-beds",
+   "en": "There are two beds",
+   "es": "Hay dos camas",
+   "kind": "chunk",
+   "emoji": "🛏️"
+  },
+  {
+   "id": "u10.is-there-a-garden",
+   "en": "Is there a garden?",
+   "es": "¿Hay jardín?",
+   "kind": "chunk",
+   "emoji": "🌻"
+  },
+  {
+   "id": "u10.in",
+   "en": "in",
+   "es": "dentro de / en",
+   "kind": "word",
+   "emoji": "📥"
+  },
+  {
+   "id": "u10.on",
+   "en": "on",
+   "es": "sobre / encima de",
+   "kind": "word",
+   "emoji": "🔝"
+  },
+  {
+   "id": "u10.under",
+   "en": "under",
+   "es": "debajo de",
+   "kind": "word",
+   "emoji": "⬇️",
+   "say": "án-der"
+  },
+  {
+   "id": "u10.next-to",
+   "en": "next to",
+   "es": "al lado de",
+   "kind": "chunk",
+   "emoji": "↔️",
+   "say": "nekst tu"
+  },
+  {
+   "id": "u10.between",
+   "en": "between",
+   "es": "entre",
+   "kind": "word",
+   "emoji": "🔀",
+   "say": "bi-tuíin"
+  },
+  {
+   "id": "u10.big",
+   "en": "big",
+   "es": "grande",
+   "kind": "word",
+   "emoji": "🐘",
+   "say": "big"
+  },
+  {
+   "id": "u10.small",
+   "en": "small",
+   "es": "pequeño",
+   "kind": "word",
+   "emoji": "🐭",
+   "say": "smól"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u10-casa-l1",
+   "title": "1. kitchen, bedroom, bathroom…",
+   "focus": "listening",
+   "newItems": [
+    "u10.kitchen",
+    "u10.bedroom",
+    "u10.bathroom",
+    "u10.living-room"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.kitchen",
+      "u10.bedroom"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u10.bathroom",
+      "u10.living-room"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.kitchen",
+      "u10.bedroom",
+      "u10.bathroom",
+      "u10.living-room"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.kitchen",
+      "u10.bedroom",
+      "u10.bathroom",
+      "u10.living-room"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.living-room"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-l2",
+   "title": "2. garden, door, window…",
+   "focus": "grammar",
+   "newItems": [
+    "u10.garden",
+    "u10.door",
+    "u10.window",
+    "u10.table"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.garden",
+      "u10.door"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u10.window",
+      "u10.table"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.garden",
+      "u10.door",
+      "u10.window",
+      "u10.table"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.garden",
+      "u10.door",
+      "u10.window",
+      "u10.table"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.garden",
+      "u10.door"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.kitchen",
+      "u10.bedroom",
+      "u10.bathroom",
+      "u10.living-room"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "There is / there are",
+     "intro": "Mira cómo se dice 'hay' en inglés.",
+     "examples": [
+      {
+       "en": "There is a sofa in the living room.",
+       "es": "Hay un sofá en la sala.",
+       "mark": [
+        "There is"
+       ]
+      },
+      {
+       "en": "There is a lamp on the table.",
+       "es": "Hay una lámpara sobre la mesa.",
+       "mark": [
+        "There is"
+       ]
+      },
+      {
+       "en": "There are two bedrooms.",
+       "es": "Hay dos habitaciones.",
+       "mark": [
+        "There are"
+       ]
+      },
+      {
+       "en": "There are three chairs in the kitchen.",
+       "es": "Hay tres sillas en la cocina.",
+       "mark": [
+        "There are"
+       ]
+      },
+      {
+       "en": "Is there a garden?",
+       "es": "¿Hay jardín?",
+       "mark": [
+        "Is there"
+       ]
+      }
+     ],
+     "question": "¿Cuándo se usa there are?",
+     "options": [
+      "Con una sola cosa",
+      "Con varias cosas (plural)",
+      "Para preguntar siempre"
+     ],
+     "answer": 1,
+     "rule": "En inglés 'hay' cambia según la cantidad: there is + una cosa (there is a bed), there are + varias (there are two beds). Para preguntar se invierte: Is there…? Are there…?",
+     "ruleExamples": [
+      {
+       "en": "There's a key on the table.",
+       "es": "Hay una llave sobre la mesa."
+      },
+      {
+       "en": "Are there stairs?",
+       "es": "¿Hay escaleras?"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ a fridge in the kitchen.",
+     "options": [
+      "There is",
+      "There are"
+     ],
+     "answer": 0,
+     "es": "Hay una nevera en la cocina."
+    },
+    {
+     "type": "fill",
+     "en": "___ four windows in my bedroom.",
+     "options": [
+      "There is",
+      "There are"
+     ],
+     "answer": 1,
+     "es": "Hay cuatro ventanas en mi cuarto."
+    },
+    {
+     "type": "fill",
+     "en": "___ there a shower?",
+     "options": [
+      "Is",
+      "Are"
+     ],
+     "answer": 0,
+     "es": "¿Hay ducha?"
+    },
+    {
+     "type": "fill",
+     "en": "The cat is ___ the bed.",
+     "options": [
+      "under",
+      "between"
+     ],
+     "answer": 0,
+     "es": "El gato está debajo de la cama."
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-l3",
+   "title": "3. chair, bed, sofa…",
+   "focus": "reading",
+   "newItems": [
+    "u10.chair",
+    "u10.bed",
+    "u10.sofa",
+    "u10.lamp"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.chair",
+      "u10.bed"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u10.sofa",
+      "u10.lamp"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.chair",
+      "u10.bed",
+      "u10.sofa",
+      "u10.lamp"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.chair",
+      "u10.bed",
+      "u10.sofa",
+      "u10.lamp"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.chair",
+      "u10.bed"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.bathroom",
+      "u10.living-room",
+      "u10.garden",
+      "u10.door",
+      "u10.window",
+      "u10.table"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-l4",
+   "title": "4. fridge, shower, mirror…",
+   "focus": "listening",
+   "newItems": [
+    "u10.fridge",
+    "u10.shower",
+    "u10.mirror",
+    "u10.key"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.fridge",
+      "u10.shower"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u10.mirror",
+      "u10.key"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.fridge",
+      "u10.shower",
+      "u10.mirror",
+      "u10.key"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.fridge",
+      "u10.shower",
+      "u10.mirror",
+      "u10.key"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.fridge",
+      "u10.shower"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.window",
+      "u10.table",
+      "u10.chair",
+      "u10.bed",
+      "u10.sofa",
+      "u10.lamp"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-l5",
+   "title": "5. stairs, floor, wall…",
+   "focus": "listening",
+   "newItems": [
+    "u10.stairs",
+    "u10.floor",
+    "u10.wall",
+    "u10.apartment"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.stairs",
+      "u10.floor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u10.wall",
+      "u10.apartment"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.stairs",
+      "u10.floor",
+      "u10.wall",
+      "u10.apartment"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.stairs",
+      "u10.floor",
+      "u10.wall",
+      "u10.apartment"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.stairs",
+      "u10.floor"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.sofa",
+      "u10.lamp",
+      "u10.fridge",
+      "u10.shower",
+      "u10.mirror",
+      "u10.key"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-l6",
+   "title": "6. There is a sofa, There are two beds, Is there a garden?…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u10.there-is-a-sofa",
+    "u10.there-are-two-beds",
+    "u10.is-there-a-garden",
+    "u10.in"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.there-is-a-sofa",
+      "u10.there-are-two-beds"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u10.is-there-a-garden",
+      "u10.in"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.there-is-a-sofa",
+      "u10.there-are-two-beds",
+      "u10.is-there-a-garden",
+      "u10.in"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.there-is-a-sofa",
+      "u10.there-are-two-beds",
+      "u10.is-there-a-garden",
+      "u10.in"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.there-is-a-sofa",
+      "u10.there-are-two-beds"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.mirror",
+      "u10.key",
+      "u10.stairs",
+      "u10.floor",
+      "u10.wall",
+      "u10.apartment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Buscando apartamento",
+     "scene": "🏢 Visitas un apartamento para arrendar.",
+     "lines": [
+      {
+       "who": "Owner",
+       "en": "Welcome! This is the living room.",
+       "es": "¡Bienvenido! Esta es la sala."
+      },
+      {
+       "who": "You",
+       "en": "It's big! How many bedrooms are there?",
+       "es": "¡Es grande! ¿Cuántas habitaciones hay?"
+      },
+      {
+       "who": "Owner",
+       "en": "There are two bedrooms and one bathroom.",
+       "es": "Hay dos habitaciones y un baño."
+      },
+      {
+       "who": "You",
+       "en": "Is there a garden?",
+       "es": "¿Hay jardín?"
+      },
+      {
+       "who": "Owner",
+       "en": "No, there isn't. But there is a big window.",
+       "es": "No, no hay. Pero hay una ventana grande."
+      },
+      {
+       "who": "You",
+       "en": "I like it!",
+       "es": "¡Me gusta!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-l7",
+   "title": "7. on, under, next to…",
+   "focus": "reading",
+   "newItems": [
+    "u10.on",
+    "u10.under",
+    "u10.next-to",
+    "u10.between"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.on",
+      "u10.under"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u10.next-to",
+      "u10.between"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.on",
+      "u10.under",
+      "u10.next-to",
+      "u10.between"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.on",
+      "u10.under",
+      "u10.next-to",
+      "u10.between"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.next-to"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.wall",
+      "u10.apartment",
+      "u10.there-is-a-sofa",
+      "u10.there-are-two-beds",
+      "u10.is-there-a-garden",
+      "u10.in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-l8",
+   "title": "8. big, small",
+   "focus": "listening",
+   "newItems": [
+    "u10.big",
+    "u10.small"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u10.big",
+      "u10.small"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.big",
+      "u10.small"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.big",
+      "u10.small"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.big",
+      "u10.small"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.is-there-a-garden",
+      "u10.in",
+      "u10.on",
+      "u10.under",
+      "u10.next-to",
+      "u10.between"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u10-casa-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "¿Dónde están mis llaves?",
+     "emoji": "🔑",
+     "paragraphs": [
+      {
+       "en": "Leo is late for work. Where are his keys?",
+       "es": "Leo va tarde al trabajo. ¿Dónde están sus llaves?"
+      },
+      {
+       "en": "He looks in the kitchen. The keys are not on the table.",
+       "es": "Busca en la cocina. Las llaves no están sobre la mesa."
+      },
+      {
+       "en": "He looks in the bedroom. There are books on the bed, but no keys.",
+       "es": "Busca en la habitación. Hay libros sobre la cama, pero no hay llaves."
+      },
+      {
+       "en": "He looks in the bathroom, next to the mirror. Nothing!",
+       "es": "Busca en el baño, al lado del espejo. ¡Nada!"
+      },
+      {
+       "en": "Then he sees his cat under the sofa. The cat is playing with the keys!",
+       "es": "Entonces ve a su gato debajo del sofá. ¡El gato está jugando con las llaves!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué busca Leo?",
+       "options": [
+        "Su celular",
+        "Sus llaves",
+        "Su gato"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hay sobre la cama?",
+       "options": [
+        "Libros",
+        "Llaves",
+        "Una lámpara"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Dónde están las llaves al final?",
+       "options": [
+        "En la cocina",
+        "Con el gato, debajo del sofá",
+        "Al lado del espejo"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Describe tu casa",
+     "scene": "🏠 Un amigo nuevo te pregunta por tu casa.",
+     "turns": [
+      {
+       "who": "Jake",
+       "en": "Do you live in a house or an apartment?",
+       "es": "¿Vives en una casa o en un apartamento?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I live in an apartment.",
+         "es": "Vivo en un apartamento.",
+         "ok": true
+        },
+        {
+         "en": "I live in a kitchen.",
+         "es": "Vivo en una cocina.",
+         "ok": false,
+         "why": "Una cocina es una parte de la casa."
+        }
+       ]
+      },
+      {
+       "who": "Jake",
+       "en": "Is it big?",
+       "es": "¿Es grande?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No, it's small, but there is a nice window.",
+         "es": "No, es pequeño, pero hay una ventana bonita.",
+         "ok": true
+        },
+        {
+         "en": "Yes, there are a window.",
+         "es": "Sí, hay una ventana.",
+         "ok": false,
+         "why": "Con una sola cosa es \"there is\"."
+        }
+       ]
+      },
+      {
+       "who": "Jake",
+       "en": "Cool! How many bedrooms are there?",
+       "es": "¡Genial! ¿Cuántas habitaciones hay?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "There are two bedrooms.",
+         "es": "Hay dos habitaciones.",
+         "ok": true
+        },
+        {
+         "en": "There is two bedrooms.",
+         "es": "Hay dos habitaciones.",
+         "ok": false,
+         "why": "Con plural es \"there are\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Hay una lámpara sobre la mesa.",
+     "en": "There is a lamp on the table.",
+     "accept": [
+      "There's a lamp on the table."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Hay dos baños.",
+     "en": "There are two bathrooms."
+    },
+    {
+     "type": "write",
+     "es": "¿Hay jardín?",
+     "en": "Is there a garden?"
+    },
+    {
+     "type": "dictation",
+     "en": "The keys are next to the door.",
+     "es": "Las llaves están al lado de la puerta."
+    },
+    {
+     "type": "dictation",
+     "en": "There are three chairs in the kitchen.",
+     "es": "Hay tres sillas en la cocina."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u10.is-there-a-garden",
+      "u10.in",
+      "u10.on",
+      "u10.under",
+      "u10.next-to",
+      "u10.between",
+      "u10.big",
+      "u10.small"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

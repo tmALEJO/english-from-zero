@@ -1,0 +1,1769 @@
+{
+ "_generated": true,
+ "id": "u58-gerundios",
+ "level": "B1",
+ "title": "Gerundios, infinitivos y más phrasal verbs",
+ "emoji": "🔗",
+ "canDo": "Ya sé qué forma del verbo va después de otro verbo",
+ "summary": "Verbos seguidos de -ing (enjoy doing) y de to (decide to), y más phrasal verbs útiles.",
+ "grammar": [
+  "Verbo + -ing / verbo + to",
+  "stop doing vs stop to do"
+ ],
+ "items": [
+  {
+   "id": "u58.enjoy-doing",
+   "en": "enjoy doing",
+   "es": "disfrutar hacer",
+   "kind": "chunk",
+   "emoji": "😊"
+  },
+  {
+   "id": "u58.avoid-doing",
+   "en": "avoid doing",
+   "es": "evitar hacer",
+   "kind": "chunk",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u58.mind-doing",
+   "en": "mind doing",
+   "es": "molestar hacer",
+   "kind": "chunk",
+   "emoji": "😐"
+  },
+  {
+   "id": "u58.finish-doing",
+   "en": "finish doing",
+   "es": "terminar de hacer",
+   "kind": "chunk",
+   "emoji": "🏁"
+  },
+  {
+   "id": "u58.keep-doing",
+   "en": "keep doing",
+   "es": "seguir haciendo",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u58.practice-doing",
+   "en": "practice doing",
+   "es": "practicar hacer",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u58.suggest-doing",
+   "en": "suggest doing",
+   "es": "sugerir hacer",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u58.consider-doing",
+   "en": "consider doing",
+   "es": "considerar hacer",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u58.miss-doing",
+   "en": "miss doing",
+   "es": "extrañar hacer",
+   "kind": "chunk",
+   "emoji": "🥺"
+  },
+  {
+   "id": "u58.can-t-stand-doing",
+   "en": "can't stand doing",
+   "es": "no soportar hacer",
+   "kind": "chunk",
+   "emoji": "😖"
+  },
+  {
+   "id": "u58.decide-to-do",
+   "en": "decide to do",
+   "es": "decidir hacer",
+   "kind": "chunk",
+   "emoji": "☑️"
+  },
+  {
+   "id": "u58.hope-to-do",
+   "en": "hope to do",
+   "es": "esperar hacer",
+   "kind": "chunk",
+   "emoji": "🌅"
+  },
+  {
+   "id": "u58.plan-to-do",
+   "en": "plan to do",
+   "es": "planear hacer",
+   "kind": "chunk",
+   "emoji": "🗒️"
+  },
+  {
+   "id": "u58.refuse-to-do",
+   "en": "refuse to do",
+   "es": "negarse a hacer",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u58.promise-to-do",
+   "en": "promise to do",
+   "es": "prometer hacer",
+   "kind": "chunk",
+   "emoji": "🤞"
+  },
+  {
+   "id": "u58.manage-to-do",
+   "en": "manage to do",
+   "es": "lograr hacer",
+   "kind": "chunk",
+   "emoji": "💪"
+  },
+  {
+   "id": "u58.learn-to-do",
+   "en": "learn to do",
+   "es": "aprender a hacer",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u58.forget-to-do",
+   "en": "forget to do",
+   "es": "olvidar hacer",
+   "kind": "chunk",
+   "emoji": "🤦"
+  },
+  {
+   "id": "u58.remember-to-do",
+   "en": "remember to do",
+   "es": "acordarse de hacer",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u58.try-to-do",
+   "en": "try to do",
+   "es": "intentar hacer",
+   "kind": "chunk",
+   "emoji": "🧗"
+  },
+  {
+   "id": "u58.seem-to",
+   "en": "seem to",
+   "es": "parecer",
+   "kind": "chunk",
+   "emoji": "🤔",
+   "say": "síim"
+  },
+  {
+   "id": "u58.offer-to-do",
+   "en": "offer to do",
+   "es": "ofrecerse a hacer",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u58.afford-to-do",
+   "en": "afford to do",
+   "es": "poder permitirse",
+   "kind": "chunk",
+   "emoji": "💵"
+  },
+  {
+   "id": "u58.stop-doing",
+   "en": "stop doing",
+   "es": "dejar de hacer",
+   "kind": "chunk",
+   "emoji": "🛑"
+  },
+  {
+   "id": "u58.stop-to-do",
+   "en": "stop to do",
+   "es": "parar para hacer",
+   "kind": "chunk",
+   "emoji": "⏸️"
+  },
+  {
+   "id": "u58.be-interested-in",
+   "en": "be interested in",
+   "es": "estar interesado en",
+   "kind": "chunk",
+   "emoji": "🧐"
+  },
+  {
+   "id": "u58.be-afraid-of",
+   "en": "be afraid of",
+   "es": "tener miedo de",
+   "kind": "chunk",
+   "emoji": "😨"
+  },
+  {
+   "id": "u58.be-tired-of",
+   "en": "be tired of",
+   "es": "estar cansado de",
+   "kind": "chunk",
+   "emoji": "😩"
+  },
+  {
+   "id": "u58.be-used-to",
+   "en": "be used to",
+   "es": "estar acostumbrado a",
+   "kind": "chunk",
+   "emoji": "🧩"
+  },
+  {
+   "id": "u58.think-about",
+   "en": "think about",
+   "es": "pensar en",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u58.instead-of",
+   "en": "instead of",
+   "es": "en vez de",
+   "kind": "chunk",
+   "emoji": "🔁",
+   "say": "ins-téd ov"
+  },
+  {
+   "id": "u58.without",
+   "en": "without",
+   "es": "sin",
+   "kind": "word",
+   "emoji": "➖",
+   "say": "ui-dáut"
+  },
+  {
+   "id": "u58.before",
+   "en": "before",
+   "es": "antes de",
+   "kind": "word",
+   "emoji": "⏮️"
+  },
+  {
+   "id": "u58.after",
+   "en": "after",
+   "es": "después de",
+   "kind": "word",
+   "emoji": "⏭️"
+  },
+  {
+   "id": "u58.by-doing",
+   "en": "by doing",
+   "es": "haciendo (método)",
+   "kind": "chunk",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u58.take-part-in",
+   "en": "take part in",
+   "es": "participar en",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u58.deal-with",
+   "en": "deal with",
+   "es": "manejar / lidiar con",
+   "kind": "chunk",
+   "emoji": "🧯"
+  },
+  {
+   "id": "u58.point-out",
+   "en": "point out",
+   "es": "señalar",
+   "kind": "chunk",
+   "emoji": "👉"
+  },
+  {
+   "id": "u58.turn-into",
+   "en": "turn into",
+   "es": "convertirse en",
+   "kind": "chunk",
+   "emoji": "🦋"
+  },
+  {
+   "id": "u58.come-across",
+   "en": "come across",
+   "es": "encontrarse con (por casualidad)",
+   "kind": "chunk",
+   "emoji": "🍀"
+  },
+  {
+   "id": "u58.run-into",
+   "en": "run into",
+   "es": "toparse con (alguien)",
+   "kind": "chunk",
+   "emoji": "😮"
+  },
+  {
+   "id": "u58.look-into",
+   "en": "look into",
+   "es": "investigar",
+   "kind": "chunk",
+   "emoji": "🔎"
+  },
+  {
+   "id": "u58.go-through",
+   "en": "go through",
+   "es": "pasar por (algo difícil)",
+   "kind": "chunk",
+   "emoji": "🌧️"
+  },
+  {
+   "id": "u58.keep-up-with",
+   "en": "keep up with",
+   "es": "mantener el ritmo",
+   "kind": "chunk",
+   "emoji": "🏃"
+  },
+  {
+   "id": "u58.catch-up-with",
+   "en": "catch up with",
+   "es": "alcanzar / ponerse al día",
+   "kind": "chunk",
+   "emoji": "☕"
+  },
+  {
+   "id": "u58.put-up-with",
+   "en": "put up with",
+   "es": "aguantar / tolerar",
+   "kind": "chunk",
+   "emoji": "😤"
+  },
+  {
+   "id": "u58.look-down-on",
+   "en": "look down on",
+   "es": "menospreciar",
+   "kind": "chunk",
+   "emoji": "🙄"
+  },
+  {
+   "id": "u58.look-up-to",
+   "en": "look up to",
+   "es": "admirar",
+   "kind": "chunk",
+   "emoji": "🌟"
+  },
+  {
+   "id": "u58.let-down",
+   "en": "let down",
+   "es": "decepcionar",
+   "kind": "chunk",
+   "emoji": "😞"
+  },
+  {
+   "id": "u58.turn-out",
+   "en": "turn out",
+   "es": "resultar",
+   "kind": "chunk",
+   "emoji": "🎁"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u58-gerundios-l1",
+   "title": "1. enjoy doing, avoid doing, mind doing…",
+   "focus": "listening",
+   "newItems": [
+    "u58.enjoy-doing",
+    "u58.avoid-doing",
+    "u58.mind-doing",
+    "u58.finish-doing"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.enjoy-doing",
+      "u58.avoid-doing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.mind-doing",
+      "u58.finish-doing"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.enjoy-doing",
+      "u58.avoid-doing",
+      "u58.mind-doing",
+      "u58.finish-doing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.enjoy-doing",
+      "u58.avoid-doing",
+      "u58.mind-doing",
+      "u58.finish-doing"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.enjoy-doing",
+      "u58.avoid-doing",
+      "u58.mind-doing",
+      "u58.finish-doing"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l2",
+   "title": "2. keep doing, practice doing, suggest doing…",
+   "focus": "grammar",
+   "newItems": [
+    "u58.keep-doing",
+    "u58.practice-doing",
+    "u58.suggest-doing",
+    "u58.consider-doing"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.keep-doing",
+      "u58.practice-doing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.suggest-doing",
+      "u58.consider-doing"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.keep-doing",
+      "u58.practice-doing",
+      "u58.suggest-doing",
+      "u58.consider-doing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.keep-doing",
+      "u58.practice-doing",
+      "u58.suggest-doing",
+      "u58.consider-doing"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.keep-doing",
+      "u58.practice-doing",
+      "u58.suggest-doing",
+      "u58.consider-doing"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.enjoy-doing",
+      "u58.avoid-doing",
+      "u58.mind-doing",
+      "u58.finish-doing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "¿-ing o to después de un verbo?",
+     "intro": "Mira la forma del segundo verbo en cada grupo.",
+     "examples": [
+      {
+       "en": "I enjoy reading.",
+       "es": "Disfruto leer.",
+       "mark": [
+        "reading"
+       ]
+      },
+      {
+       "en": "She avoids eating sugar.",
+       "es": "Ella evita comer azúcar.",
+       "mark": [
+        "eating"
+       ]
+      },
+      {
+       "en": "They finished working at six.",
+       "es": "Terminaron de trabajar a las seis.",
+       "mark": [
+        "working"
+       ]
+      },
+      {
+       "en": "I decided to study abroad.",
+       "es": "Decidí estudiar en el extranjero.",
+       "mark": [
+        "to study"
+       ]
+      },
+      {
+       "en": "He promised to call me.",
+       "es": "Prometió llamarme.",
+       "mark": [
+        "to call"
+       ]
+      },
+      {
+       "en": "We managed to finish on time.",
+       "es": "Logramos terminar a tiempo.",
+       "mark": [
+        "to finish"
+       ]
+      }
+     ],
+     "question": "Después de enjoy, avoid y finish, el verbo va…",
+     "options": [
+      "Con -ing",
+      "Con to"
+     ],
+     "answer": 0,
+     "rule": "No hay una regla perfecta: hay que aprender cada verbo. Con -ing: enjoy, avoid, mind, finish, keep, suggest, can't stand. Con to: decide, hope, plan, promise, manage, refuse, learn, want. Después de preposiciones (in, of, about, without, before) siempre -ing. Ojo: stop smoking = dejar de fumar; stop to smoke = parar para fumar.",
+     "ruleExamples": [
+      {
+       "en": "I stopped eating junk food, and on the way home I stopped to buy fruit.",
+       "es": "Dejé de comer comida chatarra, y camino a casa paré a comprar fruta."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I enjoy ___ to podcasts.",
+     "options": [
+      "listening",
+      "to listen"
+     ],
+     "answer": 0,
+     "es": "Disfruto escuchar podcasts."
+    },
+    {
+     "type": "fill",
+     "en": "She decided ___ her job.",
+     "options": [
+      "to quit",
+      "quitting"
+     ],
+     "answer": 0,
+     "es": "Decidió renunciar a su trabajo."
+    },
+    {
+     "type": "fill",
+     "en": "Do you mind ___ the window?",
+     "options": [
+      "opening",
+      "to open"
+     ],
+     "answer": 0,
+     "es": "¿Te molesta abrir la ventana?"
+    },
+    {
+     "type": "fill",
+     "en": "He left without ___ goodbye.",
+     "options": [
+      "saying",
+      "to say"
+     ],
+     "answer": 0,
+     "es": "Se fue sin despedirse."
+    },
+    {
+     "type": "fill",
+     "en": "I'm interested ___ learning Python.",
+     "options": [
+      "in",
+      "on"
+     ],
+     "answer": 0,
+     "es": "Me interesa aprender Python."
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l3",
+   "title": "3. miss doing, can't stand doing, decide to do…",
+   "focus": "reading",
+   "newItems": [
+    "u58.miss-doing",
+    "u58.can-t-stand-doing",
+    "u58.decide-to-do",
+    "u58.hope-to-do"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.miss-doing",
+      "u58.can-t-stand-doing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.decide-to-do",
+      "u58.hope-to-do"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.miss-doing",
+      "u58.can-t-stand-doing",
+      "u58.decide-to-do",
+      "u58.hope-to-do"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.miss-doing",
+      "u58.can-t-stand-doing",
+      "u58.decide-to-do",
+      "u58.hope-to-do"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.miss-doing",
+      "u58.can-t-stand-doing",
+      "u58.decide-to-do",
+      "u58.hope-to-do"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.mind-doing",
+      "u58.finish-doing",
+      "u58.keep-doing",
+      "u58.practice-doing",
+      "u58.suggest-doing",
+      "u58.consider-doing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l4",
+   "title": "4. plan to do, refuse to do, promise to do…",
+   "focus": "listening",
+   "newItems": [
+    "u58.plan-to-do",
+    "u58.refuse-to-do",
+    "u58.promise-to-do",
+    "u58.manage-to-do"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.plan-to-do",
+      "u58.refuse-to-do"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.promise-to-do",
+      "u58.manage-to-do"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.plan-to-do",
+      "u58.refuse-to-do",
+      "u58.promise-to-do",
+      "u58.manage-to-do"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.plan-to-do",
+      "u58.refuse-to-do",
+      "u58.promise-to-do",
+      "u58.manage-to-do"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.plan-to-do",
+      "u58.refuse-to-do",
+      "u58.promise-to-do",
+      "u58.manage-to-do"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.suggest-doing",
+      "u58.consider-doing",
+      "u58.miss-doing",
+      "u58.can-t-stand-doing",
+      "u58.decide-to-do",
+      "u58.hope-to-do"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l5",
+   "title": "5. learn to do, forget to do, remember to do…",
+   "focus": "listening",
+   "newItems": [
+    "u58.learn-to-do",
+    "u58.forget-to-do",
+    "u58.remember-to-do",
+    "u58.try-to-do"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.learn-to-do",
+      "u58.forget-to-do"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.remember-to-do",
+      "u58.try-to-do"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.learn-to-do",
+      "u58.forget-to-do",
+      "u58.remember-to-do",
+      "u58.try-to-do"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.learn-to-do",
+      "u58.forget-to-do",
+      "u58.remember-to-do",
+      "u58.try-to-do"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.learn-to-do",
+      "u58.forget-to-do",
+      "u58.remember-to-do",
+      "u58.try-to-do"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.decide-to-do",
+      "u58.hope-to-do",
+      "u58.plan-to-do",
+      "u58.refuse-to-do",
+      "u58.promise-to-do",
+      "u58.manage-to-do"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l6",
+   "title": "6. seem to, offer to do, afford to do…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u58.seem-to",
+    "u58.offer-to-do",
+    "u58.afford-to-do",
+    "u58.stop-doing"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.seem-to",
+      "u58.offer-to-do"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.afford-to-do",
+      "u58.stop-doing"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.seem-to",
+      "u58.offer-to-do",
+      "u58.afford-to-do",
+      "u58.stop-doing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.seem-to",
+      "u58.offer-to-do",
+      "u58.afford-to-do",
+      "u58.stop-doing"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.seem-to",
+      "u58.offer-to-do",
+      "u58.afford-to-do",
+      "u58.stop-doing"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.promise-to-do",
+      "u58.manage-to-do",
+      "u58.learn-to-do",
+      "u58.forget-to-do",
+      "u58.remember-to-do",
+      "u58.try-to-do"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l7",
+   "title": "7. stop to do, be interested in, be afraid of…",
+   "focus": "reading",
+   "newItems": [
+    "u58.stop-to-do",
+    "u58.be-interested-in",
+    "u58.be-afraid-of",
+    "u58.be-tired-of"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.stop-to-do",
+      "u58.be-interested-in"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.be-afraid-of",
+      "u58.be-tired-of"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.stop-to-do",
+      "u58.be-interested-in",
+      "u58.be-afraid-of",
+      "u58.be-tired-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.stop-to-do",
+      "u58.be-interested-in",
+      "u58.be-afraid-of",
+      "u58.be-tired-of"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.stop-to-do",
+      "u58.be-interested-in",
+      "u58.be-afraid-of",
+      "u58.be-tired-of"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.remember-to-do",
+      "u58.try-to-do",
+      "u58.seem-to",
+      "u58.offer-to-do",
+      "u58.afford-to-do",
+      "u58.stop-doing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l8",
+   "title": "8. be used to, think about, instead of…",
+   "focus": "listening",
+   "newItems": [
+    "u58.be-used-to",
+    "u58.think-about",
+    "u58.instead-of",
+    "u58.without"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.be-used-to",
+      "u58.think-about"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.instead-of",
+      "u58.without"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.be-used-to",
+      "u58.think-about",
+      "u58.instead-of",
+      "u58.without"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.be-used-to",
+      "u58.think-about",
+      "u58.instead-of",
+      "u58.without"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.be-used-to",
+      "u58.think-about",
+      "u58.instead-of",
+      "u58.without"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.afford-to-do",
+      "u58.stop-doing",
+      "u58.stop-to-do",
+      "u58.be-interested-in",
+      "u58.be-afraid-of",
+      "u58.be-tired-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l9",
+   "title": "9. before, after, by doing…",
+   "focus": "listening",
+   "newItems": [
+    "u58.before",
+    "u58.after",
+    "u58.by-doing",
+    "u58.take-part-in"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.before",
+      "u58.after"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.by-doing",
+      "u58.take-part-in"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.before",
+      "u58.after",
+      "u58.by-doing",
+      "u58.take-part-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.before",
+      "u58.after",
+      "u58.by-doing",
+      "u58.take-part-in"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.before",
+      "u58.after",
+      "u58.by-doing",
+      "u58.take-part-in"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.be-afraid-of",
+      "u58.be-tired-of",
+      "u58.be-used-to",
+      "u58.think-about",
+      "u58.instead-of",
+      "u58.without"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l10",
+   "title": "10. deal with, point out, turn into…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u58.deal-with",
+    "u58.point-out",
+    "u58.turn-into",
+    "u58.come-across"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.deal-with",
+      "u58.point-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.turn-into",
+      "u58.come-across"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.deal-with",
+      "u58.point-out",
+      "u58.turn-into",
+      "u58.come-across"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.deal-with",
+      "u58.point-out",
+      "u58.turn-into",
+      "u58.come-across"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.deal-with",
+      "u58.point-out",
+      "u58.turn-into",
+      "u58.come-across"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.instead-of",
+      "u58.without",
+      "u58.before",
+      "u58.after",
+      "u58.by-doing",
+      "u58.take-part-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Cambiar hábitos",
+     "scene": "💭 Dos amigos hablan de propósitos de año nuevo.",
+     "lines": [
+      {
+       "who": "Sara",
+       "en": "What do you plan to do this year?",
+       "es": "¿Qué planeas hacer este año?"
+      },
+      {
+       "who": "Diego",
+       "en": "I want to stop wasting time on my phone. I can't stand feeling so tired.",
+       "es": "Quiero dejar de perder tiempo en el celular. No soporto sentirme tan cansado."
+      },
+      {
+       "who": "Sara",
+       "en": "I suggest turning off notifications. It really helps.",
+       "es": "Te sugiero apagar las notificaciones. De verdad ayuda."
+      },
+      {
+       "who": "Diego",
+       "en": "Good idea. And you?",
+       "es": "Buena idea. ¿Y tú?"
+      },
+      {
+       "who": "Sara",
+       "en": "I've decided to learn to play the guitar. I keep putting it off!",
+       "es": "Decidí aprender a tocar la guitarra. ¡Lo sigo aplazando!"
+      },
+      {
+       "who": "Diego",
+       "en": "Promise to show me a song in three months!",
+       "es": "¡Prométeme que me vas a mostrar una canción en tres meses!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l11",
+   "title": "11. run into, look into, go through…",
+   "focus": "reading",
+   "newItems": [
+    "u58.run-into",
+    "u58.look-into",
+    "u58.go-through",
+    "u58.keep-up-with"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.run-into",
+      "u58.look-into"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.go-through",
+      "u58.keep-up-with"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.run-into",
+      "u58.look-into",
+      "u58.go-through",
+      "u58.keep-up-with"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.run-into",
+      "u58.look-into",
+      "u58.go-through",
+      "u58.keep-up-with"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.run-into",
+      "u58.look-into",
+      "u58.go-through",
+      "u58.keep-up-with"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.by-doing",
+      "u58.take-part-in",
+      "u58.deal-with",
+      "u58.point-out",
+      "u58.turn-into",
+      "u58.come-across"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l12",
+   "title": "12. catch up with, put up with, look down on…",
+   "focus": "listening",
+   "newItems": [
+    "u58.catch-up-with",
+    "u58.put-up-with",
+    "u58.look-down-on",
+    "u58.look-up-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.catch-up-with",
+      "u58.put-up-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u58.look-down-on",
+      "u58.look-up-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.catch-up-with",
+      "u58.put-up-with",
+      "u58.look-down-on",
+      "u58.look-up-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.catch-up-with",
+      "u58.put-up-with",
+      "u58.look-down-on",
+      "u58.look-up-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.catch-up-with",
+      "u58.put-up-with",
+      "u58.look-down-on",
+      "u58.look-up-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.turn-into",
+      "u58.come-across",
+      "u58.run-into",
+      "u58.look-into",
+      "u58.go-through",
+      "u58.keep-up-with"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-l13",
+   "title": "13. let down, turn out",
+   "focus": "listening",
+   "newItems": [
+    "u58.let-down",
+    "u58.turn-out"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u58.let-down",
+      "u58.turn-out"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.let-down",
+      "u58.turn-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.let-down",
+      "u58.turn-out"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.let-down",
+      "u58.turn-out"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.go-through",
+      "u58.keep-up-with",
+      "u58.catch-up-with",
+      "u58.put-up-with",
+      "u58.look-down-on",
+      "u58.look-up-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u58-gerundios-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La maratón de mi papá",
+     "emoji": "🏃",
+     "paragraphs": [
+      {
+       "en": "My father always looked down on running. \"It's boring,\" he used to say.",
+       "es": "Mi papá siempre menospreciaba correr. \"Es aburrido\", solía decir."
+      },
+      {
+       "en": "But after a health problem, the doctor advised him to start exercising.",
+       "es": "Pero después de un problema de salud, el médico le aconsejó empezar a hacer ejercicio."
+      },
+      {
+       "en": "At first he could hardly run for five minutes. He kept trying, every morning.",
+       "es": "Al principio casi no podía correr cinco minutos. Siguió intentándolo, todas las mañanas."
+      },
+      {
+       "en": "He went through difficult days, but he refused to give up.",
+       "es": "Pasó por días difíciles, pero se negó a rendirse."
+      },
+      {
+       "en": "After a year, he managed to finish his first half marathon.",
+       "es": "Después de un año, logró terminar su primera media maratón."
+      },
+      {
+       "en": "Now he's the person I look up to the most. He turned out to be a real runner!",
+       "es": "Ahora es la persona que más admiro. ¡Resultó ser un verdadero corredor!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué pensaba antes el papá de correr?",
+       "options": [
+        "Que era aburrido",
+        "Que era fácil",
+        "Que era peligroso"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Quién le aconsejó hacer ejercicio?",
+       "options": [
+        "Su hijo",
+        "El médico",
+        "Un amigo"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué logró después de un año?",
+       "options": [
+        "Bajar 20 kilos",
+        "Terminar una media maratón",
+        "Ganar un premio"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Planear un viaje en grupo",
+     "scene": "🧳 Organizas un viaje con una amiga.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "Where should we go this summer?",
+       "es": "¿A dónde deberíamos ir este verano?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I suggest going to the coast. I really enjoy swimming.",
+         "es": "Sugiero ir a la costa. Disfruto mucho nadar.",
+         "ok": true
+        },
+        {
+         "en": "I suggest to go to the coast.",
+         "es": "Sugiero ir a la costa.",
+         "ok": false,
+         "why": "Después de \"suggest\" va -ing: suggest going."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "OK. But I can't afford to stay in an expensive hotel.",
+       "es": "Bueno. Pero no puedo pagar un hotel caro."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No problem. We could look into cheap hostels instead of hotels.",
+         "es": "No hay problema. Podríamos buscar hostales baratos en vez de hoteles.",
+         "ok": true
+        },
+        {
+         "en": "No problem. We avoid to look for hostels.",
+         "es": "No hay problema. Evitamos a buscar hostales.",
+         "ok": false,
+         "why": "Se dice \"avoid looking\", y no tiene sentido aquí."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Great. Don't forget to book the bus tickets!",
+       "es": "¡Genial! ¡No olvides reservar los pasajes del bus!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I won't. I promise to do it tonight.",
+         "es": "No se me olvida. Prometo hacerlo esta noche.",
+         "ok": true
+        },
+        {
+         "en": "I promise doing it tonight.",
+         "es": "Prometo haciéndolo esta noche.",
+         "ok": false,
+         "why": "Después de \"promise\" va \"to\": promise to do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Disfruto cocinar.",
+     "en": "I enjoy cooking."
+    },
+    {
+     "type": "write",
+     "es": "Decidí estudiar inglés.",
+     "en": "I decided to study English."
+    },
+    {
+     "type": "write",
+     "es": "Se fue sin decir nada.",
+     "en": "He left without saying anything.",
+     "accept": [
+      "She left without saying anything."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I stopped eating junk food last year.",
+     "es": "Dejé de comer comida chatarra el año pasado."
+    },
+    {
+     "type": "dictation",
+     "en": "She managed to finish the project on time.",
+     "es": "Ella logró terminar el proyecto a tiempo."
+    },
+    {
+     "type": "speak",
+     "en": "I'm interested in learning English because I want to travel.",
+     "es": "Me interesa aprender inglés porque quiero viajar.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u58.go-through",
+      "u58.keep-up-with",
+      "u58.catch-up-with",
+      "u58.put-up-with",
+      "u58.look-down-on",
+      "u58.look-up-to",
+      "u58.let-down",
+      "u58.turn-out"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

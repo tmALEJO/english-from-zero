@@ -1,0 +1,1811 @@
+{
+ "_generated": true,
+ "id": "u49-ambiente",
+ "level": "B1",
+ "title": "El medio ambiente",
+ "emoji": "🌎",
+ "canDo": "Ya puedo hablar de problemas ambientales y soluciones",
+ "summary": "Contaminación, reciclaje, energía y el cambio climático, con verbos para proponer soluciones.",
+ "grammar": [
+  "Cuantificadores: too much / too many / not enough",
+  "Pasiva sencilla de presente"
+ ],
+ "items": [
+  {
+   "id": "u49.environment",
+   "en": "environment",
+   "es": "medio ambiente",
+   "kind": "word",
+   "emoji": "🌍",
+   "say": "en-vái-ron-ment"
+  },
+  {
+   "id": "u49.climate-change",
+   "en": "climate change",
+   "es": "cambio climático",
+   "kind": "chunk",
+   "emoji": "🌡️"
+  },
+  {
+   "id": "u49.global-warming",
+   "en": "global warming",
+   "es": "calentamiento global",
+   "kind": "chunk",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u49.pollution",
+   "en": "pollution",
+   "es": "contaminación",
+   "kind": "word",
+   "emoji": "🏭",
+   "say": "po-lú-shon"
+  },
+  {
+   "id": "u49.pollute",
+   "en": "pollute",
+   "es": "contaminar",
+   "kind": "word",
+   "emoji": "🛢️",
+   "say": "po-lúut"
+  },
+  {
+   "id": "u49.air-pollution",
+   "en": "air pollution",
+   "es": "contaminación del aire",
+   "kind": "chunk",
+   "emoji": "💨"
+  },
+  {
+   "id": "u49.plastic",
+   "en": "plastic",
+   "es": "plástico",
+   "kind": "word",
+   "emoji": "🧴",
+   "say": "plás-tik"
+  },
+  {
+   "id": "u49.garbage",
+   "en": "garbage",
+   "es": "basura",
+   "kind": "word",
+   "emoji": "🗑️",
+   "say": "gár-bich"
+  },
+  {
+   "id": "u49.waste",
+   "en": "waste",
+   "es": "desperdicio / desperdiciar",
+   "kind": "word",
+   "emoji": "🚮",
+   "say": "uéist"
+  },
+  {
+   "id": "u49.recycle",
+   "en": "recycle",
+   "es": "reciclar",
+   "kind": "word",
+   "emoji": "♻️",
+   "say": "ri-sái-kol"
+  },
+  {
+   "id": "u49.reuse",
+   "en": "reuse",
+   "es": "reutilizar",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "ri-iús"
+  },
+  {
+   "id": "u49.reduce",
+   "en": "reduce",
+   "es": "reducir",
+   "kind": "word",
+   "emoji": "⬇️",
+   "say": "ri-diús"
+  },
+  {
+   "id": "u49.save-energy",
+   "en": "save energy",
+   "es": "ahorrar energía",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u49.renewable-energy",
+   "en": "renewable energy",
+   "es": "energía renovable",
+   "kind": "chunk",
+   "emoji": "🔋"
+  },
+  {
+   "id": "u49.solar-panel",
+   "en": "solar panel",
+   "es": "panel solar",
+   "kind": "chunk",
+   "emoji": "☀️"
+  },
+  {
+   "id": "u49.wind-turbine",
+   "en": "wind turbine",
+   "es": "turbina eólica",
+   "kind": "chunk",
+   "emoji": "🌬️"
+  },
+  {
+   "id": "u49.fossil-fuels",
+   "en": "fossil fuels",
+   "es": "combustibles fósiles",
+   "kind": "chunk",
+   "emoji": "⛽"
+  },
+  {
+   "id": "u49.oil-fuel",
+   "en": "oil",
+   "es": "petróleo",
+   "kind": "word",
+   "emoji": "🛢️",
+   "tip": "Aquí con el sentido de: fuel."
+  },
+  {
+   "id": "u49.coal",
+   "en": "coal",
+   "es": "carbón",
+   "kind": "word",
+   "emoji": "⚫",
+   "say": "kóul"
+  },
+  {
+   "id": "u49.gas",
+   "en": "gas",
+   "es": "gas",
+   "kind": "word",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u49.carbon-dioxide",
+   "en": "carbon dioxide",
+   "es": "dióxido de carbono",
+   "kind": "chunk",
+   "emoji": "💨"
+  },
+  {
+   "id": "u49.greenhouse-effect",
+   "en": "greenhouse effect",
+   "es": "efecto invernadero",
+   "kind": "chunk",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u49.temperature",
+   "en": "temperature",
+   "es": "temperatura",
+   "kind": "word",
+   "emoji": "🌡️",
+   "say": "tém-pe-ra-cher"
+  },
+  {
+   "id": "u49.drought",
+   "en": "drought",
+   "es": "sequía",
+   "kind": "word",
+   "emoji": "🏜️",
+   "say": "dráut"
+  },
+  {
+   "id": "u49.flood",
+   "en": "flood",
+   "es": "inundación",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "flad"
+  },
+  {
+   "id": "u49.wildfire",
+   "en": "wildfire",
+   "es": "incendio forestal",
+   "kind": "word",
+   "emoji": "🔥",
+   "say": "uáild-faier"
+  },
+  {
+   "id": "u49.deforestation",
+   "en": "deforestation",
+   "es": "deforestación",
+   "kind": "word",
+   "emoji": "🪓",
+   "say": "di-fo-res-téi-shon"
+  },
+  {
+   "id": "u49.cut-down-trees",
+   "en": "cut down trees",
+   "es": "talar árboles",
+   "kind": "chunk",
+   "emoji": "🌳"
+  },
+  {
+   "id": "u49.species",
+   "en": "species",
+   "es": "especies",
+   "kind": "word",
+   "emoji": "🐾",
+   "say": "spíi-shiis"
+  },
+  {
+   "id": "u49.extinct",
+   "en": "extinct",
+   "es": "extinto",
+   "kind": "word",
+   "emoji": "🦣",
+   "say": "eks-tínkt"
+  },
+  {
+   "id": "u49.protect",
+   "en": "protect",
+   "es": "proteger",
+   "kind": "word",
+   "emoji": "🛡️",
+   "say": "pro-tékt"
+  },
+  {
+   "id": "u49.nature-reserve",
+   "en": "nature reserve",
+   "es": "reserva natural",
+   "kind": "chunk",
+   "emoji": "🏞️"
+  },
+  {
+   "id": "u49.natural-resources",
+   "en": "natural resources",
+   "es": "recursos naturales",
+   "kind": "chunk",
+   "emoji": "💧"
+  },
+  {
+   "id": "u49.damage",
+   "en": "damage",
+   "es": "daño / dañar",
+   "kind": "word",
+   "emoji": "💥",
+   "say": "dá-mich"
+  },
+  {
+   "id": "u49.destroy",
+   "en": "destroy",
+   "es": "destruir",
+   "kind": "word",
+   "emoji": "🏚️",
+   "say": "dis-trói"
+  },
+  {
+   "id": "u49.harm",
+   "en": "harm",
+   "es": "dañar / daño",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "jarm"
+  },
+  {
+   "id": "u49.harmful",
+   "en": "harmful",
+   "es": "dañino",
+   "kind": "word",
+   "emoji": "☠️",
+   "say": "járm-ful"
+  },
+  {
+   "id": "u49.eco-friendly",
+   "en": "eco-friendly",
+   "es": "ecológico",
+   "kind": "word",
+   "emoji": "🌿",
+   "say": "íi-kou-frend-li"
+  },
+  {
+   "id": "u49.organic",
+   "en": "organic",
+   "es": "orgánico",
+   "kind": "word",
+   "emoji": "🥬",
+   "say": "or-gá-nik"
+  },
+  {
+   "id": "u49.public-transport",
+   "en": "public transport",
+   "es": "transporte público",
+   "kind": "chunk",
+   "emoji": "🚌"
+  },
+  {
+   "id": "u49.carpool",
+   "en": "carpool",
+   "es": "compartir carro",
+   "kind": "word",
+   "emoji": "🚗👥"
+  },
+  {
+   "id": "u49.reusable-bag",
+   "en": "reusable bag",
+   "es": "bolsa reutilizable",
+   "kind": "chunk",
+   "emoji": "🛍️"
+  },
+  {
+   "id": "u49.single-use",
+   "en": "single-use",
+   "es": "de un solo uso",
+   "kind": "word",
+   "emoji": "🥤"
+  },
+  {
+   "id": "u49.compost",
+   "en": "compost",
+   "es": "compost / abono",
+   "kind": "word",
+   "emoji": "🪱",
+   "say": "kóm-post"
+  },
+  {
+   "id": "u49.volunteer",
+   "en": "volunteer",
+   "es": "voluntario",
+   "kind": "word",
+   "emoji": "🙋",
+   "say": "vo-lun-tíer"
+  },
+  {
+   "id": "u49.campaign",
+   "en": "campaign",
+   "es": "campaña",
+   "kind": "word",
+   "emoji": "📣",
+   "say": "kam-péin",
+   "tip": "La g no suena."
+  },
+  {
+   "id": "u49.government",
+   "en": "government",
+   "es": "gobierno",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "gá-vern-ment"
+  },
+  {
+   "id": "u49.take-action",
+   "en": "take action",
+   "es": "actuar / tomar medidas",
+   "kind": "chunk",
+   "emoji": "✊"
+  },
+  {
+   "id": "u49.make-a-difference",
+   "en": "make a difference",
+   "es": "marcar la diferencia",
+   "kind": "chunk",
+   "emoji": "✨"
+  },
+  {
+   "id": "u49.too-much-plastic",
+   "en": "too much plastic",
+   "es": "demasiado plástico",
+   "kind": "chunk",
+   "emoji": "🧴"
+  },
+  {
+   "id": "u49.too-many-cars",
+   "en": "too many cars",
+   "es": "demasiados carros",
+   "kind": "chunk",
+   "emoji": "🚗🚗"
+  },
+  {
+   "id": "u49.not-enough-trees",
+   "en": "not enough trees",
+   "es": "no hay suficientes árboles",
+   "kind": "chunk",
+   "emoji": "🌳"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u49-ambiente-l1",
+   "title": "1. environment, climate change, global warming…",
+   "focus": "listening",
+   "newItems": [
+    "u49.environment",
+    "u49.climate-change",
+    "u49.global-warming",
+    "u49.pollution"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.environment",
+      "u49.climate-change"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.global-warming",
+      "u49.pollution"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.environment",
+      "u49.climate-change",
+      "u49.global-warming",
+      "u49.pollution"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.environment",
+      "u49.climate-change",
+      "u49.global-warming",
+      "u49.pollution"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.environment",
+      "u49.climate-change",
+      "u49.global-warming",
+      "u49.pollution"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l2",
+   "title": "2. pollute, air pollution, plastic…",
+   "focus": "grammar",
+   "newItems": [
+    "u49.pollute",
+    "u49.air-pollution",
+    "u49.plastic",
+    "u49.garbage"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.pollute",
+      "u49.air-pollution"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.plastic",
+      "u49.garbage"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.pollute",
+      "u49.air-pollution",
+      "u49.plastic",
+      "u49.garbage"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.pollute",
+      "u49.air-pollution",
+      "u49.plastic",
+      "u49.garbage"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.pollute",
+      "u49.air-pollution",
+      "u49.plastic",
+      "u49.garbage"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.environment",
+      "u49.climate-change",
+      "u49.global-warming",
+      "u49.pollution"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "too much, too many, not enough",
+     "intro": "Mira qué palabra va con cosas que se cuentan y cuáles no.",
+     "examples": [
+      {
+       "en": "There's too much pollution in big cities.",
+       "es": "Hay demasiada contaminación en las ciudades grandes.",
+       "mark": [
+        "too much"
+       ]
+      },
+      {
+       "en": "We use too much plastic.",
+       "es": "Usamos demasiado plástico.",
+       "mark": [
+        "too much"
+       ]
+      },
+      {
+       "en": "There are too many cars on the roads.",
+       "es": "Hay demasiados carros en las calles.",
+       "mark": [
+        "too many"
+       ]
+      },
+      {
+       "en": "There aren't enough trees in my neighborhood.",
+       "es": "No hay suficientes árboles en mi barrio.",
+       "mark": [
+        "enough"
+       ]
+      },
+      {
+       "en": "We don't recycle enough.",
+       "es": "No reciclamos lo suficiente.",
+       "mark": [
+        "enough"
+       ]
+      }
+     ],
+     "question": "¿Cuál va con sustantivos contables (cars, bottles)?",
+     "options": [
+      "too much",
+      "too many"
+     ],
+     "answer": 1,
+     "rule": "too much + incontable (pollution, plastic, water). too many + contable plural (cars, bottles, people). not enough = no suficiente, con los dos. Y para procesos y hechos se usa mucho la voz pasiva: Plastic is recycled (el plástico se recicla).",
+     "ruleExamples": [
+      {
+       "en": "Millions of trees are cut down every year.",
+       "es": "Se talan millones de árboles cada año."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "There's ___ garbage on the beach.",
+     "options": [
+      "too much",
+      "too many"
+     ],
+     "answer": 0,
+     "es": "Hay demasiada basura en la playa."
+    },
+    {
+     "type": "fill",
+     "en": "There are ___ plastic bottles in the ocean.",
+     "options": [
+      "too many",
+      "too much"
+     ],
+     "answer": 0,
+     "es": "Hay demasiadas botellas plásticas en el océano."
+    },
+    {
+     "type": "fill",
+     "en": "We don't have ___ clean water.",
+     "options": [
+      "enough",
+      "too"
+     ],
+     "answer": 0,
+     "es": "No tenemos suficiente agua limpia."
+    },
+    {
+     "type": "fill",
+     "en": "Paper ___ recycled in this factory.",
+     "options": [
+      "is",
+      "does"
+     ],
+     "answer": 0,
+     "es": "El papel se recicla en esta fábrica."
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l3",
+   "title": "3. waste, recycle, reuse…",
+   "focus": "reading",
+   "newItems": [
+    "u49.waste",
+    "u49.recycle",
+    "u49.reuse",
+    "u49.reduce"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.waste",
+      "u49.recycle"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.reuse",
+      "u49.reduce"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.waste",
+      "u49.recycle",
+      "u49.reuse",
+      "u49.reduce"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.waste",
+      "u49.recycle",
+      "u49.reuse",
+      "u49.reduce"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.waste",
+      "u49.recycle",
+      "u49.reuse",
+      "u49.reduce"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.global-warming",
+      "u49.pollution",
+      "u49.pollute",
+      "u49.air-pollution",
+      "u49.plastic",
+      "u49.garbage"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l4",
+   "title": "4. save energy, renewable energy, solar panel…",
+   "focus": "listening",
+   "newItems": [
+    "u49.save-energy",
+    "u49.renewable-energy",
+    "u49.solar-panel",
+    "u49.wind-turbine"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.save-energy",
+      "u49.renewable-energy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.solar-panel",
+      "u49.wind-turbine"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.save-energy",
+      "u49.renewable-energy",
+      "u49.solar-panel",
+      "u49.wind-turbine"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.save-energy",
+      "u49.renewable-energy",
+      "u49.solar-panel",
+      "u49.wind-turbine"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.save-energy",
+      "u49.renewable-energy",
+      "u49.solar-panel",
+      "u49.wind-turbine"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.plastic",
+      "u49.garbage",
+      "u49.waste",
+      "u49.recycle",
+      "u49.reuse",
+      "u49.reduce"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l5",
+   "title": "5. fossil fuels, oil, coal…",
+   "focus": "listening",
+   "newItems": [
+    "u49.fossil-fuels",
+    "u49.oil-fuel",
+    "u49.coal",
+    "u49.gas"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.fossil-fuels",
+      "u49.oil-fuel"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.coal",
+      "u49.gas"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.fossil-fuels",
+      "u49.oil-fuel",
+      "u49.coal",
+      "u49.gas"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.fossil-fuels",
+      "u49.oil-fuel",
+      "u49.coal",
+      "u49.gas"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.fossil-fuels",
+      "u49.oil-fuel",
+      "u49.coal",
+      "u49.gas"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.reuse",
+      "u49.reduce",
+      "u49.save-energy",
+      "u49.renewable-energy",
+      "u49.solar-panel",
+      "u49.wind-turbine"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l6",
+   "title": "6. carbon dioxide, greenhouse effect, temperature…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u49.carbon-dioxide",
+    "u49.greenhouse-effect",
+    "u49.temperature",
+    "u49.drought"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.carbon-dioxide",
+      "u49.greenhouse-effect"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.temperature",
+      "u49.drought"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.carbon-dioxide",
+      "u49.greenhouse-effect",
+      "u49.temperature",
+      "u49.drought"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.carbon-dioxide",
+      "u49.greenhouse-effect",
+      "u49.temperature",
+      "u49.drought"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.carbon-dioxide",
+      "u49.greenhouse-effect",
+      "u49.temperature",
+      "u49.drought"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.solar-panel",
+      "u49.wind-turbine",
+      "u49.fossil-fuels",
+      "u49.oil-fuel",
+      "u49.coal",
+      "u49.gas"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l7",
+   "title": "7. flood, wildfire, deforestation…",
+   "focus": "reading",
+   "newItems": [
+    "u49.flood",
+    "u49.wildfire",
+    "u49.deforestation",
+    "u49.cut-down-trees"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.flood",
+      "u49.wildfire"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.deforestation",
+      "u49.cut-down-trees"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.flood",
+      "u49.wildfire",
+      "u49.deforestation",
+      "u49.cut-down-trees"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.flood",
+      "u49.wildfire",
+      "u49.deforestation",
+      "u49.cut-down-trees"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.flood",
+      "u49.wildfire",
+      "u49.deforestation",
+      "u49.cut-down-trees"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.coal",
+      "u49.gas",
+      "u49.carbon-dioxide",
+      "u49.greenhouse-effect",
+      "u49.temperature",
+      "u49.drought"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l8",
+   "title": "8. species, extinct, protect…",
+   "focus": "listening",
+   "newItems": [
+    "u49.species",
+    "u49.extinct",
+    "u49.protect",
+    "u49.nature-reserve"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.species",
+      "u49.extinct"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.protect",
+      "u49.nature-reserve"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.species",
+      "u49.extinct",
+      "u49.protect",
+      "u49.nature-reserve"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.species",
+      "u49.extinct",
+      "u49.protect",
+      "u49.nature-reserve"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.species",
+      "u49.extinct",
+      "u49.protect",
+      "u49.nature-reserve"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.temperature",
+      "u49.drought",
+      "u49.flood",
+      "u49.wildfire",
+      "u49.deforestation",
+      "u49.cut-down-trees"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l9",
+   "title": "9. natural resources, damage, destroy…",
+   "focus": "listening",
+   "newItems": [
+    "u49.natural-resources",
+    "u49.damage",
+    "u49.destroy",
+    "u49.harm"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.natural-resources",
+      "u49.damage"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.destroy",
+      "u49.harm"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.natural-resources",
+      "u49.damage",
+      "u49.destroy",
+      "u49.harm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.natural-resources",
+      "u49.damage",
+      "u49.destroy",
+      "u49.harm"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.natural-resources",
+      "u49.damage",
+      "u49.destroy",
+      "u49.harm"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.deforestation",
+      "u49.cut-down-trees",
+      "u49.species",
+      "u49.extinct",
+      "u49.protect",
+      "u49.nature-reserve"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l10",
+   "title": "10. harmful, eco-friendly, organic…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u49.harmful",
+    "u49.eco-friendly",
+    "u49.organic",
+    "u49.public-transport"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.harmful",
+      "u49.eco-friendly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.organic",
+      "u49.public-transport"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.harmful",
+      "u49.eco-friendly",
+      "u49.organic",
+      "u49.public-transport"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.harmful",
+      "u49.eco-friendly",
+      "u49.organic",
+      "u49.public-transport"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.harmful",
+      "u49.eco-friendly",
+      "u49.organic",
+      "u49.public-transport"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.protect",
+      "u49.nature-reserve",
+      "u49.natural-resources",
+      "u49.damage",
+      "u49.destroy",
+      "u49.harm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Una campaña en la universidad",
+     "scene": "♻️ Dos estudiantes organizan una campaña.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "We should do something. There's too much plastic in the cafeteria.",
+       "es": "Deberíamos hacer algo. Hay demasiado plástico en la cafetería."
+      },
+      {
+       "who": "Leo",
+       "en": "I agree. Most of it is single-use.",
+       "es": "De acuerdo. La mayoría es de un solo uso."
+      },
+      {
+       "who": "Ana",
+       "en": "What if we start a campaign? We could ask students to bring reusable cups.",
+       "es": "¿Y si empezamos una campaña? Podríamos pedirles a los estudiantes que traigan vasos reutilizables."
+      },
+      {
+       "who": "Leo",
+       "en": "Great idea. And we can put recycling bins in every building.",
+       "es": "Excelente idea. Y podemos poner canecas de reciclaje en cada edificio."
+      },
+      {
+       "who": "Ana",
+       "en": "We'll need volunteers.",
+       "es": "Vamos a necesitar voluntarios."
+      },
+      {
+       "who": "Leo",
+       "en": "Let's make posters this weekend. Small actions can make a difference!",
+       "es": "Hagamos carteles este fin de semana. ¡Las pequeñas acciones pueden marcar la diferencia!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l11",
+   "title": "11. carpool, reusable bag, single-use…",
+   "focus": "reading",
+   "newItems": [
+    "u49.carpool",
+    "u49.reusable-bag",
+    "u49.single-use",
+    "u49.compost"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.carpool",
+      "u49.reusable-bag"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.single-use",
+      "u49.compost"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.carpool",
+      "u49.reusable-bag",
+      "u49.single-use",
+      "u49.compost"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.carpool",
+      "u49.reusable-bag",
+      "u49.single-use",
+      "u49.compost"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.carpool",
+      "u49.reusable-bag",
+      "u49.single-use",
+      "u49.compost"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.destroy",
+      "u49.harm",
+      "u49.harmful",
+      "u49.eco-friendly",
+      "u49.organic",
+      "u49.public-transport"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l12",
+   "title": "12. volunteer, campaign, government…",
+   "focus": "listening",
+   "newItems": [
+    "u49.volunteer",
+    "u49.campaign",
+    "u49.government",
+    "u49.take-action"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.volunteer",
+      "u49.campaign"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.government",
+      "u49.take-action"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.volunteer",
+      "u49.campaign",
+      "u49.government",
+      "u49.take-action"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.volunteer",
+      "u49.campaign",
+      "u49.government",
+      "u49.take-action"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.volunteer",
+      "u49.campaign",
+      "u49.government",
+      "u49.take-action"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.organic",
+      "u49.public-transport",
+      "u49.carpool",
+      "u49.reusable-bag",
+      "u49.single-use",
+      "u49.compost"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-l13",
+   "title": "13. make a difference, too much plastic, too many cars…",
+   "focus": "listening",
+   "newItems": [
+    "u49.make-a-difference",
+    "u49.too-much-plastic",
+    "u49.too-many-cars",
+    "u49.not-enough-trees"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u49.make-a-difference",
+      "u49.too-much-plastic"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u49.too-many-cars",
+      "u49.not-enough-trees"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.make-a-difference",
+      "u49.too-much-plastic",
+      "u49.too-many-cars",
+      "u49.not-enough-trees"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.make-a-difference",
+      "u49.too-much-plastic",
+      "u49.too-many-cars",
+      "u49.not-enough-trees"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.make-a-difference",
+      "u49.too-much-plastic",
+      "u49.too-many-cars",
+      "u49.not-enough-trees"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.single-use",
+      "u49.compost",
+      "u49.volunteer",
+      "u49.campaign",
+      "u49.government",
+      "u49.take-action"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u49-ambiente-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El páramo que nos da agua",
+     "emoji": "💧",
+     "paragraphs": [
+      {
+       "en": "Near many Colombian cities there are páramos, unique high mountain ecosystems.",
+       "es": "Cerca de muchas ciudades colombianas hay páramos, ecosistemas únicos de alta montaña."
+      },
+      {
+       "en": "They work like sponges: they collect water from the clouds and release it slowly.",
+       "es": "Funcionan como esponjas: recogen el agua de las nubes y la sueltan despacio."
+      },
+      {
+       "en": "Millions of people drink water that comes from páramos.",
+       "es": "Millones de personas toman agua que viene de los páramos."
+      },
+      {
+       "en": "However, they are in danger because of mining, farming and climate change.",
+       "es": "Sin embargo, están en peligro por la minería, la agricultura y el cambio climático."
+      },
+      {
+       "en": "If we destroy them, many cities will suffer droughts in the future.",
+       "es": "Si los destruimos, muchas ciudades sufrirán sequías en el futuro."
+      },
+      {
+       "en": "That's why some páramos are now protected as nature reserves.",
+       "es": "Por eso algunos páramos ahora están protegidos como reservas naturales."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo funcionan los páramos?",
+       "options": [
+        "Como esponjas que guardan agua",
+        "Como volcanes",
+        "Como desiertos"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Por qué están en peligro?",
+       "options": [
+        "Por la minería, la agricultura y el cambio climático",
+        "Por el turismo",
+        "Por los animales"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué pasará si los destruimos?",
+       "options": [
+        "Habrá más lluvia",
+        "Muchas ciudades sufrirán sequías",
+        "Nada"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Convencer a un amigo",
+     "scene": "🚗 Tu amigo va al trabajo solo en carro todos los días.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "I drive to work every day. It's faster.",
+       "es": "Manejo al trabajo todos los días. Es más rápido."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "But there are too many cars, and they cause a lot of pollution.",
+         "es": "Pero hay demasiados carros, y causan mucha contaminación.",
+         "ok": true
+        },
+        {
+         "en": "But there is too much cars.",
+         "es": "Pero hay demasiado carros.",
+         "ok": false,
+         "why": "Con \"cars\" (contable) es \"too many\"."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Maybe, but the bus takes too long.",
+       "es": "Tal vez, pero el bus se demora demasiado."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "What about carpooling with your colleagues? You'll save money too.",
+         "es": "¿Y si compartes carro con tus colegas? También ahorrarás plata.",
+         "ok": true
+        },
+        {
+         "en": "You should cut down trees.",
+         "es": "Deberías talar árboles.",
+         "ok": false,
+         "why": "Es lo contrario de cuidar el ambiente."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "That's not a bad idea.",
+       "es": "No es mala idea."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Small changes can make a big difference!",
+         "es": "¡Los pequeños cambios pueden marcar una gran diferencia!",
+         "ok": true
+        },
+        {
+         "en": "Small changes are harmful.",
+         "es": "Los pequeños cambios son dañinos.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Hay demasiada contaminación.",
+     "en": "There's too much pollution.",
+     "accept": [
+      "There is too much pollution."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Deberíamos reciclar más.",
+     "en": "We should recycle more."
+    },
+    {
+     "type": "write",
+     "es": "No hay suficientes árboles.",
+     "en": "There aren't enough trees.",
+     "accept": [
+      "There are not enough trees."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Climate change is a global problem.",
+     "es": "El cambio climático es un problema global."
+    },
+    {
+     "type": "dictation",
+     "en": "We use too much single-use plastic.",
+     "es": "Usamos demasiado plástico de un solo uso."
+    },
+    {
+     "type": "speak",
+     "en": "In my opinion, we should use more renewable energy.",
+     "es": "En mi opinión, deberíamos usar más energía renovable.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u49.volunteer",
+      "u49.campaign",
+      "u49.government",
+      "u49.take-action",
+      "u49.make-a-difference",
+      "u49.too-much-plastic",
+      "u49.too-many-cars",
+      "u49.not-enough-trees"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

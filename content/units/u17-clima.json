@@ -1,0 +1,1218 @@
+{
+ "_generated": true,
+ "id": "u17-clima",
+ "level": "A1",
+ "title": "El clima y las estaciones",
+ "emoji": "🌦️",
+ "canDo": "Ya puedo hablar del clima y planear según el tiempo",
+ "summary": "Cómo está el tiempo, las estaciones y qué ponerse según el clima.",
+ "grammar": [
+  "It's + adjetivo para el clima",
+  "What's the weather like?"
+ ],
+ "items": [
+  {
+   "id": "u17.weather",
+   "en": "weather",
+   "es": "clima / tiempo",
+   "kind": "word",
+   "emoji": "🌤️",
+   "say": "ué-der"
+  },
+  {
+   "id": "u17.what-s-the-weather-like",
+   "en": "What's the weather like?",
+   "es": "¿Cómo está el clima?",
+   "kind": "chunk",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u17.it-s-sunny",
+   "en": "It's sunny",
+   "es": "Está soleado",
+   "kind": "chunk",
+   "emoji": "☀️",
+   "say": "its sá-ni"
+  },
+  {
+   "id": "u17.it-s-cloudy",
+   "en": "It's cloudy",
+   "es": "Está nublado",
+   "kind": "chunk",
+   "emoji": "☁️",
+   "say": "its kláu-di"
+  },
+  {
+   "id": "u17.it-s-windy",
+   "en": "It's windy",
+   "es": "Está haciendo viento",
+   "kind": "chunk",
+   "emoji": "🌬️",
+   "say": "its uín-di"
+  },
+  {
+   "id": "u17.it-s-hot",
+   "en": "It's hot",
+   "es": "Hace calor",
+   "kind": "chunk",
+   "emoji": "🥵",
+   "say": "its jot"
+  },
+  {
+   "id": "u17.it-s-cold",
+   "en": "It's cold",
+   "es": "Hace frío",
+   "kind": "chunk",
+   "emoji": "🥶",
+   "say": "its kóuld"
+  },
+  {
+   "id": "u17.it-s-warm",
+   "en": "It's warm",
+   "es": "Está templado / calientito",
+   "kind": "chunk",
+   "emoji": "🌡️",
+   "say": "its uórm"
+  },
+  {
+   "id": "u17.it-s-cool",
+   "en": "It's cool",
+   "es": "Está fresco",
+   "kind": "chunk",
+   "emoji": "🍃",
+   "say": "its kúul"
+  },
+  {
+   "id": "u17.it-s-snowing",
+   "en": "It's snowing",
+   "es": "Está nevando",
+   "kind": "chunk",
+   "emoji": "🌨️",
+   "say": "its snóu-ing"
+  },
+  {
+   "id": "u17.rain",
+   "en": "rain",
+   "es": "lluvia / llover",
+   "kind": "word",
+   "emoji": "🌧️",
+   "say": "réin"
+  },
+  {
+   "id": "u17.snow",
+   "en": "snow",
+   "es": "nieve",
+   "kind": "word",
+   "emoji": "❄️",
+   "say": "snóu"
+  },
+  {
+   "id": "u17.sun",
+   "en": "sun",
+   "es": "sol",
+   "kind": "word",
+   "emoji": "🌞",
+   "say": "san"
+  },
+  {
+   "id": "u17.cloud",
+   "en": "cloud",
+   "es": "nube",
+   "kind": "word",
+   "emoji": "☁️",
+   "say": "kláud"
+  },
+  {
+   "id": "u17.storm",
+   "en": "storm",
+   "es": "tormenta",
+   "kind": "word",
+   "emoji": "⛈️",
+   "say": "storm"
+  },
+  {
+   "id": "u17.rainbow",
+   "en": "rainbow",
+   "es": "arcoíris",
+   "kind": "word",
+   "emoji": "🌈",
+   "say": "réin-bou"
+  },
+  {
+   "id": "u17.umbrella",
+   "en": "umbrella",
+   "es": "sombrilla / paraguas",
+   "kind": "word",
+   "emoji": "☂️",
+   "say": "am-bré-la"
+  },
+  {
+   "id": "u17.sunglasses",
+   "en": "sunglasses",
+   "es": "gafas de sol",
+   "kind": "word",
+   "emoji": "🕶️",
+   "say": "sán-gla-ses"
+  },
+  {
+   "id": "u17.coat",
+   "en": "coat",
+   "es": "abrigo",
+   "kind": "word",
+   "emoji": "🧥",
+   "say": "kóut"
+  },
+  {
+   "id": "u17.scarf",
+   "en": "scarf",
+   "es": "bufanda",
+   "kind": "word",
+   "emoji": "🧣",
+   "say": "skarf"
+  },
+  {
+   "id": "u17.season",
+   "en": "season",
+   "es": "estación del año",
+   "kind": "word",
+   "emoji": "🍂",
+   "say": "síi-son"
+  },
+  {
+   "id": "u17.spring",
+   "en": "spring",
+   "es": "primavera",
+   "kind": "word",
+   "emoji": "🌸",
+   "say": "spring"
+  },
+  {
+   "id": "u17.summer",
+   "en": "summer",
+   "es": "verano",
+   "kind": "word",
+   "emoji": "🏖️",
+   "say": "sá-mer"
+  },
+  {
+   "id": "u17.autumn",
+   "en": "autumn",
+   "es": "otoño",
+   "kind": "word",
+   "emoji": "🍁",
+   "say": "ó-tom"
+  },
+  {
+   "id": "u17.winter",
+   "en": "winter",
+   "es": "invierno",
+   "kind": "word",
+   "emoji": "☃️",
+   "say": "uín-ter"
+  },
+  {
+   "id": "u17.degrees",
+   "en": "degrees",
+   "es": "grados",
+   "kind": "word",
+   "emoji": "🌡️",
+   "say": "di-gríis"
+  },
+  {
+   "id": "u17.outside",
+   "en": "outside",
+   "es": "afuera",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "áut-said"
+  },
+  {
+   "id": "u17.inside",
+   "en": "inside",
+   "es": "adentro",
+   "kind": "word",
+   "emoji": "🏠",
+   "say": "ín-said"
+  },
+  {
+   "id": "u17.beach",
+   "en": "beach",
+   "es": "playa",
+   "kind": "word",
+   "emoji": "🏝️",
+   "say": "bíich"
+  },
+  {
+   "id": "u17.mountain",
+   "en": "mountain",
+   "es": "montaña",
+   "kind": "word",
+   "emoji": "⛰️",
+   "say": "máun-ten"
+  },
+  {
+   "id": "u17.take-an-umbrella",
+   "en": "Take an umbrella",
+   "es": "Lleva sombrilla",
+   "kind": "chunk",
+   "emoji": "☂️"
+  },
+  {
+   "id": "u17.it-s-a-beautiful-day",
+   "en": "It's a beautiful day",
+   "es": "Es un día hermoso",
+   "kind": "chunk",
+   "emoji": "🌻"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u17-clima-l1",
+   "title": "1. weather, What's the weather like?, It's sunny…",
+   "focus": "listening",
+   "newItems": [
+    "u17.weather",
+    "u17.what-s-the-weather-like",
+    "u17.it-s-sunny",
+    "u17.it-s-cloudy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.weather",
+      "u17.what-s-the-weather-like"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.it-s-sunny",
+      "u17.it-s-cloudy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.weather",
+      "u17.what-s-the-weather-like",
+      "u17.it-s-sunny",
+      "u17.it-s-cloudy"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.weather",
+      "u17.what-s-the-weather-like",
+      "u17.it-s-sunny",
+      "u17.it-s-cloudy"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.what-s-the-weather-like",
+      "u17.it-s-sunny"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-l2",
+   "title": "2. It's windy, It's hot, It's cold…",
+   "focus": "grammar",
+   "newItems": [
+    "u17.it-s-windy",
+    "u17.it-s-hot",
+    "u17.it-s-cold",
+    "u17.it-s-warm"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.it-s-windy",
+      "u17.it-s-hot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.it-s-cold",
+      "u17.it-s-warm"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-windy",
+      "u17.it-s-hot",
+      "u17.it-s-cold",
+      "u17.it-s-warm"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-windy",
+      "u17.it-s-hot",
+      "u17.it-s-cold",
+      "u17.it-s-warm"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-windy",
+      "u17.it-s-hot"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.weather",
+      "u17.what-s-the-weather-like",
+      "u17.it-s-sunny",
+      "u17.it-s-cloudy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Hablar del clima con it",
+     "intro": "Fíjate en cómo empiezan todas estas frases.",
+     "examples": [
+      {
+       "en": "It's sunny today.",
+       "es": "Hoy está soleado.",
+       "mark": [
+        "It's"
+       ]
+      },
+      {
+       "en": "It's very cold in winter.",
+       "es": "Hace mucho frío en invierno.",
+       "mark": [
+        "It's"
+       ]
+      },
+      {
+       "en": "It's raining. Take an umbrella.",
+       "es": "Está lloviendo. Lleva sombrilla.",
+       "mark": [
+        "It's"
+       ]
+      },
+      {
+       "en": "Is it hot in Cartagena? Yes, it is.",
+       "es": "¿Hace calor en Cartagena? Sí.",
+       "mark": [
+        "Is it"
+       ]
+      },
+      {
+       "en": "It isn't windy.",
+       "es": "No está haciendo viento.",
+       "mark": [
+        "isn't"
+       ]
+      }
+     ],
+     "question": "¿Cómo empieza casi siempre una frase sobre el clima?",
+     "options": [
+      "Con It's / It is",
+      "Con There are",
+      "Con I have"
+     ],
+     "answer": 0,
+     "rule": "En inglés el clima siempre lleva sujeto it: It's sunny, It's raining. En español decimos 'hace frío', pero en inglés no se usa make ni have: It's cold (no 'It makes cold').",
+     "ruleExamples": [
+      {
+       "en": "What's the weather like in Pasto? It's cool and cloudy.",
+       "es": "¿Cómo está el clima en Pasto? Fresco y nublado."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ cold today.",
+     "options": [
+      "It's",
+      "It makes"
+     ],
+     "answer": 0,
+     "es": "Hoy hace frío.",
+     "explain": "En inglés no se dice \"it makes cold\"."
+    },
+    {
+     "type": "fill",
+     "en": "Take your umbrella. It's ___.",
+     "options": [
+      "raining",
+      "rain"
+     ],
+     "answer": 0,
+     "es": "Lleva sombrilla. Está lloviendo."
+    },
+    {
+     "type": "fill",
+     "en": "I love ___. It's hot and I go to the beach.",
+     "options": [
+      "summer",
+      "winter"
+     ],
+     "answer": 0,
+     "es": "Me encanta el verano."
+    },
+    {
+     "type": "fill",
+     "en": "___ the weather like?",
+     "options": [
+      "What's",
+      "How's is"
+     ],
+     "answer": 0,
+     "es": "¿Cómo está el clima?"
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-l3",
+   "title": "3. It's cool, It's snowing, rain…",
+   "focus": "reading",
+   "newItems": [
+    "u17.it-s-cool",
+    "u17.it-s-snowing",
+    "u17.rain",
+    "u17.snow"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.it-s-cool",
+      "u17.it-s-snowing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.rain",
+      "u17.snow"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-cool",
+      "u17.it-s-snowing",
+      "u17.rain",
+      "u17.snow"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-cool",
+      "u17.it-s-snowing",
+      "u17.rain",
+      "u17.snow"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-cool",
+      "u17.it-s-snowing"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-sunny",
+      "u17.it-s-cloudy",
+      "u17.it-s-windy",
+      "u17.it-s-hot",
+      "u17.it-s-cold",
+      "u17.it-s-warm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-l4",
+   "title": "4. sun, cloud, storm…",
+   "focus": "listening",
+   "newItems": [
+    "u17.sun",
+    "u17.cloud",
+    "u17.storm",
+    "u17.rainbow"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.sun",
+      "u17.cloud"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.storm",
+      "u17.rainbow"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.sun",
+      "u17.cloud",
+      "u17.storm",
+      "u17.rainbow"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.sun",
+      "u17.cloud",
+      "u17.storm",
+      "u17.rainbow"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.sun",
+      "u17.cloud"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.it-s-cold",
+      "u17.it-s-warm",
+      "u17.it-s-cool",
+      "u17.it-s-snowing",
+      "u17.rain",
+      "u17.snow"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-l5",
+   "title": "5. umbrella, sunglasses, coat…",
+   "focus": "listening",
+   "newItems": [
+    "u17.umbrella",
+    "u17.sunglasses",
+    "u17.coat",
+    "u17.scarf"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.umbrella",
+      "u17.sunglasses"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.coat",
+      "u17.scarf"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.umbrella",
+      "u17.sunglasses",
+      "u17.coat",
+      "u17.scarf"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.umbrella",
+      "u17.sunglasses",
+      "u17.coat",
+      "u17.scarf"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.umbrella",
+      "u17.sunglasses"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.rain",
+      "u17.snow",
+      "u17.sun",
+      "u17.cloud",
+      "u17.storm",
+      "u17.rainbow"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-l6",
+   "title": "6. season, spring, summer…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u17.season",
+    "u17.spring",
+    "u17.summer",
+    "u17.autumn"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.season",
+      "u17.spring"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.summer",
+      "u17.autumn"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.season",
+      "u17.spring",
+      "u17.summer",
+      "u17.autumn"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.season",
+      "u17.spring",
+      "u17.summer",
+      "u17.autumn"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.season",
+      "u17.spring"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.storm",
+      "u17.rainbow",
+      "u17.umbrella",
+      "u17.sunglasses",
+      "u17.coat",
+      "u17.scarf"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Planes para el fin de semana",
+     "scene": "📱 Hablas con un amigo.",
+     "lines": [
+      {
+       "who": "Leo",
+       "en": "What's the weather like tomorrow?",
+       "es": "¿Cómo va a estar el clima mañana?"
+      },
+      {
+       "who": "Mia",
+       "en": "It's sunny and warm. Twenty-five degrees!",
+       "es": "Soleado y templado. ¡Veinticinco grados!"
+      },
+      {
+       "who": "Leo",
+       "en": "Perfect for the beach!",
+       "es": "¡Perfecto para la playa!"
+      },
+      {
+       "who": "Mia",
+       "en": "Yes, but take your sunglasses.",
+       "es": "Sí, pero lleva tus gafas de sol."
+      },
+      {
+       "who": "Leo",
+       "en": "And on Sunday?",
+       "es": "¿Y el domingo?"
+      },
+      {
+       "who": "Mia",
+       "en": "On Sunday it's cloudy and windy. Maybe a storm.",
+       "es": "El domingo nublado y con viento. Tal vez tormenta."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-l7",
+   "title": "7. winter, degrees, outside…",
+   "focus": "reading",
+   "newItems": [
+    "u17.winter",
+    "u17.degrees",
+    "u17.outside",
+    "u17.inside"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.winter",
+      "u17.degrees"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.outside",
+      "u17.inside"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.winter",
+      "u17.degrees",
+      "u17.outside",
+      "u17.inside"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.winter",
+      "u17.degrees",
+      "u17.outside",
+      "u17.inside"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.winter",
+      "u17.degrees"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.coat",
+      "u17.scarf",
+      "u17.season",
+      "u17.spring",
+      "u17.summer",
+      "u17.autumn"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-l8",
+   "title": "8. beach, mountain, Take an umbrella…",
+   "focus": "listening",
+   "newItems": [
+    "u17.beach",
+    "u17.mountain",
+    "u17.take-an-umbrella",
+    "u17.it-s-a-beautiful-day"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u17.beach",
+      "u17.mountain"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u17.take-an-umbrella",
+      "u17.it-s-a-beautiful-day"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.beach",
+      "u17.mountain",
+      "u17.take-an-umbrella",
+      "u17.it-s-a-beautiful-day"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.beach",
+      "u17.mountain",
+      "u17.take-an-umbrella",
+      "u17.it-s-a-beautiful-day"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.take-an-umbrella",
+      "u17.it-s-a-beautiful-day"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.summer",
+      "u17.autumn",
+      "u17.winter",
+      "u17.degrees",
+      "u17.outside",
+      "u17.inside"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u17-clima-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Cuatro estaciones",
+     "emoji": "🍁",
+     "paragraphs": [
+      {
+       "en": "Jake lives in Canada. There are four seasons there.",
+       "es": "Jake vive en Canadá. Allá hay cuatro estaciones."
+      },
+      {
+       "en": "In winter it's very cold and it snows a lot. He wears a coat and a scarf.",
+       "es": "En invierno hace mucho frío y nieva mucho. Usa abrigo y bufanda."
+      },
+      {
+       "en": "In spring it's cool and there are flowers everywhere.",
+       "es": "En primavera está fresco y hay flores por todas partes."
+      },
+      {
+       "en": "In summer it's hot. Jake goes to the beach with his family.",
+       "es": "En verano hace calor. Jake va a la playa con su familia."
+      },
+      {
+       "en": "In autumn it's windy and the trees are red and orange.",
+       "es": "En otoño hace viento y los árboles son rojos y anaranjados."
+      },
+      {
+       "en": "Now Jake is in Colombia. \"It's always spring here!\" he says.",
+       "es": "Ahora Jake está en Colombia. \"¡Aquí siempre es primavera!\", dice."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué usa Jake en invierno?",
+       "options": [
+        "Gafas de sol",
+        "Abrigo y bufanda",
+        "Sombrilla"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo son los árboles en otoño?",
+       "options": [
+        "Verdes",
+        "Rojos y anaranjados",
+        "Blancos"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué dice Jake de Colombia?",
+       "options": [
+        "Siempre hace frío",
+        "Siempre es primavera",
+        "Siempre llueve"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "¿Salimos?",
+     "scene": "🚪 Tu amiga quiere salir, pero mira por la ventana.",
+     "turns": [
+      {
+       "who": "Ana",
+       "en": "Let's go to the park!",
+       "es": "¡Vamos al parque!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "OK! What's the weather like?",
+         "es": "¡Bueno! ¿Cómo está el clima?",
+         "ok": true
+        },
+        {
+         "en": "OK! What's the weather like yesterday?",
+         "es": "¡Bueno! ¿Cómo está el clima ayer?",
+         "ok": false,
+         "why": "Mezcla presente con ayer."
+        }
+       ]
+      },
+      {
+       "who": "Ana",
+       "en": "It's cloudy. Maybe it's going to rain.",
+       "es": "Está nublado. Puede que llueva."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Let's take an umbrella.",
+         "es": "Llevemos sombrilla.",
+         "ok": true
+        },
+        {
+         "en": "Let's take sunglasses.",
+         "es": "Llevemos gafas de sol.",
+         "ok": false,
+         "why": "Con nubes y lluvia no sirven."
+        }
+       ]
+      },
+      {
+       "who": "Ana",
+       "en": "Good idea. Oh look, a rainbow!",
+       "es": "Buena idea. ¡Mira, un arcoíris!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Wow, it's beautiful!",
+         "es": "¡Uy, qué hermoso!",
+         "ok": true
+        },
+        {
+         "en": "It's snowing.",
+         "es": "Está nevando.",
+         "ok": false,
+         "why": "No tiene que ver con el arcoíris."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Hace calor hoy.",
+     "en": "It's hot today.",
+     "accept": [
+      "It is hot today.",
+      "Today it's hot."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Cómo está el clima?",
+     "en": "What's the weather like?",
+     "accept": [
+      "What is the weather like?"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Lleva sombrilla, está lloviendo.",
+     "en": "Take an umbrella, it's raining.",
+     "accept": [
+      "Take an umbrella. It's raining."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "It's cloudy and windy today.",
+     "es": "Hoy está nublado y hace viento."
+    },
+    {
+     "type": "dictation",
+     "en": "In winter it's very cold.",
+     "es": "En invierno hace mucho frío."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u17.winter",
+      "u17.degrees",
+      "u17.outside",
+      "u17.inside",
+      "u17.beach",
+      "u17.mountain",
+      "u17.take-an-umbrella",
+      "u17.it-s-a-beautiful-day"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

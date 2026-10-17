@@ -1,0 +1,1481 @@
+{
+ "_generated": true,
+ "id": "u77-idioms-avanzados",
+ "level": "C1",
+ "title": "Expresiones y lenguaje figurado",
+ "emoji": "🦉",
+ "canDo": "Ya uso expresiones idiomáticas avanzadas y lenguaje figurado con naturalidad",
+ "summary": "Idioms avanzados, metáforas comunes y expresiones de registro culto para sonar como nativo.",
+ "grammar": [
+  "Lenguaje figurado y metáforas convencionales"
+ ],
+ "items": [
+  {
+   "id": "u77.a-blessing-and-a-curse",
+   "en": "a blessing and a curse",
+   "es": "una bendición y una maldición",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u77.a-double-edged-sword",
+   "en": "a double-edged sword",
+   "es": "un arma de doble filo",
+   "kind": "chunk",
+   "emoji": "⚔️"
+  },
+  {
+   "id": "u77.the-elephant-in-the-room",
+   "en": "the elephant in the room",
+   "es": "el tema que nadie menciona",
+   "kind": "chunk",
+   "emoji": "🐘"
+  },
+  {
+   "id": "u77.a-ballpark-figure",
+   "en": "a ballpark figure",
+   "es": "una cifra aproximada",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u77.the-tip-of-the-iceberg",
+   "en": "the tip of the iceberg",
+   "es": "la punta del iceberg",
+   "kind": "chunk",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u77.a-grey-area",
+   "en": "a grey area",
+   "es": "una zona gris",
+   "kind": "chunk",
+   "emoji": "🌫️"
+  },
+  {
+   "id": "u77.food-for-thought",
+   "en": "food for thought",
+   "es": "algo en qué pensar",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u77.a-slippery-slope",
+   "en": "a slippery slope",
+   "es": "un terreno resbaladizo",
+   "kind": "chunk",
+   "emoji": "🎿"
+  },
+  {
+   "id": "u77.cut-corners",
+   "en": "cut corners",
+   "es": "hacer las cosas a medias",
+   "kind": "chunk",
+   "emoji": "✂️"
+  },
+  {
+   "id": "u77.move-the-goalposts",
+   "en": "move the goalposts",
+   "es": "cambiar las reglas",
+   "kind": "chunk",
+   "emoji": "🥅"
+  },
+  {
+   "id": "u77.the-bottom-line",
+   "en": "the bottom line",
+   "es": "lo esencial / el saldo final",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u77.a-win-win-situation",
+   "en": "a win-win situation",
+   "es": "una situación de ganar-ganar",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u77.a-game-changer",
+   "en": "a game changer",
+   "es": "algo que lo cambia todo",
+   "kind": "chunk",
+   "emoji": "🎮"
+  },
+  {
+   "id": "u77.the-best-of-both-worlds",
+   "en": "the best of both worlds",
+   "es": "lo mejor de ambos mundos",
+   "kind": "chunk",
+   "emoji": "🌗"
+  },
+  {
+   "id": "u77.raise-the-bar",
+   "en": "raise the bar",
+   "es": "subir el listón",
+   "kind": "chunk",
+   "emoji": "📏"
+  },
+  {
+   "id": "u77.a-steep-learning-curve",
+   "en": "a steep learning curve",
+   "es": "una curva de aprendizaje difícil",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u77.back-to-the-drawing-board",
+   "en": "back to the drawing board",
+   "es": "volver a empezar",
+   "kind": "chunk",
+   "emoji": "✏️"
+  },
+  {
+   "id": "u77.on-the-back-burner",
+   "en": "on the back burner",
+   "es": "en segundo plano",
+   "kind": "chunk",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u77.touch-base",
+   "en": "touch base",
+   "es": "ponerse en contacto",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u77.in-a-nutshell",
+   "en": "in a nutshell",
+   "es": "en pocas palabras",
+   "kind": "chunk",
+   "emoji": "🥜"
+  },
+  {
+   "id": "u77.by-the-book",
+   "en": "by the book",
+   "es": "al pie de la letra",
+   "kind": "chunk",
+   "emoji": "📖"
+  },
+  {
+   "id": "u77.play-devil-s-advocate",
+   "en": "play devil's advocate",
+   "es": "hacer de abogado del diablo",
+   "kind": "chunk",
+   "emoji": "😈"
+  },
+  {
+   "id": "u77.jump-on-the-bandwagon",
+   "en": "jump on the bandwagon",
+   "es": "subirse a la moda",
+   "kind": "chunk",
+   "emoji": "🚋"
+  },
+  {
+   "id": "u77.the-ball-is-rolling",
+   "en": "the ball is rolling",
+   "es": "el proceso está en marcha",
+   "kind": "chunk",
+   "emoji": "⚽"
+  },
+  {
+   "id": "u77.burning-question",
+   "en": "burning question",
+   "es": "pregunta candente",
+   "kind": "chunk",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u77.a-far-cry-from",
+   "en": "a far cry from",
+   "es": "muy lejos de",
+   "kind": "chunk",
+   "emoji": "📏"
+  },
+  {
+   "id": "u77.a-mixed-bag",
+   "en": "a mixed bag",
+   "es": "de todo un poco",
+   "kind": "chunk",
+   "emoji": "🎒"
+  },
+  {
+   "id": "u77.par-for-the-course",
+   "en": "par for the course",
+   "es": "lo típico / lo esperable",
+   "kind": "chunk",
+   "emoji": "⛳"
+  },
+  {
+   "id": "u77.a-tall-order",
+   "en": "a tall order",
+   "es": "una tarea difícil",
+   "kind": "chunk",
+   "emoji": "📏"
+  },
+  {
+   "id": "u77.pie-in-the-sky",
+   "en": "pie in the sky",
+   "es": "un sueño irrealizable",
+   "kind": "chunk",
+   "emoji": "🥧"
+  },
+  {
+   "id": "u77.the-lesser-of-two-evils",
+   "en": "the lesser of two evils",
+   "es": "el mal menor",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u77.a-catch-22",
+   "en": "a catch-22",
+   "es": "un callejón sin salida",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u77.blow-things-out-of-proportion",
+   "en": "blow things out of proportion",
+   "es": "exagerar",
+   "kind": "chunk",
+   "emoji": "🎈"
+  },
+  {
+   "id": "u77.sit-on-the-fence",
+   "en": "sit on the fence",
+   "es": "no tomar partido",
+   "kind": "chunk",
+   "emoji": "🚧"
+  },
+  {
+   "id": "u77.bend-over-backwards",
+   "en": "bend over backwards",
+   "es": "hacer hasta lo imposible",
+   "kind": "chunk",
+   "emoji": "🤸"
+  },
+  {
+   "id": "u77.go-down-a-rabbit-hole",
+   "en": "go down a rabbit hole",
+   "es": "perderse en un tema",
+   "kind": "chunk",
+   "emoji": "🕳️"
+  },
+  {
+   "id": "u77.weather-the-storm",
+   "en": "weather the storm",
+   "es": "capear el temporal",
+   "kind": "chunk",
+   "emoji": "⛈️"
+  },
+  {
+   "id": "u77.turn-a-blind-eye",
+   "en": "turn a blind eye",
+   "es": "hacer la vista gorda",
+   "kind": "chunk",
+   "emoji": "🙈"
+  },
+  {
+   "id": "u77.the-writing-is-on-the-wall",
+   "en": "the writing is on the wall",
+   "es": "se veía venir",
+   "kind": "chunk",
+   "emoji": "🧱"
+  },
+  {
+   "id": "u77.cross-that-bridge-when-we-get-to-it",
+   "en": "cross that bridge when we get to it",
+   "es": "cruzar ese puente cuando lleguemos",
+   "kind": "chunk",
+   "emoji": "🌉"
+  },
+  {
+   "id": "u77.take-it-with-a-grain-of-salt",
+   "en": "take it with a grain of salt",
+   "es": "tomarlo con pinzas",
+   "kind": "chunk",
+   "emoji": "🧂"
+  },
+  {
+   "id": "u77.the-jury-is-still-out",
+   "en": "the jury is still out",
+   "es": "aún no hay veredicto",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u77.a-watershed-moment",
+   "en": "a watershed moment",
+   "es": "un momento decisivo",
+   "kind": "chunk",
+   "emoji": "🌊"
+  },
+  {
+   "id": "u77.the-calm-before-the-storm",
+   "en": "the calm before the storm",
+   "es": "la calma antes de la tormenta",
+   "kind": "chunk",
+   "emoji": "🌊"
+  },
+  {
+   "id": "u77.let-sleeping-dogs-lie",
+   "en": "let sleeping dogs lie",
+   "es": "no remover el pasado",
+   "kind": "chunk",
+   "emoji": "🐕"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u77-idioms-avanzados-l1",
+   "title": "1. a blessing and a curse, a double-edged sword, the elephant in the room…",
+   "focus": "listening",
+   "newItems": [
+    "u77.a-blessing-and-a-curse",
+    "u77.a-double-edged-sword",
+    "u77.the-elephant-in-the-room",
+    "u77.a-ballpark-figure",
+    "u77.the-tip-of-the-iceberg"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.a-blessing-and-a-curse",
+      "u77.a-double-edged-sword"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.the-elephant-in-the-room",
+      "u77.a-ballpark-figure"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.the-tip-of-the-iceberg"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-blessing-and-a-curse",
+      "u77.a-double-edged-sword",
+      "u77.the-elephant-in-the-room",
+      "u77.a-ballpark-figure",
+      "u77.the-tip-of-the-iceberg"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-blessing-and-a-curse",
+      "u77.a-double-edged-sword",
+      "u77.the-elephant-in-the-room",
+      "u77.a-ballpark-figure",
+      "u77.the-tip-of-the-iceberg"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-blessing-and-a-curse",
+      "u77.a-double-edged-sword",
+      "u77.the-elephant-in-the-room",
+      "u77.a-ballpark-figure",
+      "u77.the-tip-of-the-iceberg"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l2",
+   "title": "2. a grey area, food for thought, a slippery slope…",
+   "focus": "grammar",
+   "newItems": [
+    "u77.a-grey-area",
+    "u77.food-for-thought",
+    "u77.a-slippery-slope",
+    "u77.cut-corners",
+    "u77.move-the-goalposts"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.a-grey-area",
+      "u77.food-for-thought"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.a-slippery-slope",
+      "u77.cut-corners"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.move-the-goalposts"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-grey-area",
+      "u77.food-for-thought",
+      "u77.a-slippery-slope",
+      "u77.cut-corners",
+      "u77.move-the-goalposts"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-grey-area",
+      "u77.food-for-thought",
+      "u77.a-slippery-slope",
+      "u77.cut-corners",
+      "u77.move-the-goalposts"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-grey-area",
+      "u77.food-for-thought",
+      "u77.a-slippery-slope",
+      "u77.cut-corners",
+      "u77.move-the-goalposts"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-blessing-and-a-curse",
+      "u77.a-double-edged-sword",
+      "u77.the-elephant-in-the-room",
+      "u77.a-ballpark-figure",
+      "u77.the-tip-of-the-iceberg"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Lenguaje figurado avanzado",
+     "intro": "Estas expresiones aparecen en reuniones, artículos y conversación culta.",
+     "examples": [
+      {
+       "en": "AI is a double-edged sword: powerful but risky.",
+       "es": "La IA es un arma de doble filo: poderosa pero riesgosa.",
+       "mark": [
+        "double-edged sword"
+       ]
+      },
+      {
+       "en": "Let's address the elephant in the room: the budget.",
+       "es": "Hablemos del tema que nadie menciona: el presupuesto.",
+       "mark": [
+        "elephant in the room"
+       ]
+      },
+      {
+       "en": "That's just the tip of the iceberg.",
+       "es": "Eso es solo la punta del iceberg.",
+       "mark": [
+        "tip of the iceberg"
+       ]
+      },
+      {
+       "en": "In a nutshell, the plan failed.",
+       "es": "En pocas palabras, el plan fracasó.",
+       "mark": [
+        "In a nutshell"
+       ]
+      },
+      {
+       "en": "This new tool is a real game changer.",
+       "es": "Esta nueva herramienta lo cambia todo.",
+       "mark": [
+        "game changer"
+       ]
+      }
+     ],
+     "question": "¿Qué significa 'a double-edged sword'?",
+     "options": [
+      "Algo con ventajas y desventajas a la vez",
+      "Un arma real",
+      "Algo muy fácil"
+     ],
+     "answer": 0,
+     "rule": "El lenguaje figurado y las metáforas convencionales son clave en el nivel culto. No son literales: 'the elephant in the room' = el tema incómodo que nadie menciona; 'the bottom line' = lo esencial; 'a game changer' = algo que lo cambia todo. Úsalos con mesura y en el contexto adecuado.",
+     "ruleExamples": [
+      {
+       "en": "The merger is a game changer, but let's take the projections with a grain of salt.",
+       "es": "La fusión lo cambia todo, pero tomemos las proyecciones con pinzas."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Let's address the ___ in the room.",
+     "options": [
+      "elephant",
+      "lion"
+     ],
+     "answer": 0,
+     "es": "Hablemos del tema que nadie quiere mencionar."
+    },
+    {
+     "type": "fill",
+     "en": "In a ___, the project was a success.",
+     "options": [
+      "nutshell",
+      "basket"
+     ],
+     "answer": 0,
+     "es": "En pocas palabras, el proyecto fue un éxito."
+    },
+    {
+     "type": "fill",
+     "en": "This technology is a real game ___.",
+     "options": [
+      "changer",
+      "player"
+     ],
+     "answer": 0,
+     "es": "Esta tecnología lo cambia todo."
+    },
+    {
+     "type": "fill",
+     "en": "Take those numbers with a grain of ___.",
+     "options": [
+      "salt",
+      "sugar"
+     ],
+     "answer": 0,
+     "es": "Toma esos números con pinzas."
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l3",
+   "title": "3. the bottom line, a win-win situation, a game changer…",
+   "focus": "reading",
+   "newItems": [
+    "u77.the-bottom-line",
+    "u77.a-win-win-situation",
+    "u77.a-game-changer",
+    "u77.the-best-of-both-worlds",
+    "u77.raise-the-bar"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.the-bottom-line",
+      "u77.a-win-win-situation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.a-game-changer",
+      "u77.the-best-of-both-worlds"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.raise-the-bar"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.the-bottom-line",
+      "u77.a-win-win-situation",
+      "u77.a-game-changer",
+      "u77.the-best-of-both-worlds",
+      "u77.raise-the-bar"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.the-bottom-line",
+      "u77.a-win-win-situation",
+      "u77.a-game-changer",
+      "u77.the-best-of-both-worlds",
+      "u77.raise-the-bar"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.the-bottom-line",
+      "u77.a-win-win-situation",
+      "u77.a-game-changer",
+      "u77.the-best-of-both-worlds",
+      "u77.raise-the-bar"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.the-tip-of-the-iceberg",
+      "u77.a-grey-area",
+      "u77.food-for-thought",
+      "u77.a-slippery-slope",
+      "u77.cut-corners",
+      "u77.move-the-goalposts"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l4",
+   "title": "4. a steep learning curve, back to the drawing board, on the back burner…",
+   "focus": "listening",
+   "newItems": [
+    "u77.a-steep-learning-curve",
+    "u77.back-to-the-drawing-board",
+    "u77.on-the-back-burner",
+    "u77.touch-base",
+    "u77.in-a-nutshell"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.a-steep-learning-curve",
+      "u77.back-to-the-drawing-board"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.on-the-back-burner",
+      "u77.touch-base"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.in-a-nutshell"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-steep-learning-curve",
+      "u77.back-to-the-drawing-board",
+      "u77.on-the-back-burner",
+      "u77.touch-base",
+      "u77.in-a-nutshell"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-steep-learning-curve",
+      "u77.back-to-the-drawing-board",
+      "u77.on-the-back-burner",
+      "u77.touch-base",
+      "u77.in-a-nutshell"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-steep-learning-curve",
+      "u77.back-to-the-drawing-board",
+      "u77.on-the-back-burner",
+      "u77.touch-base",
+      "u77.in-a-nutshell"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.move-the-goalposts",
+      "u77.the-bottom-line",
+      "u77.a-win-win-situation",
+      "u77.a-game-changer",
+      "u77.the-best-of-both-worlds",
+      "u77.raise-the-bar"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l5",
+   "title": "5. by the book, play devil's advocate, jump on the bandwagon…",
+   "focus": "listening",
+   "newItems": [
+    "u77.by-the-book",
+    "u77.play-devil-s-advocate",
+    "u77.jump-on-the-bandwagon",
+    "u77.the-ball-is-rolling",
+    "u77.burning-question"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.by-the-book",
+      "u77.play-devil-s-advocate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.jump-on-the-bandwagon",
+      "u77.the-ball-is-rolling"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.burning-question"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.by-the-book",
+      "u77.play-devil-s-advocate",
+      "u77.jump-on-the-bandwagon",
+      "u77.the-ball-is-rolling",
+      "u77.burning-question"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.by-the-book",
+      "u77.play-devil-s-advocate",
+      "u77.jump-on-the-bandwagon",
+      "u77.the-ball-is-rolling",
+      "u77.burning-question"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.by-the-book",
+      "u77.play-devil-s-advocate",
+      "u77.jump-on-the-bandwagon",
+      "u77.the-ball-is-rolling",
+      "u77.burning-question"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.raise-the-bar",
+      "u77.a-steep-learning-curve",
+      "u77.back-to-the-drawing-board",
+      "u77.on-the-back-burner",
+      "u77.touch-base",
+      "u77.in-a-nutshell"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l6",
+   "title": "6. a far cry from, a mixed bag, par for the course…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u77.a-far-cry-from",
+    "u77.a-mixed-bag",
+    "u77.par-for-the-course",
+    "u77.a-tall-order",
+    "u77.pie-in-the-sky"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.a-far-cry-from",
+      "u77.a-mixed-bag"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.par-for-the-course",
+      "u77.a-tall-order"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.pie-in-the-sky"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-far-cry-from",
+      "u77.a-mixed-bag",
+      "u77.par-for-the-course",
+      "u77.a-tall-order",
+      "u77.pie-in-the-sky"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-far-cry-from",
+      "u77.a-mixed-bag",
+      "u77.par-for-the-course",
+      "u77.a-tall-order",
+      "u77.pie-in-the-sky"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.a-far-cry-from",
+      "u77.a-mixed-bag",
+      "u77.par-for-the-course",
+      "u77.a-tall-order",
+      "u77.pie-in-the-sky"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.in-a-nutshell",
+      "u77.by-the-book",
+      "u77.play-devil-s-advocate",
+      "u77.jump-on-the-bandwagon",
+      "u77.the-ball-is-rolling",
+      "u77.burning-question"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l7",
+   "title": "7. the lesser of two evils, a catch-22, blow things out of proportion…",
+   "focus": "reading",
+   "newItems": [
+    "u77.the-lesser-of-two-evils",
+    "u77.a-catch-22",
+    "u77.blow-things-out-of-proportion",
+    "u77.sit-on-the-fence",
+    "u77.bend-over-backwards"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.the-lesser-of-two-evils",
+      "u77.a-catch-22"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.blow-things-out-of-proportion",
+      "u77.sit-on-the-fence"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.bend-over-backwards"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.the-lesser-of-two-evils",
+      "u77.a-catch-22",
+      "u77.blow-things-out-of-proportion",
+      "u77.sit-on-the-fence",
+      "u77.bend-over-backwards"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.the-lesser-of-two-evils",
+      "u77.a-catch-22",
+      "u77.blow-things-out-of-proportion",
+      "u77.sit-on-the-fence",
+      "u77.bend-over-backwards"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.the-lesser-of-two-evils",
+      "u77.a-catch-22",
+      "u77.blow-things-out-of-proportion",
+      "u77.sit-on-the-fence",
+      "u77.bend-over-backwards"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.burning-question",
+      "u77.a-far-cry-from",
+      "u77.a-mixed-bag",
+      "u77.par-for-the-course",
+      "u77.a-tall-order",
+      "u77.pie-in-the-sky"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Reunión estratégica",
+     "scene": "📊 El equipo evalúa una nueva oportunidad.",
+     "lines": [
+      {
+       "who": "CEO",
+       "en": "This partnership could be a game changer for us.",
+       "es": "Esta alianza podría cambiarlo todo para nosotros."
+      },
+      {
+       "who": "CFO",
+       "en": "True, but let's not jump on the bandwagon without checking the numbers.",
+       "es": "Cierto, pero no nos subamos a la moda sin revisar los números."
+      },
+      {
+       "who": "CEO",
+       "en": "Fair. What's the bottom line?",
+       "es": "Justo. ¿Cuál es lo esencial?"
+      },
+      {
+       "who": "CFO",
+       "en": "In a nutshell, it's promising, but there are some grey areas in the contract.",
+       "es": "En pocas palabras, es prometedor, pero hay algunas zonas grises en el contrato."
+      },
+      {
+       "who": "CEO",
+       "en": "Then let's address the elephant in the room: can we afford it?",
+       "es": "Entonces hablemos de lo que nadie menciona: ¿podemos pagarlo?"
+      },
+      {
+       "who": "CFO",
+       "en": "With careful planning, yes. It could be a win-win.",
+       "es": "Con una planeación cuidadosa, sí. Podría ser ganar-ganar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l8",
+   "title": "8. go down a rabbit hole, weather the storm, turn a blind eye…",
+   "focus": "listening",
+   "newItems": [
+    "u77.go-down-a-rabbit-hole",
+    "u77.weather-the-storm",
+    "u77.turn-a-blind-eye",
+    "u77.the-writing-is-on-the-wall",
+    "u77.cross-that-bridge-when-we-get-to-it"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.go-down-a-rabbit-hole",
+      "u77.weather-the-storm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.turn-a-blind-eye",
+      "u77.the-writing-is-on-the-wall"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.cross-that-bridge-when-we-get-to-it"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.go-down-a-rabbit-hole",
+      "u77.weather-the-storm",
+      "u77.turn-a-blind-eye",
+      "u77.the-writing-is-on-the-wall",
+      "u77.cross-that-bridge-when-we-get-to-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.go-down-a-rabbit-hole",
+      "u77.weather-the-storm",
+      "u77.turn-a-blind-eye",
+      "u77.the-writing-is-on-the-wall",
+      "u77.cross-that-bridge-when-we-get-to-it"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.go-down-a-rabbit-hole",
+      "u77.weather-the-storm",
+      "u77.turn-a-blind-eye",
+      "u77.the-writing-is-on-the-wall",
+      "u77.cross-that-bridge-when-we-get-to-it"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.pie-in-the-sky",
+      "u77.the-lesser-of-two-evils",
+      "u77.a-catch-22",
+      "u77.blow-things-out-of-proportion",
+      "u77.sit-on-the-fence",
+      "u77.bend-over-backwards"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-l9",
+   "title": "9. take it with a grain of salt, the jury is still out, a watershed moment…",
+   "focus": "listening",
+   "newItems": [
+    "u77.take-it-with-a-grain-of-salt",
+    "u77.the-jury-is-still-out",
+    "u77.a-watershed-moment",
+    "u77.the-calm-before-the-storm",
+    "u77.let-sleeping-dogs-lie"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u77.take-it-with-a-grain-of-salt",
+      "u77.the-jury-is-still-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.a-watershed-moment",
+      "u77.the-calm-before-the-storm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u77.let-sleeping-dogs-lie"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.take-it-with-a-grain-of-salt",
+      "u77.the-jury-is-still-out",
+      "u77.a-watershed-moment",
+      "u77.the-calm-before-the-storm",
+      "u77.let-sleeping-dogs-lie"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.take-it-with-a-grain-of-salt",
+      "u77.the-jury-is-still-out",
+      "u77.a-watershed-moment",
+      "u77.the-calm-before-the-storm",
+      "u77.let-sleeping-dogs-lie"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.take-it-with-a-grain-of-salt",
+      "u77.the-jury-is-still-out",
+      "u77.a-watershed-moment",
+      "u77.the-calm-before-the-storm",
+      "u77.let-sleeping-dogs-lie"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.bend-over-backwards",
+      "u77.go-down-a-rabbit-hole",
+      "u77.weather-the-storm",
+      "u77.turn-a-blind-eye",
+      "u77.the-writing-is-on-the-wall",
+      "u77.cross-that-bridge-when-we-get-to-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u77-idioms-avanzados-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un dilema difícil",
+     "emoji": "⚖️",
+     "paragraphs": [
+      {
+       "en": "When the factory offered Mónica a promotion, it seemed like a dream come true.",
+       "es": "Cuando la fábrica le ofreció a Mónica un ascenso, parecía un sueño hecho realidad."
+      },
+      {
+       "en": "But the new role meant moving to another city, far from her family. It was a double-edged sword.",
+       "es": "Pero el nuevo cargo implicaba mudarse a otra ciudad, lejos de su familia. Era un arma de doble filo."
+      },
+      {
+       "en": "She sat on the fence for weeks, weighing the lesser of two evils.",
+       "es": "Estuvo indecisa durante semanas, sopesando el mal menor."
+      },
+      {
+       "en": "Her mentor gave her some food for thought: \"Don't blow this out of proportion, but don't take it lightly either.\"",
+       "es": "Su mentora le dio algo en qué pensar: \"No lo exageres, pero tampoco lo tomes a la ligera.\""
+      },
+      {
+       "en": "In the end, she realized the writing was on the wall: her career had hit a ceiling in her current city.",
+       "es": "Al final, se dio cuenta de que se veía venir: su carrera había tocado techo en su ciudad actual."
+      },
+      {
+       "en": "She took the job. It was a steep learning curve, but she never looked back.",
+       "es": "Aceptó el trabajo. Fue una curva de aprendizaje empinada, pero nunca se arrepintió."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué el ascenso era 'un arma de doble filo'?",
+       "options": [
+        "Significaba mudarse lejos de su familia",
+        "Pagaba poco",
+        "Era ilegal"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué le aconsejó su mentora?",
+       "options": [
+        "No exagerarlo pero tampoco tomarlo a la ligera",
+        "Rechazarlo",
+        "Aceptarlo sin pensar"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué decisión tomó?",
+       "options": [
+        "Aceptó el trabajo",
+        "Lo rechazó",
+        "Renunció"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Hacer de abogado del diablo",
+     "scene": "💡 En una lluvia de ideas, cuestionas una propuesta para mejorarla.",
+     "turns": [
+      {
+       "who": "Colleague",
+       "en": "Let's launch the product next week. Everyone will love it!",
+       "es": "Lancemos el producto la próxima semana. ¡A todos les va a encantar!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Let me play devil's advocate. Have we tested it enough?",
+         "es": "Déjame hacer de abogado del diablo. ¿Lo hemos probado lo suficiente?",
+         "ok": true
+        },
+        {
+         "en": "Let me play devil's advocate. I love it, no questions.",
+         "es": "Déjame hacer de abogado del diablo. Me encanta, sin preguntas.",
+         "ok": false,
+         "why": "Contradice el propósito del rol."
+        }
+       ]
+      },
+      {
+       "who": "Colleague",
+       "en": "Well, not completely. Why?",
+       "es": "Bueno, no del todo. ¿Por qué?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "If we cut corners now, we might regret it later. It's a slippery slope.",
+         "es": "Si hacemos las cosas a medias ahora, podríamos arrepentirnos después. Es un terreno resbaladizo.",
+         "ok": true
+        },
+        {
+         "en": "If we cut corners, it's a win-win.",
+         "es": "Si hacemos las cosas a medias, es ganar-ganar.",
+         "ok": false,
+         "why": "Hacer las cosas a medias no es ganar-ganar."
+        }
+       ]
+      },
+      {
+       "who": "Colleague",
+       "en": "Good point. So what do you suggest?",
+       "es": "Buen punto. ¿Entonces qué sugieres?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Let's go back to the drawing board for the testing phase.",
+         "es": "Volvamos a empezar con la fase de pruebas.",
+         "ok": true
+        },
+        {
+         "en": "Let's turn a blind eye to the problems.",
+         "es": "Hagamos la vista gorda con los problemas.",
+         "ok": false,
+         "why": "Es justo lo contrario de mejorar la propuesta."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "En pocas palabras, el plan funcionó.",
+     "en": "In a nutshell, the plan worked."
+    },
+    {
+     "type": "write",
+     "es": "Es un arma de doble filo.",
+     "en": "It's a double-edged sword.",
+     "accept": [
+      "It is a double-edged sword."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Toma esos datos con pinzas.",
+     "en": "Take that data with a grain of salt.",
+     "accept": [
+      "Take those figures with a grain of salt."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Let's address the elephant in the room.",
+     "es": "Hablemos del tema que nadie menciona."
+    },
+    {
+     "type": "dictation",
+     "en": "This new tool is a real game changer.",
+     "es": "Esta nueva herramienta lo cambia todo."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u77.turn-a-blind-eye",
+      "u77.the-writing-is-on-the-wall",
+      "u77.cross-that-bridge-when-we-get-to-it",
+      "u77.take-it-with-a-grain-of-salt",
+      "u77.the-jury-is-still-out",
+      "u77.a-watershed-moment",
+      "u77.the-calm-before-the-storm",
+      "u77.let-sleeping-dogs-lie"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

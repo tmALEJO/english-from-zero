@@ -1,0 +1,1328 @@
+{
+ "_generated": true,
+ "id": "u34-dinero",
+ "level": "A2",
+ "title": "Dinero y compras",
+ "emoji": "💳",
+ "canDo": "Ya puedo manejar precios, pagos, devoluciones y descuentos",
+ "summary": "Dinero, formas de pago, descuentos, devoluciones y quejas sencillas en una tienda.",
+ "grammar": [
+  "Too / enough",
+  "Números grandes y precios"
+ ],
+ "items": [
+  {
+   "id": "u34.price",
+   "en": "price",
+   "es": "precio",
+   "kind": "word",
+   "emoji": "🏷️",
+   "say": "práis"
+  },
+  {
+   "id": "u34.discount",
+   "en": "discount",
+   "es": "descuento",
+   "kind": "word",
+   "emoji": "🔻",
+   "say": "dís-kaunt"
+  },
+  {
+   "id": "u34.sale",
+   "en": "sale",
+   "es": "rebajas / oferta",
+   "kind": "word",
+   "emoji": "🛍️",
+   "say": "séil"
+  },
+  {
+   "id": "u34.on-sale",
+   "en": "on sale",
+   "es": "en oferta",
+   "kind": "chunk",
+   "emoji": "📉"
+  },
+  {
+   "id": "u34.free-shipping",
+   "en": "free shipping",
+   "es": "envío gratis",
+   "kind": "chunk",
+   "emoji": "🚚"
+  },
+  {
+   "id": "u34.change-money",
+   "en": "change",
+   "es": "cambio / vueltas",
+   "kind": "word",
+   "emoji": "🪙",
+   "say": "chéinch",
+   "tip": "Aquí con el sentido de: money."
+  },
+  {
+   "id": "u34.pay",
+   "en": "pay",
+   "es": "pagar",
+   "kind": "word",
+   "emoji": "💳",
+   "say": "péi"
+  },
+  {
+   "id": "u34.spend",
+   "en": "spend",
+   "es": "gastar",
+   "kind": "word",
+   "emoji": "💸",
+   "say": "spend"
+  },
+  {
+   "id": "u34.earn",
+   "en": "earn",
+   "es": "ganar (dinero trabajando)",
+   "kind": "word",
+   "emoji": "💰",
+   "say": "ern"
+  },
+  {
+   "id": "u34.borrow",
+   "en": "borrow",
+   "es": "pedir prestado",
+   "kind": "word",
+   "emoji": "🤲",
+   "say": "bó-rou"
+  },
+  {
+   "id": "u34.lend",
+   "en": "lend",
+   "es": "prestar",
+   "kind": "word",
+   "emoji": "🫴",
+   "say": "lend"
+  },
+  {
+   "id": "u34.owe",
+   "en": "owe",
+   "es": "deber (dinero)",
+   "kind": "word",
+   "emoji": "🧾",
+   "say": "óu"
+  },
+  {
+   "id": "u34.cost",
+   "en": "cost",
+   "es": "costar",
+   "kind": "word",
+   "emoji": "💲",
+   "say": "kost"
+  },
+  {
+   "id": "u34.afford",
+   "en": "afford",
+   "es": "poder pagar / costear",
+   "kind": "word",
+   "emoji": "💵",
+   "say": "a-fórd"
+  },
+  {
+   "id": "u34.refund",
+   "en": "refund",
+   "es": "reembolso",
+   "kind": "word",
+   "emoji": "↩️",
+   "say": "ríi-fand"
+  },
+  {
+   "id": "u34.return",
+   "en": "return",
+   "es": "devolver",
+   "kind": "word",
+   "emoji": "🔙",
+   "say": "ri-térn"
+  },
+  {
+   "id": "u34.exchange",
+   "en": "exchange",
+   "es": "cambiar (un producto)",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "eks-chéinch"
+  },
+  {
+   "id": "u34.receipt-store",
+   "en": "receipt",
+   "es": "tiquete / factura",
+   "kind": "word",
+   "emoji": "🧾",
+   "tip": "Aquí con el sentido de: store."
+  },
+  {
+   "id": "u34.customer",
+   "en": "customer",
+   "es": "cliente",
+   "kind": "word",
+   "emoji": "🧑",
+   "say": "kás-to-mer"
+  },
+  {
+   "id": "u34.cashier",
+   "en": "cashier",
+   "es": "cajero",
+   "kind": "word",
+   "emoji": "🧑‍💼",
+   "say": "ka-shíer"
+  },
+  {
+   "id": "u34.online-shopping",
+   "en": "online shopping",
+   "es": "compras por internet",
+   "kind": "chunk",
+   "emoji": "🌐"
+  },
+  {
+   "id": "u34.order",
+   "en": "order",
+   "es": "pedido / pedir",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "ór-der"
+  },
+  {
+   "id": "u34.deliver",
+   "en": "deliver",
+   "es": "entregar / domicilio",
+   "kind": "word",
+   "emoji": "🛵",
+   "say": "di-lí-ver"
+  },
+  {
+   "id": "u34.brand",
+   "en": "brand",
+   "es": "marca",
+   "kind": "word",
+   "emoji": "™️",
+   "say": "brand"
+  },
+  {
+   "id": "u34.quality",
+   "en": "quality",
+   "es": "calidad",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "kuó-li-ti"
+  },
+  {
+   "id": "u34.broken",
+   "en": "broken",
+   "es": "dañado / roto",
+   "kind": "word",
+   "emoji": "💔",
+   "say": "bróu-ken"
+  },
+  {
+   "id": "u34.too-expensive",
+   "en": "too expensive",
+   "es": "demasiado caro",
+   "kind": "chunk",
+   "emoji": "😬"
+  },
+  {
+   "id": "u34.cheap-enough",
+   "en": "cheap enough",
+   "es": "suficientemente barato",
+   "kind": "chunk",
+   "emoji": "👌"
+  },
+  {
+   "id": "u34.enough-money",
+   "en": "enough money",
+   "es": "suficiente dinero",
+   "kind": "chunk",
+   "emoji": "💰"
+  },
+  {
+   "id": "u34.half-price",
+   "en": "half price",
+   "es": "a mitad de precio",
+   "kind": "chunk",
+   "emoji": "½"
+  },
+  {
+   "id": "u34.a-thousand",
+   "en": "a thousand",
+   "es": "mil",
+   "kind": "chunk",
+   "emoji": "💯",
+   "say": "a záu-sand"
+  },
+  {
+   "id": "u34.a-million",
+   "en": "a million",
+   "es": "un millón",
+   "kind": "chunk",
+   "emoji": "💎",
+   "say": "a mí-lion"
+  },
+  {
+   "id": "u34.can-i-pay-by-card",
+   "en": "Can I pay by card?",
+   "es": "¿Puedo pagar con tarjeta?",
+   "kind": "chunk",
+   "emoji": "💳"
+  },
+  {
+   "id": "u34.keep-the-change",
+   "en": "Keep the change",
+   "es": "Quédese con el cambio",
+   "kind": "chunk",
+   "emoji": "🪙"
+  },
+  {
+   "id": "u34.i-d-like-to-return-this",
+   "en": "I'd like to return this",
+   "es": "Quisiera devolver esto",
+   "kind": "chunk",
+   "emoji": "🔙"
+  },
+  {
+   "id": "u34.it-doesn-t-work",
+   "en": "It doesn't work",
+   "es": "No funciona",
+   "kind": "chunk",
+   "emoji": "⚠️"
+  },
+  {
+   "id": "u34.can-i-get-a-refund",
+   "en": "Can I get a refund?",
+   "es": "¿Me pueden devolver el dinero?",
+   "kind": "chunk",
+   "emoji": "💸"
+  },
+  {
+   "id": "u34.that-s-a-good-deal",
+   "en": "That's a good deal",
+   "es": "Es buen negocio / buena oferta",
+   "kind": "chunk",
+   "emoji": "🤝"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u34-dinero-l1",
+   "title": "1. price, discount, sale…",
+   "focus": "listening",
+   "newItems": [
+    "u34.price",
+    "u34.discount",
+    "u34.sale",
+    "u34.on-sale"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.price",
+      "u34.discount"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.sale",
+      "u34.on-sale"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.price",
+      "u34.discount",
+      "u34.sale",
+      "u34.on-sale"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.price",
+      "u34.discount",
+      "u34.sale",
+      "u34.on-sale"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l2",
+   "title": "2. free shipping, change, pay…",
+   "focus": "grammar",
+   "newItems": [
+    "u34.free-shipping",
+    "u34.change-money",
+    "u34.pay",
+    "u34.spend"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.free-shipping",
+      "u34.change-money"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.pay",
+      "u34.spend"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.free-shipping",
+      "u34.change-money",
+      "u34.pay",
+      "u34.spend"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.free-shipping",
+      "u34.change-money",
+      "u34.pay",
+      "u34.spend"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.price",
+      "u34.discount",
+      "u34.sale",
+      "u34.on-sale"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "too y enough",
+     "intro": "Mira dónde va too y dónde va enough.",
+     "examples": [
+      {
+       "en": "This jacket is too expensive.",
+       "es": "Esta chaqueta es demasiado cara.",
+       "mark": [
+        "too"
+       ]
+      },
+      {
+       "en": "These shoes are too small.",
+       "es": "Estos zapatos son demasiado pequeños.",
+       "mark": [
+        "too"
+       ]
+      },
+      {
+       "en": "I don't have enough money.",
+       "es": "No tengo suficiente dinero.",
+       "mark": [
+        "enough"
+       ]
+      },
+      {
+       "en": "The shirt isn't big enough.",
+       "es": "La camisa no es lo suficientemente grande.",
+       "mark": [
+        "enough"
+       ]
+      },
+      {
+       "en": "It's cheap enough. I'll buy it.",
+       "es": "Está suficientemente barato. Lo compro.",
+       "mark": [
+        "enough"
+       ]
+      }
+     ],
+     "question": "¿Dónde va enough con un adjetivo (big, cheap)?",
+     "options": [
+      "Antes del adjetivo",
+      "Después del adjetivo"
+     ],
+     "answer": 1,
+     "rule": "too + adjetivo = demasiado (y es un problema): too expensive. enough = suficiente. Con un sustantivo va antes: enough money. Con un adjetivo va DESPUÉS: big enough, cheap enough.",
+     "ruleExamples": [
+      {
+       "en": "I want this phone, but it's too expensive. I don't have enough money.",
+       "es": "Quiero este celular, pero es demasiado caro. No tengo suficiente plata."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I can't buy it. It's ___ expensive.",
+     "options": [
+      "too",
+      "enough"
+     ],
+     "answer": 0,
+     "es": "No lo puedo comprar. Es demasiado caro."
+    },
+    {
+     "type": "fill",
+     "en": "Do you have ___ money for the tickets?",
+     "options": [
+      "enough",
+      "too"
+     ],
+     "answer": 0,
+     "es": "¿Tienes suficiente dinero para los boletos?"
+    },
+    {
+     "type": "fill",
+     "en": "This bag isn't big ___.",
+     "options": [
+      "enough",
+      "too"
+     ],
+     "answer": 0,
+     "es": "Este bolso no es lo suficientemente grande."
+    },
+    {
+     "type": "fill",
+     "en": "Can I ___ your pen?",
+     "options": [
+      "borrow",
+      "lend"
+     ],
+     "answer": 0,
+     "es": "¿Me prestas tu esfero? (pedir prestado)"
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l3",
+   "title": "3. earn, borrow, lend…",
+   "focus": "reading",
+   "newItems": [
+    "u34.earn",
+    "u34.borrow",
+    "u34.lend",
+    "u34.owe"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.earn",
+      "u34.borrow"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.lend",
+      "u34.owe"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.earn",
+      "u34.borrow",
+      "u34.lend",
+      "u34.owe"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.earn",
+      "u34.borrow",
+      "u34.lend",
+      "u34.owe"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.sale",
+      "u34.on-sale",
+      "u34.free-shipping",
+      "u34.change-money",
+      "u34.pay",
+      "u34.spend"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l4",
+   "title": "4. cost, afford, refund…",
+   "focus": "listening",
+   "newItems": [
+    "u34.cost",
+    "u34.afford",
+    "u34.refund",
+    "u34.return"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.cost",
+      "u34.afford"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.refund",
+      "u34.return"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.cost",
+      "u34.afford",
+      "u34.refund",
+      "u34.return"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.cost",
+      "u34.afford",
+      "u34.refund",
+      "u34.return"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.pay",
+      "u34.spend",
+      "u34.earn",
+      "u34.borrow",
+      "u34.lend",
+      "u34.owe"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l5",
+   "title": "5. exchange, receipt, customer…",
+   "focus": "listening",
+   "newItems": [
+    "u34.exchange",
+    "u34.receipt-store",
+    "u34.customer",
+    "u34.cashier"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.exchange",
+      "u34.receipt-store"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.customer",
+      "u34.cashier"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.exchange",
+      "u34.receipt-store",
+      "u34.customer",
+      "u34.cashier"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.exchange",
+      "u34.receipt-store",
+      "u34.customer",
+      "u34.cashier"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.lend",
+      "u34.owe",
+      "u34.cost",
+      "u34.afford",
+      "u34.refund",
+      "u34.return"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l6",
+   "title": "6. online shopping, order, deliver…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u34.online-shopping",
+    "u34.order",
+    "u34.deliver",
+    "u34.brand"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.online-shopping",
+      "u34.order"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.deliver",
+      "u34.brand"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.online-shopping",
+      "u34.order",
+      "u34.deliver",
+      "u34.brand"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.online-shopping",
+      "u34.order",
+      "u34.deliver",
+      "u34.brand"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.refund",
+      "u34.return",
+      "u34.exchange",
+      "u34.receipt-store",
+      "u34.customer",
+      "u34.cashier"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "💡",
+     "title": "borrow vs lend",
+     "text": "borrow = pedir prestado (tú recibes): Can I borrow your pen? lend = prestar (tú das): Can you lend me your pen? Los dos se traducen 'prestar', pero miran desde lados distintos."
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l7",
+   "title": "7. quality, broken, too expensive…",
+   "focus": "reading",
+   "newItems": [
+    "u34.quality",
+    "u34.broken",
+    "u34.too-expensive",
+    "u34.cheap-enough"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.quality",
+      "u34.broken"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.too-expensive",
+      "u34.cheap-enough"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.quality",
+      "u34.broken",
+      "u34.too-expensive",
+      "u34.cheap-enough"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.quality",
+      "u34.broken",
+      "u34.too-expensive",
+      "u34.cheap-enough"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.customer",
+      "u34.cashier",
+      "u34.online-shopping",
+      "u34.order",
+      "u34.deliver",
+      "u34.brand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l8",
+   "title": "8. enough money, half price, a thousand…",
+   "focus": "listening",
+   "newItems": [
+    "u34.enough-money",
+    "u34.half-price",
+    "u34.a-thousand",
+    "u34.a-million"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.enough-money",
+      "u34.half-price"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.a-thousand",
+      "u34.a-million"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.enough-money",
+      "u34.half-price",
+      "u34.a-thousand",
+      "u34.a-million"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.enough-money",
+      "u34.half-price",
+      "u34.a-thousand",
+      "u34.a-million"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.deliver",
+      "u34.brand",
+      "u34.quality",
+      "u34.broken",
+      "u34.too-expensive",
+      "u34.cheap-enough"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l9",
+   "title": "9. Can I pay by card?, Keep the change, I'd like to return this…",
+   "focus": "listening",
+   "newItems": [
+    "u34.can-i-pay-by-card",
+    "u34.keep-the-change",
+    "u34.i-d-like-to-return-this",
+    "u34.it-doesn-t-work"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.can-i-pay-by-card",
+      "u34.keep-the-change"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u34.i-d-like-to-return-this",
+      "u34.it-doesn-t-work"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.can-i-pay-by-card",
+      "u34.keep-the-change",
+      "u34.i-d-like-to-return-this",
+      "u34.it-doesn-t-work"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.can-i-pay-by-card",
+      "u34.keep-the-change",
+      "u34.i-d-like-to-return-this",
+      "u34.it-doesn-t-work"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.too-expensive",
+      "u34.cheap-enough",
+      "u34.enough-money",
+      "u34.half-price",
+      "u34.a-thousand",
+      "u34.a-million"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Devolver un producto",
+     "scene": "🔙 Compraste unos audífonos que no funcionan.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Hi. I'd like to return these headphones.",
+       "es": "Hola. Quisiera devolver estos audífonos."
+      },
+      {
+       "who": "Clerk",
+       "en": "What's the problem?",
+       "es": "¿Cuál es el problema?"
+      },
+      {
+       "who": "You",
+       "en": "They don't work. I bought them yesterday. Here's the receipt.",
+       "es": "No funcionan. Los compré ayer. Aquí está la factura."
+      },
+      {
+       "who": "Clerk",
+       "en": "Would you like to exchange them or get a refund?",
+       "es": "¿Los quiere cambiar o que le devolvamos el dinero?"
+      },
+      {
+       "who": "You",
+       "en": "Can I get a refund, please?",
+       "es": "¿Me pueden devolver el dinero, por favor?"
+      },
+      {
+       "who": "Clerk",
+       "en": "Of course. I'll refund the money to your card.",
+       "es": "Claro. Le devuelvo el dinero a su tarjeta."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-l10",
+   "title": "10. Can I get a refund?, That's a good deal",
+   "focus": "vocabulary",
+   "newItems": [
+    "u34.can-i-get-a-refund",
+    "u34.that-s-a-good-deal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u34.can-i-get-a-refund",
+      "u34.that-s-a-good-deal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.can-i-get-a-refund",
+      "u34.that-s-a-good-deal"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.can-i-get-a-refund",
+      "u34.that-s-a-good-deal"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.a-thousand",
+      "u34.a-million",
+      "u34.can-i-pay-by-card",
+      "u34.keep-the-change",
+      "u34.i-d-like-to-return-this",
+      "u34.it-doesn-t-work"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u34-dinero-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Ahorrar para un sueño",
+     "emoji": "🐷",
+     "paragraphs": [
+      {
+       "en": "Daniel wanted a new laptop for his programming classes.",
+       "es": "Daniel quería un portátil nuevo para sus clases de programación."
+      },
+      {
+       "en": "The one he liked cost three million pesos. It was too expensive for him.",
+       "es": "El que le gustaba costaba tres millones de pesos. Era demasiado caro para él."
+      },
+      {
+       "en": "So he decided to save money. He spent less on fast food and taxis.",
+       "es": "Así que decidió ahorrar. Gastó menos en comida rápida y taxis."
+      },
+      {
+       "en": "He also earned extra money fixing computers for his neighbors.",
+       "es": "También ganó plata extra arreglando computadores a sus vecinos."
+      },
+      {
+       "en": "After six months he had enough money, and the laptop was on sale!",
+       "es": "Después de seis meses tenía suficiente dinero, ¡y el portátil estaba en oferta!"
+      },
+      {
+       "en": "He paid half price. \"That's a good deal,\" he said with a big smile.",
+       "es": "Pagó la mitad. \"Qué buen negocio\", dijo con una gran sonrisa."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Para qué quería el portátil?",
+       "options": [
+        "Para jugar",
+        "Para sus clases de programación",
+        "Para su papá"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo ganó plata extra?",
+       "options": [
+        "Arreglando computadores",
+        "Vendiendo comida",
+        "Manejando taxi"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cuánto pagó al final?",
+       "options": [
+        "El precio completo",
+        "La mitad",
+        "Nada"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "En la caja",
+     "scene": "🛒 Pagas tus compras en el supermercado.",
+     "turns": [
+      {
+       "who": "Cashier",
+       "en": "That's forty-five thousand pesos.",
+       "es": "Son cuarenta y cinco mil pesos."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Can I pay by card?",
+         "es": "¿Puedo pagar con tarjeta?",
+         "ok": true
+        },
+        {
+         "en": "Can I lend by card?",
+         "es": "¿Puedo prestar con tarjeta?",
+         "ok": false,
+         "why": "Se dice \"pay by card\"."
+        }
+       ]
+      },
+      {
+       "who": "Cashier",
+       "en": "Sorry, the card machine doesn't work today.",
+       "es": "Lo siento, el datáfono no funciona hoy."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No problem. Here's fifty thousand in cash.",
+         "es": "No hay problema. Aquí tiene cincuenta mil en efectivo.",
+         "ok": true
+        },
+        {
+         "en": "No problem. I don't have enough card.",
+         "es": "No hay problema. No tengo suficiente tarjeta.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      },
+      {
+       "who": "Cashier",
+       "en": "Here's your change, five thousand.",
+       "es": "Aquí está su cambio, cinco mil."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you. Have a nice day!",
+         "es": "Gracias. ¡Que tenga un buen día!",
+         "ok": true
+        },
+        {
+         "en": "Keep the receipt of the change.",
+         "es": "Guarde el recibo del cambio.",
+         "ok": false,
+         "why": "No es una respuesta natural."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es demasiado caro.",
+     "en": "It's too expensive.",
+     "accept": [
+      "It is too expensive."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Puedo pagar con tarjeta?",
+     "en": "Can I pay by card?",
+     "accept": [
+      "Can I pay with a card?",
+      "Could I pay by card?"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No tengo suficiente dinero.",
+     "en": "I don't have enough money.",
+     "accept": [
+      "I do not have enough money."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I'd like to return this, it doesn't work.",
+     "es": "Quisiera devolver esto, no funciona."
+    },
+    {
+     "type": "dictation",
+     "en": "Everything is on sale this weekend.",
+     "es": "Todo está en oferta este fin de semana."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u34.a-thousand",
+      "u34.a-million",
+      "u34.can-i-pay-by-card",
+      "u34.keep-the-change",
+      "u34.i-d-like-to-return-this",
+      "u34.it-doesn-t-work",
+      "u34.can-i-get-a-refund",
+      "u34.that-s-a-good-deal"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

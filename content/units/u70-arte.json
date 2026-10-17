@@ -1,0 +1,1387 @@
+{
+ "_generated": true,
+ "id": "u70-arte",
+ "level": "B2",
+ "title": "Arte, cine y literatura",
+ "emoji": "🎬",
+ "canDo": "Ya puedo hablar y opinar sobre películas, libros, música y arte",
+ "summary": "Géneros, reseñas y crítica cultural; participios como adjetivos y orden enfático.",
+ "grammar": [
+  "Participios como adjetivos: a well-written book",
+  "so / such para enfatizar"
+ ],
+ "items": [
+  {
+   "id": "u70.setting",
+   "en": "setting",
+   "es": "ambientación",
+   "kind": "word",
+   "emoji": "🏞️",
+   "say": "sé-ting"
+  },
+  {
+   "id": "u70.genre",
+   "en": "genre",
+   "es": "género",
+   "kind": "word",
+   "emoji": "🎞️",
+   "say": "yán-ra"
+  },
+  {
+   "id": "u70.masterpiece",
+   "en": "masterpiece",
+   "es": "obra maestra",
+   "kind": "word",
+   "emoji": "🖼️",
+   "say": "más-ter-piis"
+  },
+  {
+   "id": "u70.critic",
+   "en": "critic",
+   "es": "crítico (persona)",
+   "kind": "word",
+   "emoji": "🧐",
+   "say": "krí-tik"
+  },
+  {
+   "id": "u70.audience",
+   "en": "audience",
+   "es": "público / audiencia",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "ó-di-ens"
+  },
+  {
+   "id": "u70.soundtrack",
+   "en": "soundtrack",
+   "es": "banda sonora",
+   "kind": "word",
+   "emoji": "🎵",
+   "say": "sáund-trak"
+  },
+  {
+   "id": "u70.subtitles",
+   "en": "subtitles",
+   "es": "subtítulos",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "sáb-tai-tols"
+  },
+  {
+   "id": "u70.twist",
+   "en": "twist",
+   "es": "giro inesperado",
+   "kind": "word",
+   "emoji": "🔀",
+   "say": "tuist"
+  },
+  {
+   "id": "u70.spoiler",
+   "en": "spoiler",
+   "es": "spoiler / destripe",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "spói-ler"
+  },
+  {
+   "id": "u70.sequel",
+   "en": "sequel",
+   "es": "secuela",
+   "kind": "word",
+   "emoji": "▶️",
+   "say": "síi-kuel"
+  },
+  {
+   "id": "u70.cast",
+   "en": "cast",
+   "es": "elenco",
+   "kind": "word",
+   "emoji": "🎭",
+   "say": "kast"
+  },
+  {
+   "id": "u70.director",
+   "en": "director",
+   "es": "director",
+   "kind": "word",
+   "emoji": "🎥",
+   "say": "di-rék-tor"
+  },
+  {
+   "id": "u70.performance",
+   "en": "performance",
+   "es": "actuación / interpretación",
+   "kind": "word",
+   "emoji": "🎤",
+   "say": "per-fór-mans"
+  },
+  {
+   "id": "u70.thriller",
+   "en": "thriller",
+   "es": "suspenso",
+   "kind": "word",
+   "emoji": "😱",
+   "say": "zrí-ler"
+  },
+  {
+   "id": "u70.documentary",
+   "en": "documentary",
+   "es": "documental",
+   "kind": "word",
+   "emoji": "🎞️",
+   "say": "do-kiu-mén-ta-ri"
+  },
+  {
+   "id": "u70.sci-fi",
+   "en": "sci-fi",
+   "es": "ciencia ficción",
+   "kind": "word",
+   "emoji": "🚀",
+   "say": "sái-fai"
+  },
+  {
+   "id": "u70.fiction",
+   "en": "fiction",
+   "es": "ficción",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "fík-shon"
+  },
+  {
+   "id": "u70.non-fiction",
+   "en": "non-fiction",
+   "es": "no ficción",
+   "kind": "word",
+   "emoji": "📘"
+  },
+  {
+   "id": "u70.novel",
+   "en": "novel",
+   "es": "novela",
+   "kind": "word",
+   "emoji": "📕",
+   "say": "nó-vel"
+  },
+  {
+   "id": "u70.poetry",
+   "en": "poetry",
+   "es": "poesía",
+   "kind": "word",
+   "emoji": "🖋️",
+   "say": "póu-e-tri"
+  },
+  {
+   "id": "u70.chapter",
+   "en": "chapter",
+   "es": "capítulo",
+   "kind": "word",
+   "emoji": "📑",
+   "say": "cháp-ter"
+  },
+  {
+   "id": "u70.playwright",
+   "en": "playwright",
+   "es": "dramaturgo",
+   "kind": "word",
+   "emoji": "🎭",
+   "say": "pléi-rait"
+  },
+  {
+   "id": "u70.lyrics",
+   "en": "lyrics",
+   "es": "letra (de canción)",
+   "kind": "word",
+   "emoji": "🎶",
+   "say": "lí-riks"
+  },
+  {
+   "id": "u70.melody",
+   "en": "melody",
+   "es": "melodía",
+   "kind": "word",
+   "emoji": "🎼",
+   "say": "mé-lo-di"
+  },
+  {
+   "id": "u70.painting",
+   "en": "painting",
+   "es": "pintura / cuadro",
+   "kind": "word",
+   "emoji": "🖼️",
+   "say": "péin-ting"
+  },
+  {
+   "id": "u70.sculpture",
+   "en": "sculpture",
+   "es": "escultura",
+   "kind": "word",
+   "emoji": "🗿",
+   "say": "skálp-cher"
+  },
+  {
+   "id": "u70.exhibition",
+   "en": "exhibition",
+   "es": "exposición",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "ek-si-bí-shon"
+  },
+  {
+   "id": "u70.masterful",
+   "en": "masterful",
+   "es": "magistral",
+   "kind": "word",
+   "emoji": "👏",
+   "say": "más-ter-ful"
+  },
+  {
+   "id": "u70.moving",
+   "en": "moving",
+   "es": "conmovedor",
+   "kind": "word",
+   "emoji": "🥹",
+   "say": "múu-ving"
+  },
+  {
+   "id": "u70.overrated",
+   "en": "overrated",
+   "es": "sobrevalorado",
+   "kind": "word",
+   "emoji": "📉",
+   "say": "ou-ver-réi-ted"
+  },
+  {
+   "id": "u70.underrated",
+   "en": "underrated",
+   "es": "subvalorado",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "an-der-réi-ted"
+  },
+  {
+   "id": "u70.predictable",
+   "en": "predictable",
+   "es": "predecible",
+   "kind": "word",
+   "emoji": "🔮",
+   "say": "pri-dík-ta-bol"
+  },
+  {
+   "id": "u70.well-written",
+   "en": "well-written",
+   "es": "bien escrito",
+   "kind": "word",
+   "emoji": "✍️"
+  },
+  {
+   "id": "u70.fast-paced",
+   "en": "fast-paced",
+   "es": "de ritmo rápido",
+   "kind": "word",
+   "emoji": "🏎️"
+  },
+  {
+   "id": "u70.slow-paced",
+   "en": "slow-paced",
+   "es": "de ritmo lento",
+   "kind": "word",
+   "emoji": "🐢"
+  },
+  {
+   "id": "u70.thought-provoking",
+   "en": "thought-provoking",
+   "es": "que hace pensar",
+   "kind": "word",
+   "emoji": "💭"
+  },
+  {
+   "id": "u70.based-on-a-true-story",
+   "en": "based on a true story",
+   "es": "basado en hechos reales",
+   "kind": "chunk",
+   "emoji": "📰"
+  },
+  {
+   "id": "u70.it-s-worth-watching",
+   "en": "It's worth watching",
+   "es": "Vale la pena verla",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u70.i-couldn-t-put-it-down",
+   "en": "I couldn't put it down",
+   "es": "No pude dejarlo (un libro)",
+   "kind": "chunk",
+   "emoji": "📖"
+  },
+  {
+   "id": "u70.it-gave-me-goosebumps",
+   "en": "It gave me goosebumps",
+   "es": "Me puso la piel de gallina",
+   "kind": "chunk",
+   "emoji": "😮"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u70-arte-l1",
+   "title": "1. setting, genre, masterpiece…",
+   "focus": "listening",
+   "newItems": [
+    "u70.setting",
+    "u70.genre",
+    "u70.masterpiece",
+    "u70.critic",
+    "u70.audience"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.setting",
+      "u70.genre"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.masterpiece",
+      "u70.critic"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.audience"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.setting",
+      "u70.genre",
+      "u70.masterpiece",
+      "u70.critic",
+      "u70.audience"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.setting",
+      "u70.genre",
+      "u70.masterpiece",
+      "u70.critic",
+      "u70.audience"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.setting",
+      "u70.genre",
+      "u70.masterpiece",
+      "u70.critic",
+      "u70.audience"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-l2",
+   "title": "2. soundtrack, subtitles, twist…",
+   "focus": "grammar",
+   "newItems": [
+    "u70.soundtrack",
+    "u70.subtitles",
+    "u70.twist",
+    "u70.spoiler",
+    "u70.sequel"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.soundtrack",
+      "u70.subtitles"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.twist",
+      "u70.spoiler"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.sequel"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.soundtrack",
+      "u70.subtitles",
+      "u70.twist",
+      "u70.spoiler",
+      "u70.sequel"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.soundtrack",
+      "u70.subtitles",
+      "u70.twist",
+      "u70.spoiler",
+      "u70.sequel"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.soundtrack",
+      "u70.subtitles",
+      "u70.twist",
+      "u70.spoiler",
+      "u70.sequel"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.setting",
+      "u70.genre",
+      "u70.masterpiece",
+      "u70.critic",
+      "u70.audience"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Participios como adjetivos y so / such",
+     "intro": "Mira cómo se forman estos adjetivos y cómo se enfatiza.",
+     "examples": [
+      {
+       "en": "It's a well-written novel.",
+       "es": "Es una novela bien escrita.",
+       "mark": [
+        "well-written"
+       ]
+      },
+      {
+       "en": "The movie was a bit overrated.",
+       "es": "La película estaba un poco sobrevalorada.",
+       "mark": [
+        "overrated"
+       ]
+      },
+      {
+       "en": "It's a thought-provoking documentary.",
+       "es": "Es un documental que hace pensar.",
+       "mark": [
+        "thought-provoking"
+       ]
+      },
+      {
+       "en": "The ending was so surprising!",
+       "es": "¡El final fue tan sorprendente!",
+       "mark": [
+        "so"
+       ]
+      },
+      {
+       "en": "It was such a moving film.",
+       "es": "Fue una película tan conmovedora.",
+       "mark": [
+        "such a"
+       ]
+      }
+     ],
+     "question": "¿Cuándo se usa such a en vez de so?",
+     "options": [
+      "Con adjetivo + sustantivo (such a good film)",
+      "Con adjetivo solo (so good)",
+      "Nunca"
+     ],
+     "answer": 0,
+     "rule": "Muchos adjetivos culturales son participios o compuestos: well-written, fast-paced, thought-provoking. Para enfatizar: so + adjetivo (so good), such a + adjetivo + sustantivo (such a good film). Ojo: es such a, no 'so a'.",
+     "ruleExamples": [
+      {
+       "en": "It was such a predictable plot that I guessed the twist, but the acting was so good!",
+       "es": "Fue una trama tan predecible que adiviné el giro, ¡pero la actuación fue tan buena!"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "It's a ___ book. I read it in one day.",
+     "options": [
+      "well-written",
+      "well-write"
+     ],
+     "answer": 0,
+     "es": "Es un libro bien escrito. Lo leí en un día."
+    },
+    {
+     "type": "fill",
+     "en": "The film was ___ boring that I fell asleep.",
+     "options": [
+      "so",
+      "such"
+     ],
+     "answer": 0,
+     "es": "La película era tan aburrida que me quedé dormido."
+    },
+    {
+     "type": "fill",
+     "en": "It was ___ an amazing performance!",
+     "options": [
+      "such",
+      "so"
+     ],
+     "answer": 0,
+     "es": "¡Fue una actuación tan increíble!"
+    },
+    {
+     "type": "fill",
+     "en": "The documentary was really ___. It made me think a lot.",
+     "options": [
+      "thought-provoking",
+      "thought-provoke"
+     ],
+     "answer": 0,
+     "es": "El documental hacía pensar mucho."
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-l3",
+   "title": "3. cast, director, performance…",
+   "focus": "reading",
+   "newItems": [
+    "u70.cast",
+    "u70.director",
+    "u70.performance",
+    "u70.thriller",
+    "u70.documentary"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.cast",
+      "u70.director"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.performance",
+      "u70.thriller"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.documentary"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.cast",
+      "u70.director",
+      "u70.performance",
+      "u70.thriller",
+      "u70.documentary"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.cast",
+      "u70.director",
+      "u70.performance",
+      "u70.thriller",
+      "u70.documentary"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.cast",
+      "u70.director",
+      "u70.performance",
+      "u70.thriller",
+      "u70.documentary"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.audience",
+      "u70.soundtrack",
+      "u70.subtitles",
+      "u70.twist",
+      "u70.spoiler",
+      "u70.sequel"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-l4",
+   "title": "4. sci-fi, fiction, non-fiction…",
+   "focus": "listening",
+   "newItems": [
+    "u70.sci-fi",
+    "u70.fiction",
+    "u70.non-fiction",
+    "u70.novel",
+    "u70.poetry"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.sci-fi",
+      "u70.fiction"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.non-fiction",
+      "u70.novel"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.poetry"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.sci-fi",
+      "u70.fiction",
+      "u70.non-fiction",
+      "u70.novel",
+      "u70.poetry"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.sci-fi",
+      "u70.fiction",
+      "u70.non-fiction",
+      "u70.novel",
+      "u70.poetry"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.sci-fi",
+      "u70.fiction",
+      "u70.non-fiction",
+      "u70.novel",
+      "u70.poetry"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.sequel",
+      "u70.cast",
+      "u70.director",
+      "u70.performance",
+      "u70.thriller",
+      "u70.documentary"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-l5",
+   "title": "5. chapter, playwright, lyrics…",
+   "focus": "listening",
+   "newItems": [
+    "u70.chapter",
+    "u70.playwright",
+    "u70.lyrics",
+    "u70.melody",
+    "u70.painting"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.chapter",
+      "u70.playwright"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.lyrics",
+      "u70.melody"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.painting"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.chapter",
+      "u70.playwright",
+      "u70.lyrics",
+      "u70.melody",
+      "u70.painting"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.chapter",
+      "u70.playwright",
+      "u70.lyrics",
+      "u70.melody",
+      "u70.painting"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.chapter",
+      "u70.playwright",
+      "u70.lyrics",
+      "u70.melody",
+      "u70.painting"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.documentary",
+      "u70.sci-fi",
+      "u70.fiction",
+      "u70.non-fiction",
+      "u70.novel",
+      "u70.poetry"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-l6",
+   "title": "6. sculpture, exhibition, masterful…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u70.sculpture",
+    "u70.exhibition",
+    "u70.masterful",
+    "u70.moving",
+    "u70.overrated"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.sculpture",
+      "u70.exhibition"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.masterful",
+      "u70.moving"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.overrated"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.sculpture",
+      "u70.exhibition",
+      "u70.masterful",
+      "u70.moving",
+      "u70.overrated"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.sculpture",
+      "u70.exhibition",
+      "u70.masterful",
+      "u70.moving",
+      "u70.overrated"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.sculpture",
+      "u70.exhibition",
+      "u70.masterful",
+      "u70.moving",
+      "u70.overrated"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.poetry",
+      "u70.chapter",
+      "u70.playwright",
+      "u70.lyrics",
+      "u70.melody",
+      "u70.painting"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Recomendando una serie",
+     "scene": "📺 Hablando de qué ver.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "Have you seen that new sci-fi series?",
+       "es": "¿Viste esa nueva serie de ciencia ficción?"
+      },
+      {
+       "who": "Leo",
+       "en": "Not yet. Is it any good?",
+       "es": "Todavía no. ¿Es buena?"
+      },
+      {
+       "who": "Ana",
+       "en": "It's amazing. The plot is so original and the soundtrack gave me goosebumps.",
+       "es": "Es increíble. La trama es muy original y la banda sonora me puso la piel de gallina."
+      },
+      {
+       "who": "Leo",
+       "en": "Is it fast-paced? I don't like slow shows.",
+       "es": "¿Es de ritmo rápido? No me gustan las series lentas."
+      },
+      {
+       "who": "Ana",
+       "en": "Very. And there's a twist at the end you'll never guess. No spoilers!",
+       "es": "Mucho. Y hay un giro al final que nunca vas a adivinar. ¡Sin spoilers!"
+      },
+      {
+       "who": "Leo",
+       "en": "You've convinced me. It sounds worth watching.",
+       "es": "Me convenciste. Suena a que vale la pena verla."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-l7",
+   "title": "7. underrated, predictable, well-written…",
+   "focus": "reading",
+   "newItems": [
+    "u70.underrated",
+    "u70.predictable",
+    "u70.well-written",
+    "u70.fast-paced",
+    "u70.slow-paced"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.underrated",
+      "u70.predictable"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.well-written",
+      "u70.fast-paced"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.slow-paced"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.underrated",
+      "u70.predictable",
+      "u70.well-written",
+      "u70.fast-paced",
+      "u70.slow-paced"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.underrated",
+      "u70.predictable",
+      "u70.well-written",
+      "u70.fast-paced",
+      "u70.slow-paced"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.underrated",
+      "u70.predictable",
+      "u70.well-written",
+      "u70.fast-paced",
+      "u70.slow-paced"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.painting",
+      "u70.sculpture",
+      "u70.exhibition",
+      "u70.masterful",
+      "u70.moving",
+      "u70.overrated"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-l8",
+   "title": "8. thought-provoking, based on a true story, It's worth watching…",
+   "focus": "listening",
+   "newItems": [
+    "u70.thought-provoking",
+    "u70.based-on-a-true-story",
+    "u70.it-s-worth-watching",
+    "u70.i-couldn-t-put-it-down",
+    "u70.it-gave-me-goosebumps"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u70.thought-provoking",
+      "u70.based-on-a-true-story"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.it-s-worth-watching",
+      "u70.i-couldn-t-put-it-down"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u70.it-gave-me-goosebumps"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.thought-provoking",
+      "u70.based-on-a-true-story",
+      "u70.it-s-worth-watching",
+      "u70.i-couldn-t-put-it-down",
+      "u70.it-gave-me-goosebumps"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.thought-provoking",
+      "u70.based-on-a-true-story",
+      "u70.it-s-worth-watching",
+      "u70.i-couldn-t-put-it-down",
+      "u70.it-gave-me-goosebumps"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.thought-provoking",
+      "u70.based-on-a-true-story",
+      "u70.it-s-worth-watching",
+      "u70.i-couldn-t-put-it-down",
+      "u70.it-gave-me-goosebumps"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.overrated",
+      "u70.underrated",
+      "u70.predictable",
+      "u70.well-written",
+      "u70.fast-paced",
+      "u70.slow-paced"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u70-arte-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El libro que no pude soltar",
+     "emoji": "📖",
+     "paragraphs": [
+      {
+       "en": "Last month a friend lent me a novel by a Colombian author I didn't know.",
+       "es": "El mes pasado un amigo me prestó una novela de un autor colombiano que no conocía."
+      },
+      {
+       "en": "At first I thought it would be slow, but the first chapter was so gripping that I couldn't put it down.",
+       "es": "Al principio pensé que sería lenta, pero el primer capítulo era tan atrapante que no pude soltarlo."
+      },
+      {
+       "en": "The main character was a young detective in a small, rainy town full of secrets.",
+       "es": "El protagonista era un joven detective en un pueblo pequeño y lluvioso lleno de secretos."
+      },
+      {
+       "en": "The writing was masterful, and the plot was full of twists I never saw coming.",
+       "es": "La escritura era magistral, y la trama estaba llena de giros que nunca vi venir."
+      },
+      {
+       "en": "It's based on a true story, which made it even more moving.",
+       "es": "Está basada en hechos reales, lo cual la hizo aún más conmovedora."
+      },
+      {
+       "en": "I finished it in two days and immediately bought the sequel. It's one of the most underrated books I've ever read.",
+       "es": "La terminé en dos días e inmediatamente compré la secuela. Es uno de los libros más subvalorados que he leído."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Quién era el protagonista?",
+       "options": [
+        "Un joven detective",
+        "Un profesor",
+        "Un cantante"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿En qué está basada la novela?",
+       "options": [
+        "En hechos reales",
+        "En un sueño",
+        "En una película"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hizo el narrador al terminarla?",
+       "options": [
+        "Compró la secuela",
+        "La regaló",
+        "La olvidó"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Opinar sobre una película",
+     "scene": "🎥 Sales del cine con un amigo que la amó.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "Wasn't that movie incredible?",
+       "es": "¿No estuvo increíble esa película?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Honestly, I found it a bit overrated. The plot was predictable.",
+         "es": "Honestamente, me pareció un poco sobrevalorada. La trama era predecible.",
+         "ok": true
+        },
+        {
+         "en": "Honestly, it was so a masterpiece.",
+         "es": "Honestamente, fue tan una obra maestra.",
+         "ok": false,
+         "why": "Se dice \"such a masterpiece\"."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Really? I thought the acting was amazing.",
+       "es": "¿En serio? A mí me pareció que la actuación fue increíble."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "The acting was great, I'll give you that. But the ending was too long.",
+         "es": "La actuación sí fue buenísima, te lo concedo. Pero el final fue muy largo.",
+         "ok": true
+        },
+        {
+         "en": "The acting was very amazing.",
+         "es": "La actuación fue muy increíble.",
+         "ok": false,
+         "why": "Con \"amazing\" se dice \"really/absolutely amazing\", no \"very\"."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Fair enough. What would you recommend instead?",
+       "es": "Justo. ¿Qué recomendarías en cambio?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "There's a documentary that's really thought-provoking. It's worth watching.",
+         "es": "Hay un documental que hace pensar mucho. Vale la pena verlo.",
+         "ok": true
+        },
+        {
+         "en": "There's a spoiler worth watching.",
+         "es": "Hay un spoiler que vale la pena ver.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es un libro bien escrito.",
+     "en": "It's a well-written book.",
+     "accept": [
+      "It is a well-written book."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Fue una película tan conmovedora.",
+     "en": "It was such a moving film.",
+     "accept": [
+      "It was such a moving movie."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Vale la pena verla.",
+     "en": "It's worth watching.",
+     "accept": [
+      "It is worth watching."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "The plot was so predictable that I guessed the ending.",
+     "es": "La trama era tan predecible que adiviné el final."
+    },
+    {
+     "type": "dictation",
+     "en": "It's one of the most underrated novels I've ever read.",
+     "es": "Es una de las novelas más subvaloradas que he leído."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u70.well-written",
+      "u70.fast-paced",
+      "u70.slow-paced",
+      "u70.thought-provoking",
+      "u70.based-on-a-true-story",
+      "u70.it-s-worth-watching",
+      "u70.i-couldn-t-put-it-down",
+      "u70.it-gave-me-goosebumps"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

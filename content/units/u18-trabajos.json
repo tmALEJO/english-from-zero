@@ -1,0 +1,1210 @@
+{
+ "_generated": true,
+ "id": "u18-trabajos",
+ "level": "A1",
+ "title": "Trabajos y profesiones",
+ "emoji": "👷",
+ "canDo": "Ya puedo decir a qué me dedico y dónde trabajo",
+ "summary": "Profesiones, lugares de trabajo y el artículo a/an con los oficios.",
+ "grammar": [
+  "a / an con profesiones",
+  "Where do you work?"
+ ],
+ "items": [
+  {
+   "id": "u18.teacher",
+   "en": "teacher",
+   "es": "profesor / profesora",
+   "kind": "word",
+   "emoji": "🧑‍🏫",
+   "say": "tíi-cher"
+  },
+  {
+   "id": "u18.nurse",
+   "en": "nurse",
+   "es": "enfermero / enfermera",
+   "kind": "word",
+   "emoji": "👩‍⚕️",
+   "say": "ners"
+  },
+  {
+   "id": "u18.engineer",
+   "en": "engineer",
+   "es": "ingeniero",
+   "kind": "word",
+   "emoji": "👷",
+   "say": "en-yi-níer"
+  },
+  {
+   "id": "u18.lawyer",
+   "en": "lawyer",
+   "es": "abogado",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "ló-ier"
+  },
+  {
+   "id": "u18.police-officer",
+   "en": "police officer",
+   "es": "policía",
+   "kind": "chunk",
+   "emoji": "👮",
+   "say": "po-líis ó-fi-ser"
+  },
+  {
+   "id": "u18.firefighter",
+   "en": "firefighter",
+   "es": "bombero",
+   "kind": "word",
+   "emoji": "🧑‍🚒",
+   "say": "fáier-fái-ter"
+  },
+  {
+   "id": "u18.farmer",
+   "en": "farmer",
+   "es": "agricultor / campesino",
+   "kind": "word",
+   "emoji": "🧑‍🌾",
+   "say": "fár-mer"
+  },
+  {
+   "id": "u18.chef",
+   "en": "chef",
+   "es": "chef / cocinero",
+   "kind": "word",
+   "emoji": "🧑‍🍳",
+   "say": "shef"
+  },
+  {
+   "id": "u18.waiter",
+   "en": "waiter",
+   "es": "mesero",
+   "kind": "word",
+   "emoji": "🤵",
+   "say": "uéi-ter"
+  },
+  {
+   "id": "u18.driver",
+   "en": "driver",
+   "es": "conductor",
+   "kind": "word",
+   "emoji": "🚕",
+   "say": "drái-ver"
+  },
+  {
+   "id": "u18.mechanic",
+   "en": "mechanic",
+   "es": "mecánico",
+   "kind": "word",
+   "emoji": "🔧",
+   "say": "me-ká-nik"
+  },
+  {
+   "id": "u18.programmer",
+   "en": "programmer",
+   "es": "programador",
+   "kind": "word",
+   "emoji": "👨‍💻",
+   "say": "próu-gra-mer"
+  },
+  {
+   "id": "u18.designer",
+   "en": "designer",
+   "es": "diseñador",
+   "kind": "word",
+   "emoji": "🎨",
+   "say": "di-sái-ner"
+  },
+  {
+   "id": "u18.artist",
+   "en": "artist",
+   "es": "artista",
+   "kind": "word",
+   "emoji": "🖼️",
+   "say": "ár-tist"
+  },
+  {
+   "id": "u18.singer",
+   "en": "singer",
+   "es": "cantante",
+   "kind": "word",
+   "emoji": "🎙️",
+   "say": "sín-ger"
+  },
+  {
+   "id": "u18.dentist",
+   "en": "dentist",
+   "es": "odontólogo",
+   "kind": "word",
+   "emoji": "🦷",
+   "say": "dén-tist"
+  },
+  {
+   "id": "u18.pilot",
+   "en": "pilot",
+   "es": "piloto",
+   "kind": "word",
+   "emoji": "👨‍✈️",
+   "say": "pái-lot"
+  },
+  {
+   "id": "u18.scientist",
+   "en": "scientist",
+   "es": "científico",
+   "kind": "word",
+   "emoji": "🔬",
+   "say": "sái-en-tist"
+  },
+  {
+   "id": "u18.manager",
+   "en": "manager",
+   "es": "gerente / jefe",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "má-na-yer"
+  },
+  {
+   "id": "u18.boss",
+   "en": "boss",
+   "es": "jefe",
+   "kind": "word",
+   "emoji": "🧑‍💼",
+   "say": "bos"
+  },
+  {
+   "id": "u18.office",
+   "en": "office",
+   "es": "oficina",
+   "kind": "word",
+   "emoji": "🏢",
+   "say": "ó-fis"
+  },
+  {
+   "id": "u18.factory",
+   "en": "factory",
+   "es": "fábrica",
+   "kind": "word",
+   "emoji": "🏭",
+   "say": "fák-to-ri"
+  },
+  {
+   "id": "u18.store",
+   "en": "store",
+   "es": "tienda",
+   "kind": "word",
+   "emoji": "🏬",
+   "say": "stor"
+  },
+  {
+   "id": "u18.job",
+   "en": "job",
+   "es": "trabajo / empleo",
+   "kind": "word",
+   "emoji": "💼",
+   "say": "yob"
+  },
+  {
+   "id": "u18.salary",
+   "en": "salary",
+   "es": "salario",
+   "kind": "word",
+   "emoji": "💰",
+   "say": "sá-la-ri"
+  },
+  {
+   "id": "u18.i-m-a-nurse",
+   "en": "I'm a nurse",
+   "es": "Soy enfermera",
+   "kind": "chunk",
+   "emoji": "👩‍⚕️"
+  },
+  {
+   "id": "u18.i-work-in-a-hospital",
+   "en": "I work in a hospital",
+   "es": "Trabajo en un hospital",
+   "kind": "chunk",
+   "emoji": "🏥"
+  },
+  {
+   "id": "u18.i-work-from-home",
+   "en": "I work from home",
+   "es": "Trabajo desde casa",
+   "kind": "chunk",
+   "emoji": "🏡"
+  },
+  {
+   "id": "u18.i-m-looking-for-a-job",
+   "en": "I'm looking for a job",
+   "es": "Estoy buscando trabajo",
+   "kind": "chunk",
+   "emoji": "🔎"
+  },
+  {
+   "id": "u18.i-love-my-job",
+   "en": "I love my job",
+   "es": "Me encanta mi trabajo",
+   "kind": "chunk",
+   "emoji": "🥰"
+  },
+  {
+   "id": "u18.help-people",
+   "en": "help people",
+   "es": "ayudar a la gente",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u18.build",
+   "en": "build",
+   "es": "construir",
+   "kind": "word",
+   "emoji": "🏗️",
+   "say": "bild"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u18-trabajos-l1",
+   "title": "1. teacher, nurse, engineer…",
+   "focus": "listening",
+   "newItems": [
+    "u18.teacher",
+    "u18.nurse",
+    "u18.engineer",
+    "u18.lawyer"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.teacher",
+      "u18.nurse"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.engineer",
+      "u18.lawyer"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.teacher",
+      "u18.nurse",
+      "u18.engineer",
+      "u18.lawyer"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.teacher",
+      "u18.nurse",
+      "u18.engineer",
+      "u18.lawyer"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.teacher",
+      "u18.nurse"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-l2",
+   "title": "2. police officer, firefighter, farmer…",
+   "focus": "grammar",
+   "newItems": [
+    "u18.police-officer",
+    "u18.firefighter",
+    "u18.farmer",
+    "u18.chef"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.police-officer",
+      "u18.firefighter"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.farmer",
+      "u18.chef"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.police-officer",
+      "u18.firefighter",
+      "u18.farmer",
+      "u18.chef"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.police-officer",
+      "u18.firefighter",
+      "u18.farmer",
+      "u18.chef"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.police-officer"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.teacher",
+      "u18.nurse",
+      "u18.engineer",
+      "u18.lawyer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "a / an con las profesiones",
+     "intro": "En español decimos 'soy ingeniero'. Mira el inglés.",
+     "examples": [
+      {
+       "en": "I'm a teacher.",
+       "es": "Soy profesor.",
+       "mark": [
+        "a"
+       ]
+      },
+      {
+       "en": "She's a nurse.",
+       "es": "Ella es enfermera.",
+       "mark": [
+        "a"
+       ]
+      },
+      {
+       "en": "He's an engineer.",
+       "es": "Él es ingeniero.",
+       "mark": [
+        "an"
+       ]
+      },
+      {
+       "en": "My father is a driver.",
+       "es": "Mi papá es conductor.",
+       "mark": [
+        "a"
+       ]
+      },
+      {
+       "en": "I'm an artist.",
+       "es": "Soy artista.",
+       "mark": [
+        "an"
+       ]
+      }
+     ],
+     "question": "¿Qué falta en inglés que en español no usamos?",
+     "options": [
+      "El artículo a/an antes de la profesión",
+      "La palabra 'work'",
+      "Nada, es igual"
+     ],
+     "answer": 0,
+     "rule": "En inglés la profesión lleva a o an: I'm a teacher (no 'I'm teacher'). Se usa an cuando la profesión empieza con sonido de vocal: an engineer, an artist. En plural no lleva artículo: They're doctors.",
+     "ruleExamples": [
+      {
+       "en": "What do you do? I'm a programmer.",
+       "es": "¿A qué te dedicas? Soy programador."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "My sister is ___ lawyer.",
+     "options": [
+      "a",
+      "an"
+     ],
+     "answer": 0,
+     "es": "Mi hermana es abogada."
+    },
+    {
+     "type": "fill",
+     "en": "He's ___ engineer.",
+     "options": [
+      "a",
+      "an"
+     ],
+     "answer": 1,
+     "es": "Él es ingeniero."
+    },
+    {
+     "type": "fill",
+     "en": "I'm ___ student.",
+     "options": [
+      "a",
+      "—"
+     ],
+     "answer": 0,
+     "es": "Soy estudiante.",
+     "explain": "En inglés no se puede omitir el artículo."
+    },
+    {
+     "type": "fill",
+     "en": "Where ___ she work?",
+     "options": [
+      "do",
+      "does"
+     ],
+     "answer": 1,
+     "es": "¿Dónde trabaja ella?"
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-l3",
+   "title": "3. waiter, driver, mechanic…",
+   "focus": "reading",
+   "newItems": [
+    "u18.waiter",
+    "u18.driver",
+    "u18.mechanic",
+    "u18.programmer"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.waiter",
+      "u18.driver"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.mechanic",
+      "u18.programmer"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.waiter",
+      "u18.driver",
+      "u18.mechanic",
+      "u18.programmer"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.waiter",
+      "u18.driver",
+      "u18.mechanic",
+      "u18.programmer"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.waiter",
+      "u18.driver"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.engineer",
+      "u18.lawyer",
+      "u18.police-officer",
+      "u18.firefighter",
+      "u18.farmer",
+      "u18.chef"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-l4",
+   "title": "4. designer, artist, singer…",
+   "focus": "listening",
+   "newItems": [
+    "u18.designer",
+    "u18.artist",
+    "u18.singer",
+    "u18.dentist"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.designer",
+      "u18.artist"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.singer",
+      "u18.dentist"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.designer",
+      "u18.artist",
+      "u18.singer",
+      "u18.dentist"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.designer",
+      "u18.artist",
+      "u18.singer",
+      "u18.dentist"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.designer",
+      "u18.artist"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.farmer",
+      "u18.chef",
+      "u18.waiter",
+      "u18.driver",
+      "u18.mechanic",
+      "u18.programmer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-l5",
+   "title": "5. pilot, scientist, manager…",
+   "focus": "listening",
+   "newItems": [
+    "u18.pilot",
+    "u18.scientist",
+    "u18.manager",
+    "u18.boss"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.pilot",
+      "u18.scientist"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.manager",
+      "u18.boss"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.pilot",
+      "u18.scientist",
+      "u18.manager",
+      "u18.boss"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.pilot",
+      "u18.scientist",
+      "u18.manager",
+      "u18.boss"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.pilot",
+      "u18.scientist"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.mechanic",
+      "u18.programmer",
+      "u18.designer",
+      "u18.artist",
+      "u18.singer",
+      "u18.dentist"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-l6",
+   "title": "6. office, factory, store…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u18.office",
+    "u18.factory",
+    "u18.store",
+    "u18.job"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.office",
+      "u18.factory"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.store",
+      "u18.job"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.office",
+      "u18.factory",
+      "u18.store",
+      "u18.job"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.office",
+      "u18.factory",
+      "u18.store",
+      "u18.job"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.office",
+      "u18.factory"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.singer",
+      "u18.dentist",
+      "u18.pilot",
+      "u18.scientist",
+      "u18.manager",
+      "u18.boss"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En una fiesta",
+     "scene": "🎉 Conoces a alguien nuevo.",
+     "lines": [
+      {
+       "who": "Ben",
+       "en": "So, what do you do?",
+       "es": "Entonces, ¿a qué te dedicas?"
+      },
+      {
+       "who": "Lia",
+       "en": "I'm a nurse. I work in a hospital.",
+       "es": "Soy enfermera. Trabajo en un hospital."
+      },
+      {
+       "who": "Ben",
+       "en": "Wow! Do you like your job?",
+       "es": "¡Uy! ¿Te gusta tu trabajo?"
+      },
+      {
+       "who": "Lia",
+       "en": "Yes, I love it. I help people every day. And you?",
+       "es": "Sí, me encanta. Ayudo a la gente todos los días. ¿Y tú?"
+      },
+      {
+       "who": "Ben",
+       "en": "I'm a programmer. I work from home.",
+       "es": "Soy programador. Trabajo desde casa."
+      },
+      {
+       "who": "Lia",
+       "en": "That's cool!",
+       "es": "¡Qué chévere!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-l7",
+   "title": "7. salary, I'm a nurse, I work in a hospital…",
+   "focus": "reading",
+   "newItems": [
+    "u18.salary",
+    "u18.i-m-a-nurse",
+    "u18.i-work-in-a-hospital",
+    "u18.i-work-from-home"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.salary",
+      "u18.i-m-a-nurse"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.i-work-in-a-hospital",
+      "u18.i-work-from-home"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.salary",
+      "u18.i-m-a-nurse",
+      "u18.i-work-in-a-hospital",
+      "u18.i-work-from-home"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.salary",
+      "u18.i-m-a-nurse",
+      "u18.i-work-in-a-hospital",
+      "u18.i-work-from-home"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.i-m-a-nurse",
+      "u18.i-work-in-a-hospital"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.manager",
+      "u18.boss",
+      "u18.office",
+      "u18.factory",
+      "u18.store",
+      "u18.job"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-l8",
+   "title": "8. I'm looking for a job, I love my job, help people…",
+   "focus": "listening",
+   "newItems": [
+    "u18.i-m-looking-for-a-job",
+    "u18.i-love-my-job",
+    "u18.help-people",
+    "u18.build"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u18.i-m-looking-for-a-job",
+      "u18.i-love-my-job"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u18.help-people",
+      "u18.build"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.i-m-looking-for-a-job",
+      "u18.i-love-my-job",
+      "u18.help-people",
+      "u18.build"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.i-m-looking-for-a-job",
+      "u18.i-love-my-job",
+      "u18.help-people",
+      "u18.build"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.i-m-looking-for-a-job",
+      "u18.i-love-my-job"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.store",
+      "u18.job",
+      "u18.salary",
+      "u18.i-m-a-nurse",
+      "u18.i-work-in-a-hospital",
+      "u18.i-work-from-home"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u18-trabajos-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La familia Gómez",
+     "emoji": "👨‍👩‍👧‍👦",
+     "paragraphs": [
+      {
+       "en": "Everyone in the Gómez family works, but they all have different jobs.",
+       "es": "Todos en la familia Gómez trabajan, pero todos tienen trabajos diferentes."
+      },
+      {
+       "en": "Mr. Gómez is a mechanic. He fixes cars in a small garage.",
+       "es": "El señor Gómez es mecánico. Arregla carros en un taller pequeño."
+      },
+      {
+       "en": "Mrs. Gómez is a teacher. She teaches math at a big school.",
+       "es": "La señora Gómez es profesora. Enseña matemáticas en un colegio grande."
+      },
+      {
+       "en": "Their son Andrés is an engineer. He builds bridges.",
+       "es": "Su hijo Andrés es ingeniero. Construye puentes."
+      },
+      {
+       "en": "Their daughter Sofía is a designer. She works from home.",
+       "es": "Su hija Sofía es diseñadora. Trabaja desde casa."
+      },
+      {
+       "en": "And their grandmother? She is a farmer. She has coffee plants!",
+       "es": "¿Y la abuela? Es agricultora. ¡Tiene matas de café!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué hace el señor Gómez?",
+       "options": [
+        "Es profesor",
+        "Es mecánico",
+        "Es ingeniero"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Quién trabaja desde casa?",
+       "options": [
+        "Andrés",
+        "Sofía",
+        "La abuela"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué cultiva la abuela?",
+       "options": [
+        "Café",
+        "Maíz",
+        "Papa"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Entrevista de trabajo",
+     "scene": "💼 Te entrevistan para trabajar en un restaurante.",
+     "turns": [
+      {
+       "who": "Manager",
+       "en": "Nice to meet you. Are you a waiter?",
+       "es": "Mucho gusto. ¿Usted es mesero?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I am. I'm a waiter.",
+         "es": "Sí. Soy mesero.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I'm waiter.",
+         "es": "Sí, soy mesero.",
+         "ok": false,
+         "why": "Falta el artículo: \"a waiter\"."
+        }
+       ]
+      },
+      {
+       "who": "Manager",
+       "en": "Where do you work now?",
+       "es": "¿Dónde trabaja ahora?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I work in a hotel.",
+         "es": "Trabajo en un hotel.",
+         "ok": true
+        },
+        {
+         "en": "I works in a hotel.",
+         "es": "Yo trabaja en un hotel.",
+         "ok": false,
+         "why": "Con I el verbo no lleva -s."
+        }
+       ]
+      },
+      {
+       "who": "Manager",
+       "en": "Why do you want this job?",
+       "es": "¿Por qué quiere este trabajo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I love restaurants and I like helping people.",
+         "es": "Me encantan los restaurantes y me gusta ayudar a la gente.",
+         "ok": true
+        },
+        {
+         "en": "I don't like people.",
+         "es": "No me gusta la gente.",
+         "ok": false,
+         "why": "No es buena idea en una entrevista."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Soy ingeniero.",
+     "en": "I'm an engineer.",
+     "accept": [
+      "I am an engineer."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ella trabaja en una oficina.",
+     "en": "She works in an office."
+    },
+    {
+     "type": "write",
+     "es": "Estoy buscando trabajo.",
+     "en": "I'm looking for a job.",
+     "accept": [
+      "I am looking for a job."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "My mother is a nurse.",
+     "es": "Mi mamá es enfermera."
+    },
+    {
+     "type": "dictation",
+     "en": "He works from home.",
+     "es": "Él trabaja desde casa."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u18.salary",
+      "u18.i-m-a-nurse",
+      "u18.i-work-in-a-hospital",
+      "u18.i-work-from-home",
+      "u18.i-m-looking-for-a-job",
+      "u18.i-love-my-job",
+      "u18.help-people",
+      "u18.build"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

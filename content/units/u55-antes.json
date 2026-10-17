@@ -1,0 +1,1545 @@
+{
+ "_generated": true,
+ "id": "u55-antes",
+ "level": "B1",
+ "title": "Antes y ahora",
+ "emoji": "📼",
+ "canDo": "Ya puedo comparar cómo era mi vida antes y cómo es ahora",
+ "summary": "used to para hábitos y estados del pasado, y would para recuerdos repetidos.",
+ "grammar": [
+  "Used to / didn't use to",
+  "would para hábitos del pasado"
+ ],
+ "items": [
+  {
+   "id": "u55.used-to",
+   "en": "used to",
+   "es": "solía / antes (hacía)",
+   "kind": "chunk",
+   "emoji": "📼",
+   "say": "iúst tu"
+  },
+  {
+   "id": "u55.didn-t-use-to",
+   "en": "didn't use to",
+   "es": "antes no (hacía)",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u55.did-you-use-to",
+   "en": "Did you use to…?",
+   "es": "¿Antes solías…?",
+   "kind": "chunk",
+   "emoji": "❔"
+  },
+  {
+   "id": "u55.would-past-habit",
+   "en": "would",
+   "es": "solía (recuerdos)",
+   "kind": "word",
+   "emoji": "🕰️",
+   "tip": "Aquí con el sentido de: past habit."
+  },
+  {
+   "id": "u55.nowadays",
+   "en": "nowadays",
+   "es": "hoy en día",
+   "kind": "word",
+   "emoji": "📱",
+   "say": "náu-a-deis"
+  },
+  {
+   "id": "u55.in-the-past",
+   "en": "in the past",
+   "es": "en el pasado",
+   "kind": "chunk",
+   "emoji": "⏪"
+  },
+  {
+   "id": "u55.back-then",
+   "en": "back then",
+   "es": "en ese entonces",
+   "kind": "chunk",
+   "emoji": "🕰️"
+  },
+  {
+   "id": "u55.at-that-time",
+   "en": "at that time",
+   "es": "en esa época",
+   "kind": "chunk",
+   "emoji": "⌛"
+  },
+  {
+   "id": "u55.when-i-was-young",
+   "en": "when I was young",
+   "es": "cuando era joven",
+   "kind": "chunk",
+   "emoji": "🧒"
+  },
+  {
+   "id": "u55.decade",
+   "en": "decade",
+   "es": "década",
+   "kind": "word",
+   "emoji": "🔟",
+   "say": "dé-keid"
+  },
+  {
+   "id": "u55.century",
+   "en": "century",
+   "es": "siglo",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "sén-chu-ri"
+  },
+  {
+   "id": "u55.generation",
+   "en": "generation",
+   "es": "generación",
+   "kind": "word",
+   "emoji": "👨‍👩‍👧",
+   "say": "ye-ne-réi-shon"
+  },
+  {
+   "id": "u55.memories",
+   "en": "memories",
+   "es": "recuerdos",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "mé-mo-ris"
+  },
+  {
+   "id": "u55.nostalgic",
+   "en": "nostalgic",
+   "es": "nostálgico",
+   "kind": "word",
+   "emoji": "🥹",
+   "say": "nos-tál-yik"
+  },
+  {
+   "id": "u55.toy",
+   "en": "toy",
+   "es": "juguete",
+   "kind": "word",
+   "emoji": "🧸",
+   "say": "tói"
+  },
+  {
+   "id": "u55.marbles",
+   "en": "marbles",
+   "es": "canicas",
+   "kind": "word",
+   "emoji": "🔵",
+   "say": "már-bols"
+  },
+  {
+   "id": "u55.hide-and-seek",
+   "en": "hide and seek",
+   "es": "escondite",
+   "kind": "chunk",
+   "emoji": "🙈"
+  },
+  {
+   "id": "u55.cassette",
+   "en": "cassette",
+   "es": "casete",
+   "kind": "word",
+   "emoji": "📼",
+   "say": "ka-sét"
+  },
+  {
+   "id": "u55.record-player",
+   "en": "record player",
+   "es": "tocadiscos",
+   "kind": "chunk",
+   "emoji": "💿"
+  },
+  {
+   "id": "u55.typewriter",
+   "en": "typewriter",
+   "es": "máquina de escribir",
+   "kind": "word",
+   "emoji": "⌨️",
+   "say": "táip-rai-ter"
+  },
+  {
+   "id": "u55.landline",
+   "en": "landline",
+   "es": "teléfono fijo",
+   "kind": "word",
+   "emoji": "☎️",
+   "say": "lánd-lain"
+  },
+  {
+   "id": "u55.phone-booth",
+   "en": "phone booth",
+   "es": "cabina telefónica",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u55.encyclopedia",
+   "en": "encyclopedia",
+   "es": "enciclopedia",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "en-sai-klo-píi-di-a"
+  },
+  {
+   "id": "u55.black-and-white",
+   "en": "black and white",
+   "es": "blanco y negro",
+   "kind": "chunk",
+   "emoji": "⚫⚪"
+  },
+  {
+   "id": "u55.neighborhood",
+   "en": "neighborhood",
+   "es": "barrio",
+   "kind": "word",
+   "emoji": "🏘️",
+   "say": "néi-bor-jud"
+  },
+  {
+   "id": "u55.countryside",
+   "en": "countryside",
+   "es": "campo",
+   "kind": "word",
+   "emoji": "🌾",
+   "say": "kán-tri-said"
+  },
+  {
+   "id": "u55.farm",
+   "en": "farm",
+   "es": "finca / granja",
+   "kind": "word",
+   "emoji": "🚜",
+   "say": "farm"
+  },
+  {
+   "id": "u55.move-away",
+   "en": "move away",
+   "es": "irse a vivir lejos",
+   "kind": "chunk",
+   "emoji": "🚚"
+  },
+  {
+   "id": "u55.be-into",
+   "en": "be into",
+   "es": "estar metido en / gustar mucho",
+   "kind": "chunk",
+   "emoji": "💖"
+  },
+  {
+   "id": "u55.skinny",
+   "en": "skinny",
+   "es": "flaco",
+   "kind": "word",
+   "emoji": "🥢",
+   "say": "skí-ni"
+  },
+  {
+   "id": "u55.chubby",
+   "en": "chubby",
+   "es": "gordito",
+   "kind": "word",
+   "emoji": "🍩",
+   "say": "chá-bi"
+  },
+  {
+   "id": "u55.spoiled",
+   "en": "spoiled",
+   "es": "consentido / malcriado",
+   "kind": "word",
+   "emoji": "👑",
+   "say": "spóild"
+  },
+  {
+   "id": "u55.strict",
+   "en": "strict",
+   "es": "estricto",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "strikt"
+  },
+  {
+   "id": "u55.naughty",
+   "en": "naughty",
+   "es": "travieso",
+   "kind": "word",
+   "emoji": "😈",
+   "say": "nó-ti"
+  },
+  {
+   "id": "u55.obedient",
+   "en": "obedient",
+   "es": "obediente",
+   "kind": "word",
+   "emoji": "😇",
+   "say": "o-bíi-di-ent"
+  },
+  {
+   "id": "u55.convenient",
+   "en": "convenient",
+   "es": "práctico / conveniente",
+   "kind": "word",
+   "emoji": "👌",
+   "say": "kon-víi-ni-ent"
+  },
+  {
+   "id": "u55.simple-life",
+   "en": "simple life",
+   "es": "vida sencilla",
+   "kind": "chunk",
+   "emoji": "🍃"
+  },
+  {
+   "id": "u55.technology-changed-everything",
+   "en": "technology changed everything",
+   "es": "la tecnología lo cambió todo",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u55.things-were-different",
+   "en": "things were different",
+   "es": "las cosas eran diferentes",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u55.i-miss-those-days",
+   "en": "I miss those days",
+   "es": "Extraño esos días",
+   "kind": "chunk",
+   "emoji": "🥺"
+  },
+  {
+   "id": "u55.life-is-easier-now",
+   "en": "Life is easier now",
+   "es": "La vida es más fácil ahora",
+   "kind": "chunk",
+   "emoji": "😌"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u55-antes-l1",
+   "title": "1. used to, didn't use to, Did you use to…?…",
+   "focus": "listening",
+   "newItems": [
+    "u55.used-to",
+    "u55.didn-t-use-to",
+    "u55.did-you-use-to",
+    "u55.would-past-habit"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.used-to",
+      "u55.didn-t-use-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.did-you-use-to",
+      "u55.would-past-habit"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.used-to",
+      "u55.didn-t-use-to",
+      "u55.did-you-use-to",
+      "u55.would-past-habit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.used-to",
+      "u55.didn-t-use-to",
+      "u55.did-you-use-to",
+      "u55.would-past-habit"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.used-to",
+      "u55.didn-t-use-to",
+      "u55.did-you-use-to",
+      "u55.would-past-habit"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l2",
+   "title": "2. nowadays, in the past, back then…",
+   "focus": "grammar",
+   "newItems": [
+    "u55.nowadays",
+    "u55.in-the-past",
+    "u55.back-then",
+    "u55.at-that-time"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.nowadays",
+      "u55.in-the-past"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.back-then",
+      "u55.at-that-time"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.nowadays",
+      "u55.in-the-past",
+      "u55.back-then",
+      "u55.at-that-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.nowadays",
+      "u55.in-the-past",
+      "u55.back-then",
+      "u55.at-that-time"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.nowadays",
+      "u55.in-the-past",
+      "u55.back-then",
+      "u55.at-that-time"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.used-to",
+      "u55.didn-t-use-to",
+      "u55.did-you-use-to",
+      "u55.would-past-habit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "used to",
+     "intro": "Estas personas hablan de cosas que ANTES eran así y ya no.",
+     "examples": [
+      {
+       "en": "I used to play marbles every afternoon.",
+       "es": "Antes jugaba canicas todas las tardes.",
+       "mark": [
+        "used to"
+       ]
+      },
+      {
+       "en": "My grandparents used to live on a farm.",
+       "es": "Mis abuelos vivían en una finca.",
+       "mark": [
+        "used to"
+       ]
+      },
+      {
+       "en": "She used to be very shy. Now she's very confident.",
+       "es": "Antes era muy tímida. Ahora es muy segura.",
+       "mark": [
+        "used to"
+       ]
+      },
+      {
+       "en": "I didn't use to like vegetables.",
+       "es": "Antes no me gustaban las verduras.",
+       "mark": [
+        "didn't use to"
+       ]
+      },
+      {
+       "en": "Did you use to have a landline?",
+       "es": "¿Antes tenías teléfono fijo?",
+       "mark": [
+        "use to"
+       ]
+      }
+     ],
+     "question": "¿Para qué se usa used to?",
+     "options": [
+      "Hábitos o estados del pasado que ya no son así",
+      "Planes para el futuro",
+      "Cosas que pasan ahora"
+     ],
+     "answer": 0,
+     "rule": "used to + verbo = 'antes + pasado imperfecto' (jugaba, vivía, era). Habla de algo que ya no pasa. En negativo y preguntas pierde la d: didn't use to, Did you use to…? would también sirve para recuerdos repetidos (not estados): Every Sunday we would visit grandma.",
+     "ruleExamples": [
+      {
+       "en": "When I was a child, we would play outside until dark. We didn't use to have phones.",
+       "es": "Cuando era niño, jugábamos afuera hasta que oscurecía. No teníamos celulares."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I ___ live in Cali, but now I live in Pasto.",
+     "options": [
+      "used to",
+      "use to"
+     ],
+     "answer": 0,
+     "es": "Antes vivía en Cali, pero ahora vivo en Pasto."
+    },
+    {
+     "type": "fill",
+     "en": "She didn't ___ to wear glasses.",
+     "options": [
+      "use",
+      "used"
+     ],
+     "answer": 0,
+     "es": "Antes no usaba gafas."
+    },
+    {
+     "type": "fill",
+     "en": "___ you use to play hide and seek?",
+     "options": [
+      "Did",
+      "Do"
+     ],
+     "answer": 0,
+     "es": "¿Antes jugabas escondite?"
+    },
+    {
+     "type": "fill",
+     "en": "People ___ to write letters. Now they send emails.",
+     "options": [
+      "used",
+      "were"
+     ],
+     "answer": 0,
+     "es": "Antes la gente escribía cartas. Ahora manda correos."
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l3",
+   "title": "3. when I was young, decade, century…",
+   "focus": "reading",
+   "newItems": [
+    "u55.when-i-was-young",
+    "u55.decade",
+    "u55.century",
+    "u55.generation"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.when-i-was-young",
+      "u55.decade"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.century",
+      "u55.generation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.when-i-was-young",
+      "u55.decade",
+      "u55.century",
+      "u55.generation"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.when-i-was-young",
+      "u55.decade",
+      "u55.century",
+      "u55.generation"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.when-i-was-young",
+      "u55.decade",
+      "u55.century",
+      "u55.generation"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.did-you-use-to",
+      "u55.would-past-habit",
+      "u55.nowadays",
+      "u55.in-the-past",
+      "u55.back-then",
+      "u55.at-that-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l4",
+   "title": "4. memories, nostalgic, toy…",
+   "focus": "listening",
+   "newItems": [
+    "u55.memories",
+    "u55.nostalgic",
+    "u55.toy",
+    "u55.marbles"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.memories",
+      "u55.nostalgic"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.toy",
+      "u55.marbles"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.memories",
+      "u55.nostalgic",
+      "u55.toy",
+      "u55.marbles"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.memories",
+      "u55.nostalgic",
+      "u55.toy",
+      "u55.marbles"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.memories",
+      "u55.nostalgic",
+      "u55.toy",
+      "u55.marbles"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.back-then",
+      "u55.at-that-time",
+      "u55.when-i-was-young",
+      "u55.decade",
+      "u55.century",
+      "u55.generation"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l5",
+   "title": "5. hide and seek, cassette, record player…",
+   "focus": "listening",
+   "newItems": [
+    "u55.hide-and-seek",
+    "u55.cassette",
+    "u55.record-player",
+    "u55.typewriter"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.hide-and-seek",
+      "u55.cassette"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.record-player",
+      "u55.typewriter"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.hide-and-seek",
+      "u55.cassette",
+      "u55.record-player",
+      "u55.typewriter"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.hide-and-seek",
+      "u55.cassette",
+      "u55.record-player",
+      "u55.typewriter"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.hide-and-seek",
+      "u55.cassette",
+      "u55.record-player",
+      "u55.typewriter"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.century",
+      "u55.generation",
+      "u55.memories",
+      "u55.nostalgic",
+      "u55.toy",
+      "u55.marbles"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l6",
+   "title": "6. landline, phone booth, encyclopedia…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u55.landline",
+    "u55.phone-booth",
+    "u55.encyclopedia",
+    "u55.black-and-white"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.landline",
+      "u55.phone-booth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.encyclopedia",
+      "u55.black-and-white"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.landline",
+      "u55.phone-booth",
+      "u55.encyclopedia",
+      "u55.black-and-white"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.landline",
+      "u55.phone-booth",
+      "u55.encyclopedia",
+      "u55.black-and-white"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.landline",
+      "u55.phone-booth",
+      "u55.encyclopedia",
+      "u55.black-and-white"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.toy",
+      "u55.marbles",
+      "u55.hide-and-seek",
+      "u55.cassette",
+      "u55.record-player",
+      "u55.typewriter"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l7",
+   "title": "7. neighborhood, countryside, farm…",
+   "focus": "reading",
+   "newItems": [
+    "u55.neighborhood",
+    "u55.countryside",
+    "u55.farm",
+    "u55.move-away"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.neighborhood",
+      "u55.countryside"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.farm",
+      "u55.move-away"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.neighborhood",
+      "u55.countryside",
+      "u55.farm",
+      "u55.move-away"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.neighborhood",
+      "u55.countryside",
+      "u55.farm",
+      "u55.move-away"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.neighborhood",
+      "u55.countryside",
+      "u55.farm",
+      "u55.move-away"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.record-player",
+      "u55.typewriter",
+      "u55.landline",
+      "u55.phone-booth",
+      "u55.encyclopedia",
+      "u55.black-and-white"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l8",
+   "title": "8. be into, skinny, chubby…",
+   "focus": "listening",
+   "newItems": [
+    "u55.be-into",
+    "u55.skinny",
+    "u55.chubby",
+    "u55.spoiled"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.be-into",
+      "u55.skinny"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.chubby",
+      "u55.spoiled"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.be-into",
+      "u55.skinny",
+      "u55.chubby",
+      "u55.spoiled"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.be-into",
+      "u55.skinny",
+      "u55.chubby",
+      "u55.spoiled"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.be-into",
+      "u55.skinny",
+      "u55.chubby",
+      "u55.spoiled"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.encyclopedia",
+      "u55.black-and-white",
+      "u55.neighborhood",
+      "u55.countryside",
+      "u55.farm",
+      "u55.move-away"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Hablando con la abuela",
+     "scene": "👵 Le preguntas a tu abuela por su juventud.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Grandma, what did you use to do on weekends when you were young?",
+       "es": "Abuela, ¿qué solías hacer los fines de semana cuando eras joven?"
+      },
+      {
+       "who": "Grandma",
+       "en": "We used to go dancing at the town square. There was always music.",
+       "es": "Íbamos a bailar a la plaza del pueblo. Siempre había música."
+      },
+      {
+       "who": "You",
+       "en": "Did you use to have a TV?",
+       "es": "¿Tenían televisor?"
+      },
+      {
+       "who": "Grandma",
+       "en": "No! Only a radio. We would listen to soap operas every night.",
+       "es": "¡No! Solo un radio. Escuchábamos radionovelas todas las noches."
+      },
+      {
+       "who": "You",
+       "en": "Life was very different.",
+       "es": "La vida era muy diferente."
+      },
+      {
+       "who": "Grandma",
+       "en": "Yes. It was simpler. Sometimes I miss those days.",
+       "es": "Sí. Era más sencilla. A veces extraño esos días."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l9",
+   "title": "9. strict, naughty, obedient…",
+   "focus": "listening",
+   "newItems": [
+    "u55.strict",
+    "u55.naughty",
+    "u55.obedient",
+    "u55.convenient"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.strict",
+      "u55.naughty"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.obedient",
+      "u55.convenient"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.strict",
+      "u55.naughty",
+      "u55.obedient",
+      "u55.convenient"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.strict",
+      "u55.naughty",
+      "u55.obedient",
+      "u55.convenient"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.strict",
+      "u55.naughty",
+      "u55.obedient",
+      "u55.convenient"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.farm",
+      "u55.move-away",
+      "u55.be-into",
+      "u55.skinny",
+      "u55.chubby",
+      "u55.spoiled"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l10",
+   "title": "10. simple life, technology changed everything, things were different…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u55.simple-life",
+    "u55.technology-changed-everything",
+    "u55.things-were-different",
+    "u55.i-miss-those-days"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.simple-life",
+      "u55.technology-changed-everything"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u55.things-were-different",
+      "u55.i-miss-those-days"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.simple-life",
+      "u55.technology-changed-everything",
+      "u55.things-were-different",
+      "u55.i-miss-those-days"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.simple-life",
+      "u55.technology-changed-everything",
+      "u55.things-were-different",
+      "u55.i-miss-those-days"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.simple-life",
+      "u55.technology-changed-everything",
+      "u55.things-were-different",
+      "u55.i-miss-those-days"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.chubby",
+      "u55.spoiled",
+      "u55.strict",
+      "u55.naughty",
+      "u55.obedient",
+      "u55.convenient"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-l11",
+   "title": "11. Life is easier now",
+   "focus": "reading",
+   "newItems": [
+    "u55.life-is-easier-now"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u55.life-is-easier-now"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.life-is-easier-now"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.life-is-easier-now"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.life-is-easier-now"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.obedient",
+      "u55.convenient",
+      "u55.simple-life",
+      "u55.technology-changed-everything",
+      "u55.things-were-different",
+      "u55.i-miss-those-days"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u55-antes-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Mi barrio de antes",
+     "emoji": "🏘️",
+     "paragraphs": [
+      {
+       "en": "Twenty years ago my neighborhood was very different.",
+       "es": "Hace veinte años mi barrio era muy diferente."
+      },
+      {
+       "en": "There used to be a big empty field where the children played football every afternoon.",
+       "es": "Antes había un gran potrero donde los niños jugaban fútbol todas las tardes."
+      },
+      {
+       "en": "Everybody knew each other. Neighbors would bring food when someone was sick.",
+       "es": "Todos se conocían. Los vecinos llevaban comida cuando alguien estaba enfermo."
+      },
+      {
+       "en": "There didn't use to be any traffic, and you could hear birds in the morning.",
+       "es": "Antes no había tráfico y se oían los pájaros en la mañana."
+      },
+      {
+       "en": "Nowadays there's a shopping mall instead of the field, and the streets are noisy.",
+       "es": "Hoy en día hay un centro comercial en vez del potrero, y las calles son ruidosas."
+      },
+      {
+       "en": "Life is more convenient now, but I still miss the old neighborhood.",
+       "es": "La vida es más práctica ahora, pero todavía extraño el barrio de antes."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué había antes en el barrio?",
+       "options": [
+        "Un centro comercial",
+        "Un potrero donde jugaban fútbol",
+        "Una iglesia"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hacían los vecinos cuando alguien se enfermaba?",
+       "options": [
+        "Nada",
+        "Llevaban comida",
+        "Llamaban al médico"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hay ahora en lugar del potrero?",
+       "options": [
+        "Un parque",
+        "Un centro comercial",
+        "Una escuela"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "¿Cómo eras de niño?",
+     "scene": "👶 Una amiga nueva te pregunta por tu infancia.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "What were you like as a child?",
+       "es": "¿Cómo eras de niño?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I used to be very naughty! I always got into trouble.",
+         "es": "¡Era muy travieso! Siempre me metía en problemas.",
+         "ok": true
+        },
+        {
+         "en": "I use to be naughty tomorrow.",
+         "es": "Suelo ser travieso mañana.",
+         "ok": false,
+         "why": "\"used to\" es para el pasado."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Ha ha! Did you use to play sports?",
+       "es": "¡Ja ja! ¿Hacías deporte?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I used to play basketball every day after school.",
+         "es": "Sí, jugaba baloncesto todos los días después del colegio.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I didn't used to play.",
+         "es": "Sí, antes no jugaba.",
+         "ok": false,
+         "why": "Contradictorio y se dice \"didn't use to\"."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Do you still play?",
+       "es": "¿Todavía juegas?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Not anymore. Now I prefer running.",
+         "es": "Ya no. Ahora prefiero correr.",
+         "ok": true
+        },
+        {
+         "en": "I used to still play now.",
+         "es": "Solía todavía jugar ahora.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Antes vivía en el campo.",
+     "en": "I used to live in the countryside.",
+     "accept": [
+      "I used to live in the country."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Antes no me gustaba el café.",
+     "en": "I didn't use to like coffee.",
+     "accept": [
+      "I did not use to like coffee."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Hoy en día todo el mundo tiene celular.",
+     "en": "Nowadays everybody has a phone.",
+     "accept": [
+      "Nowadays everyone has a phone.",
+      "Nowadays everybody has a cell phone."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "My grandparents used to live on a farm.",
+     "es": "Mis abuelos vivían en una finca."
+    },
+    {
+     "type": "dictation",
+     "en": "Did you use to play hide and seek?",
+     "es": "¿Antes jugabas escondite?"
+    },
+    {
+     "type": "speak",
+     "en": "When I was a child, I used to play football every afternoon.",
+     "es": "Cuando era niño, jugaba fútbol todas las tardes.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u55.naughty",
+      "u55.obedient",
+      "u55.convenient",
+      "u55.simple-life",
+      "u55.technology-changed-everything",
+      "u55.things-were-different",
+      "u55.i-miss-those-days",
+      "u55.life-is-easier-now"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

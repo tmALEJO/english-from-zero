@@ -1,0 +1,1784 @@
+{
+ "_generated": true,
+ "id": "u63-precision",
+ "level": "B2",
+ "title": "Describir con precisión",
+ "emoji": "🔬",
+ "canDo": "Ya puedo describir personas, objetos y procesos con detalle y precisión",
+ "summary": "Relativas no definitorias, compuestos y adjetivos precisos para descripciones de nivel avanzado.",
+ "grammar": [
+  "Relativas no definitorias (con comas)",
+  "Orden de adjetivos",
+  "Adjetivos compuestos"
+ ],
+ "items": [
+  {
+   "id": "u63.which-non-defining",
+   "en": "which",
+   "es": "lo cual / el cual",
+   "kind": "word",
+   "emoji": "🔗",
+   "tip": "Aquí con el sentido de: non-defining."
+  },
+  {
+   "id": "u63.whom",
+   "en": "whom",
+   "es": "a quien",
+   "kind": "word",
+   "emoji": "👤",
+   "say": "juum"
+  },
+  {
+   "id": "u63.whereby",
+   "en": "whereby",
+   "es": "por el cual",
+   "kind": "word",
+   "emoji": "⚙️",
+   "say": "uer-bái"
+  },
+  {
+   "id": "u63.appearance",
+   "en": "appearance",
+   "es": "apariencia",
+   "kind": "word",
+   "emoji": "🪞",
+   "say": "a-pí-rans"
+  },
+  {
+   "id": "u63.personality",
+   "en": "personality",
+   "es": "personalidad",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "per-so-ná-li-ti"
+  },
+  {
+   "id": "u63.features",
+   "en": "features",
+   "es": "rasgos",
+   "kind": "word",
+   "emoji": "👃",
+   "say": "fíi-chers"
+  },
+  {
+   "id": "u63.height",
+   "en": "height",
+   "es": "estatura",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "jáit"
+  },
+  {
+   "id": "u63.slim",
+   "en": "slim",
+   "es": "delgado (atractivo)",
+   "kind": "word",
+   "emoji": "🧍",
+   "say": "slim"
+  },
+  {
+   "id": "u63.overweight",
+   "en": "overweight",
+   "es": "con sobrepeso",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "ou-ver-uéit"
+  },
+  {
+   "id": "u63.muscular",
+   "en": "muscular",
+   "es": "musculoso",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "más-kiu-lar"
+  },
+  {
+   "id": "u63.wrinkles",
+   "en": "wrinkles",
+   "es": "arrugas",
+   "kind": "word",
+   "emoji": "👵",
+   "say": "rín-kols"
+  },
+  {
+   "id": "u63.freckles",
+   "en": "freckles",
+   "es": "pecas",
+   "kind": "word",
+   "emoji": "🌟",
+   "say": "fré-kols"
+  },
+  {
+   "id": "u63.bald",
+   "en": "bald",
+   "es": "calvo",
+   "kind": "word",
+   "emoji": "👨‍🦲",
+   "say": "bold"
+  },
+  {
+   "id": "u63.ponytail",
+   "en": "ponytail",
+   "es": "cola de caballo",
+   "kind": "word",
+   "emoji": "💁",
+   "say": "póu-ni-teil"
+  },
+  {
+   "id": "u63.fringe",
+   "en": "fringe",
+   "es": "flequillo / capul",
+   "kind": "word",
+   "emoji": "💇",
+   "say": "frinch"
+  },
+  {
+   "id": "u63.tattoo",
+   "en": "tattoo",
+   "es": "tatuaje",
+   "kind": "word",
+   "emoji": "🐉",
+   "say": "ta-túu"
+  },
+  {
+   "id": "u63.scar",
+   "en": "scar",
+   "es": "cicatriz",
+   "kind": "word",
+   "emoji": "🩹",
+   "say": "skar"
+  },
+  {
+   "id": "u63.pale",
+   "en": "pale",
+   "es": "pálido",
+   "kind": "word",
+   "emoji": "😶",
+   "say": "péil"
+  },
+  {
+   "id": "u63.tanned",
+   "en": "tanned",
+   "es": "bronceado",
+   "kind": "word",
+   "emoji": "🏖️",
+   "say": "tand"
+  },
+  {
+   "id": "u63.good-looking",
+   "en": "good-looking",
+   "es": "atractivo",
+   "kind": "word",
+   "emoji": "😎"
+  },
+  {
+   "id": "u63.well-dressed",
+   "en": "well-dressed",
+   "es": "bien vestido",
+   "kind": "word",
+   "emoji": "🤵"
+  },
+  {
+   "id": "u63.easy-going",
+   "en": "easy-going",
+   "es": "relajado / tranquilo",
+   "kind": "word",
+   "emoji": "😌"
+  },
+  {
+   "id": "u63.open-minded",
+   "en": "open-minded",
+   "es": "de mente abierta",
+   "kind": "word",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u63.narrow-minded",
+   "en": "narrow-minded",
+   "es": "cerrado de mente",
+   "kind": "word",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u63.self-confident",
+   "en": "self-confident",
+   "es": "seguro de sí mismo",
+   "kind": "word",
+   "emoji": "😎"
+  },
+  {
+   "id": "u63.short-tempered",
+   "en": "short-tempered",
+   "es": "de mal genio",
+   "kind": "word",
+   "emoji": "😠"
+  },
+  {
+   "id": "u63.absent-minded",
+   "en": "absent-minded",
+   "es": "despistado",
+   "kind": "word",
+   "emoji": "🤪"
+  },
+  {
+   "id": "u63.hard-headed",
+   "en": "hard-headed",
+   "es": "terco",
+   "kind": "word",
+   "emoji": "🐂"
+  },
+  {
+   "id": "u63.ambitious",
+   "en": "ambitious",
+   "es": "ambicioso",
+   "kind": "word",
+   "emoji": "🧗",
+   "say": "am-bí-shos"
+  },
+  {
+   "id": "u63.stubborn",
+   "en": "stubborn",
+   "es": "terco",
+   "kind": "word",
+   "emoji": "🐐",
+   "say": "stá-born"
+  },
+  {
+   "id": "u63.sensitive",
+   "en": "sensitive",
+   "es": "sensible",
+   "kind": "word",
+   "emoji": "🌸",
+   "say": "sén-si-tiv"
+  },
+  {
+   "id": "u63.sensible",
+   "en": "sensible",
+   "es": "sensato",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "sén-si-bol",
+   "tip": "¡Falso amigo! No es \"sensible\"."
+  },
+  {
+   "id": "u63.moody",
+   "en": "moody",
+   "es": "temperamental / cambiante",
+   "kind": "word",
+   "emoji": "🌦️",
+   "say": "múu-di"
+  },
+  {
+   "id": "u63.outgoing",
+   "en": "outgoing",
+   "es": "extrovertido",
+   "kind": "word",
+   "emoji": "🎉",
+   "say": "áut-gou-ing"
+  },
+  {
+   "id": "u63.introverted",
+   "en": "introverted",
+   "es": "introvertido",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "in-tro-vér-ted"
+  },
+  {
+   "id": "u63.curious",
+   "en": "curious",
+   "es": "curioso",
+   "kind": "word",
+   "emoji": "🧐",
+   "say": "kiú-ri-os"
+  },
+  {
+   "id": "u63.witty",
+   "en": "witty",
+   "es": "ingenioso",
+   "kind": "word",
+   "emoji": "😏",
+   "say": "uí-ti"
+  },
+  {
+   "id": "u63.arrogant",
+   "en": "arrogant",
+   "es": "arrogante",
+   "kind": "word",
+   "emoji": "🙄",
+   "say": "á-ro-gant"
+  },
+  {
+   "id": "u63.humble",
+   "en": "humble",
+   "es": "humilde",
+   "kind": "word",
+   "emoji": "🙇",
+   "say": "jám-bol"
+  },
+  {
+   "id": "u63.shape",
+   "en": "shape",
+   "es": "forma",
+   "kind": "word",
+   "emoji": "🔷",
+   "say": "shéip"
+  },
+  {
+   "id": "u63.round",
+   "en": "round",
+   "es": "redondo",
+   "kind": "word",
+   "emoji": "⚪",
+   "say": "ráund"
+  },
+  {
+   "id": "u63.square-shape",
+   "en": "square",
+   "es": "cuadrado",
+   "kind": "word",
+   "emoji": "⬛",
+   "tip": "Aquí con el sentido de: shape."
+  },
+  {
+   "id": "u63.oval",
+   "en": "oval",
+   "es": "ovalado",
+   "kind": "word",
+   "emoji": "🥚",
+   "say": "óu-val"
+  },
+  {
+   "id": "u63.rough",
+   "en": "rough",
+   "es": "áspero",
+   "kind": "word",
+   "emoji": "🪨",
+   "say": "raf"
+  },
+  {
+   "id": "u63.smooth",
+   "en": "smooth",
+   "es": "suave / liso",
+   "kind": "word",
+   "emoji": "🫧",
+   "say": "smuud"
+  },
+  {
+   "id": "u63.soft",
+   "en": "soft",
+   "es": "blando / suave",
+   "kind": "word",
+   "emoji": "🧸",
+   "say": "soft"
+  },
+  {
+   "id": "u63.hard-texture",
+   "en": "hard",
+   "es": "duro",
+   "kind": "word",
+   "tip": "Aquí con el sentido de: texture."
+  },
+  {
+   "id": "u63.shiny",
+   "en": "shiny",
+   "es": "brillante",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "shái-ni"
+  },
+  {
+   "id": "u63.transparent",
+   "en": "transparent",
+   "es": "transparente",
+   "kind": "word",
+   "emoji": "🔍",
+   "say": "trans-pé-rent"
+  },
+  {
+   "id": "u63.striped",
+   "en": "striped",
+   "es": "de rayas",
+   "kind": "word",
+   "emoji": "🦓",
+   "say": "stráipt"
+  },
+  {
+   "id": "u63.spotted",
+   "en": "spotted",
+   "es": "de puntos / manchado",
+   "kind": "word",
+   "emoji": "🐆",
+   "say": "spó-ted"
+  },
+  {
+   "id": "u63.plain",
+   "en": "plain",
+   "es": "liso / sencillo",
+   "kind": "word",
+   "emoji": "⬜",
+   "say": "pléin"
+  },
+  {
+   "id": "u63.vintage",
+   "en": "vintage",
+   "es": "antiguo / de época",
+   "kind": "word",
+   "emoji": "📻",
+   "say": "vín-tich"
+  },
+  {
+   "id": "u63.handmade",
+   "en": "handmade",
+   "es": "hecho a mano",
+   "kind": "word",
+   "emoji": "🧶",
+   "say": "jand-méid"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u63-precision-l1",
+   "title": "1. which, whom, whereby…",
+   "focus": "listening",
+   "newItems": [
+    "u63.which-non-defining",
+    "u63.whom",
+    "u63.whereby",
+    "u63.appearance",
+    "u63.personality"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.which-non-defining",
+      "u63.whom"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.whereby",
+      "u63.appearance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.personality"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.which-non-defining",
+      "u63.whom",
+      "u63.whereby",
+      "u63.appearance",
+      "u63.personality"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.which-non-defining",
+      "u63.whom",
+      "u63.whereby",
+      "u63.appearance",
+      "u63.personality"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.which-non-defining",
+      "u63.whom",
+      "u63.whereby",
+      "u63.appearance",
+      "u63.personality"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l2",
+   "title": "2. features, height, slim…",
+   "focus": "grammar",
+   "newItems": [
+    "u63.features",
+    "u63.height",
+    "u63.slim",
+    "u63.overweight",
+    "u63.muscular"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.features",
+      "u63.height"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.slim",
+      "u63.overweight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.muscular"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.features",
+      "u63.height",
+      "u63.slim",
+      "u63.overweight",
+      "u63.muscular"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.features",
+      "u63.height",
+      "u63.slim",
+      "u63.overweight",
+      "u63.muscular"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.features",
+      "u63.height",
+      "u63.slim",
+      "u63.overweight",
+      "u63.muscular"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.which-non-defining",
+      "u63.whom",
+      "u63.whereby",
+      "u63.appearance",
+      "u63.personality"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Relativas con comas",
+     "intro": "Compara las frases con y sin comas.",
+     "examples": [
+      {
+       "en": "My brother who lives in Cali is a doctor. (tengo varios hermanos)",
+       "es": "Mi hermano que vive en Cali es médico.",
+       "mark": [
+        "who"
+       ]
+      },
+      {
+       "en": "My mother, who is sixty, still runs every day. (solo tengo una mamá)",
+       "es": "Mi mamá, que tiene sesenta años, todavía corre todos los días.",
+       "mark": [
+        "",
+        "who"
+       ]
+      },
+      {
+       "en": "Bogotá, which is the capital, has eight million people.",
+       "es": "Bogotá, que es la capital, tiene ocho millones de habitantes.",
+       "mark": [
+        "",
+        "which"
+       ]
+      },
+      {
+       "en": "He failed the exam, which surprised everybody.",
+       "es": "Perdió el examen, lo cual sorprendió a todos.",
+       "mark": [
+        "",
+        "which"
+       ]
+      },
+      {
+       "en": "The man to whom I spoke was very kind.",
+       "es": "El señor con quien hablé fue muy amable.",
+       "mark": [
+        "whom"
+       ]
+      }
+     ],
+     "question": "¿Para qué sirven las comas en estas relativas?",
+     "options": [
+      "Para dar información extra, no necesaria para identificar",
+      "Para preguntar",
+      "No sirven para nada"
+     ],
+     "answer": 0,
+     "rule": "Las RELATIVAS NO DEFINITORIAS van entre comas y añaden información extra (si la quitas, la frase sigue clara). En ellas NO se puede usar that, solo who / which / where / whose. ', which' puede referirse a toda la idea anterior (lo cual). whom es la forma formal de who como objeto.",
+     "ruleExamples": [
+      {
+       "en": "My grandfather, whose house is in the countryside, has a vintage car.",
+       "es": "Mi abuelo, cuya casa queda en el campo, tiene un carro antiguo."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Medellín, ___ is known for its weather, is a beautiful city.",
+     "options": [
+      "which",
+      "that"
+     ],
+     "answer": 0,
+     "es": "Medellín, que es conocida por su clima, es una ciudad hermosa."
+    },
+    {
+     "type": "fill",
+     "en": "My boss, ___ is very easy-going, let us leave early.",
+     "options": [
+      "who",
+      "which"
+     ],
+     "answer": 0,
+     "es": "Mi jefe, que es muy relajado, nos dejó salir temprano."
+    },
+    {
+     "type": "fill",
+     "en": "She arrived late, ___ made the teacher angry.",
+     "options": [
+      "which",
+      "that"
+     ],
+     "answer": 0,
+     "es": "Llegó tarde, lo cual enojó al profesor."
+    },
+    {
+     "type": "fill",
+     "en": "He's very ___. He always makes good decisions.",
+     "options": [
+      "sensible",
+      "sensitive"
+     ],
+     "answer": 0,
+     "es": "Es muy sensato. Siempre toma buenas decisiones."
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l3",
+   "title": "3. wrinkles, freckles, bald…",
+   "focus": "reading",
+   "newItems": [
+    "u63.wrinkles",
+    "u63.freckles",
+    "u63.bald",
+    "u63.ponytail",
+    "u63.fringe"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.wrinkles",
+      "u63.freckles"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.bald",
+      "u63.ponytail"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.fringe"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.wrinkles",
+      "u63.freckles",
+      "u63.bald",
+      "u63.ponytail",
+      "u63.fringe"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.wrinkles",
+      "u63.freckles",
+      "u63.bald",
+      "u63.ponytail",
+      "u63.fringe"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.wrinkles",
+      "u63.freckles",
+      "u63.bald",
+      "u63.ponytail",
+      "u63.fringe"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.personality",
+      "u63.features",
+      "u63.height",
+      "u63.slim",
+      "u63.overweight",
+      "u63.muscular"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l4",
+   "title": "4. tattoo, scar, pale…",
+   "focus": "listening",
+   "newItems": [
+    "u63.tattoo",
+    "u63.scar",
+    "u63.pale",
+    "u63.tanned",
+    "u63.good-looking"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.tattoo",
+      "u63.scar"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.pale",
+      "u63.tanned"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.good-looking"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.tattoo",
+      "u63.scar",
+      "u63.pale",
+      "u63.tanned",
+      "u63.good-looking"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.tattoo",
+      "u63.scar",
+      "u63.pale",
+      "u63.tanned",
+      "u63.good-looking"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.tattoo",
+      "u63.scar",
+      "u63.pale",
+      "u63.tanned",
+      "u63.good-looking"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.muscular",
+      "u63.wrinkles",
+      "u63.freckles",
+      "u63.bald",
+      "u63.ponytail",
+      "u63.fringe"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l5",
+   "title": "5. well-dressed, easy-going, open-minded…",
+   "focus": "listening",
+   "newItems": [
+    "u63.well-dressed",
+    "u63.easy-going",
+    "u63.open-minded",
+    "u63.narrow-minded",
+    "u63.self-confident"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.well-dressed",
+      "u63.easy-going"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.open-minded",
+      "u63.narrow-minded"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.self-confident"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.well-dressed",
+      "u63.easy-going",
+      "u63.open-minded",
+      "u63.narrow-minded",
+      "u63.self-confident"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.well-dressed",
+      "u63.easy-going",
+      "u63.open-minded",
+      "u63.narrow-minded",
+      "u63.self-confident"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.well-dressed",
+      "u63.easy-going",
+      "u63.open-minded",
+      "u63.narrow-minded",
+      "u63.self-confident"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.fringe",
+      "u63.tattoo",
+      "u63.scar",
+      "u63.pale",
+      "u63.tanned",
+      "u63.good-looking"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l6",
+   "title": "6. short-tempered, absent-minded, hard-headed…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u63.short-tempered",
+    "u63.absent-minded",
+    "u63.hard-headed",
+    "u63.ambitious",
+    "u63.stubborn"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.short-tempered",
+      "u63.absent-minded"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.hard-headed",
+      "u63.ambitious"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.stubborn"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.short-tempered",
+      "u63.absent-minded",
+      "u63.hard-headed",
+      "u63.ambitious",
+      "u63.stubborn"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.short-tempered",
+      "u63.absent-minded",
+      "u63.hard-headed",
+      "u63.ambitious",
+      "u63.stubborn"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.short-tempered",
+      "u63.absent-minded",
+      "u63.hard-headed",
+      "u63.ambitious",
+      "u63.stubborn"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.good-looking",
+      "u63.well-dressed",
+      "u63.easy-going",
+      "u63.open-minded",
+      "u63.narrow-minded",
+      "u63.self-confident"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l7",
+   "title": "7. sensitive, sensible, moody…",
+   "focus": "reading",
+   "newItems": [
+    "u63.sensitive",
+    "u63.sensible",
+    "u63.moody",
+    "u63.outgoing",
+    "u63.introverted"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.sensitive",
+      "u63.sensible"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.moody",
+      "u63.outgoing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.introverted"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.sensitive",
+      "u63.sensible",
+      "u63.moody",
+      "u63.outgoing",
+      "u63.introverted"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.sensitive",
+      "u63.sensible",
+      "u63.moody",
+      "u63.outgoing",
+      "u63.introverted"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.sensitive",
+      "u63.sensible",
+      "u63.moody",
+      "u63.outgoing",
+      "u63.introverted"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.self-confident",
+      "u63.short-tempered",
+      "u63.absent-minded",
+      "u63.hard-headed",
+      "u63.ambitious",
+      "u63.stubborn"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🎨",
+     "title": "Orden de los adjetivos",
+     "text": "Cuando usas varios, el orden natural es: opinión → tamaño → edad → forma → color → origen → material → sustantivo. Ej.: a beautiful small old round brown Italian wooden table. En la práctica usa dos o tres: a lovely old wooden table."
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l8",
+   "title": "8. curious, witty, arrogant…",
+   "focus": "listening",
+   "newItems": [
+    "u63.curious",
+    "u63.witty",
+    "u63.arrogant",
+    "u63.humble",
+    "u63.shape"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.curious",
+      "u63.witty"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.arrogant",
+      "u63.humble"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.shape"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.curious",
+      "u63.witty",
+      "u63.arrogant",
+      "u63.humble",
+      "u63.shape"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.curious",
+      "u63.witty",
+      "u63.arrogant",
+      "u63.humble",
+      "u63.shape"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.curious",
+      "u63.witty",
+      "u63.arrogant",
+      "u63.humble",
+      "u63.shape"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.stubborn",
+      "u63.sensitive",
+      "u63.sensible",
+      "u63.moody",
+      "u63.outgoing",
+      "u63.introverted"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l9",
+   "title": "9. round, square, oval…",
+   "focus": "listening",
+   "newItems": [
+    "u63.round",
+    "u63.square-shape",
+    "u63.oval",
+    "u63.rough",
+    "u63.smooth"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.round",
+      "u63.square-shape"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.oval",
+      "u63.rough"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.smooth"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.round",
+      "u63.square-shape",
+      "u63.oval",
+      "u63.rough",
+      "u63.smooth"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.round",
+      "u63.square-shape",
+      "u63.oval",
+      "u63.rough",
+      "u63.smooth"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.round",
+      "u63.square-shape",
+      "u63.oval",
+      "u63.rough",
+      "u63.smooth"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.introverted",
+      "u63.curious",
+      "u63.witty",
+      "u63.arrogant",
+      "u63.humble",
+      "u63.shape"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Describir a un sospechoso",
+     "scene": "🕵️ Hablas con la policía después de un robo en tu tienda.",
+     "lines": [
+      {
+       "who": "Officer",
+       "en": "Can you describe the man?",
+       "es": "¿Puede describir al hombre?"
+      },
+      {
+       "who": "You",
+       "en": "He was tall and slim, with short dark hair and a beard.",
+       "es": "Era alto y delgado, de pelo corto oscuro y barba."
+      },
+      {
+       "who": "Officer",
+       "en": "Any special features?",
+       "es": "¿Algún rasgo especial?"
+      },
+      {
+       "who": "You",
+       "en": "He had a tattoo on his neck, which looked like a snake, and a scar on his left cheek.",
+       "es": "Tenía un tatuaje en el cuello, que parecía una serpiente, y una cicatriz en la mejilla izquierda."
+      },
+      {
+       "who": "Officer",
+       "en": "What was he wearing?",
+       "es": "¿Qué llevaba puesto?"
+      },
+      {
+       "who": "You",
+       "en": "A striped shirt and an old leather jacket. He seemed nervous and short-tempered.",
+       "es": "Una camisa de rayas y una chaqueta de cuero vieja. Parecía nervioso y de mal genio."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l10",
+   "title": "10. soft, hard, shiny…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u63.soft",
+    "u63.hard-texture",
+    "u63.shiny",
+    "u63.transparent",
+    "u63.striped"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.soft",
+      "u63.hard-texture"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.shiny",
+      "u63.transparent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.striped"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.soft",
+      "u63.hard-texture",
+      "u63.shiny",
+      "u63.transparent",
+      "u63.striped"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.soft",
+      "u63.hard-texture",
+      "u63.shiny",
+      "u63.transparent",
+      "u63.striped"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.soft",
+      "u63.hard-texture",
+      "u63.shiny",
+      "u63.transparent",
+      "u63.striped"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.shape",
+      "u63.round",
+      "u63.square-shape",
+      "u63.oval",
+      "u63.rough",
+      "u63.smooth"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-l11",
+   "title": "11. spotted, plain, vintage…",
+   "focus": "reading",
+   "newItems": [
+    "u63.spotted",
+    "u63.plain",
+    "u63.vintage",
+    "u63.handmade"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u63.spotted",
+      "u63.plain"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u63.vintage",
+      "u63.handmade"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.spotted",
+      "u63.plain",
+      "u63.vintage",
+      "u63.handmade"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.spotted",
+      "u63.plain",
+      "u63.vintage",
+      "u63.handmade"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.spotted",
+      "u63.plain",
+      "u63.vintage",
+      "u63.handmade"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.smooth",
+      "u63.soft",
+      "u63.hard-texture",
+      "u63.shiny",
+      "u63.transparent",
+      "u63.striped"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u63-precision-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El reloj del abuelo",
+     "emoji": "⌚",
+     "paragraphs": [
+      {
+       "en": "On my desk there is a small, old, round silver watch, which belonged to my grandfather.",
+       "es": "En mi escritorio hay un reloj pequeño, viejo, redondo y de plata, que perteneció a mi abuelo."
+      },
+      {
+       "en": "It's not very valuable, but it's the most important object I own.",
+       "es": "No es muy valioso, pero es el objeto más importante que tengo."
+      },
+      {
+       "en": "My grandfather, who was a humble and witty man, bought it in 1965 with his first salary.",
+       "es": "Mi abuelo, que era un hombre humilde e ingenioso, lo compró en 1965 con su primer salario."
+      },
+      {
+       "en": "The glass is scratched and the leather strap is soft and worn, but it still works perfectly.",
+       "es": "El vidrio está rayado y la correa de cuero está blanda y gastada, pero todavía funciona perfectamente."
+      },
+      {
+       "en": "Every time I look at it, I remember his open-minded advice and his easy-going smile.",
+       "es": "Cada vez que lo miro, recuerdo sus consejos de mente abierta y su sonrisa tranquila."
+      },
+      {
+       "en": "Objects, which seem so simple, can keep the memories of a whole life.",
+       "es": "Los objetos, que parecen tan sencillos, pueden guardar los recuerdos de toda una vida."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿De qué material es el reloj?",
+       "options": [
+        "De oro",
+        "De plata",
+        "De plástico"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuándo lo compró el abuelo?",
+       "options": [
+        "En 1965 con su primer salario",
+        "En un viaje",
+        "Se lo regalaron"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cómo era el abuelo?",
+       "options": [
+        "Humilde e ingenioso",
+        "Arrogante y terco",
+        "Tímido y triste"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Vender algo en internet",
+     "scene": "📦 Un comprador te pregunta por una lámpara que publicaste.",
+     "turns": [
+      {
+       "who": "Buyer",
+       "en": "Hi! Can you describe the lamp a bit more?",
+       "es": "¡Hola! ¿Puedes describir un poco más la lámpara?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sure. It's a vintage brass lamp, which my aunt bought in Spain.",
+         "es": "Claro. Es una lámpara antigua de bronce, que mi tía compró en España.",
+         "ok": true
+        },
+        {
+         "en": "Sure. It's a lamp that, which is old.",
+         "es": "Claro. Es una lámpara que, la cual es vieja.",
+         "ok": false,
+         "why": "Usa un solo relativo."
+        }
+       ]
+      },
+      {
+       "who": "Buyer",
+       "en": "Is it in good condition?",
+       "es": "¿Está en buen estado?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes. The metal is a bit rough in one place, but it works perfectly.",
+         "es": "Sí. El metal está un poco áspero en una parte, pero funciona perfectamente.",
+         "ok": true
+        },
+        {
+         "en": "Yes, it's very sensible.",
+         "es": "Sí, es muy sensata.",
+         "ok": false,
+         "why": "\"Sensible\" es para personas sensatas."
+        }
+       ]
+      },
+      {
+       "who": "Buyer",
+       "en": "Great. Is it handmade?",
+       "es": "Genial. ¿Es hecha a mano?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, it was made by a local artisan, whose family has made lamps for generations.",
+         "es": "Sí, la hizo un artesano local, cuya familia ha hecho lámparas por generaciones.",
+         "ok": true
+        },
+        {
+         "en": "Yes, it was made by an artisan who his family makes lamps.",
+         "es": "Sí, por un artesano quien su familia hace lámparas.",
+         "ok": false,
+         "why": "Para posesión se usa \"whose\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Mi mamá, que tiene sesenta años, todavía trabaja.",
+     "en": "My mother, who is sixty, still works.",
+     "accept": [
+      "My mom, who is sixty, still works."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Llegó tarde, lo cual molestó al jefe.",
+     "en": "He arrived late, which annoyed the boss.",
+     "accept": [
+      "She arrived late, which annoyed the boss.",
+      "He arrived late, which upset the boss."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es una persona muy sensata.",
+     "en": "He's a very sensible person.",
+     "accept": [
+      "She's a very sensible person.",
+      "He is a very sensible person.",
+      "She is a very sensible person."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Bogotá, which is the capital, has about eight million people.",
+     "es": "Bogotá, que es la capital, tiene unos ocho millones de habitantes."
+    },
+    {
+     "type": "dictation",
+     "en": "She's open-minded, ambitious and very reliable.",
+     "es": "Es de mente abierta, ambiciosa y muy confiable."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u63.hard-texture",
+      "u63.shiny",
+      "u63.transparent",
+      "u63.striped",
+      "u63.spotted",
+      "u63.plain",
+      "u63.vintage",
+      "u63.handmade"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1338 @@
+{
+ "_generated": true,
+ "id": "u23-pasado-be",
+ "level": "A2",
+ "title": "¿Dónde estabas?",
+ "emoji": "🕰️",
+ "canDo": "Ya puedo decir dónde estuve y cómo estuvo",
+ "summary": "El pasado del verbo to be (was / were) para hablar de ayer, el fin de semana o tu infancia.",
+ "grammar": [
+  "Pasado de to be: was / were"
+ ],
+ "items": [
+  {
+   "id": "u23.was",
+   "en": "was",
+   "es": "fue / estuvo / era (I, he, she, it)",
+   "kind": "word",
+   "emoji": "⏪",
+   "say": "uós"
+  },
+  {
+   "id": "u23.were",
+   "en": "were",
+   "es": "fueron / estuvieron / eran (you, we, they)",
+   "kind": "word",
+   "emoji": "⏪",
+   "say": "uér"
+  },
+  {
+   "id": "u23.wasn-t",
+   "en": "wasn't",
+   "es": "no fue / no estuvo",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "uó-sent"
+  },
+  {
+   "id": "u23.weren-t",
+   "en": "weren't",
+   "es": "no fueron / no estuvieron",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "uérnt"
+  },
+  {
+   "id": "u23.last-night",
+   "en": "last night",
+   "es": "anoche",
+   "kind": "chunk",
+   "emoji": "🌙",
+   "say": "last náit"
+  },
+  {
+   "id": "u23.last-week",
+   "en": "last week",
+   "es": "la semana pasada",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u23.last-year",
+   "en": "last year",
+   "es": "el año pasado",
+   "kind": "chunk",
+   "emoji": "🗓️"
+  },
+  {
+   "id": "u23.two-days-ago",
+   "en": "two days ago",
+   "es": "hace dos días",
+   "kind": "chunk",
+   "emoji": "⏮️",
+   "say": "tu déis a-góu"
+  },
+  {
+   "id": "u23.when-i-was-a-child",
+   "en": "when I was a child",
+   "es": "cuando era niño",
+   "kind": "chunk",
+   "emoji": "🧒"
+  },
+  {
+   "id": "u23.born",
+   "en": "born",
+   "es": "nacido",
+   "kind": "word",
+   "emoji": "👶",
+   "say": "born"
+  },
+  {
+   "id": "u23.i-was-born-in-2002",
+   "en": "I was born in 2002",
+   "es": "Nací en 2002",
+   "kind": "chunk",
+   "emoji": "🎂"
+  },
+  {
+   "id": "u23.where-were-you",
+   "en": "Where were you?",
+   "es": "¿Dónde estabas?",
+   "kind": "chunk",
+   "emoji": "📍"
+  },
+  {
+   "id": "u23.how-was-your-weekend",
+   "en": "How was your weekend?",
+   "es": "¿Qué tal tu fin de semana?",
+   "kind": "chunk",
+   "emoji": "🛋️"
+  },
+  {
+   "id": "u23.it-was-fun",
+   "en": "It was fun",
+   "es": "Fue divertido",
+   "kind": "chunk",
+   "emoji": "🎉"
+  },
+  {
+   "id": "u23.it-was-terrible",
+   "en": "It was terrible",
+   "es": "Fue terrible",
+   "kind": "chunk",
+   "emoji": "😖",
+   "say": "its uós té-ri-bol"
+  },
+  {
+   "id": "u23.crowded",
+   "en": "crowded",
+   "es": "lleno de gente",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "kráu-ded"
+  },
+  {
+   "id": "u23.empty",
+   "en": "empty",
+   "es": "vacío",
+   "kind": "word",
+   "emoji": "🫙",
+   "say": "émp-ti"
+  },
+  {
+   "id": "u23.noisy",
+   "en": "noisy",
+   "es": "ruidoso",
+   "kind": "word",
+   "emoji": "🔊",
+   "say": "nói-si"
+  },
+  {
+   "id": "u23.expensive",
+   "en": "expensive",
+   "es": "caro",
+   "kind": "word",
+   "emoji": "💸"
+  },
+  {
+   "id": "u23.delicious",
+   "en": "delicious",
+   "es": "delicioso",
+   "kind": "word",
+   "emoji": "😋"
+  },
+  {
+   "id": "u23.excited",
+   "en": "excited",
+   "es": "emocionado",
+   "kind": "word",
+   "emoji": "🤩",
+   "say": "ek-sái-ted"
+  },
+  {
+   "id": "u23.worried",
+   "en": "worried",
+   "es": "preocupado",
+   "kind": "word",
+   "emoji": "😟",
+   "say": "uó-rid"
+  },
+  {
+   "id": "u23.surprised",
+   "en": "surprised",
+   "es": "sorprendido",
+   "kind": "word",
+   "emoji": "😲",
+   "say": "sur-práisd"
+  },
+  {
+   "id": "u23.proud",
+   "en": "proud",
+   "es": "orgulloso",
+   "kind": "word",
+   "emoji": "🦁",
+   "say": "práud"
+  },
+  {
+   "id": "u23.lucky",
+   "en": "lucky",
+   "es": "con suerte",
+   "kind": "word",
+   "emoji": "🍀",
+   "say": "lá-ki"
+  },
+  {
+   "id": "u23.concert",
+   "en": "concert",
+   "es": "concierto",
+   "kind": "word",
+   "emoji": "🎸",
+   "say": "kón-sert"
+  },
+  {
+   "id": "u23.party",
+   "en": "party",
+   "es": "fiesta",
+   "kind": "word",
+   "emoji": "🥳",
+   "say": "pár-ti"
+  },
+  {
+   "id": "u23.wedding",
+   "en": "wedding",
+   "es": "boda",
+   "kind": "word",
+   "emoji": "💒",
+   "say": "ué-ding"
+  },
+  {
+   "id": "u23.holiday",
+   "en": "holiday",
+   "es": "día festivo / vacaciones",
+   "kind": "word",
+   "emoji": "🏖️",
+   "say": "jó-li-dei"
+  },
+  {
+   "id": "u23.trip",
+   "en": "trip",
+   "es": "viaje (corto)",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "trip"
+  },
+  {
+   "id": "u23.childhood",
+   "en": "childhood",
+   "es": "infancia",
+   "kind": "word",
+   "emoji": "🪁",
+   "say": "cháild-jud"
+  },
+  {
+   "id": "u23.neighbor",
+   "en": "neighbor",
+   "es": "vecino",
+   "kind": "word",
+   "emoji": "🏘️",
+   "say": "néi-bor"
+  },
+  {
+   "id": "u23.classmate",
+   "en": "classmate",
+   "es": "compañero de clase",
+   "kind": "word",
+   "emoji": "🧑‍🎓",
+   "say": "klás-meit"
+  },
+  {
+   "id": "u23.teacher-s-pet",
+   "en": "teacher's pet",
+   "es": "el consentido del profesor",
+   "kind": "chunk",
+   "emoji": "🍎"
+  },
+  {
+   "id": "u23.village",
+   "en": "village",
+   "es": "pueblo",
+   "kind": "word",
+   "emoji": "🏡",
+   "say": "ví-lich"
+  },
+  {
+   "id": "u23.town",
+   "en": "town",
+   "es": "pueblo / ciudad pequeña",
+   "kind": "word",
+   "emoji": "🏘️",
+   "say": "táun"
+  },
+  {
+   "id": "u23.city",
+   "en": "city",
+   "es": "ciudad",
+   "kind": "word",
+   "emoji": "🏙️",
+   "say": "sí-ti"
+  },
+  {
+   "id": "u23.at-home",
+   "en": "at home",
+   "es": "en casa",
+   "kind": "chunk",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u23.at-work",
+   "en": "at work",
+   "es": "en el trabajo",
+   "kind": "chunk",
+   "emoji": "💼"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u23-pasado-be-l1",
+   "title": "1. was, were, wasn't…",
+   "focus": "listening",
+   "newItems": [
+    "u23.was",
+    "u23.were",
+    "u23.wasn-t",
+    "u23.weren-t"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.was",
+      "u23.were"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.wasn-t",
+      "u23.weren-t"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.was",
+      "u23.were",
+      "u23.wasn-t",
+      "u23.weren-t"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.was",
+      "u23.were",
+      "u23.wasn-t",
+      "u23.weren-t"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l2",
+   "title": "2. last night, last week, last year…",
+   "focus": "grammar",
+   "newItems": [
+    "u23.last-night",
+    "u23.last-week",
+    "u23.last-year",
+    "u23.two-days-ago"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.last-night",
+      "u23.last-week"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.last-year",
+      "u23.two-days-ago"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.last-night",
+      "u23.last-week",
+      "u23.last-year",
+      "u23.two-days-ago"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.last-night",
+      "u23.last-week",
+      "u23.last-year",
+      "u23.two-days-ago"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.was",
+      "u23.were",
+      "u23.wasn-t",
+      "u23.weren-t"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "was / were",
+     "intro": "Compara el presente con el pasado de estas frases.",
+     "examples": [
+      {
+       "en": "I am at home. → I was at home last night.",
+       "es": "Estoy en casa. → Estuve en casa anoche.",
+       "mark": [
+        "was"
+       ]
+      },
+      {
+       "en": "She is tired. → She was tired yesterday.",
+       "es": "Está cansada. → Estaba cansada ayer.",
+       "mark": [
+        "was"
+       ]
+      },
+      {
+       "en": "They are happy. → They were happy at the party.",
+       "es": "Están felices. → Estaban felices en la fiesta.",
+       "mark": [
+        "were"
+       ]
+      },
+      {
+       "en": "We are in Bogotá. → We were in Bogotá last week.",
+       "es": "Estamos en Bogotá. → Estuvimos en Bogotá la semana pasada.",
+       "mark": [
+        "were"
+       ]
+      },
+      {
+       "en": "It is cold. → It wasn't cold yesterday.",
+       "es": "Hace frío. → Ayer no hizo frío.",
+       "mark": [
+        "wasn't"
+       ]
+      }
+     ],
+     "question": "¿Qué forma va con they, we y you?",
+     "options": [
+      "was",
+      "were"
+     ],
+     "answer": 1,
+     "rule": "Este es el PASADO DEL VERBO TO BE. am e is cambian a was (I was, she was); are cambia a were (you were, we were, they were). Negativo: wasn't / weren't. Pregunta: Were you…? Was she…?",
+     "ruleExamples": [
+      {
+       "en": "Where were you last night? I was at a concert.",
+       "es": "¿Dónde estabas anoche? Estaba en un concierto."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I ___ at work yesterday.",
+     "options": [
+      "was",
+      "were"
+     ],
+     "answer": 0,
+     "es": "Ayer estuve en el trabajo."
+    },
+    {
+     "type": "fill",
+     "en": "My parents ___ at the wedding.",
+     "options": [
+      "was",
+      "were"
+     ],
+     "answer": 1,
+     "es": "Mis papás estuvieron en la boda."
+    },
+    {
+     "type": "fill",
+     "en": "The concert ___ very crowded.",
+     "options": [
+      "was",
+      "were"
+     ],
+     "answer": 0,
+     "es": "El concierto estaba muy lleno."
+    },
+    {
+     "type": "fill",
+     "en": "___ you at home last night?",
+     "options": [
+      "Was",
+      "Were"
+     ],
+     "answer": 1,
+     "es": "¿Estabas en casa anoche?"
+    },
+    {
+     "type": "fill",
+     "en": "The tickets ___ cheap.",
+     "options": [
+      "wasn't",
+      "weren't"
+     ],
+     "answer": 1,
+     "es": "Los boletos no eran baratos."
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l3",
+   "title": "3. when I was a child, born, I was born in 2002…",
+   "focus": "reading",
+   "newItems": [
+    "u23.when-i-was-a-child",
+    "u23.born",
+    "u23.i-was-born-in-2002",
+    "u23.where-were-you"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.when-i-was-a-child",
+      "u23.born"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.i-was-born-in-2002",
+      "u23.where-were-you"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.when-i-was-a-child",
+      "u23.born",
+      "u23.i-was-born-in-2002",
+      "u23.where-were-you"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.when-i-was-a-child",
+      "u23.born",
+      "u23.i-was-born-in-2002",
+      "u23.where-were-you"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.wasn-t",
+      "u23.weren-t",
+      "u23.last-night",
+      "u23.last-week",
+      "u23.last-year",
+      "u23.two-days-ago"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l4",
+   "title": "4. How was your weekend?, It was fun, It was terrible…",
+   "focus": "listening",
+   "newItems": [
+    "u23.how-was-your-weekend",
+    "u23.it-was-fun",
+    "u23.it-was-terrible",
+    "u23.crowded"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.how-was-your-weekend",
+      "u23.it-was-fun"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.it-was-terrible",
+      "u23.crowded"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.how-was-your-weekend",
+      "u23.it-was-fun",
+      "u23.it-was-terrible",
+      "u23.crowded"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.how-was-your-weekend",
+      "u23.it-was-fun",
+      "u23.it-was-terrible",
+      "u23.crowded"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.last-year",
+      "u23.two-days-ago",
+      "u23.when-i-was-a-child",
+      "u23.born",
+      "u23.i-was-born-in-2002",
+      "u23.where-were-you"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l5",
+   "title": "5. empty, noisy, expensive…",
+   "focus": "listening",
+   "newItems": [
+    "u23.empty",
+    "u23.noisy",
+    "u23.expensive",
+    "u23.delicious"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.empty",
+      "u23.noisy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.expensive",
+      "u23.delicious"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.empty",
+      "u23.noisy",
+      "u23.expensive",
+      "u23.delicious"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.empty",
+      "u23.noisy",
+      "u23.expensive",
+      "u23.delicious"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.i-was-born-in-2002",
+      "u23.where-were-you",
+      "u23.how-was-your-weekend",
+      "u23.it-was-fun",
+      "u23.it-was-terrible",
+      "u23.crowded"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l6",
+   "title": "6. excited, worried, surprised…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u23.excited",
+    "u23.worried",
+    "u23.surprised",
+    "u23.proud"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.excited",
+      "u23.worried"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.surprised",
+      "u23.proud"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.excited",
+      "u23.worried",
+      "u23.surprised",
+      "u23.proud"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.excited",
+      "u23.worried",
+      "u23.surprised",
+      "u23.proud"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.it-was-terrible",
+      "u23.crowded",
+      "u23.empty",
+      "u23.noisy",
+      "u23.expensive",
+      "u23.delicious"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l7",
+   "title": "7. lucky, concert, party…",
+   "focus": "reading",
+   "newItems": [
+    "u23.lucky",
+    "u23.concert",
+    "u23.party",
+    "u23.wedding"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.lucky",
+      "u23.concert"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.party",
+      "u23.wedding"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.lucky",
+      "u23.concert",
+      "u23.party",
+      "u23.wedding"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.lucky",
+      "u23.concert",
+      "u23.party",
+      "u23.wedding"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.expensive",
+      "u23.delicious",
+      "u23.excited",
+      "u23.worried",
+      "u23.surprised",
+      "u23.proud"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l8",
+   "title": "8. holiday, trip, childhood…",
+   "focus": "listening",
+   "newItems": [
+    "u23.holiday",
+    "u23.trip",
+    "u23.childhood",
+    "u23.neighbor"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.holiday",
+      "u23.trip"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.childhood",
+      "u23.neighbor"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.holiday",
+      "u23.trip",
+      "u23.childhood",
+      "u23.neighbor"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.holiday",
+      "u23.trip",
+      "u23.childhood",
+      "u23.neighbor"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.surprised",
+      "u23.proud",
+      "u23.lucky",
+      "u23.concert",
+      "u23.party",
+      "u23.wedding"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "El lunes en la oficina",
+     "scene": "☕ Lunes por la mañana.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "Hi Ben! How was your weekend?",
+       "es": "¡Hola Ben! ¿Qué tal tu fin de semana?"
+      },
+      {
+       "who": "Ben",
+       "en": "It was great! I was in Cartagena with my family.",
+       "es": "¡Estuvo genial! Estuve en Cartagena con mi familia."
+      },
+      {
+       "who": "Ana",
+       "en": "Wow! Was it hot?",
+       "es": "¡Uy! ¿Hacía calor?"
+      },
+      {
+       "who": "Ben",
+       "en": "Yes, it was very hot. And the beach was crowded.",
+       "es": "Sí, hacía mucho calor. Y la playa estaba llena."
+      },
+      {
+       "who": "Ana",
+       "en": "Were the hotels expensive?",
+       "es": "¿Los hoteles eran caros?"
+      },
+      {
+       "who": "Ben",
+       "en": "No, they weren't. We were lucky!",
+       "es": "No. ¡Tuvimos suerte!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l9",
+   "title": "9. classmate, teacher's pet, village…",
+   "focus": "listening",
+   "newItems": [
+    "u23.classmate",
+    "u23.teacher-s-pet",
+    "u23.village",
+    "u23.town"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.classmate",
+      "u23.teacher-s-pet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.village",
+      "u23.town"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.classmate",
+      "u23.teacher-s-pet",
+      "u23.village",
+      "u23.town"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.classmate",
+      "u23.teacher-s-pet",
+      "u23.village",
+      "u23.town"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.party",
+      "u23.wedding",
+      "u23.holiday",
+      "u23.trip",
+      "u23.childhood",
+      "u23.neighbor"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-l10",
+   "title": "10. city, at home, at work",
+   "focus": "vocabulary",
+   "newItems": [
+    "u23.city",
+    "u23.at-home",
+    "u23.at-work"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u23.city",
+      "u23.at-home"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u23.at-work"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.city",
+      "u23.at-home",
+      "u23.at-work"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.city",
+      "u23.at-home",
+      "u23.at-work"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.childhood",
+      "u23.neighbor",
+      "u23.classmate",
+      "u23.teacher-s-pet",
+      "u23.village",
+      "u23.town"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u23-pasado-be-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Cuando mi abuelo era niño",
+     "emoji": "👴",
+     "paragraphs": [
+      {
+       "en": "My grandfather was born in a small village in 1950.",
+       "es": "Mi abuelo nació en un pueblo pequeño en 1950."
+      },
+      {
+       "en": "His house was small, but it was always full of people.",
+       "es": "Su casa era pequeña, pero siempre estaba llena de gente."
+      },
+      {
+       "en": "There were eight children in his family. He was the youngest.",
+       "es": "Eran ocho niños en su familia. Él era el menor."
+      },
+      {
+       "en": "The school was far, and the roads weren't good.",
+       "es": "La escuela quedaba lejos y los caminos no eran buenos."
+      },
+      {
+       "en": "He wasn't a good student, but he was very good at football.",
+       "es": "No era buen estudiante, pero era muy bueno en fútbol."
+      },
+      {
+       "en": "\"Life was difficult, but we were happy,\" he always says.",
+       "es": "\"La vida era difícil, pero éramos felices\", siempre dice."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Dónde nació el abuelo?",
+       "options": [
+        "En una ciudad grande",
+        "En un pueblo pequeño",
+        "En la playa"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuántos niños había en su familia?",
+       "options": [
+        "Tres",
+        "Ocho",
+        "Cinco"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿En qué era bueno?",
+       "options": [
+        "En matemáticas",
+        "En fútbol",
+        "En música"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "¿Dónde estabas?",
+     "scene": "📱 Tu mamá te llama preocupada porque no contestabas.",
+     "turns": [
+      {
+       "who": "Mom",
+       "en": "Where were you? I called you three times!",
+       "es": "¿Dónde estabas? ¡Te llamé tres veces!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sorry, Mom. I was at a concert.",
+         "es": "Perdón, mamá. Estaba en un concierto.",
+         "ok": true
+        },
+        {
+         "en": "Sorry, Mom. I am at a concert yesterday.",
+         "es": "Perdón, mamá. Estoy en un concierto ayer.",
+         "ok": false,
+         "why": "Habla en pasado: \"I was\"."
+        }
+       ]
+      },
+      {
+       "who": "Mom",
+       "en": "A concert? Was it good?",
+       "es": "¿Un concierto? ¿Estuvo bueno?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, it was amazing, but it was very noisy.",
+         "es": "Sí, estuvo increíble, pero era muy ruidoso.",
+         "ok": true
+        },
+        {
+         "en": "Yes, they was amazing.",
+         "es": "Sí, ellos estuvo increíble.",
+         "ok": false,
+         "why": "Con they va \"were\"."
+        }
+       ]
+      },
+      {
+       "who": "Mom",
+       "en": "OK. I was worried!",
+       "es": "Bueno. ¡Estaba preocupada!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm sorry. Next time I'll text you.",
+         "es": "Lo siento. La próxima vez te escribo.",
+         "ok": true
+        },
+        {
+         "en": "You were lucky.",
+         "es": "Tuviste suerte.",
+         "ok": false,
+         "why": "No responde a su preocupación."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Qué tal tu fin de semana?",
+     "en": "How was your weekend?"
+    },
+    {
+     "type": "write",
+     "es": "Estuve en casa anoche.",
+     "en": "I was at home last night."
+    },
+    {
+     "type": "write",
+     "es": "Nací en 2002.",
+     "en": "I was born in 2002."
+    },
+    {
+     "type": "dictation",
+     "en": "Where were you last night?",
+     "es": "¿Dónde estabas anoche?"
+    },
+    {
+     "type": "dictation",
+     "en": "The party was fun, but it was very crowded.",
+     "es": "La fiesta fue divertida, pero estaba muy llena."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u23.neighbor",
+      "u23.classmate",
+      "u23.teacher-s-pet",
+      "u23.village",
+      "u23.town",
+      "u23.city",
+      "u23.at-home",
+      "u23.at-work"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

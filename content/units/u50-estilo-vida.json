@@ -1,0 +1,1706 @@
+{
+ "_generated": true,
+ "id": "u50-estilo-vida",
+ "level": "B1",
+ "title": "Salud y estilo de vida",
+ "emoji": "🥗",
+ "canDo": "Ya puedo hablar de hábitos saludables y dar consejos detallados",
+ "summary": "Hábitos, alimentación, ejercicio y bienestar; el gerundio como sujeto y consejos con should / ought to.",
+ "grammar": [
+  "Gerundio como sujeto: Eating well is important",
+  "It's important to…"
+ ],
+ "items": [
+  {
+   "id": "u50.lifestyle",
+   "en": "lifestyle",
+   "es": "estilo de vida",
+   "kind": "word",
+   "emoji": "🧘"
+  },
+  {
+   "id": "u50.habit",
+   "en": "habit",
+   "es": "hábito",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "já-bit"
+  },
+  {
+   "id": "u50.healthy-habits",
+   "en": "healthy habits",
+   "es": "hábitos saludables",
+   "kind": "chunk",
+   "emoji": "🥦"
+  },
+  {
+   "id": "u50.unhealthy",
+   "en": "unhealthy",
+   "es": "poco saludable",
+   "kind": "word",
+   "emoji": "🍟",
+   "say": "an-jél-zi"
+  },
+  {
+   "id": "u50.diet",
+   "en": "diet",
+   "es": "dieta / alimentación",
+   "kind": "word",
+   "emoji": "🥗",
+   "say": "dái-et"
+  },
+  {
+   "id": "u50.balanced-diet",
+   "en": "balanced diet",
+   "es": "alimentación balanceada",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u50.junk-food",
+   "en": "junk food",
+   "es": "comida chatarra",
+   "kind": "chunk",
+   "emoji": "🍔"
+  },
+  {
+   "id": "u50.vegetables",
+   "en": "vegetables",
+   "es": "verduras",
+   "kind": "word",
+   "emoji": "🥕",
+   "say": "véch-ta-bols"
+  },
+  {
+   "id": "u50.fruit",
+   "en": "fruit",
+   "es": "fruta",
+   "kind": "word",
+   "emoji": "🍎",
+   "say": "fruut"
+  },
+  {
+   "id": "u50.protein",
+   "en": "protein",
+   "es": "proteína",
+   "kind": "word",
+   "emoji": "🍗",
+   "say": "próu-tiin"
+  },
+  {
+   "id": "u50.vitamins",
+   "en": "vitamins",
+   "es": "vitaminas",
+   "kind": "word",
+   "emoji": "💊",
+   "say": "vái-ta-mins"
+  },
+  {
+   "id": "u50.calories",
+   "en": "calories",
+   "es": "calorías",
+   "kind": "word",
+   "emoji": "🔢",
+   "say": "ká-lo-ris"
+  },
+  {
+   "id": "u50.fat",
+   "en": "fat",
+   "es": "grasa / gordo",
+   "kind": "word",
+   "emoji": "🧈",
+   "say": "fat"
+  },
+  {
+   "id": "u50.portion",
+   "en": "portion",
+   "es": "porción",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "pór-shon"
+  },
+  {
+   "id": "u50.skip-meals",
+   "en": "skip meals",
+   "es": "saltarse comidas",
+   "kind": "chunk",
+   "emoji": "⏭️"
+  },
+  {
+   "id": "u50.snack",
+   "en": "snack",
+   "es": "onces / algo de picar",
+   "kind": "word",
+   "emoji": "🍪",
+   "say": "snak"
+  },
+  {
+   "id": "u50.hydrated",
+   "en": "hydrated",
+   "es": "hidratado",
+   "kind": "word",
+   "emoji": "💧",
+   "say": "jái-drei-ted"
+  },
+  {
+   "id": "u50.work-out-gym",
+   "en": "work out",
+   "es": "entrenar en el gimnasio",
+   "kind": "chunk",
+   "emoji": "🏋️",
+   "tip": "Aquí con el sentido de: gym."
+  },
+  {
+   "id": "u50.gym",
+   "en": "gym",
+   "es": "gimnasio",
+   "kind": "word",
+   "emoji": "🏟️",
+   "say": "yim"
+  },
+  {
+   "id": "u50.stretch",
+   "en": "stretch",
+   "es": "estirar",
+   "kind": "word",
+   "emoji": "🤸",
+   "say": "strech"
+  },
+  {
+   "id": "u50.muscle",
+   "en": "muscle",
+   "es": "músculo",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "má-sol",
+   "tip": "La c no suena."
+  },
+  {
+   "id": "u50.fitness",
+   "en": "fitness",
+   "es": "estado físico",
+   "kind": "word",
+   "emoji": "🏃",
+   "say": "fít-nes"
+  },
+  {
+   "id": "u50.get-in-shape",
+   "en": "get in shape",
+   "es": "ponerse en forma",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u50.stay-fit",
+   "en": "stay fit",
+   "es": "mantenerse en forma",
+   "kind": "chunk",
+   "emoji": "✨"
+  },
+  {
+   "id": "u50.weight",
+   "en": "weight",
+   "es": "peso",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "uéit"
+  },
+  {
+   "id": "u50.sleep-well",
+   "en": "sleep well",
+   "es": "dormir bien",
+   "kind": "chunk",
+   "emoji": "😴"
+  },
+  {
+   "id": "u50.get-enough-sleep",
+   "en": "get enough sleep",
+   "es": "dormir lo suficiente",
+   "kind": "chunk",
+   "emoji": "🛌"
+  },
+  {
+   "id": "u50.mental-health",
+   "en": "mental health",
+   "es": "salud mental",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u50.well-being",
+   "en": "well-being",
+   "es": "bienestar",
+   "kind": "word",
+   "emoji": "🌈",
+   "say": "uel-bíi-ing"
+  },
+  {
+   "id": "u50.meditate",
+   "en": "meditate",
+   "es": "meditar",
+   "kind": "word",
+   "emoji": "🧘",
+   "say": "mé-di-teit"
+  },
+  {
+   "id": "u50.breathe",
+   "en": "breathe",
+   "es": "respirar",
+   "kind": "word",
+   "emoji": "🌬️",
+   "say": "bríid"
+  },
+  {
+   "id": "u50.smoke",
+   "en": "smoke",
+   "es": "fumar",
+   "kind": "word",
+   "emoji": "🚬",
+   "say": "smóuk"
+  },
+  {
+   "id": "u50.quit-smoking",
+   "en": "quit smoking",
+   "es": "dejar de fumar",
+   "kind": "chunk",
+   "emoji": "🚭"
+  },
+  {
+   "id": "u50.alcohol",
+   "en": "alcohol",
+   "es": "alcohol",
+   "kind": "word",
+   "emoji": "🍷",
+   "say": "ál-ko-jol"
+  },
+  {
+   "id": "u50.addicted-to",
+   "en": "addicted to",
+   "es": "adicto a",
+   "kind": "chunk",
+   "emoji": "🔗",
+   "say": "a-dík-ted"
+  },
+  {
+   "id": "u50.screen-time",
+   "en": "screen time",
+   "es": "tiempo frente a pantallas",
+   "kind": "chunk",
+   "emoji": "📱"
+  },
+  {
+   "id": "u50.sedentary",
+   "en": "sedentary",
+   "es": "sedentario",
+   "kind": "word",
+   "emoji": "🛋️",
+   "say": "sé-den-te-ri"
+  },
+  {
+   "id": "u50.active",
+   "en": "active",
+   "es": "activo",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "ák-tiv"
+  },
+  {
+   "id": "u50.energy",
+   "en": "energy",
+   "es": "energía",
+   "kind": "word",
+   "emoji": "🔋",
+   "say": "é-ner-yi"
+  },
+  {
+   "id": "u50.routine",
+   "en": "routine",
+   "es": "rutina",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "ru-tíin"
+  },
+  {
+   "id": "u50.balance",
+   "en": "balance",
+   "es": "equilibrio",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "bá-lans"
+  },
+  {
+   "id": "u50.benefit",
+   "en": "benefit",
+   "es": "beneficio",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "bé-ne-fit"
+  },
+  {
+   "id": "u50.improve-your-health",
+   "en": "improve your health",
+   "es": "mejorar tu salud",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u50.reduce-stress",
+   "en": "reduce stress",
+   "es": "reducir el estrés",
+   "kind": "chunk",
+   "emoji": "🧘"
+  },
+  {
+   "id": "u50.take-the-stairs",
+   "en": "take the stairs",
+   "es": "subir por las escaleras",
+   "kind": "chunk",
+   "emoji": "🪜"
+  },
+  {
+   "id": "u50.ought-to",
+   "en": "ought to",
+   "es": "debería (consejo)",
+   "kind": "chunk",
+   "emoji": "🫵",
+   "say": "ót tu"
+  },
+  {
+   "id": "u50.it-s-important-to-sleep-well",
+   "en": "It's important to sleep well",
+   "es": "Es importante dormir bien",
+   "kind": "chunk",
+   "emoji": "😴"
+  },
+  {
+   "id": "u50.eating-well-is-the-key",
+   "en": "Eating well is the key",
+   "es": "Comer bien es la clave",
+   "kind": "chunk",
+   "emoji": "🔑"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u50-estilo-vida-l1",
+   "title": "1. lifestyle, habit, healthy habits…",
+   "focus": "listening",
+   "newItems": [
+    "u50.lifestyle",
+    "u50.habit",
+    "u50.healthy-habits",
+    "u50.unhealthy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.lifestyle",
+      "u50.habit"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.healthy-habits",
+      "u50.unhealthy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.lifestyle",
+      "u50.habit",
+      "u50.healthy-habits",
+      "u50.unhealthy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.lifestyle",
+      "u50.habit",
+      "u50.healthy-habits",
+      "u50.unhealthy"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.lifestyle",
+      "u50.habit",
+      "u50.healthy-habits",
+      "u50.unhealthy"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l2",
+   "title": "2. diet, balanced diet, junk food…",
+   "focus": "grammar",
+   "newItems": [
+    "u50.diet",
+    "u50.balanced-diet",
+    "u50.junk-food",
+    "u50.vegetables"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.diet",
+      "u50.balanced-diet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.junk-food",
+      "u50.vegetables"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.diet",
+      "u50.balanced-diet",
+      "u50.junk-food",
+      "u50.vegetables"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.diet",
+      "u50.balanced-diet",
+      "u50.junk-food",
+      "u50.vegetables"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.diet",
+      "u50.balanced-diet",
+      "u50.junk-food",
+      "u50.vegetables"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.lifestyle",
+      "u50.habit",
+      "u50.healthy-habits",
+      "u50.unhealthy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "El gerundio como sujeto",
+     "intro": "Mira cómo empiezan estas frases. En español usamos el infinitivo.",
+     "examples": [
+      {
+       "en": "Eating vegetables is good for you.",
+       "es": "Comer verduras es bueno para ti.",
+       "mark": [
+        "Eating"
+       ]
+      },
+      {
+       "en": "Sleeping eight hours is important.",
+       "es": "Dormir ocho horas es importante.",
+       "mark": [
+        "Sleeping"
+       ]
+      },
+      {
+       "en": "Smoking is very harmful.",
+       "es": "Fumar es muy dañino.",
+       "mark": [
+        "Smoking"
+       ]
+      },
+      {
+       "en": "Walking every day reduces stress.",
+       "es": "Caminar todos los días reduce el estrés.",
+       "mark": [
+        "Walking"
+       ]
+      },
+      {
+       "en": "It's important to drink water.",
+       "es": "Es importante tomar agua.",
+       "mark": [
+        "It's important to"
+       ]
+      }
+     ],
+     "question": "Cuando una acción es el sujeto de la frase, en inglés se usa…",
+     "options": [
+      "El verbo con -ing",
+      "El verbo con to al principio siempre",
+      "El verbo solo"
+     ],
+     "answer": 0,
+     "rule": "Cuando una actividad es el sujeto, se usa el GERUNDIO (-ing): Swimming is fun (nadar es divertido). Otra forma muy común: It's + adjetivo + to + verbo: It's important to sleep well. ought to = should (un poco más formal).",
+     "ruleExamples": [
+      {
+       "en": "Doing exercise improves your mood. It's a good idea to start slowly.",
+       "es": "Hacer ejercicio mejora tu ánimo. Es buena idea empezar despacio."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ too much sugar is bad for your teeth.",
+     "options": [
+      "Eating",
+      "Eat"
+     ],
+     "answer": 0,
+     "es": "Comer demasiado azúcar es malo para los dientes."
+    },
+    {
+     "type": "fill",
+     "en": "It's important ___ enough sleep.",
+     "options": [
+      "to get",
+      "getting to"
+     ],
+     "answer": 0,
+     "es": "Es importante dormir lo suficiente."
+    },
+    {
+     "type": "fill",
+     "en": "___ is the best way to reduce stress for me.",
+     "options": [
+      "Running",
+      "Run"
+     ],
+     "answer": 0,
+     "es": "Correr es la mejor forma de reducir el estrés para mí."
+    },
+    {
+     "type": "fill",
+     "en": "You ___ to drink more water.",
+     "options": [
+      "ought",
+      "should"
+     ],
+     "answer": 0,
+     "es": "Deberías tomar más agua.",
+     "explain": "\"ought\" siempre va con to."
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l3",
+   "title": "3. fruit, protein, vitamins…",
+   "focus": "reading",
+   "newItems": [
+    "u50.fruit",
+    "u50.protein",
+    "u50.vitamins",
+    "u50.calories"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.fruit",
+      "u50.protein"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.vitamins",
+      "u50.calories"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.fruit",
+      "u50.protein",
+      "u50.vitamins",
+      "u50.calories"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.fruit",
+      "u50.protein",
+      "u50.vitamins",
+      "u50.calories"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.fruit",
+      "u50.protein",
+      "u50.vitamins",
+      "u50.calories"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.healthy-habits",
+      "u50.unhealthy",
+      "u50.diet",
+      "u50.balanced-diet",
+      "u50.junk-food",
+      "u50.vegetables"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l4",
+   "title": "4. fat, portion, skip meals…",
+   "focus": "listening",
+   "newItems": [
+    "u50.fat",
+    "u50.portion",
+    "u50.skip-meals",
+    "u50.snack"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.fat",
+      "u50.portion"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.skip-meals",
+      "u50.snack"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.fat",
+      "u50.portion",
+      "u50.skip-meals",
+      "u50.snack"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.fat",
+      "u50.portion",
+      "u50.skip-meals",
+      "u50.snack"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.fat",
+      "u50.portion",
+      "u50.skip-meals",
+      "u50.snack"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.junk-food",
+      "u50.vegetables",
+      "u50.fruit",
+      "u50.protein",
+      "u50.vitamins",
+      "u50.calories"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l5",
+   "title": "5. hydrated, work out, gym…",
+   "focus": "listening",
+   "newItems": [
+    "u50.hydrated",
+    "u50.work-out-gym",
+    "u50.gym",
+    "u50.stretch"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.hydrated",
+      "u50.work-out-gym"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.gym",
+      "u50.stretch"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.hydrated",
+      "u50.work-out-gym",
+      "u50.gym",
+      "u50.stretch"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.hydrated",
+      "u50.work-out-gym",
+      "u50.gym",
+      "u50.stretch"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.hydrated",
+      "u50.work-out-gym",
+      "u50.gym",
+      "u50.stretch"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.vitamins",
+      "u50.calories",
+      "u50.fat",
+      "u50.portion",
+      "u50.skip-meals",
+      "u50.snack"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l6",
+   "title": "6. muscle, fitness, get in shape…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u50.muscle",
+    "u50.fitness",
+    "u50.get-in-shape",
+    "u50.stay-fit"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.muscle",
+      "u50.fitness"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.get-in-shape",
+      "u50.stay-fit"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.muscle",
+      "u50.fitness",
+      "u50.get-in-shape",
+      "u50.stay-fit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.muscle",
+      "u50.fitness",
+      "u50.get-in-shape",
+      "u50.stay-fit"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.muscle",
+      "u50.fitness",
+      "u50.get-in-shape",
+      "u50.stay-fit"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.skip-meals",
+      "u50.snack",
+      "u50.hydrated",
+      "u50.work-out-gym",
+      "u50.gym",
+      "u50.stretch"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l7",
+   "title": "7. weight, sleep well, get enough sleep…",
+   "focus": "reading",
+   "newItems": [
+    "u50.weight",
+    "u50.sleep-well",
+    "u50.get-enough-sleep",
+    "u50.mental-health"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.weight",
+      "u50.sleep-well"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.get-enough-sleep",
+      "u50.mental-health"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.weight",
+      "u50.sleep-well",
+      "u50.get-enough-sleep",
+      "u50.mental-health"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.weight",
+      "u50.sleep-well",
+      "u50.get-enough-sleep",
+      "u50.mental-health"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.weight",
+      "u50.sleep-well",
+      "u50.get-enough-sleep",
+      "u50.mental-health"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.gym",
+      "u50.stretch",
+      "u50.muscle",
+      "u50.fitness",
+      "u50.get-in-shape",
+      "u50.stay-fit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l8",
+   "title": "8. well-being, meditate, breathe…",
+   "focus": "listening",
+   "newItems": [
+    "u50.well-being",
+    "u50.meditate",
+    "u50.breathe",
+    "u50.smoke"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.well-being",
+      "u50.meditate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.breathe",
+      "u50.smoke"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.well-being",
+      "u50.meditate",
+      "u50.breathe",
+      "u50.smoke"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.well-being",
+      "u50.meditate",
+      "u50.breathe",
+      "u50.smoke"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.well-being",
+      "u50.meditate",
+      "u50.breathe",
+      "u50.smoke"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.get-in-shape",
+      "u50.stay-fit",
+      "u50.weight",
+      "u50.sleep-well",
+      "u50.get-enough-sleep",
+      "u50.mental-health"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l9",
+   "title": "9. quit smoking, alcohol, addicted to…",
+   "focus": "listening",
+   "newItems": [
+    "u50.quit-smoking",
+    "u50.alcohol",
+    "u50.addicted-to",
+    "u50.screen-time"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.quit-smoking",
+      "u50.alcohol"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.addicted-to",
+      "u50.screen-time"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.quit-smoking",
+      "u50.alcohol",
+      "u50.addicted-to",
+      "u50.screen-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.quit-smoking",
+      "u50.alcohol",
+      "u50.addicted-to",
+      "u50.screen-time"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.quit-smoking",
+      "u50.alcohol",
+      "u50.addicted-to",
+      "u50.screen-time"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.get-enough-sleep",
+      "u50.mental-health",
+      "u50.well-being",
+      "u50.meditate",
+      "u50.breathe",
+      "u50.smoke"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Con el entrenador",
+     "scene": "🏋️ Tu primer día en el gimnasio.",
+     "lines": [
+      {
+       "who": "Trainer",
+       "en": "So, what's your goal?",
+       "es": "Entonces, ¿cuál es tu meta?"
+      },
+      {
+       "who": "You",
+       "en": "I want to get in shape and have more energy. I'm very sedentary.",
+       "es": "Quiero ponerme en forma y tener más energía. Soy muy sedentario."
+      },
+      {
+       "who": "Trainer",
+       "en": "OK. Exercising three times a week is a good start.",
+       "es": "Bueno. Hacer ejercicio tres veces por semana es un buen comienzo."
+      },
+      {
+       "who": "You",
+       "en": "What about my diet?",
+       "es": "¿Y mi alimentación?"
+      },
+      {
+       "who": "Trainer",
+       "en": "Eating more vegetables and protein will help. And you ought to reduce junk food.",
+       "es": "Comer más verduras y proteína ayudará. Y deberías reducir la comida chatarra."
+      },
+      {
+       "who": "You",
+       "en": "That's going to be hard!",
+       "es": "¡Eso va a ser difícil!"
+      },
+      {
+       "who": "Trainer",
+       "en": "Don't worry. Changing habits takes time.",
+       "es": "Tranquilo. Cambiar hábitos toma tiempo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l10",
+   "title": "10. sedentary, active, energy…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u50.sedentary",
+    "u50.active",
+    "u50.energy",
+    "u50.routine"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.sedentary",
+      "u50.active"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.energy",
+      "u50.routine"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.sedentary",
+      "u50.active",
+      "u50.energy",
+      "u50.routine"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.sedentary",
+      "u50.active",
+      "u50.energy",
+      "u50.routine"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.sedentary",
+      "u50.active",
+      "u50.energy",
+      "u50.routine"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.breathe",
+      "u50.smoke",
+      "u50.quit-smoking",
+      "u50.alcohol",
+      "u50.addicted-to",
+      "u50.screen-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l11",
+   "title": "11. balance, benefit, improve your health…",
+   "focus": "reading",
+   "newItems": [
+    "u50.balance",
+    "u50.benefit",
+    "u50.improve-your-health",
+    "u50.reduce-stress"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.balance",
+      "u50.benefit"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.improve-your-health",
+      "u50.reduce-stress"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.balance",
+      "u50.benefit",
+      "u50.improve-your-health",
+      "u50.reduce-stress"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.balance",
+      "u50.benefit",
+      "u50.improve-your-health",
+      "u50.reduce-stress"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.balance",
+      "u50.benefit",
+      "u50.improve-your-health",
+      "u50.reduce-stress"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.addicted-to",
+      "u50.screen-time",
+      "u50.sedentary",
+      "u50.active",
+      "u50.energy",
+      "u50.routine"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-l12",
+   "title": "12. take the stairs, ought to, It's important to sleep well…",
+   "focus": "listening",
+   "newItems": [
+    "u50.take-the-stairs",
+    "u50.ought-to",
+    "u50.it-s-important-to-sleep-well",
+    "u50.eating-well-is-the-key"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u50.take-the-stairs",
+      "u50.ought-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u50.it-s-important-to-sleep-well",
+      "u50.eating-well-is-the-key"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.take-the-stairs",
+      "u50.ought-to",
+      "u50.it-s-important-to-sleep-well",
+      "u50.eating-well-is-the-key"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.take-the-stairs",
+      "u50.ought-to",
+      "u50.it-s-important-to-sleep-well",
+      "u50.eating-well-is-the-key"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.take-the-stairs",
+      "u50.ought-to",
+      "u50.it-s-important-to-sleep-well",
+      "u50.eating-well-is-the-key"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.energy",
+      "u50.routine",
+      "u50.balance",
+      "u50.benefit",
+      "u50.improve-your-health",
+      "u50.reduce-stress"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u50-estilo-vida-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Treinta días sin celular en la noche",
+     "emoji": "📵",
+     "paragraphs": [
+      {
+       "en": "Last month Sebastián did an experiment: no screens after nine p.m. for thirty days.",
+       "es": "El mes pasado Sebastián hizo un experimento: nada de pantallas después de las nueve de la noche durante treinta días."
+      },
+      {
+       "en": "He was addicted to his phone. He usually checked social media until one in the morning.",
+       "es": "Era adicto al celular. Normalmente revisaba redes sociales hasta la una de la mañana."
+      },
+      {
+       "en": "The first week was very difficult. He felt bored and anxious.",
+       "es": "La primera semana fue muy difícil. Se sentía aburrido y ansioso."
+      },
+      {
+       "en": "Then he started reading books and meditating before bed.",
+       "es": "Luego empezó a leer libros y a meditar antes de dormir."
+      },
+      {
+       "en": "After two weeks he was sleeping better and he had more energy in the morning.",
+       "es": "Después de dos semanas dormía mejor y tenía más energía en la mañana."
+      },
+      {
+       "en": "\"Reducing screen time changed my life,\" he says. \"My mental health is much better.\"",
+       "es": "\"Reducir el tiempo de pantalla me cambió la vida\", dice. \"Mi salud mental está mucho mejor.\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuál fue el experimento?",
+       "options": [
+        "No comer azúcar",
+        "No usar pantallas después de las 9 p. m.",
+        "Correr todos los días"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo fue la primera semana?",
+       "options": [
+        "Fácil",
+        "Muy difícil",
+        "Aburrida pero fácil"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué mejoró?",
+       "options": [
+        "Su sueño y su energía",
+        "Su salario",
+        "Su inglés"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Aconsejar a tu hermano",
+     "scene": "😩 Tu hermano siempre está cansado.",
+     "turns": [
+      {
+       "who": "Brother",
+       "en": "I'm always tired. I don't know why.",
+       "es": "Siempre estoy cansado. No sé por qué."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "How many hours do you sleep?",
+         "es": "¿Cuántas horas duermes?",
+         "ok": true
+        },
+        {
+         "en": "How many hours do you sleeping?",
+         "es": "¿Cuántas horas tú durmiendo?",
+         "ok": false,
+         "why": "Se dice \"do you sleep\"."
+        }
+       ]
+      },
+      {
+       "who": "Brother",
+       "en": "About five. I play video games until late.",
+       "es": "Como cinco. Juego videojuegos hasta tarde."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That's not enough. Getting eight hours of sleep is really important.",
+         "es": "No es suficiente. Dormir ocho horas es muy importante.",
+         "ok": true
+        },
+        {
+         "en": "Get eight hours is important.",
+         "es": "Dormir ocho horas es importante.",
+         "ok": false,
+         "why": "Como sujeto va el gerundio: \"Getting\"."
+        }
+       ]
+      },
+      {
+       "who": "Brother",
+       "en": "And I skip breakfast.",
+       "es": "Y me salto el desayuno."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "You ought to eat breakfast. It gives you energy for the day.",
+         "es": "Deberías desayunar. Te da energía para el día.",
+         "ok": true
+        },
+        {
+         "en": "You ought eat junk food.",
+         "es": "Deberías comer comida chatarra.",
+         "ok": false,
+         "why": "Mal consejo y falta \"to\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Comer verduras es bueno para la salud.",
+     "en": "Eating vegetables is good for your health.",
+     "accept": [
+      "Eating vegetables is good for you.",
+      "Eating vegetables is healthy."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Es importante dormir bien.",
+     "en": "It's important to sleep well.",
+     "accept": [
+      "It is important to sleep well."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Quiero ponerme en forma.",
+     "en": "I want to get in shape.",
+     "accept": [
+      "I want to get fit."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Smoking is very harmful to your health.",
+     "es": "Fumar es muy dañino para la salud."
+    },
+    {
+     "type": "dictation",
+     "en": "You ought to reduce your screen time.",
+     "es": "Deberías reducir tu tiempo frente a pantallas."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u50.balance",
+      "u50.benefit",
+      "u50.improve-your-health",
+      "u50.reduce-stress",
+      "u50.take-the-stairs",
+      "u50.ought-to",
+      "u50.it-s-important-to-sleep-well",
+      "u50.eating-well-is-the-key"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

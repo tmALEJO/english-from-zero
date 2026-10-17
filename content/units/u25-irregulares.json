@@ -1,0 +1,1381 @@
+{
+ "_generated": true,
+ "id": "u25-irregulares",
+ "level": "A2",
+ "title": "Historias que pasaron",
+ "emoji": "📖",
+ "canDo": "Ya puedo narrar una historia corta en pasado",
+ "summary": "Los verbos irregulares más usados del inglés, aprendidos dentro de historias.",
+ "grammar": [
+  "Verbos irregulares más usados"
+ ],
+ "items": [
+  {
+   "id": "u25.went",
+   "en": "went",
+   "es": "fui / fue (go)",
+   "kind": "word",
+   "emoji": "🚶",
+   "say": "uent"
+  },
+  {
+   "id": "u25.had",
+   "en": "had",
+   "es": "tuve / tuvo (have)",
+   "kind": "word",
+   "emoji": "🤲",
+   "say": "jad"
+  },
+  {
+   "id": "u25.did",
+   "en": "did",
+   "es": "hice / hizo (do)",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "did"
+  },
+  {
+   "id": "u25.made",
+   "en": "made",
+   "es": "hice / preparé (make)",
+   "kind": "word",
+   "emoji": "🛠️",
+   "say": "méid"
+  },
+  {
+   "id": "u25.got",
+   "en": "got",
+   "es": "conseguí / recibí / llegué (get)",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "got"
+  },
+  {
+   "id": "u25.saw",
+   "en": "saw",
+   "es": "vi (see)",
+   "kind": "word",
+   "emoji": "👀",
+   "say": "só"
+  },
+  {
+   "id": "u25.came",
+   "en": "came",
+   "es": "vine / vino (come)",
+   "kind": "word",
+   "emoji": "🏃",
+   "say": "kéim"
+  },
+  {
+   "id": "u25.took",
+   "en": "took",
+   "es": "tomé / llevé (take)",
+   "kind": "word",
+   "emoji": "📸",
+   "say": "tuk"
+  },
+  {
+   "id": "u25.gave",
+   "en": "gave",
+   "es": "di (give)",
+   "kind": "word",
+   "emoji": "🎁",
+   "say": "guéiv"
+  },
+  {
+   "id": "u25.ate",
+   "en": "ate",
+   "es": "comí (eat)",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "éit"
+  },
+  {
+   "id": "u25.drank",
+   "en": "drank",
+   "es": "tomé / bebí (drink)",
+   "kind": "word",
+   "emoji": "🥤",
+   "say": "drank"
+  },
+  {
+   "id": "u25.bought",
+   "en": "bought",
+   "es": "compré (buy)",
+   "kind": "word",
+   "emoji": "🛍️",
+   "say": "bot"
+  },
+  {
+   "id": "u25.found",
+   "en": "found",
+   "es": "encontré (find)",
+   "kind": "word",
+   "emoji": "🔍",
+   "say": "fáund"
+  },
+  {
+   "id": "u25.lost",
+   "en": "lost",
+   "es": "perdí (lose)",
+   "kind": "word",
+   "emoji": "❓",
+   "say": "lost"
+  },
+  {
+   "id": "u25.said",
+   "en": "said",
+   "es": "dije (say)",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "sed"
+  },
+  {
+   "id": "u25.told",
+   "en": "told",
+   "es": "conté / le dije (tell)",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "tóuld"
+  },
+  {
+   "id": "u25.thought",
+   "en": "thought",
+   "es": "pensé (think)",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "zot"
+  },
+  {
+   "id": "u25.knew",
+   "en": "knew",
+   "es": "sabía / conocía (know)",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "niú"
+  },
+  {
+   "id": "u25.met",
+   "en": "met",
+   "es": "conocí (a alguien) / me encontré (meet)",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "met"
+  },
+  {
+   "id": "u25.left",
+   "en": "left",
+   "es": "salí / dejé (leave)",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "left"
+  },
+  {
+   "id": "u25.began",
+   "en": "began",
+   "es": "empecé (begin)",
+   "kind": "word",
+   "emoji": "▶️",
+   "say": "bi-gán"
+  },
+  {
+   "id": "u25.wrote",
+   "en": "wrote",
+   "es": "escribí (write)",
+   "kind": "word",
+   "emoji": "✍️",
+   "say": "róut"
+  },
+  {
+   "id": "u25.read-past",
+   "en": "read",
+   "es": "leí (read)",
+   "kind": "word",
+   "emoji": "📖",
+   "say": "red",
+   "tip": "Se escribe igual que el presente, pero suena \"red\"."
+  },
+  {
+   "id": "u25.spoke",
+   "en": "spoke",
+   "es": "hablé (speak)",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "spóuk"
+  },
+  {
+   "id": "u25.broke",
+   "en": "broke",
+   "es": "rompí (break)",
+   "kind": "word",
+   "emoji": "💔",
+   "say": "bróuk"
+  },
+  {
+   "id": "u25.forgot",
+   "en": "forgot",
+   "es": "olvidé (forget)",
+   "kind": "word",
+   "emoji": "🤦",
+   "say": "for-gót"
+  },
+  {
+   "id": "u25.slept",
+   "en": "slept",
+   "es": "dormí (sleep)",
+   "kind": "word",
+   "emoji": "😴",
+   "say": "slept"
+  },
+  {
+   "id": "u25.woke-up",
+   "en": "woke up",
+   "es": "me desperté (wake up)",
+   "kind": "chunk",
+   "emoji": "⏰",
+   "say": "uóuk ap"
+  },
+  {
+   "id": "u25.ran",
+   "en": "ran",
+   "es": "corrí (run)",
+   "kind": "word",
+   "emoji": "🏃‍♀️",
+   "say": "ran"
+  },
+  {
+   "id": "u25.swam",
+   "en": "swam",
+   "es": "nadé (swim)",
+   "kind": "word",
+   "emoji": "🏊",
+   "say": "suam"
+  },
+  {
+   "id": "u25.sang",
+   "en": "sang",
+   "es": "canté (sing)",
+   "kind": "word",
+   "emoji": "🎤",
+   "say": "sang"
+  },
+  {
+   "id": "u25.won",
+   "en": "won",
+   "es": "gané (win)",
+   "kind": "word",
+   "emoji": "🏆",
+   "say": "uan"
+  },
+  {
+   "id": "u25.paid",
+   "en": "paid",
+   "es": "pagué (pay)",
+   "kind": "word",
+   "emoji": "💳",
+   "say": "péid"
+  },
+  {
+   "id": "u25.sent",
+   "en": "sent",
+   "es": "envié (send)",
+   "kind": "word",
+   "emoji": "📤",
+   "say": "sent"
+  },
+  {
+   "id": "u25.felt",
+   "en": "felt",
+   "es": "sentí (feel)",
+   "kind": "word",
+   "emoji": "💓",
+   "say": "felt"
+  },
+  {
+   "id": "u25.heard",
+   "en": "heard",
+   "es": "oí / escuché (hear)",
+   "kind": "word",
+   "emoji": "👂",
+   "say": "herd"
+  },
+  {
+   "id": "u25.put",
+   "en": "put",
+   "es": "puse (put)",
+   "kind": "word",
+   "emoji": "📥",
+   "say": "put"
+  },
+  {
+   "id": "u25.sat",
+   "en": "sat",
+   "es": "me senté (sit)",
+   "kind": "word",
+   "emoji": "🪑",
+   "say": "sat"
+  },
+  {
+   "id": "u25.stood",
+   "en": "stood",
+   "es": "estuve de pie (stand)",
+   "kind": "word",
+   "emoji": "🧍",
+   "say": "stud"
+  },
+  {
+   "id": "u25.became",
+   "en": "became",
+   "es": "me volví / llegué a ser (become)",
+   "kind": "word",
+   "emoji": "🦋",
+   "say": "bi-kéim"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u25-irregulares-l1",
+   "title": "1. went, had, did…",
+   "focus": "listening",
+   "newItems": [
+    "u25.went",
+    "u25.had",
+    "u25.did",
+    "u25.made"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.went",
+      "u25.had"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.did",
+      "u25.made"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.went",
+      "u25.had",
+      "u25.did",
+      "u25.made"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.went",
+      "u25.had",
+      "u25.did",
+      "u25.made"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l2",
+   "title": "2. got, saw, came…",
+   "focus": "grammar",
+   "newItems": [
+    "u25.got",
+    "u25.saw",
+    "u25.came",
+    "u25.took"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.got",
+      "u25.saw"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.came",
+      "u25.took"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.got",
+      "u25.saw",
+      "u25.came",
+      "u25.took"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.got",
+      "u25.saw",
+      "u25.came",
+      "u25.took"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.went",
+      "u25.had",
+      "u25.did",
+      "u25.made"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Los verbos irregulares",
+     "intro": "Estos verbos NO usan -ed. Mira cómo cambian.",
+     "examples": [
+      {
+       "en": "I go to the beach. → I went to the beach.",
+       "es": "Voy a la playa. → Fui a la playa.",
+       "mark": [
+        "went"
+       ]
+      },
+      {
+       "en": "She has a cat. → She had a cat.",
+       "es": "Ella tiene un gato. → Ella tenía un gato.",
+       "mark": [
+        "had"
+       ]
+      },
+      {
+       "en": "We eat pizza. → We ate pizza.",
+       "es": "Comemos pizza. → Comimos pizza.",
+       "mark": [
+        "ate"
+       ]
+      },
+      {
+       "en": "They see a movie. → They saw a movie.",
+       "es": "Ven una película. → Vieron una película.",
+       "mark": [
+        "saw"
+       ]
+      },
+      {
+       "en": "He buys a car. → He bought a car.",
+       "es": "Él compra un carro. → Compró un carro.",
+       "mark": [
+        "bought"
+       ]
+      }
+     ],
+     "question": "¿Qué tienen de especial estos verbos?",
+     "options": [
+      "Su pasado cambia de forma, no lleva -ed",
+      "No tienen pasado",
+      "Solo existen en presente"
+     ],
+     "answer": 0,
+     "rule": "Estos son VERBOS IRREGULARES: su pasado tiene una forma propia que hay que aprender (go → went, have → had). Son pocos, pero son los más usados. La buena noticia: igual que los regulares, son iguales para todas las personas (I went, she went, they went).",
+     "ruleExamples": [
+      {
+       "en": "Yesterday I woke up late, had breakfast and went to work.",
+       "es": "Ayer me desperté tarde, desayuné y me fui al trabajo."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Last night I ___ a great movie.",
+     "options": [
+      "saw",
+      "seed"
+     ],
+     "answer": 0,
+     "es": "Anoche vi una película buenísima."
+    },
+    {
+     "type": "fill",
+     "en": "We ___ to the beach in December.",
+     "options": [
+      "goed",
+      "went"
+     ],
+     "answer": 1,
+     "es": "Fuimos a la playa en diciembre."
+    },
+    {
+     "type": "fill",
+     "en": "She ___ a new phone yesterday.",
+     "options": [
+      "bought",
+      "buyed"
+     ],
+     "answer": 0,
+     "es": "Ella compró un celular nuevo ayer."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ my keys at the bar.",
+     "options": [
+      "lost",
+      "losed"
+     ],
+     "answer": 0,
+     "es": "Perdí mis llaves en el bar."
+    },
+    {
+     "type": "fill",
+     "en": "They ___ the game 3-1!",
+     "options": [
+      "won",
+      "winned"
+     ],
+     "answer": 0,
+     "es": "¡Ganaron el partido 3-1!"
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l3",
+   "title": "3. gave, ate, drank…",
+   "focus": "reading",
+   "newItems": [
+    "u25.gave",
+    "u25.ate",
+    "u25.drank",
+    "u25.bought"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.gave",
+      "u25.ate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.drank",
+      "u25.bought"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.gave",
+      "u25.ate",
+      "u25.drank",
+      "u25.bought"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.gave",
+      "u25.ate",
+      "u25.drank",
+      "u25.bought"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.did",
+      "u25.made",
+      "u25.got",
+      "u25.saw",
+      "u25.came",
+      "u25.took"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l4",
+   "title": "4. found, lost, said…",
+   "focus": "listening",
+   "newItems": [
+    "u25.found",
+    "u25.lost",
+    "u25.said",
+    "u25.told"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.found",
+      "u25.lost"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.said",
+      "u25.told"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.found",
+      "u25.lost",
+      "u25.said",
+      "u25.told"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.found",
+      "u25.lost",
+      "u25.said",
+      "u25.told"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.came",
+      "u25.took",
+      "u25.gave",
+      "u25.ate",
+      "u25.drank",
+      "u25.bought"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l5",
+   "title": "5. thought, knew, met…",
+   "focus": "listening",
+   "newItems": [
+    "u25.thought",
+    "u25.knew",
+    "u25.met",
+    "u25.left"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.thought",
+      "u25.knew"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.met",
+      "u25.left"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.thought",
+      "u25.knew",
+      "u25.met",
+      "u25.left"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.thought",
+      "u25.knew",
+      "u25.met",
+      "u25.left"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.drank",
+      "u25.bought",
+      "u25.found",
+      "u25.lost",
+      "u25.said",
+      "u25.told"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l6",
+   "title": "6. began, wrote, read…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u25.began",
+    "u25.wrote",
+    "u25.read-past",
+    "u25.spoke"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.began",
+      "u25.wrote"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.read-past",
+      "u25.spoke"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.began",
+      "u25.wrote",
+      "u25.read-past",
+      "u25.spoke"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.began",
+      "u25.wrote",
+      "u25.read-past",
+      "u25.spoke"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.said",
+      "u25.told",
+      "u25.thought",
+      "u25.knew",
+      "u25.met",
+      "u25.left"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🧠",
+     "title": "Cómo aprenderlos sin tablas",
+     "text": "No memorices listas. Aprende cada verbo dentro de una frase tuya: 'I went to Pasto', 'I ate empanadas'. El repaso espaciado de la app los traerá de vuelta hasta que salgan solos."
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l7",
+   "title": "7. broke, forgot, slept…",
+   "focus": "reading",
+   "newItems": [
+    "u25.broke",
+    "u25.forgot",
+    "u25.slept",
+    "u25.woke-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.broke",
+      "u25.forgot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.slept",
+      "u25.woke-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.broke",
+      "u25.forgot",
+      "u25.slept",
+      "u25.woke-up"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.broke",
+      "u25.forgot",
+      "u25.slept",
+      "u25.woke-up"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.met",
+      "u25.left",
+      "u25.began",
+      "u25.wrote",
+      "u25.read-past",
+      "u25.spoke"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l8",
+   "title": "8. ran, swam, sang…",
+   "focus": "listening",
+   "newItems": [
+    "u25.ran",
+    "u25.swam",
+    "u25.sang",
+    "u25.won"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.ran",
+      "u25.swam"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.sang",
+      "u25.won"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.ran",
+      "u25.swam",
+      "u25.sang",
+      "u25.won"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.ran",
+      "u25.swam",
+      "u25.sang",
+      "u25.won"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.read-past",
+      "u25.spoke",
+      "u25.broke",
+      "u25.forgot",
+      "u25.slept",
+      "u25.woke-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l9",
+   "title": "9. paid, sent, felt…",
+   "focus": "listening",
+   "newItems": [
+    "u25.paid",
+    "u25.sent",
+    "u25.felt",
+    "u25.heard"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.paid",
+      "u25.sent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.felt",
+      "u25.heard"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.paid",
+      "u25.sent",
+      "u25.felt",
+      "u25.heard"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.paid",
+      "u25.sent",
+      "u25.felt",
+      "u25.heard"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.slept",
+      "u25.woke-up",
+      "u25.ran",
+      "u25.swam",
+      "u25.sang",
+      "u25.won"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Qué te pasó?",
+     "scene": "😮 Tu amigo llega con el brazo vendado.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "What happened to your arm?",
+       "es": "¿Qué le pasó a tu brazo?"
+      },
+      {
+       "who": "Sam",
+       "en": "I broke it! I went to the mountains last weekend.",
+       "es": "¡Me lo rompí! Fui a la montaña el fin de semana pasado."
+      },
+      {
+       "who": "You",
+       "en": "Oh no! How?",
+       "es": "¡Ay no! ¿Cómo?"
+      },
+      {
+       "who": "Sam",
+       "en": "I ran down a hill, I fell and I hit a rock.",
+       "es": "Corrí bajando una loma, me caí y me pegué con una piedra."
+      },
+      {
+       "who": "You",
+       "en": "Did you go to the hospital?",
+       "es": "¿Fuiste al hospital?"
+      },
+      {
+       "who": "Sam",
+       "en": "Yes. A doctor gave me medicine and I slept for twelve hours!",
+       "es": "Sí. Un médico me dio medicina ¡y dormí doce horas!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-l10",
+   "title": "10. put, sat, stood…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u25.put",
+    "u25.sat",
+    "u25.stood",
+    "u25.became"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u25.put",
+      "u25.sat"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u25.stood",
+      "u25.became"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.put",
+      "u25.sat",
+      "u25.stood",
+      "u25.became"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.put",
+      "u25.sat",
+      "u25.stood",
+      "u25.became"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.sang",
+      "u25.won",
+      "u25.paid",
+      "u25.sent",
+      "u25.felt",
+      "u25.heard"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u25-irregulares-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El celular perdido",
+     "emoji": "📱",
+     "paragraphs": [
+      {
+       "en": "Last Friday Carla went to a concert in the city.",
+       "es": "El viernes pasado Carla fue a un concierto en la ciudad."
+      },
+      {
+       "en": "She took the bus, met her friends and had a great time.",
+       "es": "Tomó el bus, se encontró con sus amigas y la pasó muy bien."
+      },
+      {
+       "en": "They sang, danced and drank a lot of water. It was hot!",
+       "es": "Cantaron, bailaron y tomaron mucha agua. ¡Hacía calor!"
+      },
+      {
+       "en": "At midnight she put her hand in her bag. Her phone wasn't there!",
+       "es": "A la medianoche metió la mano en el bolso. ¡Su celular no estaba!"
+      },
+      {
+       "en": "She felt terrible. She thought, \"I lost it!\"",
+       "es": "Se sintió fatal. Pensó: \"¡Lo perdí!\""
+      },
+      {
+       "en": "The next morning a man called her house. He found the phone under a seat!",
+       "es": "A la mañana siguiente un señor llamó a su casa. ¡Encontró el celular debajo de una silla!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿A dónde fue Carla?",
+       "options": [
+        "A una boda",
+        "A un concierto",
+        "Al cine"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué perdió?",
+       "options": [
+        "Su bolso",
+        "Su celular",
+        "Sus llaves"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde estaba el celular?",
+       "options": [
+        "En el bus",
+        "Debajo de una silla",
+        "En su casa"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Una historia en la cena",
+     "scene": "🍽️ Tu familia te pregunta por tu día.",
+     "turns": [
+      {
+       "who": "Dad",
+       "en": "So, how was your day?",
+       "es": "Bueno, ¿cómo te fue hoy?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Interesting! I met a famous singer at the airport.",
+         "es": "¡Interesante! Conocí a un cantante famoso en el aeropuerto.",
+         "ok": true
+        },
+        {
+         "en": "Interesting! I meet a famous singer tomorrow.",
+         "es": "¡Interesante! Conozco a un cantante famoso mañana.",
+         "ok": false,
+         "why": "Cuenta lo que pasó, en pasado."
+        }
+       ]
+      },
+      {
+       "who": "Dad",
+       "en": "Really? What did you say?",
+       "es": "¿En serio? ¿Qué le dijiste?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I said hello and I took a photo with him.",
+         "es": "Le dije hola y me tomé una foto con él.",
+         "ok": true
+        },
+        {
+         "en": "I sayed hello.",
+         "es": "Yo decí hola.",
+         "ok": false,
+         "why": "El pasado de say es \"said\"."
+        }
+       ]
+      },
+      {
+       "who": "Dad",
+       "en": "Wow! Can I see the photo?",
+       "es": "¡Uy! ¿Puedo ver la foto?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sure! Here it is.",
+         "es": "¡Claro! Aquí está.",
+         "ok": true
+        },
+        {
+         "en": "No, I bought a car.",
+         "es": "No, compré un carro.",
+         "ok": false,
+         "why": "No tiene que ver con la foto."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ayer fui al cine.",
+     "en": "Yesterday I went to the cinema.",
+     "accept": [
+      "I went to the cinema yesterday.",
+      "I went to the movies yesterday.",
+      "Yesterday I went to the movies."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Perdí mis llaves.",
+     "en": "I lost my keys."
+    },
+    {
+     "type": "write",
+     "es": "Comimos pizza y tomamos jugo.",
+     "en": "We ate pizza and drank juice."
+    },
+    {
+     "type": "dictation",
+     "en": "She bought a new dress for the wedding.",
+     "es": "Ella compró un vestido nuevo para la boda."
+    },
+    {
+     "type": "dictation",
+     "en": "I woke up late and forgot my phone.",
+     "es": "Me desperté tarde y olvidé mi celular."
+    },
+    {
+     "type": "speak",
+     "en": "Last weekend I went to the park and saw my friends.",
+     "es": "El fin de semana pasado fui al parque y vi a mis amigos.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u25.paid",
+      "u25.sent",
+      "u25.felt",
+      "u25.heard",
+      "u25.put",
+      "u25.sat",
+      "u25.stood",
+      "u25.became"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

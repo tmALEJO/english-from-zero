@@ -1,7 +1,7 @@
 import { Link, useParams } from 'react-router-dom';
 import { useApp } from '../state';
 import { units } from '../engine/content';
-import { unitStatuses } from '../engine/progress';
+import { unitStatuses, unitTestPassed, allLessonsDone } from '../engine/progress';
 import { describeInterval } from '../engine/srs';
 import { Page, SpeakButton } from '../components/common';
 
@@ -47,6 +47,21 @@ export default function UnitPage() {
           );
         })}
       </ol>
+
+      {(() => {
+        const done = allLessonsDone(u.id, lessons);
+        const passed = unitTestPassed(u.id, lessons);
+        const open = done || settings.explorerMode;
+        return (
+          <div className={`unit-test ${passed ? 'unit-test--done' : ''}`}>
+            <div>
+              <h2>{passed ? '🏅 Prueba aprobada' : '📝 Prueba de la unidad'}</h2>
+              <p className="muted">{passed ? 'Terminaste esta unidad.' : open ? 'Demuestra lo aprendido para completar la unidad.' : 'Termina todas las lecciones para desbloquear la prueba.'}</p>
+            </div>
+            {open ? <Link to={`/prueba/${u.id}`} className="btn btn--primary">{passed ? 'Repetir prueba' : 'Hacer la prueba'}</Link> : <span className="muted">🔒</span>}
+          </div>
+        );
+      })()}
 
       {learned.length > 0 && (
         <section>

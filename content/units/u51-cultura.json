@@ -1,0 +1,1566 @@
+{
+ "_generated": true,
+ "id": "u51-cultura",
+ "level": "B1",
+ "title": "Viajes y cultura",
+ "emoji": "🗺️",
+ "canDo": "Ya puedo hablar de viajes, costumbres y diferencias culturales",
+ "summary": "Experiencias de viaje, costumbres de otros países y comparar culturas con respeto.",
+ "grammar": [
+  "used to (introducción)",
+  "Comparar culturas: similar to, different from"
+ ],
+ "items": [
+  {
+   "id": "u51.culture",
+   "en": "culture",
+   "es": "cultura",
+   "kind": "word",
+   "emoji": "🎎",
+   "say": "kál-cher"
+  },
+  {
+   "id": "u51.custom",
+   "en": "custom",
+   "es": "costumbre",
+   "kind": "word",
+   "emoji": "🪅",
+   "say": "kás-tom"
+  },
+  {
+   "id": "u51.belief",
+   "en": "belief",
+   "es": "creencia",
+   "kind": "word",
+   "emoji": "🙏",
+   "say": "bi-líif"
+  },
+  {
+   "id": "u51.religion",
+   "en": "religion",
+   "es": "religión",
+   "kind": "word",
+   "emoji": "⛪",
+   "say": "ri-lí-yon"
+  },
+  {
+   "id": "u51.language",
+   "en": "language",
+   "es": "idioma",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "lán-güich"
+  },
+  {
+   "id": "u51.accent",
+   "en": "accent",
+   "es": "acento",
+   "kind": "word",
+   "emoji": "👄",
+   "say": "ák-sent"
+  },
+  {
+   "id": "u51.local",
+   "en": "local",
+   "es": "local / del lugar",
+   "kind": "word",
+   "emoji": "📍",
+   "say": "lóu-kal"
+  },
+  {
+   "id": "u51.foreigner",
+   "en": "foreigner",
+   "es": "extranjero (persona)",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "fó-re-ner"
+  },
+  {
+   "id": "u51.destination",
+   "en": "destination",
+   "es": "destino",
+   "kind": "word",
+   "emoji": "📌",
+   "say": "des-ti-néi-shon"
+  },
+  {
+   "id": "u51.sightseeing",
+   "en": "sightseeing",
+   "es": "turismo (ver lugares)",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "sáit-sii-ing"
+  },
+  {
+   "id": "u51.landmark",
+   "en": "landmark",
+   "es": "lugar emblemático",
+   "kind": "word",
+   "emoji": "🗽",
+   "say": "lánd-mark"
+  },
+  {
+   "id": "u51.monument",
+   "en": "monument",
+   "es": "monumento",
+   "kind": "word",
+   "emoji": "🗿",
+   "say": "mó-niu-ment"
+  },
+  {
+   "id": "u51.cathedral",
+   "en": "cathedral",
+   "es": "catedral",
+   "kind": "word",
+   "emoji": "⛪",
+   "say": "ka-zíi-dral"
+  },
+  {
+   "id": "u51.castle",
+   "en": "castle",
+   "es": "castillo",
+   "kind": "word",
+   "emoji": "🏰",
+   "say": "ká-sol",
+   "tip": "La t no suena."
+  },
+  {
+   "id": "u51.ruins",
+   "en": "ruins",
+   "es": "ruinas",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "rú-ins"
+  },
+  {
+   "id": "u51.old-town",
+   "en": "old town",
+   "es": "centro histórico",
+   "kind": "chunk",
+   "emoji": "🏘️"
+  },
+  {
+   "id": "u51.street-food",
+   "en": "street food",
+   "es": "comida callejera",
+   "kind": "chunk",
+   "emoji": "🌮"
+  },
+  {
+   "id": "u51.dish",
+   "en": "dish",
+   "es": "plato (comida)",
+   "kind": "word",
+   "emoji": "🍛",
+   "say": "dish"
+  },
+  {
+   "id": "u51.cuisine",
+   "en": "cuisine",
+   "es": "cocina (gastronomía)",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "kui-síin"
+  },
+  {
+   "id": "u51.backpacking",
+   "en": "backpacking",
+   "es": "viajar de mochilero",
+   "kind": "word",
+   "emoji": "🎒",
+   "say": "bák-pa-king"
+  },
+  {
+   "id": "u51.hostel",
+   "en": "hostel",
+   "es": "hostal",
+   "kind": "word",
+   "emoji": "🛏️",
+   "say": "jós-tel"
+  },
+  {
+   "id": "u51.guided-tour",
+   "en": "guided tour",
+   "es": "visita guiada",
+   "kind": "chunk",
+   "emoji": "🧑‍🏫"
+  },
+  {
+   "id": "u51.travel-agency",
+   "en": "travel agency",
+   "es": "agencia de viajes",
+   "kind": "chunk",
+   "emoji": "🏢"
+  },
+  {
+   "id": "u51.itinerary",
+   "en": "itinerary",
+   "es": "itinerario",
+   "kind": "word",
+   "emoji": "🗒️",
+   "say": "ai-tí-ne-ra-ri"
+  },
+  {
+   "id": "u51.jet-lag",
+   "en": "jet lag",
+   "es": "desfase horario",
+   "kind": "chunk",
+   "emoji": "😵",
+   "say": "yet lag"
+  },
+  {
+   "id": "u51.culture-shock",
+   "en": "culture shock",
+   "es": "choque cultural",
+   "kind": "chunk",
+   "emoji": "😳"
+  },
+  {
+   "id": "u51.tip-money",
+   "en": "tip",
+   "es": "propina",
+   "kind": "word",
+   "emoji": "💵",
+   "tip": "Aquí con el sentido de: money."
+  },
+  {
+   "id": "u51.greet",
+   "en": "greet",
+   "es": "saludar",
+   "kind": "word",
+   "emoji": "👋",
+   "say": "gríit"
+  },
+  {
+   "id": "u51.bow",
+   "en": "bow",
+   "es": "hacer una reverencia",
+   "kind": "word",
+   "emoji": "🙇",
+   "say": "báu"
+  },
+  {
+   "id": "u51.shake-hands",
+   "en": "shake hands",
+   "es": "darse la mano",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u51.kiss-on-the-cheek",
+   "en": "kiss on the cheek",
+   "es": "beso en la mejilla",
+   "kind": "chunk",
+   "emoji": "😘"
+  },
+  {
+   "id": "u51.punctual",
+   "en": "punctual",
+   "es": "puntual",
+   "kind": "word",
+   "emoji": "⏱️",
+   "say": "pánk-chual"
+  },
+  {
+   "id": "u51.welcoming",
+   "en": "welcoming",
+   "es": "acogedor / hospitalario",
+   "kind": "word",
+   "emoji": "🤗",
+   "say": "uél-ka-ming"
+  },
+  {
+   "id": "u51.similar-to",
+   "en": "similar to",
+   "es": "parecido a",
+   "kind": "chunk",
+   "emoji": "🟰"
+  },
+  {
+   "id": "u51.different-from",
+   "en": "different from",
+   "es": "diferente de",
+   "kind": "chunk",
+   "emoji": "≠"
+  },
+  {
+   "id": "u51.the-same-as",
+   "en": "the same as",
+   "es": "igual que",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u51.in-common",
+   "en": "in common",
+   "es": "en común",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u51.passport-control",
+   "en": "passport control",
+   "es": "control de pasaportes",
+   "kind": "chunk",
+   "emoji": "🛂"
+  },
+  {
+   "id": "u51.visa",
+   "en": "visa",
+   "es": "visa",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "víi-sa"
+  },
+  {
+   "id": "u51.currency",
+   "en": "currency",
+   "es": "moneda (de un país)",
+   "kind": "word",
+   "emoji": "💱",
+   "say": "ká-ren-si"
+  },
+  {
+   "id": "u51.exchange-rate",
+   "en": "exchange rate",
+   "es": "tasa de cambio",
+   "kind": "chunk",
+   "emoji": "📉"
+  },
+  {
+   "id": "u51.it-s-worth-visiting",
+   "en": "it's worth visiting",
+   "es": "vale la pena visitarlo",
+   "kind": "chunk",
+   "emoji": "💯"
+  },
+  {
+   "id": "u51.off-the-beaten-track",
+   "en": "off the beaten track",
+   "es": "fuera de lo turístico",
+   "kind": "chunk",
+   "emoji": "🛤️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u51-cultura-l1",
+   "title": "1. culture, custom, belief…",
+   "focus": "listening",
+   "newItems": [
+    "u51.culture",
+    "u51.custom",
+    "u51.belief",
+    "u51.religion"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.culture",
+      "u51.custom"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.belief",
+      "u51.religion"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.culture",
+      "u51.custom",
+      "u51.belief",
+      "u51.religion"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.culture",
+      "u51.custom",
+      "u51.belief",
+      "u51.religion"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.culture",
+      "u51.custom",
+      "u51.belief",
+      "u51.religion"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l2",
+   "title": "2. language, accent, local…",
+   "focus": "grammar",
+   "newItems": [
+    "u51.language",
+    "u51.accent",
+    "u51.local",
+    "u51.foreigner"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.language",
+      "u51.accent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.local",
+      "u51.foreigner"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.language",
+      "u51.accent",
+      "u51.local",
+      "u51.foreigner"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.language",
+      "u51.accent",
+      "u51.local",
+      "u51.foreigner"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.language",
+      "u51.accent",
+      "u51.local",
+      "u51.foreigner"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.culture",
+      "u51.custom",
+      "u51.belief",
+      "u51.religion"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Comparar culturas",
+     "intro": "Fíjate en la preposición que va con cada expresión.",
+     "examples": [
+      {
+       "en": "Colombian food is different from Mexican food.",
+       "es": "La comida colombiana es diferente de la mexicana.",
+       "mark": [
+        "different from"
+       ]
+      },
+      {
+       "en": "Spanish is similar to Italian.",
+       "es": "El español es parecido al italiano.",
+       "mark": [
+        "similar to"
+       ]
+      },
+      {
+       "en": "The weather in Pasto is the same as in Quito.",
+       "es": "El clima de Pasto es igual que el de Quito.",
+       "mark": [
+        "the same as"
+       ]
+      },
+      {
+       "en": "We have a lot in common.",
+       "es": "Tenemos mucho en común.",
+       "mark": [
+        "in common"
+       ]
+      },
+      {
+       "en": "In Colombia people used to write letters. Now they text.",
+       "es": "En Colombia la gente antes escribía cartas. Ahora escribe mensajes.",
+       "mark": [
+        "used to"
+       ]
+      }
+     ],
+     "question": "¿Qué preposición va con similar?",
+     "options": [
+      "similar to",
+      "similar of",
+      "similar than"
+     ],
+     "answer": 0,
+     "rule": "different FROM, similar TO, the same AS, have something IN common. Y used to + verbo = 'antes solía' (algo que ya no pasa): I used to live in Cali. Lo vas a practicar más a fondo en una próxima unidad.",
+     "ruleExamples": [
+      {
+       "en": "Is Japanese culture very different from ours? In some ways, yes.",
+       "es": "¿La cultura japonesa es muy diferente de la nuestra? En algunos aspectos, sí."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "British English is a little different ___ American English.",
+     "options": [
+      "from",
+      "of"
+     ],
+     "answer": 0,
+     "es": "El inglés británico es un poco diferente del americano."
+    },
+    {
+     "type": "fill",
+     "en": "Portuguese is similar ___ Spanish.",
+     "options": [
+      "to",
+      "as"
+     ],
+     "answer": 0,
+     "es": "El portugués es parecido al español."
+    },
+    {
+     "type": "fill",
+     "en": "My accent is the same ___ my mother's.",
+     "options": [
+      "as",
+      "like to"
+     ],
+     "answer": 0,
+     "es": "Mi acento es igual al de mi mamá."
+    },
+    {
+     "type": "fill",
+     "en": "We don't have anything ___ common.",
+     "options": [
+      "in",
+      "on"
+     ],
+     "answer": 0,
+     "es": "No tenemos nada en común."
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l3",
+   "title": "3. destination, sightseeing, landmark…",
+   "focus": "reading",
+   "newItems": [
+    "u51.destination",
+    "u51.sightseeing",
+    "u51.landmark",
+    "u51.monument"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.destination",
+      "u51.sightseeing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.landmark",
+      "u51.monument"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.destination",
+      "u51.sightseeing",
+      "u51.landmark",
+      "u51.monument"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.destination",
+      "u51.sightseeing",
+      "u51.landmark",
+      "u51.monument"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.destination",
+      "u51.sightseeing",
+      "u51.landmark",
+      "u51.monument"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.belief",
+      "u51.religion",
+      "u51.language",
+      "u51.accent",
+      "u51.local",
+      "u51.foreigner"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l4",
+   "title": "4. cathedral, castle, ruins…",
+   "focus": "listening",
+   "newItems": [
+    "u51.cathedral",
+    "u51.castle",
+    "u51.ruins",
+    "u51.old-town"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.cathedral",
+      "u51.castle"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.ruins",
+      "u51.old-town"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.cathedral",
+      "u51.castle",
+      "u51.ruins",
+      "u51.old-town"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.cathedral",
+      "u51.castle",
+      "u51.ruins",
+      "u51.old-town"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.cathedral",
+      "u51.castle",
+      "u51.ruins",
+      "u51.old-town"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.local",
+      "u51.foreigner",
+      "u51.destination",
+      "u51.sightseeing",
+      "u51.landmark",
+      "u51.monument"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l5",
+   "title": "5. street food, dish, cuisine…",
+   "focus": "listening",
+   "newItems": [
+    "u51.street-food",
+    "u51.dish",
+    "u51.cuisine",
+    "u51.backpacking"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.street-food",
+      "u51.dish"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.cuisine",
+      "u51.backpacking"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.street-food",
+      "u51.dish",
+      "u51.cuisine",
+      "u51.backpacking"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.street-food",
+      "u51.dish",
+      "u51.cuisine",
+      "u51.backpacking"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.street-food",
+      "u51.dish",
+      "u51.cuisine",
+      "u51.backpacking"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.landmark",
+      "u51.monument",
+      "u51.cathedral",
+      "u51.castle",
+      "u51.ruins",
+      "u51.old-town"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l6",
+   "title": "6. hostel, guided tour, travel agency…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u51.hostel",
+    "u51.guided-tour",
+    "u51.travel-agency",
+    "u51.itinerary"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.hostel",
+      "u51.guided-tour"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.travel-agency",
+      "u51.itinerary"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.hostel",
+      "u51.guided-tour",
+      "u51.travel-agency",
+      "u51.itinerary"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.hostel",
+      "u51.guided-tour",
+      "u51.travel-agency",
+      "u51.itinerary"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.hostel",
+      "u51.guided-tour",
+      "u51.travel-agency",
+      "u51.itinerary"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.ruins",
+      "u51.old-town",
+      "u51.street-food",
+      "u51.dish",
+      "u51.cuisine",
+      "u51.backpacking"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l7",
+   "title": "7. jet lag, culture shock, tip…",
+   "focus": "reading",
+   "newItems": [
+    "u51.jet-lag",
+    "u51.culture-shock",
+    "u51.tip-money",
+    "u51.greet"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.jet-lag",
+      "u51.culture-shock"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.tip-money",
+      "u51.greet"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.jet-lag",
+      "u51.culture-shock",
+      "u51.tip-money",
+      "u51.greet"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.jet-lag",
+      "u51.culture-shock",
+      "u51.tip-money",
+      "u51.greet"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.jet-lag",
+      "u51.culture-shock",
+      "u51.tip-money",
+      "u51.greet"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.cuisine",
+      "u51.backpacking",
+      "u51.hostel",
+      "u51.guided-tour",
+      "u51.travel-agency",
+      "u51.itinerary"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l8",
+   "title": "8. bow, shake hands, kiss on the cheek…",
+   "focus": "listening",
+   "newItems": [
+    "u51.bow",
+    "u51.shake-hands",
+    "u51.kiss-on-the-cheek",
+    "u51.punctual"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.bow",
+      "u51.shake-hands"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.kiss-on-the-cheek",
+      "u51.punctual"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.bow",
+      "u51.shake-hands",
+      "u51.kiss-on-the-cheek",
+      "u51.punctual"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.bow",
+      "u51.shake-hands",
+      "u51.kiss-on-the-cheek",
+      "u51.punctual"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.bow",
+      "u51.shake-hands",
+      "u51.kiss-on-the-cheek",
+      "u51.punctual"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.travel-agency",
+      "u51.itinerary",
+      "u51.jet-lag",
+      "u51.culture-shock",
+      "u51.tip-money",
+      "u51.greet"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Choque cultural",
+     "scene": "🌏 Una amiga volvió de vivir en Japón.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "How was Japan? Did you experience culture shock?",
+       "es": "¿Qué tal Japón? ¿Tuviste choque cultural?"
+      },
+      {
+       "who": "Mia",
+       "en": "At first, yes! People are very punctual and quiet on the trains.",
+       "es": "¡Al principio sí! La gente es muy puntual y callada en los trenes."
+      },
+      {
+       "who": "You",
+       "en": "Is the food very different from ours?",
+       "es": "¿La comida es muy diferente de la nuestra?"
+      },
+      {
+       "who": "Mia",
+       "en": "Totally. But I got used to it. Now I miss the street food!",
+       "es": "Totalmente. Pero me acostumbré. ¡Ahora extraño la comida callejera!"
+      },
+      {
+       "who": "You",
+       "en": "Did people greet you with a bow?",
+       "es": "¿La gente te saludaba con una reverencia?"
+      },
+      {
+       "who": "Mia",
+       "en": "Yes. They don't usually kiss on the cheek like we do.",
+       "es": "Sí. Normalmente no dan beso en la mejilla como nosotros."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l9",
+   "title": "9. welcoming, similar to, different from…",
+   "focus": "listening",
+   "newItems": [
+    "u51.welcoming",
+    "u51.similar-to",
+    "u51.different-from",
+    "u51.the-same-as"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.welcoming",
+      "u51.similar-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.different-from",
+      "u51.the-same-as"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.welcoming",
+      "u51.similar-to",
+      "u51.different-from",
+      "u51.the-same-as"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.welcoming",
+      "u51.similar-to",
+      "u51.different-from",
+      "u51.the-same-as"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.welcoming",
+      "u51.similar-to",
+      "u51.different-from",
+      "u51.the-same-as"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.tip-money",
+      "u51.greet",
+      "u51.bow",
+      "u51.shake-hands",
+      "u51.kiss-on-the-cheek",
+      "u51.punctual"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l10",
+   "title": "10. in common, passport control, visa…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u51.in-common",
+    "u51.passport-control",
+    "u51.visa",
+    "u51.currency"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.in-common",
+      "u51.passport-control"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.visa",
+      "u51.currency"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.in-common",
+      "u51.passport-control",
+      "u51.visa",
+      "u51.currency"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.in-common",
+      "u51.passport-control",
+      "u51.visa",
+      "u51.currency"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.in-common",
+      "u51.passport-control",
+      "u51.visa",
+      "u51.currency"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.kiss-on-the-cheek",
+      "u51.punctual",
+      "u51.welcoming",
+      "u51.similar-to",
+      "u51.different-from",
+      "u51.the-same-as"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-l11",
+   "title": "11. exchange rate, it's worth visiting, off the beaten track",
+   "focus": "reading",
+   "newItems": [
+    "u51.exchange-rate",
+    "u51.it-s-worth-visiting",
+    "u51.off-the-beaten-track"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u51.exchange-rate",
+      "u51.it-s-worth-visiting"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u51.off-the-beaten-track"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.exchange-rate",
+      "u51.it-s-worth-visiting",
+      "u51.off-the-beaten-track"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.exchange-rate",
+      "u51.it-s-worth-visiting",
+      "u51.off-the-beaten-track"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.exchange-rate",
+      "u51.it-s-worth-visiting",
+      "u51.off-the-beaten-track"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.different-from",
+      "u51.the-same-as",
+      "u51.in-common",
+      "u51.passport-control",
+      "u51.visa",
+      "u51.currency"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u51-cultura-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Mochilero por Suramérica",
+     "emoji": "🎒",
+     "paragraphs": [
+      {
+       "en": "After finishing university, Tomás went backpacking for six months.",
+       "es": "Después de terminar la universidad, Tomás se fue de mochilero seis meses."
+      },
+      {
+       "en": "He visited ruins in Peru, glaciers in Argentina and markets in Bolivia.",
+       "es": "Visitó ruinas en Perú, glaciares en Argentina y mercados en Bolivia."
+      },
+      {
+       "en": "He stayed in cheap hostels and met travelers from all over the world.",
+       "es": "Se quedó en hostales baratos y conoció viajeros de todo el mundo."
+      },
+      {
+       "en": "His favorite places were off the beaten track: small villages with very welcoming people.",
+       "es": "Sus lugares favoritos estaban fuera de lo turístico: pueblos pequeños con gente muy acogedora."
+      },
+      {
+       "en": "He learned that every country has its own customs, but people everywhere have a lot in common.",
+       "es": "Aprendió que cada país tiene sus costumbres, pero la gente en todas partes tiene mucho en común."
+      },
+      {
+       "en": "\"Traveling taught me more than university,\" he says with a smile.",
+       "es": "\"Viajar me enseñó más que la universidad\", dice con una sonrisa."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuánto tiempo viajó Tomás?",
+       "options": [
+        "Un mes",
+        "Seis meses",
+        "Un año"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde se quedaba?",
+       "options": [
+        "En hoteles de lujo",
+        "En hostales baratos",
+        "En casas de familia"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué aprendió?",
+       "options": [
+        "Que la gente en todas partes tiene mucho en común",
+        "Que viajar es aburrido",
+        "Que no le gustan los pueblos"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Recomendar Colombia",
+     "scene": "🇨🇴 Un turista te pide consejos en un hostal.",
+     "turns": [
+      {
+       "who": "Tourist",
+       "en": "It's my first time in Colombia. What's worth visiting?",
+       "es": "Es mi primera vez en Colombia. ¿Qué vale la pena visitar?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "The old town in Cartagena is beautiful, and the coffee region is amazing.",
+         "es": "El centro histórico de Cartagena es hermoso, y el Eje Cafetero es increíble.",
+         "ok": true
+        },
+        {
+         "en": "The coffee is worth visiting a castle.",
+         "es": "El café vale visitar un castillo.",
+         "ok": false,
+         "why": "Frase sin sentido."
+        }
+       ]
+      },
+      {
+       "who": "Tourist",
+       "en": "Is the food spicy?",
+       "es": "¿La comida es picante?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Not really. It's different from Mexican food. It isn't very spicy.",
+         "es": "No mucho. Es diferente de la mexicana. No es muy picante.",
+         "ok": true
+        },
+        {
+         "en": "Yes, it's different of Mexican.",
+         "es": "Sí, es diferente de la mexicana.",
+         "ok": false,
+         "why": "Se dice \"different from\"."
+        }
+       ]
+      },
+      {
+       "who": "Tourist",
+       "en": "Should I tip in restaurants?",
+       "es": "¿Debo dejar propina en los restaurantes?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Usually there's a ten percent tip on the bill, but it's optional.",
+         "es": "Normalmente viene un diez por ciento de propina en la cuenta, pero es opcional.",
+         "ok": true
+        },
+        {
+         "en": "You mustn't eat in restaurants.",
+         "es": "No puede comer en restaurantes.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "El español es parecido al italiano.",
+     "en": "Spanish is similar to Italian."
+    },
+    {
+     "type": "write",
+     "es": "Vale la pena visitar Cartagena.",
+     "en": "Cartagena is worth visiting.",
+     "accept": [
+      "It's worth visiting Cartagena."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me acostumbré a la comida.",
+     "en": "I got used to the food."
+    },
+    {
+     "type": "dictation",
+     "en": "Every country has its own customs.",
+     "es": "Cada país tiene sus propias costumbres."
+    },
+    {
+     "type": "dictation",
+     "en": "I experienced culture shock at first.",
+     "es": "Al principio tuve choque cultural."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u51.the-same-as",
+      "u51.in-common",
+      "u51.passport-control",
+      "u51.visa",
+      "u51.currency",
+      "u51.exchange-rate",
+      "u51.it-s-worth-visiting",
+      "u51.off-the-beaten-track"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

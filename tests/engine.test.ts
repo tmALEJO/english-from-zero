@@ -1,10 +1,12 @@
+import { GRADED } from '../src/types';
 import 'fake-indexeddb/auto';
 import { describe, expect, it } from 'vitest';
 import { checkSpeech, sameSentence, levenshtein } from '../src/engine/text';
 import { newCard, review, outcomeFrom } from '../src/engine/srs';
 import { route, units, lookupWord, getItem } from '../src/engine/content';
 import { expandLesson } from '../src/engine/steps';
-import { unitStatuses, currentLevel, buildReview, nextLesson } from '../src/engine/progress';
+import { unitStatuses, currentLevel, buildReview, nextLesson, testId, examRowId, UNIT_TEST_PASS } from '../src/engine/progress';
+import { curriculum } from '../src/engine/content';
 import { makeBackup, mergeBackup, toQrChunks, parseQrPart, fromQrParts } from '../src/engine/backup';
 import { AppDB } from '../src/db/db';
 import { completeLesson, exportBackup, importBackup } from '../src/db/actions';
@@ -34,7 +36,8 @@ describe('contenido', () => {
       const u = units[r.id];
       expect(u, r.id).toBeDefined();
       for (const l of u.lessons) {
-        expect(l.newItems.length).toBeLessThanOrEqual(4);
+        const maxNew = u.level === 'B2' || u.level === 'C1' ? 5 : 4;
+        expect(l.newItems.length, l.id).toBeLessThanOrEqual(maxNew);
         const steps = expandLesson(l, u);
         expect(steps.length, l.id).toBeGreaterThan(2);
         for (const s of steps) if ('options' in s && Array.isArray(s.options) && 'target' in s) {
@@ -77,8 +80,13 @@ describe('repetición espaciada', () => {
 });
 
 describe('progreso y niveles', () => {
-  const done = (unitId: string): LessonRow[] =>
-    units[unitId].lessons.map((l) => ({ lessonId: l.id, unitId, firstCompletedAt: 1, lastCompletedAt: 1, timesCompleted: 1, bestScore: 100 }));
+  const row = (id: string, unitId: string): LessonRow => ({ lessonId: id, unitId, firstCompletedAt: 1, lastCompletedAt: 1, timesCompleted: 1, bestScore: 100 });
+  // Terminar una unidad = todas las lecciones + la prueba aprobada.
+  const done = (unitId: string): LessonRow[] => [
+    ...units[unitId].lessons.map((l) => row(l.id, unitId)),
+    { ...row(testId(unitId), unitId), bestScore: UNIT_TEST_PASS },
+  ];
+  const passExam = (examId: string): LessonRow => ({ lessonId: examRowId(examId), unitId: examId, firstCompletedAt: 1, lastCompletedAt: 1, timesCompleted: 1, bestScore: 100 });
 
   it('la ruta se desbloquea en orden', () => {
     const st = unitStatuses([]);
@@ -94,7 +102,10 @@ describe('progreso y niveles', () => {
     expect(nextLesson(done('u00-sonidos'))?.lesson.id).toBe('u01-l1');
   });
   it('A0 se alcanza al terminar todas sus unidades', () => {
-    const a0 = route.filter((r) => r.level === 'A0').flatMap((r) => done(r.id));
+    const a0 = [
+      ...route.filter((r) => r.level === 'A0').flatMap((r) => done(r.id)),
+      ...curriculum.exams.filter((e) => e.level === 'A0').map((e) => passExam(e.id)),
+    ];
     expect(currentLevel([]).reached).toBeNull();
     expect(currentLevel(a0).reached).toBe('A0');
     expect(currentLevel(a0).working).toBe('A1');
@@ -137,5 +148,39 @@ describe('exportar e importar', () => {
     expect(await phone.cards.count()).toBe(4);
     expect(getItem('u01.hello').en).toBe('Hello');
     expect((await phone.cards.get('u01.hello'))!.due).toBeGreaterThan(Date.now() + DAY / 2);
+  });
+});
+
+import { checkTyped } from '../src/engine/text';
+import { buildUnitTest, buildExam } from '../src/engine/progress';
+import { units as allUnits } from '../src/engine/content';
+import { curriculum as curr } from '../src/engine/content';
+
+describe('dictado y escritura', () => {
+  it('acepta la respuesta correcta y marca errores', () => {
+    expect(checkTyped('I am from Colombia', ['I am from Colombia']).ok).toBe(true);
+    expect(checkTyped("I'm from Colombia", ['I am from Colombia']).ok).toBe(true); // contracción
+    const r = checkTyped('I am from Colombai', ['I am from Colombia']);
+    expect(r.ok).toBe(true); // typo de una letra en palabra larga se perdona
+    expect(r.words.some((w) => w.status === 'typo')).toBe(true);
+    const bad = checkTyped('I am from Peru', ['I am from Colombia']);
+    expect(bad.ok).toBe(false);
+    expect(bad.words.find((w) => w.word === 'colombia')?.status).toBe('wrong');
+  });
+});
+
+describe('exámenes', () => {
+  it('la prueba de unidad genera preguntas calificables', () => {
+    const u = allUnits['u02-presentarse'];
+    const steps = buildUnitTest(u, () => 0.5);
+    expect(steps.length).toBeGreaterThan(5);
+    expect(steps.every((s) => GRADED.includes(s.step.kind))).toBe(true);
+  });
+  it('cada examen del currículo se puede construir', () => {
+    for (const e of curr.exams) {
+      const steps = buildExam(e, () => 0.5);
+      expect(steps.length, e.id).toBeGreaterThan(5);
+      expect(steps.every((s) => GRADED.includes(s.step.kind)), e.id).toBe(true);
+    }
   });
 });

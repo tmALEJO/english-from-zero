@@ -1,0 +1,611 @@
+[
+ {
+  "id": "r-a1-market",
+  "level": "A1",
+  "title": "A day at the market",
+  "emoji": "🧺",
+  "kind": "story",
+  "summary": "Una mañana sencilla en el mercado. Presente simple y vocabulario de comida.",
+  "sentences": [
+   {
+    "en": "Every Saturday, Marta goes to the market.",
+    "es": "Todos los sábados, Marta va al mercado."
+   },
+   {
+    "en": "She wakes up early and walks with her mother.",
+    "es": "Se despierta temprano y camina con su mamá."
+   },
+   {
+    "en": "The market is big and colorful.",
+    "es": "El mercado es grande y lleno de colores."
+   },
+   {
+    "en": "\"How much are the tomatoes?\" she asks.",
+    "es": "\"¿Cuánto cuestan los tomates?\", pregunta."
+   },
+   {
+    "en": "\"Two dollars a kilo,\" says the man.",
+    "es": "\"Dos dólares el kilo\", dice el señor."
+   },
+   {
+    "en": "Marta buys tomatoes, bread and some fruit.",
+    "es": "Marta compra tomates, pan y algo de fruta."
+   },
+   {
+    "en": "She is happy because the fruit is fresh and cheap.",
+    "es": "Está feliz porque la fruta está fresca y barata."
+   },
+   {
+    "en": "At home, her family eats breakfast together.",
+    "es": "En casa, su familia desayuna junta."
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Cuándo va Marta al mercado?",
+    "options": [
+     "Todos los sábados",
+     "Todos los días",
+     "Los domingos"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Cuánto cuestan los tomates?",
+    "options": [
+     "Un dólar",
+     "Dos dólares el kilo",
+     "Tres dólares"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-a1-day",
+  "level": "A1",
+  "title": "My best friend",
+  "emoji": "🧑‍🤝‍🧑",
+  "kind": "story",
+  "summary": "Describir a una persona. Verbo to be, have y presente simple.",
+  "sentences": [
+   {
+    "en": "My best friend is called Pedro.",
+    "es": "Mi mejor amigo se llama Pedro."
+   },
+   {
+    "en": "He is tall and he has short black hair.",
+    "es": "Es alto y tiene el pelo corto y negro."
+   },
+   {
+    "en": "Pedro is very funny and kind.",
+    "es": "Pedro es muy chistoso y amable."
+   },
+   {
+    "en": "He lives near my house, so we walk to school together.",
+    "es": "Vive cerca de mi casa, así que caminamos juntos al colegio."
+   },
+   {
+    "en": "He likes football and music.",
+    "es": "Le gusta el fútbol y la música."
+   },
+   {
+    "en": "On weekends, we play video games and eat pizza.",
+    "es": "Los fines de semana jugamos videojuegos y comemos pizza."
+   },
+   {
+    "en": "Pedro is a good friend because he always helps me.",
+    "es": "Pedro es un buen amigo porque siempre me ayuda."
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Cómo es el pelo de Pedro?",
+    "options": [
+     "Largo y rubio",
+     "Corto y negro",
+     "Crespo"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Por qué es un buen amigo?",
+    "options": [
+     "Porque es alto",
+     "Porque siempre ayuda",
+     "Porque es rico"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-a2-trip",
+  "level": "A2",
+  "title": "A trip to the coast",
+  "emoji": "🏖️",
+  "kind": "story",
+  "summary": "Un viaje en pasado simple. Verbos regulares e irregulares.",
+  "sentences": [
+   {
+    "en": "Last December, my family traveled to Santa Marta.",
+    "es": "El diciembre pasado, mi familia viajó a Santa Marta."
+   },
+   {
+    "en": "We took a bus at night and arrived in the morning.",
+    "es": "Tomamos un bus de noche y llegamos en la mañana."
+   },
+   {
+    "en": "The weather was hot and sunny.",
+    "es": "El clima estaba caliente y soleado."
+   },
+   {
+    "en": "On the first day, we went to the beach and swam in the sea.",
+    "es": "El primer día fuimos a la playa y nadamos en el mar."
+   },
+   {
+    "en": "My little brother built a huge sandcastle.",
+    "es": "Mi hermanito construyó un castillo de arena enorme."
+   },
+   {
+    "en": "We ate fresh fish and drank coconut water.",
+    "es": "Comimos pescado fresco y tomamos agua de coco."
+   },
+   {
+    "en": "In the evening, we watched the sunset. It was beautiful.",
+    "es": "En la noche vimos el atardecer. Fue hermoso."
+   },
+   {
+    "en": "I didn't want to come back home!",
+    "es": "¡No quería volver a casa!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿A dónde viajó la familia?",
+    "options": [
+     "A Cartagena",
+     "A Santa Marta",
+     "A Cali"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Qué hicieron el primer día?",
+    "options": [
+     "Fueron a un museo",
+     "Fueron a la playa y nadaron",
+     "Durmieron todo el día"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Qué comieron?",
+    "options": [
+     "Pizza",
+     "Pescado fresco",
+     "Pollo"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-a2-dialogue",
+  "level": "A2",
+  "title": "At the restaurant",
+  "emoji": "🍽️",
+  "kind": "dialogue",
+  "summary": "Un diálogo en un restaurante. Pedir comida y hablar del pasado.",
+  "sentences": [
+   {
+    "en": "Good evening. Are you ready to order?",
+    "es": "Buenas noches. ¿Están listos para ordenar?",
+    "who": "Waiter"
+   },
+   {
+    "en": "Yes. I'd like the chicken with rice, please.",
+    "es": "Sí. Quisiera el pollo con arroz, por favor.",
+    "who": "Lucía"
+   },
+   {
+    "en": "And to drink?",
+    "es": "¿Y para tomar?",
+    "who": "Waiter"
+   },
+   {
+    "en": "A lemonade, please.",
+    "es": "Una limonada, por favor.",
+    "who": "Lucía"
+   },
+   {
+    "en": "Did you come here last week too?",
+    "es": "¿También vinieron la semana pasada?",
+    "who": "Waiter"
+   },
+   {
+    "en": "Yes, we did! The food was delicious.",
+    "es": "¡Sí! La comida estuvo deliciosa.",
+    "who": "Lucía"
+   },
+   {
+    "en": "Thank you. I'll bring your order soon.",
+    "es": "Gracias. Les traigo su pedido pronto.",
+    "who": "Waiter"
+   },
+   {
+    "en": "Could you bring some bread too?",
+    "es": "¿Podría traer también algo de pan?",
+    "who": "Lucía"
+   },
+   {
+    "en": "Of course.",
+    "es": "Claro que sí.",
+    "who": "Waiter"
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Qué pidió Lucía?",
+    "options": [
+     "Pollo con arroz",
+     "Pescado",
+     "Sopa"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Cómo estuvo la comida la semana pasada?",
+    "options": [
+     "Mala",
+     "Deliciosa",
+     "Cara"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-b1-decision",
+  "level": "B1",
+  "title": "The big decision",
+  "emoji": "🧭",
+  "kind": "story",
+  "summary": "Una decisión de vida. Present perfect, condicionales y futuro.",
+  "sentences": [
+   {
+    "en": "Camilo has worked at the same company for five years.",
+    "es": "Camilo ha trabajado en la misma empresa durante cinco años."
+   },
+   {
+    "en": "He likes his job, but lately he has felt bored and tired.",
+    "es": "Le gusta su trabajo, pero últimamente se ha sentido aburrido y cansado."
+   },
+   {
+    "en": "Last month, a friend offered him a position in a startup.",
+    "es": "El mes pasado, un amigo le ofreció un puesto en un emprendimiento."
+   },
+   {
+    "en": "\"If I take the job, I'll have to move to another city,\" he thought.",
+    "es": "\"Si acepto el trabajo, tendré que mudarme a otra ciudad\", pensó."
+   },
+   {
+    "en": "It was a difficult decision. He talked to his family and made a list of pros and cons.",
+    "es": "Fue una decisión difícil. Habló con su familia e hizo una lista de pros y contras."
+   },
+   {
+    "en": "\"If I don't take risks, I'll never grow,\" he finally decided.",
+    "es": "\"Si no corro riesgos, nunca voy a crecer\", decidió al fin."
+   },
+   {
+    "en": "Next month, Camilo is going to start his new adventure. He's nervous but excited.",
+    "es": "El próximo mes, Camilo va a empezar su nueva aventura. Está nervioso pero emocionado."
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Cuánto tiempo ha trabajado Camilo en la empresa?",
+    "options": [
+     "Cinco años",
+     "Un año",
+     "Diez años"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué le ofreció su amigo?",
+    "options": [
+     "Un préstamo",
+     "Un puesto en un emprendimiento",
+     "Un viaje"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Qué decidió al final?",
+    "options": [
+     "Quedarse",
+     "Correr el riesgo y aceptar",
+     "Renunciar y descansar"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-b1-tech",
+  "level": "B1",
+  "title": "The smartphone revolution",
+  "emoji": "📱",
+  "kind": "article",
+  "summary": "Un artículo corto sobre tecnología. Pasiva, present perfect y conectores.",
+  "sentences": [
+   {
+    "en": "The smartphone has changed the way we live.",
+    "es": "El teléfono inteligente ha cambiado la forma en que vivimos."
+   },
+   {
+    "en": "Twenty years ago, phones were only used to make calls and send messages.",
+    "es": "Hace veinte años, los teléfonos solo se usaban para hacer llamadas y enviar mensajes."
+   },
+   {
+    "en": "Today, millions of tasks are done on a single device.",
+    "es": "Hoy, millones de tareas se hacen en un solo dispositivo."
+   },
+   {
+    "en": "We can pay bills, study, work and talk to people on the other side of the world.",
+    "es": "Podemos pagar facturas, estudiar, trabajar y hablar con gente del otro lado del mundo."
+   },
+   {
+    "en": "However, this technology also has disadvantages.",
+    "es": "Sin embargo, esta tecnología también tiene desventajas."
+   },
+   {
+    "en": "Many people spend too much time looking at their screens, and some feel anxious without their phones.",
+    "es": "Mucha gente pasa demasiado tiempo mirando la pantalla, y algunos se sienten ansiosos sin su celular."
+   },
+   {
+    "en": "In conclusion, the smartphone is a powerful tool, but we should use it wisely.",
+    "es": "En conclusión, el teléfono inteligente es una herramienta poderosa, pero deberíamos usarlo con sensatez."
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Para qué se usaban los teléfonos hace veinte años?",
+    "options": [
+     "Para hacer llamadas y enviar mensajes",
+     "Para pagar facturas",
+     "Para estudiar"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué desventaja menciona?",
+    "options": [
+     "Son muy caros",
+     "La gente pasa demasiado tiempo en la pantalla",
+     "No funcionan bien"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-b2-interview",
+  "level": "B2",
+  "title": "A job interview",
+  "emoji": "💼",
+  "kind": "dialogue",
+  "summary": "Una entrevista de trabajo. Registro semiformal y present perfect.",
+  "sentences": [
+   {
+    "en": "Thank you for coming. Could you tell me about yourself?",
+    "es": "Gracias por venir. ¿Podría hablarme de usted?",
+    "who": "Interviewer"
+   },
+   {
+    "en": "Of course. I'm a software developer with four years of experience.",
+    "es": "Claro. Soy desarrolladora de software con cuatro años de experiencia.",
+    "who": "Daniela"
+   },
+   {
+    "en": "What would you say is your greatest strength?",
+    "es": "¿Cuál diría que es su mayor fortaleza?",
+    "who": "Interviewer"
+   },
+   {
+    "en": "I'm good at solving problems under pressure, and I'm a fast learner.",
+    "es": "Soy buena resolviendo problemas bajo presión y aprendo rápido.",
+    "who": "Daniela"
+   },
+   {
+    "en": "Have you ever led a team?",
+    "es": "¿Alguna vez ha liderado un equipo?",
+    "who": "Interviewer"
+   },
+   {
+    "en": "Yes, I have. In my last job, I managed a team of three developers.",
+    "es": "Sí. En mi último trabajo dirigí un equipo de tres desarrolladores.",
+    "who": "Daniela"
+   },
+   {
+    "en": "Why do you want to work with us?",
+    "es": "¿Por qué quiere trabajar con nosotros?",
+    "who": "Interviewer"
+   },
+   {
+    "en": "I admire your company's innovative projects, and I'd love to contribute.",
+    "es": "Admiro los proyectos innovadores de su empresa y me encantaría contribuir.",
+    "who": "Daniela"
+   },
+   {
+    "en": "Excellent. We'll be in touch soon.",
+    "es": "Excelente. Nos pondremos en contacto pronto.",
+    "who": "Interviewer"
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Cuánta experiencia tiene Daniela?",
+    "options": [
+     "Cuatro años",
+     "Un año",
+     "Diez años"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Cuál es su fortaleza?",
+    "options": [
+     "Resolver problemas bajo presión",
+     "Hablar varios idiomas",
+     "Trabajar sola"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Por qué quiere el trabajo?",
+    "options": [
+     "Por el salario",
+     "Admira los proyectos innovadores de la empresa",
+     "Por el horario"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-b2-nature",
+  "level": "B2",
+  "title": "Colombia: a land of birds",
+  "emoji": "🦜",
+  "kind": "article",
+  "summary": "Un artículo sobre biodiversidad. Pasiva, comparativos y vocabulario de naturaleza.",
+  "sentences": [
+   {
+    "en": "Colombia is one of the most biodiverse countries in the world.",
+    "es": "Colombia es uno de los países con mayor biodiversidad del mundo."
+   },
+   {
+    "en": "In fact, more bird species are found here than in any other country.",
+    "es": "De hecho, aquí se encuentran más especies de aves que en cualquier otro país."
+   },
+   {
+    "en": "From the Amazon rainforest to the snowy mountains, the landscapes are incredibly varied.",
+    "es": "Desde la selva amazónica hasta las montañas nevadas, los paisajes son increíblemente variados."
+   },
+   {
+    "en": "This natural wealth attracts thousands of tourists and scientists every year.",
+    "es": "Esta riqueza natural atrae a miles de turistas y científicos cada año."
+   },
+   {
+    "en": "However, many species are threatened by deforestation and climate change.",
+    "es": "Sin embargo, muchas especies están amenazadas por la deforestación y el cambio climático."
+   },
+   {
+    "en": "Fortunately, several national parks have been created to protect these ecosystems.",
+    "es": "Afortunadamente, se han creado varios parques nacionales para proteger estos ecosistemas."
+   },
+   {
+    "en": "If these efforts continue, future generations will be able to enjoy this unique natural heritage.",
+    "es": "Si estos esfuerzos continúan, las generaciones futuras podrán disfrutar de este patrimonio natural único."
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Qué récord mundial tiene Colombia según el texto?",
+    "options": [
+     "Más especies de aves",
+     "Más ríos",
+     "Más volcanes"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "¿Qué amenaza a muchas especies?",
+    "options": [
+     "El turismo",
+     "La deforestación y el cambio climático",
+     "Los parques"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Qué se ha creado para protegerlas?",
+    "options": [
+     "Zoológicos",
+     "Parques nacionales",
+     "Fábricas"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "r-c1-essay",
+  "level": "C1",
+  "title": "Is technology making us lonelier?",
+  "emoji": "🤔",
+  "kind": "article",
+  "summary": "Un ensayo breve de opinión. Lenguaje de matización y argumentación avanzada.",
+  "sentences": [
+   {
+    "en": "It is often argued that technology, despite connecting us, is actually making us lonelier.",
+    "es": "A menudo se argumenta que la tecnología, a pesar de conectarnos, en realidad nos está haciendo más solitarios."
+   },
+   {
+    "en": "To some extent, this claim appears to be justified.",
+    "es": "Hasta cierto punto, esta afirmación parece estar justificada."
+   },
+   {
+    "en": "Research suggests that people who spend excessive time on social media tend to report higher levels of isolation.",
+    "es": "Las investigaciones sugieren que las personas que pasan tiempo excesivo en redes sociales suelen reportar mayores niveles de aislamiento."
+   },
+   {
+    "en": "Nevertheless, it would be simplistic to blame technology alone.",
+    "es": "No obstante, sería simplista culpar solo a la tecnología."
+   },
+   {
+    "en": "After all, the same tools that isolate some people allow others to maintain meaningful relationships across great distances.",
+    "es": "Después de todo, las mismas herramientas que aíslan a algunos permiten a otros mantener relaciones significativas a grandes distancias."
+   },
+   {
+    "en": "Arguably, the problem lies not in the technology itself, but in how we choose to use it.",
+    "es": "Podría argumentarse que el problema no reside en la tecnología en sí, sino en cómo elegimos usarla."
+   },
+   {
+    "en": "In conclusion, technology is neither inherently good nor bad; it is a mirror that reflects our own habits and intentions.",
+    "es": "En conclusión, la tecnología no es intrínsecamente buena ni mala; es un espejo que refleja nuestros propios hábitos e intenciones."
+   }
+  ],
+  "questions": [
+   {
+    "q": "¿Qué sugieren las investigaciones?",
+    "options": [
+     "Que las redes sociales no afectan a nadie",
+     "Que el uso excesivo se asocia con más aislamiento",
+     "Que la tecnología siempre une"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Dónde reside el problema, según el autor?",
+    "options": [
+     "En la tecnología en sí",
+     "En cómo elegimos usarla",
+     "En las empresas"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "¿Cuál es la conclusión?",
+    "options": [
+     "La tecnología es mala",
+     "La tecnología es un espejo de nuestros hábitos",
+     "Hay que prohibir la tecnología"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

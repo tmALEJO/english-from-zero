@@ -1,0 +1,1428 @@
+{
+ "_generated": true,
+ "id": "u32-naturaleza",
+ "level": "A2",
+ "title": "Animales y naturaleza",
+ "emoji": "🦜",
+ "canDo": "Ya puedo hablar de animales, paisajes y la naturaleza",
+ "summary": "Animales, paisajes y vocabulario de la naturaleza de Colombia y el mundo.",
+ "grammar": [
+  "There was / there were",
+  "Adjetivos para describir lugares"
+ ],
+ "items": [
+  {
+   "id": "u32.dog",
+   "en": "dog",
+   "es": "perro",
+   "kind": "word",
+   "emoji": "🐕"
+  },
+  {
+   "id": "u32.horse",
+   "en": "horse",
+   "es": "caballo",
+   "kind": "word",
+   "emoji": "🐴",
+   "say": "jors"
+  },
+  {
+   "id": "u32.cow",
+   "en": "cow",
+   "es": "vaca",
+   "kind": "word",
+   "emoji": "🐄",
+   "say": "káu"
+  },
+  {
+   "id": "u32.pig",
+   "en": "pig",
+   "es": "cerdo",
+   "kind": "word",
+   "emoji": "🐖",
+   "say": "pig"
+  },
+  {
+   "id": "u32.chicken-animal",
+   "en": "chicken",
+   "es": "gallina",
+   "kind": "word",
+   "emoji": "🐔",
+   "tip": "Aquí con el sentido de: animal."
+  },
+  {
+   "id": "u32.duck",
+   "en": "duck",
+   "es": "pato",
+   "kind": "word",
+   "emoji": "🦆",
+   "say": "dak"
+  },
+  {
+   "id": "u32.rabbit",
+   "en": "rabbit",
+   "es": "conejo",
+   "kind": "word",
+   "emoji": "🐇",
+   "say": "rá-bit"
+  },
+  {
+   "id": "u32.mouse-animal",
+   "en": "mouse",
+   "es": "ratón",
+   "kind": "word",
+   "emoji": "🐁",
+   "tip": "Aquí con el sentido de: animal."
+  },
+  {
+   "id": "u32.bird",
+   "en": "bird",
+   "es": "pájaro",
+   "kind": "word",
+   "emoji": "🐦",
+   "say": "berd"
+  },
+  {
+   "id": "u32.parrot",
+   "en": "parrot",
+   "es": "loro",
+   "kind": "word",
+   "emoji": "🦜",
+   "say": "pá-rot"
+  },
+  {
+   "id": "u32.snake",
+   "en": "snake",
+   "es": "serpiente",
+   "kind": "word",
+   "emoji": "🐍",
+   "say": "snéik"
+  },
+  {
+   "id": "u32.frog",
+   "en": "frog",
+   "es": "rana",
+   "kind": "word",
+   "emoji": "🐸",
+   "say": "frog"
+  },
+  {
+   "id": "u32.turtle",
+   "en": "turtle",
+   "es": "tortuga",
+   "kind": "word",
+   "emoji": "🐢",
+   "say": "tér-tol"
+  },
+  {
+   "id": "u32.butterfly",
+   "en": "butterfly",
+   "es": "mariposa",
+   "kind": "word",
+   "emoji": "🦋",
+   "say": "bá-ter-flai"
+  },
+  {
+   "id": "u32.bee",
+   "en": "bee",
+   "es": "abeja",
+   "kind": "word",
+   "emoji": "🐝",
+   "say": "bíi"
+  },
+  {
+   "id": "u32.spider",
+   "en": "spider",
+   "es": "araña",
+   "kind": "word",
+   "emoji": "🕷️",
+   "say": "spái-der"
+  },
+  {
+   "id": "u32.monkey",
+   "en": "monkey",
+   "es": "mono",
+   "kind": "word",
+   "emoji": "🐒",
+   "say": "mán-ki"
+  },
+  {
+   "id": "u32.bear",
+   "en": "bear",
+   "es": "oso",
+   "kind": "word",
+   "emoji": "🐻",
+   "say": "ber"
+  },
+  {
+   "id": "u32.lion",
+   "en": "lion",
+   "es": "león",
+   "kind": "word",
+   "emoji": "🦁",
+   "say": "lái-on"
+  },
+  {
+   "id": "u32.tiger",
+   "en": "tiger",
+   "es": "tigre",
+   "kind": "word",
+   "emoji": "🐯",
+   "say": "tái-ger"
+  },
+  {
+   "id": "u32.elephant",
+   "en": "elephant",
+   "es": "elefante",
+   "kind": "word",
+   "emoji": "🐘",
+   "say": "é-le-fant"
+  },
+  {
+   "id": "u32.whale",
+   "en": "whale",
+   "es": "ballena",
+   "kind": "word",
+   "emoji": "🐋",
+   "say": "uéil"
+  },
+  {
+   "id": "u32.shark",
+   "en": "shark",
+   "es": "tiburón",
+   "kind": "word",
+   "emoji": "🦈",
+   "say": "shark"
+  },
+  {
+   "id": "u32.river",
+   "en": "river",
+   "es": "río",
+   "kind": "word",
+   "emoji": "🏞️",
+   "say": "rí-ver"
+  },
+  {
+   "id": "u32.lake",
+   "en": "lake",
+   "es": "lago",
+   "kind": "word",
+   "emoji": "🛶",
+   "say": "léik"
+  },
+  {
+   "id": "u32.sea",
+   "en": "sea",
+   "es": "mar",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "síi"
+  },
+  {
+   "id": "u32.ocean",
+   "en": "ocean",
+   "es": "océano",
+   "kind": "word",
+   "emoji": "🌏",
+   "say": "óu-shan"
+  },
+  {
+   "id": "u32.forest",
+   "en": "forest",
+   "es": "bosque",
+   "kind": "word",
+   "emoji": "🌲",
+   "say": "fó-rest"
+  },
+  {
+   "id": "u32.jungle",
+   "en": "jungle",
+   "es": "selva",
+   "kind": "word",
+   "emoji": "🌴",
+   "say": "yán-gol"
+  },
+  {
+   "id": "u32.desert",
+   "en": "desert",
+   "es": "desierto",
+   "kind": "word",
+   "emoji": "🏜️",
+   "say": "dé-sert"
+  },
+  {
+   "id": "u32.volcano",
+   "en": "volcano",
+   "es": "volcán",
+   "kind": "word",
+   "emoji": "🌋",
+   "say": "vol-kéi-nou"
+  },
+  {
+   "id": "u32.island",
+   "en": "island",
+   "es": "isla",
+   "kind": "word",
+   "emoji": "🏝️",
+   "say": "ái-land",
+   "tip": "La s no suena."
+  },
+  {
+   "id": "u32.waterfall",
+   "en": "waterfall",
+   "es": "cascada",
+   "kind": "word",
+   "emoji": "💦",
+   "say": "uó-ter-fol"
+  },
+  {
+   "id": "u32.hill",
+   "en": "hill",
+   "es": "loma / colina",
+   "kind": "word",
+   "emoji": "⛰️",
+   "say": "jil"
+  },
+  {
+   "id": "u32.sky",
+   "en": "sky",
+   "es": "cielo",
+   "kind": "word",
+   "emoji": "🌌",
+   "say": "skái"
+  },
+  {
+   "id": "u32.moon",
+   "en": "moon",
+   "es": "luna",
+   "kind": "word",
+   "emoji": "🌙",
+   "say": "muun"
+  },
+  {
+   "id": "u32.flower",
+   "en": "flower",
+   "es": "flor",
+   "kind": "word",
+   "emoji": "🌺",
+   "say": "fláu-er"
+  },
+  {
+   "id": "u32.grass",
+   "en": "grass",
+   "es": "pasto / césped",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "gras"
+  },
+  {
+   "id": "u32.leaf",
+   "en": "leaf",
+   "es": "hoja (de árbol)",
+   "kind": "word",
+   "emoji": "🍃",
+   "say": "líif"
+  },
+  {
+   "id": "u32.wild",
+   "en": "wild",
+   "es": "salvaje",
+   "kind": "word",
+   "emoji": "🐾",
+   "say": "uáild"
+  },
+  {
+   "id": "u32.endangered",
+   "en": "endangered",
+   "es": "en peligro de extinción",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "en-déin-yerd"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u32-naturaleza-l1",
+   "title": "1. dog, horse, cow…",
+   "focus": "listening",
+   "newItems": [
+    "u32.dog",
+    "u32.horse",
+    "u32.cow",
+    "u32.pig"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.dog",
+      "u32.horse"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.cow",
+      "u32.pig"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.dog",
+      "u32.horse",
+      "u32.cow",
+      "u32.pig"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.dog",
+      "u32.horse",
+      "u32.cow",
+      "u32.pig"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l2",
+   "title": "2. chicken, duck, rabbit…",
+   "focus": "grammar",
+   "newItems": [
+    "u32.chicken-animal",
+    "u32.duck",
+    "u32.rabbit",
+    "u32.mouse-animal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.chicken-animal",
+      "u32.duck"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.rabbit",
+      "u32.mouse-animal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.chicken-animal",
+      "u32.duck",
+      "u32.rabbit",
+      "u32.mouse-animal"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.chicken-animal",
+      "u32.duck",
+      "u32.rabbit",
+      "u32.mouse-animal"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.dog",
+      "u32.horse",
+      "u32.cow",
+      "u32.pig"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "There was / there were",
+     "intro": "Es el pasado de there is / there are. Mira la cantidad.",
+     "examples": [
+      {
+       "en": "There was a big snake in the garden.",
+       "es": "Había una serpiente grande en el jardín.",
+       "mark": [
+        "There was"
+       ]
+      },
+      {
+       "en": "There was a waterfall near the hotel.",
+       "es": "Había una cascada cerca del hotel.",
+       "mark": [
+        "There was"
+       ]
+      },
+      {
+       "en": "There were many birds in the forest.",
+       "es": "Había muchos pájaros en el bosque.",
+       "mark": [
+        "There were"
+       ]
+      },
+      {
+       "en": "There weren't any people on the beach.",
+       "es": "No había nadie en la playa.",
+       "mark": [
+        "There weren't"
+       ]
+      },
+      {
+       "en": "Was there a lake? Yes, there was.",
+       "es": "¿Había un lago? Sí.",
+       "mark": [
+        "Was there"
+       ]
+      }
+     ],
+     "question": "¿Qué forma va con varias cosas?",
+     "options": [
+      "There was",
+      "There were"
+     ],
+     "answer": 1,
+     "rule": "There was = había (una cosa). There were = había (varias cosas). Es el mismo cambio de is → was y are → were.",
+     "ruleExamples": [
+      {
+       "en": "When I was a child, there were horses and cows on my grandfather's farm.",
+       "es": "Cuando era niño, había caballos y vacas en la finca de mi abuelo."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ a monkey in the tree!",
+     "options": [
+      "There was",
+      "There were"
+     ],
+     "answer": 0,
+     "es": "¡Había un mono en el árbol!"
+    },
+    {
+     "type": "fill",
+     "en": "___ three turtles on the beach.",
+     "options": [
+      "There was",
+      "There were"
+     ],
+     "answer": 1,
+     "es": "Había tres tortugas en la playa."
+    },
+    {
+     "type": "fill",
+     "en": "___ there any whales?",
+     "options": [
+      "Were",
+      "Was"
+     ],
+     "answer": 0,
+     "es": "¿Había ballenas?"
+    },
+    {
+     "type": "fill",
+     "en": "There ___ any fish in the river.",
+     "options": [
+      "wasn't",
+      "weren't"
+     ],
+     "answer": 1,
+     "es": "No había peces en el río."
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l3",
+   "title": "3. bird, parrot, snake…",
+   "focus": "reading",
+   "newItems": [
+    "u32.bird",
+    "u32.parrot",
+    "u32.snake",
+    "u32.frog"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.bird",
+      "u32.parrot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.snake",
+      "u32.frog"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.bird",
+      "u32.parrot",
+      "u32.snake",
+      "u32.frog"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.bird",
+      "u32.parrot",
+      "u32.snake",
+      "u32.frog"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.cow",
+      "u32.pig",
+      "u32.chicken-animal",
+      "u32.duck",
+      "u32.rabbit",
+      "u32.mouse-animal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l4",
+   "title": "4. turtle, butterfly, bee…",
+   "focus": "listening",
+   "newItems": [
+    "u32.turtle",
+    "u32.butterfly",
+    "u32.bee",
+    "u32.spider"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.turtle",
+      "u32.butterfly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.bee",
+      "u32.spider"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.turtle",
+      "u32.butterfly",
+      "u32.bee",
+      "u32.spider"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.turtle",
+      "u32.butterfly",
+      "u32.bee",
+      "u32.spider"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.rabbit",
+      "u32.mouse-animal",
+      "u32.bird",
+      "u32.parrot",
+      "u32.snake",
+      "u32.frog"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l5",
+   "title": "5. monkey, bear, lion…",
+   "focus": "listening",
+   "newItems": [
+    "u32.monkey",
+    "u32.bear",
+    "u32.lion",
+    "u32.tiger"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.monkey",
+      "u32.bear"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.lion",
+      "u32.tiger"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.monkey",
+      "u32.bear",
+      "u32.lion",
+      "u32.tiger"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.monkey",
+      "u32.bear",
+      "u32.lion",
+      "u32.tiger"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.snake",
+      "u32.frog",
+      "u32.turtle",
+      "u32.butterfly",
+      "u32.bee",
+      "u32.spider"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l6",
+   "title": "6. elephant, whale, shark…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u32.elephant",
+    "u32.whale",
+    "u32.shark",
+    "u32.river"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.elephant",
+      "u32.whale"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.shark",
+      "u32.river"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.elephant",
+      "u32.whale",
+      "u32.shark",
+      "u32.river"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.elephant",
+      "u32.whale",
+      "u32.shark",
+      "u32.river"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.bee",
+      "u32.spider",
+      "u32.monkey",
+      "u32.bear",
+      "u32.lion",
+      "u32.tiger"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l7",
+   "title": "7. lake, sea, ocean…",
+   "focus": "reading",
+   "newItems": [
+    "u32.lake",
+    "u32.sea",
+    "u32.ocean",
+    "u32.forest"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.lake",
+      "u32.sea"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.ocean",
+      "u32.forest"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.lake",
+      "u32.sea",
+      "u32.ocean",
+      "u32.forest"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.lake",
+      "u32.sea",
+      "u32.ocean",
+      "u32.forest"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.lion",
+      "u32.tiger",
+      "u32.elephant",
+      "u32.whale",
+      "u32.shark",
+      "u32.river"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🇨🇴",
+     "title": "Colombia en inglés",
+     "text": "Colombia es uno de los países con más especies de aves del mundo: 'Colombia has more bird species than any other country.' Muchas guías de turismo en inglés usan este vocabulario."
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l8",
+   "title": "8. jungle, desert, volcano…",
+   "focus": "listening",
+   "newItems": [
+    "u32.jungle",
+    "u32.desert",
+    "u32.volcano",
+    "u32.island"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.jungle",
+      "u32.desert"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.volcano",
+      "u32.island"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.jungle",
+      "u32.desert",
+      "u32.volcano",
+      "u32.island"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.jungle",
+      "u32.desert",
+      "u32.volcano",
+      "u32.island"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.shark",
+      "u32.river",
+      "u32.lake",
+      "u32.sea",
+      "u32.ocean",
+      "u32.forest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l9",
+   "title": "9. waterfall, hill, sky…",
+   "focus": "listening",
+   "newItems": [
+    "u32.waterfall",
+    "u32.hill",
+    "u32.sky",
+    "u32.moon"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.waterfall",
+      "u32.hill"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.sky",
+      "u32.moon"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.waterfall",
+      "u32.hill",
+      "u32.sky",
+      "u32.moon"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.waterfall",
+      "u32.hill",
+      "u32.sky",
+      "u32.moon"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.ocean",
+      "u32.forest",
+      "u32.jungle",
+      "u32.desert",
+      "u32.volcano",
+      "u32.island"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En el zoológico",
+     "scene": "🦁 Visitas el zoológico con tu sobrina.",
+     "lines": [
+      {
+       "who": "Niece",
+       "en": "Look! What's that animal?",
+       "es": "¡Mira! ¿Qué animal es ese?"
+      },
+      {
+       "who": "You",
+       "en": "It's a tiger. It's very dangerous.",
+       "es": "Es un tigre. Es muy peligroso."
+      },
+      {
+       "who": "Niece",
+       "en": "Is it bigger than a lion?",
+       "es": "¿Es más grande que un león?"
+      },
+      {
+       "who": "You",
+       "en": "Yes, tigers are the biggest cats in the world.",
+       "es": "Sí, los tigres son los felinos más grandes del mundo."
+      },
+      {
+       "who": "Niece",
+       "en": "Are there any elephants?",
+       "es": "¿Hay elefantes?"
+      },
+      {
+       "who": "You",
+       "en": "Yes, there are two. Let's go!",
+       "es": "Sí, hay dos. ¡Vamos!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l10",
+   "title": "10. flower, grass, leaf…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u32.flower",
+    "u32.grass",
+    "u32.leaf",
+    "u32.wild"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.flower",
+      "u32.grass"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u32.leaf",
+      "u32.wild"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.flower",
+      "u32.grass",
+      "u32.leaf",
+      "u32.wild"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.flower",
+      "u32.grass",
+      "u32.leaf",
+      "u32.wild"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.volcano",
+      "u32.island",
+      "u32.waterfall",
+      "u32.hill",
+      "u32.sky",
+      "u32.moon"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-l11",
+   "title": "11. endangered",
+   "focus": "reading",
+   "newItems": [
+    "u32.endangered"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u32.endangered"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.endangered"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.endangered"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.sky",
+      "u32.moon",
+      "u32.flower",
+      "u32.grass",
+      "u32.leaf",
+      "u32.wild"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u32-naturaleza-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Viaje al Amazonas",
+     "emoji": "🌴",
+     "paragraphs": [
+      {
+       "en": "Last year Diego traveled to the Amazon jungle with a group of tourists.",
+       "es": "El año pasado Diego viajó a la selva del Amazonas con un grupo de turistas."
+      },
+      {
+       "en": "They took a small boat on the river. The water was brown and very wide.",
+       "es": "Tomaron una lancha pequeña en el río. El agua era café y muy ancha."
+      },
+      {
+       "en": "There were monkeys in the trees and hundreds of colorful birds.",
+       "es": "Había monos en los árboles y cientos de pájaros de colores."
+      },
+      {
+       "en": "One night there was a big frog in Diego's room! He screamed.",
+       "es": "¡Una noche había una rana grande en el cuarto de Diego! Gritó."
+      },
+      {
+       "en": "The guide explained that many animals there are endangered.",
+       "es": "El guía explicó que muchos animales de allá están en peligro de extinción."
+      },
+      {
+       "en": "Diego came back home with a new dream: to protect the jungle.",
+       "es": "Diego volvió a casa con un sueño nuevo: proteger la selva."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo viajaron por el río?",
+       "options": [
+        "En una lancha pequeña",
+        "En avión",
+        "En caballo"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué había en el cuarto de Diego?",
+       "options": [
+        "Una serpiente",
+        "Una rana grande",
+        "Un mono"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué sueño tiene ahora Diego?",
+       "options": [
+        "Ser guía",
+        "Proteger la selva",
+        "Vivir en el río"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Planear una excursión",
+     "scene": "🗺️ Un amigo extranjero te pide ideas para visitar Nariño.",
+     "turns": [
+      {
+       "who": "Mark",
+       "en": "I want to see nature. What do you recommend?",
+       "es": "Quiero ver naturaleza. ¿Qué me recomiendas?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "You should visit La Cocha lake. It's beautiful.",
+         "es": "Deberías visitar la Laguna de la Cocha. Es hermosa.",
+         "ok": true
+        },
+        {
+         "en": "You should visit the elevator.",
+         "es": "Deberías visitar el ascensor.",
+         "ok": false,
+         "why": "No es naturaleza."
+        }
+       ]
+      },
+      {
+       "who": "Mark",
+       "en": "Is it far from Pasto?",
+       "es": "¿Queda lejos de Pasto?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No, it takes about forty minutes by car.",
+         "es": "No, se demora unos cuarenta minutos en carro.",
+         "ok": true
+        },
+        {
+         "en": "No, it takes forty years.",
+         "es": "No, se demora cuarenta años.",
+         "ok": false,
+         "why": "Exagerado; di un tiempo real."
+        }
+       ]
+      },
+      {
+       "who": "Mark",
+       "en": "Are there any volcanoes near Pasto?",
+       "es": "¿Hay volcanes cerca de Pasto?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, there is the Galeras volcano.",
+         "es": "Sí, está el volcán Galeras.",
+         "ok": true
+        },
+        {
+         "en": "Yes, there were a volcano.",
+         "es": "Sí, habían un volcán.",
+         "ok": false,
+         "why": "Con uno: \"there is\" (presente)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Había muchos pájaros en el bosque.",
+     "en": "There were many birds in the forest.",
+     "accept": [
+      "There were a lot of birds in the forest."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "El elefante es más grande que el caballo.",
+     "en": "The elephant is bigger than the horse."
+    },
+    {
+     "type": "write",
+     "es": "Hay una cascada cerca del río.",
+     "en": "There is a waterfall near the river.",
+     "accept": [
+      "There's a waterfall near the river."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "There was a monkey in the tree.",
+     "es": "Había un mono en el árbol."
+    },
+    {
+     "type": "dictation",
+     "en": "Many animals in the jungle are endangered.",
+     "es": "Muchos animales de la selva están en peligro de extinción."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u32.hill",
+      "u32.sky",
+      "u32.moon",
+      "u32.flower",
+      "u32.grass",
+      "u32.leaf",
+      "u32.wild",
+      "u32.endangered"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

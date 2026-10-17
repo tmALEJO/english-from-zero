@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useApp } from '../state';
-import { currentLevel, levelProgress, nextLesson, lessonsDone } from '../engine/progress';
+import { currentLevel, levelProgress, nextStep, isUnitDone } from '../engine/progress';
 import { curriculum, route, units } from '../engine/content';
 import { isDue } from '../engine/srs';
 import { ProgressBar } from '../components/common';
@@ -12,12 +12,12 @@ function daysPracticedThisWeek(times: number[]): number {
 
 export default function Home() {
   const { lessons, cards, history, settings } = useApp();
-  const next = nextLesson(lessons, settings.explorerMode);
+  const next = nextStep(lessons, settings.explorerMode);
   const due = cards.filter((c) => isDue(c)).length;
   const lvl = currentLevel(lessons);
   const lp = levelProgress(lessons).find((l) => l.id === lvl.working)!;
   const levelInfo = curriculum.levels.find((l) => l.id === lvl.working)!;
-  const lastWin = [...route].reverse().find((r) => units[r.id] && lessonsDone(r.id, lessons) === units[r.id].lessons.length);
+  const lastWin = [...route].reverse().find((r) => units[r.id] && isUnitDone(r.id, lessons));
   const days = daysPracticedThisWeek(history.map((h) => h.at));
   const isNew = lessons.length === 0;
   const total = lp.ready + lp.planned;
@@ -29,17 +29,24 @@ export default function Home() {
         <h1 className="home__title">{isNew ? 'Empecemos desde cero.' : next ? 'Sigue donde te quedaste.' : 'Terminaste todo lo disponible.'}</h1>
       </header>
 
-      {next && (
-        <Link to={`/leccion/${next.lesson.id}`} className="next">
-          <span className="next__emoji" aria-hidden>{next.unit.emoji}</span>
-          <span className="next__body">
-            <span className="next__unit">{next.unit.title}</span>
-            <span className="next__lesson">{next.lesson.title}</span>
-            <span className="next__meta">{next.lesson.newItems.length ? `${next.lesson.newItems.length} palabras nuevas` : 'Solo repaso y práctica'} · unos 8 minutos</span>
-          </span>
-          <span className="next__go">{isNew ? 'Empezar' : 'Continuar'}</span>
-        </Link>
-      )}
+      {next && (() => {
+        const to = next.kind === 'lesson' ? `/leccion/${next.lesson.id}` : next.kind === 'test' ? `/prueba/${next.unit.id}` : `/examen/${next.exam.id}`;
+        const emoji = next.kind === 'exam' ? '📝' : next.kind === 'test' ? '🏁' : next.unit.emoji;
+        const kicker = next.kind === 'exam' ? 'Examen' : next.kind === 'test' ? next.unit.title : next.unit.title;
+        const title = next.kind === 'exam' ? next.exam.title : next.kind === 'test' ? 'Prueba de la unidad' : next.lesson.title;
+        const meta = next.kind === 'exam' ? `${next.exam.questions} preguntas` : next.kind === 'test' ? 'Demuestra lo aprendido' : next.lesson.newItems.length ? `${next.lesson.newItems.length} palabras nuevas · unos 8 minutos` : 'Repaso y práctica · unos 8 minutos';
+        return (
+          <Link to={to} className="next">
+            <span className="next__emoji" aria-hidden>{emoji}</span>
+            <span className="next__body">
+              <span className="next__unit">{kicker}</span>
+              <span className="next__lesson">{title}</span>
+              <span className="next__meta">{meta}</span>
+            </span>
+            <span className="next__go">{isNew ? 'Empezar' : 'Continuar'}</span>
+          </Link>
+        );
+      })()}
 
       <div className="home__grid">
         <Link to={due ? '/repasar' : '/repaso'} className="tile-card">

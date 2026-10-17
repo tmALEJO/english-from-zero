@@ -111,3 +111,43 @@ export function sentenceTiles(en: string): string[] {
 export function uid(): string {
   return Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
 }
+
+export interface TypedCheck {
+  ok: boolean;
+  /** Cada palabra de la respuesta correcta y si la escribiste bien, con un error menor o mal. */
+  words: { word: string; status: 'ok' | 'typo' | 'wrong' }[];
+}
+
+/**
+ * Corrige lo que escribiste (dictado o escritura). Ignora mayúsculas, tildes y puntuación,
+ * acepta contracciones (I'm = I am) y perdona una letra equivocada en palabras largas.
+ */
+export function checkTyped(typed: string, answers: string[]): TypedCheck {
+  let best: TypedCheck | null = null;
+  for (const answer of answers) {
+    const t = expand(answer).split(' ').filter(Boolean);
+    const h = expand(typed).split(' ').filter(Boolean);
+    const words: TypedCheck['words'] = [];
+    let j = 0;
+    let bad = 0;
+    for (const w of t) {
+      // Busca la palabra en una ventana corta para tolerar una palabra de más o de menos.
+      let found = -1;
+      let dist = 99;
+      for (let k = j; k < Math.min(h.length, j + 3); k++) {
+        const d = levenshtein(w, h[k]);
+        if (d < dist) { dist = d; found = k; }
+        if (d === 0) break;
+      }
+      const tol = w.length >= 8 ? 2 : w.length >= 5 ? 1 : 0;
+      if (found >= 0 && dist === 0) { words.push({ word: w, status: 'ok' }); j = found + 1; }
+      else if (found >= 0 && dist <= tol) { words.push({ word: w, status: 'typo' }); j = found + 1; }
+      else { words.push({ word: w, status: 'wrong' }); bad++; }
+    }
+    const extra = Math.max(0, h.length - t.length);
+    const result = { ok: bad === 0 && extra === 0, words };
+    if (!best || (result.ok && !best.ok) || result.words.filter((x) => x.status === 'wrong').length < best.words.filter((x) => x.status === 'wrong').length) best = result;
+    if (result.ok) break;
+  }
+  return best ?? { ok: false, words: [] };
+}

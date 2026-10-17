@@ -1,0 +1,1524 @@
+{
+ "_generated": true,
+ "id": "u60-imaginar",
+ "level": "B2",
+ "title": "Si yo fuera…",
+ "emoji": "💭",
+ "canDo": "Ya puedo hablar de situaciones imaginarias e hipotéticas",
+ "summary": "El segundo condicional (If I had…, I would…) para imaginar, dar consejos y soñar.",
+ "grammar": [
+  "Segundo condicional",
+  "If I were you…",
+  "would / could / might"
+ ],
+ "items": [
+  {
+   "id": "u60.would",
+   "en": "would",
+   "es": "(condicional: haría, iría…)",
+   "kind": "word",
+   "emoji": "💭"
+  },
+  {
+   "id": "u60.wouldn-t",
+   "en": "wouldn't",
+   "es": "no (haría)",
+   "kind": "word",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u60.if-i-had-more-time",
+   "en": "If I had more time",
+   "es": "Si tuviera más tiempo",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u60.i-would-travel-the-world",
+   "en": "I would travel the world",
+   "es": "Viajaría por el mundo",
+   "kind": "chunk",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u60.what-would-you-do-if",
+   "en": "What would you do if…?",
+   "es": "¿Qué harías si…?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u60.imagine",
+   "en": "imagine",
+   "es": "imaginar",
+   "kind": "word",
+   "emoji": "🌈",
+   "say": "i-má-yin"
+  },
+  {
+   "id": "u60.imaginary",
+   "en": "imaginary",
+   "es": "imaginario",
+   "kind": "word",
+   "emoji": "🦄",
+   "say": "i-má-yi-ne-ri"
+  },
+  {
+   "id": "u60.hypothetical",
+   "en": "hypothetical",
+   "es": "hipotético",
+   "kind": "word",
+   "emoji": "🤔",
+   "say": "jai-po-zé-ti-kal"
+  },
+  {
+   "id": "u60.situation",
+   "en": "situation",
+   "es": "situación",
+   "kind": "word",
+   "emoji": "🎬",
+   "say": "si-chu-éi-shon"
+  },
+  {
+   "id": "u60.dilemma",
+   "en": "dilemma",
+   "es": "dilema",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "di-lé-ma"
+  },
+  {
+   "id": "u60.lottery",
+   "en": "lottery",
+   "es": "lotería",
+   "kind": "word",
+   "emoji": "🎰",
+   "say": "ló-te-ri"
+  },
+  {
+   "id": "u60.win-the-lottery",
+   "en": "win the lottery",
+   "es": "ganarse la lotería",
+   "kind": "chunk",
+   "emoji": "💰"
+  },
+  {
+   "id": "u60.millionaire",
+   "en": "millionaire",
+   "es": "millonario",
+   "kind": "word",
+   "emoji": "💎",
+   "say": "mi-lio-nér"
+  },
+  {
+   "id": "u60.desert-island",
+   "en": "desert island",
+   "es": "isla desierta",
+   "kind": "chunk",
+   "emoji": "🏝️"
+  },
+  {
+   "id": "u60.superpower",
+   "en": "superpower",
+   "es": "superpoder",
+   "kind": "word",
+   "emoji": "🦸",
+   "say": "sú-per-pau-er"
+  },
+  {
+   "id": "u60.invisible",
+   "en": "invisible",
+   "es": "invisible",
+   "kind": "word",
+   "emoji": "👻",
+   "say": "in-ví-si-bol"
+  },
+  {
+   "id": "u60.time-travel",
+   "en": "time travel",
+   "es": "viajar en el tiempo",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u60.read-minds",
+   "en": "read minds",
+   "es": "leer la mente",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u60.might",
+   "en": "might",
+   "es": "podría (posibilidad)",
+   "kind": "word",
+   "emoji": "🎲",
+   "say": "máit"
+  },
+  {
+   "id": "u60.could-ability",
+   "en": "could",
+   "es": "podría (habilidad o posibilidad)",
+   "kind": "word",
+   "emoji": "💪",
+   "tip": "Aquí con el sentido de: ability."
+  },
+  {
+   "id": "u60.in-that-case",
+   "en": "in that case",
+   "es": "en ese caso",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u60.suppose",
+   "en": "suppose",
+   "es": "suponer",
+   "kind": "word",
+   "emoji": "🤔",
+   "say": "su-póus"
+  },
+  {
+   "id": "u60.supposing",
+   "en": "supposing",
+   "es": "suponiendo que",
+   "kind": "word",
+   "emoji": "💭"
+  },
+  {
+   "id": "u60.as-long-as",
+   "en": "as long as",
+   "es": "siempre y cuando",
+   "kind": "chunk",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u60.even-if",
+   "en": "even if",
+   "es": "aun si / incluso si",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u60.provided-that",
+   "en": "provided that",
+   "es": "con tal de que",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u60.ideal",
+   "en": "ideal",
+   "es": "ideal",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "ai-díil"
+  },
+  {
+   "id": "u60.perfect-world",
+   "en": "perfect world",
+   "es": "mundo perfecto",
+   "kind": "chunk",
+   "emoji": "🌎"
+  },
+  {
+   "id": "u60.dream-job",
+   "en": "dream job",
+   "es": "trabajo soñado",
+   "kind": "chunk",
+   "emoji": "💼"
+  },
+  {
+   "id": "u60.quit-my-job",
+   "en": "quit my job",
+   "es": "renunciar a mi trabajo",
+   "kind": "chunk",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u60.buy-a-mansion",
+   "en": "buy a mansion",
+   "es": "comprar una mansión",
+   "kind": "chunk",
+   "emoji": "🏰"
+  },
+  {
+   "id": "u60.donate",
+   "en": "donate",
+   "es": "donar",
+   "kind": "word",
+   "emoji": "🎁",
+   "say": "dóu-neit"
+  },
+  {
+   "id": "u60.charity",
+   "en": "charity",
+   "es": "beneficencia / obra de caridad",
+   "kind": "word",
+   "emoji": "🤲",
+   "say": "chá-ri-ti"
+  },
+  {
+   "id": "u60.take-a-gap-year",
+   "en": "take a gap year",
+   "es": "tomarse un año sabático",
+   "kind": "chunk",
+   "emoji": "🗓️"
+  },
+  {
+   "id": "u60.live-on-the-moon",
+   "en": "live on the moon",
+   "es": "vivir en la luna",
+   "kind": "chunk",
+   "emoji": "🌙"
+  },
+  {
+   "id": "u60.be-in-charge",
+   "en": "be in charge",
+   "es": "estar a cargo",
+   "kind": "chunk",
+   "emoji": "👑"
+  },
+  {
+   "id": "u60.president",
+   "en": "president",
+   "es": "presidente",
+   "kind": "word",
+   "emoji": "🎩",
+   "say": "pré-si-dent"
+  },
+  {
+   "id": "u60.change-the-world",
+   "en": "change the world",
+   "es": "cambiar el mundo",
+   "kind": "chunk",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u60.recommend",
+   "en": "recommend",
+   "es": "recomendar",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "re-ko-ménd"
+  },
+  {
+   "id": "u60.honestly",
+   "en": "honestly",
+   "es": "honestamente",
+   "kind": "word",
+   "emoji": "🫡",
+   "say": "ó-nest-li"
+  },
+  {
+   "id": "u60.i-d-rather",
+   "en": "I'd rather…",
+   "es": "Preferiría…",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u60.i-wouldn-t-mind",
+   "en": "I wouldn't mind…",
+   "es": "No me molestaría…",
+   "kind": "chunk",
+   "emoji": "😌"
+  },
+  {
+   "id": "u60.it-would-be-great",
+   "en": "It would be great",
+   "es": "Sería genial",
+   "kind": "chunk",
+   "emoji": "🤩"
+  },
+  {
+   "id": "u60.it-would-be-a-disaster",
+   "en": "It would be a disaster",
+   "es": "Sería un desastre",
+   "kind": "chunk",
+   "emoji": "🌪️"
+  },
+  {
+   "id": "u60.that-would-never-happen",
+   "en": "That would never happen",
+   "es": "Eso nunca pasaría",
+   "kind": "chunk",
+   "emoji": "🙅"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u60-imaginar-l1",
+   "title": "1. would, wouldn't, If I had more time…",
+   "focus": "listening",
+   "newItems": [
+    "u60.would",
+    "u60.wouldn-t",
+    "u60.if-i-had-more-time",
+    "u60.i-would-travel-the-world",
+    "u60.what-would-you-do-if"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.would",
+      "u60.wouldn-t"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.if-i-had-more-time",
+      "u60.i-would-travel-the-world"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.what-would-you-do-if"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.would",
+      "u60.wouldn-t",
+      "u60.if-i-had-more-time",
+      "u60.i-would-travel-the-world",
+      "u60.what-would-you-do-if"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.would",
+      "u60.wouldn-t",
+      "u60.if-i-had-more-time",
+      "u60.i-would-travel-the-world",
+      "u60.what-would-you-do-if"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.would",
+      "u60.wouldn-t",
+      "u60.if-i-had-more-time",
+      "u60.i-would-travel-the-world",
+      "u60.what-would-you-do-if"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l2",
+   "title": "2. imagine, imaginary, hypothetical…",
+   "focus": "grammar",
+   "newItems": [
+    "u60.imagine",
+    "u60.imaginary",
+    "u60.hypothetical",
+    "u60.situation",
+    "u60.dilemma"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.imagine",
+      "u60.imaginary"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.hypothetical",
+      "u60.situation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.dilemma"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.imagine",
+      "u60.imaginary",
+      "u60.hypothetical",
+      "u60.situation",
+      "u60.dilemma"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.imagine",
+      "u60.imaginary",
+      "u60.hypothetical",
+      "u60.situation",
+      "u60.dilemma"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.imagine",
+      "u60.imaginary",
+      "u60.hypothetical",
+      "u60.situation",
+      "u60.dilemma"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.would",
+      "u60.wouldn-t",
+      "u60.if-i-had-more-time",
+      "u60.i-would-travel-the-world",
+      "u60.what-would-you-do-if"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Segundo condicional",
+     "intro": "Compara una situación real con una imaginaria.",
+     "examples": [
+      {
+       "en": "If I have time, I'll call you. (posible)",
+       "es": "Si tengo tiempo, te llamo.",
+       "mark": [
+        "have",
+        "'ll"
+       ]
+      },
+      {
+       "en": "If I had more time, I would learn Japanese. (imaginario)",
+       "es": "Si tuviera más tiempo, aprendería japonés.",
+       "mark": [
+        "had",
+        "would"
+       ]
+      },
+      {
+       "en": "If she won the lottery, she would buy a house.",
+       "es": "Si ella se ganara la lotería, compraría una casa.",
+       "mark": [
+        "won",
+        "would"
+       ]
+      },
+      {
+       "en": "If I were you, I wouldn't accept the offer.",
+       "es": "Yo que tú, no aceptaría la oferta.",
+       "mark": [
+        "were",
+        "wouldn't"
+       ]
+      },
+      {
+       "en": "What would you do if you could fly?",
+       "es": "¿Qué harías si pudieras volar?",
+       "mark": [
+        "would",
+        "could"
+       ]
+      }
+     ],
+     "question": "En una situación imaginaria, ¿qué tiempo va después de if?",
+     "options": [
+      "Presente (if I have)",
+      "Pasado (if I had)",
+      "Futuro (if I will have)"
+     ],
+     "answer": 1,
+     "rule": "El SEGUNDO CONDICIONAL imagina situaciones irreales o poco probables: If + pasado, would + verbo. Aunque usa pasado, habla del presente o futuro. Con be se usa were para todos: If I were rich… Para aconsejar: If I were you, I would… could y might también sirven (podría).",
+     "ruleExamples": [
+      {
+       "en": "If I lived by the sea, I would swim every morning. But I live in the mountains!",
+       "es": "Si viviera junto al mar, nadaría todas las mañanas. ¡Pero vivo en las montañas!"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "If I ___ rich, I would travel the world.",
+     "options": [
+      "were",
+      "am"
+     ],
+     "answer": 0,
+     "es": "Si fuera rico, viajaría por el mundo."
+    },
+    {
+     "type": "fill",
+     "en": "If she had a car, she ___ drive to work.",
+     "options": [
+      "would",
+      "will"
+     ],
+     "answer": 0,
+     "es": "Si tuviera carro, iría manejando al trabajo."
+    },
+    {
+     "type": "fill",
+     "en": "If I were you, I ___ talk to him.",
+     "options": [
+      "would",
+      "will"
+     ],
+     "answer": 0,
+     "es": "Yo que tú, hablaría con él."
+    },
+    {
+     "type": "fill",
+     "en": "What would you do if you ___ invisible?",
+     "options": [
+      "were",
+      "are"
+     ],
+     "answer": 0,
+     "es": "¿Qué harías si fueras invisible?"
+    },
+    {
+     "type": "fill",
+     "en": "I ___ go to the party if I didn't have to work.",
+     "options": [
+      "might",
+      "may to"
+     ],
+     "answer": 0,
+     "es": "Tal vez iría a la fiesta si no tuviera que trabajar."
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l3",
+   "title": "3. lottery, win the lottery, millionaire…",
+   "focus": "reading",
+   "newItems": [
+    "u60.lottery",
+    "u60.win-the-lottery",
+    "u60.millionaire",
+    "u60.desert-island",
+    "u60.superpower"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.lottery",
+      "u60.win-the-lottery"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.millionaire",
+      "u60.desert-island"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.superpower"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.lottery",
+      "u60.win-the-lottery",
+      "u60.millionaire",
+      "u60.desert-island",
+      "u60.superpower"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.lottery",
+      "u60.win-the-lottery",
+      "u60.millionaire",
+      "u60.desert-island",
+      "u60.superpower"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.lottery",
+      "u60.win-the-lottery",
+      "u60.millionaire",
+      "u60.desert-island",
+      "u60.superpower"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.what-would-you-do-if",
+      "u60.imagine",
+      "u60.imaginary",
+      "u60.hypothetical",
+      "u60.situation",
+      "u60.dilemma"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l4",
+   "title": "4. invisible, time travel, read minds…",
+   "focus": "listening",
+   "newItems": [
+    "u60.invisible",
+    "u60.time-travel",
+    "u60.read-minds",
+    "u60.might",
+    "u60.could-ability"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.invisible",
+      "u60.time-travel"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.read-minds",
+      "u60.might"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.could-ability"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.invisible",
+      "u60.time-travel",
+      "u60.read-minds",
+      "u60.might",
+      "u60.could-ability"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.invisible",
+      "u60.time-travel",
+      "u60.read-minds",
+      "u60.might",
+      "u60.could-ability"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.invisible",
+      "u60.time-travel",
+      "u60.read-minds",
+      "u60.might",
+      "u60.could-ability"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.dilemma",
+      "u60.lottery",
+      "u60.win-the-lottery",
+      "u60.millionaire",
+      "u60.desert-island",
+      "u60.superpower"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l5",
+   "title": "5. in that case, suppose, supposing…",
+   "focus": "listening",
+   "newItems": [
+    "u60.in-that-case",
+    "u60.suppose",
+    "u60.supposing",
+    "u60.as-long-as",
+    "u60.even-if"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.in-that-case",
+      "u60.suppose"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.supposing",
+      "u60.as-long-as"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.even-if"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.in-that-case",
+      "u60.suppose",
+      "u60.supposing",
+      "u60.as-long-as",
+      "u60.even-if"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.in-that-case",
+      "u60.suppose",
+      "u60.supposing",
+      "u60.as-long-as",
+      "u60.even-if"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.in-that-case",
+      "u60.suppose",
+      "u60.supposing",
+      "u60.as-long-as",
+      "u60.even-if"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.superpower",
+      "u60.invisible",
+      "u60.time-travel",
+      "u60.read-minds",
+      "u60.might",
+      "u60.could-ability"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l6",
+   "title": "6. provided that, ideal, perfect world…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u60.provided-that",
+    "u60.ideal",
+    "u60.perfect-world",
+    "u60.dream-job",
+    "u60.quit-my-job"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.provided-that",
+      "u60.ideal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.perfect-world",
+      "u60.dream-job"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.quit-my-job"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.provided-that",
+      "u60.ideal",
+      "u60.perfect-world",
+      "u60.dream-job",
+      "u60.quit-my-job"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.provided-that",
+      "u60.ideal",
+      "u60.perfect-world",
+      "u60.dream-job",
+      "u60.quit-my-job"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.provided-that",
+      "u60.ideal",
+      "u60.perfect-world",
+      "u60.dream-job",
+      "u60.quit-my-job"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.could-ability",
+      "u60.in-that-case",
+      "u60.suppose",
+      "u60.supposing",
+      "u60.as-long-as",
+      "u60.even-if"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l7",
+   "title": "7. buy a mansion, donate, charity…",
+   "focus": "reading",
+   "newItems": [
+    "u60.buy-a-mansion",
+    "u60.donate",
+    "u60.charity",
+    "u60.take-a-gap-year",
+    "u60.live-on-the-moon"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.buy-a-mansion",
+      "u60.donate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.charity",
+      "u60.take-a-gap-year"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.live-on-the-moon"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.buy-a-mansion",
+      "u60.donate",
+      "u60.charity",
+      "u60.take-a-gap-year",
+      "u60.live-on-the-moon"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.buy-a-mansion",
+      "u60.donate",
+      "u60.charity",
+      "u60.take-a-gap-year",
+      "u60.live-on-the-moon"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.buy-a-mansion",
+      "u60.donate",
+      "u60.charity",
+      "u60.take-a-gap-year",
+      "u60.live-on-the-moon"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.even-if",
+      "u60.provided-that",
+      "u60.ideal",
+      "u60.perfect-world",
+      "u60.dream-job",
+      "u60.quit-my-job"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Preguntas imposibles",
+     "scene": "🎲 Un juego en una reunión de amigos.",
+     "lines": [
+      {
+       "who": "Leo",
+       "en": "OK, here's one. What would you do if you won the lottery?",
+       "es": "Bueno, ahí va una. ¿Qué harías si te ganaras la lotería?"
+      },
+      {
+       "who": "María",
+       "en": "I'd pay off my parents' debts and I'd travel for a year.",
+       "es": "Pagaría las deudas de mis papás y viajaría un año."
+      },
+      {
+       "who": "Leo",
+       "en": "Would you quit your job?",
+       "es": "¿Renunciarías a tu trabajo?"
+      },
+      {
+       "who": "María",
+       "en": "Honestly? Yes, but I'd start my own business. What about you?",
+       "es": "¿Honestamente? Sí, pero empezaría mi propio negocio. ¿Y tú?"
+      },
+      {
+       "who": "Leo",
+       "en": "I'd buy a farm and live a quiet life. And I'd donate part of it to charity.",
+       "es": "Compraría una finca y viviría tranquilo. Y donaría una parte a la caridad."
+      },
+      {
+       "who": "María",
+       "en": "That's sweet. If I were you, I'd buy a mansion too, ha ha!",
+       "es": "Qué lindo. Yo que tú, ¡compraría también una mansión, ja ja!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l8",
+   "title": "8. be in charge, president, change the world…",
+   "focus": "listening",
+   "newItems": [
+    "u60.be-in-charge",
+    "u60.president",
+    "u60.change-the-world",
+    "u60.recommend",
+    "u60.honestly"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.be-in-charge",
+      "u60.president"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.change-the-world",
+      "u60.recommend"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.honestly"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.be-in-charge",
+      "u60.president",
+      "u60.change-the-world",
+      "u60.recommend",
+      "u60.honestly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.be-in-charge",
+      "u60.president",
+      "u60.change-the-world",
+      "u60.recommend",
+      "u60.honestly"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.be-in-charge",
+      "u60.president",
+      "u60.change-the-world",
+      "u60.recommend",
+      "u60.honestly"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.quit-my-job",
+      "u60.buy-a-mansion",
+      "u60.donate",
+      "u60.charity",
+      "u60.take-a-gap-year",
+      "u60.live-on-the-moon"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-l9",
+   "title": "9. I'd rather…, I wouldn't mind…, It would be great…",
+   "focus": "listening",
+   "newItems": [
+    "u60.i-d-rather",
+    "u60.i-wouldn-t-mind",
+    "u60.it-would-be-great",
+    "u60.it-would-be-a-disaster",
+    "u60.that-would-never-happen"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u60.i-d-rather",
+      "u60.i-wouldn-t-mind"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.it-would-be-great",
+      "u60.it-would-be-a-disaster"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u60.that-would-never-happen"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.i-d-rather",
+      "u60.i-wouldn-t-mind",
+      "u60.it-would-be-great",
+      "u60.it-would-be-a-disaster",
+      "u60.that-would-never-happen"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.i-d-rather",
+      "u60.i-wouldn-t-mind",
+      "u60.it-would-be-great",
+      "u60.it-would-be-a-disaster",
+      "u60.that-would-never-happen"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.i-d-rather",
+      "u60.i-wouldn-t-mind",
+      "u60.it-would-be-great",
+      "u60.it-would-be-a-disaster",
+      "u60.that-would-never-happen"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.live-on-the-moon",
+      "u60.be-in-charge",
+      "u60.president",
+      "u60.change-the-world",
+      "u60.recommend",
+      "u60.honestly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u60-imaginar-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Si pudiera viajar en el tiempo",
+     "emoji": "⏳",
+     "paragraphs": [
+      {
+       "en": "If I could travel in time, I wouldn't go to the future. I would go to the past.",
+       "es": "Si pudiera viajar en el tiempo, no iría al futuro. Iría al pasado."
+      },
+      {
+       "en": "I would visit my grandparents when they were young, before I was born.",
+       "es": "Visitaría a mis abuelos cuando eran jóvenes, antes de que yo naciera."
+      },
+      {
+       "en": "I would love to see how they met, at a dance in a small village.",
+       "es": "Me encantaría ver cómo se conocieron, en un baile en un pueblo pequeño."
+      },
+      {
+       "en": "If I had the chance, I would ask them about their dreams and their fears.",
+       "es": "Si tuviera la oportunidad, les preguntaría por sus sueños y sus miedos."
+      },
+      {
+       "en": "Of course, I wouldn't tell them who I was. That would change history!",
+       "es": "Claro, no les diría quién soy. ¡Eso cambiaría la historia!"
+      },
+      {
+       "en": "It's only a dream, but sometimes imagining is the best way to understand where we come from.",
+       "es": "Es solo un sueño, pero a veces imaginar es la mejor forma de entender de dónde venimos."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿A dónde iría el narrador?",
+       "options": [
+        "Al futuro",
+        "Al pasado",
+        "A otro planeta"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué le encantaría ver?",
+       "options": [
+        "Cómo se conocieron sus abuelos",
+        "Una guerra",
+        "Su propia boda"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Por qué no les diría quién es?",
+       "options": [
+        "Porque cambiaría la historia",
+        "Porque no le creerían",
+        "Porque le da vergüenza"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Dar un consejo difícil",
+     "scene": "💼 Tu amiga recibió una oferta de trabajo en otra ciudad.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "They offered me a job in Medellín, but my family is here. What would you do?",
+       "es": "Me ofrecieron un trabajo en Medellín, pero mi familia está aquí. ¿Tú qué harías?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "If I were you, I'd accept it. It's a great opportunity.",
+         "es": "Yo que tú, lo aceptaría. Es una gran oportunidad.",
+         "ok": true
+        },
+        {
+         "en": "If I am you, I will accept.",
+         "es": "Si yo soy tú, aceptaré.",
+         "ok": false,
+         "why": "Imaginario: \"If I were you, I'd…\"."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "But I'd miss my family so much.",
+       "es": "Pero extrañaría muchísimo a mi familia."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That's true, but you could visit them every month.",
+         "es": "Es cierto, pero podrías visitarlos cada mes.",
+         "ok": true
+        },
+        {
+         "en": "You won't miss them never.",
+         "es": "Nunca no los extrañarás.",
+         "ok": false,
+         "why": "Doble negación y no ayuda."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "And if I didn't like the job?",
+       "es": "¿Y si no me gustara el trabajo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "In that case, you could always come back.",
+         "es": "En ese caso, siempre podrías volver.",
+         "ok": true
+        },
+        {
+         "en": "In that case, you would can come back.",
+         "es": "En ese caso, podrías poder volver.",
+         "ok": false,
+         "why": "\"would can\" no existe: usa \"could\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Si tuviera más tiempo, aprendería a tocar piano.",
+     "en": "If I had more time, I would learn to play the piano.",
+     "accept": [
+      "If I had more time, I'd learn to play the piano.",
+      "If I had more time I would learn to play the piano."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Yo que tú, no lo haría.",
+     "en": "If I were you, I wouldn't do it.",
+     "accept": [
+      "If I were you, I would not do it.",
+      "If I were you I wouldn't do it."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Qué harías si fueras invisible?",
+     "en": "What would you do if you were invisible?"
+    },
+    {
+     "type": "dictation",
+     "en": "If I won the lottery, I would buy a farm.",
+     "es": "Si me ganara la lotería, compraría una finca."
+    },
+    {
+     "type": "dictation",
+     "en": "It would be a disaster if we lost the files.",
+     "es": "Sería un desastre si perdiéramos los archivos."
+    },
+    {
+     "type": "speak",
+     "en": "If I could live anywhere, I would live near the sea.",
+     "es": "Si pudiera vivir en cualquier parte, viviría cerca del mar.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u60.change-the-world",
+      "u60.recommend",
+      "u60.honestly",
+      "u60.i-d-rather",
+      "u60.i-wouldn-t-mind",
+      "u60.it-would-be-great",
+      "u60.it-would-be-a-disaster",
+      "u60.that-would-never-happen"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1148 @@
+{
+ "_generated": true,
+ "id": "u19-transporte",
+ "level": "A1",
+ "title": "Transporte y viajes cortos",
+ "emoji": "🚌",
+ "canDo": "Ya puedo moverme en bus, taxi y tren",
+ "summary": "Medios de transporte, comprar un pasaje y preguntar cuánto tarda un viaje.",
+ "grammar": [
+  "by bus / by car / on foot",
+  "How long does it take?"
+ ],
+ "items": [
+  {
+   "id": "u19.bus",
+   "en": "bus",
+   "es": "bus",
+   "kind": "word",
+   "emoji": "🚌",
+   "say": "bas"
+  },
+  {
+   "id": "u19.taxi",
+   "en": "taxi",
+   "es": "taxi",
+   "kind": "word",
+   "emoji": "🚕",
+   "say": "ták-si"
+  },
+  {
+   "id": "u19.train",
+   "en": "train",
+   "es": "tren",
+   "kind": "word",
+   "emoji": "🚆",
+   "say": "tréin"
+  },
+  {
+   "id": "u19.plane",
+   "en": "plane",
+   "es": "avión",
+   "kind": "word",
+   "emoji": "✈️",
+   "say": "pléin"
+  },
+  {
+   "id": "u19.bike",
+   "en": "bike",
+   "es": "bicicleta",
+   "kind": "word",
+   "emoji": "🚲",
+   "say": "báik"
+  },
+  {
+   "id": "u19.motorcycle",
+   "en": "motorcycle",
+   "es": "moto",
+   "kind": "word",
+   "emoji": "🏍️",
+   "say": "mó-tor-sái-kol"
+  },
+  {
+   "id": "u19.subway",
+   "en": "subway",
+   "es": "metro",
+   "kind": "word",
+   "emoji": "🚇",
+   "say": "sáb-uei"
+  },
+  {
+   "id": "u19.truck",
+   "en": "truck",
+   "es": "camión",
+   "kind": "word",
+   "emoji": "🚚",
+   "say": "trak"
+  },
+  {
+   "id": "u19.by-bus",
+   "en": "by bus",
+   "es": "en bus",
+   "kind": "chunk",
+   "emoji": "🚌"
+  },
+  {
+   "id": "u19.by-car",
+   "en": "by car",
+   "es": "en carro",
+   "kind": "chunk",
+   "emoji": "🚗"
+  },
+  {
+   "id": "u19.on-foot",
+   "en": "on foot",
+   "es": "a pie",
+   "kind": "chunk",
+   "emoji": "🚶"
+  },
+  {
+   "id": "u19.ticket",
+   "en": "ticket",
+   "es": "pasaje / boleto",
+   "kind": "word",
+   "emoji": "🎫",
+   "say": "tí-ket"
+  },
+  {
+   "id": "u19.one-way-ticket",
+   "en": "one-way ticket",
+   "es": "pasaje de ida",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u19.round-trip-ticket",
+   "en": "round-trip ticket",
+   "es": "pasaje de ida y vuelta",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u19.platform",
+   "en": "platform",
+   "es": "andén / plataforma",
+   "kind": "word",
+   "emoji": "🚉",
+   "say": "plát-form"
+  },
+  {
+   "id": "u19.leave",
+   "en": "leave",
+   "es": "salir / partir",
+   "kind": "word",
+   "emoji": "🛫",
+   "say": "líiv"
+  },
+  {
+   "id": "u19.arrive",
+   "en": "arrive",
+   "es": "llegar",
+   "kind": "word",
+   "emoji": "🛬",
+   "say": "a-ráiv"
+  },
+  {
+   "id": "u19.get-on",
+   "en": "get on",
+   "es": "subirse (al bus)",
+   "kind": "chunk",
+   "emoji": "⬆️"
+  },
+  {
+   "id": "u19.get-off",
+   "en": "get off",
+   "es": "bajarse (del bus)",
+   "kind": "chunk",
+   "emoji": "⬇️"
+  },
+  {
+   "id": "u19.how-long-does-it-take",
+   "en": "How long does it take?",
+   "es": "¿Cuánto se demora?",
+   "kind": "chunk",
+   "emoji": "⏱️"
+  },
+  {
+   "id": "u19.it-takes-twenty-minutes",
+   "en": "It takes twenty minutes",
+   "es": "Se demora veinte minutos",
+   "kind": "chunk",
+   "emoji": "⏲️"
+  },
+  {
+   "id": "u19.minute",
+   "en": "minute",
+   "es": "minuto",
+   "kind": "word",
+   "emoji": "⏱️",
+   "say": "mí-nit"
+  },
+  {
+   "id": "u19.hour",
+   "en": "hour",
+   "es": "hora",
+   "kind": "word",
+   "emoji": "⌛",
+   "say": "áur",
+   "tip": "La h no suena: \"aur\"."
+  },
+  {
+   "id": "u19.fast",
+   "en": "fast",
+   "es": "rápido",
+   "kind": "word",
+   "emoji": "💨",
+   "say": "fast"
+  },
+  {
+   "id": "u19.slow",
+   "en": "slow",
+   "es": "lento",
+   "kind": "word",
+   "emoji": "🐌",
+   "say": "slóu"
+  },
+  {
+   "id": "u19.traffic",
+   "en": "traffic",
+   "es": "tráfico / trancón",
+   "kind": "word",
+   "emoji": "🚗🚗",
+   "say": "trá-fik"
+  },
+  {
+   "id": "u19.on-time",
+   "en": "on time",
+   "es": "a tiempo",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u19.where-does-this-bus-go",
+   "en": "Where does this bus go?",
+   "es": "¿A dónde va este bus?",
+   "kind": "chunk",
+   "emoji": "🚏"
+  },
+  {
+   "id": "u19.stop-here-please",
+   "en": "Stop here, please",
+   "es": "Pare aquí, por favor",
+   "kind": "chunk",
+   "emoji": "🛑"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u19-transporte-l1",
+   "title": "1. bus, taxi, train…",
+   "focus": "listening",
+   "newItems": [
+    "u19.bus",
+    "u19.taxi",
+    "u19.train",
+    "u19.plane"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.bus",
+      "u19.taxi"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u19.train",
+      "u19.plane"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.bus",
+      "u19.taxi",
+      "u19.train",
+      "u19.plane"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.bus",
+      "u19.taxi",
+      "u19.train",
+      "u19.plane"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.bus",
+      "u19.taxi"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-l2",
+   "title": "2. bike, motorcycle, subway…",
+   "focus": "grammar",
+   "newItems": [
+    "u19.bike",
+    "u19.motorcycle",
+    "u19.subway",
+    "u19.truck"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.bike",
+      "u19.motorcycle"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u19.subway",
+      "u19.truck"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.bike",
+      "u19.motorcycle",
+      "u19.subway",
+      "u19.truck"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.bike",
+      "u19.motorcycle",
+      "u19.subway",
+      "u19.truck"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.bike",
+      "u19.motorcycle"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.bus",
+      "u19.taxi",
+      "u19.train",
+      "u19.plane"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "by bus / on foot",
+     "intro": "Mira cómo se dice el medio de transporte.",
+     "examples": [
+      {
+       "en": "I go to work by bus.",
+       "es": "Voy al trabajo en bus.",
+       "mark": [
+        "by bus"
+       ]
+      },
+      {
+       "en": "She goes to school by bike.",
+       "es": "Ella va al colegio en bicicleta.",
+       "mark": [
+        "by bike"
+       ]
+      },
+      {
+       "en": "We travel by plane.",
+       "es": "Viajamos en avión.",
+       "mark": [
+        "by plane"
+       ]
+      },
+      {
+       "en": "He goes to the park on foot.",
+       "es": "Él va al parque a pie.",
+       "mark": [
+        "on foot"
+       ]
+      }
+     ],
+     "question": "Para 'a pie' se dice…",
+     "options": [
+      "by foot",
+      "on foot",
+      "in foot"
+     ],
+     "answer": 1,
+     "rule": "Para decir cómo viajas se usa by + transporte, sin artículo: by bus, by car, by train. La excepción es a pie: on foot. Para preguntar el tiempo de un viaje: How long does it take? — It takes + tiempo.",
+     "ruleExamples": [
+      {
+       "en": "How long does it take by train? It takes two hours.",
+       "es": "¿Cuánto se demora en tren? Se demora dos horas."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I go to work ___ subway.",
+     "options": [
+      "by",
+      "on"
+     ],
+     "answer": 0,
+     "es": "Voy al trabajo en metro."
+    },
+    {
+     "type": "fill",
+     "en": "It ___ thirty minutes.",
+     "options": [
+      "takes",
+      "is"
+     ],
+     "answer": 0,
+     "es": "Se demora treinta minutos."
+    },
+    {
+     "type": "fill",
+     "en": "We go to school ___ foot.",
+     "options": [
+      "by",
+      "on"
+     ],
+     "answer": 1,
+     "es": "Vamos al colegio a pie."
+    },
+    {
+     "type": "fill",
+     "en": "How long ___ it take?",
+     "options": [
+      "does",
+      "is"
+     ],
+     "answer": 0,
+     "es": "¿Cuánto se demora?"
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-l3",
+   "title": "3. by bus, by car, on foot…",
+   "focus": "reading",
+   "newItems": [
+    "u19.by-bus",
+    "u19.by-car",
+    "u19.on-foot",
+    "u19.ticket"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.by-bus",
+      "u19.by-car"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u19.on-foot",
+      "u19.ticket"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.by-bus",
+      "u19.by-car",
+      "u19.on-foot",
+      "u19.ticket"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.by-bus",
+      "u19.by-car",
+      "u19.on-foot",
+      "u19.ticket"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.by-bus",
+      "u19.by-car"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.train",
+      "u19.plane",
+      "u19.bike",
+      "u19.motorcycle",
+      "u19.subway",
+      "u19.truck"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-l4",
+   "title": "4. one-way ticket, round-trip ticket, platform…",
+   "focus": "listening",
+   "newItems": [
+    "u19.one-way-ticket",
+    "u19.round-trip-ticket",
+    "u19.platform",
+    "u19.leave"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.one-way-ticket",
+      "u19.round-trip-ticket"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u19.platform",
+      "u19.leave"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.one-way-ticket",
+      "u19.round-trip-ticket",
+      "u19.platform",
+      "u19.leave"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.one-way-ticket",
+      "u19.round-trip-ticket",
+      "u19.platform",
+      "u19.leave"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.one-way-ticket",
+      "u19.round-trip-ticket"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.subway",
+      "u19.truck",
+      "u19.by-bus",
+      "u19.by-car",
+      "u19.on-foot",
+      "u19.ticket"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-l5",
+   "title": "5. arrive, get on, get off…",
+   "focus": "listening",
+   "newItems": [
+    "u19.arrive",
+    "u19.get-on",
+    "u19.get-off",
+    "u19.how-long-does-it-take"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.arrive",
+      "u19.get-on"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u19.get-off",
+      "u19.how-long-does-it-take"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.arrive",
+      "u19.get-on",
+      "u19.get-off",
+      "u19.how-long-does-it-take"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.arrive",
+      "u19.get-on",
+      "u19.get-off",
+      "u19.how-long-does-it-take"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.get-on",
+      "u19.get-off"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.on-foot",
+      "u19.ticket",
+      "u19.one-way-ticket",
+      "u19.round-trip-ticket",
+      "u19.platform",
+      "u19.leave"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-l6",
+   "title": "6. It takes twenty minutes, minute, hour…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u19.it-takes-twenty-minutes",
+    "u19.minute",
+    "u19.hour",
+    "u19.fast"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.it-takes-twenty-minutes",
+      "u19.minute"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u19.hour",
+      "u19.fast"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.it-takes-twenty-minutes",
+      "u19.minute",
+      "u19.hour",
+      "u19.fast"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.it-takes-twenty-minutes",
+      "u19.minute",
+      "u19.hour",
+      "u19.fast"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.it-takes-twenty-minutes"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.platform",
+      "u19.leave",
+      "u19.arrive",
+      "u19.get-on",
+      "u19.get-off",
+      "u19.how-long-does-it-take"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En la terminal",
+     "scene": "🚉 Compras un pasaje de bus a Ipiales.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Hello. A ticket to Ipiales, please.",
+       "es": "Hola. Un pasaje a Ipiales, por favor."
+      },
+      {
+       "who": "Clerk",
+       "en": "One-way or round-trip?",
+       "es": "¿Solo ida o ida y vuelta?"
+      },
+      {
+       "who": "You",
+       "en": "Round-trip, please. What time does the bus leave?",
+       "es": "Ida y vuelta, por favor. ¿A qué hora sale el bus?"
+      },
+      {
+       "who": "Clerk",
+       "en": "It leaves at ten from platform three.",
+       "es": "Sale a las diez del andén tres."
+      },
+      {
+       "who": "You",
+       "en": "How long does it take?",
+       "es": "¿Cuánto se demora?"
+      },
+      {
+       "who": "Clerk",
+       "en": "About two hours.",
+       "es": "Unas dos horas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-l7",
+   "title": "7. slow, traffic, on time…",
+   "focus": "reading",
+   "newItems": [
+    "u19.slow",
+    "u19.traffic",
+    "u19.on-time",
+    "u19.where-does-this-bus-go"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.slow",
+      "u19.traffic"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u19.on-time",
+      "u19.where-does-this-bus-go"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.slow",
+      "u19.traffic",
+      "u19.on-time",
+      "u19.where-does-this-bus-go"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.slow",
+      "u19.traffic",
+      "u19.on-time",
+      "u19.where-does-this-bus-go"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.on-time",
+      "u19.where-does-this-bus-go"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.get-off",
+      "u19.how-long-does-it-take",
+      "u19.it-takes-twenty-minutes",
+      "u19.minute",
+      "u19.hour",
+      "u19.fast"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-l8",
+   "title": "8. Stop here, please",
+   "focus": "listening",
+   "newItems": [
+    "u19.stop-here-please"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u19.stop-here-please"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.stop-here-please"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.stop-here-please"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.stop-here-please"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.hour",
+      "u19.fast",
+      "u19.slow",
+      "u19.traffic",
+      "u19.on-time",
+      "u19.where-does-this-bus-go"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u19-transporte-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Tres maneras de llegar",
+     "emoji": "🚦",
+     "paragraphs": [
+      {
+       "en": "Ana, Ben and Carlos work in the same office downtown.",
+       "es": "Ana, Ben y Carlos trabajan en la misma oficina en el centro."
+      },
+      {
+       "en": "Ana goes to work by car. With traffic, it takes forty minutes.",
+       "es": "Ana va al trabajo en carro. Con el tráfico, se demora cuarenta minutos."
+      },
+      {
+       "en": "Ben goes by subway. It's fast. It takes fifteen minutes.",
+       "es": "Ben va en metro. Es rápido. Se demora quince minutos."
+      },
+      {
+       "en": "Carlos goes by bike. It takes twenty-five minutes, and it's good exercise.",
+       "es": "Carlos va en bicicleta. Se demora veinticinco minutos y es buen ejercicio."
+      },
+      {
+       "en": "Today there is a big storm. Ana is late, Carlos is wet, and Ben arrives on time!",
+       "es": "Hoy hay una tormenta grande. Ana llega tarde, Carlos está mojado, ¡y Ben llega a tiempo!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo va Ben al trabajo?",
+       "options": [
+        "En carro",
+        "En metro",
+        "En bicicleta"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuánto se demora Ana?",
+       "options": [
+        "Quince minutos",
+        "Cuarenta minutos",
+        "Veinticinco minutos"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Quién llega a tiempo el día de la tormenta?",
+       "options": [
+        "Ana",
+        "Carlos",
+        "Ben"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "En el taxi",
+     "scene": "🚕 Tomas un taxi al aeropuerto.",
+     "turns": [
+      {
+       "who": "Driver",
+       "en": "Good morning. Where to?",
+       "es": "Buenos días. ¿Para dónde?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "To the airport, please.",
+         "es": "Al aeropuerto, por favor.",
+         "ok": true
+        },
+        {
+         "en": "To the yesterday, please.",
+         "es": "Al ayer, por favor.",
+         "ok": false,
+         "why": "Di un lugar."
+        }
+       ]
+      },
+      {
+       "who": "Driver",
+       "en": "OK. There's a lot of traffic today.",
+       "es": "Bueno. Hoy hay mucho tráfico."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "How long does it take?",
+         "es": "¿Cuánto se demora?",
+         "ok": true
+        },
+        {
+         "en": "How long is it take?",
+         "es": "¿Cuánto es se demora?",
+         "ok": false,
+         "why": "Se dice \"How long does it take?\"."
+        }
+       ]
+      },
+      {
+       "who": "Driver",
+       "en": "About thirty minutes.",
+       "es": "Unos treinta minutos."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That's OK. Thank you.",
+         "es": "Está bien. Gracias.",
+         "ok": true
+        },
+        {
+         "en": "Stop here, please.",
+         "es": "Pare aquí, por favor.",
+         "ok": false,
+         "why": "Todavía no has llegado."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Voy al trabajo en bus.",
+     "en": "I go to work by bus."
+    },
+    {
+     "type": "write",
+     "es": "¿Cuánto se demora?",
+     "en": "How long does it take?"
+    },
+    {
+     "type": "write",
+     "es": "El tren sale a las ocho.",
+     "en": "The train leaves at eight.",
+     "accept": [
+      "The train leaves at 8."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Where does this bus go?",
+     "es": "¿A dónde va este bus?"
+    },
+    {
+     "type": "dictation",
+     "en": "It takes about two hours.",
+     "es": "Se demora unas dos horas."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u19.minute",
+      "u19.hour",
+      "u19.fast",
+      "u19.slow",
+      "u19.traffic",
+      "u19.on-time",
+      "u19.where-does-this-bus-go",
+      "u19.stop-here-please"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

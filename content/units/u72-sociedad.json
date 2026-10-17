@@ -1,0 +1,1443 @@
+{
+ "_generated": true,
+ "id": "u72-sociedad",
+ "level": "B2",
+ "title": "Sociedad y actualidad",
+ "emoji": "🌐",
+ "canDo": "Ya puedo opinar sobre temas sociales con argumentos equilibrados",
+ "summary": "Temas sociales (educación, desigualdad, migración, tecnología) y lenguaje para argumentar con matices.",
+ "grammar": [
+  "Lenguaje de matización: tend to, to some extent",
+  "The + adjetivo (the poor)"
+ ],
+ "items": [
+  {
+   "id": "u72.society",
+   "en": "society",
+   "es": "sociedad",
+   "kind": "word",
+   "emoji": "🌍",
+   "say": "so-sái-e-ti"
+  },
+  {
+   "id": "u72.community",
+   "en": "community",
+   "es": "comunidad",
+   "kind": "word",
+   "emoji": "🏘️",
+   "say": "ko-miú-ni-ti"
+  },
+  {
+   "id": "u72.inequality",
+   "en": "inequality",
+   "es": "desigualdad",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "i-ni-kuó-li-ti"
+  },
+  {
+   "id": "u72.poverty",
+   "en": "poverty",
+   "es": "pobreza",
+   "kind": "word",
+   "emoji": "🪫",
+   "say": "pó-ver-ti"
+  },
+  {
+   "id": "u72.wealth",
+   "en": "wealth",
+   "es": "riqueza",
+   "kind": "word",
+   "emoji": "💎",
+   "say": "uelz"
+  },
+  {
+   "id": "u72.the-poor",
+   "en": "the poor",
+   "es": "los pobres",
+   "kind": "chunk",
+   "emoji": "🫙"
+  },
+  {
+   "id": "u72.the-rich",
+   "en": "the rich",
+   "es": "los ricos",
+   "kind": "chunk",
+   "emoji": "💰"
+  },
+  {
+   "id": "u72.the-elderly",
+   "en": "the elderly",
+   "es": "los ancianos",
+   "kind": "chunk",
+   "emoji": "👵"
+  },
+  {
+   "id": "u72.the-homeless",
+   "en": "the homeless",
+   "es": "las personas sin hogar",
+   "kind": "chunk",
+   "emoji": "🏚️"
+  },
+  {
+   "id": "u72.gap",
+   "en": "gap",
+   "es": "brecha",
+   "kind": "word",
+   "emoji": "↔️",
+   "say": "gap"
+  },
+  {
+   "id": "u72.access",
+   "en": "access",
+   "es": "acceso",
+   "kind": "word",
+   "emoji": "🔑",
+   "say": "ák-ses"
+  },
+  {
+   "id": "u72.education-system",
+   "en": "education system",
+   "es": "sistema educativo",
+   "kind": "chunk",
+   "emoji": "🎓"
+  },
+  {
+   "id": "u72.healthcare",
+   "en": "healthcare",
+   "es": "sistema de salud",
+   "kind": "word",
+   "emoji": "🏥",
+   "say": "jélz-ker"
+  },
+  {
+   "id": "u72.welfare",
+   "en": "welfare",
+   "es": "bienestar social / ayudas",
+   "kind": "word",
+   "emoji": "🤲",
+   "say": "uél-fer"
+  },
+  {
+   "id": "u72.unemployment",
+   "en": "unemployment",
+   "es": "desempleo",
+   "kind": "word",
+   "emoji": "📉",
+   "say": "an-em-plói-ment"
+  },
+  {
+   "id": "u72.immigration",
+   "en": "immigration",
+   "es": "inmigración",
+   "kind": "word",
+   "emoji": "🛂",
+   "say": "i-mi-gréi-shon"
+  },
+  {
+   "id": "u72.immigrant",
+   "en": "immigrant",
+   "es": "inmigrante",
+   "kind": "word",
+   "emoji": "🧳",
+   "say": "í-mi-grant"
+  },
+  {
+   "id": "u72.refugee",
+   "en": "refugee",
+   "es": "refugiado",
+   "kind": "word",
+   "emoji": "⛺",
+   "say": "re-fiu-yíi"
+  },
+  {
+   "id": "u72.integration",
+   "en": "integration",
+   "es": "integración",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "in-te-gréi-shon"
+  },
+  {
+   "id": "u72.discrimination",
+   "en": "discrimination",
+   "es": "discriminación",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "dis-kri-mi-néi-shon"
+  },
+  {
+   "id": "u72.equality",
+   "en": "equality",
+   "es": "igualdad",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "i-kuó-li-ti"
+  },
+  {
+   "id": "u72.rights",
+   "en": "rights",
+   "es": "derechos",
+   "kind": "word",
+   "emoji": "✊",
+   "say": "ráits"
+  },
+  {
+   "id": "u72.freedom",
+   "en": "freedom",
+   "es": "libertad",
+   "kind": "word",
+   "emoji": "🕊️",
+   "say": "fríi-dom"
+  },
+  {
+   "id": "u72.democracy",
+   "en": "democracy",
+   "es": "democracia",
+   "kind": "word",
+   "emoji": "🗳️",
+   "say": "di-mó-kra-si"
+  },
+  {
+   "id": "u72.public-services",
+   "en": "public services",
+   "es": "servicios públicos",
+   "kind": "chunk",
+   "emoji": "🚰"
+  },
+  {
+   "id": "u72.infrastructure",
+   "en": "infrastructure",
+   "es": "infraestructura",
+   "kind": "word",
+   "emoji": "🏗️",
+   "say": "ín-fra-strak-cher"
+  },
+  {
+   "id": "u72.urbanization",
+   "en": "urbanization",
+   "es": "urbanización",
+   "kind": "word",
+   "emoji": "🏙️",
+   "say": "er-ba-nai-séi-shon"
+  },
+  {
+   "id": "u72.population-growth",
+   "en": "population growth",
+   "es": "crecimiento poblacional",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u72.aging-population",
+   "en": "aging population",
+   "es": "envejecimiento de la población",
+   "kind": "chunk",
+   "emoji": "👴"
+  },
+  {
+   "id": "u72.generation-gap",
+   "en": "generation gap",
+   "es": "brecha generacional",
+   "kind": "chunk",
+   "emoji": "👨‍👦"
+  },
+  {
+   "id": "u72.social-media-impact",
+   "en": "social media impact",
+   "es": "impacto de las redes sociales",
+   "kind": "chunk",
+   "emoji": "📱"
+  },
+  {
+   "id": "u72.digital-divide",
+   "en": "digital divide",
+   "es": "brecha digital",
+   "kind": "chunk",
+   "emoji": "💻"
+  },
+  {
+   "id": "u72.raise-awareness",
+   "en": "raise awareness",
+   "es": "concientizar",
+   "kind": "chunk",
+   "emoji": "📣"
+  },
+  {
+   "id": "u72.ngo",
+   "en": "NGO",
+   "es": "ONG",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "en-yi-óu"
+  },
+  {
+   "id": "u72.tend-to",
+   "en": "tend to",
+   "es": "tender a / soler",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u72.to-some-extent",
+   "en": "to some extent",
+   "es": "en cierta medida",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u72.on-the-whole",
+   "en": "on the whole",
+   "es": "en general",
+   "kind": "chunk",
+   "emoji": "🌐"
+  },
+  {
+   "id": "u72.by-and-large",
+   "en": "by and large",
+   "es": "en términos generales",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u72.it-could-be-argued-that",
+   "en": "it could be argued that",
+   "es": "podría argumentarse que",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u72.there-s-no-denying-that",
+   "en": "there's no denying that",
+   "es": "no se puede negar que",
+   "kind": "chunk",
+   "emoji": "✔️"
+  },
+  {
+   "id": "u72.a-growing-concern",
+   "en": "a growing concern",
+   "es": "una preocupación creciente",
+   "kind": "chunk",
+   "emoji": "📈"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u72-sociedad-l1",
+   "title": "1. society, community, inequality…",
+   "focus": "listening",
+   "newItems": [
+    "u72.society",
+    "u72.community",
+    "u72.inequality",
+    "u72.poverty",
+    "u72.wealth"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.society",
+      "u72.community"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.inequality",
+      "u72.poverty"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.wealth"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.society",
+      "u72.community",
+      "u72.inequality",
+      "u72.poverty",
+      "u72.wealth"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.society",
+      "u72.community",
+      "u72.inequality",
+      "u72.poverty",
+      "u72.wealth"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.society",
+      "u72.community",
+      "u72.inequality",
+      "u72.poverty",
+      "u72.wealth"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l2",
+   "title": "2. the poor, the rich, the elderly…",
+   "focus": "grammar",
+   "newItems": [
+    "u72.the-poor",
+    "u72.the-rich",
+    "u72.the-elderly",
+    "u72.the-homeless",
+    "u72.gap"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.the-poor",
+      "u72.the-rich"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.the-elderly",
+      "u72.the-homeless"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.gap"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.the-poor",
+      "u72.the-rich",
+      "u72.the-elderly",
+      "u72.the-homeless",
+      "u72.gap"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.the-poor",
+      "u72.the-rich",
+      "u72.the-elderly",
+      "u72.the-homeless",
+      "u72.gap"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.the-poor",
+      "u72.the-rich",
+      "u72.the-elderly",
+      "u72.the-homeless",
+      "u72.gap"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.society",
+      "u72.community",
+      "u72.inequality",
+      "u72.poverty",
+      "u72.wealth"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Matizar y generalizar",
+     "intro": "El inglés culto evita afirmaciones absolutas. Mira cómo se suaviza.",
+     "examples": [
+      {
+       "en": "Young people spend too much time online. → Young people tend to spend a lot of time online.",
+       "es": "Los jóvenes pasan demasiado tiempo en línea. → Los jóvenes suelen pasar mucho tiempo en línea.",
+       "mark": [
+        "tend to"
+       ]
+      },
+      {
+       "en": "Technology is good. → Technology is positive, to some extent.",
+       "es": "La tecnología es buena. → La tecnología es positiva, en cierta medida.",
+       "mark": [
+        "to some extent"
+       ]
+      },
+      {
+       "en": "The rich don't pay enough taxes.",
+       "es": "Los ricos no pagan suficientes impuestos.",
+       "mark": [
+        "The rich"
+       ]
+      },
+      {
+       "en": "The government should help the poor.",
+       "es": "El gobierno debería ayudar a los pobres.",
+       "mark": [
+        "the poor"
+       ]
+      },
+      {
+       "en": "There's no denying that inequality is a growing concern.",
+       "es": "No se puede negar que la desigualdad es una preocupación creciente.",
+       "mark": [
+        "There's no denying"
+       ]
+      }
+     ],
+     "question": "¿Qué significa 'tend to'?",
+     "options": [
+      "Soler / tener tendencia a",
+      "Estar obligado a",
+      "Nunca"
+     ],
+     "answer": 0,
+     "rule": "Para argumentar con equilibrio: tend to (soler), to some extent (en cierta medida), on the whole / by and large (en general), it could be argued that (podría argumentarse que). The + adjetivo = un grupo de personas: the poor (los pobres), the elderly (los ancianos), the homeless.",
+     "ruleExamples": [
+      {
+       "en": "On the whole, education tends to reduce inequality, but access isn't equal for everyone.",
+       "es": "En general, la educación tiende a reducir la desigualdad, pero el acceso no es igual para todos."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "People in cities ___ to be busier.",
+     "options": [
+      "tend",
+      "tends"
+     ],
+     "answer": 0,
+     "es": "La gente de las ciudades suele estar más ocupada."
+    },
+    {
+     "type": "fill",
+     "en": "The government should support ___ elderly.",
+     "options": [
+      "the",
+      "—"
+     ],
+     "answer": 0,
+     "es": "El gobierno debería apoyar a los ancianos."
+    },
+    {
+     "type": "fill",
+     "en": "To some ___, social media connects people.",
+     "options": [
+      "extent",
+      "point"
+     ],
+     "answer": 0,
+     "es": "En cierta medida, las redes sociales conectan a la gente."
+    },
+    {
+     "type": "fill",
+     "en": "There's no ___ that poverty is a serious problem.",
+     "options": [
+      "denying",
+      "deny"
+     ],
+     "answer": 0,
+     "es": "No se puede negar que la pobreza es un problema serio."
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l3",
+   "title": "3. access, education system, healthcare…",
+   "focus": "reading",
+   "newItems": [
+    "u72.access",
+    "u72.education-system",
+    "u72.healthcare",
+    "u72.welfare",
+    "u72.unemployment"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.access",
+      "u72.education-system"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.healthcare",
+      "u72.welfare"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.unemployment"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.access",
+      "u72.education-system",
+      "u72.healthcare",
+      "u72.welfare",
+      "u72.unemployment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.access",
+      "u72.education-system",
+      "u72.healthcare",
+      "u72.welfare",
+      "u72.unemployment"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.access",
+      "u72.education-system",
+      "u72.healthcare",
+      "u72.welfare",
+      "u72.unemployment"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.wealth",
+      "u72.the-poor",
+      "u72.the-rich",
+      "u72.the-elderly",
+      "u72.the-homeless",
+      "u72.gap"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l4",
+   "title": "4. immigration, immigrant, refugee…",
+   "focus": "listening",
+   "newItems": [
+    "u72.immigration",
+    "u72.immigrant",
+    "u72.refugee",
+    "u72.integration",
+    "u72.discrimination"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.immigration",
+      "u72.immigrant"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.refugee",
+      "u72.integration"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.discrimination"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.immigration",
+      "u72.immigrant",
+      "u72.refugee",
+      "u72.integration",
+      "u72.discrimination"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.immigration",
+      "u72.immigrant",
+      "u72.refugee",
+      "u72.integration",
+      "u72.discrimination"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.immigration",
+      "u72.immigrant",
+      "u72.refugee",
+      "u72.integration",
+      "u72.discrimination"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.gap",
+      "u72.access",
+      "u72.education-system",
+      "u72.healthcare",
+      "u72.welfare",
+      "u72.unemployment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l5",
+   "title": "5. equality, rights, freedom…",
+   "focus": "listening",
+   "newItems": [
+    "u72.equality",
+    "u72.rights",
+    "u72.freedom",
+    "u72.democracy",
+    "u72.public-services"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.equality",
+      "u72.rights"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.freedom",
+      "u72.democracy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.public-services"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.equality",
+      "u72.rights",
+      "u72.freedom",
+      "u72.democracy",
+      "u72.public-services"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.equality",
+      "u72.rights",
+      "u72.freedom",
+      "u72.democracy",
+      "u72.public-services"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.equality",
+      "u72.rights",
+      "u72.freedom",
+      "u72.democracy",
+      "u72.public-services"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.unemployment",
+      "u72.immigration",
+      "u72.immigrant",
+      "u72.refugee",
+      "u72.integration",
+      "u72.discrimination"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l6",
+   "title": "6. infrastructure, urbanization, population growth…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u72.infrastructure",
+    "u72.urbanization",
+    "u72.population-growth",
+    "u72.aging-population",
+    "u72.generation-gap"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.infrastructure",
+      "u72.urbanization"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.population-growth",
+      "u72.aging-population"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.generation-gap"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.infrastructure",
+      "u72.urbanization",
+      "u72.population-growth",
+      "u72.aging-population",
+      "u72.generation-gap"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.infrastructure",
+      "u72.urbanization",
+      "u72.population-growth",
+      "u72.aging-population",
+      "u72.generation-gap"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.infrastructure",
+      "u72.urbanization",
+      "u72.population-growth",
+      "u72.aging-population",
+      "u72.generation-gap"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.discrimination",
+      "u72.equality",
+      "u72.rights",
+      "u72.freedom",
+      "u72.democracy",
+      "u72.public-services"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l7",
+   "title": "7. social media impact, digital divide, raise awareness…",
+   "focus": "reading",
+   "newItems": [
+    "u72.social-media-impact",
+    "u72.digital-divide",
+    "u72.raise-awareness",
+    "u72.ngo",
+    "u72.tend-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.social-media-impact",
+      "u72.digital-divide"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.raise-awareness",
+      "u72.ngo"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.tend-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.social-media-impact",
+      "u72.digital-divide",
+      "u72.raise-awareness",
+      "u72.ngo",
+      "u72.tend-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.social-media-impact",
+      "u72.digital-divide",
+      "u72.raise-awareness",
+      "u72.ngo",
+      "u72.tend-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.social-media-impact",
+      "u72.digital-divide",
+      "u72.raise-awareness",
+      "u72.ngo",
+      "u72.tend-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.public-services",
+      "u72.infrastructure",
+      "u72.urbanization",
+      "u72.population-growth",
+      "u72.aging-population",
+      "u72.generation-gap"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Debate sobre la tecnología",
+     "scene": "🎓 En una clase de inglés avanzado.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "en": "Is technology making society better or worse?",
+       "es": "¿La tecnología está haciendo la sociedad mejor o peor?"
+      },
+      {
+       "who": "Camilo",
+       "en": "On the whole, I'd say better. It gives access to education and information.",
+       "es": "En general, diría que mejor. Da acceso a la educación y la información."
+      },
+      {
+       "who": "Lucía",
+       "en": "To some extent, yes. But there's a growing digital divide between the rich and the poor.",
+       "es": "En cierta medida, sí. Pero hay una brecha digital creciente entre los ricos y los pobres."
+      },
+      {
+       "who": "Camilo",
+       "en": "That's a fair point. Not everyone has the same opportunities.",
+       "es": "Es un buen punto. No todos tienen las mismas oportunidades."
+      },
+      {
+       "who": "Lucía",
+       "en": "Exactly. It could be argued that technology increases inequality if access isn't equal.",
+       "es": "Exacto. Podría argumentarse que la tecnología aumenta la desigualdad si el acceso no es igual."
+      },
+      {
+       "who": "Teacher",
+       "en": "Excellent arguments from both of you.",
+       "es": "Excelentes argumentos de ambos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l8",
+   "title": "8. to some extent, on the whole, by and large…",
+   "focus": "listening",
+   "newItems": [
+    "u72.to-some-extent",
+    "u72.on-the-whole",
+    "u72.by-and-large",
+    "u72.it-could-be-argued-that",
+    "u72.there-s-no-denying-that"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.to-some-extent",
+      "u72.on-the-whole"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.by-and-large",
+      "u72.it-could-be-argued-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u72.there-s-no-denying-that"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.to-some-extent",
+      "u72.on-the-whole",
+      "u72.by-and-large",
+      "u72.it-could-be-argued-that",
+      "u72.there-s-no-denying-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.to-some-extent",
+      "u72.on-the-whole",
+      "u72.by-and-large",
+      "u72.it-could-be-argued-that",
+      "u72.there-s-no-denying-that"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.to-some-extent",
+      "u72.on-the-whole",
+      "u72.by-and-large",
+      "u72.it-could-be-argued-that",
+      "u72.there-s-no-denying-that"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.generation-gap",
+      "u72.social-media-impact",
+      "u72.digital-divide",
+      "u72.raise-awareness",
+      "u72.ngo",
+      "u72.tend-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-l9",
+   "title": "9. a growing concern",
+   "focus": "listening",
+   "newItems": [
+    "u72.a-growing-concern"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u72.a-growing-concern"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.a-growing-concern"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.a-growing-concern"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.a-growing-concern"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.tend-to",
+      "u72.to-some-extent",
+      "u72.on-the-whole",
+      "u72.by-and-large",
+      "u72.it-could-be-argued-that",
+      "u72.there-s-no-denying-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u72-sociedad-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El proyecto de la biblioteca",
+     "emoji": "📚",
+     "paragraphs": [
+      {
+       "en": "In a poor neighborhood on the edge of the city, there was no library and few opportunities for the children.",
+       "es": "En un barrio pobre a las afueras de la ciudad, no había biblioteca y había pocas oportunidades para los niños."
+      },
+      {
+       "en": "A group of university students decided to raise awareness about the problem.",
+       "es": "Un grupo de estudiantes universitarios decidió concientizar sobre el problema."
+      },
+      {
+       "en": "They started an NGO and collected donations of books and computers.",
+       "es": "Crearon una ONG y recogieron donaciones de libros y computadores."
+      },
+      {
+       "en": "Local volunteers helped build a small community library in an old building.",
+       "es": "Voluntarios del barrio ayudaron a construir una pequeña biblioteca comunitaria en un edificio viejo."
+      },
+      {
+       "en": "Now, on the whole, children in that neighborhood have better access to education and the internet.",
+       "es": "Ahora, en general, los niños de ese barrio tienen mejor acceso a la educación y a internet."
+      },
+      {
+       "en": "It's a small project, but there's no denying that it has changed many lives.",
+       "es": "Es un proyecto pequeño, pero no se puede negar que ha cambiado muchas vidas."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué faltaba en el barrio?",
+       "options": [
+        "Una biblioteca y oportunidades",
+        "Agua",
+        "Un hospital"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué crearon los estudiantes?",
+       "options": [
+        "Una empresa",
+        "Una ONG",
+        "Un colegio privado"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué resultado tuvo el proyecto?",
+       "options": [
+        "Mejor acceso a la educación e internet para los niños",
+        "Nada",
+        "Más desempleo"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Opinar con matices",
+     "scene": "🎤 Un periodista te entrevista sobre las redes sociales.",
+     "turns": [
+      {
+       "who": "Reporter",
+       "en": "Do you think social media is bad for young people?",
+       "es": "¿Cree que las redes sociales son malas para los jóvenes?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "To some extent, yes, but it also has benefits. It's not that simple.",
+         "es": "En cierta medida, sí, pero también tiene beneficios. No es tan sencillo.",
+         "ok": true
+        },
+        {
+         "en": "Yes, social media is absolutely always bad for everyone.",
+         "es": "Sí, las redes son absolutamente siempre malas para todos.",
+         "ok": false,
+         "why": "Demasiado absoluto; matiza."
+        }
+       ]
+      },
+      {
+       "who": "Reporter",
+       "en": "Could you give an example of a benefit?",
+       "es": "¿Podría dar un ejemplo de un beneficio?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sure. It tends to help people stay connected and learn new skills.",
+         "es": "Claro. Suele ayudar a la gente a mantenerse conectada y a aprender nuevas habilidades.",
+         "ok": true
+        },
+        {
+         "en": "Sure. It tend to help people.",
+         "es": "Claro. Suele ayudar a la gente.",
+         "ok": false,
+         "why": "Con \"it\" es \"tends to\"."
+        }
+       ]
+      },
+      {
+       "who": "Reporter",
+       "en": "And the risks?",
+       "es": "¿Y los riesgos?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "There's no denying that too much screen time can be a problem.",
+         "es": "No se puede negar que demasiado tiempo de pantalla puede ser un problema.",
+         "ok": true
+        },
+        {
+         "en": "There's no denying nothing.",
+         "es": "No se puede negar nada.",
+         "ok": false,
+         "why": "Doble negación y sin sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No se puede negar que la desigualdad es un problema serio.",
+     "en": "There's no denying that inequality is a serious problem.",
+     "accept": [
+      "There is no denying that inequality is a serious problem."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "El gobierno debería ayudar a los pobres.",
+     "en": "The government should help the poor."
+    },
+    {
+     "type": "write",
+     "es": "Los jóvenes suelen usar mucho las redes sociales.",
+     "en": "Young people tend to use social media a lot."
+    },
+    {
+     "type": "dictation",
+     "en": "On the whole, education reduces inequality.",
+     "es": "En general, la educación reduce la desigualdad."
+    },
+    {
+     "type": "dictation",
+     "en": "There's a growing concern about the digital divide.",
+     "es": "Hay una preocupación creciente por la brecha digital."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u72.ngo",
+      "u72.tend-to",
+      "u72.to-some-extent",
+      "u72.on-the-whole",
+      "u72.by-and-large",
+      "u72.it-could-be-argued-that",
+      "u72.there-s-no-denying-that",
+      "u72.a-growing-concern"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

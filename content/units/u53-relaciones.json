@@ -1,0 +1,1770 @@
+{
+ "_generated": true,
+ "id": "u53-relaciones",
+ "level": "B1",
+ "title": "Relaciones personales",
+ "emoji": "💞",
+ "canDo": "Ya puedo hablar de amistad, pareja, familia y conflictos",
+ "summary": "Vocabulario de relaciones, pronombres reflexivos y each other, y cómo resolver conflictos.",
+ "grammar": [
+  "Reflexivos: myself, yourself…",
+  "each other"
+ ],
+ "items": [
+  {
+   "id": "u53.relationship",
+   "en": "relationship",
+   "es": "relación",
+   "kind": "word",
+   "emoji": "💑",
+   "say": "ri-léi-shon-ship"
+  },
+  {
+   "id": "u53.friendship",
+   "en": "friendship",
+   "es": "amistad",
+   "kind": "word",
+   "emoji": "🫂",
+   "say": "frénd-ship"
+  },
+  {
+   "id": "u53.partner",
+   "en": "partner",
+   "es": "pareja / socio",
+   "kind": "word",
+   "emoji": "💞",
+   "say": "párt-ner"
+  },
+  {
+   "id": "u53.boyfriend",
+   "en": "boyfriend",
+   "es": "novio",
+   "kind": "word",
+   "emoji": "👦❤️"
+  },
+  {
+   "id": "u53.girlfriend",
+   "en": "girlfriend",
+   "es": "novia",
+   "kind": "word",
+   "emoji": "👧❤️"
+  },
+  {
+   "id": "u53.husband",
+   "en": "husband",
+   "es": "esposo",
+   "kind": "word",
+   "emoji": "🤵",
+   "say": "jás-band"
+  },
+  {
+   "id": "u53.wife",
+   "en": "wife",
+   "es": "esposa",
+   "kind": "word",
+   "emoji": "👰",
+   "say": "uáif"
+  },
+  {
+   "id": "u53.couple",
+   "en": "couple",
+   "es": "pareja",
+   "kind": "word",
+   "emoji": "👫",
+   "say": "ká-pol"
+  },
+  {
+   "id": "u53.ex",
+   "en": "ex",
+   "es": "ex (pareja)",
+   "kind": "word",
+   "emoji": "💔"
+  },
+  {
+   "id": "u53.fiance",
+   "en": "fiancé",
+   "es": "prometido",
+   "kind": "word",
+   "emoji": "💍",
+   "say": "fi-an-séi"
+  },
+  {
+   "id": "u53.relatives",
+   "en": "relatives",
+   "es": "parientes",
+   "kind": "word",
+   "emoji": "👪",
+   "say": "ré-la-tivs"
+  },
+  {
+   "id": "u53.cousin",
+   "en": "cousin",
+   "es": "primo / prima",
+   "kind": "word",
+   "emoji": "🧑‍🤝‍🧑",
+   "say": "ká-sin"
+  },
+  {
+   "id": "u53.uncle",
+   "en": "uncle",
+   "es": "tío",
+   "kind": "word",
+   "emoji": "👨",
+   "say": "án-kol"
+  },
+  {
+   "id": "u53.aunt",
+   "en": "aunt",
+   "es": "tía",
+   "kind": "word",
+   "emoji": "👩",
+   "say": "ant"
+  },
+  {
+   "id": "u53.nephew",
+   "en": "nephew",
+   "es": "sobrino",
+   "kind": "word",
+   "emoji": "👦",
+   "say": "né-fiu"
+  },
+  {
+   "id": "u53.niece",
+   "en": "niece",
+   "es": "sobrina",
+   "kind": "word",
+   "emoji": "👧",
+   "say": "níis"
+  },
+  {
+   "id": "u53.in-laws",
+   "en": "in-laws",
+   "es": "familia política",
+   "kind": "word",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u53.stepmother",
+   "en": "stepmother",
+   "es": "madrastra",
+   "kind": "word",
+   "emoji": "👩‍👦"
+  },
+  {
+   "id": "u53.only-child",
+   "en": "only child",
+   "es": "hijo único",
+   "kind": "chunk",
+   "emoji": "🧒"
+  },
+  {
+   "id": "u53.twins",
+   "en": "twins",
+   "es": "gemelos",
+   "kind": "word",
+   "emoji": "👯",
+   "say": "tuins"
+  },
+  {
+   "id": "u53.best-friend",
+   "en": "best friend",
+   "es": "mejor amigo",
+   "kind": "chunk",
+   "emoji": "🤞"
+  },
+  {
+   "id": "u53.acquaintance",
+   "en": "acquaintance",
+   "es": "conocido",
+   "kind": "word",
+   "emoji": "🙂",
+   "say": "a-kuéin-tans"
+  },
+  {
+   "id": "u53.trust",
+   "en": "trust",
+   "es": "confianza / confiar",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "trast"
+  },
+  {
+   "id": "u53.support",
+   "en": "support",
+   "es": "apoyo / apoyar",
+   "kind": "word",
+   "emoji": "🫶",
+   "say": "su-pórt"
+  },
+  {
+   "id": "u53.argue",
+   "en": "argue",
+   "es": "discutir",
+   "kind": "word",
+   "emoji": "🗯️",
+   "say": "ár-giu"
+  },
+  {
+   "id": "u53.fight",
+   "en": "fight",
+   "es": "pelea / pelear",
+   "kind": "word",
+   "emoji": "🥊",
+   "say": "fáit"
+  },
+  {
+   "id": "u53.apologize",
+   "en": "apologize",
+   "es": "pedir perdón",
+   "kind": "word",
+   "emoji": "🙏",
+   "say": "a-pó-lo-yais"
+  },
+  {
+   "id": "u53.forgive",
+   "en": "forgive",
+   "es": "perdonar",
+   "kind": "word",
+   "emoji": "🕊️",
+   "say": "for-guív"
+  },
+  {
+   "id": "u53.fall-out-with",
+   "en": "fall out with",
+   "es": "pelearse con",
+   "kind": "chunk",
+   "emoji": "😤"
+  },
+  {
+   "id": "u53.get-divorced",
+   "en": "get divorced",
+   "es": "divorciarse",
+   "kind": "chunk",
+   "emoji": "📄",
+   "say": "di-vórst"
+  },
+  {
+   "id": "u53.date",
+   "en": "date",
+   "es": "salir con alguien / cita",
+   "kind": "word",
+   "emoji": "🌹",
+   "say": "déit"
+  },
+  {
+   "id": "u53.go-on-a-date",
+   "en": "go on a date",
+   "es": "tener una cita",
+   "kind": "chunk",
+   "emoji": "🍷"
+  },
+  {
+   "id": "u53.cheat-on",
+   "en": "cheat on",
+   "es": "ponerle los cachos a / ser infiel",
+   "kind": "chunk",
+   "emoji": "😈"
+  },
+  {
+   "id": "u53.loyal",
+   "en": "loyal",
+   "es": "leal",
+   "kind": "word",
+   "emoji": "🐕",
+   "say": "lói-al"
+  },
+  {
+   "id": "u53.selfish",
+   "en": "selfish",
+   "es": "egoísta",
+   "kind": "word",
+   "emoji": "🙄",
+   "say": "sél-fish"
+  },
+  {
+   "id": "u53.generous",
+   "en": "generous",
+   "es": "generoso",
+   "kind": "word",
+   "emoji": "🎁",
+   "say": "yé-ne-ros"
+  },
+  {
+   "id": "u53.caring",
+   "en": "caring",
+   "es": "cariñoso / atento",
+   "kind": "word",
+   "emoji": "💗",
+   "say": "ké-ring"
+  },
+  {
+   "id": "u53.understanding",
+   "en": "understanding",
+   "es": "comprensivo",
+   "kind": "word",
+   "emoji": "🫂",
+   "say": "an-der-stán-ding"
+  },
+  {
+   "id": "u53.communicate",
+   "en": "communicate",
+   "es": "comunicarse",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "ko-miú-ni-keit"
+  },
+  {
+   "id": "u53.spend-time-with",
+   "en": "spend time with",
+   "es": "pasar tiempo con",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u53.keep-in-touch",
+   "en": "keep in touch",
+   "es": "mantenerse en contacto",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u53.lose-touch",
+   "en": "lose touch",
+   "es": "perder el contacto",
+   "kind": "chunk",
+   "emoji": "📵"
+  },
+  {
+   "id": "u53.myself",
+   "en": "myself",
+   "es": "yo mismo / me",
+   "kind": "word",
+   "emoji": "🪞",
+   "say": "mai-sélf"
+  },
+  {
+   "id": "u53.yourself",
+   "en": "yourself",
+   "es": "tú mismo / te",
+   "kind": "word",
+   "emoji": "🫵",
+   "say": "iur-sélf"
+  },
+  {
+   "id": "u53.himself-herself",
+   "en": "himself / herself",
+   "es": "él mismo / ella misma",
+   "kind": "chunk",
+   "emoji": "🧍",
+   "say": "jim-sélf / jer-sélf"
+  },
+  {
+   "id": "u53.ourselves",
+   "en": "ourselves",
+   "es": "nosotros mismos",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "aur-sélvs"
+  },
+  {
+   "id": "u53.themselves",
+   "en": "themselves",
+   "es": "ellos mismos",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "dem-sélvs"
+  },
+  {
+   "id": "u53.each-other",
+   "en": "each other",
+   "es": "el uno al otro / mutuamente",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u53.enjoy-yourself",
+   "en": "Enjoy yourself!",
+   "es": "¡Diviértete!",
+   "kind": "chunk",
+   "emoji": "🎉"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u53-relaciones-l1",
+   "title": "1. relationship, friendship, partner…",
+   "focus": "listening",
+   "newItems": [
+    "u53.relationship",
+    "u53.friendship",
+    "u53.partner",
+    "u53.boyfriend"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.relationship",
+      "u53.friendship"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.partner",
+      "u53.boyfriend"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.relationship",
+      "u53.friendship",
+      "u53.partner",
+      "u53.boyfriend"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.relationship",
+      "u53.friendship",
+      "u53.partner",
+      "u53.boyfriend"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.relationship",
+      "u53.friendship",
+      "u53.partner",
+      "u53.boyfriend"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l2",
+   "title": "2. girlfriend, husband, wife…",
+   "focus": "grammar",
+   "newItems": [
+    "u53.girlfriend",
+    "u53.husband",
+    "u53.wife",
+    "u53.couple"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.girlfriend",
+      "u53.husband"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.wife",
+      "u53.couple"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.girlfriend",
+      "u53.husband",
+      "u53.wife",
+      "u53.couple"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.girlfriend",
+      "u53.husband",
+      "u53.wife",
+      "u53.couple"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.girlfriend",
+      "u53.husband",
+      "u53.wife",
+      "u53.couple"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.relationship",
+      "u53.friendship",
+      "u53.partner",
+      "u53.boyfriend"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Reflexivos y each other",
+     "intro": "Compara: ¿la acción vuelve a la misma persona o va de uno al otro?",
+     "examples": [
+      {
+       "en": "I cut myself while I was cooking.",
+       "es": "Me corté mientras cocinaba.",
+       "mark": [
+        "myself"
+       ]
+      },
+      {
+       "en": "She looked at herself in the mirror.",
+       "es": "Ella se miró en el espejo.",
+       "mark": [
+        "herself"
+       ]
+      },
+      {
+       "en": "Did you enjoy yourselves at the party?",
+       "es": "¿Se divirtieron en la fiesta?",
+       "mark": [
+        "yourselves"
+       ]
+      },
+      {
+       "en": "Ana and Leo love each other.",
+       "es": "Ana y Leo se aman (el uno al otro).",
+       "mark": [
+        "each other"
+       ]
+      },
+      {
+       "en": "We've known each other for years.",
+       "es": "Nos conocemos desde hace años.",
+       "mark": [
+        "each other"
+       ]
+      }
+     ],
+     "question": "¿Qué se usa cuando dos personas se hacen algo mutuamente?",
+     "options": [
+      "Reflexivo (themselves)",
+      "each other"
+     ],
+     "answer": 1,
+     "rule": "Los REFLEXIVOS (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) se usan cuando la acción vuelve a la misma persona: I hurt myself. each other = mutuamente: They hate each other (se odian el uno al otro). Ojo: muchos verbos reflexivos en español NO lo son en inglés: me levanto = I get up.",
+     "ruleExamples": [
+      {
+       "en": "They talk to each other every day, but sometimes they talk to themselves too!",
+       "es": "Se hablan todos los días, ¡pero a veces también hablan solos!"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Be careful! Don't hurt ___.",
+     "options": [
+      "yourself",
+      "each other"
+     ],
+     "answer": 0,
+     "es": "¡Cuidado! No te lastimes."
+    },
+    {
+     "type": "fill",
+     "en": "My parents call ___ every day at lunch.",
+     "options": [
+      "each other",
+      "themselves"
+     ],
+     "answer": 0,
+     "es": "Mis papás se llaman todos los días al almuerzo."
+    },
+    {
+     "type": "fill",
+     "en": "He made the cake ___.",
+     "options": [
+      "himself",
+      "herself"
+     ],
+     "answer": 0,
+     "es": "Él mismo hizo la torta."
+    },
+    {
+     "type": "fill",
+     "en": "We ___ along very well.",
+     "options": [
+      "get",
+      "get ourselves"
+     ],
+     "answer": 0,
+     "es": "Nos llevamos muy bien.",
+     "explain": "\"get along\" no lleva reflexivo."
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l3",
+   "title": "3. ex, fiancé, relatives…",
+   "focus": "reading",
+   "newItems": [
+    "u53.ex",
+    "u53.fiance",
+    "u53.relatives",
+    "u53.cousin"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.ex",
+      "u53.fiance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.relatives",
+      "u53.cousin"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.ex",
+      "u53.fiance",
+      "u53.relatives",
+      "u53.cousin"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.ex",
+      "u53.fiance",
+      "u53.relatives",
+      "u53.cousin"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.ex",
+      "u53.fiance",
+      "u53.relatives",
+      "u53.cousin"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.partner",
+      "u53.boyfriend",
+      "u53.girlfriend",
+      "u53.husband",
+      "u53.wife",
+      "u53.couple"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l4",
+   "title": "4. uncle, aunt, nephew…",
+   "focus": "listening",
+   "newItems": [
+    "u53.uncle",
+    "u53.aunt",
+    "u53.nephew",
+    "u53.niece"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.uncle",
+      "u53.aunt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.nephew",
+      "u53.niece"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.uncle",
+      "u53.aunt",
+      "u53.nephew",
+      "u53.niece"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.uncle",
+      "u53.aunt",
+      "u53.nephew",
+      "u53.niece"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.uncle",
+      "u53.aunt",
+      "u53.nephew",
+      "u53.niece"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.wife",
+      "u53.couple",
+      "u53.ex",
+      "u53.fiance",
+      "u53.relatives",
+      "u53.cousin"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l5",
+   "title": "5. in-laws, stepmother, only child…",
+   "focus": "listening",
+   "newItems": [
+    "u53.in-laws",
+    "u53.stepmother",
+    "u53.only-child",
+    "u53.twins"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.in-laws",
+      "u53.stepmother"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.only-child",
+      "u53.twins"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.in-laws",
+      "u53.stepmother",
+      "u53.only-child",
+      "u53.twins"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.in-laws",
+      "u53.stepmother",
+      "u53.only-child",
+      "u53.twins"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.in-laws",
+      "u53.stepmother",
+      "u53.only-child",
+      "u53.twins"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.relatives",
+      "u53.cousin",
+      "u53.uncle",
+      "u53.aunt",
+      "u53.nephew",
+      "u53.niece"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l6",
+   "title": "6. best friend, acquaintance, trust…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u53.best-friend",
+    "u53.acquaintance",
+    "u53.trust",
+    "u53.support"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.best-friend",
+      "u53.acquaintance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.trust",
+      "u53.support"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.best-friend",
+      "u53.acquaintance",
+      "u53.trust",
+      "u53.support"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.best-friend",
+      "u53.acquaintance",
+      "u53.trust",
+      "u53.support"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.best-friend",
+      "u53.acquaintance",
+      "u53.trust",
+      "u53.support"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.nephew",
+      "u53.niece",
+      "u53.in-laws",
+      "u53.stepmother",
+      "u53.only-child",
+      "u53.twins"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l7",
+   "title": "7. argue, fight, apologize…",
+   "focus": "reading",
+   "newItems": [
+    "u53.argue",
+    "u53.fight",
+    "u53.apologize",
+    "u53.forgive"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.argue",
+      "u53.fight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.apologize",
+      "u53.forgive"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.argue",
+      "u53.fight",
+      "u53.apologize",
+      "u53.forgive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.argue",
+      "u53.fight",
+      "u53.apologize",
+      "u53.forgive"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.argue",
+      "u53.fight",
+      "u53.apologize",
+      "u53.forgive"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.only-child",
+      "u53.twins",
+      "u53.best-friend",
+      "u53.acquaintance",
+      "u53.trust",
+      "u53.support"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l8",
+   "title": "8. fall out with, get divorced, date…",
+   "focus": "listening",
+   "newItems": [
+    "u53.fall-out-with",
+    "u53.get-divorced",
+    "u53.date",
+    "u53.go-on-a-date"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.fall-out-with",
+      "u53.get-divorced"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.date",
+      "u53.go-on-a-date"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.fall-out-with",
+      "u53.get-divorced",
+      "u53.date",
+      "u53.go-on-a-date"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.fall-out-with",
+      "u53.get-divorced",
+      "u53.date",
+      "u53.go-on-a-date"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.fall-out-with",
+      "u53.get-divorced",
+      "u53.date",
+      "u53.go-on-a-date"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.trust",
+      "u53.support",
+      "u53.argue",
+      "u53.fight",
+      "u53.apologize",
+      "u53.forgive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l9",
+   "title": "9. cheat on, loyal, selfish…",
+   "focus": "listening",
+   "newItems": [
+    "u53.cheat-on",
+    "u53.loyal",
+    "u53.selfish",
+    "u53.generous"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.cheat-on",
+      "u53.loyal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.selfish",
+      "u53.generous"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.cheat-on",
+      "u53.loyal",
+      "u53.selfish",
+      "u53.generous"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.cheat-on",
+      "u53.loyal",
+      "u53.selfish",
+      "u53.generous"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.cheat-on",
+      "u53.loyal",
+      "u53.selfish",
+      "u53.generous"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.apologize",
+      "u53.forgive",
+      "u53.fall-out-with",
+      "u53.get-divorced",
+      "u53.date",
+      "u53.go-on-a-date"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l10",
+   "title": "10. caring, understanding, communicate…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u53.caring",
+    "u53.understanding",
+    "u53.communicate",
+    "u53.spend-time-with"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.caring",
+      "u53.understanding"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.communicate",
+      "u53.spend-time-with"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.caring",
+      "u53.understanding",
+      "u53.communicate",
+      "u53.spend-time-with"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.caring",
+      "u53.understanding",
+      "u53.communicate",
+      "u53.spend-time-with"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.caring",
+      "u53.understanding",
+      "u53.communicate",
+      "u53.spend-time-with"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.date",
+      "u53.go-on-a-date",
+      "u53.cheat-on",
+      "u53.loyal",
+      "u53.selfish",
+      "u53.generous"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Consejo de amiga",
+     "scene": "☕ Tu amiga está triste después de una pelea.",
+     "lines": [
+      {
+       "who": "Lucía",
+       "en": "Andrés and I had a big argument last night.",
+       "es": "Andrés y yo tuvimos una discusión grande anoche."
+      },
+      {
+       "who": "You",
+       "en": "Oh no. What happened?",
+       "es": "Ay no. ¿Qué pasó?"
+      },
+      {
+       "who": "Lucía",
+       "en": "He says I spend too much time with my friends and not with him.",
+       "es": "Dice que paso mucho tiempo con mis amigas y no con él."
+      },
+      {
+       "who": "You",
+       "en": "Did you talk to each other about it calmly?",
+       "es": "¿Hablaron de eso con calma?"
+      },
+      {
+       "who": "Lucía",
+       "en": "Not really. We both shouted.",
+       "es": "No mucho. Los dos gritamos."
+      },
+      {
+       "who": "You",
+       "en": "I think you should apologize to each other and communicate better. Trust is important.",
+       "es": "Creo que deberían pedirse perdón y comunicarse mejor. La confianza es importante."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l11",
+   "title": "11. keep in touch, lose touch, myself…",
+   "focus": "reading",
+   "newItems": [
+    "u53.keep-in-touch",
+    "u53.lose-touch",
+    "u53.myself",
+    "u53.yourself"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.keep-in-touch",
+      "u53.lose-touch"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.myself",
+      "u53.yourself"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.keep-in-touch",
+      "u53.lose-touch",
+      "u53.myself",
+      "u53.yourself"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.keep-in-touch",
+      "u53.lose-touch",
+      "u53.myself",
+      "u53.yourself"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.keep-in-touch",
+      "u53.lose-touch",
+      "u53.myself",
+      "u53.yourself"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.selfish",
+      "u53.generous",
+      "u53.caring",
+      "u53.understanding",
+      "u53.communicate",
+      "u53.spend-time-with"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l12",
+   "title": "12. himself / herself, ourselves, themselves…",
+   "focus": "listening",
+   "newItems": [
+    "u53.himself-herself",
+    "u53.ourselves",
+    "u53.themselves",
+    "u53.each-other"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.himself-herself",
+      "u53.ourselves"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u53.themselves",
+      "u53.each-other"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.himself-herself",
+      "u53.ourselves",
+      "u53.themselves",
+      "u53.each-other"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.himself-herself",
+      "u53.ourselves",
+      "u53.themselves",
+      "u53.each-other"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.himself-herself",
+      "u53.ourselves",
+      "u53.themselves",
+      "u53.each-other"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.communicate",
+      "u53.spend-time-with",
+      "u53.keep-in-touch",
+      "u53.lose-touch",
+      "u53.myself",
+      "u53.yourself"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-l13",
+   "title": "13. Enjoy yourself!",
+   "focus": "listening",
+   "newItems": [
+    "u53.enjoy-yourself"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u53.enjoy-yourself"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.enjoy-yourself"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.enjoy-yourself"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.enjoy-yourself"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.myself",
+      "u53.yourself",
+      "u53.himself-herself",
+      "u53.ourselves",
+      "u53.themselves",
+      "u53.each-other"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u53-relaciones-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Amigos desde el colegio",
+     "emoji": "🫂",
+     "paragraphs": [
+      {
+       "en": "Mateo and Simón have known each other since they were six years old.",
+       "es": "Mateo y Simón se conocen desde que tenían seis años."
+      },
+      {
+       "en": "They went to the same school and they spent all their free time together.",
+       "es": "Fueron al mismo colegio y pasaban todo su tiempo libre juntos."
+      },
+      {
+       "en": "When Simón moved to Spain for work, they promised to keep in touch.",
+       "es": "Cuando Simón se mudó a España por trabajo, prometieron mantenerse en contacto."
+      },
+      {
+       "en": "For a few years they lost touch. They were busy and they rarely called each other.",
+       "es": "Por unos años perdieron el contacto. Estaban ocupados y casi nunca se llamaban."
+      },
+      {
+       "en": "Then Mateo got married and he invited Simón to the wedding.",
+       "es": "Luego Mateo se casó e invitó a Simón a la boda."
+      },
+      {
+       "en": "Simón flew back to Colombia and gave the best speech of the night. A true friendship never ends.",
+       "es": "Simón voló de vuelta a Colombia y dio el mejor discurso de la noche. Una verdadera amistad nunca termina."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Desde cuándo se conocen?",
+       "options": [
+        "Desde la universidad",
+        "Desde los seis años",
+        "Desde hace un año"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Por qué perdieron el contacto?",
+       "options": [
+        "Se pelearon",
+        "Estaban ocupados",
+        "Cambiaron de número"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hizo Simón en la boda?",
+       "options": [
+        "No fue",
+        "Dio el mejor discurso",
+        "Llegó tarde"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Pedir perdón",
+     "scene": "😔 Olvidaste el cumpleaños de tu mejor amigo.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "You forgot my birthday yesterday.",
+       "es": "Ayer se te olvidó mi cumpleaños."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm really sorry. I have no excuse. I feel terrible.",
+         "es": "Lo siento mucho. No tengo excusa. Me siento fatal.",
+         "ok": true
+        },
+        {
+         "en": "It's your problem.",
+         "es": "Es tu problema.",
+         "ok": false,
+         "why": "Así empeoras la situación."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "I was a little hurt.",
+       "es": "Me dolió un poco."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I understand. Can I take you out for dinner tonight to make up for it?",
+         "es": "Lo entiendo. ¿Te puedo invitar a cenar esta noche para compensar?",
+         "ok": true
+        },
+        {
+         "en": "I understand. Enjoy yourself alone.",
+         "es": "Lo entiendo. Diviértete solo.",
+         "ok": false,
+         "why": "Suena frío y no arregla nada."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "OK, I forgive you. But you're paying!",
+       "es": "Bueno, te perdono. ¡Pero tú pagas!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Of course! Thanks for understanding.",
+         "es": "¡Claro! Gracias por entender.",
+         "ok": true
+        },
+        {
+         "en": "Of course not.",
+         "es": "Claro que no.",
+         "ok": false,
+         "why": "Contradice la reconciliación."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Nos conocemos desde hace diez años.",
+     "en": "We've known each other for ten years.",
+     "accept": [
+      "We have known each other for ten years."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me corté cocinando.",
+     "en": "I cut myself cooking.",
+     "accept": [
+      "I cut myself while I was cooking.",
+      "I cut myself while cooking."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Deberían pedirse perdón.",
+     "en": "They should apologize to each other."
+    },
+    {
+     "type": "dictation",
+     "en": "Trust is the most important thing in a relationship.",
+     "es": "La confianza es lo más importante en una relación."
+    },
+    {
+     "type": "dictation",
+     "en": "We promised to keep in touch.",
+     "es": "Prometimos mantenernos en contacto."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u53.lose-touch",
+      "u53.myself",
+      "u53.yourself",
+      "u53.himself-herself",
+      "u53.ourselves",
+      "u53.themselves",
+      "u53.each-other",
+      "u53.enjoy-yourself"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

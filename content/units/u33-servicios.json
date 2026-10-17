@@ -1,0 +1,1243 @@
+{
+ "_generated": true,
+ "id": "u33-servicios",
+ "level": "A2",
+ "title": "Servicios de la ciudad",
+ "emoji": "🏦",
+ "canDo": "Ya puedo hacer trámites en el banco, el correo y otros servicios",
+ "summary": "Banco, correo, peluquería, taller y cómo hacer y responder solicitudes.",
+ "grammar": [
+  "I'd like to + verbo",
+  "Preguntas indirectas sencillas"
+ ],
+ "items": [
+  {
+   "id": "u33.open-an-account",
+   "en": "open an account",
+   "es": "abrir una cuenta",
+   "kind": "chunk",
+   "emoji": "🏦"
+  },
+  {
+   "id": "u33.withdraw-money",
+   "en": "withdraw money",
+   "es": "sacar plata",
+   "kind": "chunk",
+   "emoji": "🏧",
+   "say": "uiz-dró"
+  },
+  {
+   "id": "u33.deposit",
+   "en": "deposit",
+   "es": "consignar / depósito",
+   "kind": "word",
+   "emoji": "💵",
+   "say": "di-pó-sit"
+  },
+  {
+   "id": "u33.transfer",
+   "en": "transfer",
+   "es": "transferencia / transferir",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "tráns-fer"
+  },
+  {
+   "id": "u33.atm",
+   "en": "ATM",
+   "es": "cajero automático",
+   "kind": "word",
+   "emoji": "🏧",
+   "say": "éi-ti-em"
+  },
+  {
+   "id": "u33.pin-number",
+   "en": "PIN number",
+   "es": "clave (de la tarjeta)",
+   "kind": "chunk",
+   "emoji": "🔢"
+  },
+  {
+   "id": "u33.receipt",
+   "en": "receipt",
+   "es": "recibo",
+   "kind": "word",
+   "emoji": "🧾",
+   "say": "ri-síit",
+   "tip": "La p no suena."
+  },
+  {
+   "id": "u33.coin",
+   "en": "coin",
+   "es": "moneda",
+   "kind": "word",
+   "emoji": "🪙",
+   "say": "kóin"
+  },
+  {
+   "id": "u33.bill-money",
+   "en": "bill",
+   "es": "billete",
+   "kind": "word",
+   "emoji": "💵",
+   "tip": "Aquí con el sentido de: money."
+  },
+  {
+   "id": "u33.fill-out-a-form",
+   "en": "fill out a form",
+   "es": "llenar un formulario",
+   "kind": "chunk",
+   "emoji": "📝"
+  },
+  {
+   "id": "u33.sign",
+   "en": "sign",
+   "es": "firmar",
+   "kind": "word",
+   "emoji": "✍️",
+   "say": "sáin"
+  },
+  {
+   "id": "u33.signature",
+   "en": "signature",
+   "es": "firma",
+   "kind": "word",
+   "emoji": "🖊️",
+   "say": "síg-na-cher"
+  },
+  {
+   "id": "u33.id-card",
+   "en": "ID card",
+   "es": "cédula / documento de identidad",
+   "kind": "chunk",
+   "emoji": "🪪"
+  },
+  {
+   "id": "u33.address",
+   "en": "address",
+   "es": "dirección",
+   "kind": "word",
+   "emoji": "🏠",
+   "say": "á-dres"
+  },
+  {
+   "id": "u33.zip-code",
+   "en": "zip code",
+   "es": "código postal",
+   "kind": "chunk",
+   "emoji": "📮"
+  },
+  {
+   "id": "u33.package",
+   "en": "package",
+   "es": "paquete",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "pá-kich"
+  },
+  {
+   "id": "u33.letter",
+   "en": "letter",
+   "es": "carta",
+   "kind": "word",
+   "emoji": "✉️",
+   "say": "lé-ter"
+  },
+  {
+   "id": "u33.stamp",
+   "en": "stamp",
+   "es": "estampilla",
+   "kind": "word",
+   "emoji": "📯",
+   "say": "stamp"
+  },
+  {
+   "id": "u33.line",
+   "en": "line",
+   "es": "fila",
+   "kind": "word",
+   "emoji": "🧍🧍",
+   "say": "láin"
+  },
+  {
+   "id": "u33.wait-in-line",
+   "en": "wait in line",
+   "es": "hacer fila",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u33.hairdresser",
+   "en": "hairdresser",
+   "es": "peluquería / peluquero",
+   "kind": "word",
+   "emoji": "💇",
+   "say": "jér-dre-ser"
+  },
+  {
+   "id": "u33.haircut",
+   "en": "haircut",
+   "es": "corte de pelo",
+   "kind": "word",
+   "emoji": "✂️",
+   "say": "jér-kat"
+  },
+  {
+   "id": "u33.repair-shop",
+   "en": "repair shop",
+   "es": "taller de reparación",
+   "kind": "chunk",
+   "emoji": "🔧"
+  },
+  {
+   "id": "u33.gas-station",
+   "en": "gas station",
+   "es": "estación de gasolina / bomba",
+   "kind": "chunk",
+   "emoji": "⛽"
+  },
+  {
+   "id": "u33.laundry-service",
+   "en": "laundry service",
+   "es": "lavandería",
+   "kind": "chunk",
+   "emoji": "👕"
+  },
+  {
+   "id": "u33.dry-cleaner",
+   "en": "dry cleaner",
+   "es": "tintorería",
+   "kind": "chunk",
+   "emoji": "🧥"
+  },
+  {
+   "id": "u33.police-station",
+   "en": "police station",
+   "es": "estación de policía",
+   "kind": "chunk",
+   "emoji": "🚓"
+  },
+  {
+   "id": "u33.city-hall",
+   "en": "city hall",
+   "es": "alcaldía",
+   "kind": "chunk",
+   "emoji": "🏛️"
+  },
+  {
+   "id": "u33.opening-hours",
+   "en": "opening hours",
+   "es": "horario de atención",
+   "kind": "chunk",
+   "emoji": "🕘"
+  },
+  {
+   "id": "u33.i-d-like-to-send-a-package",
+   "en": "I'd like to send a package",
+   "es": "Quisiera enviar un paquete",
+   "kind": "chunk",
+   "emoji": "📦"
+  },
+  {
+   "id": "u33.i-d-like-to-open-an-account",
+   "en": "I'd like to open an account",
+   "es": "Quisiera abrir una cuenta",
+   "kind": "chunk",
+   "emoji": "🏦"
+  },
+  {
+   "id": "u33.how-long-will-it-take",
+   "en": "How long will it take?",
+   "es": "¿Cuánto se va a demorar?",
+   "kind": "chunk",
+   "emoji": "⌛"
+  },
+  {
+   "id": "u33.here-s-my-id",
+   "en": "Here's my ID",
+   "es": "Aquí está mi cédula",
+   "kind": "chunk",
+   "emoji": "🪪"
+  },
+  {
+   "id": "u33.sign-here-please",
+   "en": "Sign here, please",
+   "es": "Firme aquí, por favor",
+   "kind": "chunk",
+   "emoji": "✍️"
+  },
+  {
+   "id": "u33.next-please",
+   "en": "Next, please!",
+   "es": "¡Siguiente, por favor!",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u33.what-time-do-you-close",
+   "en": "What time do you close?",
+   "es": "¿A qué hora cierran?",
+   "kind": "chunk",
+   "emoji": "🕖"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u33-servicios-l1",
+   "title": "1. open an account, withdraw money, deposit…",
+   "focus": "listening",
+   "newItems": [
+    "u33.open-an-account",
+    "u33.withdraw-money",
+    "u33.deposit",
+    "u33.transfer"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.open-an-account",
+      "u33.withdraw-money"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.deposit",
+      "u33.transfer"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.open-an-account",
+      "u33.withdraw-money",
+      "u33.deposit",
+      "u33.transfer"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.open-an-account",
+      "u33.withdraw-money",
+      "u33.deposit",
+      "u33.transfer"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l2",
+   "title": "2. ATM, PIN number, receipt…",
+   "focus": "grammar",
+   "newItems": [
+    "u33.atm",
+    "u33.pin-number",
+    "u33.receipt",
+    "u33.coin"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.atm",
+      "u33.pin-number"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.receipt",
+      "u33.coin"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.atm",
+      "u33.pin-number",
+      "u33.receipt",
+      "u33.coin"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.atm",
+      "u33.pin-number",
+      "u33.receipt",
+      "u33.coin"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.open-an-account",
+      "u33.withdraw-money",
+      "u33.deposit",
+      "u33.transfer"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "I'd like to + verbo",
+     "intro": "Ya conoces I'd like + cosa. Mira qué pasa con una acción.",
+     "examples": [
+      {
+       "en": "I'd like a coffee.",
+       "es": "Quisiera un café.",
+       "mark": [
+        "I'd like"
+       ]
+      },
+      {
+       "en": "I'd like to send a package.",
+       "es": "Quisiera enviar un paquete.",
+       "mark": [
+        "I'd like to"
+       ]
+      },
+      {
+       "en": "I'd like to open an account.",
+       "es": "Quisiera abrir una cuenta.",
+       "mark": [
+        "I'd like to"
+       ]
+      },
+      {
+       "en": "She'd like to change her address.",
+       "es": "Ella quisiera cambiar su dirección.",
+       "mark": [
+        "'d like to"
+       ]
+      },
+      {
+       "en": "Would you like to sign here?",
+       "es": "¿Le gustaría firmar aquí?",
+       "mark": [
+        "Would you like to"
+       ]
+      }
+     ],
+     "question": "Cuando lo que quieres es una ACCIÓN, después de I'd like va…",
+     "options": [
+      "to + verbo",
+      "verbo con -ing",
+      "nada"
+     ],
+     "answer": 0,
+     "rule": "I'd like (I would like) es la forma amable de 'quisiera'. Con una cosa: I'd like a receipt. Con una acción: I'd like TO + verbo: I'd like to withdraw money. Para ofrecer: Would you like…?",
+     "ruleExamples": [
+      {
+       "en": "I'd like to withdraw two hundred thousand pesos, please.",
+       "es": "Quisiera sacar doscientos mil pesos, por favor."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I'd like ___ send this letter to Spain.",
+     "options": [
+      "to",
+      "—"
+     ],
+     "answer": 0,
+     "es": "Quisiera enviar esta carta a España."
+    },
+    {
+     "type": "fill",
+     "en": "I'd like ___ receipt, please.",
+     "options": [
+      "a",
+      "to"
+     ],
+     "answer": 0,
+     "es": "Quisiera un recibo, por favor."
+    },
+    {
+     "type": "fill",
+     "en": "___ you like to open an account?",
+     "options": [
+      "Would",
+      "Do"
+     ],
+     "answer": 0,
+     "es": "¿Le gustaría abrir una cuenta?"
+    },
+    {
+     "type": "fill",
+     "en": "Please ___ the form and sign here.",
+     "options": [
+      "fill out",
+      "fill in out"
+     ],
+     "answer": 0,
+     "es": "Por favor llene el formulario y firme aquí."
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l3",
+   "title": "3. bill, fill out a form, sign…",
+   "focus": "reading",
+   "newItems": [
+    "u33.bill-money",
+    "u33.fill-out-a-form",
+    "u33.sign",
+    "u33.signature"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.bill-money",
+      "u33.fill-out-a-form"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.sign",
+      "u33.signature"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.bill-money",
+      "u33.fill-out-a-form",
+      "u33.sign",
+      "u33.signature"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.bill-money",
+      "u33.fill-out-a-form",
+      "u33.sign",
+      "u33.signature"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.deposit",
+      "u33.transfer",
+      "u33.atm",
+      "u33.pin-number",
+      "u33.receipt",
+      "u33.coin"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l4",
+   "title": "4. ID card, address, zip code…",
+   "focus": "listening",
+   "newItems": [
+    "u33.id-card",
+    "u33.address",
+    "u33.zip-code",
+    "u33.package"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.id-card",
+      "u33.address"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.zip-code",
+      "u33.package"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.id-card",
+      "u33.address",
+      "u33.zip-code",
+      "u33.package"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.id-card",
+      "u33.address",
+      "u33.zip-code",
+      "u33.package"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.receipt",
+      "u33.coin",
+      "u33.bill-money",
+      "u33.fill-out-a-form",
+      "u33.sign",
+      "u33.signature"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l5",
+   "title": "5. letter, stamp, line…",
+   "focus": "listening",
+   "newItems": [
+    "u33.letter",
+    "u33.stamp",
+    "u33.line",
+    "u33.wait-in-line"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.letter",
+      "u33.stamp"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.line",
+      "u33.wait-in-line"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.letter",
+      "u33.stamp",
+      "u33.line",
+      "u33.wait-in-line"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.letter",
+      "u33.stamp",
+      "u33.line",
+      "u33.wait-in-line"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.sign",
+      "u33.signature",
+      "u33.id-card",
+      "u33.address",
+      "u33.zip-code",
+      "u33.package"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l6",
+   "title": "6. hairdresser, haircut, repair shop…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u33.hairdresser",
+    "u33.haircut",
+    "u33.repair-shop",
+    "u33.gas-station"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.hairdresser",
+      "u33.haircut"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.repair-shop",
+      "u33.gas-station"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.hairdresser",
+      "u33.haircut",
+      "u33.repair-shop",
+      "u33.gas-station"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.hairdresser",
+      "u33.haircut",
+      "u33.repair-shop",
+      "u33.gas-station"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.zip-code",
+      "u33.package",
+      "u33.letter",
+      "u33.stamp",
+      "u33.line",
+      "u33.wait-in-line"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l7",
+   "title": "7. laundry service, dry cleaner, police station…",
+   "focus": "reading",
+   "newItems": [
+    "u33.laundry-service",
+    "u33.dry-cleaner",
+    "u33.police-station",
+    "u33.city-hall"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.laundry-service",
+      "u33.dry-cleaner"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.police-station",
+      "u33.city-hall"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.laundry-service",
+      "u33.dry-cleaner",
+      "u33.police-station",
+      "u33.city-hall"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.laundry-service",
+      "u33.dry-cleaner",
+      "u33.police-station",
+      "u33.city-hall"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.line",
+      "u33.wait-in-line",
+      "u33.hairdresser",
+      "u33.haircut",
+      "u33.repair-shop",
+      "u33.gas-station"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En el banco",
+     "scene": "🏦 Haces fila en el banco.",
+     "lines": [
+      {
+       "who": "Clerk",
+       "en": "Next, please! Good morning.",
+       "es": "¡Siguiente, por favor! Buenos días."
+      },
+      {
+       "who": "You",
+       "en": "Good morning. I'd like to open a savings account.",
+       "es": "Buenos días. Quisiera abrir una cuenta de ahorros."
+      },
+      {
+       "who": "Clerk",
+       "en": "Of course. Can I see your ID?",
+       "es": "Claro. ¿Puedo ver su cédula?"
+      },
+      {
+       "who": "You",
+       "en": "Here's my ID.",
+       "es": "Aquí está mi cédula."
+      },
+      {
+       "who": "Clerk",
+       "en": "Thank you. Please fill out this form and sign here.",
+       "es": "Gracias. Por favor llene este formulario y firme aquí."
+      },
+      {
+       "who": "You",
+       "en": "How long will it take?",
+       "es": "¿Cuánto se va a demorar?"
+      },
+      {
+       "who": "Clerk",
+       "en": "About fifteen minutes.",
+       "es": "Unos quince minutos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l8",
+   "title": "8. opening hours, I'd like to send a package, I'd like to open an account…",
+   "focus": "listening",
+   "newItems": [
+    "u33.opening-hours",
+    "u33.i-d-like-to-send-a-package",
+    "u33.i-d-like-to-open-an-account",
+    "u33.how-long-will-it-take"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.opening-hours",
+      "u33.i-d-like-to-send-a-package"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.i-d-like-to-open-an-account",
+      "u33.how-long-will-it-take"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.opening-hours",
+      "u33.i-d-like-to-send-a-package",
+      "u33.i-d-like-to-open-an-account",
+      "u33.how-long-will-it-take"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.opening-hours",
+      "u33.i-d-like-to-send-a-package",
+      "u33.i-d-like-to-open-an-account",
+      "u33.how-long-will-it-take"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.repair-shop",
+      "u33.gas-station",
+      "u33.laundry-service",
+      "u33.dry-cleaner",
+      "u33.police-station",
+      "u33.city-hall"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-l9",
+   "title": "9. Here's my ID, Sign here, please, Next, please!…",
+   "focus": "listening",
+   "newItems": [
+    "u33.here-s-my-id",
+    "u33.sign-here-please",
+    "u33.next-please",
+    "u33.what-time-do-you-close"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u33.here-s-my-id",
+      "u33.sign-here-please"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u33.next-please",
+      "u33.what-time-do-you-close"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.here-s-my-id",
+      "u33.sign-here-please",
+      "u33.next-please",
+      "u33.what-time-do-you-close"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.here-s-my-id",
+      "u33.sign-here-please",
+      "u33.next-please",
+      "u33.what-time-do-you-close"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.police-station",
+      "u33.city-hall",
+      "u33.opening-hours",
+      "u33.i-d-like-to-send-a-package",
+      "u33.i-d-like-to-open-an-account",
+      "u33.how-long-will-it-take"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u33-servicios-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Una mañana de trámites",
+     "emoji": "📝",
+     "paragraphs": [
+      {
+       "en": "Sofía had a lot to do on Monday morning.",
+       "es": "Sofía tenía mucho que hacer el lunes por la mañana."
+      },
+      {
+       "en": "First she went to the post office to send a package to her sister in Chile.",
+       "es": "Primero fue al correo a enviar un paquete a su hermana en Chile."
+      },
+      {
+       "en": "She waited in line for twenty minutes and paid with coins.",
+       "es": "Hizo fila veinte minutos y pagó con monedas."
+      },
+      {
+       "en": "Then she went to the ATM, but she forgot her PIN number!",
+       "es": "Luego fue al cajero, ¡pero se le olvidó la clave!"
+      },
+      {
+       "en": "She went inside the bank and withdrew money with her ID card.",
+       "es": "Entró al banco y sacó plata con su cédula."
+      },
+      {
+       "en": "Finally she got a haircut. \"Now I'm ready for the week,\" she said.",
+       "es": "Al final se cortó el pelo. \"Ahora estoy lista para la semana\", dijo."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿A dónde envió el paquete?",
+       "options": [
+        "A Chile",
+        "A España",
+        "A Perú"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué olvidó en el cajero?",
+       "options": [
+        "Su tarjeta",
+        "Su clave",
+        "Su cédula"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hizo al final?",
+       "options": [
+        "Se cortó el pelo",
+        "Fue a la alcaldía",
+        "Abrió una cuenta"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "En el correo",
+     "scene": "📮 Quieres enviar un paquete a Estados Unidos.",
+     "turns": [
+      {
+       "who": "Clerk",
+       "en": "Hello. How can I help you?",
+       "es": "Hola. ¿En qué le puedo ayudar?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Hi. I'd like to send this package to the United States.",
+         "es": "Hola. Quisiera enviar este paquete a Estados Unidos.",
+         "ok": true
+        },
+        {
+         "en": "Hi. I'd like send a package.",
+         "es": "Hola. Quisiera enviar un paquete.",
+         "ok": false,
+         "why": "Falta \"to\": I'd like TO send."
+        }
+       ]
+      },
+      {
+       "who": "Clerk",
+       "en": "Sure. What's inside?",
+       "es": "Claro. ¿Qué tiene adentro?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Some clothes and a book.",
+         "es": "Algo de ropa y un libro.",
+         "ok": true
+        },
+        {
+         "en": "My PIN number.",
+         "es": "Mi clave.",
+         "ok": false,
+         "why": "Nunca compartas tu clave, y no responde la pregunta."
+        }
+       ]
+      },
+      {
+       "who": "Clerk",
+       "en": "OK. Please write the address and the zip code here.",
+       "es": "Bien. Por favor escriba la dirección y el código postal aquí."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No problem. How long will it take?",
+         "es": "No hay problema. ¿Cuánto se va a demorar?",
+         "ok": true
+        },
+        {
+         "en": "No problem. What time do you open yesterday?",
+         "es": "No hay problema. ¿A qué hora abren ayer?",
+         "ok": false,
+         "why": "Mezcla tiempos."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Quisiera abrir una cuenta.",
+     "en": "I'd like to open an account.",
+     "accept": [
+      "I would like to open an account."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿A qué hora cierran?",
+     "en": "What time do you close?"
+    },
+    {
+     "type": "write",
+     "es": "Aquí está mi cédula.",
+     "en": "Here's my ID.",
+     "accept": [
+      "Here is my ID.",
+      "Here's my ID card."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I'd like to send this letter, please.",
+     "es": "Quisiera enviar esta carta, por favor."
+    },
+    {
+     "type": "dictation",
+     "en": "Please fill out the form and sign here.",
+     "es": "Por favor llene el formulario y firme aquí."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u33.opening-hours",
+      "u33.i-d-like-to-send-a-package",
+      "u33.i-d-like-to-open-an-account",
+      "u33.how-long-will-it-take",
+      "u33.here-s-my-id",
+      "u33.sign-here-please",
+      "u33.next-please",
+      "u33.what-time-do-you-close"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

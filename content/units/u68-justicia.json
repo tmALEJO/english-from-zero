@@ -1,0 +1,1365 @@
+{
+ "_generated": true,
+ "id": "u68-justicia",
+ "level": "B2",
+ "title": "Normas y justicia",
+ "emoji": "⚖️",
+ "canDo": "Ya puedo hablar de delitos, del sistema judicial y de seguridad ciudadana",
+ "summary": "Delitos, el proceso judicial y vocabulario para opinar sobre justicia y prevención.",
+ "grammar": [
+  "Pasiva con modales: should be punished",
+  "Verbos + preposición: accuse of, charge with"
+ ],
+ "items": [
+  {
+   "id": "u68.crime",
+   "en": "crime",
+   "es": "delito",
+   "kind": "word",
+   "emoji": "🚔",
+   "say": "kráim"
+  },
+  {
+   "id": "u68.criminal",
+   "en": "criminal",
+   "es": "delincuente",
+   "kind": "word",
+   "emoji": "🦹",
+   "say": "krí-mi-nal"
+  },
+  {
+   "id": "u68.commit-a-crime",
+   "en": "commit a crime",
+   "es": "cometer un delito",
+   "kind": "chunk",
+   "emoji": "⚠️"
+  },
+  {
+   "id": "u68.illegal",
+   "en": "illegal",
+   "es": "ilegal",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "i-líi-gal"
+  },
+  {
+   "id": "u68.legal",
+   "en": "legal",
+   "es": "legal",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "líi-gal"
+  },
+  {
+   "id": "u68.theft",
+   "en": "theft",
+   "es": "hurto / robo",
+   "kind": "word",
+   "emoji": "👜",
+   "say": "zeft"
+  },
+  {
+   "id": "u68.robbery",
+   "en": "robbery",
+   "es": "atraco / robo",
+   "kind": "word",
+   "emoji": "🔫",
+   "say": "ró-be-ri"
+  },
+  {
+   "id": "u68.burglary",
+   "en": "burglary",
+   "es": "robo en vivienda",
+   "kind": "word",
+   "emoji": "🏠",
+   "say": "bér-gla-ri"
+  },
+  {
+   "id": "u68.pickpocket",
+   "en": "pickpocket",
+   "es": "carterista",
+   "kind": "word",
+   "emoji": "👛",
+   "say": "pík-po-ket"
+  },
+  {
+   "id": "u68.shoplifting",
+   "en": "shoplifting",
+   "es": "robo en tiendas",
+   "kind": "word",
+   "emoji": "🛍️",
+   "say": "shóp-lif-ting"
+  },
+  {
+   "id": "u68.fraud",
+   "en": "fraud",
+   "es": "fraude",
+   "kind": "word",
+   "emoji": "💳",
+   "say": "frod"
+  },
+  {
+   "id": "u68.bribery",
+   "en": "bribery",
+   "es": "soborno",
+   "kind": "word",
+   "emoji": "💰",
+   "say": "brái-be-ri"
+  },
+  {
+   "id": "u68.smuggling",
+   "en": "smuggling",
+   "es": "contrabando",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "smá-gling"
+  },
+  {
+   "id": "u68.vandalism",
+   "en": "vandalism",
+   "es": "vandalismo",
+   "kind": "word",
+   "emoji": "🧯",
+   "say": "ván-da-lism"
+  },
+  {
+   "id": "u68.gang",
+   "en": "gang",
+   "es": "pandilla",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "gang"
+  },
+  {
+   "id": "u68.charge-with",
+   "en": "charge with",
+   "es": "acusar formalmente de",
+   "kind": "chunk",
+   "emoji": "📃"
+  },
+  {
+   "id": "u68.accuse-of",
+   "en": "accuse of",
+   "es": "acusar de",
+   "kind": "chunk",
+   "emoji": "👉"
+  },
+  {
+   "id": "u68.court",
+   "en": "court",
+   "es": "tribunal / juzgado",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "kort"
+  },
+  {
+   "id": "u68.trial",
+   "en": "trial",
+   "es": "juicio",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "trái-al"
+  },
+  {
+   "id": "u68.judge",
+   "en": "judge",
+   "es": "juez / juzgar",
+   "kind": "word",
+   "emoji": "👨‍⚖️",
+   "say": "yach"
+  },
+  {
+   "id": "u68.jury",
+   "en": "jury",
+   "es": "jurado",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "yú-ri"
+  },
+  {
+   "id": "u68.evidence-court",
+   "en": "evidence",
+   "es": "pruebas",
+   "kind": "word",
+   "emoji": "🧾",
+   "tip": "Aquí con el sentido de: court."
+  },
+  {
+   "id": "u68.testify",
+   "en": "testify",
+   "es": "testificar",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "tés-ti-fai"
+  },
+  {
+   "id": "u68.innocent",
+   "en": "innocent",
+   "es": "inocente",
+   "kind": "word",
+   "emoji": "😇",
+   "say": "í-no-sent"
+  },
+  {
+   "id": "u68.verdict",
+   "en": "verdict",
+   "es": "veredicto",
+   "kind": "word",
+   "emoji": "📜",
+   "say": "vér-dikt"
+  },
+  {
+   "id": "u68.sentence",
+   "en": "sentence",
+   "es": "condena / condenar",
+   "kind": "word",
+   "emoji": "⛓️",
+   "say": "sén-tens"
+  },
+  {
+   "id": "u68.prison",
+   "en": "prison",
+   "es": "cárcel",
+   "kind": "word",
+   "emoji": "🏢",
+   "say": "prí-son"
+  },
+  {
+   "id": "u68.community-service",
+   "en": "community service",
+   "es": "servicio comunitario",
+   "kind": "chunk",
+   "emoji": "🧹"
+  },
+  {
+   "id": "u68.release",
+   "en": "release",
+   "es": "liberar",
+   "kind": "word",
+   "emoji": "🕊️",
+   "say": "ri-líis"
+  },
+  {
+   "id": "u68.appeal",
+   "en": "appeal",
+   "es": "apelar",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "a-píil"
+  },
+  {
+   "id": "u68.justice",
+   "en": "justice",
+   "es": "justicia",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "yás-tis"
+  },
+  {
+   "id": "u68.fair-trial",
+   "en": "fair trial",
+   "es": "juicio justo",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u68.rehabilitation",
+   "en": "rehabilitation",
+   "es": "rehabilitación",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "ri-ja-bi-li-téi-shon"
+  },
+  {
+   "id": "u68.prevention",
+   "en": "prevention",
+   "es": "prevención",
+   "kind": "word",
+   "emoji": "🛑",
+   "say": "pri-vén-shon"
+  },
+  {
+   "id": "u68.security-camera",
+   "en": "security camera",
+   "es": "cámara de seguridad",
+   "kind": "chunk",
+   "emoji": "📹"
+  },
+  {
+   "id": "u68.crime-rate",
+   "en": "crime rate",
+   "es": "índice de criminalidad",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u68.report-a-crime",
+   "en": "report a crime",
+   "es": "denunciar un delito",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u68.criminals-should-be-punished",
+   "en": "Criminals should be punished",
+   "es": "Los delincuentes deberían ser castigados",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u68.he-was-sentenced-to-ten-years",
+   "en": "He was sentenced to ten years",
+   "es": "Fue condenado a diez años",
+   "kind": "chunk",
+   "emoji": "⛓️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u68-justicia-l1",
+   "title": "1. crime, criminal, commit a crime…",
+   "focus": "listening",
+   "newItems": [
+    "u68.crime",
+    "u68.criminal",
+    "u68.commit-a-crime",
+    "u68.illegal",
+    "u68.legal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.crime",
+      "u68.criminal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.commit-a-crime",
+      "u68.illegal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.legal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.crime",
+      "u68.criminal",
+      "u68.commit-a-crime",
+      "u68.illegal",
+      "u68.legal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.crime",
+      "u68.criminal",
+      "u68.commit-a-crime",
+      "u68.illegal",
+      "u68.legal"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.crime",
+      "u68.criminal",
+      "u68.commit-a-crime",
+      "u68.illegal",
+      "u68.legal"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-l2",
+   "title": "2. theft, robbery, burglary…",
+   "focus": "grammar",
+   "newItems": [
+    "u68.theft",
+    "u68.robbery",
+    "u68.burglary",
+    "u68.pickpocket",
+    "u68.shoplifting"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.theft",
+      "u68.robbery"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.burglary",
+      "u68.pickpocket"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.shoplifting"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.theft",
+      "u68.robbery",
+      "u68.burglary",
+      "u68.pickpocket",
+      "u68.shoplifting"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.theft",
+      "u68.robbery",
+      "u68.burglary",
+      "u68.pickpocket",
+      "u68.shoplifting"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.theft",
+      "u68.robbery",
+      "u68.burglary",
+      "u68.pickpocket",
+      "u68.shoplifting"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.crime",
+      "u68.criminal",
+      "u68.commit-a-crime",
+      "u68.illegal",
+      "u68.legal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Pasiva con modales y verbos con preposición",
+     "intro": "Las opiniones sobre justicia combinan modales y pasiva.",
+     "examples": [
+      {
+       "en": "Criminals should be punished.",
+       "es": "Los delincuentes deberían ser castigados.",
+       "mark": [
+        "should be punished"
+       ]
+      },
+      {
+       "en": "More cameras must be installed.",
+       "es": "Se deben instalar más cámaras.",
+       "mark": [
+        "must be installed"
+       ]
+      },
+      {
+       "en": "The suspect can't be released yet.",
+       "es": "El sospechoso no puede ser liberado todavía.",
+       "mark": [
+        "can't be released"
+       ]
+      },
+      {
+       "en": "She was accused of fraud.",
+       "es": "Fue acusada de fraude.",
+       "mark": [
+        "accused of"
+       ]
+      },
+      {
+       "en": "He was charged with robbery.",
+       "es": "Fue acusado formalmente de robo.",
+       "mark": [
+        "charged with"
+       ]
+      }
+     ],
+     "question": "¿Cómo se forma la pasiva con un modal (should, must, can)?",
+     "options": [
+      "modal + be + participio",
+      "modal + been + verbo",
+      "modal + is + participio"
+     ],
+     "answer": 0,
+     "rule": "PASIVA CON MODALES: modal + be + participio (should be punished, can be prevented). Útil para opinar. Ojo con las preposiciones fijas: accuse someone OF, charge someone WITH, sentence someone TO.",
+     "ruleExamples": [
+      {
+       "en": "In my opinion, crime can be prevented with education and better opportunities.",
+       "es": "En mi opinión, el delito se puede prevenir con educación y mejores oportunidades."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Vandalism should ___ punished with community service.",
+     "options": [
+      "be",
+      "been"
+     ],
+     "answer": 0,
+     "es": "El vandalismo debería castigarse con servicio comunitario."
+    },
+    {
+     "type": "fill",
+     "en": "The man was accused ___ stealing a car.",
+     "options": [
+      "of",
+      "for"
+     ],
+     "answer": 0,
+     "es": "El hombre fue acusado de robar un carro."
+    },
+    {
+     "type": "fill",
+     "en": "She was sentenced ___ five years in prison.",
+     "options": [
+      "to",
+      "for"
+     ],
+     "answer": 0,
+     "es": "Fue condenada a cinco años de cárcel."
+    },
+    {
+     "type": "fill",
+     "en": "Crime ___ be reduced with more education.",
+     "options": [
+      "can",
+      "is"
+     ],
+     "answer": 0,
+     "es": "El delito puede reducirse con más educación."
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-l3",
+   "title": "3. fraud, bribery, smuggling…",
+   "focus": "reading",
+   "newItems": [
+    "u68.fraud",
+    "u68.bribery",
+    "u68.smuggling",
+    "u68.vandalism",
+    "u68.gang"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.fraud",
+      "u68.bribery"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.smuggling",
+      "u68.vandalism"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.gang"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.fraud",
+      "u68.bribery",
+      "u68.smuggling",
+      "u68.vandalism",
+      "u68.gang"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.fraud",
+      "u68.bribery",
+      "u68.smuggling",
+      "u68.vandalism",
+      "u68.gang"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.fraud",
+      "u68.bribery",
+      "u68.smuggling",
+      "u68.vandalism",
+      "u68.gang"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.legal",
+      "u68.theft",
+      "u68.robbery",
+      "u68.burglary",
+      "u68.pickpocket",
+      "u68.shoplifting"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-l4",
+   "title": "4. charge with, accuse of, court…",
+   "focus": "listening",
+   "newItems": [
+    "u68.charge-with",
+    "u68.accuse-of",
+    "u68.court",
+    "u68.trial",
+    "u68.judge"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.charge-with",
+      "u68.accuse-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.court",
+      "u68.trial"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.judge"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.charge-with",
+      "u68.accuse-of",
+      "u68.court",
+      "u68.trial",
+      "u68.judge"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.charge-with",
+      "u68.accuse-of",
+      "u68.court",
+      "u68.trial",
+      "u68.judge"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.charge-with",
+      "u68.accuse-of",
+      "u68.court",
+      "u68.trial",
+      "u68.judge"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.shoplifting",
+      "u68.fraud",
+      "u68.bribery",
+      "u68.smuggling",
+      "u68.vandalism",
+      "u68.gang"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-l5",
+   "title": "5. jury, evidence, testify…",
+   "focus": "listening",
+   "newItems": [
+    "u68.jury",
+    "u68.evidence-court",
+    "u68.testify",
+    "u68.innocent",
+    "u68.verdict"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.jury",
+      "u68.evidence-court"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.testify",
+      "u68.innocent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.verdict"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.jury",
+      "u68.evidence-court",
+      "u68.testify",
+      "u68.innocent",
+      "u68.verdict"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.jury",
+      "u68.evidence-court",
+      "u68.testify",
+      "u68.innocent",
+      "u68.verdict"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.jury",
+      "u68.evidence-court",
+      "u68.testify",
+      "u68.innocent",
+      "u68.verdict"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.gang",
+      "u68.charge-with",
+      "u68.accuse-of",
+      "u68.court",
+      "u68.trial",
+      "u68.judge"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-l6",
+   "title": "6. sentence, prison, community service…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u68.sentence",
+    "u68.prison",
+    "u68.community-service",
+    "u68.release",
+    "u68.appeal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.sentence",
+      "u68.prison"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.community-service",
+      "u68.release"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.appeal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.sentence",
+      "u68.prison",
+      "u68.community-service",
+      "u68.release",
+      "u68.appeal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.sentence",
+      "u68.prison",
+      "u68.community-service",
+      "u68.release",
+      "u68.appeal"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.sentence",
+      "u68.prison",
+      "u68.community-service",
+      "u68.release",
+      "u68.appeal"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.judge",
+      "u68.jury",
+      "u68.evidence-court",
+      "u68.testify",
+      "u68.innocent",
+      "u68.verdict"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Cárcel o rehabilitación?",
+     "scene": "📻 Debate en un programa de radio.",
+     "lines": [
+      {
+       "who": "Host",
+       "en": "Should young offenders be sent to prison?",
+       "es": "¿Los jóvenes infractores deberían ir a la cárcel?"
+      },
+      {
+       "who": "Guest 1",
+       "en": "I believe serious crimes must be punished. Otherwise, there's no justice for the victims.",
+       "es": "Creo que los delitos graves deben castigarse. Si no, no hay justicia para las víctimas."
+      },
+      {
+       "who": "Guest 2",
+       "en": "I see your point, but prison often turns young people into worse offenders.",
+       "es": "Entiendo su punto, pero la cárcel muchas veces convierte a los jóvenes en peores infractores."
+      },
+      {
+       "who": "Host",
+       "en": "So what's the alternative?",
+       "es": "¿Entonces cuál es la alternativa?"
+      },
+      {
+       "who": "Guest 2",
+       "en": "Rehabilitation and community service. Crime rates can be reduced that way.",
+       "es": "Rehabilitación y servicio comunitario. Los índices de criminalidad pueden reducirse así."
+      },
+      {
+       "who": "Guest 1",
+       "en": "That may work for minor crimes, but not for serious ones.",
+       "es": "Eso puede servir para delitos menores, pero no para los graves."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-l7",
+   "title": "7. justice, fair trial, rehabilitation…",
+   "focus": "reading",
+   "newItems": [
+    "u68.justice",
+    "u68.fair-trial",
+    "u68.rehabilitation",
+    "u68.prevention",
+    "u68.security-camera"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.justice",
+      "u68.fair-trial"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.rehabilitation",
+      "u68.prevention"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.security-camera"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.justice",
+      "u68.fair-trial",
+      "u68.rehabilitation",
+      "u68.prevention",
+      "u68.security-camera"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.justice",
+      "u68.fair-trial",
+      "u68.rehabilitation",
+      "u68.prevention",
+      "u68.security-camera"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.justice",
+      "u68.fair-trial",
+      "u68.rehabilitation",
+      "u68.prevention",
+      "u68.security-camera"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.verdict",
+      "u68.sentence",
+      "u68.prison",
+      "u68.community-service",
+      "u68.release",
+      "u68.appeal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-l8",
+   "title": "8. crime rate, report a crime, Criminals should be punished…",
+   "focus": "listening",
+   "newItems": [
+    "u68.crime-rate",
+    "u68.report-a-crime",
+    "u68.criminals-should-be-punished",
+    "u68.he-was-sentenced-to-ten-years"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u68.crime-rate",
+      "u68.report-a-crime"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u68.criminals-should-be-punished",
+      "u68.he-was-sentenced-to-ten-years"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.crime-rate",
+      "u68.report-a-crime",
+      "u68.criminals-should-be-punished",
+      "u68.he-was-sentenced-to-ten-years"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.crime-rate",
+      "u68.report-a-crime",
+      "u68.criminals-should-be-punished",
+      "u68.he-was-sentenced-to-ten-years"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.crime-rate",
+      "u68.report-a-crime",
+      "u68.criminals-should-be-punished",
+      "u68.he-was-sentenced-to-ten-years"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.appeal",
+      "u68.justice",
+      "u68.fair-trial",
+      "u68.rehabilitation",
+      "u68.prevention",
+      "u68.security-camera"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u68-justicia-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El testigo inesperado",
+     "emoji": "⚖️",
+     "paragraphs": [
+      {
+       "en": "Last year a jewelry store in the city center was robbed in the middle of the night.",
+       "es": "El año pasado una joyería del centro fue robada en plena noche."
+      },
+      {
+       "en": "The police arrested a young man who lived nearby. He was charged with burglary.",
+       "es": "La policía arrestó a un joven que vivía cerca. Fue acusado de robo."
+      },
+      {
+       "en": "During the trial, the lawyer for the defense noticed something in the security video.",
+       "es": "Durante el juicio, el abogado de la defensa notó algo en el video de seguridad."
+      },
+      {
+       "en": "The man in the video was much taller than the suspect. He couldn't have been the same person.",
+       "es": "El hombre del video era mucho más alto que el sospechoso. No podía ser la misma persona."
+      },
+      {
+       "en": "Then an unexpected witness testified: a taxi driver who had seen the real thief escape.",
+       "es": "Luego un testigo inesperado testificó: un taxista que había visto escapar al verdadero ladrón."
+      },
+      {
+       "en": "The jury found the young man innocent and he was released. The real thief was caught a month later.",
+       "es": "El jurado declaró inocente al joven y fue liberado. El verdadero ladrón fue capturado un mes después."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué notó el abogado defensor?",
+       "options": [
+        "Que el hombre del video era más alto que el sospechoso",
+        "Que no había video",
+        "Que el sospechoso confesó"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Quién fue el testigo inesperado?",
+       "options": [
+        "Un policía",
+        "Un taxista",
+        "El dueño de la joyería"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cuál fue el veredicto?",
+       "options": [
+        "Culpable",
+        "Inocente"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Denunciar un robo",
+     "scene": "🚓 Te robaron la billetera en el bus y vas a la estación de policía.",
+     "turns": [
+      {
+       "who": "Officer",
+       "en": "Good afternoon. How can I help you?",
+       "es": "Buenas tardes. ¿En qué le puedo ayudar?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'd like to report a theft. My wallet was stolen on the bus.",
+         "es": "Quisiera denunciar un hurto. Me robaron la billetera en el bus.",
+         "ok": true
+        },
+        {
+         "en": "I'd like to commit a crime.",
+         "es": "Quisiera cometer un delito.",
+         "ok": false,
+         "why": "¡Quieres denunciarlo, no cometerlo!"
+        }
+       ]
+      },
+      {
+       "who": "Officer",
+       "en": "Did you see the thief?",
+       "es": "¿Vio al ladrón?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Not really. It must have been a pickpocket. It was very crowded.",
+         "es": "No mucho. Debió de ser un carterista. Estaba muy lleno.",
+         "ok": true
+        },
+        {
+         "en": "Yes, he was the judge.",
+         "es": "Sí, era el juez.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      },
+      {
+       "who": "Officer",
+       "en": "What was in the wallet?",
+       "es": "¿Qué había en la billetera?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "My ID and two cards. The cards should be blocked right away.",
+         "es": "Mi cédula y dos tarjetas. Las tarjetas deben bloquearse de inmediato.",
+         "ok": true
+        },
+        {
+         "en": "My ID should blocked.",
+         "es": "Mi cédula debería bloqueada.",
+         "ok": false,
+         "why": "Falta \"be\": should be blocked."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Los delincuentes deberían ser castigados.",
+     "en": "Criminals should be punished."
+    },
+    {
+     "type": "write",
+     "es": "Fue acusado de fraude.",
+     "en": "He was accused of fraud.",
+     "accept": [
+      "She was accused of fraud."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Quisiera denunciar un robo.",
+     "en": "I'd like to report a theft.",
+     "accept": [
+      "I would like to report a theft.",
+      "I'd like to report a robbery."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "The suspect was charged with burglary.",
+     "es": "El sospechoso fue acusado formalmente de robo en vivienda."
+    },
+    {
+     "type": "dictation",
+     "en": "Crime can be prevented with education.",
+     "es": "El delito se puede prevenir con educación."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u68.fair-trial",
+      "u68.rehabilitation",
+      "u68.prevention",
+      "u68.security-camera",
+      "u68.crime-rate",
+      "u68.report-a-crime",
+      "u68.criminals-should-be-punished",
+      "u68.he-was-sentenced-to-ten-years"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

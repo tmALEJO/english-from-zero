@@ -1,0 +1,1564 @@
+{
+ "_generated": true,
+ "id": "u44-condicionales",
+ "level": "B1",
+ "title": "Si pasa esto…",
+ "emoji": "🔀",
+ "canDo": "Ya puedo hablar de condiciones reales y sus consecuencias",
+ "summary": "Condicional cero y primero: If you heat water, it boils / If it rains, I'll stay home.",
+ "grammar": [
+  "Condicional cero",
+  "Primer condicional",
+  "unless / as soon as / when"
+ ],
+ "items": [
+  {
+   "id": "u44.if",
+   "en": "if",
+   "es": "si (condición)",
+   "kind": "word",
+   "emoji": "🔀",
+   "say": "if"
+  },
+  {
+   "id": "u44.unless",
+   "en": "unless",
+   "es": "a menos que",
+   "kind": "word",
+   "emoji": "⛔",
+   "say": "an-lés"
+  },
+  {
+   "id": "u44.as-soon-as",
+   "en": "as soon as",
+   "es": "tan pronto como",
+   "kind": "chunk",
+   "emoji": "⏩"
+  },
+  {
+   "id": "u44.in-case",
+   "en": "in case",
+   "es": "por si acaso",
+   "kind": "chunk",
+   "emoji": "🧯"
+  },
+  {
+   "id": "u44.otherwise",
+   "en": "otherwise",
+   "es": "de lo contrario",
+   "kind": "word",
+   "emoji": "↩️",
+   "say": "á-der-uais"
+  },
+  {
+   "id": "u44.condition",
+   "en": "condition",
+   "es": "condición",
+   "kind": "word",
+   "emoji": "📋",
+   "say": "kon-dí-shon"
+  },
+  {
+   "id": "u44.result",
+   "en": "result",
+   "es": "resultado",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "ri-sált"
+  },
+  {
+   "id": "u44.consequence",
+   "en": "consequence",
+   "es": "consecuencia",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "kón-se-kuens"
+  },
+  {
+   "id": "u44.if-it-rains-i-ll-stay-home",
+   "en": "If it rains, I'll stay home",
+   "es": "Si llueve, me quedo en casa",
+   "kind": "chunk",
+   "emoji": "🌧️"
+  },
+  {
+   "id": "u44.if-you-heat-ice-it-melts",
+   "en": "If you heat ice, it melts",
+   "es": "Si calientas el hielo, se derrite",
+   "kind": "chunk",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u44.if-i-have-time-i-ll-call-you",
+   "en": "If I have time, I'll call you",
+   "es": "Si tengo tiempo, te llamo",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u44.what-will-you-do-if",
+   "en": "What will you do if…?",
+   "es": "¿Qué harás si…?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u44.pass",
+   "en": "pass",
+   "es": "pasar / aprobar",
+   "kind": "word",
+   "emoji": "✅"
+  },
+  {
+   "id": "u44.fail",
+   "en": "fail",
+   "es": "fallar / perder (examen)",
+   "kind": "word",
+   "emoji": "❌"
+  },
+  {
+   "id": "u44.hurry-up",
+   "en": "hurry up",
+   "es": "apurarse",
+   "kind": "chunk",
+   "emoji": "🏃"
+  },
+  {
+   "id": "u44.miss-the-bus",
+   "en": "miss the bus",
+   "es": "perder el bus",
+   "kind": "chunk",
+   "emoji": "🚌"
+  },
+  {
+   "id": "u44.catch-the-bus",
+   "en": "catch the bus",
+   "es": "alcanzar el bus",
+   "kind": "chunk",
+   "emoji": "🚏"
+  },
+  {
+   "id": "u44.be-late",
+   "en": "be late",
+   "es": "llegar tarde",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u44.get-angry",
+   "en": "get angry",
+   "es": "ponerse bravo",
+   "kind": "chunk",
+   "emoji": "😠"
+  },
+  {
+   "id": "u44.get-wet",
+   "en": "get wet",
+   "es": "mojarse",
+   "kind": "chunk",
+   "emoji": "💦"
+  },
+  {
+   "id": "u44.get-sick",
+   "en": "get sick",
+   "es": "enfermarse",
+   "kind": "chunk",
+   "emoji": "🤒"
+  },
+  {
+   "id": "u44.freeze",
+   "en": "freeze",
+   "es": "congelarse",
+   "kind": "word",
+   "emoji": "🥶",
+   "say": "fríis"
+  },
+  {
+   "id": "u44.burn",
+   "en": "burn",
+   "es": "quemar(se)",
+   "kind": "word",
+   "emoji": "🔥",
+   "say": "bern"
+  },
+  {
+   "id": "u44.float",
+   "en": "float",
+   "es": "flotar",
+   "kind": "word",
+   "emoji": "🛟",
+   "say": "flóut"
+  },
+  {
+   "id": "u44.sink",
+   "en": "sink",
+   "es": "hundirse",
+   "kind": "word",
+   "emoji": "⚓",
+   "say": "sink"
+  },
+  {
+   "id": "u44.plant",
+   "en": "plant",
+   "es": "planta / sembrar",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "plant"
+  },
+  {
+   "id": "u44.die",
+   "en": "die",
+   "es": "morir",
+   "kind": "word",
+   "emoji": "🥀",
+   "say": "dái"
+  },
+  {
+   "id": "u44.water-verb",
+   "en": "water",
+   "es": "regar",
+   "kind": "word",
+   "emoji": "🚿",
+   "tip": "Aquí con el sentido de: verb."
+  },
+  {
+   "id": "u44.switch-off",
+   "en": "switch off",
+   "es": "apagar",
+   "kind": "chunk",
+   "emoji": "📴"
+  },
+  {
+   "id": "u44.charge",
+   "en": "charge",
+   "es": "cargar (batería)",
+   "kind": "word",
+   "emoji": "🔋"
+  },
+  {
+   "id": "u44.press-the-button",
+   "en": "press the button",
+   "es": "presionar el botón",
+   "kind": "chunk",
+   "emoji": "🔘"
+  },
+  {
+   "id": "u44.alarm",
+   "en": "alarm",
+   "es": "alarma",
+   "kind": "word",
+   "emoji": "⏰",
+   "say": "a-lárm"
+  },
+  {
+   "id": "u44.warning",
+   "en": "warning",
+   "es": "advertencia",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "uór-ning"
+  },
+  {
+   "id": "u44.rule",
+   "en": "rule",
+   "es": "regla",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "ruul"
+  },
+  {
+   "id": "u44.risk",
+   "en": "risk",
+   "es": "riesgo",
+   "kind": "word",
+   "emoji": "🎲",
+   "say": "risk"
+  },
+  {
+   "id": "u44.chance",
+   "en": "chance",
+   "es": "oportunidad / probabilidad",
+   "kind": "word",
+   "emoji": "🎰",
+   "say": "chans"
+  },
+  {
+   "id": "u44.opportunity",
+   "en": "opportunity",
+   "es": "oportunidad",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "o-por-tiú-ni-ti"
+  },
+  {
+   "id": "u44.choose",
+   "en": "choose",
+   "es": "escoger",
+   "kind": "word",
+   "emoji": "☑️",
+   "say": "chuus"
+  },
+  {
+   "id": "u44.depend-on",
+   "en": "depend on",
+   "es": "depender de",
+   "kind": "chunk",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u44.it-depends",
+   "en": "It depends",
+   "es": "Depende",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u44.take-an-umbrella-just-in-case",
+   "en": "take an umbrella just in case",
+   "es": "lleva sombrilla por si acaso",
+   "kind": "chunk",
+   "emoji": "☂️"
+  },
+  {
+   "id": "u44.if-i-were-you",
+   "en": "If I were you…",
+   "es": "Yo que tú…",
+   "kind": "chunk",
+   "emoji": "🫵"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u44-condicionales-l1",
+   "title": "1. if, unless, as soon as…",
+   "focus": "listening",
+   "newItems": [
+    "u44.if",
+    "u44.unless",
+    "u44.as-soon-as",
+    "u44.in-case"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.if",
+      "u44.unless"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.as-soon-as",
+      "u44.in-case"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if",
+      "u44.unless",
+      "u44.as-soon-as",
+      "u44.in-case"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if",
+      "u44.unless",
+      "u44.as-soon-as",
+      "u44.in-case"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if",
+      "u44.unless",
+      "u44.as-soon-as",
+      "u44.in-case"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l2",
+   "title": "2. otherwise, condition, result…",
+   "focus": "grammar",
+   "newItems": [
+    "u44.otherwise",
+    "u44.condition",
+    "u44.result",
+    "u44.consequence"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.otherwise",
+      "u44.condition"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.result",
+      "u44.consequence"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.otherwise",
+      "u44.condition",
+      "u44.result",
+      "u44.consequence"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.otherwise",
+      "u44.condition",
+      "u44.result",
+      "u44.consequence"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.otherwise",
+      "u44.condition",
+      "u44.result",
+      "u44.consequence"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if",
+      "u44.unless",
+      "u44.as-soon-as",
+      "u44.in-case"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Condicional cero y primero",
+     "intro": "Algunas cosas siempre pasan; otras pasarán si se cumple algo.",
+     "examples": [
+      {
+       "en": "If you heat ice, it melts.",
+       "es": "Si calientas hielo, se derrite.",
+       "mark": [
+        "If",
+        "melts"
+       ]
+      },
+      {
+       "en": "If plants don't get water, they die.",
+       "es": "Si las plantas no reciben agua, se mueren.",
+       "mark": [
+        "If",
+        "die"
+       ]
+      },
+      {
+       "en": "If it rains tomorrow, I'll stay home.",
+       "es": "Si llueve mañana, me quedaré en casa.",
+       "mark": [
+        "If",
+        "'ll stay"
+       ]
+      },
+      {
+       "en": "If you study, you'll pass the exam.",
+       "es": "Si estudias, pasarás el examen.",
+       "mark": [
+        "If",
+        "'ll pass"
+       ]
+      },
+      {
+       "en": "We'll be late unless we hurry up.",
+       "es": "Llegaremos tarde a menos que nos apuremos.",
+       "mark": [
+        "unless"
+       ]
+      }
+     ],
+     "question": "En el primer condicional (if + futuro posible), ¿qué tiempo va después de if?",
+     "options": [
+      "Presente (if it rains)",
+      "Futuro con will (if it will rain)"
+     ],
+     "answer": 0,
+     "rule": "CONDICIONAL CERO: if + presente, presente → cosas que siempre pasan (leyes, hechos). PRIMER CONDICIONAL: if + presente, will + verbo → algo posible en el futuro. ¡Ojo! Después de if NO va will: If it rains (no 'if it will rain'). unless = if not.",
+     "ruleExamples": [
+      {
+       "en": "If I have time, I'll call you. If not, I'll send you a message.",
+       "es": "Si tengo tiempo, te llamo. Si no, te mando un mensaje."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "If it ___ tomorrow, we'll cancel the trip.",
+     "options": [
+      "rains",
+      "will rain"
+     ],
+     "answer": 0,
+     "es": "Si llueve mañana, cancelamos el viaje."
+    },
+    {
+     "type": "fill",
+     "en": "If you heat water to 100 degrees, it ___.",
+     "options": [
+      "boils",
+      "will boils"
+     ],
+     "answer": 0,
+     "es": "Si calientas agua a 100 grados, hierve."
+    },
+    {
+     "type": "fill",
+     "en": "I'll call you as soon as I ___.",
+     "options": [
+      "arrive",
+      "will arrive"
+     ],
+     "answer": 0,
+     "es": "Te llamo tan pronto llegue."
+    },
+    {
+     "type": "fill",
+     "en": "You'll miss the bus ___ you hurry up.",
+     "options": [
+      "unless",
+      "if"
+     ],
+     "answer": 0,
+     "es": "Vas a perder el bus a menos que te apures."
+    },
+    {
+     "type": "fill",
+     "en": "If she doesn't study, she ___ the exam.",
+     "options": [
+      "'ll fail",
+      "fails will"
+     ],
+     "answer": 0,
+     "es": "Si no estudia, perderá el examen."
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l3",
+   "title": "3. If it rains, I'll stay home, If you heat ice, it melts, If I have time, I'll call you…",
+   "focus": "reading",
+   "newItems": [
+    "u44.if-it-rains-i-ll-stay-home",
+    "u44.if-you-heat-ice-it-melts",
+    "u44.if-i-have-time-i-ll-call-you",
+    "u44.what-will-you-do-if"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.if-it-rains-i-ll-stay-home",
+      "u44.if-you-heat-ice-it-melts"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.if-i-have-time-i-ll-call-you",
+      "u44.what-will-you-do-if"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if-it-rains-i-ll-stay-home",
+      "u44.if-you-heat-ice-it-melts",
+      "u44.if-i-have-time-i-ll-call-you",
+      "u44.what-will-you-do-if"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if-it-rains-i-ll-stay-home",
+      "u44.if-you-heat-ice-it-melts",
+      "u44.if-i-have-time-i-ll-call-you",
+      "u44.what-will-you-do-if"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if-it-rains-i-ll-stay-home",
+      "u44.if-you-heat-ice-it-melts",
+      "u44.if-i-have-time-i-ll-call-you",
+      "u44.what-will-you-do-if"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.as-soon-as",
+      "u44.in-case",
+      "u44.otherwise",
+      "u44.condition",
+      "u44.result",
+      "u44.consequence"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l4",
+   "title": "4. pass, fail, hurry up…",
+   "focus": "listening",
+   "newItems": [
+    "u44.pass",
+    "u44.fail",
+    "u44.hurry-up",
+    "u44.miss-the-bus"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.pass",
+      "u44.fail"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.hurry-up",
+      "u44.miss-the-bus"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.pass",
+      "u44.fail",
+      "u44.hurry-up",
+      "u44.miss-the-bus"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.pass",
+      "u44.fail",
+      "u44.hurry-up",
+      "u44.miss-the-bus"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.pass",
+      "u44.fail",
+      "u44.hurry-up",
+      "u44.miss-the-bus"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.result",
+      "u44.consequence",
+      "u44.if-it-rains-i-ll-stay-home",
+      "u44.if-you-heat-ice-it-melts",
+      "u44.if-i-have-time-i-ll-call-you",
+      "u44.what-will-you-do-if"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l5",
+   "title": "5. catch the bus, be late, get angry…",
+   "focus": "listening",
+   "newItems": [
+    "u44.catch-the-bus",
+    "u44.be-late",
+    "u44.get-angry",
+    "u44.get-wet"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.catch-the-bus",
+      "u44.be-late"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.get-angry",
+      "u44.get-wet"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.catch-the-bus",
+      "u44.be-late",
+      "u44.get-angry",
+      "u44.get-wet"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.catch-the-bus",
+      "u44.be-late",
+      "u44.get-angry",
+      "u44.get-wet"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.catch-the-bus",
+      "u44.be-late",
+      "u44.get-angry",
+      "u44.get-wet"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.if-i-have-time-i-ll-call-you",
+      "u44.what-will-you-do-if",
+      "u44.pass",
+      "u44.fail",
+      "u44.hurry-up",
+      "u44.miss-the-bus"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l6",
+   "title": "6. get sick, freeze, burn…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u44.get-sick",
+    "u44.freeze",
+    "u44.burn",
+    "u44.float"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.get-sick",
+      "u44.freeze"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.burn",
+      "u44.float"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.get-sick",
+      "u44.freeze",
+      "u44.burn",
+      "u44.float"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.get-sick",
+      "u44.freeze",
+      "u44.burn",
+      "u44.float"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.get-sick",
+      "u44.freeze",
+      "u44.burn",
+      "u44.float"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.hurry-up",
+      "u44.miss-the-bus",
+      "u44.catch-the-bus",
+      "u44.be-late",
+      "u44.get-angry",
+      "u44.get-wet"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l7",
+   "title": "7. sink, plant, die…",
+   "focus": "reading",
+   "newItems": [
+    "u44.sink",
+    "u44.plant",
+    "u44.die",
+    "u44.water-verb"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.sink",
+      "u44.plant"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.die",
+      "u44.water-verb"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.sink",
+      "u44.plant",
+      "u44.die",
+      "u44.water-verb"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.sink",
+      "u44.plant",
+      "u44.die",
+      "u44.water-verb"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.sink",
+      "u44.plant",
+      "u44.die",
+      "u44.water-verb"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.get-angry",
+      "u44.get-wet",
+      "u44.get-sick",
+      "u44.freeze",
+      "u44.burn",
+      "u44.float"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l8",
+   "title": "8. switch off, charge, press the button…",
+   "focus": "listening",
+   "newItems": [
+    "u44.switch-off",
+    "u44.charge",
+    "u44.press-the-button",
+    "u44.alarm"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.switch-off",
+      "u44.charge"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.press-the-button",
+      "u44.alarm"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.switch-off",
+      "u44.charge",
+      "u44.press-the-button",
+      "u44.alarm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.switch-off",
+      "u44.charge",
+      "u44.press-the-button",
+      "u44.alarm"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.switch-off",
+      "u44.charge",
+      "u44.press-the-button",
+      "u44.alarm"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.burn",
+      "u44.float",
+      "u44.sink",
+      "u44.plant",
+      "u44.die",
+      "u44.water-verb"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Planes con clima incierto",
+     "scene": "⛰️ Planean una caminata al volcán.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "Are we going to the volcano on Saturday?",
+       "es": "¿Vamos al volcán el sábado?"
+      },
+      {
+       "who": "Leo",
+       "en": "It depends on the weather. If it rains, the path will be dangerous.",
+       "es": "Depende del clima. Si llueve, el camino será peligroso."
+      },
+      {
+       "who": "Ana",
+       "en": "OK. If it's sunny, we'll leave at six.",
+       "es": "Bueno. Si hace sol, salimos a las seis."
+      },
+      {
+       "who": "Leo",
+       "en": "Bring a jacket. If we get to the top, it'll be very cold.",
+       "es": "Trae chaqueta. Si llegamos a la cima, va a hacer mucho frío."
+      },
+      {
+       "who": "Ana",
+       "en": "And I'll take an umbrella just in case.",
+       "es": "Y llevaré sombrilla por si acaso."
+      },
+      {
+       "who": "Leo",
+       "en": "Good idea. I'll text you as soon as I check the forecast.",
+       "es": "Buena idea. Te escribo tan pronto revise el pronóstico."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l9",
+   "title": "9. warning, rule, risk…",
+   "focus": "listening",
+   "newItems": [
+    "u44.warning",
+    "u44.rule",
+    "u44.risk",
+    "u44.chance"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.warning",
+      "u44.rule"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.risk",
+      "u44.chance"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.warning",
+      "u44.rule",
+      "u44.risk",
+      "u44.chance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.warning",
+      "u44.rule",
+      "u44.risk",
+      "u44.chance"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.warning",
+      "u44.rule",
+      "u44.risk",
+      "u44.chance"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.die",
+      "u44.water-verb",
+      "u44.switch-off",
+      "u44.charge",
+      "u44.press-the-button",
+      "u44.alarm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l10",
+   "title": "10. opportunity, choose, depend on…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u44.opportunity",
+    "u44.choose",
+    "u44.depend-on",
+    "u44.it-depends"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.opportunity",
+      "u44.choose"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u44.depend-on",
+      "u44.it-depends"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.opportunity",
+      "u44.choose",
+      "u44.depend-on",
+      "u44.it-depends"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.opportunity",
+      "u44.choose",
+      "u44.depend-on",
+      "u44.it-depends"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.opportunity",
+      "u44.choose",
+      "u44.depend-on",
+      "u44.it-depends"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.press-the-button",
+      "u44.alarm",
+      "u44.warning",
+      "u44.rule",
+      "u44.risk",
+      "u44.chance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-l11",
+   "title": "11. take an umbrella just in case, If I were you…",
+   "focus": "reading",
+   "newItems": [
+    "u44.take-an-umbrella-just-in-case",
+    "u44.if-i-were-you"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u44.take-an-umbrella-just-in-case",
+      "u44.if-i-were-you"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.take-an-umbrella-just-in-case",
+      "u44.if-i-were-you"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.take-an-umbrella-just-in-case",
+      "u44.if-i-were-you"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.take-an-umbrella-just-in-case",
+      "u44.if-i-were-you"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.risk",
+      "u44.chance",
+      "u44.opportunity",
+      "u44.choose",
+      "u44.depend-on",
+      "u44.it-depends"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u44-condicionales-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Las reglas del abuelo",
+     "emoji": "👴",
+     "paragraphs": [
+      {
+       "en": "My grandfather has simple rules for life, and he repeats them all the time.",
+       "es": "Mi abuelo tiene reglas sencillas para la vida y las repite todo el tiempo."
+      },
+      {
+       "en": "\"If you plant a seed and water it, it grows. Life is the same.\"",
+       "es": "\"Si siembras una semilla y la riegas, crece. La vida es igual.\""
+      },
+      {
+       "en": "\"If you work hard, you'll get what you want.\"",
+       "es": "\"Si trabajas duro, conseguirás lo que quieres.\""
+      },
+      {
+       "en": "\"If you lie once, people won't believe you again.\"",
+       "es": "\"Si mientes una vez, la gente no te volverá a creer.\""
+      },
+      {
+       "en": "\"And unless you take risks, you won't find new opportunities.\"",
+       "es": "\"Y a menos que tomes riesgos, no encontrarás nuevas oportunidades.\""
+      },
+      {
+       "en": "I used to think his rules were old-fashioned. Now I think he's right.",
+       "es": "Antes pensaba que sus reglas eran anticuadas. Ahora creo que tiene razón."
+      }
+     ],
+     "questions": [
+      {
+       "q": "Según el abuelo, ¿qué pasa si mientes una vez?",
+       "options": [
+        "Nada",
+        "La gente no te vuelve a creer",
+        "Te vuelves rico"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué pasa si no tomas riesgos?",
+       "options": [
+        "No encontrarás nuevas oportunidades",
+        "Serás feliz",
+        "Ganarás dinero"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué piensa ahora el narrador?",
+       "options": [
+        "Que el abuelo tiene razón",
+        "Que las reglas son anticuadas"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Negociar con tu jefe",
+     "scene": "💼 Quieres salir temprano el viernes.",
+     "turns": [
+      {
+       "who": "You",
+       "en": "Could I leave early on Friday?",
+       "es": "¿Podría salir temprano el viernes?"
+      },
+      {
+       "who": "Boss",
+       "en": "It depends. What about the report?",
+       "es": "Depende. ¿Y el informe?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "If I finish the report on Thursday, can I leave at three?",
+         "es": "Si termino el informe el jueves, ¿puedo salir a las tres?",
+         "ok": true
+        },
+        {
+         "en": "If I will finish the report, I leave.",
+         "es": "Si terminaré el informe, salgo.",
+         "ok": false,
+         "why": "Después de \"if\" va presente: If I finish."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "OK, but if there's a problem, I'll call you.",
+       "es": "Bueno, pero si hay algún problema, te llamo."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No problem. I'll answer as soon as I see your call.",
+         "es": "No hay problema. Contesto tan pronto vea su llamada.",
+         "ok": true
+        },
+        {
+         "en": "No problem. I won't answer.",
+         "es": "No hay problema. No contestaré.",
+         "ok": false,
+         "why": "No es buena idea con tu jefe."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Deal. Unless something urgent happens, you can go.",
+       "es": "Trato hecho. A menos que pase algo urgente, puedes irte."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you! I'll send you the report on Thursday.",
+         "es": "¡Gracias! Le mando el informe el jueves.",
+         "ok": true
+        },
+        {
+         "en": "Thank you! Unless I finish it.",
+         "es": "¡Gracias! A menos que lo termine.",
+         "ok": false,
+         "why": "Contradice lo que prometiste."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Si llueve, me quedo en casa.",
+     "en": "If it rains, I'll stay home.",
+     "accept": [
+      "If it rains, I'll stay at home.",
+      "If it rains I will stay at home.",
+      "If it rains, I will stay home."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Te llamo tan pronto llegue.",
+     "en": "I'll call you as soon as I arrive.",
+     "accept": [
+      "I will call you as soon as I arrive.",
+      "I'll call you as soon as I get there."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Si calientas el hielo, se derrite.",
+     "en": "If you heat ice, it melts."
+    },
+    {
+     "type": "dictation",
+     "en": "If you don't hurry up, you'll miss the bus.",
+     "es": "Si no te apuras, vas a perder el bus."
+    },
+    {
+     "type": "dictation",
+     "en": "Take an umbrella just in case.",
+     "es": "Lleva sombrilla por si acaso."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u44.risk",
+      "u44.chance",
+      "u44.opportunity",
+      "u44.choose",
+      "u44.depend-on",
+      "u44.it-depends",
+      "u44.take-an-umbrella-just-in-case",
+      "u44.if-i-were-you"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

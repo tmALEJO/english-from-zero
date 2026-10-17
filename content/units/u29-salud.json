@@ -1,0 +1,1308 @@
+{
+ "_generated": true,
+ "id": "u29-salud",
+ "level": "A2",
+ "title": "En el médico",
+ "emoji": "🩺",
+ "canDo": "Ya puedo explicar qué me pasa y entender consejos del médico",
+ "summary": "Síntomas, el médico y la farmacia, y should para dar y recibir consejos.",
+ "grammar": [
+  "Should / shouldn't para consejos"
+ ],
+ "items": [
+  {
+   "id": "u29.symptom",
+   "en": "symptom",
+   "es": "síntoma",
+   "kind": "word",
+   "emoji": "📋",
+   "say": "símp-tom"
+  },
+  {
+   "id": "u29.cough",
+   "en": "cough",
+   "es": "tos / toser",
+   "kind": "word",
+   "emoji": "😷",
+   "say": "kof"
+  },
+  {
+   "id": "u29.sore-throat",
+   "en": "sore throat",
+   "es": "dolor de garganta",
+   "kind": "chunk",
+   "emoji": "🗣️",
+   "say": "sor zróut"
+  },
+  {
+   "id": "u29.runny-nose",
+   "en": "runny nose",
+   "es": "nariz que gotea",
+   "kind": "chunk",
+   "emoji": "🤧"
+  },
+  {
+   "id": "u29.toothache",
+   "en": "toothache",
+   "es": "dolor de muela",
+   "kind": "word",
+   "emoji": "🦷",
+   "say": "túuz-eik"
+  },
+  {
+   "id": "u29.earache",
+   "en": "earache",
+   "es": "dolor de oído",
+   "kind": "word",
+   "emoji": "👂",
+   "say": "íer-eik"
+  },
+  {
+   "id": "u29.backache",
+   "en": "backache",
+   "es": "dolor de espalda",
+   "kind": "word",
+   "emoji": "😣"
+  },
+  {
+   "id": "u29.dizzy",
+   "en": "dizzy",
+   "es": "mareado",
+   "kind": "word",
+   "emoji": "😵",
+   "say": "dí-si"
+  },
+  {
+   "id": "u29.allergy",
+   "en": "allergy",
+   "es": "alergia",
+   "kind": "word",
+   "emoji": "🌼",
+   "say": "á-ler-yi"
+  },
+  {
+   "id": "u29.injury",
+   "en": "injury",
+   "es": "lesión",
+   "kind": "word",
+   "emoji": "🩹",
+   "say": "ín-ye-ri"
+  },
+  {
+   "id": "u29.blood",
+   "en": "blood",
+   "es": "sangre",
+   "kind": "word",
+   "emoji": "🩸",
+   "say": "blad"
+  },
+  {
+   "id": "u29.bone",
+   "en": "bone",
+   "es": "hueso",
+   "kind": "word",
+   "emoji": "🦴",
+   "say": "bóun"
+  },
+  {
+   "id": "u29.skin",
+   "en": "skin",
+   "es": "piel",
+   "kind": "word",
+   "emoji": "✋",
+   "say": "skin"
+  },
+  {
+   "id": "u29.pill",
+   "en": "pill",
+   "es": "pastilla",
+   "kind": "word",
+   "emoji": "💊",
+   "say": "pil"
+  },
+  {
+   "id": "u29.syrup",
+   "en": "syrup",
+   "es": "jarabe",
+   "kind": "word",
+   "emoji": "🧴",
+   "say": "sí-rop"
+  },
+  {
+   "id": "u29.prescription",
+   "en": "prescription",
+   "es": "fórmula médica",
+   "kind": "word",
+   "emoji": "📝",
+   "say": "pres-kríp-shon"
+  },
+  {
+   "id": "u29.emergency",
+   "en": "emergency",
+   "es": "emergencia",
+   "kind": "word",
+   "emoji": "🚨",
+   "say": "i-mér-yen-si"
+  },
+  {
+   "id": "u29.ambulance",
+   "en": "ambulance",
+   "es": "ambulancia",
+   "kind": "word",
+   "emoji": "🚑",
+   "say": "ám-biu-lans"
+  },
+  {
+   "id": "u29.pain",
+   "en": "pain",
+   "es": "dolor",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "péin"
+  },
+  {
+   "id": "u29.hurt",
+   "en": "hurt",
+   "es": "doler / lastimar",
+   "kind": "word",
+   "emoji": "🤕",
+   "say": "hert"
+  },
+  {
+   "id": "u29.break-your-leg",
+   "en": "break your leg",
+   "es": "romperse la pierna",
+   "kind": "chunk",
+   "emoji": "🦵"
+  },
+  {
+   "id": "u29.cut-your-finger",
+   "en": "cut your finger",
+   "es": "cortarse el dedo",
+   "kind": "chunk",
+   "emoji": "🔪"
+  },
+  {
+   "id": "u29.rest",
+   "en": "rest",
+   "es": "descansar",
+   "kind": "word",
+   "emoji": "🛌",
+   "say": "rest"
+  },
+  {
+   "id": "u29.get-better",
+   "en": "get better",
+   "es": "mejorarse",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u29.take-medicine",
+   "en": "take medicine",
+   "es": "tomar medicina",
+   "kind": "chunk",
+   "emoji": "💊"
+  },
+  {
+   "id": "u29.twice-a-day",
+   "en": "twice a day",
+   "es": "dos veces al día",
+   "kind": "chunk",
+   "emoji": "2️⃣"
+  },
+  {
+   "id": "u29.every-eight-hours",
+   "en": "every eight hours",
+   "es": "cada ocho horas",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u29.you-should-rest",
+   "en": "You should rest",
+   "es": "Deberías descansar",
+   "kind": "chunk",
+   "emoji": "🛌"
+  },
+  {
+   "id": "u29.you-shouldn-t-smoke",
+   "en": "You shouldn't smoke",
+   "es": "No deberías fumar",
+   "kind": "chunk",
+   "emoji": "🚭"
+  },
+  {
+   "id": "u29.drink-plenty-of-water",
+   "en": "drink plenty of water",
+   "es": "tomar mucha agua",
+   "kind": "chunk",
+   "emoji": "💧"
+  },
+  {
+   "id": "u29.healthy-food",
+   "en": "healthy food",
+   "es": "comida saludable",
+   "kind": "chunk",
+   "emoji": "🥦"
+  },
+  {
+   "id": "u29.exercise",
+   "en": "exercise",
+   "es": "hacer ejercicio",
+   "kind": "word",
+   "emoji": "🏋️",
+   "say": "ék-ser-sais"
+  },
+  {
+   "id": "u29.i-feel-sick",
+   "en": "I feel sick",
+   "es": "Me siento mal",
+   "kind": "chunk",
+   "emoji": "🤢"
+  },
+  {
+   "id": "u29.i-need-a-doctor",
+   "en": "I need a doctor",
+   "es": "Necesito un médico",
+   "kind": "chunk",
+   "emoji": "🧑‍⚕️"
+  },
+  {
+   "id": "u29.is-it-serious",
+   "en": "Is it serious?",
+   "es": "¿Es grave?",
+   "kind": "chunk",
+   "emoji": "❗"
+  },
+  {
+   "id": "u29.it-s-nothing-serious",
+   "en": "It's nothing serious",
+   "es": "No es nada grave",
+   "kind": "chunk",
+   "emoji": "🙂"
+  },
+  {
+   "id": "u29.check-up",
+   "en": "check-up",
+   "es": "chequeo",
+   "kind": "word",
+   "emoji": "🩺",
+   "say": "chék-ap"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u29-salud-l1",
+   "title": "1. symptom, cough, sore throat…",
+   "focus": "listening",
+   "newItems": [
+    "u29.symptom",
+    "u29.cough",
+    "u29.sore-throat",
+    "u29.runny-nose"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.symptom",
+      "u29.cough"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.sore-throat",
+      "u29.runny-nose"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.symptom",
+      "u29.cough",
+      "u29.sore-throat",
+      "u29.runny-nose"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.symptom",
+      "u29.cough",
+      "u29.sore-throat",
+      "u29.runny-nose"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l2",
+   "title": "2. toothache, earache, backache…",
+   "focus": "grammar",
+   "newItems": [
+    "u29.toothache",
+    "u29.earache",
+    "u29.backache",
+    "u29.dizzy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.toothache",
+      "u29.earache"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.backache",
+      "u29.dizzy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.toothache",
+      "u29.earache",
+      "u29.backache",
+      "u29.dizzy"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.toothache",
+      "u29.earache",
+      "u29.backache",
+      "u29.dizzy"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.symptom",
+      "u29.cough",
+      "u29.sore-throat",
+      "u29.runny-nose"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "should para consejos",
+     "intro": "Así dan consejos los médicos y los amigos.",
+     "examples": [
+      {
+       "en": "You have a fever. You should rest.",
+       "es": "Tienes fiebre. Deberías descansar.",
+       "mark": [
+        "should"
+       ]
+      },
+      {
+       "en": "You should drink plenty of water.",
+       "es": "Deberías tomar mucha agua.",
+       "mark": [
+        "should"
+       ]
+      },
+      {
+       "en": "You shouldn't eat fast food.",
+       "es": "No deberías comer comida rápida.",
+       "mark": [
+        "shouldn't"
+       ]
+      },
+      {
+       "en": "He should see a doctor.",
+       "es": "Él debería ir al médico.",
+       "mark": [
+        "should"
+       ]
+      },
+      {
+       "en": "Should I take this pill?",
+       "es": "¿Debería tomar esta pastilla?",
+       "mark": [
+        "Should"
+       ]
+      }
+     ],
+     "question": "Después de should, el verbo…",
+     "options": [
+      "Lleva -s con he/she",
+      "Va en forma normal",
+      "Va con to"
+     ],
+     "answer": 1,
+     "rule": "should = debería. Sirve para dar consejos. Igual que can, es igual para todas las personas y el verbo siguiente va sin cambios: She should rest (no 'shoulds' ni 'rests'). Negativo: shouldn't.",
+     "ruleExamples": [
+      {
+       "en": "You look tired. You should go to bed early.",
+       "es": "Te ves cansado. Deberías acostarte temprano."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "You have a cough. You ___ smoke.",
+     "options": [
+      "should",
+      "shouldn't"
+     ],
+     "answer": 1,
+     "es": "Tienes tos. No deberías fumar."
+    },
+    {
+     "type": "fill",
+     "en": "She should ___ a doctor.",
+     "options": [
+      "see",
+      "sees"
+     ],
+     "answer": 0,
+     "es": "Ella debería ir al médico."
+    },
+    {
+     "type": "fill",
+     "en": "___ I take this medicine every day?",
+     "options": [
+      "Should",
+      "Do should"
+     ],
+     "answer": 0,
+     "es": "¿Debería tomar esta medicina todos los días?"
+    },
+    {
+     "type": "fill",
+     "en": "Take one pill ___ a day.",
+     "options": [
+      "twice",
+      "two"
+     ],
+     "answer": 0,
+     "es": "Tome una pastilla dos veces al día."
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l3",
+   "title": "3. allergy, injury, blood…",
+   "focus": "reading",
+   "newItems": [
+    "u29.allergy",
+    "u29.injury",
+    "u29.blood",
+    "u29.bone"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.allergy",
+      "u29.injury"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.blood",
+      "u29.bone"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.allergy",
+      "u29.injury",
+      "u29.blood",
+      "u29.bone"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.allergy",
+      "u29.injury",
+      "u29.blood",
+      "u29.bone"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.sore-throat",
+      "u29.runny-nose",
+      "u29.toothache",
+      "u29.earache",
+      "u29.backache",
+      "u29.dizzy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l4",
+   "title": "4. skin, pill, syrup…",
+   "focus": "listening",
+   "newItems": [
+    "u29.skin",
+    "u29.pill",
+    "u29.syrup",
+    "u29.prescription"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.skin",
+      "u29.pill"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.syrup",
+      "u29.prescription"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.skin",
+      "u29.pill",
+      "u29.syrup",
+      "u29.prescription"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.skin",
+      "u29.pill",
+      "u29.syrup",
+      "u29.prescription"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.backache",
+      "u29.dizzy",
+      "u29.allergy",
+      "u29.injury",
+      "u29.blood",
+      "u29.bone"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l5",
+   "title": "5. emergency, ambulance, pain…",
+   "focus": "listening",
+   "newItems": [
+    "u29.emergency",
+    "u29.ambulance",
+    "u29.pain",
+    "u29.hurt"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.emergency",
+      "u29.ambulance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.pain",
+      "u29.hurt"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.emergency",
+      "u29.ambulance",
+      "u29.pain",
+      "u29.hurt"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.emergency",
+      "u29.ambulance",
+      "u29.pain",
+      "u29.hurt"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.blood",
+      "u29.bone",
+      "u29.skin",
+      "u29.pill",
+      "u29.syrup",
+      "u29.prescription"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l6",
+   "title": "6. break your leg, cut your finger, rest…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u29.break-your-leg",
+    "u29.cut-your-finger",
+    "u29.rest",
+    "u29.get-better"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.break-your-leg",
+      "u29.cut-your-finger"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.rest",
+      "u29.get-better"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.break-your-leg",
+      "u29.cut-your-finger",
+      "u29.rest",
+      "u29.get-better"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.break-your-leg",
+      "u29.cut-your-finger",
+      "u29.rest",
+      "u29.get-better"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.syrup",
+      "u29.prescription",
+      "u29.emergency",
+      "u29.ambulance",
+      "u29.pain",
+      "u29.hurt"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l7",
+   "title": "7. take medicine, twice a day, every eight hours…",
+   "focus": "reading",
+   "newItems": [
+    "u29.take-medicine",
+    "u29.twice-a-day",
+    "u29.every-eight-hours",
+    "u29.you-should-rest"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.take-medicine",
+      "u29.twice-a-day"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.every-eight-hours",
+      "u29.you-should-rest"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.take-medicine",
+      "u29.twice-a-day",
+      "u29.every-eight-hours",
+      "u29.you-should-rest"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.take-medicine",
+      "u29.twice-a-day",
+      "u29.every-eight-hours",
+      "u29.you-should-rest"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.pain",
+      "u29.hurt",
+      "u29.break-your-leg",
+      "u29.cut-your-finger",
+      "u29.rest",
+      "u29.get-better"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l8",
+   "title": "8. You shouldn't smoke, drink plenty of water, healthy food…",
+   "focus": "listening",
+   "newItems": [
+    "u29.you-shouldn-t-smoke",
+    "u29.drink-plenty-of-water",
+    "u29.healthy-food",
+    "u29.exercise"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.you-shouldn-t-smoke",
+      "u29.drink-plenty-of-water"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.healthy-food",
+      "u29.exercise"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.you-shouldn-t-smoke",
+      "u29.drink-plenty-of-water",
+      "u29.healthy-food",
+      "u29.exercise"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.you-shouldn-t-smoke",
+      "u29.drink-plenty-of-water",
+      "u29.healthy-food",
+      "u29.exercise"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.rest",
+      "u29.get-better",
+      "u29.take-medicine",
+      "u29.twice-a-day",
+      "u29.every-eight-hours",
+      "u29.you-should-rest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En la farmacia",
+     "scene": "💊 Pides algo para la gripa.",
+     "lines": [
+      {
+       "who": "Pharmacist",
+       "en": "Hello. How can I help you?",
+       "es": "Hola. ¿En qué le puedo ayudar?"
+      },
+      {
+       "who": "You",
+       "en": "I have a sore throat and a cough.",
+       "es": "Tengo dolor de garganta y tos."
+      },
+      {
+       "who": "Pharmacist",
+       "en": "Do you have a fever?",
+       "es": "¿Tiene fiebre?"
+      },
+      {
+       "who": "You",
+       "en": "No, I don't.",
+       "es": "No."
+      },
+      {
+       "who": "Pharmacist",
+       "en": "Take this syrup every eight hours. And you should drink plenty of water.",
+       "es": "Tome este jarabe cada ocho horas. Y debería tomar mucha agua."
+      },
+      {
+       "who": "You",
+       "en": "Should I see a doctor?",
+       "es": "¿Debería ir al médico?"
+      },
+      {
+       "who": "Pharmacist",
+       "en": "If you don't get better in three days, yes.",
+       "es": "Si no mejora en tres días, sí."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l9",
+   "title": "9. I feel sick, I need a doctor, Is it serious?…",
+   "focus": "listening",
+   "newItems": [
+    "u29.i-feel-sick",
+    "u29.i-need-a-doctor",
+    "u29.is-it-serious",
+    "u29.it-s-nothing-serious"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.i-feel-sick",
+      "u29.i-need-a-doctor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u29.is-it-serious",
+      "u29.it-s-nothing-serious"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.i-feel-sick",
+      "u29.i-need-a-doctor",
+      "u29.is-it-serious",
+      "u29.it-s-nothing-serious"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.i-feel-sick",
+      "u29.i-need-a-doctor",
+      "u29.is-it-serious",
+      "u29.it-s-nothing-serious"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.every-eight-hours",
+      "u29.you-should-rest",
+      "u29.you-shouldn-t-smoke",
+      "u29.drink-plenty-of-water",
+      "u29.healthy-food",
+      "u29.exercise"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-l10",
+   "title": "10. check-up",
+   "focus": "vocabulary",
+   "newItems": [
+    "u29.check-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u29.check-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.check-up"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.check-up"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.healthy-food",
+      "u29.exercise",
+      "u29.i-feel-sick",
+      "u29.i-need-a-doctor",
+      "u29.is-it-serious",
+      "u29.it-s-nothing-serious"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u29-salud-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El partido del domingo",
+     "emoji": "⚽",
+     "paragraphs": [
+      {
+       "en": "On Sunday Carlos played football with his friends.",
+       "es": "El domingo Carlos jugó fútbol con sus amigos."
+      },
+      {
+       "en": "In the second half he fell and hurt his ankle. The pain was terrible.",
+       "es": "En el segundo tiempo se cayó y se lastimó el tobillo. El dolor era terrible."
+      },
+      {
+       "en": "His friends called an ambulance and he went to the emergency room.",
+       "es": "Sus amigos llamaron una ambulancia y fue a urgencias."
+      },
+      {
+       "en": "The doctor checked his leg. \"It's not broken. It's nothing serious.\"",
+       "es": "El médico le revisó la pierna. \"No está rota. No es nada grave.\""
+      },
+      {
+       "en": "\"You should rest for two weeks and you shouldn't play football.\"",
+       "es": "\"Debería descansar dos semanas y no debería jugar fútbol.\""
+      },
+      {
+       "en": "Carlos was sad, but now he watches the games from the sofa.",
+       "es": "Carlos se puso triste, pero ahora ve los partidos desde el sofá."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué se lastimó Carlos?",
+       "options": [
+        "La muñeca",
+        "El tobillo",
+        "La cabeza"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Estaba roto?",
+       "options": [
+        "Sí",
+        "No, no era grave"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué le dijo el médico?",
+       "options": [
+        "Que descansara dos semanas",
+        "Que jugara mañana",
+        "Que tomara jarabe"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Consulta médica",
+     "scene": "🩺 Vas al médico porque te duele la espalda.",
+     "turns": [
+      {
+       "who": "Doctor",
+       "en": "Good afternoon. What's the problem?",
+       "es": "Buenas tardes. ¿Cuál es el problema?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "My back hurts a lot.",
+         "es": "Me duele mucho la espalda.",
+         "ok": true
+        },
+        {
+         "en": "My back hurt a lot tomorrow.",
+         "es": "Me dolió mucho la espalda mañana.",
+         "ok": false,
+         "why": "Mezcla pasado con mañana."
+        }
+       ]
+      },
+      {
+       "who": "Doctor",
+       "en": "When did it start?",
+       "es": "¿Cuándo empezó?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Three days ago. I carried a heavy box.",
+         "es": "Hace tres días. Cargué una caja pesada.",
+         "ok": true
+        },
+        {
+         "en": "In three days.",
+         "es": "En tres días.",
+         "ok": false,
+         "why": "Eso sería en el futuro; di \"three days ago\"."
+        }
+       ]
+      },
+      {
+       "who": "Doctor",
+       "en": "Take these pills twice a day, and you should rest.",
+       "es": "Tome estas pastillas dos veces al día y debería descansar."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Should I go to work?",
+         "es": "¿Debería ir a trabajar?",
+         "ok": true
+        },
+        {
+         "en": "I should to rest.",
+         "es": "Yo debería a descansar.",
+         "ok": false,
+         "why": "Después de should no va \"to\"."
+        }
+       ]
+      },
+      {
+       "who": "Doctor",
+       "en": "No, you shouldn't. Rest for three days.",
+       "es": "No, no debería. Descanse tres días."
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Deberías descansar.",
+     "en": "You should rest."
+    },
+    {
+     "type": "write",
+     "es": "Me duele la garganta.",
+     "en": "I have a sore throat.",
+     "accept": [
+      "My throat hurts."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Es grave?",
+     "en": "Is it serious?"
+    },
+    {
+     "type": "dictation",
+     "en": "Take one pill every eight hours.",
+     "es": "Tome una pastilla cada ocho horas."
+    },
+    {
+     "type": "dictation",
+     "en": "You shouldn't eat so much sugar.",
+     "es": "No deberías comer tanta azúcar."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u29.drink-plenty-of-water",
+      "u29.healthy-food",
+      "u29.exercise",
+      "u29.i-feel-sick",
+      "u29.i-need-a-doctor",
+      "u29.is-it-serious",
+      "u29.it-s-nothing-serious",
+      "u29.check-up"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

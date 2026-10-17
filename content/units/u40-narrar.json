@@ -1,0 +1,1314 @@
+{
+ "_generated": true,
+ "id": "u40-narrar",
+ "level": "A2",
+ "title": "Contar lo que estaba pasando",
+ "emoji": "🎬",
+ "canDo": "Ya puedo contar una historia con lo que estaba pasando cuando algo ocurrió",
+ "summary": "El pasado continuo (was doing) junto con el pasado simple para narrar historias.",
+ "grammar": [
+  "Pasado continuo: was / were + -ing",
+  "when / while"
+ ],
+ "items": [
+  {
+   "id": "u40.i-was-sleeping",
+   "en": "I was sleeping",
+   "es": "Estaba durmiendo",
+   "kind": "chunk",
+   "emoji": "😴"
+  },
+  {
+   "id": "u40.they-were-watching-tv",
+   "en": "They were watching TV",
+   "es": "Estaban viendo televisión",
+   "kind": "chunk",
+   "emoji": "📺"
+  },
+  {
+   "id": "u40.what-were-you-doing",
+   "en": "What were you doing?",
+   "es": "¿Qué estabas haciendo?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u40.while",
+   "en": "while",
+   "es": "mientras",
+   "kind": "word",
+   "emoji": "⏸️",
+   "say": "uáil"
+  },
+  {
+   "id": "u40.at-that-moment",
+   "en": "at that moment",
+   "es": "en ese momento",
+   "kind": "chunk",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u40.meanwhile",
+   "en": "meanwhile",
+   "es": "mientras tanto",
+   "kind": "word",
+   "emoji": "🔀",
+   "say": "míin-uail"
+  },
+  {
+   "id": "u40.the-next-day",
+   "en": "the next day",
+   "es": "al día siguiente",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u40.in-the-end",
+   "en": "in the end",
+   "es": "al final",
+   "kind": "chunk",
+   "emoji": "🏁"
+  },
+  {
+   "id": "u40.once-upon-a-time",
+   "en": "once upon a time",
+   "es": "había una vez",
+   "kind": "chunk",
+   "emoji": "📖"
+  },
+  {
+   "id": "u40.fall-fell",
+   "en": "fall",
+   "es": "caer (cayó)",
+   "kind": "word",
+   "emoji": "🍂",
+   "say": "fol",
+   "tip": "Aquí con el sentido de: fell."
+  },
+  {
+   "id": "u40.drop",
+   "en": "drop",
+   "es": "dejar caer",
+   "kind": "word",
+   "emoji": "🫳",
+   "say": "drop"
+  },
+  {
+   "id": "u40.hit",
+   "en": "hit",
+   "es": "golpear / chocar",
+   "kind": "word",
+   "emoji": "👊",
+   "say": "jit"
+  },
+  {
+   "id": "u40.crash",
+   "en": "crash",
+   "es": "chocar / estrellarse",
+   "kind": "word",
+   "emoji": "💥",
+   "say": "krash"
+  },
+  {
+   "id": "u40.scream",
+   "en": "scream",
+   "es": "gritar",
+   "kind": "word",
+   "emoji": "😱",
+   "say": "skríim"
+  },
+  {
+   "id": "u40.shout",
+   "en": "shout",
+   "es": "gritar / gritarle",
+   "kind": "word",
+   "emoji": "📣",
+   "say": "sháut"
+  },
+  {
+   "id": "u40.whisper",
+   "en": "whisper",
+   "es": "susurrar",
+   "kind": "word",
+   "emoji": "🤫",
+   "say": "uís-per"
+  },
+  {
+   "id": "u40.knock",
+   "en": "knock",
+   "es": "tocar (la puerta)",
+   "kind": "word",
+   "emoji": "🚪",
+   "say": "nok",
+   "tip": "La k no suena."
+  },
+  {
+   "id": "u40.ring",
+   "en": "ring",
+   "es": "sonar (timbre / teléfono)",
+   "kind": "word",
+   "emoji": "🔔",
+   "say": "ring"
+  },
+  {
+   "id": "u40.steal-stole",
+   "en": "steal",
+   "es": "robar (robó)",
+   "kind": "word",
+   "emoji": "🦹",
+   "say": "stíil",
+   "tip": "Aquí con el sentido de: stole."
+  },
+  {
+   "id": "u40.thief",
+   "en": "thief",
+   "es": "ladrón",
+   "kind": "word",
+   "emoji": "🦹",
+   "say": "zíif"
+  },
+  {
+   "id": "u40.escape",
+   "en": "escape",
+   "es": "escapar",
+   "kind": "word",
+   "emoji": "🏃",
+   "say": "es-kéip"
+  },
+  {
+   "id": "u40.chase",
+   "en": "chase",
+   "es": "perseguir",
+   "kind": "word",
+   "emoji": "🐕‍🦺",
+   "say": "chéis"
+  },
+  {
+   "id": "u40.hide-hid",
+   "en": "hide",
+   "es": "esconder (escondió)",
+   "kind": "word",
+   "emoji": "🙈",
+   "say": "jáid",
+   "tip": "Aquí con el sentido de: hid."
+  },
+  {
+   "id": "u40.search-for",
+   "en": "search for",
+   "es": "buscar",
+   "kind": "chunk",
+   "emoji": "🔎"
+  },
+  {
+   "id": "u40.notice",
+   "en": "notice",
+   "es": "darse cuenta / notar",
+   "kind": "word",
+   "emoji": "👁️",
+   "say": "nóu-tis"
+  },
+  {
+   "id": "u40.realize",
+   "en": "realize",
+   "es": "darse cuenta",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "rí-a-lais"
+  },
+  {
+   "id": "u40.turn-off",
+   "en": "turn off",
+   "es": "apagar",
+   "kind": "chunk",
+   "emoji": "📴"
+  },
+  {
+   "id": "u40.turn-on",
+   "en": "turn on",
+   "es": "prender / encender",
+   "kind": "chunk",
+   "emoji": "🔛"
+  },
+  {
+   "id": "u40.power-outage",
+   "en": "power outage",
+   "es": "apagón / se fue la luz",
+   "kind": "chunk",
+   "emoji": "🔌"
+  },
+  {
+   "id": "u40.candle-light",
+   "en": "candle",
+   "es": "vela",
+   "kind": "word",
+   "emoji": "🕯️",
+   "tip": "Aquí con el sentido de: light."
+  },
+  {
+   "id": "u40.dark",
+   "en": "dark",
+   "es": "oscuro",
+   "kind": "word",
+   "emoji": "🌑",
+   "say": "dark"
+  },
+  {
+   "id": "u40.noise",
+   "en": "noise",
+   "es": "ruido",
+   "kind": "word",
+   "emoji": "🔉",
+   "say": "nóis"
+  },
+  {
+   "id": "u40.strange",
+   "en": "strange",
+   "es": "extraño",
+   "kind": "word",
+   "emoji": "👽",
+   "say": "stréinch"
+  },
+  {
+   "id": "u40.ghost",
+   "en": "ghost",
+   "es": "fantasma",
+   "kind": "word",
+   "emoji": "👻",
+   "say": "góust"
+  },
+  {
+   "id": "u40.afraid",
+   "en": "afraid",
+   "es": "con miedo",
+   "kind": "word",
+   "emoji": "😨",
+   "say": "a-fréid"
+  },
+  {
+   "id": "u40.brave",
+   "en": "brave",
+   "es": "valiente",
+   "kind": "word",
+   "emoji": "🦸",
+   "say": "bréiv"
+  },
+  {
+   "id": "u40.witness",
+   "en": "witness",
+   "es": "testigo",
+   "kind": "word",
+   "emoji": "👀",
+   "say": "uít-nes"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u40-narrar-l1",
+   "title": "1. I was sleeping, They were watching TV, What were you doing?…",
+   "focus": "listening",
+   "newItems": [
+    "u40.i-was-sleeping",
+    "u40.they-were-watching-tv",
+    "u40.what-were-you-doing",
+    "u40.while"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.i-was-sleeping",
+      "u40.they-were-watching-tv"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.what-were-you-doing",
+      "u40.while"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.i-was-sleeping",
+      "u40.they-were-watching-tv",
+      "u40.what-were-you-doing",
+      "u40.while"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.i-was-sleeping",
+      "u40.they-were-watching-tv",
+      "u40.what-were-you-doing",
+      "u40.while"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l2",
+   "title": "2. at that moment, meanwhile, the next day…",
+   "focus": "grammar",
+   "newItems": [
+    "u40.at-that-moment",
+    "u40.meanwhile",
+    "u40.the-next-day",
+    "u40.in-the-end"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.at-that-moment",
+      "u40.meanwhile"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.the-next-day",
+      "u40.in-the-end"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.at-that-moment",
+      "u40.meanwhile",
+      "u40.the-next-day",
+      "u40.in-the-end"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.at-that-moment",
+      "u40.meanwhile",
+      "u40.the-next-day",
+      "u40.in-the-end"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.i-was-sleeping",
+      "u40.they-were-watching-tv",
+      "u40.what-were-you-doing",
+      "u40.while"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Pasado continuo + pasado simple",
+     "intro": "Una acción estaba en curso y otra la interrumpió.",
+     "examples": [
+      {
+       "en": "I was sleeping when the phone rang.",
+       "es": "Estaba durmiendo cuando sonó el teléfono.",
+       "mark": [
+        "was sleeping"
+       ]
+      },
+      {
+       "en": "They were watching TV when the lights went out.",
+       "es": "Estaban viendo televisión cuando se fue la luz.",
+       "mark": [
+        "were watching"
+       ]
+      },
+      {
+       "en": "She was cooking when somebody knocked on the door.",
+       "es": "Estaba cocinando cuando alguien tocó la puerta.",
+       "mark": [
+        "was cooking"
+       ]
+      },
+      {
+       "en": "While we were walking, it started to rain.",
+       "es": "Mientras caminábamos, empezó a llover.",
+       "mark": [
+        "were walking"
+       ]
+      },
+      {
+       "en": "What were you doing at ten last night?",
+       "es": "¿Qué estabas haciendo anoche a las diez?",
+       "mark": [
+        "were you doing"
+       ]
+      }
+     ],
+     "question": "¿Qué parte usa was / were + -ing?",
+     "options": [
+      "La acción larga que estaba pasando",
+      "La acción corta que interrumpe"
+     ],
+     "answer": 0,
+     "rule": "Este es el PASADO CONTINUO: was / were + verbo con -ing (estaba + -ando/-iendo). Describe la escena o la acción larga. El PASADO SIMPLE cuenta el suceso corto que la interrumpe: I was reading WHEN the phone RANG. while se usa con la acción larga.",
+     "ruleExamples": [
+      {
+       "en": "While I was walking home, I saw a strange light in the sky.",
+       "es": "Mientras caminaba a casa, vi una luz extraña en el cielo."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I ___ a shower when you called.",
+     "options": [
+      "was taking",
+      "took"
+     ],
+     "answer": 0,
+     "es": "Me estaba bañando cuando llamaste."
+    },
+    {
+     "type": "fill",
+     "en": "They were playing football when it ___ to rain.",
+     "options": [
+      "started",
+      "was starting"
+     ],
+     "answer": 0,
+     "es": "Estaban jugando fútbol cuando empezó a llover."
+    },
+    {
+     "type": "fill",
+     "en": "___ she was cooking, the baby woke up.",
+     "options": [
+      "While",
+      "When"
+     ],
+     "answer": 0,
+     "es": "Mientras ella cocinaba, el bebé se despertó."
+    },
+    {
+     "type": "fill",
+     "en": "What ___ you doing at midnight?",
+     "options": [
+      "were",
+      "was"
+     ],
+     "answer": 0,
+     "es": "¿Qué estabas haciendo a la medianoche?"
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l3",
+   "title": "3. once upon a time, fall, drop…",
+   "focus": "reading",
+   "newItems": [
+    "u40.once-upon-a-time",
+    "u40.fall-fell",
+    "u40.drop",
+    "u40.hit"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.once-upon-a-time",
+      "u40.fall-fell"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.drop",
+      "u40.hit"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.once-upon-a-time",
+      "u40.fall-fell",
+      "u40.drop",
+      "u40.hit"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.once-upon-a-time",
+      "u40.fall-fell",
+      "u40.drop",
+      "u40.hit"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.what-were-you-doing",
+      "u40.while",
+      "u40.at-that-moment",
+      "u40.meanwhile",
+      "u40.the-next-day",
+      "u40.in-the-end"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l4",
+   "title": "4. crash, scream, shout…",
+   "focus": "listening",
+   "newItems": [
+    "u40.crash",
+    "u40.scream",
+    "u40.shout",
+    "u40.whisper"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.crash",
+      "u40.scream"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.shout",
+      "u40.whisper"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.crash",
+      "u40.scream",
+      "u40.shout",
+      "u40.whisper"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.crash",
+      "u40.scream",
+      "u40.shout",
+      "u40.whisper"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.the-next-day",
+      "u40.in-the-end",
+      "u40.once-upon-a-time",
+      "u40.fall-fell",
+      "u40.drop",
+      "u40.hit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l5",
+   "title": "5. knock, ring, steal…",
+   "focus": "listening",
+   "newItems": [
+    "u40.knock",
+    "u40.ring",
+    "u40.steal-stole",
+    "u40.thief"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.knock",
+      "u40.ring"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.steal-stole",
+      "u40.thief"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.knock",
+      "u40.ring",
+      "u40.steal-stole",
+      "u40.thief"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.knock",
+      "u40.ring",
+      "u40.steal-stole",
+      "u40.thief"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.drop",
+      "u40.hit",
+      "u40.crash",
+      "u40.scream",
+      "u40.shout",
+      "u40.whisper"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l6",
+   "title": "6. escape, chase, hide…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u40.escape",
+    "u40.chase",
+    "u40.hide-hid",
+    "u40.search-for"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.escape",
+      "u40.chase"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.hide-hid",
+      "u40.search-for"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.escape",
+      "u40.chase",
+      "u40.hide-hid",
+      "u40.search-for"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.escape",
+      "u40.chase",
+      "u40.hide-hid",
+      "u40.search-for"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.shout",
+      "u40.whisper",
+      "u40.knock",
+      "u40.ring",
+      "u40.steal-stole",
+      "u40.thief"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l7",
+   "title": "7. notice, realize, turn off…",
+   "focus": "reading",
+   "newItems": [
+    "u40.notice",
+    "u40.realize",
+    "u40.turn-off",
+    "u40.turn-on"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.notice",
+      "u40.realize"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.turn-off",
+      "u40.turn-on"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.notice",
+      "u40.realize",
+      "u40.turn-off",
+      "u40.turn-on"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.notice",
+      "u40.realize",
+      "u40.turn-off",
+      "u40.turn-on"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.steal-stole",
+      "u40.thief",
+      "u40.escape",
+      "u40.chase",
+      "u40.hide-hid",
+      "u40.search-for"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l8",
+   "title": "8. power outage, candle, dark…",
+   "focus": "listening",
+   "newItems": [
+    "u40.power-outage",
+    "u40.candle-light",
+    "u40.dark",
+    "u40.noise"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.power-outage",
+      "u40.candle-light"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.dark",
+      "u40.noise"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.power-outage",
+      "u40.candle-light",
+      "u40.dark",
+      "u40.noise"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.power-outage",
+      "u40.candle-light",
+      "u40.dark",
+      "u40.noise"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.hide-hid",
+      "u40.search-for",
+      "u40.notice",
+      "u40.realize",
+      "u40.turn-off",
+      "u40.turn-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Anoche se fue la luz",
+     "scene": "🕯️ Hablas con tu vecina en el ascensor.",
+     "lines": [
+      {
+       "who": "Neighbor",
+       "en": "Did you notice the power outage last night?",
+       "es": "¿Se dio cuenta del apagón de anoche?"
+      },
+      {
+       "who": "You",
+       "en": "Yes! I was watching a movie when everything turned off.",
+       "es": "¡Sí! Estaba viendo una película cuando todo se apagó."
+      },
+      {
+       "who": "Neighbor",
+       "en": "I was cooking dinner. I couldn't see anything!",
+       "es": "Yo estaba cocinando la cena. ¡No veía nada!"
+      },
+      {
+       "who": "You",
+       "en": "What did you do?",
+       "es": "¿Qué hizo?"
+      },
+      {
+       "who": "Neighbor",
+       "en": "I found some candles and we ate in the dark. It was romantic!",
+       "es": "Encontré unas velas y comimos a oscuras. ¡Fue romántico!"
+      },
+      {
+       "who": "You",
+       "en": "Ha ha. In the end it wasn't so bad!",
+       "es": "Ja ja. ¡Al final no estuvo tan mal!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l9",
+   "title": "9. strange, ghost, afraid…",
+   "focus": "listening",
+   "newItems": [
+    "u40.strange",
+    "u40.ghost",
+    "u40.afraid",
+    "u40.brave"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.strange",
+      "u40.ghost"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u40.afraid",
+      "u40.brave"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.strange",
+      "u40.ghost",
+      "u40.afraid",
+      "u40.brave"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.strange",
+      "u40.ghost",
+      "u40.afraid",
+      "u40.brave"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.turn-off",
+      "u40.turn-on",
+      "u40.power-outage",
+      "u40.candle-light",
+      "u40.dark",
+      "u40.noise"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-l10",
+   "title": "10. witness",
+   "focus": "vocabulary",
+   "newItems": [
+    "u40.witness"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u40.witness"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.witness"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.witness"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.dark",
+      "u40.noise",
+      "u40.strange",
+      "u40.ghost",
+      "u40.afraid",
+      "u40.brave"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u40-narrar-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un ruido en la noche",
+     "emoji": "👻",
+     "paragraphs": [
+      {
+       "en": "It was a dark and rainy night. Lucía was reading in bed.",
+       "es": "Era una noche oscura y lluviosa. Lucía estaba leyendo en la cama."
+      },
+      {
+       "en": "Her parents were sleeping and her brother was playing video games.",
+       "es": "Sus papás estaban durmiendo y su hermano estaba jugando videojuegos."
+      },
+      {
+       "en": "Suddenly she heard a strange noise in the kitchen.",
+       "es": "De repente oyó un ruido extraño en la cocina."
+      },
+      {
+       "en": "She was afraid, but she was brave. She took her phone and went downstairs.",
+       "es": "Tenía miedo, pero fue valiente. Tomó su celular y bajó las escaleras."
+      },
+      {
+       "en": "While she was walking to the kitchen, the noise stopped.",
+       "es": "Mientras caminaba hacia la cocina, el ruido paró."
+      },
+      {
+       "en": "She turned on the light and screamed… then she laughed. It was the cat! It was eating the chicken from dinner.",
+       "es": "Prendió la luz y gritó… luego se rió. ¡Era el gato! Se estaba comiendo el pollo de la cena."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué estaba haciendo Lucía?",
+       "options": [
+        "Durmiendo",
+        "Leyendo en la cama",
+        "Cocinando"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde oyó el ruido?",
+       "options": [
+        "En el jardín",
+        "En la cocina",
+        "En su cuarto"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué causaba el ruido?",
+       "options": [
+        "Un ladrón",
+        "Un fantasma",
+        "El gato"
+       ],
+       "answer": 2
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Declaración a la policía",
+     "scene": "👮 Te robaron el celular en la calle y hablas con un policía.",
+     "turns": [
+      {
+       "who": "Officer",
+       "en": "What happened?",
+       "es": "¿Qué pasó?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "A man stole my phone while I was waiting for the bus.",
+         "es": "Un hombre me robó el celular mientras esperaba el bus.",
+         "ok": true
+        },
+        {
+         "en": "A man was stealing my phone while I waited tomorrow.",
+         "es": "Un hombre estaba robando mi celular mientras esperé mañana.",
+         "ok": false,
+         "why": "Mezcla tiempos."
+        }
+       ]
+      },
+      {
+       "who": "Officer",
+       "en": "What were you doing at that moment?",
+       "es": "¿Qué estaba haciendo en ese momento?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I was talking to my sister on the phone.",
+         "es": "Estaba hablando con mi hermana por teléfono.",
+         "ok": true
+        },
+        {
+         "en": "I talk to my sister.",
+         "es": "Hablo con mi hermana.",
+         "ok": false,
+         "why": "Debe ser pasado continuo: \"I was talking\"."
+        }
+       ]
+      },
+      {
+       "who": "Officer",
+       "en": "Did you see where he went?",
+       "es": "¿Vio para dónde se fue?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, he ran toward the park.",
+         "es": "Sí, corrió hacia el parque.",
+         "ok": true
+        },
+        {
+         "en": "Yes, he was run toward the park.",
+         "es": "Sí, él estaba corrió hacia el parque.",
+         "ok": false,
+         "why": "Se dice \"he ran\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Estaba durmiendo cuando sonó el teléfono.",
+     "en": "I was sleeping when the phone rang."
+    },
+    {
+     "type": "write",
+     "es": "¿Qué estabas haciendo?",
+     "en": "What were you doing?"
+    },
+    {
+     "type": "write",
+     "es": "Mientras caminaba, empezó a llover.",
+     "en": "While I was walking, it started to rain.",
+     "accept": [
+      "While I was walking it started to rain."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "They were watching TV when the lights went out.",
+     "es": "Estaban viendo televisión cuando se fue la luz."
+    },
+    {
+     "type": "dictation",
+     "en": "Suddenly she heard a strange noise.",
+     "es": "De repente oyó un ruido extraño."
+    },
+    {
+     "type": "speak",
+     "en": "I was studying English when my friend called me.",
+     "es": "Estaba estudiando inglés cuando mi amigo me llamó.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u40.candle-light",
+      "u40.dark",
+      "u40.noise",
+      "u40.strange",
+      "u40.ghost",
+      "u40.afraid",
+      "u40.brave",
+      "u40.witness"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

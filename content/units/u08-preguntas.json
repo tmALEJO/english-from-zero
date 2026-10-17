@@ -1,0 +1,1235 @@
+{
+ "_generated": true,
+ "id": "u08-preguntas",
+ "level": "A1",
+ "title": "Haciendo preguntas",
+ "emoji": "❓",
+ "canDo": "Ya puedo hacer preguntas sobre la rutina de otros",
+ "summary": "Preguntar con do y does, responder con sí o no, y decir lo que NO haces.",
+ "grammar": [
+  "Do / Does",
+  "Negativo: don't / doesn't"
+ ],
+ "items": [
+  {
+   "id": "u08.do-you-work",
+   "en": "Do you work?",
+   "es": "¿Trabajas?",
+   "kind": "chunk",
+   "emoji": "💼",
+   "say": "du iu uérk"
+  },
+  {
+   "id": "u08.does-she-study",
+   "en": "Does she study?",
+   "es": "¿Ella estudia?",
+   "kind": "chunk",
+   "emoji": "📚",
+   "say": "das shi stádi"
+  },
+  {
+   "id": "u08.yes-i-do",
+   "en": "Yes, I do",
+   "es": "Sí (respuesta a do)",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u08.no-i-don-t",
+   "en": "No, I don't",
+   "es": "No (respuesta a do)",
+   "kind": "chunk",
+   "emoji": "👎",
+   "say": "nóu, ai dóunt"
+  },
+  {
+   "id": "u08.yes-she-does",
+   "en": "Yes, she does",
+   "es": "Sí, ella sí",
+   "kind": "chunk",
+   "emoji": "🙆‍♀️"
+  },
+  {
+   "id": "u08.no-he-doesn-t",
+   "en": "No, he doesn't",
+   "es": "No, él no",
+   "kind": "chunk",
+   "emoji": "🙅‍♂️",
+   "say": "nóu, ji dásent"
+  },
+  {
+   "id": "u08.i-don-t-know",
+   "en": "I don't know",
+   "es": "No sé",
+   "kind": "chunk",
+   "emoji": "🤷",
+   "say": "ai dóunt nóu"
+  },
+  {
+   "id": "u08.what-do-you-do",
+   "en": "What do you do?",
+   "es": "¿A qué te dedicas?",
+   "kind": "chunk",
+   "emoji": "🧑‍🔧",
+   "say": "uát du iu dú"
+  },
+  {
+   "id": "u08.where-do-you-live",
+   "en": "Where do you live?",
+   "es": "¿Dónde vives?",
+   "kind": "chunk",
+   "emoji": "🏘️"
+  },
+  {
+   "id": "u08.i-live-in-pasto",
+   "en": "I live in Pasto",
+   "es": "Vivo en Pasto",
+   "kind": "chunk",
+   "emoji": "📍",
+   "say": "ai liv in pasto"
+  },
+  {
+   "id": "u08.live",
+   "en": "live",
+   "es": "vivir",
+   "kind": "word",
+   "emoji": "🏡",
+   "say": "liv"
+  },
+  {
+   "id": "u08.read",
+   "en": "read",
+   "es": "leer",
+   "kind": "word",
+   "emoji": "📖",
+   "say": "riid"
+  },
+  {
+   "id": "u08.write",
+   "en": "write",
+   "es": "escribir",
+   "kind": "word",
+   "emoji": "✍️",
+   "say": "ráit"
+  },
+  {
+   "id": "u08.cook",
+   "en": "cook",
+   "es": "cocinar",
+   "kind": "word",
+   "emoji": "👩‍🍳",
+   "say": "kuk"
+  },
+  {
+   "id": "u08.play",
+   "en": "play",
+   "es": "jugar / tocar (música)",
+   "kind": "word",
+   "emoji": "🎮",
+   "say": "pléi"
+  },
+  {
+   "id": "u08.listen-to-music",
+   "en": "listen to music",
+   "es": "escuchar música",
+   "kind": "chunk",
+   "emoji": "🎧",
+   "say": "lísen tu miúsik"
+  },
+  {
+   "id": "u08.walk",
+   "en": "walk",
+   "es": "caminar",
+   "kind": "word",
+   "emoji": "🚶‍♀️",
+   "say": "uók"
+  },
+  {
+   "id": "u08.run",
+   "en": "run",
+   "es": "correr",
+   "kind": "word",
+   "emoji": "🏃",
+   "say": "ran"
+  },
+  {
+   "id": "u08.drive",
+   "en": "drive",
+   "es": "manejar",
+   "kind": "word",
+   "emoji": "🚙",
+   "say": "dráiv"
+  },
+  {
+   "id": "u08.take-the-bus",
+   "en": "take the bus",
+   "es": "tomar el bus",
+   "kind": "chunk",
+   "emoji": "🚌"
+  },
+  {
+   "id": "u08.do-homework",
+   "en": "do homework",
+   "es": "hacer la tarea",
+   "kind": "chunk",
+   "emoji": "📝"
+  },
+  {
+   "id": "u08.always",
+   "en": "always",
+   "es": "siempre",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "ól-ueis"
+  },
+  {
+   "id": "u08.usually",
+   "en": "usually",
+   "es": "normalmente",
+   "kind": "word",
+   "emoji": "🗓️",
+   "say": "iú-shua-li"
+  },
+  {
+   "id": "u08.sometimes",
+   "en": "sometimes",
+   "es": "a veces",
+   "kind": "word",
+   "emoji": "🎲",
+   "say": "sám-taims"
+  },
+  {
+   "id": "u08.never",
+   "en": "never",
+   "es": "nunca",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "né-ver"
+  },
+  {
+   "id": "u08.on-weekends",
+   "en": "on weekends",
+   "es": "los fines de semana",
+   "kind": "chunk",
+   "emoji": "🛋️"
+  },
+  {
+   "id": "u08.after-work",
+   "en": "after work",
+   "es": "después del trabajo",
+   "kind": "chunk",
+   "emoji": "🌇"
+  },
+  {
+   "id": "u08.before-breakfast",
+   "en": "before breakfast",
+   "es": "antes del desayuno",
+   "kind": "chunk",
+   "emoji": "🥣"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u08-preguntas-l1",
+   "title": "1. Do you work?, Does she study?, Yes, I do…",
+   "focus": "listening",
+   "newItems": [
+    "u08.do-you-work",
+    "u08.does-she-study",
+    "u08.yes-i-do",
+    "u08.no-i-don-t"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u08.do-you-work",
+      "u08.does-she-study"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u08.yes-i-do",
+      "u08.no-i-don-t"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-you-work",
+      "u08.does-she-study",
+      "u08.yes-i-do",
+      "u08.no-i-don-t"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-you-work",
+      "u08.does-she-study",
+      "u08.yes-i-do",
+      "u08.no-i-don-t"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-you-work",
+      "u08.does-she-study"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u08-preguntas-l2",
+   "title": "2. Yes, she does, No, he doesn't, I don't know…",
+   "focus": "grammar",
+   "newItems": [
+    "u08.yes-she-does",
+    "u08.no-he-doesn-t",
+    "u08.i-don-t-know",
+    "u08.what-do-you-do"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u08.yes-she-does",
+      "u08.no-he-doesn-t"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u08.i-don-t-know",
+      "u08.what-do-you-do"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.yes-she-does",
+      "u08.no-he-doesn-t",
+      "u08.i-don-t-know",
+      "u08.what-do-you-do"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.yes-she-does",
+      "u08.no-he-doesn-t",
+      "u08.i-don-t-know",
+      "u08.what-do-you-do"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.yes-she-does",
+      "u08.no-he-doesn-t"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-you-work",
+      "u08.does-she-study",
+      "u08.yes-i-do",
+      "u08.no-i-don-t"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Preguntas con do / does",
+     "intro": "Mira cómo se pregunta en inglés. Fíjate en la primera palabra.",
+     "examples": [
+      {
+       "en": "Do you work?",
+       "es": "¿Trabajas?",
+       "mark": [
+        "Do"
+       ]
+      },
+      {
+       "en": "Do they live here?",
+       "es": "¿Ellos viven aquí?",
+       "mark": [
+        "Do"
+       ]
+      },
+      {
+       "en": "Does she cook?",
+       "es": "¿Ella cocina?",
+       "mark": [
+        "Does"
+       ]
+      },
+      {
+       "en": "Does he play football?",
+       "es": "¿Él juega fútbol?",
+       "mark": [
+        "Does"
+       ]
+      },
+      {
+       "en": "Do we study today?",
+       "es": "¿Estudiamos hoy?",
+       "mark": [
+        "Do"
+       ]
+      },
+      {
+       "en": "Does it work?",
+       "es": "¿Funciona?",
+       "mark": [
+        "Does"
+       ]
+      }
+     ],
+     "question": "¿Cuándo se usa does?",
+     "options": [
+      "Con he, she, it",
+      "Con I y you",
+      "En el pasado"
+     ],
+     "answer": 0,
+     "rule": "Para preguntar en presente simple se pone do o does al principio. Does va con he, she, it; do con I, you, we, they. Ojo: con does el verbo pierde la -s: Does she cook? (no cooks).",
+     "ruleExamples": [
+      {
+       "en": "Do you read? Yes, I do.",
+       "es": "¿Lees? Sí."
+      },
+      {
+       "en": "Does she drive? No, she doesn't.",
+       "es": "¿Ella maneja? No."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ you live in Pasto?",
+     "options": [
+      "Do",
+      "Does"
+     ],
+     "answer": 0,
+     "es": "¿Vives en Pasto?"
+    },
+    {
+     "type": "fill",
+     "en": "___ he work on weekends?",
+     "options": [
+      "Do",
+      "Does"
+     ],
+     "answer": 1,
+     "es": "¿Él trabaja los fines de semana?"
+    },
+    {
+     "type": "fill",
+     "en": "Does she ___ coffee?",
+     "options": [
+      "like",
+      "likes"
+     ],
+     "answer": 0,
+     "es": "¿A ella le gusta el café?",
+     "explain": "Con does el verbo va sin -s."
+    },
+    {
+     "type": "fill",
+     "en": "___ they play football?",
+     "options": [
+      "Do",
+      "Does"
+     ],
+     "answer": 0,
+     "es": "¿Ellos juegan fútbol?"
+    }
+   ]
+  },
+  {
+   "id": "u08-preguntas-l3",
+   "title": "3. Where do you live?, I live in Pasto, live…",
+   "focus": "grammar",
+   "newItems": [
+    "u08.where-do-you-live",
+    "u08.i-live-in-pasto",
+    "u08.live",
+    "u08.read"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u08.where-do-you-live",
+      "u08.i-live-in-pasto"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u08.live",
+      "u08.read"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.where-do-you-live",
+      "u08.i-live-in-pasto",
+      "u08.live",
+      "u08.read"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.where-do-you-live",
+      "u08.i-live-in-pasto",
+      "u08.live",
+      "u08.read"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.where-do-you-live",
+      "u08.i-live-in-pasto"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.yes-i-do",
+      "u08.no-i-don-t",
+      "u08.yes-she-does",
+      "u08.no-he-doesn-t",
+      "u08.i-don-t-know",
+      "u08.what-do-you-do"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Negativo: don't / doesn't",
+     "intro": "Ahora mira cómo se dice lo que NO se hace.",
+     "examples": [
+      {
+       "en": "I don't drive.",
+       "es": "No manejo.",
+       "mark": [
+        "don't"
+       ]
+      },
+      {
+       "en": "You don't cook.",
+       "es": "Tú no cocinas.",
+       "mark": [
+        "don't"
+       ]
+      },
+      {
+       "en": "She doesn't drink coffee.",
+       "es": "Ella no toma café.",
+       "mark": [
+        "doesn't"
+       ]
+      },
+      {
+       "en": "He doesn't work on weekends.",
+       "es": "Él no trabaja los fines de semana.",
+       "mark": [
+        "doesn't"
+       ]
+      },
+      {
+       "en": "We don't watch TV.",
+       "es": "No vemos televisión.",
+       "mark": [
+        "don't"
+       ]
+      }
+     ],
+     "question": "¿Qué pasa con el verbo después de doesn't?",
+     "options": [
+      "Lleva -s",
+      "Queda sin -s",
+      "Cambia a pasado"
+     ],
+     "answer": 1,
+     "rule": "Para negar se usa don't (do not) o doesn't (does not) antes del verbo. Después de doesn't el verbo queda en su forma simple: She doesn't drink (no drinks).",
+     "ruleExamples": [
+      {
+       "en": "I don't know.",
+       "es": "No sé."
+      },
+      {
+       "en": "He doesn't live here.",
+       "es": "Él no vive aquí."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "She ___ drive.",
+     "options": [
+      "don't",
+      "doesn't"
+     ],
+     "answer": 1,
+     "es": "Ella no maneja."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ cook on Mondays.",
+     "options": [
+      "don't",
+      "doesn't"
+     ],
+     "answer": 0,
+     "es": "No cocino los lunes."
+    },
+    {
+     "type": "fill",
+     "en": "He doesn't ___ TV.",
+     "options": [
+      "watch",
+      "watches"
+     ],
+     "answer": 0,
+     "es": "Él no ve televisión."
+    },
+    {
+     "type": "fill",
+     "en": "They ___ live in Bogotá.",
+     "options": [
+      "don't",
+      "doesn't"
+     ],
+     "answer": 0,
+     "es": "Ellos no viven en Bogotá."
+    }
+   ]
+  },
+  {
+   "id": "u08-preguntas-l4",
+   "title": "4. write, cook, play…",
+   "focus": "listening",
+   "newItems": [
+    "u08.write",
+    "u08.cook",
+    "u08.play",
+    "u08.listen-to-music"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u08.write",
+      "u08.cook"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u08.play",
+      "u08.listen-to-music"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.write",
+      "u08.cook",
+      "u08.play",
+      "u08.listen-to-music"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.write",
+      "u08.cook",
+      "u08.play",
+      "u08.listen-to-music"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.listen-to-music"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.i-don-t-know",
+      "u08.what-do-you-do",
+      "u08.where-do-you-live",
+      "u08.i-live-in-pasto",
+      "u08.live",
+      "u08.read"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u08-preguntas-l5",
+   "title": "5. walk, run, drive…",
+   "focus": "listening",
+   "newItems": [
+    "u08.walk",
+    "u08.run",
+    "u08.drive",
+    "u08.take-the-bus"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u08.walk",
+      "u08.run"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u08.drive",
+      "u08.take-the-bus"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.walk",
+      "u08.run",
+      "u08.drive",
+      "u08.take-the-bus"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.walk",
+      "u08.run",
+      "u08.drive",
+      "u08.take-the-bus"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.take-the-bus"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.live",
+      "u08.read",
+      "u08.write",
+      "u08.cook",
+      "u08.play",
+      "u08.listen-to-music"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🔁",
+     "title": "¿Con qué frecuencia?",
+     "text": "always, usually, sometimes y never van ANTES del verbo: I always walk to work. Pero después de am/is/are: She is never tired."
+    }
+   ]
+  },
+  {
+   "id": "u08-preguntas-l6",
+   "title": "6. do homework, always, usually…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u08.do-homework",
+    "u08.always",
+    "u08.usually",
+    "u08.sometimes"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u08.do-homework",
+      "u08.always"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u08.usually",
+      "u08.sometimes"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-homework",
+      "u08.always",
+      "u08.usually",
+      "u08.sometimes"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-homework",
+      "u08.always",
+      "u08.usually",
+      "u08.sometimes"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-homework"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.play",
+      "u08.listen-to-music",
+      "u08.walk",
+      "u08.run",
+      "u08.drive",
+      "u08.take-the-bus"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u08-preguntas-l7",
+   "title": "7. never, on weekends, after work…",
+   "focus": "reading",
+   "newItems": [
+    "u08.never",
+    "u08.on-weekends",
+    "u08.after-work",
+    "u08.before-breakfast"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u08.never",
+      "u08.on-weekends"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u08.after-work",
+      "u08.before-breakfast"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.never",
+      "u08.on-weekends",
+      "u08.after-work",
+      "u08.before-breakfast"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.never",
+      "u08.on-weekends",
+      "u08.after-work",
+      "u08.before-breakfast"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.on-weekends",
+      "u08.after-work"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.drive",
+      "u08.take-the-bus",
+      "u08.do-homework",
+      "u08.always",
+      "u08.usually",
+      "u08.sometimes"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Conociendo a un compañero",
+     "scene": "☕ En la cafetería del trabajo.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "What do you do, Leo?",
+       "es": "¿A qué te dedicas, Leo?"
+      },
+      {
+       "who": "Leo",
+       "en": "I'm a student. I study English.",
+       "es": "Soy estudiante. Estudio inglés."
+      },
+      {
+       "who": "Ana",
+       "en": "Do you work too?",
+       "es": "¿También trabajas?"
+      },
+      {
+       "who": "Leo",
+       "en": "Yes, I do. I work on weekends.",
+       "es": "Sí. Trabajo los fines de semana."
+      },
+      {
+       "who": "Ana",
+       "en": "Where do you live?",
+       "es": "¿Dónde vives?"
+      },
+      {
+       "who": "Leo",
+       "en": "I live in Pasto. And you?",
+       "es": "Vivo en Pasto. ¿Y tú?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u08-preguntas-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Dos hermanos muy diferentes",
+     "emoji": "👬",
+     "paragraphs": [
+      {
+       "en": "Tom and Ben are brothers, but they are very different.",
+       "es": "Tom y Ben son hermanos, pero son muy diferentes."
+      },
+      {
+       "en": "Tom always wakes up early. He runs before breakfast.",
+       "es": "Tom siempre se despierta temprano. Corre antes del desayuno."
+      },
+      {
+       "en": "Ben never runs. He usually sleeps until ten.",
+       "es": "Ben nunca corre. Normalmente duerme hasta las diez."
+      },
+      {
+       "en": "Tom doesn't watch TV. He reads books after work.",
+       "es": "Tom no ve televisión. Lee libros después del trabajo."
+      },
+      {
+       "en": "Ben doesn't read. He plays video games and listens to music.",
+       "es": "Ben no lee. Juega videojuegos y escucha música."
+      },
+      {
+       "en": "Do they like the same food? Yes, they do. They both love pizza!",
+       "es": "¿Les gusta la misma comida? Sí. ¡A los dos les encanta la pizza!"
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Quién corre antes del desayuno?",
+       "options": [
+        "Tom",
+        "Ben",
+        "Los dos"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hace Ben después del trabajo?",
+       "options": [
+        "Lee libros",
+        "Juega videojuegos y escucha música",
+        "Corre"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué comida les gusta a los dos?",
+       "options": [
+        "Pizza",
+        "Sopa",
+        "Arroz"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Una entrevista corta",
+     "scene": "🎤 Una compañera te hace preguntas para una encuesta.",
+     "turns": [
+      {
+       "who": "Mia",
+       "en": "Hi! Can I ask you some questions?",
+       "es": "¡Hola! ¿Te puedo hacer unas preguntas?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sure!",
+         "es": "¡Claro!",
+         "ok": true
+        },
+        {
+         "en": "I don't know.",
+         "es": "No sé.",
+         "ok": false,
+         "why": "No tiene sentido como respuesta a \"¿puedo preguntarte?\"."
+        }
+       ]
+      },
+      {
+       "who": "Mia",
+       "en": "Do you work or study?",
+       "es": "¿Trabajas o estudias?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I study. I'm a student.",
+         "es": "Estudio. Soy estudiante.",
+         "ok": true
+        },
+        {
+         "en": "Yes, she does.",
+         "es": "Sí, ella sí.",
+         "ok": false,
+         "why": "La pregunta es sobre ti, no sobre ella."
+        }
+       ]
+      },
+      {
+       "who": "Mia",
+       "en": "Do you cook at home?",
+       "es": "¿Cocinas en casa?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I do. I cook every day.",
+         "es": "Sí. Cocino todos los días.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I cook every day yesterday.",
+         "es": "Sí, cocino todos los días ayer.",
+         "ok": false,
+         "why": "\"yesterday\" (ayer) no va con una rutina."
+        }
+       ]
+      },
+      {
+       "who": "Mia",
+       "en": "Thank you! Have a nice day.",
+       "es": "¡Gracias! Que tengas un buen día."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "You too! Bye!",
+         "es": "¡Igualmente! ¡Chao!",
+         "ok": true
+        },
+        {
+         "en": "You're welcome tomorrow.",
+         "es": "De nada mañana.",
+         "ok": false,
+         "why": "No tiene sentido aquí."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Trabajas los fines de semana?",
+     "en": "Do you work on weekends?"
+    },
+    {
+     "type": "write",
+     "es": "Ella no maneja.",
+     "en": "She doesn't drive.",
+     "accept": [
+      "She does not drive."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Nunca veo televisión.",
+     "en": "I never watch TV."
+    },
+    {
+     "type": "dictation",
+     "en": "Where do you live?",
+     "es": "¿Dónde vives?"
+    },
+    {
+     "type": "dictation",
+     "en": "He doesn't work on weekends.",
+     "es": "Él no trabaja los fines de semana."
+    },
+    {
+     "type": "speak",
+     "en": "I live in Pasto. I usually walk to work.",
+     "es": "Vivo en Pasto. Normalmente camino al trabajo.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u08.do-homework",
+      "u08.always",
+      "u08.usually",
+      "u08.sometimes",
+      "u08.never",
+      "u08.on-weekends",
+      "u08.after-work",
+      "u08.before-breakfast"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

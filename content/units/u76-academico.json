@@ -1,0 +1,1507 @@
+{
+ "_generated": true,
+ "id": "u76-academico",
+ "level": "C1",
+ "title": "Inglés académico",
+ "emoji": "🎓",
+ "canDo": "Ya puedo escribir ensayos y textos académicos estructurados",
+ "summary": "Lenguaje académico, nominalización y estructuras para argumentar, citar y concluir en textos formales.",
+ "grammar": [
+  "Nominalización",
+  "Lenguaje de cautela (hedging): may, appears to"
+ ],
+ "items": [
+  {
+   "id": "u76.thesis-statement",
+   "en": "thesis statement",
+   "es": "tesis (idea central)",
+   "kind": "chunk",
+   "emoji": "📄"
+  },
+  {
+   "id": "u76.counterargument",
+   "en": "counterargument",
+   "es": "contraargumento",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "káun-ter-ar-giu-ment"
+  },
+  {
+   "id": "u76.assert",
+   "en": "assert",
+   "es": "sostener / afirmar",
+   "kind": "word",
+   "emoji": "📢",
+   "say": "a-sért"
+  },
+  {
+   "id": "u76.contend",
+   "en": "contend",
+   "es": "sostener (argumentar)",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "kon-ténd"
+  },
+  {
+   "id": "u76.illustrate",
+   "en": "illustrate",
+   "es": "ilustrar / ejemplificar",
+   "kind": "word",
+   "emoji": "🖼️",
+   "say": "í-lus-treit"
+  },
+  {
+   "id": "u76.demonstrate",
+   "en": "demonstrate",
+   "es": "demostrar",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "dé-mons-treit"
+  },
+  {
+   "id": "u76.highlight",
+   "en": "highlight",
+   "es": "destacar",
+   "kind": "word",
+   "emoji": "🖊️",
+   "say": "jái-lait"
+  },
+  {
+   "id": "u76.underpin",
+   "en": "underpin",
+   "es": "sustentar",
+   "kind": "word",
+   "emoji": "🏗️",
+   "say": "an-der-pín"
+  },
+  {
+   "id": "u76.derive-from",
+   "en": "derive from",
+   "es": "derivarse de",
+   "kind": "chunk",
+   "emoji": "🔗",
+   "say": "di-ráiv"
+  },
+  {
+   "id": "u76.stem-from",
+   "en": "stem from",
+   "es": "surgir de",
+   "kind": "chunk",
+   "emoji": "🌱"
+  },
+  {
+   "id": "u76.attribute-to",
+   "en": "attribute to",
+   "es": "atribuir a",
+   "kind": "chunk",
+   "emoji": "👉",
+   "say": "á-tri-biut"
+  },
+  {
+   "id": "u76.correlate",
+   "en": "correlate",
+   "es": "correlacionar",
+   "kind": "word",
+   "emoji": "🔗",
+   "say": "kó-re-leit"
+  },
+  {
+   "id": "u76.hypothesize",
+   "en": "hypothesize",
+   "es": "plantear una hipótesis",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "jai-pó-ze-sais"
+  },
+  {
+   "id": "u76.examine",
+   "en": "examine",
+   "es": "examinar",
+   "kind": "word",
+   "emoji": "🔍",
+   "say": "eg-sá-min"
+  },
+  {
+   "id": "u76.assess",
+   "en": "assess",
+   "es": "evaluar",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "a-sés"
+  },
+  {
+   "id": "u76.evaluate",
+   "en": "evaluate",
+   "es": "evaluar",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "i-vá-liu-eit"
+  },
+  {
+   "id": "u76.critique",
+   "en": "critique",
+   "es": "hacer una crítica",
+   "kind": "word",
+   "emoji": "🧐",
+   "say": "kri-tíik"
+  },
+  {
+   "id": "u76.synthesize",
+   "en": "synthesize",
+   "es": "sintetizar",
+   "kind": "word",
+   "emoji": "🧪",
+   "say": "sín-ze-sais"
+  },
+  {
+   "id": "u76.nominalization",
+   "en": "nominalization",
+   "es": "nominalización",
+   "kind": "word",
+   "emoji": "📝"
+  },
+  {
+   "id": "u76.sample",
+   "en": "sample",
+   "es": "muestra",
+   "kind": "word",
+   "emoji": "🧫",
+   "say": "sám-pol"
+  },
+  {
+   "id": "u76.variable",
+   "en": "variable",
+   "es": "variable",
+   "kind": "word",
+   "emoji": "🔢",
+   "say": "vé-ri-a-bol"
+  },
+  {
+   "id": "u76.significant",
+   "en": "significant",
+   "es": "significativo",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "sig-ní-fi-kant"
+  },
+  {
+   "id": "u76.substantial",
+   "en": "substantial",
+   "es": "considerable",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "sabs-tán-shal"
+  },
+  {
+   "id": "u76.negligible",
+   "en": "negligible",
+   "es": "insignificante",
+   "kind": "word",
+   "emoji": "🤏",
+   "say": "né-gli-yi-bol"
+  },
+  {
+   "id": "u76.consistent-with",
+   "en": "consistent with",
+   "es": "coherente con",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u76.in-accordance-with",
+   "en": "in accordance with",
+   "es": "de acuerdo con",
+   "kind": "chunk",
+   "emoji": "📜"
+  },
+  {
+   "id": "u76.on-the-grounds-that",
+   "en": "on the grounds that",
+   "es": "con base en que",
+   "kind": "chunk",
+   "emoji": "🏛️"
+  },
+  {
+   "id": "u76.with-respect-to",
+   "en": "with respect to",
+   "es": "con respecto a",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u76.in-terms-of",
+   "en": "in terms of",
+   "es": "en términos de",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u76.furthermore",
+   "en": "furthermore",
+   "es": "además",
+   "kind": "word",
+   "emoji": "➕",
+   "say": "fér-der-mor"
+  },
+  {
+   "id": "u76.consequently",
+   "en": "consequently",
+   "es": "por consiguiente",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "kón-se-kuent-li"
+  },
+  {
+   "id": "u76.thus",
+   "en": "thus",
+   "es": "así / por lo tanto",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "das"
+  },
+  {
+   "id": "u76.hence",
+   "en": "hence",
+   "es": "de ahí / por lo tanto",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "jens"
+  },
+  {
+   "id": "u76.conversely",
+   "en": "conversely",
+   "es": "por el contrario",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "kón-vers-li"
+  },
+  {
+   "id": "u76.in-contrast",
+   "en": "in contrast",
+   "es": "en contraste",
+   "kind": "chunk",
+   "emoji": "↔️"
+  },
+  {
+   "id": "u76.to-summarize",
+   "en": "to summarize",
+   "es": "para resumir",
+   "kind": "chunk",
+   "emoji": "🧾"
+  },
+  {
+   "id": "u76.it-is-worth-noting",
+   "en": "it is worth noting",
+   "es": "cabe señalar",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u76.it-appears-that",
+   "en": "it appears that",
+   "es": "parece que",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u76.it-could-be-argued",
+   "en": "it could be argued",
+   "es": "podría argumentarse",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u76.this-suggests-that",
+   "en": "this suggests that",
+   "es": "esto sugiere que",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u76.cite",
+   "en": "cite",
+   "es": "citar",
+   "kind": "word",
+   "emoji": "❝",
+   "say": "sáit"
+  },
+  {
+   "id": "u76.reference",
+   "en": "reference",
+   "es": "referencia",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "ré-frens"
+  },
+  {
+   "id": "u76.plagiarism",
+   "en": "plagiarism",
+   "es": "plagio",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "pléi-ya-rism"
+  },
+  {
+   "id": "u76.abstract",
+   "en": "abstract",
+   "es": "resumen (de un paper)",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "áb-strakt"
+  },
+  {
+   "id": "u76.peer-reviewed",
+   "en": "peer-reviewed",
+   "es": "revisado por pares",
+   "kind": "word",
+   "emoji": "👥"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u76-academico-l1",
+   "title": "1. thesis statement, counterargument, assert…",
+   "focus": "listening",
+   "newItems": [
+    "u76.thesis-statement",
+    "u76.counterargument",
+    "u76.assert",
+    "u76.contend",
+    "u76.illustrate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.thesis-statement",
+      "u76.counterargument"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.assert",
+      "u76.contend"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.illustrate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.thesis-statement",
+      "u76.counterargument",
+      "u76.assert",
+      "u76.contend",
+      "u76.illustrate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.thesis-statement",
+      "u76.counterargument",
+      "u76.assert",
+      "u76.contend",
+      "u76.illustrate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.thesis-statement",
+      "u76.counterargument",
+      "u76.assert",
+      "u76.contend",
+      "u76.illustrate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l2",
+   "title": "2. demonstrate, highlight, underpin…",
+   "focus": "grammar",
+   "newItems": [
+    "u76.demonstrate",
+    "u76.highlight",
+    "u76.underpin",
+    "u76.derive-from",
+    "u76.stem-from"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.demonstrate",
+      "u76.highlight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.underpin",
+      "u76.derive-from"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.stem-from"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.demonstrate",
+      "u76.highlight",
+      "u76.underpin",
+      "u76.derive-from",
+      "u76.stem-from"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.demonstrate",
+      "u76.highlight",
+      "u76.underpin",
+      "u76.derive-from",
+      "u76.stem-from"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.demonstrate",
+      "u76.highlight",
+      "u76.underpin",
+      "u76.derive-from",
+      "u76.stem-from"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.thesis-statement",
+      "u76.counterargument",
+      "u76.assert",
+      "u76.contend",
+      "u76.illustrate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Nominalización y cautela",
+     "intro": "El inglés académico convierte verbos en sustantivos y evita afirmaciones tajantes.",
+     "examples": [
+      {
+       "en": "Prices increased, so people bought less. → The increase in prices led to a reduction in consumption.",
+       "es": "Los precios subieron, así que la gente compró menos. → El aumento de precios llevó a una reducción del consumo.",
+       "mark": [
+        "increase",
+        "reduction"
+       ]
+      },
+      {
+       "en": "This proves that… → This suggests that… / The findings indicate that…",
+       "es": "Esto prueba que… → Esto sugiere que…",
+       "mark": [
+        "suggests"
+       ]
+      },
+      {
+       "en": "It is true. → It appears to be the case.",
+       "es": "Es verdad. → Parece ser el caso.",
+       "mark": [
+        "appears to"
+       ]
+      },
+      {
+       "en": "Everyone agrees. → There is broad consensus.",
+       "es": "Todos están de acuerdo. → Hay un amplio consenso.",
+       "mark": [
+        "consensus"
+       ]
+      },
+      {
+       "en": "X causes Y. → X may contribute to Y.",
+       "es": "X causa Y. → X puede contribuir a Y.",
+       "mark": [
+        "may contribute"
+       ]
+      }
+     ],
+     "question": "¿Por qué el inglés académico dice 'this suggests' en vez de 'this proves'?",
+     "options": [
+      "Para ser cauto y no afirmar de forma absoluta (hedging)",
+      "Porque es más corto",
+      "Por error"
+     ],
+     "answer": 0,
+     "rule": "El registro académico usa NOMINALIZACIÓN (convertir verbos/adjetivos en sustantivos: increase, reduction, analysis) para sonar objetivo e impersonal. También usa CAUTELA (hedging): may, might, appears to, suggests, tends to, en lugar de afirmaciones absolutas. Esto hace el texto más riguroso y profesional.",
+     "ruleExamples": [
+      {
+       "en": "The data appear to indicate a significant correlation, although further research is needed.",
+       "es": "Los datos parecen indicar una correlación significativa, aunque se requiere más investigación."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "The study ___ that exercise improves memory.",
+     "options": [
+      "suggests",
+      "proves absolutely"
+     ],
+     "answer": 0,
+     "es": "El estudio sugiere que el ejercicio mejora la memoria."
+    },
+    {
+     "type": "fill",
+     "en": "There was a significant ___ in sales.",
+     "options": [
+      "increase",
+      "increased"
+     ],
+     "answer": 0,
+     "es": "Hubo un aumento significativo en las ventas."
+    },
+    {
+     "type": "fill",
+     "en": "The results are ___ with previous research.",
+     "options": [
+      "consistent",
+      "consist"
+     ],
+     "answer": 0,
+     "es": "Los resultados son coherentes con investigaciones previas."
+    },
+    {
+     "type": "fill",
+     "en": "___, the evidence supports the hypothesis.",
+     "options": [
+      "Furthermore",
+      "Also so"
+     ],
+     "answer": 0,
+     "es": "Además, la evidencia respalda la hipótesis."
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l3",
+   "title": "3. attribute to, correlate, hypothesize…",
+   "focus": "reading",
+   "newItems": [
+    "u76.attribute-to",
+    "u76.correlate",
+    "u76.hypothesize",
+    "u76.examine",
+    "u76.assess"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.attribute-to",
+      "u76.correlate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.hypothesize",
+      "u76.examine"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.assess"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.attribute-to",
+      "u76.correlate",
+      "u76.hypothesize",
+      "u76.examine",
+      "u76.assess"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.attribute-to",
+      "u76.correlate",
+      "u76.hypothesize",
+      "u76.examine",
+      "u76.assess"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.attribute-to",
+      "u76.correlate",
+      "u76.hypothesize",
+      "u76.examine",
+      "u76.assess"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.illustrate",
+      "u76.demonstrate",
+      "u76.highlight",
+      "u76.underpin",
+      "u76.derive-from",
+      "u76.stem-from"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l4",
+   "title": "4. evaluate, critique, synthesize…",
+   "focus": "listening",
+   "newItems": [
+    "u76.evaluate",
+    "u76.critique",
+    "u76.synthesize",
+    "u76.nominalization",
+    "u76.sample"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.evaluate",
+      "u76.critique"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.synthesize",
+      "u76.nominalization"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.sample"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.evaluate",
+      "u76.critique",
+      "u76.synthesize",
+      "u76.nominalization",
+      "u76.sample"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.evaluate",
+      "u76.critique",
+      "u76.synthesize",
+      "u76.nominalization",
+      "u76.sample"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.evaluate",
+      "u76.critique",
+      "u76.synthesize",
+      "u76.nominalization",
+      "u76.sample"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.stem-from",
+      "u76.attribute-to",
+      "u76.correlate",
+      "u76.hypothesize",
+      "u76.examine",
+      "u76.assess"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l5",
+   "title": "5. variable, significant, substantial…",
+   "focus": "listening",
+   "newItems": [
+    "u76.variable",
+    "u76.significant",
+    "u76.substantial",
+    "u76.negligible",
+    "u76.consistent-with"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.variable",
+      "u76.significant"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.substantial",
+      "u76.negligible"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.consistent-with"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.variable",
+      "u76.significant",
+      "u76.substantial",
+      "u76.negligible",
+      "u76.consistent-with"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.variable",
+      "u76.significant",
+      "u76.substantial",
+      "u76.negligible",
+      "u76.consistent-with"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.variable",
+      "u76.significant",
+      "u76.substantial",
+      "u76.negligible",
+      "u76.consistent-with"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.assess",
+      "u76.evaluate",
+      "u76.critique",
+      "u76.synthesize",
+      "u76.nominalization",
+      "u76.sample"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l6",
+   "title": "6. in accordance with, on the grounds that, with respect to…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u76.in-accordance-with",
+    "u76.on-the-grounds-that",
+    "u76.with-respect-to",
+    "u76.in-terms-of",
+    "u76.furthermore"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.with-respect-to",
+      "u76.in-terms-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.furthermore"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that",
+      "u76.with-respect-to",
+      "u76.in-terms-of",
+      "u76.furthermore"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that",
+      "u76.with-respect-to",
+      "u76.in-terms-of",
+      "u76.furthermore"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that",
+      "u76.with-respect-to",
+      "u76.in-terms-of",
+      "u76.furthermore"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.sample",
+      "u76.variable",
+      "u76.significant",
+      "u76.substantial",
+      "u76.negligible",
+      "u76.consistent-with"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l7",
+   "title": "7. consequently, thus, hence…",
+   "focus": "reading",
+   "newItems": [
+    "u76.consequently",
+    "u76.thus",
+    "u76.hence",
+    "u76.conversely",
+    "u76.in-contrast"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.consequently",
+      "u76.thus"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.hence",
+      "u76.conversely"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.in-contrast"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.consequently",
+      "u76.thus",
+      "u76.hence",
+      "u76.conversely",
+      "u76.in-contrast"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.consequently",
+      "u76.thus",
+      "u76.hence",
+      "u76.conversely",
+      "u76.in-contrast"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.consequently",
+      "u76.thus",
+      "u76.hence",
+      "u76.conversely",
+      "u76.in-contrast"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.consistent-with",
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that",
+      "u76.with-respect-to",
+      "u76.in-terms-of",
+      "u76.furthermore"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Asesoría de tesis",
+     "scene": "🎓 Hablas con tu director de tesis.",
+     "lines": [
+      {
+       "who": "Advisor",
+       "en": "Your argument is interesting, but it needs stronger evidence.",
+       "es": "Tu argumento es interesante, pero necesita evidencia más sólida."
+      },
+      {
+       "who": "Student",
+       "en": "I see. Should I cite more peer-reviewed sources?",
+       "es": "Entiendo. ¿Debería citar más fuentes revisadas por pares?"
+      },
+      {
+       "who": "Advisor",
+       "en": "Exactly. And be careful with your claims. Avoid saying something is \"proven.\"",
+       "es": "Exacto. Y ten cuidado con tus afirmaciones. Evita decir que algo está \"probado\"."
+      },
+      {
+       "who": "Student",
+       "en": "So I should write \"the data suggest\" instead of \"the data prove\"?",
+       "es": "¿Entonces debería escribir \"los datos sugieren\" en vez de \"los datos prueban\"?"
+      },
+      {
+       "who": "Advisor",
+       "en": "Precisely. It conveys academic caution. Furthermore, remember to synthesize, not just summarize.",
+       "es": "Precisamente. Transmite cautela académica. Además, recuerda sintetizar, no solo resumir."
+      },
+      {
+       "who": "Student",
+       "en": "Understood. I'll revise the conclusion accordingly.",
+       "es": "Entendido. Revisaré la conclusión en consecuencia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l8",
+   "title": "8. to summarize, it is worth noting, it appears that…",
+   "focus": "listening",
+   "newItems": [
+    "u76.to-summarize",
+    "u76.it-is-worth-noting",
+    "u76.it-appears-that",
+    "u76.it-could-be-argued",
+    "u76.this-suggests-that"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.to-summarize",
+      "u76.it-is-worth-noting"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.it-appears-that",
+      "u76.it-could-be-argued"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.this-suggests-that"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.to-summarize",
+      "u76.it-is-worth-noting",
+      "u76.it-appears-that",
+      "u76.it-could-be-argued",
+      "u76.this-suggests-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.to-summarize",
+      "u76.it-is-worth-noting",
+      "u76.it-appears-that",
+      "u76.it-could-be-argued",
+      "u76.this-suggests-that"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.to-summarize",
+      "u76.it-is-worth-noting",
+      "u76.it-appears-that",
+      "u76.it-could-be-argued",
+      "u76.this-suggests-that"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.furthermore",
+      "u76.consequently",
+      "u76.thus",
+      "u76.hence",
+      "u76.conversely",
+      "u76.in-contrast"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-l9",
+   "title": "9. cite, reference, plagiarism…",
+   "focus": "listening",
+   "newItems": [
+    "u76.cite",
+    "u76.reference",
+    "u76.plagiarism",
+    "u76.abstract",
+    "u76.peer-reviewed"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u76.cite",
+      "u76.reference"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.plagiarism",
+      "u76.abstract"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.peer-reviewed"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.cite",
+      "u76.reference",
+      "u76.plagiarism",
+      "u76.abstract",
+      "u76.peer-reviewed"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.cite",
+      "u76.reference",
+      "u76.plagiarism",
+      "u76.abstract",
+      "u76.peer-reviewed"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.cite",
+      "u76.reference",
+      "u76.plagiarism",
+      "u76.abstract",
+      "u76.peer-reviewed"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.in-contrast",
+      "u76.to-summarize",
+      "u76.it-is-worth-noting",
+      "u76.it-appears-that",
+      "u76.it-could-be-argued",
+      "u76.this-suggests-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u76-academico-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El poder de una buena pregunta",
+     "emoji": "🔬",
+     "paragraphs": [
+      {
+       "en": "When Laura began her research on urban gardens, she assumed the answer was obvious.",
+       "es": "Cuando Laura empezó su investigación sobre huertas urbanas, asumió que la respuesta era obvia."
+      },
+      {
+       "en": "Her initial hypothesis was that community gardens significantly improve mental well-being.",
+       "es": "Su hipótesis inicial era que las huertas comunitarias mejoran significativamente el bienestar mental."
+      },
+      {
+       "en": "However, when she examined the data, the findings were more complex than expected.",
+       "es": "Sin embargo, cuando examinó los datos, los hallazgos fueron más complejos de lo esperado."
+      },
+      {
+       "en": "The benefits appeared to stem not from the gardening itself, but from the social interaction it fostered.",
+       "es": "Los beneficios parecían surgir no de la jardinería en sí, sino de la interacción social que fomentaba."
+      },
+      {
+       "en": "In her thesis, she was careful to note that the correlation did not necessarily imply causation.",
+       "es": "En su tesis, tuvo cuidado de señalar que la correlación no implicaba necesariamente causalidad."
+      },
+      {
+       "en": "Her advisor praised her work: \"Good research doesn't just find answers; it asks better questions.\"",
+       "es": "Su director elogió su trabajo: \"La buena investigación no solo encuentra respuestas; hace mejores preguntas.\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cuál era la hipótesis inicial de Laura?",
+       "options": [
+        "Que las huertas comunitarias mejoran el bienestar mental",
+        "Que las huertas no sirven",
+        "Que la jardinería es cara"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿De dónde parecían surgir los beneficios?",
+       "options": [
+        "De la interacción social",
+        "De las verduras",
+        "Del ejercicio"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué señaló con cuidado en su tesis?",
+       "options": [
+        "Que la correlación no implica causalidad",
+        "Que estaba segura de todo",
+        "Que no había datos"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Defender tu ensayo",
+     "scene": "🎓 Un profesor cuestiona tu trabajo.",
+     "turns": [
+      {
+       "who": "Professor",
+       "en": "You claim social media causes anxiety. That's a strong statement.",
+       "es": "Afirmas que las redes sociales causan ansiedad. Es una afirmación fuerte."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "You're right. I should say it may contribute to anxiety in some users.",
+         "es": "Tiene razón. Debería decir que puede contribuir a la ansiedad en algunos usuarios.",
+         "ok": true
+        },
+        {
+         "en": "Yes, it definitely causes it, 100 percent.",
+         "es": "Sí, definitivamente la causa, al cien por ciento.",
+         "ok": false,
+         "why": "Falta cautela académica."
+        }
+       ]
+      },
+      {
+       "who": "Professor",
+       "en": "Better. What evidence underpins your argument?",
+       "es": "Mejor. ¿Qué evidencia sustenta tu argumento?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Several peer-reviewed studies, which I cite in the second chapter.",
+         "es": "Varios estudios revisados por pares, que cito en el segundo capítulo.",
+         "ok": true
+        },
+        {
+         "en": "My own opinion.",
+         "es": "Mi propia opinión.",
+         "ok": false,
+         "why": "En un ensayo académico se necesita evidencia, no solo opinión."
+        }
+       ]
+      },
+      {
+       "who": "Professor",
+       "en": "Good. And how do you address the counterargument?",
+       "es": "Bien. ¿Y cómo abordas el contraargumento?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I acknowledge it and then evaluate the evidence on both sides.",
+         "es": "Lo reconozco y luego evalúo la evidencia de ambos lados.",
+         "ok": true
+        },
+        {
+         "en": "I ignore it.",
+         "es": "Lo ignoro.",
+         "ok": false,
+         "why": "Un buen ensayo aborda los contraargumentos."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Esto sugiere que el método funciona.",
+     "en": "This suggests that the method works."
+    },
+    {
+     "type": "write",
+     "es": "Hubo un aumento significativo en los resultados.",
+     "en": "There was a significant increase in the results."
+    },
+    {
+     "type": "write",
+     "es": "En conclusión, la evidencia respalda la hipótesis.",
+     "en": "In conclusion, the evidence supports the hypothesis."
+    },
+    {
+     "type": "dictation",
+     "en": "The findings are consistent with previous research.",
+     "es": "Los hallazgos son coherentes con investigaciones previas."
+    },
+    {
+     "type": "dictation",
+     "en": "It is worth noting that the sample was relatively small.",
+     "es": "Cabe señalar que la muestra era relativamente pequeña."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u76.it-appears-that",
+      "u76.it-could-be-argued",
+      "u76.this-suggests-that",
+      "u76.cite",
+      "u76.reference",
+      "u76.plagiarism",
+      "u76.abstract",
+      "u76.peer-reviewed"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

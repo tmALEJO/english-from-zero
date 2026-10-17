@@ -1,0 +1,1518 @@
+{
+ "_generated": true,
+ "id": "u65-deducir",
+ "level": "B2",
+ "title": "Deducir y especular",
+ "emoji": "🕵️",
+ "canDo": "Ya puedo hacer deducciones sobre el presente y el pasado",
+ "summary": "Modales de deducción: must, might, can't (be / have been) para especular con lógica.",
+ "grammar": [
+  "must / might / can't + be",
+  "must have / might have / can't have + participio"
+ ],
+ "items": [
+  {
+   "id": "u65.must-be",
+   "en": "must be",
+   "es": "debe de ser / seguro es",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u65.might-be",
+   "en": "might be",
+   "es": "puede que sea",
+   "kind": "chunk",
+   "emoji": "🎲"
+  },
+  {
+   "id": "u65.could-be",
+   "en": "could be",
+   "es": "podría ser",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u65.can-t-be",
+   "en": "can't be",
+   "es": "no puede ser",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u65.must-have-been",
+   "en": "must have been",
+   "es": "debió de haber sido",
+   "kind": "chunk",
+   "emoji": "🔙"
+  },
+  {
+   "id": "u65.might-have-forgotten",
+   "en": "might have forgotten",
+   "es": "puede que se le haya olvidado",
+   "kind": "chunk",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u65.can-t-have-seen",
+   "en": "can't have seen",
+   "es": "no pudo haber visto",
+   "kind": "chunk",
+   "emoji": "🙈"
+  },
+  {
+   "id": "u65.deduce",
+   "en": "deduce",
+   "es": "deducir",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "di-diús"
+  },
+  {
+   "id": "u65.assume",
+   "en": "assume",
+   "es": "asumir / suponer",
+   "kind": "word",
+   "emoji": "🤔",
+   "say": "a-siúm"
+  },
+  {
+   "id": "u65.assumption",
+   "en": "assumption",
+   "es": "suposición",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "a-sámp-shon"
+  },
+  {
+   "id": "u65.speculate",
+   "en": "speculate",
+   "es": "especular",
+   "kind": "word",
+   "emoji": "🌀",
+   "say": "spé-kiu-leit"
+  },
+  {
+   "id": "u65.evidence",
+   "en": "evidence",
+   "es": "pruebas / evidencia",
+   "kind": "word",
+   "emoji": "🧾",
+   "say": "é-vi-dens"
+  },
+  {
+   "id": "u65.proof",
+   "en": "proof",
+   "es": "prueba",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "pruuf"
+  },
+  {
+   "id": "u65.clue",
+   "en": "clue",
+   "es": "pista",
+   "kind": "word",
+   "emoji": "🗝️",
+   "say": "kluu"
+  },
+  {
+   "id": "u65.mystery",
+   "en": "mystery",
+   "es": "misterio",
+   "kind": "word",
+   "emoji": "❓",
+   "say": "mís-te-ri"
+  },
+  {
+   "id": "u65.detective",
+   "en": "detective",
+   "es": "detective",
+   "kind": "word",
+   "emoji": "🕵️",
+   "say": "di-ték-tiv"
+  },
+  {
+   "id": "u65.suspect",
+   "en": "suspect",
+   "es": "sospechoso / sospechar",
+   "kind": "word",
+   "emoji": "🦹",
+   "say": "sás-pekt"
+  },
+  {
+   "id": "u65.suspicious",
+   "en": "suspicious",
+   "es": "sospechoso (adj.)",
+   "kind": "word",
+   "emoji": "🤨",
+   "say": "sas-pí-shos"
+  },
+  {
+   "id": "u65.alibi",
+   "en": "alibi",
+   "es": "coartada",
+   "kind": "word",
+   "emoji": "📅",
+   "say": "á-li-bai"
+  },
+  {
+   "id": "u65.fingerprint",
+   "en": "fingerprint",
+   "es": "huella digital",
+   "kind": "word",
+   "emoji": "👆",
+   "say": "fín-ger-print"
+  },
+  {
+   "id": "u65.footprint",
+   "en": "footprint",
+   "es": "huella (de pie)",
+   "kind": "word",
+   "emoji": "👣",
+   "say": "fút-print"
+  },
+  {
+   "id": "u65.trace",
+   "en": "trace",
+   "es": "rastro",
+   "kind": "word",
+   "emoji": "🔎",
+   "say": "tréis"
+  },
+  {
+   "id": "u65.missing",
+   "en": "missing",
+   "es": "desaparecido / que falta",
+   "kind": "word",
+   "emoji": "❔",
+   "say": "mí-sing"
+  },
+  {
+   "id": "u65.obvious",
+   "en": "obvious",
+   "es": "obvio",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "ób-vi-os"
+  },
+  {
+   "id": "u65.logical",
+   "en": "logical",
+   "es": "lógico",
+   "kind": "word",
+   "emoji": "🧮",
+   "say": "ló-yi-kal"
+  },
+  {
+   "id": "u65.certainly",
+   "en": "certainly",
+   "es": "ciertamente",
+   "kind": "word",
+   "emoji": "✔️",
+   "say": "sér-ten-li"
+  },
+  {
+   "id": "u65.possibly",
+   "en": "possibly",
+   "es": "posiblemente",
+   "kind": "word",
+   "emoji": "🎲",
+   "say": "pó-si-bli"
+  },
+  {
+   "id": "u65.judging-by",
+   "en": "judging by",
+   "es": "a juzgar por",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u65.it-looks-like",
+   "en": "it looks like",
+   "es": "parece que",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u65.it-seems-that",
+   "en": "it seems that",
+   "es": "parece que",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u65.there-s-no-way",
+   "en": "there's no way",
+   "es": "de ninguna manera",
+   "kind": "chunk",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u65.for-sure",
+   "en": "for sure",
+   "es": "con seguridad",
+   "kind": "chunk",
+   "emoji": "💯"
+  },
+  {
+   "id": "u65.i-bet",
+   "en": "I bet",
+   "es": "apuesto a que",
+   "kind": "chunk",
+   "emoji": "🎰"
+  },
+  {
+   "id": "u65.no-wonder",
+   "en": "no wonder",
+   "es": "con razón",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u65.that-explains-it",
+   "en": "That explains it",
+   "es": "Eso lo explica",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u65.what-could-have-happened",
+   "en": "What could have happened?",
+   "es": "¿Qué pudo haber pasado?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u65.she-must-be-exhausted",
+   "en": "She must be exhausted",
+   "es": "Debe de estar agotada",
+   "kind": "chunk",
+   "emoji": "😩"
+  },
+  {
+   "id": "u65.exhausted",
+   "en": "exhausted",
+   "es": "agotado",
+   "kind": "word",
+   "emoji": "😫",
+   "say": "eg-sós-ted"
+  },
+  {
+   "id": "u65.starving",
+   "en": "starving",
+   "es": "muerto de hambre",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "stár-ving"
+  },
+  {
+   "id": "u65.freezing",
+   "en": "freezing",
+   "es": "muerto de frío",
+   "kind": "word",
+   "emoji": "🥶",
+   "say": "fríi-sing"
+  },
+  {
+   "id": "u65.soaked",
+   "en": "soaked",
+   "es": "empapado",
+   "kind": "word",
+   "emoji": "💦",
+   "say": "sóukt"
+  },
+  {
+   "id": "u65.thrilled",
+   "en": "thrilled",
+   "es": "emocionadísimo",
+   "kind": "word",
+   "emoji": "🤩",
+   "say": "zrild"
+  },
+  {
+   "id": "u65.puzzled",
+   "en": "puzzled",
+   "es": "desconcertado",
+   "kind": "word",
+   "emoji": "🧩",
+   "say": "pá-sold"
+  },
+  {
+   "id": "u65.astonished",
+   "en": "astonished",
+   "es": "asombrado",
+   "kind": "word",
+   "emoji": "😲",
+   "say": "as-tó-nisht"
+  },
+  {
+   "id": "u65.relieved",
+   "en": "relieved",
+   "es": "aliviado",
+   "kind": "word",
+   "emoji": "😮‍💨",
+   "say": "ri-líivd"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u65-deducir-l1",
+   "title": "1. must be, might be, could be…",
+   "focus": "listening",
+   "newItems": [
+    "u65.must-be",
+    "u65.might-be",
+    "u65.could-be",
+    "u65.can-t-be",
+    "u65.must-have-been"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.must-be",
+      "u65.might-be"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.could-be",
+      "u65.can-t-be"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.must-have-been"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.must-be",
+      "u65.might-be",
+      "u65.could-be",
+      "u65.can-t-be",
+      "u65.must-have-been"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.must-be",
+      "u65.might-be",
+      "u65.could-be",
+      "u65.can-t-be",
+      "u65.must-have-been"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.must-be",
+      "u65.might-be",
+      "u65.could-be",
+      "u65.can-t-be",
+      "u65.must-have-been"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l2",
+   "title": "2. might have forgotten, can't have seen, deduce…",
+   "focus": "grammar",
+   "newItems": [
+    "u65.might-have-forgotten",
+    "u65.can-t-have-seen",
+    "u65.deduce",
+    "u65.assume",
+    "u65.assumption"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.might-have-forgotten",
+      "u65.can-t-have-seen"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.deduce",
+      "u65.assume"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.assumption"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.might-have-forgotten",
+      "u65.can-t-have-seen",
+      "u65.deduce",
+      "u65.assume",
+      "u65.assumption"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.might-have-forgotten",
+      "u65.can-t-have-seen",
+      "u65.deduce",
+      "u65.assume",
+      "u65.assumption"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.might-have-forgotten",
+      "u65.can-t-have-seen",
+      "u65.deduce",
+      "u65.assume",
+      "u65.assumption"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.must-be",
+      "u65.might-be",
+      "u65.could-be",
+      "u65.can-t-be",
+      "u65.must-have-been"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Deducciones sobre el presente y el pasado",
+     "intro": "El detective saca conclusiones. Mira qué tan seguro está.",
+     "examples": [
+      {
+       "en": "The lights are on. They must be at home.",
+       "es": "Las luces están prendidas. Seguro están en casa.",
+       "mark": [
+        "must be"
+       ]
+      },
+      {
+       "en": "She isn't answering. She might be busy.",
+       "es": "No contesta. Puede que esté ocupada.",
+       "mark": [
+        "might be"
+       ]
+      },
+      {
+       "en": "He can't be hungry. He just ate.",
+       "es": "No puede tener hambre. Acaba de comer.",
+       "mark": [
+        "can't be"
+       ]
+      },
+      {
+       "en": "The ground is wet. It must have rained.",
+       "es": "El suelo está mojado. Debió de haber llovido.",
+       "mark": [
+        "must have rained"
+       ]
+      },
+      {
+       "en": "He didn't come. He might have forgotten.",
+       "es": "No vino. Puede que se le haya olvidado.",
+       "mark": [
+        "might have forgotten"
+       ]
+      },
+      {
+       "en": "She can't have seen me. I was hiding.",
+       "es": "No pudo haberme visto. Estaba escondido.",
+       "mark": [
+        "can't have seen"
+       ]
+      }
+     ],
+     "question": "Para deducir algo del PASADO, ¿qué estructura se usa?",
+     "options": [
+      "must / might / can't + have + participio",
+      "must / might + verbo en pasado",
+      "did + must"
+     ],
+     "answer": 0,
+     "rule": "Modales de DEDUCCIÓN: must = casi seguro que sí; might / could / may = posible; can't = casi seguro que no. Presente: modal + be / verbo (She must be tired). Pasado: modal + have + participio (She must have been tired). Ojo: para 'casi seguro que no' se usa can't, no mustn't.",
+     "ruleExamples": [
+      {
+       "en": "You must be Laura! I've heard so much about you.",
+       "es": "¡Tú debes de ser Laura! He oído mucho de ti."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "He's been working for 12 hours. He ___ be exhausted.",
+     "options": [
+      "must",
+      "can't"
+     ],
+     "answer": 0,
+     "es": "Lleva 12 horas trabajando. Debe de estar agotado."
+    },
+    {
+     "type": "fill",
+     "en": "That ___ be true! I saw her yesterday.",
+     "options": [
+      "can't",
+      "must"
+     ],
+     "answer": 0,
+     "es": "¡Eso no puede ser cierto! La vi ayer."
+    },
+    {
+     "type": "fill",
+     "en": "The door was open. Someone ___ have forgotten to lock it.",
+     "options": [
+      "must",
+      "can't"
+     ],
+     "answer": 0,
+     "es": "La puerta estaba abierta. Alguien debió de olvidar cerrarla."
+    },
+    {
+     "type": "fill",
+     "en": "I'm not sure where Ana is. She ___ be at the gym.",
+     "options": [
+      "might",
+      "must have"
+     ],
+     "answer": 0,
+     "es": "No estoy seguro de dónde está Ana. Puede que esté en el gimnasio."
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l3",
+   "title": "3. speculate, evidence, proof…",
+   "focus": "reading",
+   "newItems": [
+    "u65.speculate",
+    "u65.evidence",
+    "u65.proof",
+    "u65.clue",
+    "u65.mystery"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.speculate",
+      "u65.evidence"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.proof",
+      "u65.clue"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.mystery"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.speculate",
+      "u65.evidence",
+      "u65.proof",
+      "u65.clue",
+      "u65.mystery"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.speculate",
+      "u65.evidence",
+      "u65.proof",
+      "u65.clue",
+      "u65.mystery"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.speculate",
+      "u65.evidence",
+      "u65.proof",
+      "u65.clue",
+      "u65.mystery"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.must-have-been",
+      "u65.might-have-forgotten",
+      "u65.can-t-have-seen",
+      "u65.deduce",
+      "u65.assume",
+      "u65.assumption"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l4",
+   "title": "4. detective, suspect, suspicious…",
+   "focus": "listening",
+   "newItems": [
+    "u65.detective",
+    "u65.suspect",
+    "u65.suspicious",
+    "u65.alibi",
+    "u65.fingerprint"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.detective",
+      "u65.suspect"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.suspicious",
+      "u65.alibi"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.fingerprint"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.detective",
+      "u65.suspect",
+      "u65.suspicious",
+      "u65.alibi",
+      "u65.fingerprint"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.detective",
+      "u65.suspect",
+      "u65.suspicious",
+      "u65.alibi",
+      "u65.fingerprint"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.detective",
+      "u65.suspect",
+      "u65.suspicious",
+      "u65.alibi",
+      "u65.fingerprint"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.assumption",
+      "u65.speculate",
+      "u65.evidence",
+      "u65.proof",
+      "u65.clue",
+      "u65.mystery"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l5",
+   "title": "5. footprint, trace, missing…",
+   "focus": "listening",
+   "newItems": [
+    "u65.footprint",
+    "u65.trace",
+    "u65.missing",
+    "u65.obvious",
+    "u65.logical"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.footprint",
+      "u65.trace"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.missing",
+      "u65.obvious"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.logical"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.footprint",
+      "u65.trace",
+      "u65.missing",
+      "u65.obvious",
+      "u65.logical"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.footprint",
+      "u65.trace",
+      "u65.missing",
+      "u65.obvious",
+      "u65.logical"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.footprint",
+      "u65.trace",
+      "u65.missing",
+      "u65.obvious",
+      "u65.logical"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.mystery",
+      "u65.detective",
+      "u65.suspect",
+      "u65.suspicious",
+      "u65.alibi",
+      "u65.fingerprint"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l6",
+   "title": "6. certainly, possibly, judging by…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u65.certainly",
+    "u65.possibly",
+    "u65.judging-by",
+    "u65.it-looks-like",
+    "u65.it-seems-that"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.certainly",
+      "u65.possibly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.judging-by",
+      "u65.it-looks-like"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.it-seems-that"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.certainly",
+      "u65.possibly",
+      "u65.judging-by",
+      "u65.it-looks-like",
+      "u65.it-seems-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.certainly",
+      "u65.possibly",
+      "u65.judging-by",
+      "u65.it-looks-like",
+      "u65.it-seems-that"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.certainly",
+      "u65.possibly",
+      "u65.judging-by",
+      "u65.it-looks-like",
+      "u65.it-seems-that"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.fingerprint",
+      "u65.footprint",
+      "u65.trace",
+      "u65.missing",
+      "u65.obvious",
+      "u65.logical"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l7",
+   "title": "7. there's no way, for sure, I bet…",
+   "focus": "reading",
+   "newItems": [
+    "u65.there-s-no-way",
+    "u65.for-sure",
+    "u65.i-bet",
+    "u65.no-wonder",
+    "u65.that-explains-it"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.there-s-no-way",
+      "u65.for-sure"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.i-bet",
+      "u65.no-wonder"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.that-explains-it"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.there-s-no-way",
+      "u65.for-sure",
+      "u65.i-bet",
+      "u65.no-wonder",
+      "u65.that-explains-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.there-s-no-way",
+      "u65.for-sure",
+      "u65.i-bet",
+      "u65.no-wonder",
+      "u65.that-explains-it"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.there-s-no-way",
+      "u65.for-sure",
+      "u65.i-bet",
+      "u65.no-wonder",
+      "u65.that-explains-it"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.logical",
+      "u65.certainly",
+      "u65.possibly",
+      "u65.judging-by",
+      "u65.it-looks-like",
+      "u65.it-seems-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Dónde está Daniel?",
+     "scene": "📱 Daniel no llegó a la reunión.",
+     "lines": [
+      {
+       "who": "Laura",
+       "en": "Daniel isn't here yet. The meeting started twenty minutes ago.",
+       "es": "Daniel todavía no llega. La reunión empezó hace veinte minutos."
+      },
+      {
+       "who": "Mario",
+       "en": "He must be stuck in traffic. There's a protest downtown.",
+       "es": "Debe de estar atascado en el tráfico. Hay una protesta en el centro."
+      },
+      {
+       "who": "Laura",
+       "en": "But he lives five minutes away.",
+       "es": "Pero vive a cinco minutos."
+      },
+      {
+       "who": "Mario",
+       "en": "Then he might have overslept. He was working late last night.",
+       "es": "Entonces puede que se haya quedado dormido. Anoche trabajó hasta tarde."
+      },
+      {
+       "who": "Laura",
+       "en": "He can't have forgotten the meeting. He organized it!",
+       "es": "No pudo haber olvidado la reunión. ¡Él la organizó!"
+      },
+      {
+       "who": "Mario",
+       "en": "Look, a message: \"Sorry, my phone died.\" No wonder!",
+       "es": "Mira, un mensaje: \"Perdón, se me descargó el celular.\" ¡Con razón!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l8",
+   "title": "8. What could have happened?, She must be exhausted, exhausted…",
+   "focus": "listening",
+   "newItems": [
+    "u65.what-could-have-happened",
+    "u65.she-must-be-exhausted",
+    "u65.exhausted",
+    "u65.starving",
+    "u65.freezing"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.what-could-have-happened",
+      "u65.she-must-be-exhausted"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.exhausted",
+      "u65.starving"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.freezing"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.what-could-have-happened",
+      "u65.she-must-be-exhausted",
+      "u65.exhausted",
+      "u65.starving",
+      "u65.freezing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.what-could-have-happened",
+      "u65.she-must-be-exhausted",
+      "u65.exhausted",
+      "u65.starving",
+      "u65.freezing"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.what-could-have-happened",
+      "u65.she-must-be-exhausted",
+      "u65.exhausted",
+      "u65.starving",
+      "u65.freezing"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.it-seems-that",
+      "u65.there-s-no-way",
+      "u65.for-sure",
+      "u65.i-bet",
+      "u65.no-wonder",
+      "u65.that-explains-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-l9",
+   "title": "9. soaked, thrilled, puzzled…",
+   "focus": "listening",
+   "newItems": [
+    "u65.soaked",
+    "u65.thrilled",
+    "u65.puzzled",
+    "u65.astonished",
+    "u65.relieved"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u65.soaked",
+      "u65.thrilled"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.puzzled",
+      "u65.astonished"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.relieved"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.soaked",
+      "u65.thrilled",
+      "u65.puzzled",
+      "u65.astonished",
+      "u65.relieved"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.soaked",
+      "u65.thrilled",
+      "u65.puzzled",
+      "u65.astonished",
+      "u65.relieved"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.soaked",
+      "u65.thrilled",
+      "u65.puzzled",
+      "u65.astonished",
+      "u65.relieved"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.that-explains-it",
+      "u65.what-could-have-happened",
+      "u65.she-must-be-exhausted",
+      "u65.exhausted",
+      "u65.starving",
+      "u65.freezing"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u65-deducir-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El misterio del jardín",
+     "emoji": "🔍",
+     "paragraphs": [
+      {
+       "en": "One morning Mrs. Ortiz found that all the tomatoes in her garden had disappeared.",
+       "es": "Una mañana la señora Ortiz encontró que todos los tomates de su jardín habían desaparecido."
+      },
+      {
+       "en": "The gate was closed, so it can't have been a stranger from the street.",
+       "es": "La reja estaba cerrada, así que no pudo haber sido un desconocido de la calle."
+      },
+      {
+       "en": "There were small footprints in the soil. \"It must have been a child,\" she thought.",
+       "es": "Había huellas pequeñas en la tierra. \"Debió de ser un niño\", pensó."
+      },
+      {
+       "en": "But the footprints had four toes. They couldn't have been human.",
+       "es": "Pero las huellas tenían cuatro dedos. No podían ser humanas."
+      },
+      {
+       "en": "That night she waited behind the window. At midnight she saw the thief: a raccoon!",
+       "es": "Esa noche esperó detrás de la ventana. A la medianoche vio al ladrón: ¡un mapache!"
+      },
+      {
+       "en": "\"That explains it,\" she laughed. \"He must have been starving.\"",
+       "es": "\"Eso lo explica\", se rió. \"Debía de estar muerto de hambre.\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué no pudo ser un desconocido de la calle?",
+       "options": [
+        "Porque la reja estaba cerrada",
+        "Porque había un perro",
+        "Porque llovía"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué tenían de raro las huellas?",
+       "options": [
+        "Eran muy grandes",
+        "Tenían cuatro dedos",
+        "Eran de zapatos"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Quién era el ladrón?",
+       "options": [
+        "Un niño",
+        "Un mapache",
+        "El vecino"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Hacer de detective",
+     "scene": "🧐 Tu compañero encuentra la nevera vacía.",
+     "turns": [
+      {
+       "who": "Roommate",
+       "en": "All the food in the fridge is gone! What happened?",
+       "es": "¡Se acabó toda la comida de la nevera! ¿Qué pasó?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Your brother was here last night. He must have eaten it.",
+         "es": "Tu hermano estuvo aquí anoche. Debe de habérsela comido.",
+         "ok": true
+        },
+        {
+         "en": "Your brother must eat it yesterday.",
+         "es": "Tu hermano debe comérsela ayer.",
+         "ok": false,
+         "why": "Para el pasado: \"must have eaten\"."
+        }
+       ]
+      },
+      {
+       "who": "Roommate",
+       "en": "No way. He's on a diet.",
+       "es": "Imposible. Está a dieta."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Then it can't have been him. Maybe the fridge broke?",
+         "es": "Entonces no pudo haber sido él. ¿Tal vez se dañó la nevera?",
+         "ok": true
+        },
+        {
+         "en": "Then it mustn't have been him.",
+         "es": "Entonces no debe haber sido él.",
+         "ok": false,
+         "why": "Para \"casi seguro que no\" se usa \"can't have\"."
+        }
+       ]
+      },
+      {
+       "who": "Roommate",
+       "en": "Oh… you're right. The fridge broke on Monday!",
+       "es": "Ay… tienes razón. ¡La nevera se dañó el lunes!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No wonder it's empty!",
+         "es": "¡Con razón está vacía!",
+         "ok": true
+        },
+        {
+         "en": "I bet you're thrilled.",
+         "es": "Apuesto a que estás emocionadísimo.",
+         "ok": false,
+         "why": "No encaja."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Debe de estar cansado.",
+     "en": "He must be tired.",
+     "accept": [
+      "She must be tired."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No puede ser cierto.",
+     "en": "It can't be true.",
+     "accept": [
+      "That can't be true.",
+      "It cannot be true."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Debió de haber llovido anoche.",
+     "en": "It must have rained last night."
+    },
+    {
+     "type": "dictation",
+     "en": "She might have missed the bus.",
+     "es": "Puede que haya perdido el bus."
+    },
+    {
+     "type": "dictation",
+     "en": "That can't have been an accident.",
+     "es": "Eso no pudo haber sido un accidente."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u65.exhausted",
+      "u65.starving",
+      "u65.freezing",
+      "u65.soaked",
+      "u65.thrilled",
+      "u65.puzzled",
+      "u65.astonished",
+      "u65.relieved"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

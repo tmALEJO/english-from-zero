@@ -25,7 +25,7 @@ export interface Item {
 export type Focus = 'listening' | 'reading' | 'pronunciation' | 'grammar' | 'speaking' | 'vocabulary';
 
 /** Modos de práctica que el motor sabe generar automáticamente a partir de un ítem. */
-export type AutoMode = 'listen-pick' | 'read-pick' | 'picture-pick' | 'build' | 'speak';
+export type AutoMode = 'listen-pick' | 'read-pick' | 'picture-pick' | 'build' | 'speak' | 'dictation';
 
 export type Activity =
   | { type: 'present'; items: string[]; note?: string }
@@ -54,7 +54,17 @@ export type Activity =
       ruleExamples?: { en: string; es: string }[];
     }
   | { type: 'speak'; en: string; es: string; note?: string }
-  | { type: 'tip'; title: string; text: string; emoji?: string };
+  | { type: 'tip'; title: string; text: string; emoji?: string }
+  /** Dictado: escuchas y escribes. Entrena oído y ortografía a la vez. */
+  | { type: 'dictation'; en: string; es?: string }
+  /** Escritura guiada: ves la idea en español y la escribes en inglés. */
+  | { type: 'write'; es: string; en: string; accept?: string[]; hint?: string }
+  /** Juego de rol: una conversación donde tú eliges (o dices) tu respuesta. */
+  | { type: 'roleplay'; title: string; scene?: string; turns: RoleTurn[] };
+
+export type RoleTurn =
+  | { who: string; en: string; es: string }
+  | { you: true; options: { en: string; es: string; ok: boolean; why?: string }[] };
 
 export interface Lesson {
   id: string;
@@ -96,9 +106,36 @@ export interface LevelInfo {
   description: string;
 }
 
+/** Examen: de control (cada bloque de unidades) o final de nivel (certifica el nivel). */
+export interface ExamRef {
+  id: string;
+  level: LevelId;
+  kind: 'checkpoint' | 'final';
+  title: string;
+  /** El examen aparece en la ruta justo después de esta unidad. */
+  afterUnit: string;
+  /** Unidades que evalúa. */
+  units: string[];
+  questions: number;
+  passPct: number;
+}
+
 export interface Curriculum {
   levels: LevelInfo[];
   units: CurriculumUnitRef[];
+  exams: ExamRef[];
+}
+
+/** Lectura de la Biblioteca: texto largo graduado, para leer, escuchar, hacer shadowing y dictado. */
+export interface Reading {
+  id: string;
+  level: LevelId;
+  title: string;
+  emoji: string;
+  kind: 'story' | 'dialogue' | 'article' | 'real-speech';
+  summary: string;
+  sentences: { en: string; es: string; who?: string }[];
+  questions?: { q: string; options: string[]; answer: number }[];
 }
 
 /** Entrada extra del diccionario (palabras que aparecen en historias pero no son ítems de unidad). */
@@ -138,10 +175,13 @@ export type Step =
       rule: string;
       ruleExamples?: { en: string; es: string }[];
     }
-  | { kind: 'tip'; title: string; text: string; emoji?: string };
+  | { kind: 'tip'; title: string; text: string; emoji?: string }
+  | { kind: 'dictation'; en: string; es?: string; itemId?: string }
+  | { kind: 'write'; es: string; en: string; accept?: string[]; hint?: string }
+  | { kind: 'roleplay'; title: string; scene?: string; turns: RoleTurn[] };
 
 /** Pasos que se califican (los demás son input: se leen/escuchan y se continúa). */
-export const GRADED: Step['kind'][] = ['listen-pick', 'read-pick', 'picture-pick', 'build', 'minimal-pair', 'fill', 'question', 'discover'];
+export const GRADED: Step['kind'][] = ['listen-pick', 'read-pick', 'picture-pick', 'build', 'minimal-pair', 'fill', 'question', 'discover', 'dictation', 'write', 'roleplay'];
 
 // ─────────────────────────────────────────────────────────────
 // Datos del usuario (IndexedDB)
@@ -176,7 +216,7 @@ export interface LessonRow {
 export interface HistoryRow {
   id: string;
   at: number;
-  type: 'lesson' | 'review' | 'practice';
+  type: 'lesson' | 'review' | 'practice' | 'test' | 'exam' | 'reading';
   refId: string;
   title: string;
   correct: number;
@@ -194,6 +234,13 @@ export interface Settings {
   reviewSize: number;
   warmupSize: number;
   learnerName: string;
+  /** Velocidad natural para escucha avanzada (Biblioteca y niveles B1+). */
+  naturalSpeed: boolean;
+  /** Usar voces distintas (y acentos) para cada personaje. */
+  multiVoice: boolean;
+  /** IA local opcional (Ollama) para conversar. */
+  aiUrl: string;
+  aiModel: string;
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -205,4 +252,8 @@ export const DEFAULT_SETTINGS: Settings = {
   reviewSize: 15,
   warmupSize: 3,
   learnerName: '',
+  naturalSpeed: false,
+  multiVoice: true,
+  aiUrl: 'http://localhost:11434',
+  aiModel: 'llama3.2:3b',
 };

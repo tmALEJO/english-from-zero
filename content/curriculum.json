@@ -1,56 +1,1275 @@
 {
-  "levels": [
-    { "id": "A0", "name": "Primeros pasos", "description": "Sonidos, saludos y frases para sobrevivir el primer minuto de conversación." },
-    { "id": "A1", "name": "Principiante", "description": "Hablas de ti, tu familia y tu día. Pides comida, preguntas precios y direcciones." },
-    { "id": "A2", "name": "Elemental", "description": "Cuentas lo que pasó, haces planes y te defiendes en viajes y compras." },
-    { "id": "B1", "name": "Intermedio", "description": "Mantienes conversaciones sobre temas conocidos, das opiniones y explicas razones." },
-    { "id": "B2", "name": "Intermedio alto", "description": "Discutes con fluidez, entiendes series y noticias, escribes textos claros y detallados." },
-    { "id": "C1", "name": "Avanzado", "description": "Usas el idioma con flexibilidad en lo social, académico y profesional." }
-  ],
-  "units": [
-    { "id": "u00-sonidos", "level": "A0", "title": "Los sonidos del inglés", "emoji": "👂", "canDo": "Ya distingo los sonidos que más confunden a un hispanohablante", "grammar": [], "status": "ready" },
-    { "id": "u01-saludos", "level": "A0", "title": "Hola y adiós", "emoji": "👋", "canDo": "Ya puedo saludar, agradecer y despedirme", "status": "ready" },
-    { "id": "u02-presentarse", "level": "A0", "title": "Me presento", "emoji": "🙋", "canDo": "Ya puedo presentarme", "grammar": ["Verbo to be: I am / you are"], "status": "ready" },
-    { "id": "u03-numeros", "level": "A0", "title": "Números y precios", "emoji": "🔢", "canDo": "Ya puedo preguntar cuánto cuesta algo", "status": "ready" },
-    { "id": "u04-colores", "level": "A0", "title": "Colores y cosas", "emoji": "🎨", "canDo": "Ya puedo describir objetos por su color", "grammar": ["Artículos a / an", "Adjetivo antes del sustantivo"], "status": "ready" },
-
-    { "id": "u05-familia", "level": "A1", "title": "Mi familia", "emoji": "👨‍👩‍👧", "canDo": "Ya puedo hablar de mi familia", "grammar": ["Verbo to be completo: he/she/we/they", "Posesivos my / your / his / her"], "status": "ready" },
-    { "id": "u06-restaurante", "level": "A1", "title": "En el restaurante", "emoji": "🍽️", "canDo": "Ya puedo pedir comida en un restaurante", "grammar": ["I'd like… / Can I have…?"], "status": "ready" },
-    { "id": "u07-mi-dia", "level": "A1", "title": "Mi día", "emoji": "⏰", "canDo": "Ya puedo contar mi rutina diaria", "grammar": ["Presente simple: I work / she works"], "status": "ready" },
-    { "id": "u08-preguntas", "level": "A1", "title": "Haciendo preguntas", "emoji": "❓", "canDo": "Ya puedo hacer preguntas sobre la rutina de otros", "grammar": ["Do / Does", "Negativo: don't / doesn't"], "status": "planned" },
-    { "id": "u09-hora", "level": "A1", "title": "La hora y los días", "emoji": "🗓️", "canDo": "Ya puedo decir la hora y concretar una cita", "grammar": ["Preposiciones at / on / in"], "status": "planned" },
-    { "id": "u10-casa", "level": "A1", "title": "Mi casa", "emoji": "🏠", "canDo": "Ya puedo describir dónde vivo", "grammar": ["There is / there are"], "status": "planned" },
-    { "id": "u11-compras", "level": "A1", "title": "Ropa y compras", "emoji": "🛍️", "canDo": "Ya puedo comprar ropa y pedir otra talla", "grammar": ["This / that / these / those"], "status": "planned" },
-    { "id": "u12-habilidades", "level": "A1", "title": "Lo que sé hacer", "emoji": "🎸", "canDo": "Ya puedo decir lo que sé y no sé hacer", "grammar": ["Can / can't"], "status": "planned" },
-    { "id": "u13-ciudad", "level": "A1", "title": "Por la ciudad", "emoji": "🗺️", "canDo": "Ya puedo pedir y dar direcciones", "grammar": ["Imperativo", "Preposiciones de lugar"], "status": "planned" },
-    { "id": "u14-ahora", "level": "A1", "title": "Lo que pasa ahora", "emoji": "📱", "canDo": "Ya puedo contar lo que estoy haciendo ahora mismo", "grammar": ["Presente continuo: I'm working"], "status": "planned" },
-
-    { "id": "u15-ayer", "level": "A2", "title": "¿Dónde estabas?", "emoji": "🕰️", "canDo": "Ya puedo decir dónde estuve y cómo estuvo", "grammar": ["Pasado de to be: was / were"], "status": "planned" },
-    { "id": "u16-fin-de-semana", "level": "A2", "title": "Mi fin de semana", "emoji": "🏖️", "canDo": "Ya puedo contar lo que hice el fin de semana", "grammar": ["Pasado simple regular: -ed"], "status": "planned" },
-    { "id": "u17-historias", "level": "A2", "title": "Historias que pasaron", "emoji": "📖", "canDo": "Ya puedo narrar una historia corta en pasado", "grammar": ["Verbos irregulares más usados", "Did / didn't"], "status": "planned" },
-    { "id": "u18-planes", "level": "A2", "title": "Planes", "emoji": "🧳", "canDo": "Ya puedo hablar de mis planes", "grammar": ["Going to"], "status": "planned" },
-    { "id": "u19-comparar", "level": "A2", "title": "Comparando cosas", "emoji": "⚖️", "canDo": "Ya puedo comparar productos y lugares", "grammar": ["Comparativos y superlativos"], "status": "planned" },
-    { "id": "u20-salud", "level": "A2", "title": "En el médico", "emoji": "🩺", "canDo": "Ya puedo explicar qué me duele", "grammar": ["Should / shouldn't"], "status": "planned" },
-    { "id": "u21-viaje", "level": "A2", "title": "De viaje", "emoji": "✈️", "canDo": "Ya puedo moverme en un aeropuerto y un hotel", "grammar": ["Can / could para pedir cosas"], "status": "planned" },
-    { "id": "u22-cantidades", "level": "A2", "title": "Mercado y cantidades", "emoji": "🧺", "canDo": "Ya puedo hacer el mercado en inglés", "grammar": ["Some / any", "How much / how many"], "status": "planned" },
-
-    { "id": "u23-experiencias", "level": "B1", "title": "Experiencias de vida", "emoji": "🌍", "canDo": "Ya puedo hablar de experiencias que he tenido", "grammar": ["Present perfect: I have been"], "status": "planned" },
-    { "id": "u24-futuro", "level": "B1", "title": "Predicciones y promesas", "emoji": "🔮", "canDo": "Ya puedo hacer predicciones y promesas", "grammar": ["Will vs going to"], "status": "planned" },
-    { "id": "u25-si", "level": "B1", "title": "Si pasa esto…", "emoji": "🔀", "canDo": "Ya puedo hablar de condiciones reales", "grammar": ["Condicional cero y primero"], "status": "planned" },
-    { "id": "u26-trabajo", "level": "B1", "title": "El trabajo", "emoji": "💼", "canDo": "Ya puedo presentarme en una entrevista de trabajo", "grammar": ["Present perfect vs pasado simple"], "status": "planned" },
-    { "id": "u27-opiniones", "level": "B1", "title": "Dando opiniones", "emoji": "💬", "canDo": "Ya puedo dar y defender una opinión", "grammar": ["Conectores: because, although, however"], "status": "planned" },
-    { "id": "u28-phrasal", "level": "B1", "title": "Phrasal verbs del día a día", "emoji": "🧩", "canDo": "Ya entiendo los phrasal verbs más comunes", "grammar": ["Phrasal verbs"], "status": "planned" },
-    { "id": "u29-obligaciones", "level": "B1", "title": "Reglas y obligaciones", "emoji": "📋", "canDo": "Ya puedo explicar reglas y obligaciones", "grammar": ["Must / have to / don't have to"], "status": "planned" },
-
-    { "id": "u30-noticias", "level": "B2", "title": "Noticias y medios", "emoji": "📰", "canDo": "Ya puedo entender y resumir una noticia", "grammar": ["Voz pasiva"], "status": "planned" },
-    { "id": "u31-imaginar", "level": "B2", "title": "Imaginar y lamentar", "emoji": "💭", "canDo": "Ya puedo hablar de situaciones imaginarias", "grammar": ["Segundo y tercer condicional", "I wish"], "status": "planned" },
-    { "id": "u32-contar", "level": "B2", "title": "Lo que dijo", "emoji": "🗣️", "canDo": "Ya puedo contar lo que otra persona dijo", "grammar": ["Estilo indirecto"], "status": "planned" },
-    { "id": "u33-describir", "level": "B2", "title": "Describir con precisión", "emoji": "🔍", "canDo": "Ya puedo describir personas y cosas con detalle", "grammar": ["Oraciones de relativo"], "status": "planned" },
-    { "id": "u34-series", "level": "B2", "title": "Series y conversación real", "emoji": "🎬", "canDo": "Ya entiendo conversaciones naturales y rápidas", "grammar": ["Reducciones: gonna, wanna, gotta"], "status": "planned" },
-    { "id": "u35-debate", "level": "B2", "title": "Debatir", "emoji": "🎤", "canDo": "Ya puedo participar en un debate", "grammar": ["Modales de deducción: must have, might have"], "status": "planned" },
-
-    { "id": "u36-matices", "level": "C1", "title": "Matices y registro", "emoji": "🎩", "canDo": "Ya adapto mi inglés a lo formal y lo informal", "grammar": ["Registro formal e informal"], "status": "planned" },
-    { "id": "u37-expresiones", "level": "C1", "title": "Expresiones idiomáticas", "emoji": "🦉", "canDo": "Ya uso expresiones idiomáticas con naturalidad", "grammar": ["Idioms y colocaciones"], "status": "planned" },
-    { "id": "u38-academico", "level": "C1", "title": "Inglés académico y profesional", "emoji": "🎓", "canDo": "Ya puedo escribir y presentar en contextos profesionales", "grammar": ["Inversión y énfasis"], "status": "planned" }
-  ]
+ "levels": [
+  {
+   "id": "A0",
+   "name": "Primeros pasos",
+   "description": "Sonidos, saludos y frases para sobrevivir el primer minuto de conversación."
+  },
+  {
+   "id": "A1",
+   "name": "Principiante",
+   "description": "Hablas de ti, tu familia, tu casa y tu día. Pides comida, preguntas precios y direcciones."
+  },
+  {
+   "id": "A2",
+   "name": "Elemental",
+   "description": "Cuentas lo que pasó, haces planes, comparas y te defiendes en viajes, compras y el médico."
+  },
+  {
+   "id": "B1",
+   "name": "Intermedio",
+   "description": "Conversas sobre temas conocidos, cuentas experiencias, das opiniones y explicas razones."
+  },
+  {
+   "id": "B2",
+   "name": "Intermedio alto",
+   "description": "Debates con fluidez, entiendes noticias y series, y escribes textos claros y detallados."
+  },
+  {
+   "id": "C1",
+   "name": "Avanzado",
+   "description": "Usas el idioma con flexibilidad y precisión en lo social, académico y profesional."
+  }
+ ],
+ "units": [
+  {
+   "id": "u00-sonidos",
+   "level": "A0",
+   "title": "Los sonidos del inglés",
+   "emoji": "👂",
+   "canDo": "Ya distingo los sonidos que más confunden a un hispanohablante",
+   "grammar": [],
+   "status": "ready"
+  },
+  {
+   "id": "u01-saludos",
+   "level": "A0",
+   "title": "Hola y adiós",
+   "emoji": "👋",
+   "canDo": "Ya puedo saludar, agradecer y despedirme",
+   "grammar": [],
+   "status": "ready"
+  },
+  {
+   "id": "u02-presentarse",
+   "level": "A0",
+   "title": "Me presento",
+   "emoji": "🙋",
+   "canDo": "Ya puedo presentarme",
+   "grammar": [
+    "Verbo to be: I am / you are"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u03-numeros",
+   "level": "A0",
+   "title": "Números y precios",
+   "emoji": "🔢",
+   "canDo": "Ya puedo preguntar cuánto cuesta algo",
+   "grammar": [],
+   "status": "ready"
+  },
+  {
+   "id": "u04-colores",
+   "level": "A0",
+   "title": "Colores y cosas",
+   "emoji": "🎨",
+   "canDo": "Ya puedo describir objetos por su color",
+   "grammar": [
+    "Artículos a / an",
+    "Adjetivo antes del sustantivo"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u05-familia",
+   "level": "A1",
+   "title": "Mi familia",
+   "emoji": "👨‍👩‍👧",
+   "canDo": "Ya puedo hablar de mi familia",
+   "grammar": [
+    "Verbo to be completo: he/she/we/they",
+    "Posesivos my / your / his / her"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u06-restaurante",
+   "level": "A1",
+   "title": "En el restaurante",
+   "emoji": "🍽️",
+   "canDo": "Ya puedo pedir comida en un restaurante",
+   "grammar": [
+    "I'd like… / Can I have…?"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u07-mi-dia",
+   "level": "A1",
+   "title": "Mi día",
+   "emoji": "⏰",
+   "canDo": "Ya puedo contar mi rutina diaria",
+   "grammar": [
+    "Presente simple: I work / she works"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u08-preguntas",
+   "level": "A1",
+   "title": "Haciendo preguntas",
+   "emoji": "❓",
+   "canDo": "Ya puedo hacer preguntas sobre la rutina de otros",
+   "grammar": [
+    "Do / Does",
+    "Negativo: don't / doesn't"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u09-hora",
+   "level": "A1",
+   "title": "La hora y los días",
+   "emoji": "🗓️",
+   "canDo": "Ya puedo decir la hora y acordar una cita",
+   "grammar": [
+    "Preposiciones de tiempo: at / on / in"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u10-casa",
+   "level": "A1",
+   "title": "Mi casa",
+   "emoji": "🏠",
+   "canDo": "Ya puedo describir dónde vivo",
+   "grammar": [
+    "There is / there are",
+    "Preposiciones de lugar: in, on, under, next to"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u11-ropa",
+   "level": "A1",
+   "title": "Ropa y compras",
+   "emoji": "🛍️",
+   "canDo": "Ya puedo comprar ropa y pedir otra talla",
+   "grammar": [
+    "This / that / these / those"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u12-habilidades",
+   "level": "A1",
+   "title": "Lo que sé hacer",
+   "emoji": "🎸",
+   "canDo": "Ya puedo decir lo que sé y no sé hacer",
+   "grammar": [
+    "Can / can't"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u13-ciudad",
+   "level": "A1",
+   "title": "Por la ciudad",
+   "emoji": "🗺️",
+   "canDo": "Ya puedo pedir y dar direcciones",
+   "grammar": [
+    "Imperativo: turn, go, take",
+    "Preposiciones de lugar"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u14-ahora",
+   "level": "A1",
+   "title": "Lo que pasa ahora",
+   "emoji": "📱",
+   "canDo": "Ya puedo contar lo que estoy haciendo ahora mismo",
+   "grammar": [
+    "Presente continuo: I'm working",
+    "Presente simple vs continuo"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u15-mercado",
+   "level": "A1",
+   "title": "Comida y mercado",
+   "emoji": "🧺",
+   "canDo": "Ya puedo hacer el mercado en inglés",
+   "grammar": [
+    "Some / any",
+    "How much / how many"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u16-cuerpo",
+   "level": "A1",
+   "title": "El cuerpo y cómo me siento",
+   "emoji": "🧍",
+   "canDo": "Ya puedo decir qué me duele y cómo me siento",
+   "grammar": [
+    "have / has",
+    "I have a headache"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u17-clima",
+   "level": "A1",
+   "title": "El clima y las estaciones",
+   "emoji": "🌦️",
+   "canDo": "Ya puedo hablar del clima y planear según el tiempo",
+   "grammar": [
+    "It's + adjetivo para el clima",
+    "What's the weather like?"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u18-trabajos",
+   "level": "A1",
+   "title": "Trabajos y profesiones",
+   "emoji": "👷",
+   "canDo": "Ya puedo decir a qué me dedico y dónde trabajo",
+   "grammar": [
+    "a / an con profesiones",
+    "Where do you work?"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u19-transporte",
+   "level": "A1",
+   "title": "Transporte y viajes cortos",
+   "emoji": "🚌",
+   "canDo": "Ya puedo moverme en bus, taxi y tren",
+   "grammar": [
+    "by bus / by car / on foot",
+    "How long does it take?"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u20-gustos",
+   "level": "A1",
+   "title": "Gustos y opiniones",
+   "emoji": "❤️",
+   "canDo": "Ya puedo decir lo que me gusta y lo que no",
+   "grammar": [
+    "like / love / hate + -ing",
+    "Adjetivos de opinión"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u21-personas",
+   "level": "A1",
+   "title": "Describir personas",
+   "emoji": "🧑‍🤝‍🧑",
+   "canDo": "Ya puedo describir cómo es alguien",
+   "grammar": [
+    "What does he look like?",
+    "Orden de adjetivos sencillo"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u22-tecnologia",
+   "level": "A1",
+   "title": "El celular y la tecnología",
+   "emoji": "📲",
+   "canDo": "Ya puedo usar el celular y el computador en inglés",
+   "grammar": [
+    "Imperativos de las apps",
+    "my / your / our"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u23-pasado-be",
+   "level": "A2",
+   "title": "¿Dónde estabas?",
+   "emoji": "🕰️",
+   "canDo": "Ya puedo decir dónde estuve y cómo estuvo",
+   "grammar": [
+    "Pasado de to be: was / were"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u24-pasado-regular",
+   "level": "A2",
+   "title": "Mi fin de semana",
+   "emoji": "🏖️",
+   "canDo": "Ya puedo contar lo que hice el fin de semana",
+   "grammar": [
+    "Pasado simple regular: -ed",
+    "Pronunciación de -ed: /t/, /d/, /id/"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u25-irregulares",
+   "level": "A2",
+   "title": "Historias que pasaron",
+   "emoji": "📖",
+   "canDo": "Ya puedo narrar una historia corta en pasado",
+   "grammar": [
+    "Verbos irregulares más usados"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u26-preguntas-pasado",
+   "level": "A2",
+   "title": "Preguntar por el pasado",
+   "emoji": "🔎",
+   "canDo": "Ya puedo preguntar qué pasó y negar en pasado",
+   "grammar": [
+    "Did / didn't",
+    "Wh- questions en pasado"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u27-planes",
+   "level": "A2",
+   "title": "Planes para el futuro",
+   "emoji": "🧳",
+   "canDo": "Ya puedo hablar de mis planes",
+   "grammar": [
+    "Going to",
+    "Presente continuo para planes"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u28-comparar",
+   "level": "A2",
+   "title": "Comparando cosas",
+   "emoji": "⚖️",
+   "canDo": "Ya puedo comparar productos, lugares y personas",
+   "grammar": [
+    "Comparativos: -er / more",
+    "Superlativos: the -est / the most"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u29-salud",
+   "level": "A2",
+   "title": "En el médico",
+   "emoji": "🩺",
+   "canDo": "Ya puedo explicar qué me pasa y entender consejos del médico",
+   "grammar": [
+    "Should / shouldn't para consejos"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u30-viaje",
+   "level": "A2",
+   "title": "De viaje",
+   "emoji": "✈️",
+   "canDo": "Ya puedo moverme en un aeropuerto y un hotel",
+   "grammar": [
+    "Could you…? para pedir con amabilidad"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u31-tareas",
+   "level": "A2",
+   "title": "La casa y las obligaciones",
+   "emoji": "🧹",
+   "canDo": "Ya puedo hablar de las tareas de la casa y de lo que tengo que hacer",
+   "grammar": [
+    "Have to / don't have to"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u32-naturaleza",
+   "level": "A2",
+   "title": "Animales y naturaleza",
+   "emoji": "🦜",
+   "canDo": "Ya puedo hablar de animales, paisajes y la naturaleza",
+   "grammar": [
+    "There was / there were",
+    "Adjetivos para describir lugares"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u33-servicios",
+   "level": "A2",
+   "title": "Servicios de la ciudad",
+   "emoji": "🏦",
+   "canDo": "Ya puedo hacer trámites en el banco, el correo y otros servicios",
+   "grammar": [
+    "I'd like to + verbo",
+    "Preguntas indirectas sencillas"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u34-dinero",
+   "level": "A2",
+   "title": "Dinero y compras",
+   "emoji": "💳",
+   "canDo": "Ya puedo manejar precios, pagos, devoluciones y descuentos",
+   "grammar": [
+    "Too / enough",
+    "Números grandes y precios"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u35-fiestas",
+   "level": "A2",
+   "title": "Fiestas e invitaciones",
+   "emoji": "🎉",
+   "canDo": "Ya puedo invitar, aceptar y rechazar invitaciones con amabilidad",
+   "grammar": [
+    "Would you like to…?",
+    "Let's… / How about…?"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u36-sentimientos",
+   "level": "A2",
+   "title": "Sentimientos y razones",
+   "emoji": "💗",
+   "canDo": "Ya puedo explicar cómo me siento y por qué",
+   "grammar": [
+    "because / so / but",
+    "Adjetivos -ed / -ing"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u37-estudios",
+   "level": "A2",
+   "title": "Estudios y aprendizaje",
+   "emoji": "🎓",
+   "canDo": "Ya puedo hablar de mis estudios, materias y planes académicos",
+   "grammar": [
+    "Verbos + to: want to, need to, decide to",
+    "Learn vs teach vs study"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u38-como",
+   "level": "A2",
+   "title": "Cómo hacemos las cosas",
+   "emoji": "🏃‍♂️",
+   "canDo": "Ya puedo describir cómo y con qué frecuencia hago las cosas",
+   "grammar": [
+    "Adverbios de modo: quickly, carefully",
+    "How often…?"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u39-cocina",
+   "level": "A2",
+   "title": "En la cocina",
+   "emoji": "👨‍🍳",
+   "canDo": "Ya puedo seguir y dar una receta",
+   "grammar": [
+    "Imperativo en recetas",
+    "Secuencia: first, then, next, finally"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u40-narrar",
+   "level": "A2",
+   "title": "Contar lo que estaba pasando",
+   "emoji": "🎬",
+   "canDo": "Ya puedo contar una historia con lo que estaba pasando cuando algo ocurrió",
+   "grammar": [
+    "Pasado continuo: was / were + -ing",
+    "when / while"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u41-experiencias",
+   "level": "B1",
+   "title": "Experiencias de vida",
+   "emoji": "🌍",
+   "canDo": "Ya puedo hablar de experiencias que he tenido (o no) en mi vida",
+   "grammar": [
+    "Present perfect: experiencias",
+    "ever / never / been to"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u42-recientemente",
+   "level": "B1",
+   "title": "Lo que acaba de pasar",
+   "emoji": "⏱️",
+   "canDo": "Ya puedo hablar de lo reciente y de cuánto tiempo llevo haciendo algo",
+   "grammar": [
+    "just / already / yet",
+    "for / since",
+    "Present perfect vs pasado simple"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u43-futuro",
+   "level": "B1",
+   "title": "Predicciones y promesas",
+   "emoji": "🔮",
+   "canDo": "Ya puedo hacer predicciones, promesas, ofertas y decisiones rápidas",
+   "grammar": [
+    "Will vs going to",
+    "will para promesas y ofertas"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u44-condicionales",
+   "level": "B1",
+   "title": "Si pasa esto…",
+   "emoji": "🔀",
+   "canDo": "Ya puedo hablar de condiciones reales y sus consecuencias",
+   "grammar": [
+    "Condicional cero",
+    "Primer condicional",
+    "unless / as soon as / when"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u45-trabajo",
+   "level": "B1",
+   "title": "El mundo laboral",
+   "emoji": "💼",
+   "canDo": "Ya puedo presentarme en una entrevista de trabajo y hablar de mi experiencia",
+   "grammar": [
+    "Present perfect en entrevistas",
+    "be good at / be responsible for"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u46-opiniones",
+   "level": "B1",
+   "title": "Dar y defender opiniones",
+   "emoji": "💬",
+   "canDo": "Ya puedo dar mi opinión, estar de acuerdo o no, y explicar por qué",
+   "grammar": [
+    "Conectores: however, although, therefore",
+    "Expresiones de opinión"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u47-phrasal",
+   "level": "B1",
+   "title": "Phrasal verbs del día a día",
+   "emoji": "🧩",
+   "canDo": "Ya entiendo y uso los phrasal verbs más comunes",
+   "grammar": [
+    "Phrasal verbs separables e inseparables"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u48-reglas",
+   "level": "B1",
+   "title": "Reglas y obligaciones",
+   "emoji": "📋",
+   "canDo": "Ya puedo explicar reglas, prohibiciones y lo que está permitido",
+   "grammar": [
+    "Must / mustn't",
+    "be allowed to",
+    "Diferencia mustn't vs don't have to"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u49-ambiente",
+   "level": "B1",
+   "title": "El medio ambiente",
+   "emoji": "🌎",
+   "canDo": "Ya puedo hablar de problemas ambientales y soluciones",
+   "grammar": [
+    "Cuantificadores: too much / too many / not enough",
+    "Pasiva sencilla de presente"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u50-estilo-vida",
+   "level": "B1",
+   "title": "Salud y estilo de vida",
+   "emoji": "🥗",
+   "canDo": "Ya puedo hablar de hábitos saludables y dar consejos detallados",
+   "grammar": [
+    "Gerundio como sujeto: Eating well is important",
+    "It's important to…"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u51-cultura",
+   "level": "B1",
+   "title": "Viajes y cultura",
+   "emoji": "🗺️",
+   "canDo": "Ya puedo hablar de viajes, costumbres y diferencias culturales",
+   "grammar": [
+    "used to (introducción)",
+    "Comparar culturas: similar to, different from"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u52-medios",
+   "level": "B1",
+   "title": "Medios y redes sociales",
+   "emoji": "📱",
+   "canDo": "Ya puedo hablar de redes sociales, noticias y entretenimiento digital",
+   "grammar": [
+    "Estilo indirecto básico: She said that…",
+    "Adverbios de opinión: apparently, obviously"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u53-relaciones",
+   "level": "B1",
+   "title": "Relaciones personales",
+   "emoji": "💞",
+   "canDo": "Ya puedo hablar de amistad, pareja, familia y conflictos",
+   "grammar": [
+    "Reflexivos: myself, yourself…",
+    "each other"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u54-consumo",
+   "level": "B1",
+   "title": "Dinero, trabajo y consumo",
+   "emoji": "🛒",
+   "canDo": "Ya puedo hablar de economía personal, publicidad y decisiones de compra",
+   "grammar": [
+    "Verbos + objeto + to: ask someone to, want someone to",
+    "Cuantificadores: a few / a little"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u55-antes",
+   "level": "B1",
+   "title": "Antes y ahora",
+   "emoji": "📼",
+   "canDo": "Ya puedo comparar cómo era mi vida antes y cómo es ahora",
+   "grammar": [
+    "Used to / didn't use to",
+    "would para hábitos del pasado"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u56-pasiva",
+   "level": "B1",
+   "title": "Cómo se hace",
+   "emoji": "🏭",
+   "canDo": "Ya puedo explicar procesos y hechos con la voz pasiva",
+   "grammar": [
+    "Voz pasiva: is made / was built",
+    "by + agente"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u57-relativos",
+   "level": "B1",
+   "title": "Personas, cosas y lugares",
+   "emoji": "🔍",
+   "canDo": "Ya puedo definir y describir personas, cosas y lugares con más detalle",
+   "grammar": [
+    "Relativos: who / which / that / where / whose"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u58-gerundios",
+   "level": "B1",
+   "title": "Gerundios, infinitivos y más phrasal verbs",
+   "emoji": "🔗",
+   "canDo": "Ya sé qué forma del verbo va después de otro verbo",
+   "grammar": [
+    "Verbo + -ing / verbo + to",
+    "stop doing vs stop to do"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u59-noticias",
+   "level": "B2",
+   "title": "Noticias y medios",
+   "emoji": "📰",
+   "canDo": "Ya puedo entender y resumir una noticia",
+   "grammar": [
+    "Pasiva en todos los tiempos",
+    "It is said that… / He is believed to…"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u60-imaginar",
+   "level": "B2",
+   "title": "Si yo fuera…",
+   "emoji": "💭",
+   "canDo": "Ya puedo hablar de situaciones imaginarias e hipotéticas",
+   "grammar": [
+    "Segundo condicional",
+    "If I were you…",
+    "would / could / might"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u61-lamentar",
+   "level": "B2",
+   "title": "Lamentos y deseos",
+   "emoji": "😔",
+   "canDo": "Ya puedo hablar de lo que habría pasado y de lo que me gustaría que fuera distinto",
+   "grammar": [
+    "Tercer condicional",
+    "I wish / If only",
+    "should have / could have"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u62-indirecto",
+   "level": "B2",
+   "title": "Lo que dijo",
+   "emoji": "🗣️",
+   "canDo": "Ya puedo contar con precisión lo que otra persona dijo, preguntó u ordenó",
+   "grammar": [
+    "Estilo indirecto completo",
+    "Preguntas indirectas",
+    "Verbos de reporte: admit, suggest, warn"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u63-precision",
+   "level": "B2",
+   "title": "Describir con precisión",
+   "emoji": "🔬",
+   "canDo": "Ya puedo describir personas, objetos y procesos con detalle y precisión",
+   "grammar": [
+    "Relativas no definitorias (con comas)",
+    "Orden de adjetivos",
+    "Adjetivos compuestos"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u64-ingles-real",
+   "level": "B2",
+   "title": "Inglés real: cómo hablan los nativos",
+   "emoji": "🎧",
+   "canDo": "Ya entiendo el inglés hablado rápido y las reducciones de los nativos",
+   "grammar": [
+    "Reducciones: gonna, wanna, gotta",
+    "Habla conectada y sonidos que desaparecen"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u65-deducir",
+   "level": "B2",
+   "title": "Deducir y especular",
+   "emoji": "🕵️",
+   "canDo": "Ya puedo hacer deducciones sobre el presente y el pasado",
+   "grammar": [
+    "must / might / can't + be",
+    "must have / might have / can't have + participio"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u66-profesional",
+   "level": "B2",
+   "title": "Inglés profesional",
+   "emoji": "📧",
+   "canDo": "Ya puedo escribir correos formales y participar en reuniones de trabajo",
+   "grammar": [
+    "Registro formal vs informal",
+    "Frases para reuniones"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u67-ciencia",
+   "level": "B2",
+   "title": "Ciencia y tecnología",
+   "emoji": "🔬",
+   "canDo": "Ya puedo hablar y leer sobre ciencia, tecnología e innovación",
+   "grammar": [
+    "Futuro continuo y perfecto: will be doing / will have done"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u68-justicia",
+   "level": "B2",
+   "title": "Normas y justicia",
+   "emoji": "⚖️",
+   "canDo": "Ya puedo hablar de delitos, del sistema judicial y de seguridad ciudadana",
+   "grammar": [
+    "Pasiva con modales: should be punished",
+    "Verbos + preposición: accuse of, charge with"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u69-emociones",
+   "level": "B2",
+   "title": "Emociones y personalidad",
+   "emoji": "🎭",
+   "canDo": "Ya puedo describir emociones y rasgos de carácter con matices",
+   "grammar": [
+    "Adjetivos fuertes: absolutely exhausted",
+    "Expresiones idiomáticas de ánimo"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u70-arte",
+   "level": "B2",
+   "title": "Arte, cine y literatura",
+   "emoji": "🎬",
+   "canDo": "Ya puedo hablar y opinar sobre películas, libros, música y arte",
+   "grammar": [
+    "Participios como adjetivos: a well-written book",
+    "so / such para enfatizar"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u71-negocios",
+   "level": "B2",
+   "title": "Emprender y negocios",
+   "emoji": "🚀",
+   "canDo": "Ya puedo hablar de emprendimiento, startups y presentar una idea de negocio",
+   "grammar": [
+    "Condicional mixto",
+    "wish + would para quejas"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u72-sociedad",
+   "level": "B2",
+   "title": "Sociedad y actualidad",
+   "emoji": "🌐",
+   "canDo": "Ya puedo opinar sobre temas sociales con argumentos equilibrados",
+   "grammar": [
+    "Lenguaje de matización: tend to, to some extent",
+    "The + adjetivo (the poor)"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u73-futuro-planeta",
+   "level": "B2",
+   "title": "El futuro del planeta",
+   "emoji": "🌱",
+   "canDo": "Ya puedo debatir sobre sostenibilidad, energía y el futuro del medio ambiente",
+   "grammar": [
+    "unless / provided that / as long as",
+    "be likely to / be bound to"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u74-idioms",
+   "level": "B2",
+   "title": "Expresiones que usan los nativos",
+   "emoji": "💬",
+   "canDo": "Ya entiendo y uso expresiones idiomáticas comunes del inglés",
+   "grammar": [
+    "Idioms y su significado no literal"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u75-matices",
+   "level": "C1",
+   "title": "Matices y registro",
+   "emoji": "🎩",
+   "canDo": "Ya adapto mi inglés a lo formal y lo informal con precisión",
+   "grammar": [
+    "Inversión enfática: Not only…, Never have I…",
+    "Collocations formales"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u76-academico",
+   "level": "C1",
+   "title": "Inglés académico",
+   "emoji": "🎓",
+   "canDo": "Ya puedo escribir ensayos y textos académicos estructurados",
+   "grammar": [
+    "Nominalización",
+    "Lenguaje de cautela (hedging): may, appears to"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u77-idioms-avanzados",
+   "level": "C1",
+   "title": "Expresiones y lenguaje figurado",
+   "emoji": "🦉",
+   "canDo": "Ya uso expresiones idiomáticas avanzadas y lenguaje figurado con naturalidad",
+   "grammar": [
+    "Lenguaje figurado y metáforas convencionales"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u78-trabajo-avanzado",
+   "level": "C1",
+   "title": "Liderazgo y carrera profesional",
+   "emoji": "🧭",
+   "canDo": "Ya puedo desenvolverme en entornos profesionales exigentes y hablar de liderazgo",
+   "grammar": [
+    "Collocations profesionales",
+    "Verbos delexicales: make, take, give"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u79-humor",
+   "level": "C1",
+   "title": "Humor, ironía y conversación",
+   "emoji": "😏",
+   "canDo": "Ya entiendo el humor, la ironía y las sutilezas de una conversación nativa",
+   "grammar": [
+    "Question tags para ironía y conversación",
+    "Understatement"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u80-fluidez",
+   "level": "C1",
+   "title": "Fluidez y pensamiento en inglés",
+   "emoji": "🧠",
+   "canDo": "Ya puedo expresarme con fluidez, ganar tiempo y reformular con naturalidad",
+   "grammar": [
+    "Discourse markers",
+    "Fillers y reformulación"
+   ],
+   "status": "ready"
+  }
+ ],
+ "exams": [
+  {
+   "id": "A0-final",
+   "level": "A0",
+   "kind": "final",
+   "title": "Examen final A0",
+   "afterUnit": "u04-colores",
+   "units": [
+    "u00-sonidos",
+    "u01-saludos",
+    "u02-presentarse",
+    "u03-numeros",
+    "u04-colores"
+   ],
+   "questions": 25,
+   "passPct": 75
+  },
+  {
+   "id": "A1-control-1",
+   "level": "A1",
+   "kind": "checkpoint",
+   "title": "Examen de control A1 · 1",
+   "afterUnit": "u10-casa",
+   "units": [
+    "u05-familia",
+    "u06-restaurante",
+    "u07-mi-dia",
+    "u08-preguntas",
+    "u09-hora",
+    "u10-casa"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "A1-control-2",
+   "level": "A1",
+   "kind": "checkpoint",
+   "title": "Examen de control A1 · 2",
+   "afterUnit": "u16-cuerpo",
+   "units": [
+    "u11-ropa",
+    "u12-habilidades",
+    "u13-ciudad",
+    "u14-ahora",
+    "u15-mercado",
+    "u16-cuerpo"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "A1-final",
+   "level": "A1",
+   "kind": "final",
+   "title": "Examen final A1",
+   "afterUnit": "u22-tecnologia",
+   "units": [
+    "u05-familia",
+    "u06-restaurante",
+    "u07-mi-dia",
+    "u08-preguntas",
+    "u09-hora",
+    "u10-casa",
+    "u11-ropa",
+    "u12-habilidades",
+    "u13-ciudad",
+    "u14-ahora",
+    "u15-mercado",
+    "u16-cuerpo",
+    "u17-clima",
+    "u18-trabajos",
+    "u19-transporte",
+    "u20-gustos",
+    "u21-personas",
+    "u22-tecnologia"
+   ],
+   "questions": 40,
+   "passPct": 75
+  },
+  {
+   "id": "A2-control-1",
+   "level": "A2",
+   "kind": "checkpoint",
+   "title": "Examen de control A2 · 1",
+   "afterUnit": "u28-comparar",
+   "units": [
+    "u23-pasado-be",
+    "u24-pasado-regular",
+    "u25-irregulares",
+    "u26-preguntas-pasado",
+    "u27-planes",
+    "u28-comparar"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "A2-control-2",
+   "level": "A2",
+   "kind": "checkpoint",
+   "title": "Examen de control A2 · 2",
+   "afterUnit": "u34-dinero",
+   "units": [
+    "u29-salud",
+    "u30-viaje",
+    "u31-tareas",
+    "u32-naturaleza",
+    "u33-servicios",
+    "u34-dinero"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "A2-final",
+   "level": "A2",
+   "kind": "final",
+   "title": "Examen final A2",
+   "afterUnit": "u40-narrar",
+   "units": [
+    "u23-pasado-be",
+    "u24-pasado-regular",
+    "u25-irregulares",
+    "u26-preguntas-pasado",
+    "u27-planes",
+    "u28-comparar",
+    "u29-salud",
+    "u30-viaje",
+    "u31-tareas",
+    "u32-naturaleza",
+    "u33-servicios",
+    "u34-dinero",
+    "u35-fiestas",
+    "u36-sentimientos",
+    "u37-estudios",
+    "u38-como",
+    "u39-cocina",
+    "u40-narrar"
+   ],
+   "questions": 40,
+   "passPct": 75
+  },
+  {
+   "id": "B1-control-1",
+   "level": "B1",
+   "kind": "checkpoint",
+   "title": "Examen de control B1 · 1",
+   "afterUnit": "u46-opiniones",
+   "units": [
+    "u41-experiencias",
+    "u42-recientemente",
+    "u43-futuro",
+    "u44-condicionales",
+    "u45-trabajo",
+    "u46-opiniones"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "B1-control-2",
+   "level": "B1",
+   "kind": "checkpoint",
+   "title": "Examen de control B1 · 2",
+   "afterUnit": "u52-medios",
+   "units": [
+    "u47-phrasal",
+    "u48-reglas",
+    "u49-ambiente",
+    "u50-estilo-vida",
+    "u51-cultura",
+    "u52-medios"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "B1-final",
+   "level": "B1",
+   "kind": "final",
+   "title": "Examen final B1",
+   "afterUnit": "u58-gerundios",
+   "units": [
+    "u41-experiencias",
+    "u42-recientemente",
+    "u43-futuro",
+    "u44-condicionales",
+    "u45-trabajo",
+    "u46-opiniones",
+    "u47-phrasal",
+    "u48-reglas",
+    "u49-ambiente",
+    "u50-estilo-vida",
+    "u51-cultura",
+    "u52-medios",
+    "u53-relaciones",
+    "u54-consumo",
+    "u55-antes",
+    "u56-pasiva",
+    "u57-relativos",
+    "u58-gerundios"
+   ],
+   "questions": 40,
+   "passPct": 75
+  },
+  {
+   "id": "B2-control-1",
+   "level": "B2",
+   "kind": "checkpoint",
+   "title": "Examen de control B2 · 1",
+   "afterUnit": "u64-ingles-real",
+   "units": [
+    "u59-noticias",
+    "u60-imaginar",
+    "u61-lamentar",
+    "u62-indirecto",
+    "u63-precision",
+    "u64-ingles-real"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "B2-control-2",
+   "level": "B2",
+   "kind": "checkpoint",
+   "title": "Examen de control B2 · 2",
+   "afterUnit": "u70-arte",
+   "units": [
+    "u65-deducir",
+    "u66-profesional",
+    "u67-ciencia",
+    "u68-justicia",
+    "u69-emociones",
+    "u70-arte"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "B2-final",
+   "level": "B2",
+   "kind": "final",
+   "title": "Examen final B2",
+   "afterUnit": "u74-idioms",
+   "units": [
+    "u59-noticias",
+    "u60-imaginar",
+    "u61-lamentar",
+    "u62-indirecto",
+    "u63-precision",
+    "u64-ingles-real",
+    "u65-deducir",
+    "u66-profesional",
+    "u67-ciencia",
+    "u68-justicia",
+    "u69-emociones",
+    "u70-arte",
+    "u71-negocios",
+    "u72-sociedad",
+    "u73-futuro-planeta",
+    "u74-idioms"
+   ],
+   "questions": 40,
+   "passPct": 75
+  },
+  {
+   "id": "C1-final",
+   "level": "C1",
+   "kind": "final",
+   "title": "Examen final C1",
+   "afterUnit": "u80-fluidez",
+   "units": [
+    "u75-matices",
+    "u76-academico",
+    "u77-idioms-avanzados",
+    "u78-trabajo-avanzado",
+    "u79-humor",
+    "u80-fluidez"
+   ],
+   "questions": 40,
+   "passPct": 75
+  }
+ ]
 }

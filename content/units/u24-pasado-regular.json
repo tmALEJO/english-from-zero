@@ -1,0 +1,1355 @@
+{
+ "_generated": true,
+ "id": "u24-pasado-regular",
+ "level": "A2",
+ "title": "Mi fin de semana",
+ "emoji": "🏖️",
+ "canDo": "Ya puedo contar lo que hice el fin de semana",
+ "summary": "El pasado simple con verbos regulares (-ed) y cómo se pronuncia esa terminación.",
+ "grammar": [
+  "Pasado simple regular: -ed",
+  "Pronunciación de -ed: /t/, /d/, /id/"
+ ],
+ "items": [
+  {
+   "id": "u24.worked",
+   "en": "worked",
+   "es": "trabajé / trabajó",
+   "kind": "word",
+   "emoji": "💼",
+   "say": "uérkt"
+  },
+  {
+   "id": "u24.played",
+   "en": "played",
+   "es": "jugué / jugó",
+   "kind": "word",
+   "emoji": "🎮",
+   "say": "pléid"
+  },
+  {
+   "id": "u24.watched",
+   "en": "watched",
+   "es": "vi / vio (TV, película)",
+   "kind": "word",
+   "emoji": "📺",
+   "say": "uócht"
+  },
+  {
+   "id": "u24.cooked",
+   "en": "cooked",
+   "es": "cociné",
+   "kind": "word",
+   "emoji": "🍳",
+   "say": "kukt"
+  },
+  {
+   "id": "u24.cleaned",
+   "en": "cleaned",
+   "es": "limpié",
+   "kind": "word",
+   "emoji": "🧹",
+   "say": "klíind"
+  },
+  {
+   "id": "u24.visited",
+   "en": "visited",
+   "es": "visité",
+   "kind": "word",
+   "emoji": "🏡",
+   "say": "ví-si-tid"
+  },
+  {
+   "id": "u24.studied",
+   "en": "studied",
+   "es": "estudié",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "stá-did"
+  },
+  {
+   "id": "u24.walked",
+   "en": "walked",
+   "es": "caminé",
+   "kind": "word",
+   "emoji": "🚶",
+   "say": "uókt"
+  },
+  {
+   "id": "u24.talked",
+   "en": "talked",
+   "es": "hablé / conversé",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "tókt"
+  },
+  {
+   "id": "u24.listened",
+   "en": "listened",
+   "es": "escuché",
+   "kind": "word",
+   "emoji": "🎧",
+   "say": "lí-send"
+  },
+  {
+   "id": "u24.danced",
+   "en": "danced",
+   "es": "bailé",
+   "kind": "word",
+   "emoji": "💃",
+   "say": "danst"
+  },
+  {
+   "id": "u24.stayed",
+   "en": "stayed",
+   "es": "me quedé",
+   "kind": "word",
+   "emoji": "🛋️",
+   "say": "stéid"
+  },
+  {
+   "id": "u24.traveled",
+   "en": "traveled",
+   "es": "viajé",
+   "kind": "word",
+   "emoji": "✈️",
+   "say": "trá-veld"
+  },
+  {
+   "id": "u24.started",
+   "en": "started",
+   "es": "empecé",
+   "kind": "word",
+   "emoji": "▶️",
+   "say": "stár-tid"
+  },
+  {
+   "id": "u24.finished",
+   "en": "finished",
+   "es": "terminé",
+   "kind": "word",
+   "emoji": "🏁",
+   "say": "fí-nisht"
+  },
+  {
+   "id": "u24.wanted",
+   "en": "wanted",
+   "es": "quería / quise",
+   "kind": "word",
+   "emoji": "🙏",
+   "say": "uón-tid"
+  },
+  {
+   "id": "u24.needed",
+   "en": "needed",
+   "es": "necesitaba / necesité",
+   "kind": "word",
+   "emoji": "📝",
+   "say": "níi-did"
+  },
+  {
+   "id": "u24.called",
+   "en": "called",
+   "es": "llamé",
+   "kind": "word",
+   "emoji": "📞",
+   "say": "kóld"
+  },
+  {
+   "id": "u24.helped",
+   "en": "helped",
+   "es": "ayudé",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "jelpt"
+  },
+  {
+   "id": "u24.opened",
+   "en": "opened",
+   "es": "abrí",
+   "kind": "word",
+   "emoji": "📂",
+   "say": "óu-pend"
+  },
+  {
+   "id": "u24.closed",
+   "en": "closed",
+   "es": "cerré",
+   "kind": "word",
+   "emoji": "📁",
+   "say": "klóusd"
+  },
+  {
+   "id": "u24.lived",
+   "en": "lived",
+   "es": "viví",
+   "kind": "word",
+   "emoji": "🏠",
+   "say": "livd"
+  },
+  {
+   "id": "u24.liked",
+   "en": "liked",
+   "es": "me gustó",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "láikt"
+  },
+  {
+   "id": "u24.loved",
+   "en": "loved",
+   "es": "me encantó",
+   "kind": "word",
+   "emoji": "😍",
+   "say": "lavd"
+  },
+  {
+   "id": "u24.hated",
+   "en": "hated",
+   "es": "odié",
+   "kind": "word",
+   "emoji": "😤",
+   "say": "jéi-tid"
+  },
+  {
+   "id": "u24.tried",
+   "en": "tried",
+   "es": "intenté / probé",
+   "kind": "word",
+   "emoji": "🧪",
+   "say": "tráid"
+  },
+  {
+   "id": "u24.arrived",
+   "en": "arrived",
+   "es": "llegué",
+   "kind": "word",
+   "emoji": "🛬",
+   "say": "a-ráivd"
+  },
+  {
+   "id": "u24.waited",
+   "en": "waited",
+   "es": "esperé",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "uéi-tid"
+  },
+  {
+   "id": "u24.relaxed",
+   "en": "relaxed",
+   "es": "descansé / me relajé",
+   "kind": "word",
+   "emoji": "🧘",
+   "say": "ri-lákst"
+  },
+  {
+   "id": "u24.rained",
+   "en": "rained",
+   "es": "llovió",
+   "kind": "word",
+   "emoji": "🌧️",
+   "say": "réind"
+  },
+  {
+   "id": "u24.painted",
+   "en": "painted",
+   "es": "pinté",
+   "kind": "word",
+   "emoji": "🖌️",
+   "say": "péin-tid"
+  },
+  {
+   "id": "u24.moved",
+   "en": "moved",
+   "es": "me mudé / moví",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "múuvd"
+  },
+  {
+   "id": "u24.picked-up",
+   "en": "picked up",
+   "es": "recogí",
+   "kind": "chunk",
+   "emoji": "🫴"
+  },
+  {
+   "id": "u24.the-day-before-yesterday",
+   "en": "the day before yesterday",
+   "es": "anteayer",
+   "kind": "chunk",
+   "emoji": "⏮️"
+  },
+  {
+   "id": "u24.on-saturday-morning",
+   "en": "on Saturday morning",
+   "es": "el sábado por la mañana",
+   "kind": "chunk",
+   "emoji": "🌅"
+  },
+  {
+   "id": "u24.all-day",
+   "en": "all day",
+   "es": "todo el día",
+   "kind": "chunk",
+   "emoji": "🌞"
+  },
+  {
+   "id": "u24.for-two-hours",
+   "en": "for two hours",
+   "es": "durante dos horas",
+   "kind": "chunk",
+   "emoji": "⏲️"
+  },
+  {
+   "id": "u24.then",
+   "en": "then",
+   "es": "luego / entonces",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "den"
+  },
+  {
+   "id": "u24.after-that",
+   "en": "after that",
+   "es": "después de eso",
+   "kind": "chunk",
+   "emoji": "⏭️"
+  },
+  {
+   "id": "u24.finally",
+   "en": "finally",
+   "es": "por último / al final",
+   "kind": "word",
+   "emoji": "🏁",
+   "say": "fái-na-li"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u24-pasado-regular-l1",
+   "title": "1. worked, played, watched…",
+   "focus": "listening",
+   "newItems": [
+    "u24.worked",
+    "u24.played",
+    "u24.watched",
+    "u24.cooked"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.worked",
+      "u24.played"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.watched",
+      "u24.cooked"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.worked",
+      "u24.played",
+      "u24.watched",
+      "u24.cooked"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.worked",
+      "u24.played",
+      "u24.watched",
+      "u24.cooked"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l2",
+   "title": "2. cleaned, visited, studied…",
+   "focus": "grammar",
+   "newItems": [
+    "u24.cleaned",
+    "u24.visited",
+    "u24.studied",
+    "u24.walked"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.cleaned",
+      "u24.visited"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.studied",
+      "u24.walked"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.cleaned",
+      "u24.visited",
+      "u24.studied",
+      "u24.walked"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.cleaned",
+      "u24.visited",
+      "u24.studied",
+      "u24.walked"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.worked",
+      "u24.played",
+      "u24.watched",
+      "u24.cooked"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Pasado simple regular (-ed)",
+     "intro": "Compara la rutina con lo que pasó ayer.",
+     "examples": [
+      {
+       "en": "I work every day. → I worked yesterday.",
+       "es": "Trabajo todos los días. → Trabajé ayer.",
+       "mark": [
+        "worked"
+       ]
+      },
+      {
+       "en": "She cooks dinner. → She cooked dinner last night.",
+       "es": "Ella cocina. → Ella cocinó anoche.",
+       "mark": [
+        "cooked"
+       ]
+      },
+      {
+       "en": "They play football. → They played on Sunday.",
+       "es": "Juegan fútbol. → Jugaron el domingo.",
+       "mark": [
+        "played"
+       ]
+      },
+      {
+       "en": "We visit grandma. → We visited grandma last week.",
+       "es": "Visitamos a la abuela. → La visitamos la semana pasada.",
+       "mark": [
+        "visited"
+       ]
+      },
+      {
+       "en": "He studies. → He studied for two hours.",
+       "es": "Él estudia. → Estudió dos horas.",
+       "mark": [
+        "studied"
+       ]
+      }
+     ],
+     "question": "¿Cómo se forma el pasado de estos verbos?",
+     "options": [
+      "Agregando -ed al verbo",
+      "Con will antes",
+      "Con am/is/are + -ing"
+     ],
+     "answer": 0,
+     "rule": "Esto es el PASADO SIMPLE de los verbos regulares: verbo + -ed. ¡Y es igual para todas las personas! I worked, she worked, they worked (nada de -s). Si termina en e solo se agrega -d (lived); consonante + y cambia a -ied (study → studied).",
+     "ruleExamples": [
+      {
+       "en": "Last Saturday I cleaned my room, then I watched a movie.",
+       "es": "El sábado pasado limpié mi cuarto y luego vi una película."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Yesterday I ___ my grandmother.",
+     "options": [
+      "visit",
+      "visited"
+     ],
+     "answer": 1,
+     "es": "Ayer visité a mi abuela."
+    },
+    {
+     "type": "fill",
+     "en": "She ___ English for three hours.",
+     "options": [
+      "studied",
+      "studyed"
+     ],
+     "answer": 0,
+     "es": "Ella estudió inglés tres horas."
+    },
+    {
+     "type": "fill",
+     "en": "We ___ at home all day.",
+     "options": [
+      "stayed",
+      "staied"
+     ],
+     "answer": 0,
+     "es": "Nos quedamos en casa todo el día."
+    },
+    {
+     "type": "fill",
+     "en": "He ___ in Medellín when he was young.",
+     "options": [
+      "lived",
+      "liveded"
+     ],
+     "answer": 0,
+     "es": "Él vivió en Medellín cuando era joven."
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l3",
+   "title": "3. talked, listened, danced…",
+   "focus": "reading",
+   "newItems": [
+    "u24.talked",
+    "u24.listened",
+    "u24.danced",
+    "u24.stayed"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.talked",
+      "u24.listened"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.danced",
+      "u24.stayed"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.talked",
+      "u24.listened",
+      "u24.danced",
+      "u24.stayed"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.talked",
+      "u24.listened",
+      "u24.danced",
+      "u24.stayed"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.watched",
+      "u24.cooked",
+      "u24.cleaned",
+      "u24.visited",
+      "u24.studied",
+      "u24.walked"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l4",
+   "title": "4. traveled, started, finished…",
+   "focus": "listening",
+   "newItems": [
+    "u24.traveled",
+    "u24.started",
+    "u24.finished",
+    "u24.wanted"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.traveled",
+      "u24.started"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.finished",
+      "u24.wanted"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.traveled",
+      "u24.started",
+      "u24.finished",
+      "u24.wanted"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.traveled",
+      "u24.started",
+      "u24.finished",
+      "u24.wanted"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.studied",
+      "u24.walked",
+      "u24.talked",
+      "u24.listened",
+      "u24.danced",
+      "u24.stayed"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l5",
+   "title": "5. needed, called, helped…",
+   "focus": "listening",
+   "newItems": [
+    "u24.needed",
+    "u24.called",
+    "u24.helped",
+    "u24.opened"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.needed",
+      "u24.called"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.helped",
+      "u24.opened"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.needed",
+      "u24.called",
+      "u24.helped",
+      "u24.opened"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.needed",
+      "u24.called",
+      "u24.helped",
+      "u24.opened"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.danced",
+      "u24.stayed",
+      "u24.traveled",
+      "u24.started",
+      "u24.finished",
+      "u24.wanted"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l6",
+   "title": "6. closed, lived, liked…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u24.closed",
+    "u24.lived",
+    "u24.liked",
+    "u24.loved"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.closed",
+      "u24.lived"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.liked",
+      "u24.loved"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.closed",
+      "u24.lived",
+      "u24.liked",
+      "u24.loved"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.closed",
+      "u24.lived",
+      "u24.liked",
+      "u24.loved"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.finished",
+      "u24.wanted",
+      "u24.needed",
+      "u24.called",
+      "u24.helped",
+      "u24.opened"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "👄",
+     "title": "Cómo suena el -ed",
+     "text": "Casi nunca se pronuncia 'ed'. Después de sonidos como k, p, s, ch, sh suena /t/: worked (uérkt). Después de sonidos con voz suena /d/: played (pléid). Solo después de t o d suena /id/: wanted (uón-tid), needed (níi-did)."
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l7",
+   "title": "7. hated, tried, arrived…",
+   "focus": "reading",
+   "newItems": [
+    "u24.hated",
+    "u24.tried",
+    "u24.arrived",
+    "u24.waited"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.hated",
+      "u24.tried"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.arrived",
+      "u24.waited"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.hated",
+      "u24.tried",
+      "u24.arrived",
+      "u24.waited"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.hated",
+      "u24.tried",
+      "u24.arrived",
+      "u24.waited"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.helped",
+      "u24.opened",
+      "u24.closed",
+      "u24.lived",
+      "u24.liked",
+      "u24.loved"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l8",
+   "title": "8. relaxed, rained, painted…",
+   "focus": "listening",
+   "newItems": [
+    "u24.relaxed",
+    "u24.rained",
+    "u24.painted",
+    "u24.moved"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.relaxed",
+      "u24.rained"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.painted",
+      "u24.moved"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.relaxed",
+      "u24.rained",
+      "u24.painted",
+      "u24.moved"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.relaxed",
+      "u24.rained",
+      "u24.painted",
+      "u24.moved"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.liked",
+      "u24.loved",
+      "u24.hated",
+      "u24.tried",
+      "u24.arrived",
+      "u24.waited"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l9",
+   "title": "9. picked up, the day before yesterday, on Saturday morning…",
+   "focus": "listening",
+   "newItems": [
+    "u24.picked-up",
+    "u24.the-day-before-yesterday",
+    "u24.on-saturday-morning",
+    "u24.all-day"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.picked-up",
+      "u24.the-day-before-yesterday"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.on-saturday-morning",
+      "u24.all-day"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.picked-up",
+      "u24.the-day-before-yesterday",
+      "u24.on-saturday-morning",
+      "u24.all-day"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.picked-up",
+      "u24.the-day-before-yesterday",
+      "u24.on-saturday-morning",
+      "u24.all-day"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.arrived",
+      "u24.waited",
+      "u24.relaxed",
+      "u24.rained",
+      "u24.painted",
+      "u24.moved"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Contando el fin de semana",
+     "scene": "🧃 En el descanso de clase.",
+     "lines": [
+      {
+       "who": "Leo",
+       "en": "What did you do on the weekend?",
+       "es": "¿Qué hiciste el fin de semana?"
+      },
+      {
+       "who": "Mia",
+       "en": "On Saturday morning I cleaned the house. Then I cooked lunch for my family.",
+       "es": "El sábado por la mañana limpié la casa. Luego cociné el almuerzo para mi familia."
+      },
+      {
+       "who": "Leo",
+       "en": "And on Sunday?",
+       "es": "¿Y el domingo?"
+      },
+      {
+       "who": "Mia",
+       "en": "It rained all day, so I stayed at home and watched three movies.",
+       "es": "Llovió todo el día, así que me quedé en casa y vi tres películas."
+      },
+      {
+       "who": "Leo",
+       "en": "I played football, but then it rained!",
+       "es": "Yo jugué fútbol, ¡pero después llovió!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-l10",
+   "title": "10. for two hours, then, after that…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u24.for-two-hours",
+    "u24.then",
+    "u24.after-that",
+    "u24.finally"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u24.for-two-hours",
+      "u24.then"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u24.after-that",
+      "u24.finally"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.for-two-hours",
+      "u24.then",
+      "u24.after-that",
+      "u24.finally"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.for-two-hours",
+      "u24.then",
+      "u24.after-that",
+      "u24.finally"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.painted",
+      "u24.moved",
+      "u24.picked-up",
+      "u24.the-day-before-yesterday",
+      "u24.on-saturday-morning",
+      "u24.all-day"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u24-pasado-regular-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Mudanza",
+     "emoji": "📦",
+     "paragraphs": [
+      {
+       "en": "Last month my family moved to a new apartment.",
+       "es": "El mes pasado mi familia se mudó a un apartamento nuevo."
+      },
+      {
+       "en": "On Friday we packed everything in boxes. It took all day.",
+       "es": "El viernes empacamos todo en cajas. Nos tomó todo el día."
+      },
+      {
+       "en": "On Saturday a big truck arrived at eight. My uncle helped us.",
+       "es": "El sábado llegó un camión grande a las ocho. Mi tío nos ayudó."
+      },
+      {
+       "en": "We carried the sofa up the stairs. It was very heavy!",
+       "es": "Subimos el sofá por las escaleras. ¡Estaba muy pesado!"
+      },
+      {
+       "en": "In the evening we ordered pizza and talked about our new home.",
+       "es": "En la noche pedimos pizza y hablamos de nuestro nuevo hogar."
+      },
+      {
+       "en": "Finally, at midnight, we closed the door and relaxed.",
+       "es": "Por fin, a la medianoche, cerramos la puerta y descansamos."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Quién les ayudó?",
+       "options": [
+        "Su tío",
+        "Su vecino",
+        "Su abuela"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué cargaron por las escaleras?",
+       "options": [
+        "La nevera",
+        "El sofá",
+        "La cama"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué comieron en la noche?",
+       "options": [
+        "Pizza",
+        "Pollo",
+        "Sopa"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Llegaste tarde",
+     "scene": "⏰ Llegas tarde a una reunión y tu jefe pregunta qué pasó.",
+     "turns": [
+      {
+       "who": "Boss",
+       "en": "You're late. What happened?",
+       "es": "Llegas tarde. ¿Qué pasó?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm sorry. I waited for the bus for forty minutes.",
+         "es": "Lo siento. Esperé el bus cuarenta minutos.",
+         "ok": true
+        },
+        {
+         "en": "I'm sorry. I wait the bus tomorrow.",
+         "es": "Lo siento. Espero el bus mañana.",
+         "ok": false,
+         "why": "Cuenta lo que pasó, en pasado."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Did you call?",
+       "es": "¿Llamaste?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I called the office, but nobody answered.",
+         "es": "Sí, llamé a la oficina, pero nadie contestó.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I calling the office.",
+         "es": "Sí, yo llamando a la oficina.",
+         "ok": false,
+         "why": "En pasado es \"I called\"."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "OK. The meeting started at nine.",
+       "es": "Bueno. La reunión empezó a las nueve."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I understand. It won't happen again.",
+         "es": "Entiendo. No volverá a pasar.",
+         "ok": true
+        },
+        {
+         "en": "I finished the meeting.",
+         "es": "Terminé la reunión.",
+         "ok": false,
+         "why": "No tiene sentido; acabas de llegar."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ayer trabajé todo el día.",
+     "en": "Yesterday I worked all day.",
+     "accept": [
+      "I worked all day yesterday."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ella estudió inglés anoche.",
+     "en": "She studied English last night."
+    },
+    {
+     "type": "write",
+     "es": "Nos quedamos en casa porque llovió.",
+     "en": "We stayed at home because it rained.",
+     "accept": [
+      "We stayed home because it rained."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "We visited my grandmother on Sunday.",
+     "es": "Visitamos a mi abuela el domingo."
+    },
+    {
+     "type": "dictation",
+     "en": "I watched a movie and then I relaxed.",
+     "es": "Vi una película y luego descansé."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u24.picked-up",
+      "u24.the-day-before-yesterday",
+      "u24.on-saturday-morning",
+      "u24.all-day",
+      "u24.for-two-hours",
+      "u24.then",
+      "u24.after-that",
+      "u24.finally"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

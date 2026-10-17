@@ -4,8 +4,9 @@ import { DictionaryDrawer } from './components/DictionaryDrawer';
 import Home from './pages/Home';
 import RoutePage from './pages/RoutePage';
 import UnitPage from './pages/UnitPage';
-import { LessonSession, PracticeSession, ReviewSession } from './pages/Session';
+import { LessonSession, PracticeSession, ReviewSession, UnitTestSession, ExamSession } from './pages/Session';
 import ReviewHub from './pages/ReviewHub';
+import Library from './pages/Library';
 import DictionaryPage from './pages/DictionaryPage';
 import ProgressPage from './pages/ProgressPage';
 import SettingsPage from './pages/SettingsPage';
@@ -16,6 +17,7 @@ const NAV = [
   { to: '/', label: 'Hoy', icon: '☀️' },
   { to: '/ruta', label: 'Ruta', icon: '🧭' },
   { to: '/repaso', label: 'Repaso', icon: '🔁' },
+  { to: '/biblioteca', label: 'Biblioteca', icon: '📚' },
   { to: '/diccionario', label: 'Diccionario', icon: '📖' },
   { to: '/progreso', label: 'Progreso', icon: '📈' },
 ];
@@ -23,7 +25,7 @@ const NAV = [
 function Shell() {
   const { ready, cards } = useApp();
   const loc = useLocation();
-  const inSession = /^\/(leccion|repasar|practicar)/.test(loc.pathname);
+  const inSession = /^\/(leccion|repasar|practicar|prueba|examen)/.test(loc.pathname);
   const due = cards.filter((c) => isDue(c)).length;
 
   if (!ready) return <div className="boot">Cargando…</div>;
@@ -52,6 +54,9 @@ function Shell() {
           <Route path="/unidad/:unitId" element={<UnitPage />} />
           <Route path="/leccion/:lessonId" element={<LessonSession />} />
           <Route path="/repasar" element={<ReviewSession />} />
+          <Route path="/prueba/:unitId" element={<UnitTestSession />} />
+          <Route path="/examen/:examId" element={<ExamSession />} />
+          <Route path="/biblioteca" element={<Library />} />
           <Route path="/practicar" element={<PracticeSession />} />
           <Route path="/repaso" element={<ReviewHub />} />
           <Route path="/diccionario" element={<DictionaryPage />} />

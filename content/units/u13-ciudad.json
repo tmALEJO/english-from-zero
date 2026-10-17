@@ -1,0 +1,1178 @@
+{
+ "_generated": true,
+ "id": "u13-ciudad",
+ "level": "A1",
+ "title": "Por la ciudad",
+ "emoji": "🗺️",
+ "canDo": "Ya puedo pedir y dar direcciones",
+ "summary": "Lugares de la ciudad, cómo preguntar dónde queda algo y cómo indicar el camino.",
+ "grammar": [
+  "Imperativo: turn, go, take",
+  "Preposiciones de lugar"
+ ],
+ "items": [
+  {
+   "id": "u13.bank",
+   "en": "bank",
+   "es": "banco",
+   "kind": "word",
+   "emoji": "🏦",
+   "say": "bank"
+  },
+  {
+   "id": "u13.hospital",
+   "en": "hospital",
+   "es": "hospital",
+   "kind": "word",
+   "emoji": "🏥",
+   "say": "jós-pi-tal"
+  },
+  {
+   "id": "u13.pharmacy",
+   "en": "pharmacy",
+   "es": "farmacia",
+   "kind": "word",
+   "emoji": "💊",
+   "say": "fár-ma-si"
+  },
+  {
+   "id": "u13.supermarket",
+   "en": "supermarket",
+   "es": "supermercado",
+   "kind": "word",
+   "emoji": "🛒",
+   "say": "su-per-már-ket"
+  },
+  {
+   "id": "u13.park",
+   "en": "park",
+   "es": "parque",
+   "kind": "word",
+   "emoji": "🌳",
+   "say": "park"
+  },
+  {
+   "id": "u13.church",
+   "en": "church",
+   "es": "iglesia",
+   "kind": "word",
+   "emoji": "⛪",
+   "say": "cherch"
+  },
+  {
+   "id": "u13.museum",
+   "en": "museum",
+   "es": "museo",
+   "kind": "word",
+   "emoji": "🏛️",
+   "say": "miu-síi-um"
+  },
+  {
+   "id": "u13.library",
+   "en": "library",
+   "es": "biblioteca",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "lái-bre-ri"
+  },
+  {
+   "id": "u13.post-office",
+   "en": "post office",
+   "es": "oficina de correo",
+   "kind": "chunk",
+   "emoji": "🏤"
+  },
+  {
+   "id": "u13.bus-stop",
+   "en": "bus stop",
+   "es": "parada de bus",
+   "kind": "chunk",
+   "emoji": "🚏"
+  },
+  {
+   "id": "u13.train-station",
+   "en": "train station",
+   "es": "estación de tren",
+   "kind": "chunk",
+   "emoji": "🚉"
+  },
+  {
+   "id": "u13.airport",
+   "en": "airport",
+   "es": "aeropuerto",
+   "kind": "word",
+   "emoji": "✈️",
+   "say": "ér-port"
+  },
+  {
+   "id": "u13.hotel",
+   "en": "hotel",
+   "es": "hotel",
+   "kind": "word",
+   "emoji": "🏨",
+   "say": "jou-tél"
+  },
+  {
+   "id": "u13.restaurant",
+   "en": "restaurant",
+   "es": "restaurante",
+   "kind": "word",
+   "emoji": "🍽️",
+   "say": "rés-to-rant"
+  },
+  {
+   "id": "u13.street",
+   "en": "street",
+   "es": "calle",
+   "kind": "word",
+   "emoji": "🛣️",
+   "say": "stríit"
+  },
+  {
+   "id": "u13.corner",
+   "en": "corner",
+   "es": "esquina",
+   "kind": "word",
+   "emoji": "📐",
+   "say": "kór-ner"
+  },
+  {
+   "id": "u13.traffic-light",
+   "en": "traffic light",
+   "es": "semáforo",
+   "kind": "chunk",
+   "emoji": "🚦",
+   "say": "trá-fik láit"
+  },
+  {
+   "id": "u13.where-is-the-bank",
+   "en": "Where is the bank?",
+   "es": "¿Dónde queda el banco?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u13.is-it-far",
+   "en": "Is it far?",
+   "es": "¿Queda lejos?",
+   "kind": "chunk",
+   "emoji": "🗺️"
+  },
+  {
+   "id": "u13.it-s-near-here",
+   "en": "It's near here",
+   "es": "Queda cerca de aquí",
+   "kind": "chunk",
+   "emoji": "📍",
+   "say": "its níer jíer"
+  },
+  {
+   "id": "u13.go-straight",
+   "en": "Go straight",
+   "es": "Siga derecho",
+   "kind": "chunk",
+   "emoji": "⬆️",
+   "say": "góu stréit"
+  },
+  {
+   "id": "u13.turn-left",
+   "en": "Turn left",
+   "es": "Gire a la izquierda",
+   "kind": "chunk",
+   "emoji": "⬅️",
+   "say": "tern left"
+  },
+  {
+   "id": "u13.turn-right",
+   "en": "Turn right",
+   "es": "Gire a la derecha",
+   "kind": "chunk",
+   "emoji": "➡️",
+   "say": "tern ráit"
+  },
+  {
+   "id": "u13.it-s-on-the-left",
+   "en": "It's on the left",
+   "es": "Está a la izquierda",
+   "kind": "chunk",
+   "emoji": "👈"
+  },
+  {
+   "id": "u13.it-s-on-the-right",
+   "en": "It's on the right",
+   "es": "Está a la derecha",
+   "kind": "chunk",
+   "emoji": "👉"
+  },
+  {
+   "id": "u13.across-from",
+   "en": "across from",
+   "es": "enfrente de",
+   "kind": "chunk",
+   "emoji": "↕️",
+   "say": "a-krós from"
+  },
+  {
+   "id": "u13.behind",
+   "en": "behind",
+   "es": "detrás de",
+   "kind": "word",
+   "emoji": "🔙",
+   "say": "bi-jáind"
+  },
+  {
+   "id": "u13.in-front-of",
+   "en": "in front of",
+   "es": "delante de / frente a",
+   "kind": "chunk",
+   "emoji": "🔜"
+  },
+  {
+   "id": "u13.walk-two-blocks",
+   "en": "walk two blocks",
+   "es": "camine dos cuadras",
+   "kind": "chunk",
+   "emoji": "🚶"
+  },
+  {
+   "id": "u13.i-m-lost",
+   "en": "I'm lost",
+   "es": "Estoy perdido",
+   "kind": "chunk",
+   "emoji": "😵‍💫",
+   "say": "áim lost"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u13-ciudad-l1",
+   "title": "1. bank, hospital, pharmacy…",
+   "focus": "listening",
+   "newItems": [
+    "u13.bank",
+    "u13.hospital",
+    "u13.pharmacy",
+    "u13.supermarket"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.bank",
+      "u13.hospital"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u13.pharmacy",
+      "u13.supermarket"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.bank",
+      "u13.hospital",
+      "u13.pharmacy",
+      "u13.supermarket"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.bank",
+      "u13.hospital",
+      "u13.pharmacy",
+      "u13.supermarket"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.bank",
+      "u13.hospital"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-l2",
+   "title": "2. park, church, museum…",
+   "focus": "grammar",
+   "newItems": [
+    "u13.park",
+    "u13.church",
+    "u13.museum",
+    "u13.library"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.park",
+      "u13.church"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u13.museum",
+      "u13.library"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.park",
+      "u13.church",
+      "u13.museum",
+      "u13.library"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.park",
+      "u13.church",
+      "u13.museum",
+      "u13.library"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.park",
+      "u13.church"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.bank",
+      "u13.hospital",
+      "u13.pharmacy",
+      "u13.supermarket"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Dar instrucciones (imperativo)",
+     "intro": "Así dan direcciones las personas en la calle. Mira cómo empiezan las frases.",
+     "examples": [
+      {
+       "en": "Go straight.",
+       "es": "Siga derecho.",
+       "mark": [
+        "Go"
+       ]
+      },
+      {
+       "en": "Turn left at the corner.",
+       "es": "Gire a la izquierda en la esquina.",
+       "mark": [
+        "Turn"
+       ]
+      },
+      {
+       "en": "Take the bus number five.",
+       "es": "Tome el bus número cinco.",
+       "mark": [
+        "Take"
+       ]
+      },
+      {
+       "en": "Walk two blocks.",
+       "es": "Camine dos cuadras.",
+       "mark": [
+        "Walk"
+       ]
+      },
+      {
+       "en": "Don't turn right.",
+       "es": "No gire a la derecha.",
+       "mark": [
+        "Don't"
+       ]
+      }
+     ],
+     "question": "¿Cómo se da una instrucción en inglés?",
+     "options": [
+      "Con el verbo al principio, sin persona",
+      "Con you + verbo + -s",
+      "Con can al final"
+     ],
+     "answer": 0,
+     "rule": "Para dar instrucciones se usa el verbo solo, al principio y sin sujeto: Turn left. Para decir que NO se haga algo: Don't + verbo. Es la misma forma para usted, tú y ustedes.",
+     "ruleExamples": [
+      {
+       "en": "Go straight and turn right at the traffic light.",
+       "es": "Siga derecho y gire a la derecha en el semáforo."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "___ left at the bank.",
+     "options": [
+      "Turn",
+      "Turns"
+     ],
+     "answer": 0,
+     "es": "Gire a la izquierda en el banco."
+    },
+    {
+     "type": "fill",
+     "en": "___ straight for two blocks.",
+     "options": [
+      "Go",
+      "Goes"
+     ],
+     "answer": 0,
+     "es": "Siga derecho dos cuadras."
+    },
+    {
+     "type": "fill",
+     "en": "The pharmacy is ___ from the park.",
+     "options": [
+      "across",
+      "behind"
+     ],
+     "answer": 0,
+     "es": "La farmacia queda enfrente del parque."
+    },
+    {
+     "type": "fill",
+     "en": "___ take that bus! It's the wrong one.",
+     "options": [
+      "Don't",
+      "Not"
+     ],
+     "answer": 0,
+     "es": "¡No tome ese bus! Es el equivocado."
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-l3",
+   "title": "3. post office, bus stop, train station…",
+   "focus": "reading",
+   "newItems": [
+    "u13.post-office",
+    "u13.bus-stop",
+    "u13.train-station",
+    "u13.airport"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.post-office",
+      "u13.bus-stop"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u13.train-station",
+      "u13.airport"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.post-office",
+      "u13.bus-stop",
+      "u13.train-station",
+      "u13.airport"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.post-office",
+      "u13.bus-stop",
+      "u13.train-station",
+      "u13.airport"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.post-office",
+      "u13.bus-stop"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.pharmacy",
+      "u13.supermarket",
+      "u13.park",
+      "u13.church",
+      "u13.museum",
+      "u13.library"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-l4",
+   "title": "4. hotel, restaurant, street…",
+   "focus": "listening",
+   "newItems": [
+    "u13.hotel",
+    "u13.restaurant",
+    "u13.street",
+    "u13.corner"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.hotel",
+      "u13.restaurant"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u13.street",
+      "u13.corner"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.hotel",
+      "u13.restaurant",
+      "u13.street",
+      "u13.corner"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.hotel",
+      "u13.restaurant",
+      "u13.street",
+      "u13.corner"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.hotel",
+      "u13.restaurant"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.museum",
+      "u13.library",
+      "u13.post-office",
+      "u13.bus-stop",
+      "u13.train-station",
+      "u13.airport"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-l5",
+   "title": "5. traffic light, Where is the bank?, Is it far?…",
+   "focus": "listening",
+   "newItems": [
+    "u13.traffic-light",
+    "u13.where-is-the-bank",
+    "u13.is-it-far",
+    "u13.it-s-near-here"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.traffic-light",
+      "u13.where-is-the-bank"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u13.is-it-far",
+      "u13.it-s-near-here"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.traffic-light",
+      "u13.where-is-the-bank",
+      "u13.is-it-far",
+      "u13.it-s-near-here"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.traffic-light",
+      "u13.where-is-the-bank",
+      "u13.is-it-far",
+      "u13.it-s-near-here"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.traffic-light",
+      "u13.where-is-the-bank"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.train-station",
+      "u13.airport",
+      "u13.hotel",
+      "u13.restaurant",
+      "u13.street",
+      "u13.corner"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-l6",
+   "title": "6. Go straight, Turn left, Turn right…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u13.go-straight",
+    "u13.turn-left",
+    "u13.turn-right",
+    "u13.it-s-on-the-left"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.go-straight",
+      "u13.turn-left"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u13.turn-right",
+      "u13.it-s-on-the-left"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.go-straight",
+      "u13.turn-left",
+      "u13.turn-right",
+      "u13.it-s-on-the-left"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.go-straight",
+      "u13.turn-left",
+      "u13.turn-right",
+      "u13.it-s-on-the-left"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.go-straight",
+      "u13.turn-left"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.street",
+      "u13.corner",
+      "u13.traffic-light",
+      "u13.where-is-the-bank",
+      "u13.is-it-far",
+      "u13.it-s-near-here"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Perdido en el centro",
+     "scene": "🗺️ Le preguntas a una señora en la calle.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Excuse me. Where is the train station?",
+       "es": "Disculpe. ¿Dónde queda la estación de tren?"
+      },
+      {
+       "who": "Woman",
+       "en": "Go straight and turn left at the traffic light.",
+       "es": "Siga derecho y gire a la izquierda en el semáforo."
+      },
+      {
+       "who": "You",
+       "en": "Is it far?",
+       "es": "¿Queda lejos?"
+      },
+      {
+       "who": "Woman",
+       "en": "No, it's near here. Walk two blocks. It's on the right, across from the park.",
+       "es": "No, queda cerca. Camine dos cuadras. Está a la derecha, enfrente del parque."
+      },
+      {
+       "who": "You",
+       "en": "Thank you very much!",
+       "es": "¡Muchas gracias!"
+      },
+      {
+       "who": "Woman",
+       "en": "You're welcome.",
+       "es": "Con gusto."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-l7",
+   "title": "7. It's on the right, across from, behind…",
+   "focus": "reading",
+   "newItems": [
+    "u13.it-s-on-the-right",
+    "u13.across-from",
+    "u13.behind",
+    "u13.in-front-of"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.it-s-on-the-right",
+      "u13.across-from"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u13.behind",
+      "u13.in-front-of"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.it-s-on-the-right",
+      "u13.across-from",
+      "u13.behind",
+      "u13.in-front-of"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.it-s-on-the-right",
+      "u13.across-from",
+      "u13.behind",
+      "u13.in-front-of"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.it-s-on-the-right",
+      "u13.across-from"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.is-it-far",
+      "u13.it-s-near-here",
+      "u13.go-straight",
+      "u13.turn-left",
+      "u13.turn-right",
+      "u13.it-s-on-the-left"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-l8",
+   "title": "8. walk two blocks, I'm lost",
+   "focus": "listening",
+   "newItems": [
+    "u13.walk-two-blocks",
+    "u13.i-m-lost"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u13.walk-two-blocks",
+      "u13.i-m-lost"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.walk-two-blocks",
+      "u13.i-m-lost"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.walk-two-blocks",
+      "u13.i-m-lost"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.walk-two-blocks",
+      "u13.i-m-lost"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.turn-right",
+      "u13.it-s-on-the-left",
+      "u13.it-s-on-the-right",
+      "u13.across-from",
+      "u13.behind",
+      "u13.in-front-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u13-ciudad-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un día en una ciudad nueva",
+     "emoji": "🏙️",
+     "paragraphs": [
+      {
+       "en": "Lia is in London for the first time. She is very excited.",
+       "es": "Lia está en Londres por primera vez. Está muy emocionada."
+      },
+      {
+       "en": "In the morning she visits a museum near her hotel.",
+       "es": "Por la mañana visita un museo cerca de su hotel."
+      },
+      {
+       "en": "Then she wants to go to the park, but she is lost.",
+       "es": "Luego quiere ir al parque, pero está perdida."
+      },
+      {
+       "en": "She asks a man: \"Excuse me, where is the park?\"",
+       "es": "Le pregunta a un señor: \"Disculpe, ¿dónde queda el parque?\""
+      },
+      {
+       "en": "\"Go straight and turn right. It's behind the church.\"",
+       "es": "\"Siga derecho y gire a la derecha. Está detrás de la iglesia.\""
+      },
+      {
+       "en": "She finds the park and eats a sandwich under a big tree.",
+       "es": "Encuentra el parque y se come un sándwich debajo de un árbol grande."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Dónde está Lia?",
+       "options": [
+        "En Londres",
+        "En Nueva York",
+        "En Pasto"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué visita por la mañana?",
+       "options": [
+        "Un parque",
+        "Un museo",
+        "Un banco"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde queda el parque?",
+       "options": [
+        "Detrás de la iglesia",
+        "Al lado del hotel",
+        "Enfrente del museo"
+       ],
+       "answer": 0
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Ayuda a un turista",
+     "scene": "🧳 Un turista te pregunta por una farmacia. Está a dos cuadras, a la izquierda.",
+     "turns": [
+      {
+       "who": "Tourist",
+       "en": "Excuse me, is there a pharmacy near here?",
+       "es": "Disculpe, ¿hay una farmacia cerca de aquí?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, there is. Walk two blocks.",
+         "es": "Sí, hay una. Camine dos cuadras.",
+         "ok": true
+        },
+        {
+         "en": "Yes, I'm a pharmacy.",
+         "es": "Sí, soy una farmacia.",
+         "ok": false,
+         "why": "Tú no eres la farmacia."
+        }
+       ]
+      },
+      {
+       "who": "Tourist",
+       "en": "Do I turn right?",
+       "es": "¿Giro a la derecha?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No, turn left. It's on the left.",
+         "es": "No, gire a la izquierda. Está a la izquierda.",
+         "ok": true
+        },
+        {
+         "en": "No, turns left.",
+         "es": "No, gira a la izquierda.",
+         "ok": false,
+         "why": "Para instrucciones el verbo va sin -s: turn."
+        }
+       ]
+      },
+      {
+       "who": "Tourist",
+       "en": "Thank you so much!",
+       "es": "¡Muchísimas gracias!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "You're welcome. Have a nice day!",
+         "es": "Con gusto. ¡Que tenga un buen día!",
+         "ok": true
+        },
+        {
+         "en": "I'm lost.",
+         "es": "Estoy perdido.",
+         "ok": false,
+         "why": "El perdido es el turista."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Dónde queda el banco?",
+     "en": "Where is the bank?",
+     "accept": [
+      "Where's the bank?"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Gire a la derecha en la esquina.",
+     "en": "Turn right at the corner."
+    },
+    {
+     "type": "write",
+     "es": "Estoy perdido.",
+     "en": "I'm lost.",
+     "accept": [
+      "I am lost."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "It's across from the supermarket.",
+     "es": "Queda enfrente del supermercado."
+    },
+    {
+     "type": "dictation",
+     "en": "Go straight and turn left.",
+     "es": "Siga derecho y gire a la izquierda."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u13.turn-right",
+      "u13.it-s-on-the-left",
+      "u13.it-s-on-the-right",
+      "u13.across-from",
+      "u13.behind",
+      "u13.in-front-of",
+      "u13.walk-two-blocks",
+      "u13.i-m-lost"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

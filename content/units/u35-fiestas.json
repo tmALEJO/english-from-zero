@@ -1,0 +1,1312 @@
+{
+ "_generated": true,
+ "id": "u35-fiestas",
+ "level": "A2",
+ "title": "Fiestas e invitaciones",
+ "emoji": "🎉",
+ "canDo": "Ya puedo invitar, aceptar y rechazar invitaciones con amabilidad",
+ "summary": "Celebraciones, invitar con Would you like…?, aceptar, rechazar y dar excusas.",
+ "grammar": [
+  "Would you like to…?",
+  "Let's… / How about…?"
+ ],
+ "items": [
+  {
+   "id": "u35.invite",
+   "en": "invite",
+   "es": "invitar",
+   "kind": "word",
+   "emoji": "💌",
+   "say": "in-váit"
+  },
+  {
+   "id": "u35.invitation",
+   "en": "invitation",
+   "es": "invitación",
+   "kind": "word",
+   "emoji": "✉️",
+   "say": "in-vi-téi-shon"
+  },
+  {
+   "id": "u35.accept",
+   "en": "accept",
+   "es": "aceptar",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "ak-sépt"
+  },
+  {
+   "id": "u35.refuse",
+   "en": "refuse",
+   "es": "rechazar",
+   "kind": "word",
+   "emoji": "❌",
+   "say": "ri-fiús"
+  },
+  {
+   "id": "u35.guest",
+   "en": "guest",
+   "es": "invitado",
+   "kind": "word",
+   "emoji": "🧑‍🤝‍🧑",
+   "say": "gest"
+  },
+  {
+   "id": "u35.host",
+   "en": "host",
+   "es": "anfitrión",
+   "kind": "word",
+   "emoji": "🏠",
+   "say": "jóust"
+  },
+  {
+   "id": "u35.gift",
+   "en": "gift",
+   "es": "regalo",
+   "kind": "word",
+   "emoji": "🎁",
+   "say": "guift"
+  },
+  {
+   "id": "u35.candle",
+   "en": "candle",
+   "es": "vela",
+   "kind": "word",
+   "emoji": "🕯️",
+   "say": "kán-dol"
+  },
+  {
+   "id": "u35.balloon",
+   "en": "balloon",
+   "es": "globo",
+   "kind": "word",
+   "emoji": "🎈",
+   "say": "ba-lúun"
+  },
+  {
+   "id": "u35.cake",
+   "en": "cake",
+   "es": "pastel / torta",
+   "kind": "word",
+   "emoji": "🍰",
+   "say": "kéik"
+  },
+  {
+   "id": "u35.decorations",
+   "en": "decorations",
+   "es": "decoración",
+   "kind": "word",
+   "emoji": "🎊",
+   "say": "de-ko-réi-shons"
+  },
+  {
+   "id": "u35.fireworks",
+   "en": "fireworks",
+   "es": "fuegos artificiales",
+   "kind": "word",
+   "emoji": "🎆",
+   "say": "fáier-uerks"
+  },
+  {
+   "id": "u35.costume",
+   "en": "costume",
+   "es": "disfraz",
+   "kind": "word",
+   "emoji": "🎭",
+   "say": "kós-tium"
+  },
+  {
+   "id": "u35.christmas",
+   "en": "Christmas",
+   "es": "Navidad",
+   "kind": "word",
+   "emoji": "🎄",
+   "say": "krís-mas"
+  },
+  {
+   "id": "u35.new-year-s-eve",
+   "en": "New Year's Eve",
+   "es": "fin de año / Nochevieja",
+   "kind": "chunk",
+   "emoji": "🥂"
+  },
+  {
+   "id": "u35.halloween",
+   "en": "Halloween",
+   "es": "Halloween",
+   "kind": "word",
+   "emoji": "🎃",
+   "say": "ja-lou-íin"
+  },
+  {
+   "id": "u35.anniversary",
+   "en": "anniversary",
+   "es": "aniversario",
+   "kind": "word",
+   "emoji": "💞",
+   "say": "a-ni-vér-sa-ri"
+  },
+  {
+   "id": "u35.graduation",
+   "en": "graduation",
+   "es": "graduación / grado",
+   "kind": "word",
+   "emoji": "🎓",
+   "say": "gra-yu-éi-shon"
+  },
+  {
+   "id": "u35.barbecue",
+   "en": "barbecue",
+   "es": "asado",
+   "kind": "word",
+   "emoji": "🍖",
+   "say": "bár-bi-kiu"
+  },
+  {
+   "id": "u35.toast",
+   "en": "toast",
+   "es": "brindis / brindar",
+   "kind": "word",
+   "emoji": "🥂",
+   "say": "tóust"
+  },
+  {
+   "id": "u35.cheers",
+   "en": "cheers!",
+   "es": "¡salud! (al brindar)",
+   "kind": "word",
+   "emoji": "🍻",
+   "say": "chíers"
+  },
+  {
+   "id": "u35.congratulations",
+   "en": "congratulations!",
+   "es": "¡felicitaciones!",
+   "kind": "word",
+   "emoji": "👏",
+   "say": "kon-gra-chu-léi-shons"
+  },
+  {
+   "id": "u35.happy-birthday",
+   "en": "Happy birthday!",
+   "es": "¡Feliz cumpleaños!",
+   "kind": "chunk",
+   "emoji": "🎂"
+  },
+  {
+   "id": "u35.merry-christmas",
+   "en": "Merry Christmas!",
+   "es": "¡Feliz Navidad!",
+   "kind": "chunk",
+   "emoji": "🎅"
+  },
+  {
+   "id": "u35.happy-new-year",
+   "en": "Happy New Year!",
+   "es": "¡Feliz Año Nuevo!",
+   "kind": "chunk",
+   "emoji": "🎆"
+  },
+  {
+   "id": "u35.would-you-like-to-come",
+   "en": "Would you like to come?",
+   "es": "¿Te gustaría venir?",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u35.i-d-love-to",
+   "en": "I'd love to!",
+   "es": "¡Me encantaría!",
+   "kind": "chunk",
+   "emoji": "😍"
+  },
+  {
+   "id": "u35.i-m-afraid-i-can-t",
+   "en": "I'm afraid I can't",
+   "es": "Me temo que no puedo",
+   "kind": "chunk",
+   "emoji": "😕"
+  },
+  {
+   "id": "u35.maybe-next-time",
+   "en": "Maybe next time",
+   "es": "Tal vez la próxima vez",
+   "kind": "chunk",
+   "emoji": "🔜"
+  },
+  {
+   "id": "u35.let-s-go-dancing",
+   "en": "Let's go dancing",
+   "es": "Vamos a bailar",
+   "kind": "chunk",
+   "emoji": "💃"
+  },
+  {
+   "id": "u35.how-about-friday",
+   "en": "How about Friday?",
+   "es": "¿Qué tal el viernes?",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u35.what-should-i-bring",
+   "en": "What should I bring?",
+   "es": "¿Qué llevo?",
+   "kind": "chunk",
+   "emoji": "🧺"
+  },
+  {
+   "id": "u35.dress-code",
+   "en": "dress code",
+   "es": "código de vestimenta",
+   "kind": "chunk",
+   "emoji": "👔"
+  },
+  {
+   "id": "u35.surprise-party",
+   "en": "surprise party",
+   "es": "fiesta sorpresa",
+   "kind": "chunk",
+   "emoji": "🤫"
+  },
+  {
+   "id": "u35.have-fun",
+   "en": "have fun",
+   "es": "divertirse",
+   "kind": "chunk",
+   "emoji": "🥳"
+  },
+  {
+   "id": "u35.enjoy",
+   "en": "enjoy",
+   "es": "disfrutar",
+   "kind": "word",
+   "emoji": "😊",
+   "say": "en-yói"
+  },
+  {
+   "id": "u35.tradition",
+   "en": "tradition",
+   "es": "tradición",
+   "kind": "word",
+   "emoji": "🪅",
+   "say": "tra-dí-shon"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u35-fiestas-l1",
+   "title": "1. invite, invitation, accept…",
+   "focus": "listening",
+   "newItems": [
+    "u35.invite",
+    "u35.invitation",
+    "u35.accept",
+    "u35.refuse"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.invite",
+      "u35.invitation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.accept",
+      "u35.refuse"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.invite",
+      "u35.invitation",
+      "u35.accept",
+      "u35.refuse"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.invite",
+      "u35.invitation",
+      "u35.accept",
+      "u35.refuse"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l2",
+   "title": "2. guest, host, gift…",
+   "focus": "grammar",
+   "newItems": [
+    "u35.guest",
+    "u35.host",
+    "u35.gift",
+    "u35.candle"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.guest",
+      "u35.host"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.gift",
+      "u35.candle"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.guest",
+      "u35.host",
+      "u35.gift",
+      "u35.candle"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.guest",
+      "u35.host",
+      "u35.gift",
+      "u35.candle"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.invite",
+      "u35.invitation",
+      "u35.accept",
+      "u35.refuse"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Invitar y proponer planes",
+     "intro": "Mira tres formas de proponer algo.",
+     "examples": [
+      {
+       "en": "Would you like to come to my party?",
+       "es": "¿Te gustaría venir a mi fiesta?",
+       "mark": [
+        "Would you like to"
+       ]
+      },
+      {
+       "en": "Let's go dancing on Saturday!",
+       "es": "¡Vamos a bailar el sábado!",
+       "mark": [
+        "Let's"
+       ]
+      },
+      {
+       "en": "How about a barbecue on Sunday?",
+       "es": "¿Qué tal un asado el domingo?",
+       "mark": [
+        "How about"
+       ]
+      },
+      {
+       "en": "How about going to the cinema?",
+       "es": "¿Qué tal si vamos al cine?",
+       "mark": [
+        "How about going"
+       ]
+      },
+      {
+       "en": "Would you like some cake?",
+       "es": "¿Quieres torta?",
+       "mark": [
+        "Would you like"
+       ]
+      }
+     ],
+     "question": "¿Qué va después de How about cuando es una acción?",
+     "options": [
+      "El verbo con -ing",
+      "to + verbo",
+      "El verbo en pasado"
+     ],
+     "answer": 0,
+     "rule": "Would you like to + verbo = ¿te gustaría…? (invitación amable). Let's + verbo = ¡hagamos…! How about + cosa o verbo con -ing = ¿qué tal…? (How about going…?). Para rechazar con amabilidad: I'm afraid I can't… / Maybe next time.",
+     "ruleExamples": [
+      {
+       "en": "Would you like to come? — I'd love to! / I'm afraid I can't.",
+       "es": "¿Te gustaría venir? — ¡Me encantaría! / Me temo que no puedo."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "Would you like ___ come to dinner?",
+     "options": [
+      "to",
+      "—"
+     ],
+     "answer": 0,
+     "es": "¿Te gustaría venir a cenar?"
+    },
+    {
+     "type": "fill",
+     "en": "How about ___ to the beach?",
+     "options": [
+      "going",
+      "go"
+     ],
+     "answer": 0,
+     "es": "¿Qué tal si vamos a la playa?"
+    },
+    {
+     "type": "fill",
+     "en": "___ go to the concert together!",
+     "options": [
+      "Let's",
+      "Let"
+     ],
+     "answer": 0,
+     "es": "¡Vamos juntos al concierto!"
+    },
+    {
+     "type": "fill",
+     "en": "I'm ___ I can't. I have to work.",
+     "options": [
+      "afraid",
+      "scared"
+     ],
+     "answer": 0,
+     "es": "Me temo que no puedo. Tengo que trabajar."
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l3",
+   "title": "3. balloon, cake, decorations…",
+   "focus": "reading",
+   "newItems": [
+    "u35.balloon",
+    "u35.cake",
+    "u35.decorations",
+    "u35.fireworks"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.balloon",
+      "u35.cake"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.decorations",
+      "u35.fireworks"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.balloon",
+      "u35.cake",
+      "u35.decorations",
+      "u35.fireworks"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.balloon",
+      "u35.cake",
+      "u35.decorations",
+      "u35.fireworks"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.accept",
+      "u35.refuse",
+      "u35.guest",
+      "u35.host",
+      "u35.gift",
+      "u35.candle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l4",
+   "title": "4. costume, Christmas, New Year's Eve…",
+   "focus": "listening",
+   "newItems": [
+    "u35.costume",
+    "u35.christmas",
+    "u35.new-year-s-eve",
+    "u35.halloween"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.costume",
+      "u35.christmas"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.new-year-s-eve",
+      "u35.halloween"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.costume",
+      "u35.christmas",
+      "u35.new-year-s-eve",
+      "u35.halloween"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.costume",
+      "u35.christmas",
+      "u35.new-year-s-eve",
+      "u35.halloween"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.gift",
+      "u35.candle",
+      "u35.balloon",
+      "u35.cake",
+      "u35.decorations",
+      "u35.fireworks"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l5",
+   "title": "5. anniversary, graduation, barbecue…",
+   "focus": "listening",
+   "newItems": [
+    "u35.anniversary",
+    "u35.graduation",
+    "u35.barbecue",
+    "u35.toast"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.anniversary",
+      "u35.graduation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.barbecue",
+      "u35.toast"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.anniversary",
+      "u35.graduation",
+      "u35.barbecue",
+      "u35.toast"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.anniversary",
+      "u35.graduation",
+      "u35.barbecue",
+      "u35.toast"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.decorations",
+      "u35.fireworks",
+      "u35.costume",
+      "u35.christmas",
+      "u35.new-year-s-eve",
+      "u35.halloween"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l6",
+   "title": "6. cheers!, congratulations!, Happy birthday!…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u35.cheers",
+    "u35.congratulations",
+    "u35.happy-birthday",
+    "u35.merry-christmas"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.cheers",
+      "u35.congratulations"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.happy-birthday",
+      "u35.merry-christmas"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.cheers",
+      "u35.congratulations",
+      "u35.happy-birthday",
+      "u35.merry-christmas"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.cheers",
+      "u35.congratulations",
+      "u35.happy-birthday",
+      "u35.merry-christmas"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.new-year-s-eve",
+      "u35.halloween",
+      "u35.anniversary",
+      "u35.graduation",
+      "u35.barbecue",
+      "u35.toast"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l7",
+   "title": "7. Happy New Year!, Would you like to come?, I'd love to!…",
+   "focus": "reading",
+   "newItems": [
+    "u35.happy-new-year",
+    "u35.would-you-like-to-come",
+    "u35.i-d-love-to",
+    "u35.i-m-afraid-i-can-t"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.happy-new-year",
+      "u35.would-you-like-to-come"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.i-d-love-to",
+      "u35.i-m-afraid-i-can-t"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.happy-new-year",
+      "u35.would-you-like-to-come",
+      "u35.i-d-love-to",
+      "u35.i-m-afraid-i-can-t"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.happy-new-year",
+      "u35.would-you-like-to-come",
+      "u35.i-d-love-to",
+      "u35.i-m-afraid-i-can-t"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.barbecue",
+      "u35.toast",
+      "u35.cheers",
+      "u35.congratulations",
+      "u35.happy-birthday",
+      "u35.merry-christmas"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l8",
+   "title": "8. Maybe next time, Let's go dancing, How about Friday?…",
+   "focus": "listening",
+   "newItems": [
+    "u35.maybe-next-time",
+    "u35.let-s-go-dancing",
+    "u35.how-about-friday",
+    "u35.what-should-i-bring"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.maybe-next-time",
+      "u35.let-s-go-dancing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.how-about-friday",
+      "u35.what-should-i-bring"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.maybe-next-time",
+      "u35.let-s-go-dancing",
+      "u35.how-about-friday",
+      "u35.what-should-i-bring"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.maybe-next-time",
+      "u35.let-s-go-dancing",
+      "u35.how-about-friday",
+      "u35.what-should-i-bring"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.happy-birthday",
+      "u35.merry-christmas",
+      "u35.happy-new-year",
+      "u35.would-you-like-to-come",
+      "u35.i-d-love-to",
+      "u35.i-m-afraid-i-can-t"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Una invitación",
+     "scene": "📱 Tu amiga te llama para invitarte.",
+     "lines": [
+      {
+       "who": "Ana",
+       "en": "Hi! It's my birthday on Saturday. Would you like to come to my party?",
+       "es": "¡Hola! El sábado es mi cumpleaños. ¿Te gustaría venir a mi fiesta?"
+      },
+      {
+       "who": "You",
+       "en": "I'd love to! What time?",
+       "es": "¡Me encantaría! ¿A qué hora?"
+      },
+      {
+       "who": "Ana",
+       "en": "At eight. It's a costume party!",
+       "es": "A las ocho. ¡Es una fiesta de disfraces!"
+      },
+      {
+       "who": "You",
+       "en": "Fun! What should I bring?",
+       "es": "¡Qué chévere! ¿Qué llevo?"
+      },
+      {
+       "who": "Ana",
+       "en": "Nothing, just bring your costume.",
+       "es": "Nada, solo trae tu disfraz."
+      },
+      {
+       "who": "You",
+       "en": "Great. See you on Saturday!",
+       "es": "Genial. ¡Nos vemos el sábado!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l9",
+   "title": "9. dress code, surprise party, have fun…",
+   "focus": "listening",
+   "newItems": [
+    "u35.dress-code",
+    "u35.surprise-party",
+    "u35.have-fun",
+    "u35.enjoy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.dress-code",
+      "u35.surprise-party"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u35.have-fun",
+      "u35.enjoy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.dress-code",
+      "u35.surprise-party",
+      "u35.have-fun",
+      "u35.enjoy"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.dress-code",
+      "u35.surprise-party",
+      "u35.have-fun",
+      "u35.enjoy"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.i-d-love-to",
+      "u35.i-m-afraid-i-can-t",
+      "u35.maybe-next-time",
+      "u35.let-s-go-dancing",
+      "u35.how-about-friday",
+      "u35.what-should-i-bring"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-l10",
+   "title": "10. tradition",
+   "focus": "vocabulary",
+   "newItems": [
+    "u35.tradition"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u35.tradition"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.tradition"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.tradition"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.how-about-friday",
+      "u35.what-should-i-bring",
+      "u35.dress-code",
+      "u35.surprise-party",
+      "u35.have-fun",
+      "u35.enjoy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u35-fiestas-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La fiesta sorpresa",
+     "emoji": "🤫",
+     "paragraphs": [
+      {
+       "en": "Last month it was Mr. and Mrs. López's anniversary: thirty years together!",
+       "es": "El mes pasado fue el aniversario del señor y la señora López: ¡treinta años juntos!"
+      },
+      {
+       "en": "Their children planned a surprise party. They invited all the family and friends.",
+       "es": "Sus hijos planearon una fiesta sorpresa. Invitaron a toda la familia y los amigos."
+      },
+      {
+       "en": "The guests arrived early and hid in the dark living room.",
+       "es": "Los invitados llegaron temprano y se escondieron en la sala oscura."
+      },
+      {
+       "en": "When the couple opened the door, everybody shouted \"Surprise!\"",
+       "es": "Cuando la pareja abrió la puerta, todos gritaron \"¡Sorpresa!\""
+      },
+      {
+       "en": "Mrs. López cried with happiness. There were balloons, flowers and a big cake.",
+       "es": "La señora López lloró de felicidad. Había globos, flores y una torta grande."
+      },
+      {
+       "en": "At midnight everybody made a toast: \"Cheers to thirty more years!\"",
+       "es": "A la medianoche todos brindaron: \"¡Salud por treinta años más!\""
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué celebraban?",
+       "options": [
+        "Un cumpleaños",
+        "Un aniversario de treinta años",
+        "Una graduación"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Dónde se escondieron los invitados?",
+       "options": [
+        "En el jardín",
+        "En la sala oscura",
+        "En la cocina"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué hizo la señora López?",
+       "options": [
+        "Se enojó",
+        "Lloró de felicidad",
+        "Se fue"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Rechazar con amabilidad",
+     "scene": "💼 Un compañero te invita, pero tienes un examen.",
+     "turns": [
+      {
+       "who": "Leo",
+       "en": "We're going to a barbecue on Sunday. Would you like to come?",
+       "es": "Vamos a hacer un asado el domingo. ¿Te gustaría venir?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thanks for the invitation, but I'm afraid I can't.",
+         "es": "Gracias por la invitación, pero me temo que no puedo.",
+         "ok": true
+        },
+        {
+         "en": "No. I don't like you.",
+         "es": "No. No me caes bien.",
+         "ok": false,
+         "why": "Es grosero; recházalo con amabilidad."
+        }
+       ]
+      },
+      {
+       "who": "Leo",
+       "en": "Oh, why not?",
+       "es": "Ah, ¿por qué no?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I have an important exam on Monday. I have to study.",
+         "es": "Tengo un examen importante el lunes. Tengo que estudiar.",
+         "ok": true
+        },
+        {
+         "en": "I have an exam yesterday.",
+         "es": "Tengo un examen ayer.",
+         "ok": false,
+         "why": "Mezcla tiempos."
+        }
+       ]
+      },
+      {
+       "who": "Leo",
+       "en": "No problem. Good luck!",
+       "es": "No hay problema. ¡Buena suerte!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thanks! Maybe next time. Have fun!",
+         "es": "¡Gracias! Tal vez la próxima. ¡Diviértanse!",
+         "ok": true
+        },
+        {
+         "en": "Congratulations!",
+         "es": "¡Felicitaciones!",
+         "ok": false,
+         "why": "No hay nada que felicitar aquí."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Te gustaría venir a mi fiesta?",
+     "en": "Would you like to come to my party?"
+    },
+    {
+     "type": "write",
+     "es": "¡Me encantaría!",
+     "en": "I'd love to!",
+     "accept": [
+      "I would love to!"
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me temo que no puedo.",
+     "en": "I'm afraid I can't.",
+     "accept": [
+      "I am afraid I can't.",
+      "I'm afraid I cannot."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "How about going to the beach on Sunday?",
+     "es": "¿Qué tal si vamos a la playa el domingo?"
+    },
+    {
+     "type": "dictation",
+     "en": "Congratulations on your graduation!",
+     "es": "¡Felicitaciones por tu grado!"
+    },
+    {
+     "type": "speak",
+     "en": "Thank you for the invitation. I'd love to come!",
+     "es": "Gracias por la invitación. ¡Me encantaría ir!",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u35.let-s-go-dancing",
+      "u35.how-about-friday",
+      "u35.what-should-i-bring",
+      "u35.dress-code",
+      "u35.surprise-party",
+      "u35.have-fun",
+      "u35.enjoy",
+      "u35.tradition"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

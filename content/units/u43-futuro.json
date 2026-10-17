@@ -1,0 +1,1679 @@
+{
+ "_generated": true,
+ "id": "u43-futuro",
+ "level": "B1",
+ "title": "Predicciones y promesas",
+ "emoji": "🔮",
+ "canDo": "Ya puedo hacer predicciones, promesas, ofertas y decisiones rápidas",
+ "summary": "will para predicciones, promesas y decisiones del momento; diferencia con going to.",
+ "grammar": [
+  "Will vs going to",
+  "will para promesas y ofertas"
+ ],
+ "items": [
+  {
+   "id": "u43.will",
+   "en": "will",
+   "es": "(futuro: hará, iré…)",
+   "kind": "word",
+   "emoji": "🔮",
+   "say": "uil"
+  },
+  {
+   "id": "u43.won-t",
+   "en": "won't",
+   "es": "no (hará / irá…)",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "uóunt"
+  },
+  {
+   "id": "u43.i-ll-help-you",
+   "en": "I'll help you",
+   "es": "Te ayudo / Te ayudaré",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u43.i-ll-call-you-later",
+   "en": "I'll call you later",
+   "es": "Te llamo más tarde",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u43.it-will-rain",
+   "en": "It will rain",
+   "es": "Va a llover / Lloverá",
+   "kind": "chunk",
+   "emoji": "🌧️"
+  },
+  {
+   "id": "u43.i-promise",
+   "en": "I promise",
+   "es": "Lo prometo",
+   "kind": "chunk",
+   "emoji": "🤞",
+   "say": "ai pró-mis"
+  },
+  {
+   "id": "u43.promise",
+   "en": "promise",
+   "es": "promesa / prometer",
+   "kind": "word",
+   "emoji": "🤞"
+  },
+  {
+   "id": "u43.predict",
+   "en": "predict",
+   "es": "predecir",
+   "kind": "word",
+   "emoji": "🔮",
+   "say": "pri-díkt"
+  },
+  {
+   "id": "u43.prediction",
+   "en": "prediction",
+   "es": "predicción",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "pri-dík-shon"
+  },
+  {
+   "id": "u43.future",
+   "en": "future",
+   "es": "futuro",
+   "kind": "word",
+   "emoji": "🚀",
+   "say": "fiú-cher"
+  },
+  {
+   "id": "u43.i-think-it-will",
+   "en": "I think it will…",
+   "es": "Creo que va a…",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u43.i-don-t-think-it-will",
+   "en": "I don't think it will…",
+   "es": "No creo que vaya a…",
+   "kind": "chunk",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u43.probably-will",
+   "en": "probably will",
+   "es": "probablemente",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u43.definitely-won-t",
+   "en": "definitely won't",
+   "es": "definitivamente no",
+   "kind": "chunk",
+   "emoji": "❌"
+  },
+  {
+   "id": "u43.in-ten-years",
+   "en": "in ten years",
+   "es": "dentro de diez años",
+   "kind": "chunk",
+   "emoji": "🔟"
+  },
+  {
+   "id": "u43.by-2050",
+   "en": "by 2050",
+   "es": "para 2050",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u43.one-day",
+   "en": "one day",
+   "es": "algún día",
+   "kind": "chunk",
+   "emoji": "🌄"
+  },
+  {
+   "id": "u43.robot",
+   "en": "robot",
+   "es": "robot",
+   "kind": "word",
+   "emoji": "🤖",
+   "say": "róu-bot"
+  },
+  {
+   "id": "u43.artificial-intelligence",
+   "en": "artificial intelligence",
+   "es": "inteligencia artificial",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u43.self-driving-car",
+   "en": "self-driving car",
+   "es": "carro autónomo",
+   "kind": "chunk",
+   "emoji": "🚘"
+  },
+  {
+   "id": "u43.space-travel",
+   "en": "space travel",
+   "es": "viajes espaciales",
+   "kind": "chunk",
+   "emoji": "🚀"
+  },
+  {
+   "id": "u43.planet",
+   "en": "planet",
+   "es": "planeta",
+   "kind": "word",
+   "emoji": "🪐",
+   "say": "plá-net"
+  },
+  {
+   "id": "u43.population",
+   "en": "population",
+   "es": "población",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "po-piu-léi-shon"
+  },
+  {
+   "id": "u43.technology",
+   "en": "technology",
+   "es": "tecnología",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "tek-nó-lo-yi"
+  },
+  {
+   "id": "u43.invent",
+   "en": "invent",
+   "es": "inventar",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "in-vént"
+  },
+  {
+   "id": "u43.invention",
+   "en": "invention",
+   "es": "invento",
+   "kind": "word",
+   "emoji": "⚙️",
+   "say": "in-vén-shon"
+  },
+  {
+   "id": "u43.discover",
+   "en": "discover",
+   "es": "descubrir",
+   "kind": "word",
+   "emoji": "🔭",
+   "say": "dis-ká-ver"
+  },
+  {
+   "id": "u43.replace",
+   "en": "replace",
+   "es": "reemplazar",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "ri-pléis"
+  },
+  {
+   "id": "u43.disappear",
+   "en": "disappear",
+   "es": "desaparecer",
+   "kind": "word",
+   "emoji": "🫥",
+   "say": "di-sa-píer"
+  },
+  {
+   "id": "u43.exist",
+   "en": "exist",
+   "es": "existir",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "eg-síst"
+  },
+  {
+   "id": "u43.offer",
+   "en": "offer",
+   "es": "ofrecer / oferta",
+   "kind": "word",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u43.decide",
+   "en": "decide",
+   "es": "decidir",
+   "kind": "word",
+   "emoji": "☑️"
+  },
+  {
+   "id": "u43.decision",
+   "en": "decision",
+   "es": "decisión",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "di-sí-shon"
+  },
+  {
+   "id": "u43.on-the-spot",
+   "en": "on the spot",
+   "es": "en el momento / en el acto",
+   "kind": "chunk",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u43.shall-i-open-the-window",
+   "en": "Shall I open the window?",
+   "es": "¿Abro la ventana?",
+   "kind": "chunk",
+   "emoji": "🪟"
+  },
+  {
+   "id": "u43.i-ll-have-the-chicken",
+   "en": "I'll have the chicken",
+   "es": "Yo quiero el pollo (al pedir)",
+   "kind": "chunk",
+   "emoji": "🍗"
+  },
+  {
+   "id": "u43.don-t-worry-i-won-t-tell-anyone",
+   "en": "Don't worry, I won't tell anyone",
+   "es": "Tranquilo, no le diré a nadie",
+   "kind": "chunk",
+   "emoji": "🤐"
+  },
+  {
+   "id": "u43.it-won-t-happen-again",
+   "en": "It won't happen again",
+   "es": "No volverá a pasar",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u43.i-m-sure",
+   "en": "I'm sure",
+   "es": "Estoy seguro",
+   "kind": "chunk",
+   "emoji": "✔️"
+  },
+  {
+   "id": "u43.i-doubt-it",
+   "en": "I doubt it",
+   "es": "Lo dudo",
+   "kind": "chunk",
+   "emoji": "🤨",
+   "say": "dáut",
+   "tip": "La b no suena."
+  },
+  {
+   "id": "u43.optimistic",
+   "en": "optimistic",
+   "es": "optimista",
+   "kind": "word",
+   "emoji": "😃",
+   "say": "op-ti-mís-tik"
+  },
+  {
+   "id": "u43.pessimistic",
+   "en": "pessimistic",
+   "es": "pesimista",
+   "kind": "word",
+   "emoji": "😟",
+   "say": "pe-si-mís-tik"
+  },
+  {
+   "id": "u43.likely",
+   "en": "likely",
+   "es": "probable",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "láik-li"
+  },
+  {
+   "id": "u43.unlikely",
+   "en": "unlikely",
+   "es": "improbable",
+   "kind": "word",
+   "emoji": "👎",
+   "say": "an-láik-li"
+  },
+  {
+   "id": "u43.fortune-teller",
+   "en": "fortune teller",
+   "es": "adivino / pitonisa",
+   "kind": "chunk",
+   "emoji": "🔮"
+  },
+  {
+   "id": "u43.horoscope",
+   "en": "horoscope",
+   "es": "horóscopo",
+   "kind": "word",
+   "emoji": "♉",
+   "say": "jó-ros-koup"
+  },
+  {
+   "id": "u43.lucky-number",
+   "en": "lucky number",
+   "es": "número de la suerte",
+   "kind": "chunk",
+   "emoji": "🍀"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u43-futuro-l1",
+   "title": "1. will, won't, I'll help you…",
+   "focus": "listening",
+   "newItems": [
+    "u43.will",
+    "u43.won-t",
+    "u43.i-ll-help-you",
+    "u43.i-ll-call-you-later"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.will",
+      "u43.won-t"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.i-ll-help-you",
+      "u43.i-ll-call-you-later"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.will",
+      "u43.won-t",
+      "u43.i-ll-help-you",
+      "u43.i-ll-call-you-later"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.will",
+      "u43.won-t",
+      "u43.i-ll-help-you",
+      "u43.i-ll-call-you-later"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.will",
+      "u43.won-t",
+      "u43.i-ll-help-you",
+      "u43.i-ll-call-you-later"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l2",
+   "title": "2. It will rain, I promise, promise…",
+   "focus": "grammar",
+   "newItems": [
+    "u43.it-will-rain",
+    "u43.i-promise",
+    "u43.promise",
+    "u43.predict"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.it-will-rain",
+      "u43.i-promise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.promise",
+      "u43.predict"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.it-will-rain",
+      "u43.i-promise",
+      "u43.promise",
+      "u43.predict"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.it-will-rain",
+      "u43.i-promise",
+      "u43.promise",
+      "u43.predict"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.it-will-rain",
+      "u43.i-promise",
+      "u43.promise",
+      "u43.predict"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.will",
+      "u43.won-t",
+      "u43.i-ll-help-you",
+      "u43.i-ll-call-you-later"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "will vs going to",
+     "intro": "Compara estas dos formas de futuro.",
+     "examples": [
+      {
+       "en": "I'm going to study medicine. (ya lo planeé)",
+       "es": "Voy a estudiar medicina.",
+       "mark": [
+        "going to"
+       ]
+      },
+      {
+       "en": "Look at those clouds! It's going to rain. (lo veo venir)",
+       "es": "¡Mira esas nubes! Va a llover.",
+       "mark": [
+        "going to"
+       ]
+      },
+      {
+       "en": "The phone is ringing. I'll answer it! (decido ahora)",
+       "es": "Está sonando el teléfono. ¡Yo contesto!",
+       "mark": [
+        "I'll"
+       ]
+      },
+      {
+       "en": "I'll help you with your homework. I promise.",
+       "es": "Te ayudo con la tarea. Lo prometo.",
+       "mark": [
+        "I'll"
+       ]
+      },
+      {
+       "en": "I think robots will do many jobs in the future.",
+       "es": "Creo que los robots harán muchos trabajos en el futuro.",
+       "mark": [
+        "will"
+       ]
+      }
+     ],
+     "question": "¿Cuándo se usa will?",
+     "options": [
+      "Para planes ya decididos",
+      "Para decisiones del momento, promesas y opiniones sobre el futuro"
+     ],
+     "answer": 1,
+     "rule": "going to = planes que ya tenías y cosas que ves venir. will = decisiones en el momento (I'll take it), promesas (I'll call you), ofertas (I'll help you) y predicciones basadas en opinión (I think it will…). will es igual para todas las personas; negativo: won't.",
+     "ruleExamples": [
+      {
+       "en": "A: I'm thirsty. B: I'll get you some water.",
+       "es": "A: Tengo sed. B: Te traigo agua."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "\"The bag is heavy.\" \"I ___ help you.\"",
+     "options": [
+      "'ll",
+      "'m going to"
+     ],
+     "answer": 0,
+     "es": "\"El bolso está pesado.\" \"Te ayudo.\""
+    },
+    {
+     "type": "fill",
+     "en": "I ___ to visit my aunt next week. I bought the tickets.",
+     "options": [
+      "'m going",
+      "will"
+     ],
+     "answer": 0,
+     "es": "Voy a visitar a mi tía la próxima semana. Ya compré los pasajes."
+    },
+    {
+     "type": "fill",
+     "en": "Don't worry, I ___ tell anyone.",
+     "options": [
+      "won't",
+      "don't"
+     ],
+     "answer": 0,
+     "es": "Tranquilo, no le diré a nadie."
+    },
+    {
+     "type": "fill",
+     "en": "I think people ___ live on Mars one day.",
+     "options": [
+      "will",
+      "are"
+     ],
+     "answer": 0,
+     "es": "Creo que la gente vivirá en Marte algún día."
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l3",
+   "title": "3. prediction, future, I think it will……",
+   "focus": "reading",
+   "newItems": [
+    "u43.prediction",
+    "u43.future",
+    "u43.i-think-it-will",
+    "u43.i-don-t-think-it-will"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.prediction",
+      "u43.future"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.i-think-it-will",
+      "u43.i-don-t-think-it-will"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.prediction",
+      "u43.future",
+      "u43.i-think-it-will",
+      "u43.i-don-t-think-it-will"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.prediction",
+      "u43.future",
+      "u43.i-think-it-will",
+      "u43.i-don-t-think-it-will"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.prediction",
+      "u43.future",
+      "u43.i-think-it-will",
+      "u43.i-don-t-think-it-will"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.i-ll-help-you",
+      "u43.i-ll-call-you-later",
+      "u43.it-will-rain",
+      "u43.i-promise",
+      "u43.promise",
+      "u43.predict"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l4",
+   "title": "4. probably will, definitely won't, in ten years…",
+   "focus": "listening",
+   "newItems": [
+    "u43.probably-will",
+    "u43.definitely-won-t",
+    "u43.in-ten-years",
+    "u43.by-2050"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.probably-will",
+      "u43.definitely-won-t"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.in-ten-years",
+      "u43.by-2050"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.probably-will",
+      "u43.definitely-won-t",
+      "u43.in-ten-years",
+      "u43.by-2050"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.probably-will",
+      "u43.definitely-won-t",
+      "u43.in-ten-years",
+      "u43.by-2050"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.probably-will",
+      "u43.definitely-won-t",
+      "u43.in-ten-years",
+      "u43.by-2050"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.promise",
+      "u43.predict",
+      "u43.prediction",
+      "u43.future",
+      "u43.i-think-it-will",
+      "u43.i-don-t-think-it-will"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l5",
+   "title": "5. one day, robot, artificial intelligence…",
+   "focus": "listening",
+   "newItems": [
+    "u43.one-day",
+    "u43.robot",
+    "u43.artificial-intelligence",
+    "u43.self-driving-car"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.one-day",
+      "u43.robot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.artificial-intelligence",
+      "u43.self-driving-car"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.one-day",
+      "u43.robot",
+      "u43.artificial-intelligence",
+      "u43.self-driving-car"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.one-day",
+      "u43.robot",
+      "u43.artificial-intelligence",
+      "u43.self-driving-car"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.one-day",
+      "u43.robot",
+      "u43.artificial-intelligence",
+      "u43.self-driving-car"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.i-think-it-will",
+      "u43.i-don-t-think-it-will",
+      "u43.probably-will",
+      "u43.definitely-won-t",
+      "u43.in-ten-years",
+      "u43.by-2050"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l6",
+   "title": "6. space travel, planet, population…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u43.space-travel",
+    "u43.planet",
+    "u43.population",
+    "u43.technology"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.space-travel",
+      "u43.planet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.population",
+      "u43.technology"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.space-travel",
+      "u43.planet",
+      "u43.population",
+      "u43.technology"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.space-travel",
+      "u43.planet",
+      "u43.population",
+      "u43.technology"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.space-travel",
+      "u43.planet",
+      "u43.population",
+      "u43.technology"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.in-ten-years",
+      "u43.by-2050",
+      "u43.one-day",
+      "u43.robot",
+      "u43.artificial-intelligence",
+      "u43.self-driving-car"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l7",
+   "title": "7. invent, invention, discover…",
+   "focus": "reading",
+   "newItems": [
+    "u43.invent",
+    "u43.invention",
+    "u43.discover",
+    "u43.replace"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.invent",
+      "u43.invention"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.discover",
+      "u43.replace"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.invent",
+      "u43.invention",
+      "u43.discover",
+      "u43.replace"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.invent",
+      "u43.invention",
+      "u43.discover",
+      "u43.replace"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.invent",
+      "u43.invention",
+      "u43.discover",
+      "u43.replace"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.artificial-intelligence",
+      "u43.self-driving-car",
+      "u43.space-travel",
+      "u43.planet",
+      "u43.population",
+      "u43.technology"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l8",
+   "title": "8. disappear, exist, offer…",
+   "focus": "listening",
+   "newItems": [
+    "u43.disappear",
+    "u43.exist",
+    "u43.offer",
+    "u43.decide"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.disappear",
+      "u43.exist"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.offer",
+      "u43.decide"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.disappear",
+      "u43.exist",
+      "u43.offer",
+      "u43.decide"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.disappear",
+      "u43.exist",
+      "u43.offer",
+      "u43.decide"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.disappear",
+      "u43.exist",
+      "u43.offer",
+      "u43.decide"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.population",
+      "u43.technology",
+      "u43.invent",
+      "u43.invention",
+      "u43.discover",
+      "u43.replace"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l9",
+   "title": "9. decision, on the spot, Shall I open the window?…",
+   "focus": "listening",
+   "newItems": [
+    "u43.decision",
+    "u43.on-the-spot",
+    "u43.shall-i-open-the-window",
+    "u43.i-ll-have-the-chicken"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.decision",
+      "u43.on-the-spot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.shall-i-open-the-window",
+      "u43.i-ll-have-the-chicken"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.decision",
+      "u43.on-the-spot",
+      "u43.shall-i-open-the-window",
+      "u43.i-ll-have-the-chicken"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.decision",
+      "u43.on-the-spot",
+      "u43.shall-i-open-the-window",
+      "u43.i-ll-have-the-chicken"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.decision",
+      "u43.on-the-spot",
+      "u43.shall-i-open-the-window",
+      "u43.i-ll-have-the-chicken"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.discover",
+      "u43.replace",
+      "u43.disappear",
+      "u43.exist",
+      "u43.offer",
+      "u43.decide"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "El futuro del trabajo",
+     "scene": "💼 Debate en una clase de inglés.",
+     "lines": [
+      {
+       "who": "Teacher",
+       "en": "Do you think robots will replace teachers?",
+       "es": "¿Creen que los robots reemplazarán a los profesores?"
+      },
+      {
+       "who": "Andrés",
+       "en": "I think artificial intelligence will help teachers, but it won't replace them.",
+       "es": "Creo que la inteligencia artificial ayudará a los profesores, pero no los reemplazará."
+      },
+      {
+       "who": "María",
+       "en": "I'm not so sure. In twenty years many jobs will disappear.",
+       "es": "No estoy tan segura. En veinte años muchos trabajos van a desaparecer."
+      },
+      {
+       "who": "Andrés",
+       "en": "Maybe, but new jobs will exist too.",
+       "es": "Tal vez, pero también existirán trabajos nuevos."
+      },
+      {
+       "who": "Teacher",
+       "en": "Interesting! Are you optimistic or pessimistic?",
+       "es": "¡Interesante! ¿Son optimistas o pesimistas?"
+      },
+      {
+       "who": "María",
+       "en": "A little pessimistic, to be honest.",
+       "es": "Un poco pesimista, para ser honesta."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l10",
+   "title": "10. Don't worry, I won't tell anyone, It won't happen again, I'm sure…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u43.don-t-worry-i-won-t-tell-anyone",
+    "u43.it-won-t-happen-again",
+    "u43.i-m-sure",
+    "u43.i-doubt-it"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.don-t-worry-i-won-t-tell-anyone",
+      "u43.it-won-t-happen-again"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.i-m-sure",
+      "u43.i-doubt-it"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.don-t-worry-i-won-t-tell-anyone",
+      "u43.it-won-t-happen-again",
+      "u43.i-m-sure",
+      "u43.i-doubt-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.don-t-worry-i-won-t-tell-anyone",
+      "u43.it-won-t-happen-again",
+      "u43.i-m-sure",
+      "u43.i-doubt-it"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.don-t-worry-i-won-t-tell-anyone",
+      "u43.it-won-t-happen-again",
+      "u43.i-m-sure",
+      "u43.i-doubt-it"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.offer",
+      "u43.decide",
+      "u43.decision",
+      "u43.on-the-spot",
+      "u43.shall-i-open-the-window",
+      "u43.i-ll-have-the-chicken"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l11",
+   "title": "11. optimistic, pessimistic, likely…",
+   "focus": "reading",
+   "newItems": [
+    "u43.optimistic",
+    "u43.pessimistic",
+    "u43.likely",
+    "u43.unlikely"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.optimistic",
+      "u43.pessimistic"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.likely",
+      "u43.unlikely"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.optimistic",
+      "u43.pessimistic",
+      "u43.likely",
+      "u43.unlikely"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.optimistic",
+      "u43.pessimistic",
+      "u43.likely",
+      "u43.unlikely"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.optimistic",
+      "u43.pessimistic",
+      "u43.likely",
+      "u43.unlikely"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.shall-i-open-the-window",
+      "u43.i-ll-have-the-chicken",
+      "u43.don-t-worry-i-won-t-tell-anyone",
+      "u43.it-won-t-happen-again",
+      "u43.i-m-sure",
+      "u43.i-doubt-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-l12",
+   "title": "12. fortune teller, horoscope, lucky number",
+   "focus": "listening",
+   "newItems": [
+    "u43.fortune-teller",
+    "u43.horoscope",
+    "u43.lucky-number"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u43.fortune-teller",
+      "u43.horoscope"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u43.lucky-number"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.fortune-teller",
+      "u43.horoscope",
+      "u43.lucky-number"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.fortune-teller",
+      "u43.horoscope",
+      "u43.lucky-number"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.fortune-teller",
+      "u43.horoscope",
+      "u43.lucky-number"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.i-m-sure",
+      "u43.i-doubt-it",
+      "u43.optimistic",
+      "u43.pessimistic",
+      "u43.likely",
+      "u43.unlikely"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u43-futuro-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La adivina del parque",
+     "emoji": "🔮",
+     "paragraphs": [
+      {
+       "en": "Every Sunday an old fortune teller sits in the park and reads people's hands.",
+       "es": "Todos los domingos una adivina anciana se sienta en el parque y lee las manos."
+      },
+      {
+       "en": "Last week Daniela visited her just for fun.",
+       "es": "La semana pasada Daniela la visitó solo por diversión."
+      },
+      {
+       "en": "\"You will travel very far,\" the woman said. \"You will meet a tall man.\"",
+       "es": "\"Viajarás muy lejos\", dijo la mujer. \"Conocerás a un hombre alto.\""
+      },
+      {
+       "en": "\"And you will have a big decision to make soon.\"",
+       "es": "\"Y pronto tendrás que tomar una gran decisión.\""
+      },
+      {
+       "en": "Daniela laughed. \"I doubt it. I'm not going to travel this year.\"",
+       "es": "Daniela se rió. \"Lo dudo. No voy a viajar este año.\""
+      },
+      {
+       "en": "Two days later her boss called: \"We need you in our Canada office.\" Daniela was speechless.",
+       "es": "Dos días después su jefe la llamó: \"Te necesitamos en la oficina de Canadá.\" Daniela se quedó sin palabras."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué hace la adivina?",
+       "options": [
+        "Lee las manos",
+        "Vende flores",
+        "Lee libros"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué pensaba Daniela de las predicciones?",
+       "options": [
+        "Las creía",
+        "Las dudaba",
+        "Le daban miedo"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué pasó dos días después?",
+       "options": [
+        "Conoció a un hombre alto",
+        "Su jefe le ofreció ir a Canadá",
+        "Perdió el trabajo"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Ofrecer ayuda",
+     "scene": "🧳 Una señora mayor no puede con su maleta en la estación.",
+     "turns": [
+      {
+       "who": "Woman",
+       "en": "Oh dear, this suitcase is so heavy.",
+       "es": "Ay, esta maleta pesa mucho."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Don't worry, I'll carry it for you.",
+         "es": "No se preocupe, yo se la cargo.",
+         "ok": true
+        },
+        {
+         "en": "Don't worry, I'm going to carry it next year.",
+         "es": "No se preocupe, la voy a cargar el próximo año.",
+         "ok": false,
+         "why": "Es una oferta inmediata: \"I'll carry it\"."
+        }
+       ]
+      },
+      {
+       "who": "Woman",
+       "en": "Thank you so much! My train leaves from platform four.",
+       "es": "¡Muchísimas gracias! Mi tren sale del andén cuatro."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "No problem. I'll take you there.",
+         "es": "No hay problema. La llevo hasta allá.",
+         "ok": true
+        },
+        {
+         "en": "No problem. I take you there yesterday.",
+         "es": "No hay problema. La llevo allá ayer.",
+         "ok": false,
+         "why": "Mezcla tiempos."
+        }
+       ]
+      },
+      {
+       "who": "Woman",
+       "en": "You're very kind. Will you be OK with your own bag?",
+       "es": "Es muy amable. ¿Usted va a poder con su bolso?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, I'll be fine. It's very light.",
+         "es": "Sí, voy a estar bien. Es muy liviano.",
+         "ok": true
+        },
+        {
+         "en": "No, I won't never be fine.",
+         "es": "No, no estaré nunca bien.",
+         "ok": false,
+         "why": "Doble negación y no tiene sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Te llamo más tarde.",
+     "en": "I'll call you later.",
+     "accept": [
+      "I will call you later."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "No creo que llueva hoy.",
+     "en": "I don't think it will rain today.",
+     "accept": [
+      "I don't think it'll rain today."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Lo prometo, no volverá a pasar.",
+     "en": "I promise, it won't happen again.",
+     "accept": [
+      "I promise it won't happen again.",
+      "I promise. It won't happen again."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "I think robots will do many of our jobs.",
+     "es": "Creo que los robots harán muchos de nuestros trabajos."
+    },
+    {
+     "type": "dictation",
+     "en": "Don't worry, I'll help you.",
+     "es": "No te preocupes, yo te ayudo."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u43.i-doubt-it",
+      "u43.optimistic",
+      "u43.pessimistic",
+      "u43.likely",
+      "u43.unlikely",
+      "u43.fortune-teller",
+      "u43.horoscope",
+      "u43.lucky-number"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

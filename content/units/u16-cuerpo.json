@@ -1,0 +1,1280 @@
+{
+ "_generated": true,
+ "id": "u16-cuerpo",
+ "level": "A1",
+ "title": "El cuerpo y cómo me siento",
+ "emoji": "🧍",
+ "canDo": "Ya puedo decir qué me duele y cómo me siento",
+ "summary": "Las partes del cuerpo, decir que algo te duele y expresar cómo te sientes.",
+ "grammar": [
+  "have / has",
+  "I have a headache"
+ ],
+ "items": [
+  {
+   "id": "u16.head",
+   "en": "head",
+   "es": "cabeza",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "jed"
+  },
+  {
+   "id": "u16.face",
+   "en": "face",
+   "es": "cara",
+   "kind": "word",
+   "emoji": "🙂",
+   "say": "féis"
+  },
+  {
+   "id": "u16.eye",
+   "en": "eye",
+   "es": "ojo",
+   "kind": "word",
+   "emoji": "👁️",
+   "say": "ái"
+  },
+  {
+   "id": "u16.ear",
+   "en": "ear",
+   "es": "oreja / oído",
+   "kind": "word",
+   "emoji": "👂",
+   "say": "íer"
+  },
+  {
+   "id": "u16.nose",
+   "en": "nose",
+   "es": "nariz",
+   "kind": "word",
+   "emoji": "👃",
+   "say": "nóus"
+  },
+  {
+   "id": "u16.mouth",
+   "en": "mouth",
+   "es": "boca",
+   "kind": "word",
+   "emoji": "👄",
+   "say": "máuz"
+  },
+  {
+   "id": "u16.tooth",
+   "en": "tooth",
+   "es": "diente",
+   "kind": "word",
+   "emoji": "🦷",
+   "say": "tuz"
+  },
+  {
+   "id": "u16.hair",
+   "en": "hair",
+   "es": "pelo / cabello",
+   "kind": "word",
+   "emoji": "💇",
+   "say": "jér"
+  },
+  {
+   "id": "u16.neck",
+   "en": "neck",
+   "es": "cuello",
+   "kind": "word",
+   "emoji": "🧣",
+   "say": "nek"
+  },
+  {
+   "id": "u16.arm",
+   "en": "arm",
+   "es": "brazo",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "arm"
+  },
+  {
+   "id": "u16.hand",
+   "en": "hand",
+   "es": "mano",
+   "kind": "word",
+   "emoji": "✋",
+   "say": "jand"
+  },
+  {
+   "id": "u16.finger",
+   "en": "finger",
+   "es": "dedo",
+   "kind": "word",
+   "emoji": "☝️",
+   "say": "fín-ger"
+  },
+  {
+   "id": "u16.leg",
+   "en": "leg",
+   "es": "pierna",
+   "kind": "word",
+   "emoji": "🦵",
+   "say": "leg"
+  },
+  {
+   "id": "u16.foot",
+   "en": "foot",
+   "es": "pie",
+   "kind": "word",
+   "emoji": "🦶",
+   "say": "fut"
+  },
+  {
+   "id": "u16.back",
+   "en": "back",
+   "es": "espalda",
+   "kind": "word",
+   "emoji": "🔙",
+   "say": "bak"
+  },
+  {
+   "id": "u16.stomach",
+   "en": "stomach",
+   "es": "estómago",
+   "kind": "word",
+   "emoji": "🫃",
+   "say": "stó-mak"
+  },
+  {
+   "id": "u16.heart",
+   "en": "heart",
+   "es": "corazón",
+   "kind": "word",
+   "emoji": "❤️",
+   "say": "jart"
+  },
+  {
+   "id": "u16.i-have-a-headache",
+   "en": "I have a headache",
+   "es": "Me duele la cabeza",
+   "kind": "chunk",
+   "emoji": "🤕",
+   "say": "ai jav a jé-deik"
+  },
+  {
+   "id": "u16.i-have-a-stomachache",
+   "en": "I have a stomachache",
+   "es": "Me duele el estómago",
+   "kind": "chunk",
+   "emoji": "🤢"
+  },
+  {
+   "id": "u16.my-back-hurts",
+   "en": "My back hurts",
+   "es": "Me duele la espalda",
+   "kind": "chunk",
+   "emoji": "😣",
+   "say": "mai bak jerts"
+  },
+  {
+   "id": "u16.i-have-a-cold",
+   "en": "I have a cold",
+   "es": "Tengo gripa",
+   "kind": "chunk",
+   "emoji": "🤧",
+   "say": "ai jav a kóuld"
+  },
+  {
+   "id": "u16.i-have-a-fever",
+   "en": "I have a fever",
+   "es": "Tengo fiebre",
+   "kind": "chunk",
+   "emoji": "🌡️",
+   "say": "fí-ver"
+  },
+  {
+   "id": "u16.sick",
+   "en": "sick",
+   "es": "enfermo",
+   "kind": "word",
+   "emoji": "🤒",
+   "say": "sik"
+  },
+  {
+   "id": "u16.tired",
+   "en": "tired",
+   "es": "cansado",
+   "kind": "word",
+   "emoji": "😩"
+  },
+  {
+   "id": "u16.sad",
+   "en": "sad",
+   "es": "triste",
+   "kind": "word",
+   "emoji": "😢",
+   "say": "sad"
+  },
+  {
+   "id": "u16.angry",
+   "en": "angry",
+   "es": "bravo / enojado",
+   "kind": "word",
+   "emoji": "😠",
+   "say": "án-gri"
+  },
+  {
+   "id": "u16.scared",
+   "en": "scared",
+   "es": "asustado",
+   "kind": "word",
+   "emoji": "😨",
+   "say": "skerd"
+  },
+  {
+   "id": "u16.bored",
+   "en": "bored",
+   "es": "aburrido",
+   "kind": "word",
+   "emoji": "🥱",
+   "say": "bord"
+  },
+  {
+   "id": "u16.nervous",
+   "en": "nervous",
+   "es": "nervioso",
+   "kind": "word",
+   "emoji": "😬",
+   "say": "nér-vos"
+  },
+  {
+   "id": "u16.i-feel-better",
+   "en": "I feel better",
+   "es": "Me siento mejor",
+   "kind": "chunk",
+   "emoji": "😌"
+  },
+  {
+   "id": "u16.get-well-soon",
+   "en": "Get well soon!",
+   "es": "¡Que te mejores!",
+   "kind": "chunk",
+   "emoji": "💐"
+  },
+  {
+   "id": "u16.doctor",
+   "en": "doctor",
+   "es": "médico",
+   "kind": "word",
+   "emoji": "👩‍⚕️",
+   "say": "dók-tor"
+  },
+  {
+   "id": "u16.medicine",
+   "en": "medicine",
+   "es": "medicina / remedio",
+   "kind": "word",
+   "emoji": "💊",
+   "say": "mé-di-sin"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u16-cuerpo-l1",
+   "title": "1. head, face, eye…",
+   "focus": "listening",
+   "newItems": [
+    "u16.head",
+    "u16.face",
+    "u16.eye",
+    "u16.ear"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.head",
+      "u16.face"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.eye",
+      "u16.ear"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.head",
+      "u16.face",
+      "u16.eye",
+      "u16.ear"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.head",
+      "u16.face",
+      "u16.eye",
+      "u16.ear"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.head",
+      "u16.face"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l2",
+   "title": "2. nose, mouth, tooth…",
+   "focus": "grammar",
+   "newItems": [
+    "u16.nose",
+    "u16.mouth",
+    "u16.tooth",
+    "u16.hair"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.nose",
+      "u16.mouth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.tooth",
+      "u16.hair"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.nose",
+      "u16.mouth",
+      "u16.tooth",
+      "u16.hair"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.nose",
+      "u16.mouth",
+      "u16.tooth",
+      "u16.hair"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.nose",
+      "u16.mouth"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.head",
+      "u16.face",
+      "u16.eye",
+      "u16.ear"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "have / has",
+     "intro": "Mira el verbo 'tener' con cada persona.",
+     "examples": [
+      {
+       "en": "I have a cold.",
+       "es": "Tengo gripa.",
+       "mark": [
+        "have"
+       ]
+      },
+      {
+       "en": "You have green eyes.",
+       "es": "Tienes ojos verdes.",
+       "mark": [
+        "have"
+       ]
+      },
+      {
+       "en": "She has long hair.",
+       "es": "Ella tiene el pelo largo.",
+       "mark": [
+        "has"
+       ]
+      },
+      {
+       "en": "He has a headache.",
+       "es": "Él tiene dolor de cabeza.",
+       "mark": [
+        "has"
+       ]
+      },
+      {
+       "en": "We have two hands.",
+       "es": "Tenemos dos manos.",
+       "mark": [
+        "have"
+       ]
+      }
+     ],
+     "question": "¿Qué forma de have va con he y she?",
+     "options": [
+      "have",
+      "has",
+      "haves"
+     ],
+     "answer": 1,
+     "rule": "El verbo tener es have, pero con he, she, it cambia a has (como la -s del presente simple). Para dolores y enfermedades se usa have: I have a fever, she has a cold.",
+     "ruleExamples": [
+      {
+       "en": "Does she have a fever? No, she has a cold.",
+       "es": "¿Ella tiene fiebre? No, tiene gripa."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "My brother ___ a stomachache.",
+     "options": [
+      "have",
+      "has"
+     ],
+     "answer": 1,
+     "es": "Mi hermano tiene dolor de estómago."
+    },
+    {
+     "type": "fill",
+     "en": "I ___ two sisters.",
+     "options": [
+      "have",
+      "has"
+     ],
+     "answer": 0,
+     "es": "Tengo dos hermanas."
+    },
+    {
+     "type": "fill",
+     "en": "Do you ___ a headache?",
+     "options": [
+      "have",
+      "has"
+     ],
+     "answer": 0,
+     "es": "¿Te duele la cabeza?",
+     "explain": "Con do/does va have."
+    },
+    {
+     "type": "fill",
+     "en": "My leg ___.",
+     "options": [
+      "hurt",
+      "hurts"
+     ],
+     "answer": 1,
+     "es": "Me duele la pierna."
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l3",
+   "title": "3. neck, arm, hand…",
+   "focus": "reading",
+   "newItems": [
+    "u16.neck",
+    "u16.arm",
+    "u16.hand",
+    "u16.finger"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.neck",
+      "u16.arm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.hand",
+      "u16.finger"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.neck",
+      "u16.arm",
+      "u16.hand",
+      "u16.finger"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.neck",
+      "u16.arm",
+      "u16.hand",
+      "u16.finger"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.neck",
+      "u16.arm"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.eye",
+      "u16.ear",
+      "u16.nose",
+      "u16.mouth",
+      "u16.tooth",
+      "u16.hair"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l4",
+   "title": "4. leg, foot, back…",
+   "focus": "listening",
+   "newItems": [
+    "u16.leg",
+    "u16.foot",
+    "u16.back",
+    "u16.stomach"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.leg",
+      "u16.foot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.back",
+      "u16.stomach"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.leg",
+      "u16.foot",
+      "u16.back",
+      "u16.stomach"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.leg",
+      "u16.foot",
+      "u16.back",
+      "u16.stomach"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.leg",
+      "u16.foot"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.tooth",
+      "u16.hair",
+      "u16.neck",
+      "u16.arm",
+      "u16.hand",
+      "u16.finger"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l5",
+   "title": "5. heart, I have a headache, I have a stomachache…",
+   "focus": "listening",
+   "newItems": [
+    "u16.heart",
+    "u16.i-have-a-headache",
+    "u16.i-have-a-stomachache",
+    "u16.my-back-hurts"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.heart",
+      "u16.i-have-a-headache"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.i-have-a-stomachache",
+      "u16.my-back-hurts"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.heart",
+      "u16.i-have-a-headache",
+      "u16.i-have-a-stomachache",
+      "u16.my-back-hurts"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.heart",
+      "u16.i-have-a-headache",
+      "u16.i-have-a-stomachache",
+      "u16.my-back-hurts"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 7
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.i-have-a-headache",
+      "u16.i-have-a-stomachache"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.hand",
+      "u16.finger",
+      "u16.leg",
+      "u16.foot",
+      "u16.back",
+      "u16.stomach"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l6",
+   "title": "6. I have a cold, I have a fever, sick…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u16.i-have-a-cold",
+    "u16.i-have-a-fever",
+    "u16.sick",
+    "u16.tired"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.i-have-a-cold",
+      "u16.i-have-a-fever"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.sick",
+      "u16.tired"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.i-have-a-cold",
+      "u16.i-have-a-fever",
+      "u16.sick",
+      "u16.tired"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.i-have-a-cold",
+      "u16.i-have-a-fever",
+      "u16.sick",
+      "u16.tired"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.i-have-a-cold",
+      "u16.i-have-a-fever"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.back",
+      "u16.stomach",
+      "u16.heart",
+      "u16.i-have-a-headache",
+      "u16.i-have-a-stomachache",
+      "u16.my-back-hurts"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l7",
+   "title": "7. sad, angry, scared…",
+   "focus": "reading",
+   "newItems": [
+    "u16.sad",
+    "u16.angry",
+    "u16.scared",
+    "u16.bored"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.sad",
+      "u16.angry"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.scared",
+      "u16.bored"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.sad",
+      "u16.angry",
+      "u16.scared",
+      "u16.bored"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.sad",
+      "u16.angry",
+      "u16.scared",
+      "u16.bored"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.sad",
+      "u16.angry"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.i-have-a-stomachache",
+      "u16.my-back-hurts",
+      "u16.i-have-a-cold",
+      "u16.i-have-a-fever",
+      "u16.sick",
+      "u16.tired"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "En el médico",
+     "scene": "🩺 Vas al médico porque te sientes mal.",
+     "lines": [
+      {
+       "who": "Doctor",
+       "en": "Hello. What's the problem?",
+       "es": "Hola. ¿Cuál es el problema?"
+      },
+      {
+       "who": "You",
+       "en": "I feel sick. I have a fever and my head hurts.",
+       "es": "Me siento enfermo. Tengo fiebre y me duele la cabeza."
+      },
+      {
+       "who": "Doctor",
+       "en": "Do you have a cough?",
+       "es": "¿Tiene tos?"
+      },
+      {
+       "who": "You",
+       "en": "Yes, a little.",
+       "es": "Sí, un poco."
+      },
+      {
+       "who": "Doctor",
+       "en": "You have a cold. Take this medicine and rest.",
+       "es": "Tiene gripa. Tome este medicamento y descanse."
+      },
+      {
+       "who": "You",
+       "en": "Thank you, doctor.",
+       "es": "Gracias, doctor."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l8",
+   "title": "8. nervous, I feel better, Get well soon!…",
+   "focus": "listening",
+   "newItems": [
+    "u16.nervous",
+    "u16.i-feel-better",
+    "u16.get-well-soon",
+    "u16.doctor"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.nervous",
+      "u16.i-feel-better"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u16.get-well-soon",
+      "u16.doctor"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.nervous",
+      "u16.i-feel-better",
+      "u16.get-well-soon",
+      "u16.doctor"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.nervous",
+      "u16.i-feel-better",
+      "u16.get-well-soon",
+      "u16.doctor"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.i-feel-better",
+      "u16.get-well-soon"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.sick",
+      "u16.tired",
+      "u16.sad",
+      "u16.angry",
+      "u16.scared",
+      "u16.bored"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-l9",
+   "title": "9. medicine",
+   "focus": "listening",
+   "newItems": [
+    "u16.medicine"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u16.medicine"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.medicine"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.medicine"
+     ],
+     "modes": [
+      "read-pick",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.medicine"
+     ],
+     "modes": [
+      "dictation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.scared",
+      "u16.bored",
+      "u16.nervous",
+      "u16.i-feel-better",
+      "u16.get-well-soon",
+      "u16.doctor"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u16-cuerpo-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un lunes difícil",
+     "emoji": "🤒",
+     "paragraphs": [
+      {
+       "en": "On Monday morning, Sam doesn't feel well.",
+       "es": "El lunes por la mañana, Sam no se siente bien."
+      },
+      {
+       "en": "He has a headache and his throat hurts.",
+       "es": "Tiene dolor de cabeza y le duele la garganta."
+      },
+      {
+       "en": "His mother touches his face. \"You have a fever!\"",
+       "es": "Su mamá le toca la cara. \"¡Tienes fiebre!\""
+      },
+      {
+       "en": "Sam doesn't go to school. He stays in bed and drinks hot tea.",
+       "es": "Sam no va al colegio. Se queda en la cama y toma té caliente."
+      },
+      {
+       "en": "His friend Leo sends a message: \"Get well soon!\"",
+       "es": "Su amigo Leo le manda un mensaje: \"¡Que te mejores!\""
+      },
+      {
+       "en": "On Wednesday Sam feels better. He is happy, but he is a little bored.",
+       "es": "El miércoles Sam se siente mejor. Está feliz, pero un poco aburrido."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué le duele a Sam?",
+       "options": [
+        "La cabeza y la garganta",
+        "La pierna",
+        "El estómago"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué toma Sam?",
+       "options": [
+        "Jugo frío",
+        "Té caliente",
+        "Leche"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo se siente el miércoles?",
+       "options": [
+        "Peor",
+        "Mejor",
+        "Igual"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Llamar al trabajo",
+     "scene": "📞 Estás enfermo y llamas a tu jefa.",
+     "turns": [
+      {
+       "who": "Boss",
+       "en": "Hello?",
+       "es": "¿Aló?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Hi, it's me. I'm sorry, I'm sick today.",
+         "es": "Hola, soy yo. Lo siento, hoy estoy enfermo.",
+         "ok": true
+        },
+        {
+         "en": "Hi, I'm doctor.",
+         "es": "Hola, soy médico.",
+         "ok": false,
+         "why": "Llamas para avisar que estás enfermo."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Oh no! What's wrong?",
+       "es": "¡Ay no! ¿Qué te pasa?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I have a fever and a headache.",
+         "es": "Tengo fiebre y dolor de cabeza.",
+         "ok": true
+        },
+        {
+         "en": "I has a fever.",
+         "es": "Yo tiene fiebre.",
+         "ok": false,
+         "why": "Con I es \"have\"."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "Rest today. Get well soon!",
+       "es": "Descansa hoy. ¡Que te mejores!"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Thank you. See you tomorrow.",
+         "es": "Gracias. Nos vemos mañana.",
+         "ok": true
+        },
+        {
+         "en": "Get well soon too!",
+         "es": "¡Que te mejores tú también!",
+         "ok": false,
+         "why": "Ella no está enferma."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me duele la cabeza.",
+     "en": "I have a headache.",
+     "accept": [
+      "My head hurts."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ella tiene el pelo largo.",
+     "en": "She has long hair."
+    },
+    {
+     "type": "write",
+     "es": "Me siento mejor.",
+     "en": "I feel better."
+    },
+    {
+     "type": "dictation",
+     "en": "My back hurts.",
+     "es": "Me duele la espalda."
+    },
+    {
+     "type": "dictation",
+     "en": "He has a cold and a fever.",
+     "es": "Él tiene gripa y fiebre."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u16.angry",
+      "u16.scared",
+      "u16.bored",
+      "u16.nervous",
+      "u16.i-feel-better",
+      "u16.get-well-soon",
+      "u16.doctor",
+      "u16.medicine"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

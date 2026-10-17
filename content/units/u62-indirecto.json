@@ -1,0 +1,1216 @@
+{
+ "_generated": true,
+ "id": "u62-indirecto",
+ "level": "B2",
+ "title": "Lo que dijo",
+ "emoji": "🗣️",
+ "canDo": "Ya puedo contar con precisión lo que otra persona dijo, preguntó u ordenó",
+ "summary": "Estilo indirecto completo: cambios de tiempo, preguntas indirectas y verbos para reportar.",
+ "grammar": [
+  "Estilo indirecto completo",
+  "Preguntas indirectas",
+  "Verbos de reporte: admit, suggest, warn"
+ ],
+ "items": [
+  {
+   "id": "u62.reported-speech",
+   "en": "reported speech",
+   "es": "estilo indirecto",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u62.direct-speech",
+   "en": "direct speech",
+   "es": "estilo directo",
+   "kind": "chunk",
+   "emoji": "🗨️"
+  },
+  {
+   "id": "u62.reply",
+   "en": "reply",
+   "es": "responder",
+   "kind": "word",
+   "emoji": "↩️",
+   "say": "ri-plái"
+  },
+  {
+   "id": "u62.admit",
+   "en": "admit",
+   "es": "admitir",
+   "kind": "word",
+   "emoji": "🙋",
+   "say": "ad-mít"
+  },
+  {
+   "id": "u62.mention",
+   "en": "mention",
+   "es": "mencionar",
+   "kind": "word",
+   "emoji": "📌",
+   "say": "mén-shon"
+  },
+  {
+   "id": "u62.insist",
+   "en": "insist",
+   "es": "insistir",
+   "kind": "word",
+   "emoji": "☝️",
+   "say": "in-síst"
+  },
+  {
+   "id": "u62.complain",
+   "en": "complain",
+   "es": "quejarse",
+   "kind": "word",
+   "emoji": "😤",
+   "say": "kom-pléin"
+  },
+  {
+   "id": "u62.remind",
+   "en": "remind",
+   "es": "recordarle a alguien",
+   "kind": "word",
+   "emoji": "⏰",
+   "say": "ri-máind"
+  },
+  {
+   "id": "u62.agree-to",
+   "en": "agree to",
+   "es": "aceptar (hacer algo)",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u62.threaten",
+   "en": "threaten",
+   "es": "amenazar",
+   "kind": "word",
+   "emoji": "😠",
+   "say": "zré-ten"
+  },
+  {
+   "id": "u62.beg",
+   "en": "beg",
+   "es": "rogar",
+   "kind": "word",
+   "emoji": "🙏",
+   "say": "beg"
+  },
+  {
+   "id": "u62.encourage",
+   "en": "encourage",
+   "es": "animar / alentar",
+   "kind": "word",
+   "emoji": "📣",
+   "say": "en-ká-rich"
+  },
+  {
+   "id": "u62.confess",
+   "en": "confess",
+   "es": "confesar",
+   "kind": "word",
+   "emoji": "🤐",
+   "say": "kon-fés"
+  },
+  {
+   "id": "u62.wonder",
+   "en": "wonder",
+   "es": "preguntarse",
+   "kind": "word",
+   "emoji": "🤔",
+   "say": "uán-der"
+  },
+  {
+   "id": "u62.whether",
+   "en": "whether",
+   "es": "si (en preguntas indirectas)",
+   "kind": "word",
+   "emoji": "❔",
+   "say": "ué-der"
+  },
+  {
+   "id": "u62.the-day-before",
+   "en": "the day before",
+   "es": "el día anterior",
+   "kind": "chunk",
+   "emoji": "⏮️"
+  },
+  {
+   "id": "u62.the-following-day",
+   "en": "the following day",
+   "es": "al día siguiente",
+   "kind": "chunk",
+   "emoji": "⏭️"
+  },
+  {
+   "id": "u62.that-day",
+   "en": "that day",
+   "es": "ese día",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u62.there",
+   "en": "there",
+   "es": "allí",
+   "kind": "word",
+   "emoji": "📍"
+  },
+  {
+   "id": "u62.gossip",
+   "en": "gossip",
+   "es": "chisme / chismear",
+   "kind": "word",
+   "emoji": "🗯️",
+   "say": "gó-sip"
+  },
+  {
+   "id": "u62.rumor",
+   "en": "rumor",
+   "es": "rumor",
+   "kind": "word",
+   "emoji": "👂",
+   "say": "rú-mor"
+  },
+  {
+   "id": "u62.quote",
+   "en": "quote",
+   "es": "cita / citar",
+   "kind": "word",
+   "emoji": "❝",
+   "say": "kuóut"
+  },
+  {
+   "id": "u62.exact-words",
+   "en": "exact words",
+   "es": "palabras exactas",
+   "kind": "chunk",
+   "emoji": "🔤"
+  },
+  {
+   "id": "u62.misunderstanding",
+   "en": "misunderstanding",
+   "es": "malentendido",
+   "kind": "word",
+   "emoji": "😕",
+   "say": "mis-an-der-stán-ding"
+  },
+  {
+   "id": "u62.make-clear",
+   "en": "make clear",
+   "es": "dejar claro",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u62.she-told-me-to-wait",
+   "en": "She told me to wait",
+   "es": "Me dijo que esperara",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u62.he-asked-me-where-i-lived",
+   "en": "He asked me where I lived",
+   "es": "Me preguntó dónde vivía",
+   "kind": "chunk",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u62.they-asked-if-i-was-ok",
+   "en": "They asked if I was OK",
+   "es": "Me preguntaron si estaba bien",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u62.she-suggested-going-out",
+   "en": "She suggested going out",
+   "es": "Sugirió salir",
+   "kind": "chunk",
+   "emoji": "🚶"
+  },
+  {
+   "id": "u62.he-admitted-breaking-it",
+   "en": "He admitted breaking it",
+   "es": "Admitió haberlo roto",
+   "kind": "chunk",
+   "emoji": "💔"
+  },
+  {
+   "id": "u62.do-you-know-what-time-it-is",
+   "en": "Do you know what time it is?",
+   "es": "¿Sabes qué hora es?",
+   "kind": "chunk",
+   "emoji": "⌚"
+  },
+  {
+   "id": "u62.could-you-tell-me-where-the-bank-is",
+   "en": "Could you tell me where the bank is?",
+   "es": "¿Podría decirme dónde queda el banco?",
+   "kind": "chunk",
+   "emoji": "🏦"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u62-indirecto-l1",
+   "title": "1. reported speech, direct speech, reply…",
+   "focus": "listening",
+   "newItems": [
+    "u62.reported-speech",
+    "u62.direct-speech",
+    "u62.reply",
+    "u62.admit",
+    "u62.mention"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u62.reported-speech",
+      "u62.direct-speech"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.reply",
+      "u62.admit"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.mention"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.reported-speech",
+      "u62.direct-speech",
+      "u62.reply",
+      "u62.admit",
+      "u62.mention"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.reported-speech",
+      "u62.direct-speech",
+      "u62.reply",
+      "u62.admit",
+      "u62.mention"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.reported-speech",
+      "u62.direct-speech",
+      "u62.reply",
+      "u62.admit",
+      "u62.mention"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u62-indirecto-l2",
+   "title": "2. insist, complain, remind…",
+   "focus": "grammar",
+   "newItems": [
+    "u62.insist",
+    "u62.complain",
+    "u62.remind",
+    "u62.agree-to",
+    "u62.threaten"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u62.insist",
+      "u62.complain"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.remind",
+      "u62.agree-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.threaten"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.insist",
+      "u62.complain",
+      "u62.remind",
+      "u62.agree-to",
+      "u62.threaten"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.insist",
+      "u62.complain",
+      "u62.remind",
+      "u62.agree-to",
+      "u62.threaten"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.insist",
+      "u62.complain",
+      "u62.remind",
+      "u62.agree-to",
+      "u62.threaten"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.reported-speech",
+      "u62.direct-speech",
+      "u62.reply",
+      "u62.admit",
+      "u62.mention"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Estilo indirecto completo",
+     "intro": "Mira cómo cambian las palabras exactas al contarlas después.",
+     "examples": [
+      {
+       "en": "\"I'm working.\" → She said she was working.",
+       "es": "\"Estoy trabajando.\" → Dijo que estaba trabajando.",
+       "mark": [
+        "was working"
+       ]
+      },
+      {
+       "en": "\"I've finished.\" → He said he had finished.",
+       "es": "\"Terminé.\" → Dijo que había terminado.",
+       "mark": [
+        "had finished"
+       ]
+      },
+      {
+       "en": "\"I'll call you tomorrow.\" → She said she would call me the next day.",
+       "es": "\"Te llamo mañana.\" → Dijo que me llamaría al día siguiente.",
+       "mark": [
+        "would call",
+        "the next day"
+       ]
+      },
+      {
+       "en": "\"Where do you live?\" → He asked me where I lived.",
+       "es": "\"¿Dónde vives?\" → Me preguntó dónde vivía.",
+       "mark": [
+        "where I lived"
+       ]
+      },
+      {
+       "en": "\"Are you OK?\" → They asked if I was OK.",
+       "es": "\"¿Estás bien?\" → Me preguntaron si estaba bien.",
+       "mark": [
+        "if I was"
+       ]
+      },
+      {
+       "en": "\"Wait here.\" → She told me to wait there.",
+       "es": "\"Espera aquí.\" → Me dijo que esperara allí.",
+       "mark": [
+        "told me to wait"
+       ]
+      }
+     ],
+     "question": "En una pregunta indirecta (He asked me where I lived), el orden es…",
+     "options": [
+      "Como pregunta: where did I live",
+      "Como afirmación: where I lived"
+     ],
+     "answer": 1,
+     "rule": "En ESTILO INDIRECTO el verbo retrocede un tiempo (is → was, have done → had done, will → would) y cambian palabras de tiempo y lugar (tomorrow → the next day, here → there). Las preguntas indirectas usan orden de afirmación, sin do: He asked where I lived. Si no hay palabra interrogativa, usa if o whether. Órdenes: tell / ask + persona + to.",
+     "ruleExamples": [
+      {
+       "en": "I wonder whether she'll come. Could you tell me what time the meeting starts?",
+       "es": "Me pregunto si vendrá. ¿Podría decirme a qué hora empieza la reunión?"
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "\"I'm tired.\" → He said he ___ tired.",
+     "options": [
+      "was",
+      "is being"
+     ],
+     "answer": 0,
+     "es": "\"Estoy cansado.\" → Dijo que estaba cansado."
+    },
+    {
+     "type": "fill",
+     "en": "\"Where is the station?\" → She asked me where the station ___.",
+     "options": [
+      "was",
+      "is it"
+     ],
+     "answer": 0,
+     "es": "\"¿Dónde queda la estación?\" → Me preguntó dónde quedaba la estación."
+    },
+    {
+     "type": "fill",
+     "en": "\"Close the door.\" → He told me ___ the door.",
+     "options": [
+      "to close",
+      "close"
+     ],
+     "answer": 0,
+     "es": "\"Cierra la puerta.\" → Me dijo que cerrara la puerta."
+    },
+    {
+     "type": "fill",
+     "en": "\"Do you like coffee?\" → She asked ___ I liked coffee.",
+     "options": [
+      "if",
+      "that"
+     ],
+     "answer": 0,
+     "es": "\"¿Te gusta el café?\" → Me preguntó si me gustaba el café."
+    },
+    {
+     "type": "fill",
+     "en": "Could you tell me where ___?",
+     "options": [
+      "the bank is",
+      "is the bank"
+     ],
+     "answer": 0,
+     "es": "¿Podría decirme dónde queda el banco?"
+    }
+   ]
+  },
+  {
+   "id": "u62-indirecto-l3",
+   "title": "3. beg, encourage, confess…",
+   "focus": "reading",
+   "newItems": [
+    "u62.beg",
+    "u62.encourage",
+    "u62.confess",
+    "u62.wonder",
+    "u62.whether"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u62.beg",
+      "u62.encourage"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.confess",
+      "u62.wonder"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.whether"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.beg",
+      "u62.encourage",
+      "u62.confess",
+      "u62.wonder",
+      "u62.whether"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.beg",
+      "u62.encourage",
+      "u62.confess",
+      "u62.wonder",
+      "u62.whether"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.beg",
+      "u62.encourage",
+      "u62.confess",
+      "u62.wonder",
+      "u62.whether"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.mention",
+      "u62.insist",
+      "u62.complain",
+      "u62.remind",
+      "u62.agree-to",
+      "u62.threaten"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u62-indirecto-l4",
+   "title": "4. the day before, the following day, that day…",
+   "focus": "listening",
+   "newItems": [
+    "u62.the-day-before",
+    "u62.the-following-day",
+    "u62.that-day",
+    "u62.there",
+    "u62.gossip"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u62.the-day-before",
+      "u62.the-following-day"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.that-day",
+      "u62.there"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.gossip"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.the-day-before",
+      "u62.the-following-day",
+      "u62.that-day",
+      "u62.there",
+      "u62.gossip"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.the-day-before",
+      "u62.the-following-day",
+      "u62.that-day",
+      "u62.there",
+      "u62.gossip"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.the-day-before",
+      "u62.the-following-day",
+      "u62.that-day",
+      "u62.there",
+      "u62.gossip"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.threaten",
+      "u62.beg",
+      "u62.encourage",
+      "u62.confess",
+      "u62.wonder",
+      "u62.whether"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u62-indirecto-l5",
+   "title": "5. rumor, quote, exact words…",
+   "focus": "listening",
+   "newItems": [
+    "u62.rumor",
+    "u62.quote",
+    "u62.exact-words",
+    "u62.misunderstanding",
+    "u62.make-clear"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u62.rumor",
+      "u62.quote"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.exact-words",
+      "u62.misunderstanding"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.make-clear"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.rumor",
+      "u62.quote",
+      "u62.exact-words",
+      "u62.misunderstanding",
+      "u62.make-clear"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.rumor",
+      "u62.quote",
+      "u62.exact-words",
+      "u62.misunderstanding",
+      "u62.make-clear"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.rumor",
+      "u62.quote",
+      "u62.exact-words",
+      "u62.misunderstanding",
+      "u62.make-clear"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.whether",
+      "u62.the-day-before",
+      "u62.the-following-day",
+      "u62.that-day",
+      "u62.there",
+      "u62.gossip"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u62-indirecto-l6",
+   "title": "6. She told me to wait, He asked me where I lived, They asked if I was OK…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u62.she-told-me-to-wait",
+    "u62.he-asked-me-where-i-lived",
+    "u62.they-asked-if-i-was-ok",
+    "u62.she-suggested-going-out",
+    "u62.he-admitted-breaking-it"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u62.she-told-me-to-wait",
+      "u62.he-asked-me-where-i-lived"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.they-asked-if-i-was-ok",
+      "u62.she-suggested-going-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u62.he-admitted-breaking-it"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.she-told-me-to-wait",
+      "u62.he-asked-me-where-i-lived",
+      "u62.they-asked-if-i-was-ok",
+      "u62.she-suggested-going-out",
+      "u62.he-admitted-breaking-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.she-told-me-to-wait",
+      "u62.he-asked-me-where-i-lived",
+      "u62.they-asked-if-i-was-ok",
+      "u62.she-suggested-going-out",
+      "u62.he-admitted-breaking-it"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.she-told-me-to-wait",
+      "u62.he-asked-me-where-i-lived",
+      "u62.they-asked-if-i-was-ok",
+      "u62.she-suggested-going-out",
+      "u62.he-admitted-breaking-it"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.gossip",
+      "u62.rumor",
+      "u62.quote",
+      "u62.exact-words",
+      "u62.misunderstanding",
+      "u62.make-clear"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Un malentendido",
+     "scene": "📞 Le cuentas a un colega lo que dijo la gerente.",
+     "lines": [
+      {
+       "who": "Carlos",
+       "en": "What did the manager say in the meeting?",
+       "es": "¿Qué dijo la gerente en la reunión?"
+      },
+      {
+       "who": "You",
+       "en": "She said the project would be delayed and that we had to work on Saturday.",
+       "es": "Dijo que el proyecto se retrasaría y que teníamos que trabajar el sábado."
+      },
+      {
+       "who": "Carlos",
+       "en": "Saturday? She told me last week that we wouldn't have to.",
+       "es": "¿El sábado? Ella me dijo la semana pasada que no tendríamos que hacerlo."
+      },
+      {
+       "who": "You",
+       "en": "I know. Someone asked her why the plans had changed.",
+       "es": "Ya sé. Alguien le preguntó por qué habían cambiado los planes."
+      },
+      {
+       "who": "Carlos",
+       "en": "And what did she reply?",
+       "es": "¿Y qué respondió?"
+      },
+      {
+       "who": "You",
+       "en": "She explained that the client had asked for more changes. She apologized and promised to give us a day off.",
+       "es": "Explicó que el cliente había pedido más cambios. Se disculpó y prometió darnos un día libre."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u62-indirecto-l7",
+   "title": "7. Do you know what time it is?, Could you tell me where the bank is?",
+   "focus": "reading",
+   "newItems": [
+    "u62.do-you-know-what-time-it-is",
+    "u62.could-you-tell-me-where-the-bank-is"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u62.do-you-know-what-time-it-is",
+      "u62.could-you-tell-me-where-the-bank-is"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.do-you-know-what-time-it-is",
+      "u62.could-you-tell-me-where-the-bank-is"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.do-you-know-what-time-it-is",
+      "u62.could-you-tell-me-where-the-bank-is"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.do-you-know-what-time-it-is",
+      "u62.could-you-tell-me-where-the-bank-is"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.make-clear",
+      "u62.she-told-me-to-wait",
+      "u62.he-asked-me-where-i-lived",
+      "u62.they-asked-if-i-was-ok",
+      "u62.she-suggested-going-out",
+      "u62.he-admitted-breaking-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u62-indirecto-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "El chisme de la oficina",
+     "emoji": "🗯️",
+     "paragraphs": [
+      {
+       "en": "On Monday morning Sofía heard a rumor in the elevator.",
+       "es": "El lunes por la mañana Sofía oyó un rumor en el ascensor."
+      },
+      {
+       "en": "Someone whispered that the company was going to close the Pasto office.",
+       "es": "Alguien susurró que la empresa iba a cerrar la oficina de Pasto."
+      },
+      {
+       "en": "By lunchtime everybody was talking about it. People wondered whether they would lose their jobs.",
+       "es": "A la hora del almuerzo todo el mundo hablaba de eso. La gente se preguntaba si perdería su trabajo."
+      },
+      {
+       "en": "Finally Sofía asked the director if it was true.",
+       "es": "Al final Sofía le preguntó al director si era cierto."
+      },
+      {
+       "en": "He laughed and explained that they weren't closing the office. They were moving it to a bigger building!",
+       "es": "Él se rió y explicó que no iban a cerrar la oficina. ¡La iban a trasladar a un edificio más grande!"
+      },
+      {
+       "en": "He reminded everyone not to believe gossip and suggested asking him directly next time.",
+       "es": "Les recordó a todos que no creyeran chismes y sugirió preguntarle directamente la próxima vez."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué decía el rumor?",
+       "options": [
+        "Que habría aumento de sueldo",
+        "Que iban a cerrar la oficina de Pasto",
+        "Que despedirían al director"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué pasaba en realidad?",
+       "options": [
+        "Trasladaban la oficina a un edificio más grande",
+        "Cerraban la empresa",
+        "Nada"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué sugirió el director?",
+       "options": [
+        "Creer los chismes",
+        "Preguntarle directamente la próxima vez",
+        "Trabajar el sábado"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Contar lo que dijo el médico",
+     "scene": "🩺 Tu mamá no pudo ir a la cita de tu papá y te pregunta.",
+     "turns": [
+      {
+       "who": "Mom",
+       "en": "What did the doctor say?",
+       "es": "¿Qué dijo el médico?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "He said Dad was fine, but that he had to reduce salt.",
+         "es": "Dijo que papá estaba bien, pero que tenía que reducir la sal.",
+         "ok": true
+        },
+        {
+         "en": "He said Dad is fine tomorrow.",
+         "es": "Dijo que papá está bien mañana.",
+         "ok": false,
+         "why": "Mezcla tiempos."
+        }
+       ]
+      },
+      {
+       "who": "Mom",
+       "en": "Did he give him any medicine?",
+       "es": "¿Le dio algún medicamento?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes. He told him to take one pill every morning.",
+         "es": "Sí. Le dijo que se tomara una pastilla cada mañana.",
+         "ok": true
+        },
+        {
+         "en": "Yes. He told him take one pill.",
+         "es": "Sí. Le dijo tomar una pastilla.",
+         "ok": false,
+         "why": "Falta \"to\": told him TO take."
+        }
+       ]
+      },
+      {
+       "who": "Mom",
+       "en": "And did Dad ask about exercise?",
+       "es": "¿Y papá preguntó por el ejercicio?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, he asked if he could play football again. The doctor said he could, slowly.",
+         "es": "Sí, preguntó si podía volver a jugar fútbol. El médico dijo que sí, despacio.",
+         "ok": true
+        },
+        {
+         "en": "Yes, he asked could he play football.",
+         "es": "Sí, preguntó podía él jugar.",
+         "ok": false,
+         "why": "En pregunta indirecta: \"if he could play\"."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me dijo que estaba cansada.",
+     "en": "She told me she was tired.",
+     "accept": [
+      "She told me that she was tired.",
+      "She said she was tired."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Me preguntó dónde vivía.",
+     "en": "He asked me where I lived.",
+     "accept": [
+      "She asked me where I lived."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "¿Podría decirme dónde queda la estación?",
+     "en": "Could you tell me where the station is?",
+     "accept": [
+      "Can you tell me where the station is?"
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "She said she would call me the next day.",
+     "es": "Dijo que me llamaría al día siguiente."
+    },
+    {
+     "type": "dictation",
+     "en": "He asked me whether I had finished the report.",
+     "es": "Me preguntó si había terminado el informe."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u62.make-clear",
+      "u62.she-told-me-to-wait",
+      "u62.he-asked-me-where-i-lived",
+      "u62.they-asked-if-i-was-ok",
+      "u62.she-suggested-going-out",
+      "u62.he-admitted-breaking-it",
+      "u62.do-you-know-what-time-it-is",
+      "u62.could-you-tell-me-where-the-bank-is"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

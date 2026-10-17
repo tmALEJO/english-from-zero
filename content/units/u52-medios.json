@@ -1,0 +1,1683 @@
+{
+ "_generated": true,
+ "id": "u52-medios",
+ "level": "B1",
+ "title": "Medios y redes sociales",
+ "emoji": "📱",
+ "canDo": "Ya puedo hablar de redes sociales, noticias y entretenimiento digital",
+ "summary": "Redes sociales, noticias, privacidad y desinformación; verbos para contar lo que viste en internet.",
+ "grammar": [
+  "Estilo indirecto básico: She said that…",
+  "Adverbios de opinión: apparently, obviously"
+ ],
+ "items": [
+  {
+   "id": "u52.social-media",
+   "en": "social media",
+   "es": "redes sociales",
+   "kind": "chunk",
+   "emoji": "📲"
+  },
+  {
+   "id": "u52.post",
+   "en": "post",
+   "es": "publicación / publicar",
+   "kind": "word",
+   "emoji": "📝",
+   "say": "póust"
+  },
+  {
+   "id": "u52.comment",
+   "en": "comment",
+   "es": "comentario / comentar",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "kó-ment"
+  },
+  {
+   "id": "u52.like-social",
+   "en": "like",
+   "es": "me gusta (dar like)",
+   "kind": "word",
+   "emoji": "👍",
+   "tip": "Aquí con el sentido de: social."
+  },
+  {
+   "id": "u52.follower",
+   "en": "follower",
+   "es": "seguidor",
+   "kind": "word",
+   "emoji": "👥",
+   "say": "fó-lou-er"
+  },
+  {
+   "id": "u52.follow",
+   "en": "follow",
+   "es": "seguir",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "fó-lou"
+  },
+  {
+   "id": "u52.unfollow",
+   "en": "unfollow",
+   "es": "dejar de seguir",
+   "kind": "word",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u52.profile",
+   "en": "profile",
+   "es": "perfil",
+   "kind": "word",
+   "emoji": "🪪",
+   "say": "próu-fail"
+  },
+  {
+   "id": "u52.influencer",
+   "en": "influencer",
+   "es": "influenciador",
+   "kind": "word",
+   "emoji": "🤳",
+   "say": "ín-flu-en-ser"
+  },
+  {
+   "id": "u52.content-creator",
+   "en": "content creator",
+   "es": "creador de contenido",
+   "kind": "chunk",
+   "emoji": "🎥"
+  },
+  {
+   "id": "u52.go-viral",
+   "en": "go viral",
+   "es": "volverse viral",
+   "kind": "chunk",
+   "emoji": "🚀"
+  },
+  {
+   "id": "u52.trending",
+   "en": "trending",
+   "es": "tendencia",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "trén-ding"
+  },
+  {
+   "id": "u52.hashtag",
+   "en": "hashtag",
+   "es": "etiqueta / hashtag",
+   "kind": "word",
+   "emoji": "#️⃣"
+  },
+  {
+   "id": "u52.selfie",
+   "en": "selfie",
+   "es": "selfi",
+   "kind": "word",
+   "emoji": "🤳"
+  },
+  {
+   "id": "u52.stream",
+   "en": "stream",
+   "es": "transmitir en vivo",
+   "kind": "word",
+   "emoji": "📡",
+   "say": "stríim"
+  },
+  {
+   "id": "u52.podcast",
+   "en": "podcast",
+   "es": "podcast",
+   "kind": "word",
+   "emoji": "🎙️",
+   "say": "pód-kast"
+  },
+  {
+   "id": "u52.subscribe",
+   "en": "subscribe",
+   "es": "suscribirse",
+   "kind": "word",
+   "emoji": "🔔",
+   "say": "sabs-kráib"
+  },
+  {
+   "id": "u52.notification",
+   "en": "notification",
+   "es": "notificación",
+   "kind": "word",
+   "emoji": "🔔",
+   "say": "nou-ti-fi-kéi-shon"
+  },
+  {
+   "id": "u52.scroll",
+   "en": "scroll",
+   "es": "desplazarse / scroll",
+   "kind": "word",
+   "emoji": "📜",
+   "say": "skról"
+  },
+  {
+   "id": "u52.headline",
+   "en": "headline",
+   "es": "titular",
+   "kind": "word",
+   "emoji": "📰",
+   "say": "jéd-lain"
+  },
+  {
+   "id": "u52.article",
+   "en": "article",
+   "es": "artículo",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "ár-ti-kol"
+  },
+  {
+   "id": "u52.journalist",
+   "en": "journalist",
+   "es": "periodista",
+   "kind": "word",
+   "emoji": "🧑‍💼",
+   "say": "yér-na-list"
+  },
+  {
+   "id": "u52.reporter",
+   "en": "reporter",
+   "es": "reportero",
+   "kind": "word",
+   "emoji": "🎤",
+   "say": "ri-pór-ter"
+  },
+  {
+   "id": "u52.newspaper",
+   "en": "newspaper",
+   "es": "periódico",
+   "kind": "word",
+   "emoji": "🗞️",
+   "say": "niús-pei-per"
+  },
+  {
+   "id": "u52.magazine",
+   "en": "magazine",
+   "es": "revista",
+   "kind": "word",
+   "emoji": "📖",
+   "say": "ma-ga-síin"
+  },
+  {
+   "id": "u52.tv-channel",
+   "en": "TV channel",
+   "es": "canal de televisión",
+   "kind": "chunk",
+   "emoji": "📺"
+  },
+  {
+   "id": "u52.advertisement",
+   "en": "advertisement",
+   "es": "publicidad / anuncio",
+   "kind": "word",
+   "emoji": "📢",
+   "say": "ad-ver-táis-ment"
+  },
+  {
+   "id": "u52.ad",
+   "en": "ad",
+   "es": "anuncio",
+   "kind": "word",
+   "emoji": "🪧",
+   "say": "ad"
+  },
+  {
+   "id": "u52.fake-news",
+   "en": "fake news",
+   "es": "noticias falsas",
+   "kind": "chunk",
+   "emoji": "🤥"
+  },
+  {
+   "id": "u52.misinformation",
+   "en": "misinformation",
+   "es": "desinformación",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "mis-in-for-méi-shon"
+  },
+  {
+   "id": "u52.source",
+   "en": "source",
+   "es": "fuente",
+   "kind": "word",
+   "emoji": "🔎",
+   "say": "sors"
+  },
+  {
+   "id": "u52.reliable-source",
+   "en": "reliable source",
+   "es": "fuente confiable",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u52.check-the-facts",
+   "en": "check the facts",
+   "es": "verificar los datos",
+   "kind": "chunk",
+   "emoji": "🔍"
+  },
+  {
+   "id": "u52.privacy",
+   "en": "privacy",
+   "es": "privacidad",
+   "kind": "word",
+   "emoji": "🔒",
+   "say": "prái-va-si"
+  },
+  {
+   "id": "u52.personal-data",
+   "en": "personal data",
+   "es": "datos personales",
+   "kind": "chunk",
+   "emoji": "🗂️"
+  },
+  {
+   "id": "u52.hacker",
+   "en": "hacker",
+   "es": "hacker / pirata informático",
+   "kind": "word",
+   "emoji": "🧑‍💻",
+   "say": "já-ker"
+  },
+  {
+   "id": "u52.scam",
+   "en": "scam",
+   "es": "estafa",
+   "kind": "word",
+   "emoji": "🎣",
+   "say": "skam"
+  },
+  {
+   "id": "u52.block",
+   "en": "block",
+   "es": "bloquear",
+   "kind": "word",
+   "emoji": "⛔",
+   "say": "blok"
+  },
+  {
+   "id": "u52.report",
+   "en": "report",
+   "es": "reportar / denunciar",
+   "kind": "word",
+   "emoji": "🚩",
+   "say": "ri-pórt"
+  },
+  {
+   "id": "u52.cyberbullying",
+   "en": "cyberbullying",
+   "es": "ciberacoso",
+   "kind": "word",
+   "emoji": "😢",
+   "say": "sái-ber-bu-li-ing"
+  },
+  {
+   "id": "u52.online",
+   "en": "online",
+   "es": "en línea",
+   "kind": "word",
+   "emoji": "🌐"
+  },
+  {
+   "id": "u52.offline",
+   "en": "offline",
+   "es": "sin conexión",
+   "kind": "word",
+   "emoji": "📴"
+  },
+  {
+   "id": "u52.apparently",
+   "en": "apparently",
+   "es": "al parecer",
+   "kind": "word",
+   "emoji": "🤔",
+   "say": "a-pé-rent-li"
+  },
+  {
+   "id": "u52.according-to",
+   "en": "According to…",
+   "es": "Según…",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u52.i-saw-it-on",
+   "en": "I saw it on…",
+   "es": "Lo vi en…",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u52.she-said-that",
+   "en": "She said that…",
+   "es": "Ella dijo que…",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u52.he-told-me-that",
+   "en": "He told me that…",
+   "es": "Él me dijo que…",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u52-medios-l1",
+   "title": "1. social media, post, comment…",
+   "focus": "listening",
+   "newItems": [
+    "u52.social-media",
+    "u52.post",
+    "u52.comment",
+    "u52.like-social"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.social-media",
+      "u52.post"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.comment",
+      "u52.like-social"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.social-media",
+      "u52.post",
+      "u52.comment",
+      "u52.like-social"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.social-media",
+      "u52.post",
+      "u52.comment",
+      "u52.like-social"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.social-media",
+      "u52.post",
+      "u52.comment",
+      "u52.like-social"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l2",
+   "title": "2. follower, follow, unfollow…",
+   "focus": "grammar",
+   "newItems": [
+    "u52.follower",
+    "u52.follow",
+    "u52.unfollow",
+    "u52.profile"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.follower",
+      "u52.follow"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.unfollow",
+      "u52.profile"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.follower",
+      "u52.follow",
+      "u52.unfollow",
+      "u52.profile"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.follower",
+      "u52.follow",
+      "u52.unfollow",
+      "u52.profile"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.follower",
+      "u52.follow",
+      "u52.unfollow",
+      "u52.profile"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.social-media",
+      "u52.post",
+      "u52.comment",
+      "u52.like-social"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Contar lo que alguien dijo",
+     "intro": "Compara lo que la persona dijo con cómo se cuenta después.",
+     "examples": [
+      {
+       "en": "\"I'm tired.\" → She said that she was tired.",
+       "es": "\"Estoy cansada.\" → Dijo que estaba cansada.",
+       "mark": [
+        "was"
+       ]
+      },
+      {
+       "en": "\"I love this video.\" → He said he loved the video.",
+       "es": "\"Me encanta este video.\" → Dijo que le encantaba el video.",
+       "mark": [
+        "loved"
+       ]
+      },
+      {
+       "en": "\"The news is fake.\" → They told me that the news was fake.",
+       "es": "\"La noticia es falsa.\" → Me dijeron que la noticia era falsa.",
+       "mark": [
+        "was"
+       ]
+      },
+      {
+       "en": "\"I will post it tomorrow.\" → She said she would post it the next day.",
+       "es": "\"Lo publico mañana.\" → Dijo que lo publicaría al día siguiente.",
+       "mark": [
+        "would"
+       ]
+      }
+     ],
+     "question": "Al contar lo que alguien dijo, el verbo normalmente…",
+     "options": [
+      "Se queda igual",
+      "Se mueve un paso hacia el pasado (is → was)"
+     ],
+     "answer": 1,
+     "rule": "Esto se llama ESTILO INDIRECTO. Al contar lo que alguien dijo, el verbo suele ir un paso hacia atrás: am/is → was, love → loved, will → would. say no lleva persona (She said that…); tell sí (She told ME that…). En una unidad de B2 lo verás completo.",
+     "ruleExamples": [
+      {
+       "en": "According to the article, the video went viral in one day.",
+       "es": "Según el artículo, el video se volvió viral en un día."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "She ___ me that she had a new account.",
+     "options": [
+      "told",
+      "said"
+     ],
+     "answer": 0,
+     "es": "Me dijo que tenía una cuenta nueva."
+    },
+    {
+     "type": "fill",
+     "en": "He ___ that the photo was fake.",
+     "options": [
+      "said",
+      "told"
+     ],
+     "answer": 0,
+     "es": "Dijo que la foto era falsa."
+    },
+    {
+     "type": "fill",
+     "en": "\"I am busy.\" → She said she ___ busy.",
+     "options": [
+      "was",
+      "is will"
+     ],
+     "answer": 0,
+     "es": "\"Estoy ocupada.\" → Dijo que estaba ocupada."
+    },
+    {
+     "type": "fill",
+     "en": "Always check the ___ before you share news.",
+     "options": [
+      "source",
+      "sauce"
+     ],
+     "answer": 0,
+     "es": "Revisa siempre la fuente antes de compartir noticias."
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l3",
+   "title": "3. influencer, content creator, go viral…",
+   "focus": "reading",
+   "newItems": [
+    "u52.influencer",
+    "u52.content-creator",
+    "u52.go-viral",
+    "u52.trending"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.influencer",
+      "u52.content-creator"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.go-viral",
+      "u52.trending"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.influencer",
+      "u52.content-creator",
+      "u52.go-viral",
+      "u52.trending"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.influencer",
+      "u52.content-creator",
+      "u52.go-viral",
+      "u52.trending"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.influencer",
+      "u52.content-creator",
+      "u52.go-viral",
+      "u52.trending"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.comment",
+      "u52.like-social",
+      "u52.follower",
+      "u52.follow",
+      "u52.unfollow",
+      "u52.profile"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l4",
+   "title": "4. hashtag, selfie, stream…",
+   "focus": "listening",
+   "newItems": [
+    "u52.hashtag",
+    "u52.selfie",
+    "u52.stream",
+    "u52.podcast"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.hashtag",
+      "u52.selfie"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.stream",
+      "u52.podcast"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.hashtag",
+      "u52.selfie",
+      "u52.stream",
+      "u52.podcast"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.hashtag",
+      "u52.selfie",
+      "u52.stream",
+      "u52.podcast"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.hashtag",
+      "u52.selfie",
+      "u52.stream",
+      "u52.podcast"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.unfollow",
+      "u52.profile",
+      "u52.influencer",
+      "u52.content-creator",
+      "u52.go-viral",
+      "u52.trending"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l5",
+   "title": "5. subscribe, notification, scroll…",
+   "focus": "listening",
+   "newItems": [
+    "u52.subscribe",
+    "u52.notification",
+    "u52.scroll",
+    "u52.headline"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.subscribe",
+      "u52.notification"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.scroll",
+      "u52.headline"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.subscribe",
+      "u52.notification",
+      "u52.scroll",
+      "u52.headline"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.subscribe",
+      "u52.notification",
+      "u52.scroll",
+      "u52.headline"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.subscribe",
+      "u52.notification",
+      "u52.scroll",
+      "u52.headline"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.go-viral",
+      "u52.trending",
+      "u52.hashtag",
+      "u52.selfie",
+      "u52.stream",
+      "u52.podcast"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l6",
+   "title": "6. article, journalist, reporter…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u52.article",
+    "u52.journalist",
+    "u52.reporter",
+    "u52.newspaper"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.article",
+      "u52.journalist"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.reporter",
+      "u52.newspaper"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.article",
+      "u52.journalist",
+      "u52.reporter",
+      "u52.newspaper"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.article",
+      "u52.journalist",
+      "u52.reporter",
+      "u52.newspaper"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.article",
+      "u52.journalist",
+      "u52.reporter",
+      "u52.newspaper"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.stream",
+      "u52.podcast",
+      "u52.subscribe",
+      "u52.notification",
+      "u52.scroll",
+      "u52.headline"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l7",
+   "title": "7. magazine, TV channel, advertisement…",
+   "focus": "reading",
+   "newItems": [
+    "u52.magazine",
+    "u52.tv-channel",
+    "u52.advertisement",
+    "u52.ad"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.magazine",
+      "u52.tv-channel"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.advertisement",
+      "u52.ad"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.magazine",
+      "u52.tv-channel",
+      "u52.advertisement",
+      "u52.ad"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.magazine",
+      "u52.tv-channel",
+      "u52.advertisement",
+      "u52.ad"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.magazine",
+      "u52.tv-channel",
+      "u52.advertisement",
+      "u52.ad"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.scroll",
+      "u52.headline",
+      "u52.article",
+      "u52.journalist",
+      "u52.reporter",
+      "u52.newspaper"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "tip",
+     "emoji": "🕵️",
+     "title": "Antes de compartir",
+     "text": "Para frenar las fake news, pregúntate: Who wrote it? (¿quién lo escribió?), Is the source reliable? (¿la fuente es confiable?), Do other sites say the same? (¿otros sitios dicen lo mismo?)."
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l8",
+   "title": "8. fake news, misinformation, source…",
+   "focus": "listening",
+   "newItems": [
+    "u52.fake-news",
+    "u52.misinformation",
+    "u52.source",
+    "u52.reliable-source"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.fake-news",
+      "u52.misinformation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.source",
+      "u52.reliable-source"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.fake-news",
+      "u52.misinformation",
+      "u52.source",
+      "u52.reliable-source"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.fake-news",
+      "u52.misinformation",
+      "u52.source",
+      "u52.reliable-source"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.fake-news",
+      "u52.misinformation",
+      "u52.source",
+      "u52.reliable-source"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.reporter",
+      "u52.newspaper",
+      "u52.magazine",
+      "u52.tv-channel",
+      "u52.advertisement",
+      "u52.ad"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l9",
+   "title": "9. check the facts, privacy, personal data…",
+   "focus": "listening",
+   "newItems": [
+    "u52.check-the-facts",
+    "u52.privacy",
+    "u52.personal-data",
+    "u52.hacker"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.check-the-facts",
+      "u52.privacy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.personal-data",
+      "u52.hacker"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.check-the-facts",
+      "u52.privacy",
+      "u52.personal-data",
+      "u52.hacker"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.check-the-facts",
+      "u52.privacy",
+      "u52.personal-data",
+      "u52.hacker"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.check-the-facts",
+      "u52.privacy",
+      "u52.personal-data",
+      "u52.hacker"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.advertisement",
+      "u52.ad",
+      "u52.fake-news",
+      "u52.misinformation",
+      "u52.source",
+      "u52.reliable-source"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l10",
+   "title": "10. scam, block, report…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u52.scam",
+    "u52.block",
+    "u52.report",
+    "u52.cyberbullying"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.scam",
+      "u52.block"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.report",
+      "u52.cyberbullying"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.scam",
+      "u52.block",
+      "u52.report",
+      "u52.cyberbullying"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.scam",
+      "u52.block",
+      "u52.report",
+      "u52.cyberbullying"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.scam",
+      "u52.block",
+      "u52.report",
+      "u52.cyberbullying"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.source",
+      "u52.reliable-source",
+      "u52.check-the-facts",
+      "u52.privacy",
+      "u52.personal-data",
+      "u52.hacker"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Viste ese video?",
+     "scene": "📱 En la universidad, entre clases.",
+     "lines": [
+      {
+       "who": "Sara",
+       "en": "Did you see the video about the bear in Bogotá? It went viral!",
+       "es": "¿Viste el video del oso en Bogotá? ¡Se volvió viral!"
+      },
+      {
+       "who": "Juan",
+       "en": "Yes, but apparently it's fake.",
+       "es": "Sí, pero al parecer es falso."
+      },
+      {
+       "who": "Sara",
+       "en": "Really? My cousin shared it. She said it was real.",
+       "es": "¿En serio? Mi prima lo compartió. Dijo que era real."
+      },
+      {
+       "who": "Juan",
+       "en": "According to a reliable news site, it was made with artificial intelligence.",
+       "es": "Según un sitio de noticias confiable, lo hicieron con inteligencia artificial."
+      },
+      {
+       "who": "Sara",
+       "en": "Wow. I need to check the facts before I share things.",
+       "es": "Uy. Tengo que verificar los datos antes de compartir cosas."
+      },
+      {
+       "who": "Juan",
+       "en": "We all do!",
+       "es": "¡Todos!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l11",
+   "title": "11. online, offline, apparently…",
+   "focus": "reading",
+   "newItems": [
+    "u52.online",
+    "u52.offline",
+    "u52.apparently",
+    "u52.according-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.online",
+      "u52.offline"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.apparently",
+      "u52.according-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.online",
+      "u52.offline",
+      "u52.apparently",
+      "u52.according-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.online",
+      "u52.offline",
+      "u52.apparently",
+      "u52.according-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.online",
+      "u52.offline",
+      "u52.apparently",
+      "u52.according-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.personal-data",
+      "u52.hacker",
+      "u52.scam",
+      "u52.block",
+      "u52.report",
+      "u52.cyberbullying"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-l12",
+   "title": "12. I saw it on…, She said that…, He told me that…",
+   "focus": "listening",
+   "newItems": [
+    "u52.i-saw-it-on",
+    "u52.she-said-that",
+    "u52.he-told-me-that"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u52.i-saw-it-on",
+      "u52.she-said-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u52.he-told-me-that"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.i-saw-it-on",
+      "u52.she-said-that",
+      "u52.he-told-me-that"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.i-saw-it-on",
+      "u52.she-said-that",
+      "u52.he-told-me-that"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.i-saw-it-on",
+      "u52.she-said-that",
+      "u52.he-told-me-that"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.report",
+      "u52.cyberbullying",
+      "u52.online",
+      "u52.offline",
+      "u52.apparently",
+      "u52.according-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u52-medios-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La estafa del sorteo",
+     "emoji": "🎣",
+     "paragraphs": [
+      {
+       "en": "One morning Patricia got a message on social media: \"Congratulations! You won a new phone!\"",
+       "es": "Una mañana Patricia recibió un mensaje en redes sociales: \"¡Felicitaciones! ¡Ganaste un celular nuevo!\""
+      },
+      {
+       "en": "The message said she only had to pay for the shipping and give her personal data.",
+       "es": "El mensaje decía que solo tenía que pagar el envío y dar sus datos personales."
+      },
+      {
+       "en": "She was excited, but something felt strange. The profile had no photos and few followers.",
+       "es": "Estaba emocionada, pero algo le pareció raro. El perfil no tenía fotos y tenía pocos seguidores."
+      },
+      {
+       "en": "She asked her nephew, who works in cybersecurity. He told her it was a scam.",
+       "es": "Le preguntó a su sobrino, que trabaja en ciberseguridad. Él le dijo que era una estafa."
+      },
+      {
+       "en": "\"Never give your password or bank details online,\" he said.",
+       "es": "\"Nunca des tu contraseña ni tus datos bancarios en línea\", le dijo."
+      },
+      {
+       "en": "Patricia blocked the account and reported it. Then she warned all her friends.",
+       "es": "Patricia bloqueó la cuenta y la reportó. Luego les advirtió a todos sus amigos."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué decía el mensaje?",
+       "options": [
+        "Que había ganado un celular",
+        "Que tenía una deuda",
+        "Que su cuenta estaba bloqueada"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué le pareció raro del perfil?",
+       "options": [
+        "Que no tenía fotos y pocos seguidores",
+        "Que era de una empresa famosa",
+        "Que estaba en inglés"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hizo Patricia al final?",
+       "options": [
+        "Pagó el envío",
+        "Bloqueó y reportó la cuenta",
+        "Compartió el mensaje"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Ayudar a tu mamá con un mensaje raro",
+     "scene": "📩 Tu mamá recibe un mensaje sospechoso.",
+     "turns": [
+      {
+       "who": "Mom",
+       "en": "The bank sent me a message. They want my password.",
+       "es": "El banco me mandó un mensaje. Quieren mi contraseña."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Don't send it! Banks never ask for your password. It's a scam.",
+         "es": "¡No la mandes! Los bancos nunca piden tu contraseña. Es una estafa.",
+         "ok": true
+        },
+        {
+         "en": "Send it quickly!",
+         "es": "¡Mándala rápido!",
+         "ok": false,
+         "why": "Nunca se comparte la contraseña."
+        }
+       ]
+      },
+      {
+       "who": "Mom",
+       "en": "But the message says my account will be blocked.",
+       "es": "Pero el mensaje dice que me van a bloquear la cuenta."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That's what scammers say. Let's call the bank and check.",
+         "es": "Eso es lo que dicen los estafadores. Llamemos al banco y verifiquemos.",
+         "ok": true
+        },
+        {
+         "en": "That's true. Banks always say that.",
+         "es": "Es cierto. Los bancos siempre dicen eso.",
+         "ok": false,
+         "why": "Justo lo contrario."
+        }
+       ]
+      },
+      {
+       "who": "Mom",
+       "en": "OK. What should I do with the message?",
+       "es": "Bueno. ¿Qué hago con el mensaje?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Report it and block the number.",
+         "es": "Repórtalo y bloquea el número.",
+         "ok": true
+        },
+        {
+         "en": "Share it with all your followers.",
+         "es": "Compártelo con todos tus seguidores.",
+         "ok": false,
+         "why": "Sería esparcir la estafa."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ella me dijo que estaba cansada.",
+     "en": "She told me that she was tired.",
+     "accept": [
+      "She told me she was tired."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Al parecer, la noticia es falsa.",
+     "en": "Apparently, the news is fake.",
+     "accept": [
+      "Apparently the news is fake."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Nunca compartas tu contraseña.",
+     "en": "Never share your password.",
+     "accept": [
+      "Don't share your password."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "The video went viral in one day.",
+     "es": "El video se volvió viral en un día."
+    },
+    {
+     "type": "dictation",
+     "en": "According to the article, it was a scam.",
+     "es": "Según el artículo, era una estafa."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u52.cyberbullying",
+      "u52.online",
+      "u52.offline",
+      "u52.apparently",
+      "u52.according-to",
+      "u52.i-saw-it-on",
+      "u52.she-said-that",
+      "u52.he-told-me-that"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

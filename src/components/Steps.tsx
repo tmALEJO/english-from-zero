@@ -1,10 +1,14 @@
-import { useEffect, useMemo, useState, type ReactNode } from 'react';
+import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { Item, Step } from '../types';
 import { EnglishText, Picture, SpeakButton, Spanish } from './common';
 import { speak } from '../engine/speech';
 import { sameSentence } from '../engine/text';
 import { useApp } from '../state';
 import { SpeakStep } from './SpeakStep';
+import { DictationStep, RoleplayStep, WriteStep } from './ProductionSteps';
+
+/** En exámenes no hay segundo intento: se muestra la respuesta y se sigue. */
+export const ExamContext = createContext(false);
 
 export interface StepResult { graded: boolean; correctFirstTry: boolean; attempts: number; skipped?: boolean }
 
@@ -12,9 +16,10 @@ interface Props { step: Step; onDone: (r: StepResult) => void }
 
 // ─── Pieza común: barra de acción + retroalimentación amable ──
 
-type Phase = 'answering' | 'right' | 'wrong';
+export type Phase = 'answering' | 'right' | 'wrong';
 
-function Feedback({ phase, correct, extra, onRetry, onContinue }: { phase: Phase; correct?: ReactNode; extra?: string; onRetry: () => void; onContinue: () => void }) {
+export function Feedback({ phase, correct, extra, onRetry, onContinue }: { phase: Phase; correct?: ReactNode; extra?: string; onRetry: () => void; onContinue: () => void }) {
+  const exam = useContext(ExamContext);
   if (phase === 'answering') return null;
   if (phase === 'right') {
     return (
@@ -31,8 +36,8 @@ function Feedback({ phase, correct, extra, onRetry, onContinue }: { phase: Phase
       {correct && <div className="feedback__answer">{correct}</div>}
       {extra && <p>{extra}</p>}
       <div className="feedback__actions">
-        <button type="button" className="btn btn--primary" onClick={onRetry} autoFocus>Intentar otra vez</button>
-        <button type="button" className="btn btn--ghost" onClick={onContinue}>Continuar</button>
+        {!exam && <button type="button" className="btn btn--primary" onClick={onRetry} autoFocus>Intentar otra vez</button>}
+        <button type="button" className={exam ? 'btn btn--primary' : 'btn btn--ghost'} onClick={onContinue} autoFocus={exam}>Continuar</button>
       </div>
     </div>
   );
@@ -110,7 +115,7 @@ function DialogueStep({ step, onDone }: { step: Extract<Step, { kind: 'dialogue'
   const playAll = async () => {
     for (let k = 0; k < step.lines.length; k++) {
       setActive(k);
-      await speak(step.lines[k].en, { rate: settings.voiceRate, voiceName: settings.voiceName });
+      await speak(step.lines[k].en, { rate: settings.voiceRate, voiceName: settings.voiceName, speaker: step.lines[k].who });
       await new Promise((r) => setTimeout(r, 350));
     }
     setActive(null);
@@ -126,7 +131,7 @@ function DialogueStep({ step, onDone }: { step: Extract<Step, { kind: 'dialogue'
         {step.lines.map((l, k) => (
           <li key={k} className={`bubble ${speakers.indexOf(l.who) % 2 ? 'bubble--right' : ''} ${active === k ? 'is-active' : ''}`}>
             <span className="bubble__who">{l.who}</span>
-            <p><EnglishText text={l.en} /> <SpeakButton text={l.en} /></p>
+            <p><EnglishText text={l.en} /> <SpeakButton text={l.en} speaker={l.who} /></p>
             <Spanish text={l.es} />
           </li>
         ))}
@@ -439,5 +444,8 @@ export function StepView({ step, onDone }: Props) {
     case 'build': return <BuildStep step={step} onDone={onDone} />;
     case 'discover': return <DiscoverStep step={step} onDone={onDone} />;
     case 'speak': return <SpeakStep step={step} onDone={onDone} />;
+    case 'dictation': return <DictationStep step={step} onDone={onDone} />;
+    case 'write': return <WriteStep step={step} onDone={onDone} />;
+    case 'roleplay': return <RoleplayStep step={step} onDone={onDone} />;
   }
 }

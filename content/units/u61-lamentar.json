@@ -1,0 +1,1500 @@
+{
+ "_generated": true,
+ "id": "u61-lamentar",
+ "level": "B2",
+ "title": "Lamentos y deseos",
+ "emoji": "😔",
+ "canDo": "Ya puedo hablar de lo que habría pasado y de lo que me gustaría que fuera distinto",
+ "summary": "Tercer condicional, wish / if only, y should have para hablar del pasado que no pasó.",
+ "grammar": [
+  "Tercer condicional",
+  "I wish / If only",
+  "should have / could have"
+ ],
+ "items": [
+  {
+   "id": "u61.if-i-had-known",
+   "en": "If I had known",
+   "es": "Si hubiera sabido",
+   "kind": "chunk",
+   "emoji": "🤦"
+  },
+  {
+   "id": "u61.i-would-have-helped-you",
+   "en": "I would have helped you",
+   "es": "Te habría ayudado",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u61.if-she-had-studied-she-would-have-passed",
+   "en": "If she had studied, she would have passed",
+   "es": "Si hubiera estudiado, habría pasado",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u61.i-wish-i-had",
+   "en": "I wish I had…",
+   "es": "Ojalá tuviera… / Ojalá hubiera…",
+   "kind": "chunk",
+   "emoji": "🌠"
+  },
+  {
+   "id": "u61.i-wish-you-were-here",
+   "en": "I wish you were here",
+   "es": "Ojalá estuvieras aquí",
+   "kind": "chunk",
+   "emoji": "💔"
+  },
+  {
+   "id": "u61.if-only",
+   "en": "If only",
+   "es": "Si tan solo",
+   "kind": "chunk",
+   "emoji": "😩"
+  },
+  {
+   "id": "u61.i-should-have-listened",
+   "en": "I should have listened",
+   "es": "Debí haber escuchado",
+   "kind": "chunk",
+   "emoji": "👂"
+  },
+  {
+   "id": "u61.you-shouldn-t-have-said-that",
+   "en": "You shouldn't have said that",
+   "es": "No debiste decir eso",
+   "kind": "chunk",
+   "emoji": "🤐"
+  },
+  {
+   "id": "u61.we-could-have-won",
+   "en": "We could have won",
+   "es": "Podríamos haber ganado",
+   "kind": "chunk",
+   "emoji": "🏆"
+  },
+  {
+   "id": "u61.it-might-have-been",
+   "en": "It might have been…",
+   "es": "Pudo haber sido…",
+   "kind": "chunk",
+   "emoji": "🎲"
+  },
+  {
+   "id": "u61.regret-verb",
+   "en": "regret",
+   "es": "lamentar / arrepentirse",
+   "kind": "word",
+   "emoji": "😞",
+   "say": "ri-grét",
+   "tip": "Aquí con el sentido de: verb."
+  },
+  {
+   "id": "u61.regret-noun",
+   "en": "regret",
+   "es": "arrepentimiento",
+   "kind": "word",
+   "emoji": "💭",
+   "tip": "Aquí con el sentido de: noun."
+  },
+  {
+   "id": "u61.blame",
+   "en": "blame",
+   "es": "culpar / culpa",
+   "kind": "word",
+   "emoji": "👉",
+   "say": "bléim"
+  },
+  {
+   "id": "u61.fault",
+   "en": "fault",
+   "es": "culpa",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "folt"
+  },
+  {
+   "id": "u61.it-s-my-fault",
+   "en": "It's my fault",
+   "es": "Es mi culpa",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u61.guilty",
+   "en": "guilty",
+   "es": "culpable",
+   "kind": "word",
+   "emoji": "😣",
+   "say": "guíl-ti"
+  },
+  {
+   "id": "u61.ashamed",
+   "en": "ashamed",
+   "es": "avergonzado",
+   "kind": "word",
+   "emoji": "😳",
+   "say": "a-shéimd"
+  },
+  {
+   "id": "u61.missed-opportunity",
+   "en": "missed opportunity",
+   "es": "oportunidad perdida",
+   "kind": "chunk",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u61.second-chance",
+   "en": "second chance",
+   "es": "segunda oportunidad",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u61.turning-point",
+   "en": "turning point",
+   "es": "punto de quiebre",
+   "kind": "chunk",
+   "emoji": "🔀"
+  },
+  {
+   "id": "u61.looking-back",
+   "en": "looking back",
+   "es": "mirando atrás",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u61.in-hindsight",
+   "en": "in hindsight",
+   "es": "en retrospectiva",
+   "kind": "chunk",
+   "emoji": "🔙",
+   "say": "jáind-sait"
+  },
+  {
+   "id": "u61.lesson-learned",
+   "en": "lesson learned",
+   "es": "lección aprendida",
+   "kind": "chunk",
+   "emoji": "📘"
+  },
+  {
+   "id": "u61.prevent",
+   "en": "prevent",
+   "es": "prevenir / evitar",
+   "kind": "word",
+   "emoji": "🛑",
+   "say": "pri-vént"
+  },
+  {
+   "id": "u61.warn",
+   "en": "warn",
+   "es": "advertir",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "uorn"
+  },
+  {
+   "id": "u61.advise",
+   "en": "advise",
+   "es": "aconsejar",
+   "kind": "word",
+   "emoji": "🗨️",
+   "say": "ad-váis"
+  },
+  {
+   "id": "u61.ignore",
+   "en": "ignore",
+   "es": "ignorar",
+   "kind": "word",
+   "emoji": "🙉",
+   "say": "ig-nór"
+  },
+  {
+   "id": "u61.pay-attention",
+   "en": "pay attention",
+   "es": "prestar atención",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u61.too-late",
+   "en": "too late",
+   "es": "demasiado tarde",
+   "kind": "chunk",
+   "emoji": "⌛"
+  },
+  {
+   "id": "u61.by-mistake",
+   "en": "by mistake",
+   "es": "por error",
+   "kind": "chunk",
+   "emoji": "❌"
+  },
+  {
+   "id": "u61.on-purpose",
+   "en": "on purpose",
+   "es": "a propósito",
+   "kind": "chunk",
+   "emoji": "🎯",
+   "say": "pér-pos"
+  },
+  {
+   "id": "u61.accidentally",
+   "en": "accidentally",
+   "es": "accidentalmente",
+   "kind": "word",
+   "emoji": "💥",
+   "say": "ak-si-dén-ta-li"
+  },
+  {
+   "id": "u61.carelessly",
+   "en": "carelessly",
+   "es": "descuidadamente",
+   "kind": "word",
+   "emoji": "🫠",
+   "say": "kér-les-li"
+  },
+  {
+   "id": "u61.wise",
+   "en": "wise",
+   "es": "sabio",
+   "kind": "word",
+   "emoji": "🦉",
+   "say": "uáis"
+  },
+  {
+   "id": "u61.foolish",
+   "en": "foolish",
+   "es": "tonto / insensato",
+   "kind": "word",
+   "emoji": "🤪",
+   "say": "fúu-lish"
+  },
+  {
+   "id": "u61.impulsive",
+   "en": "impulsive",
+   "es": "impulsivo",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "im-pál-siv"
+  },
+  {
+   "id": "u61.risky",
+   "en": "risky",
+   "es": "arriesgado",
+   "kind": "word",
+   "emoji": "🎲",
+   "say": "rís-ki"
+  },
+  {
+   "id": "u61.unlucky",
+   "en": "unlucky",
+   "es": "de mala suerte",
+   "kind": "word",
+   "emoji": "🐈‍⬛",
+   "say": "an-lá-ki"
+  },
+  {
+   "id": "u61.fate",
+   "en": "fate",
+   "es": "destino",
+   "kind": "word",
+   "emoji": "🌌",
+   "say": "féit"
+  },
+  {
+   "id": "u61.coincidence",
+   "en": "coincidence",
+   "es": "coincidencia",
+   "kind": "word",
+   "emoji": "🍀",
+   "say": "kou-ín-si-dens"
+  },
+  {
+   "id": "u61.what-if",
+   "en": "what if…",
+   "es": "¿y si…?",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u61.it-s-no-use-crying-over-spilled-milk",
+   "en": "It's no use crying over spilled milk",
+   "es": "No sirve de nada llorar sobre la leche derramada",
+   "kind": "chunk",
+   "emoji": "🥛"
+  },
+  {
+   "id": "u61.live-and-learn",
+   "en": "Live and learn",
+   "es": "Vivir para aprender",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u61.it-wasn-t-meant-to-be",
+   "en": "It wasn't meant to be",
+   "es": "No estaba destinado a ser",
+   "kind": "chunk",
+   "emoji": "🌌"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u61-lamentar-l1",
+   "title": "1. If I had known, I would have helped you, If she had studied, she would have passed…",
+   "focus": "listening",
+   "newItems": [
+    "u61.if-i-had-known",
+    "u61.i-would-have-helped-you",
+    "u61.if-she-had-studied-she-would-have-passed",
+    "u61.i-wish-i-had",
+    "u61.i-wish-you-were-here"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.if-i-had-known",
+      "u61.i-would-have-helped-you"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.if-she-had-studied-she-would-have-passed",
+      "u61.i-wish-i-had"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.i-wish-you-were-here"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.if-i-had-known",
+      "u61.i-would-have-helped-you",
+      "u61.if-she-had-studied-she-would-have-passed",
+      "u61.i-wish-i-had",
+      "u61.i-wish-you-were-here"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.if-i-had-known",
+      "u61.i-would-have-helped-you",
+      "u61.if-she-had-studied-she-would-have-passed",
+      "u61.i-wish-i-had",
+      "u61.i-wish-you-were-here"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.if-i-had-known",
+      "u61.i-would-have-helped-you",
+      "u61.if-she-had-studied-she-would-have-passed",
+      "u61.i-wish-i-had",
+      "u61.i-wish-you-were-here"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l2",
+   "title": "2. If only, I should have listened, You shouldn't have said that…",
+   "focus": "grammar",
+   "newItems": [
+    "u61.if-only",
+    "u61.i-should-have-listened",
+    "u61.you-shouldn-t-have-said-that",
+    "u61.we-could-have-won",
+    "u61.it-might-have-been"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.if-only",
+      "u61.i-should-have-listened"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.you-shouldn-t-have-said-that",
+      "u61.we-could-have-won"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.it-might-have-been"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.if-only",
+      "u61.i-should-have-listened",
+      "u61.you-shouldn-t-have-said-that",
+      "u61.we-could-have-won",
+      "u61.it-might-have-been"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.if-only",
+      "u61.i-should-have-listened",
+      "u61.you-shouldn-t-have-said-that",
+      "u61.we-could-have-won",
+      "u61.it-might-have-been"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.if-only",
+      "u61.i-should-have-listened",
+      "u61.you-shouldn-t-have-said-that",
+      "u61.we-could-have-won",
+      "u61.it-might-have-been"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.if-i-had-known",
+      "u61.i-would-have-helped-you",
+      "u61.if-she-had-studied-she-would-have-passed",
+      "u61.i-wish-i-had",
+      "u61.i-wish-you-were-here"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Tercer condicional y wish",
+     "intro": "Estas personas hablan de un pasado que ya no se puede cambiar.",
+     "examples": [
+      {
+       "en": "If I had studied, I would have passed the exam.",
+       "es": "Si hubiera estudiado, habría pasado el examen.",
+       "mark": [
+        "had studied",
+        "would have passed"
+       ]
+      },
+      {
+       "en": "If we had left earlier, we wouldn't have missed the flight.",
+       "es": "Si hubiéramos salido antes, no habríamos perdido el vuelo.",
+       "mark": [
+        "had left",
+        "wouldn't have missed"
+       ]
+      },
+      {
+       "en": "I wish I had saved more money.",
+       "es": "Ojalá hubiera ahorrado más plata.",
+       "mark": [
+        "wish",
+        "had saved"
+       ]
+      },
+      {
+       "en": "I wish I spoke French. (ahora)",
+       "es": "Ojalá hablara francés.",
+       "mark": [
+        "wish",
+        "spoke"
+       ]
+      },
+      {
+       "en": "You should have told me the truth.",
+       "es": "Debiste haberme dicho la verdad.",
+       "mark": [
+        "should have told"
+       ]
+      }
+     ],
+     "question": "¿Cómo se forma la parte de 'habría + participio'?",
+     "options": [
+      "would have + participio",
+      "will have + verbo",
+      "would + pasado"
+     ],
+     "answer": 0,
+     "rule": "TERCER CONDICIONAL (pasado imposible de cambiar): If + had + participio, would have + participio. wish: con pasado para deseos del presente (I wish I had a car = ojalá tuviera), con had + participio para lamentos del pasado (I wish I had gone = ojalá hubiera ido). should have + participio = debí haber.",
+     "ruleExamples": [
+      {
+       "en": "If I had known you were in the hospital, I would have visited you.",
+       "es": "Si hubiera sabido que estabas en el hospital, te habría visitado."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "If I ___ known, I would have helped you.",
+     "options": [
+      "had",
+      "have"
+     ],
+     "answer": 0,
+     "es": "Si hubiera sabido, te habría ayudado."
+    },
+    {
+     "type": "fill",
+     "en": "She would have come if you ___ invited her.",
+     "options": [
+      "had",
+      "have"
+     ],
+     "answer": 0,
+     "es": "Ella habría venido si la hubieras invitado."
+    },
+    {
+     "type": "fill",
+     "en": "I wish I ___ more time. (ahora)",
+     "options": [
+      "had",
+      "have"
+     ],
+     "answer": 0,
+     "es": "Ojalá tuviera más tiempo."
+    },
+    {
+     "type": "fill",
+     "en": "You should ___ called me.",
+     "options": [
+      "have",
+      "had"
+     ],
+     "answer": 0,
+     "es": "Debiste haberme llamado."
+    },
+    {
+     "type": "fill",
+     "en": "If they had played better, they ___ won.",
+     "options": [
+      "would have",
+      "will have"
+     ],
+     "answer": 0,
+     "es": "Si hubieran jugado mejor, habrían ganado."
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l3",
+   "title": "3. regret, regret, blame…",
+   "focus": "reading",
+   "newItems": [
+    "u61.regret-verb",
+    "u61.regret-noun",
+    "u61.blame",
+    "u61.fault",
+    "u61.it-s-my-fault"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.regret-verb",
+      "u61.regret-noun"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.blame",
+      "u61.fault"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.it-s-my-fault"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.regret-verb",
+      "u61.regret-noun",
+      "u61.blame",
+      "u61.fault",
+      "u61.it-s-my-fault"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.regret-verb",
+      "u61.regret-noun",
+      "u61.blame",
+      "u61.fault",
+      "u61.it-s-my-fault"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.regret-verb",
+      "u61.regret-noun",
+      "u61.blame",
+      "u61.fault",
+      "u61.it-s-my-fault"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.i-wish-you-were-here",
+      "u61.if-only",
+      "u61.i-should-have-listened",
+      "u61.you-shouldn-t-have-said-that",
+      "u61.we-could-have-won",
+      "u61.it-might-have-been"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l4",
+   "title": "4. guilty, ashamed, missed opportunity…",
+   "focus": "listening",
+   "newItems": [
+    "u61.guilty",
+    "u61.ashamed",
+    "u61.missed-opportunity",
+    "u61.second-chance",
+    "u61.turning-point"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.guilty",
+      "u61.ashamed"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.missed-opportunity",
+      "u61.second-chance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.turning-point"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.guilty",
+      "u61.ashamed",
+      "u61.missed-opportunity",
+      "u61.second-chance",
+      "u61.turning-point"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.guilty",
+      "u61.ashamed",
+      "u61.missed-opportunity",
+      "u61.second-chance",
+      "u61.turning-point"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.guilty",
+      "u61.ashamed",
+      "u61.missed-opportunity",
+      "u61.second-chance",
+      "u61.turning-point"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.it-might-have-been",
+      "u61.regret-verb",
+      "u61.regret-noun",
+      "u61.blame",
+      "u61.fault",
+      "u61.it-s-my-fault"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l5",
+   "title": "5. looking back, in hindsight, lesson learned…",
+   "focus": "listening",
+   "newItems": [
+    "u61.looking-back",
+    "u61.in-hindsight",
+    "u61.lesson-learned",
+    "u61.prevent",
+    "u61.warn"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.looking-back",
+      "u61.in-hindsight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.lesson-learned",
+      "u61.prevent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.warn"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.looking-back",
+      "u61.in-hindsight",
+      "u61.lesson-learned",
+      "u61.prevent",
+      "u61.warn"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.looking-back",
+      "u61.in-hindsight",
+      "u61.lesson-learned",
+      "u61.prevent",
+      "u61.warn"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.looking-back",
+      "u61.in-hindsight",
+      "u61.lesson-learned",
+      "u61.prevent",
+      "u61.warn"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.it-s-my-fault",
+      "u61.guilty",
+      "u61.ashamed",
+      "u61.missed-opportunity",
+      "u61.second-chance",
+      "u61.turning-point"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l6",
+   "title": "6. advise, ignore, pay attention…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u61.advise",
+    "u61.ignore",
+    "u61.pay-attention",
+    "u61.too-late",
+    "u61.by-mistake"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.advise",
+      "u61.ignore"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.pay-attention",
+      "u61.too-late"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.by-mistake"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.advise",
+      "u61.ignore",
+      "u61.pay-attention",
+      "u61.too-late",
+      "u61.by-mistake"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.advise",
+      "u61.ignore",
+      "u61.pay-attention",
+      "u61.too-late",
+      "u61.by-mistake"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.advise",
+      "u61.ignore",
+      "u61.pay-attention",
+      "u61.too-late",
+      "u61.by-mistake"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.turning-point",
+      "u61.looking-back",
+      "u61.in-hindsight",
+      "u61.lesson-learned",
+      "u61.prevent",
+      "u61.warn"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l7",
+   "title": "7. on purpose, accidentally, carelessly…",
+   "focus": "reading",
+   "newItems": [
+    "u61.on-purpose",
+    "u61.accidentally",
+    "u61.carelessly",
+    "u61.wise",
+    "u61.foolish"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.on-purpose",
+      "u61.accidentally"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.carelessly",
+      "u61.wise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.foolish"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.on-purpose",
+      "u61.accidentally",
+      "u61.carelessly",
+      "u61.wise",
+      "u61.foolish"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.on-purpose",
+      "u61.accidentally",
+      "u61.carelessly",
+      "u61.wise",
+      "u61.foolish"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.on-purpose",
+      "u61.accidentally",
+      "u61.carelessly",
+      "u61.wise",
+      "u61.foolish"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.warn",
+      "u61.advise",
+      "u61.ignore",
+      "u61.pay-attention",
+      "u61.too-late",
+      "u61.by-mistake"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "El vuelo perdido",
+     "scene": "✈️ Llegaron tarde al aeropuerto.",
+     "lines": [
+      {
+       "who": "Juan",
+       "en": "We missed the flight. I can't believe it.",
+       "es": "Perdimos el vuelo. No lo puedo creer."
+      },
+      {
+       "who": "Ana",
+       "en": "If we had left home an hour earlier, we would have made it.",
+       "es": "Si hubiéramos salido de la casa una hora antes, habríamos alcanzado."
+      },
+      {
+       "who": "Juan",
+       "en": "I know. I should have checked the traffic. It's my fault.",
+       "es": "Ya sé. Debí haber revisado el tráfico. Es mi culpa."
+      },
+      {
+       "who": "Ana",
+       "en": "Don't blame yourself. Nobody knew there would be an accident on the highway.",
+       "es": "No te culpes. Nadie sabía que habría un accidente en la autopista."
+      },
+      {
+       "who": "Juan",
+       "en": "I just wish we hadn't stopped for coffee.",
+       "es": "Solo desearía que no hubiéramos parado a tomar café."
+      },
+      {
+       "who": "Ana",
+       "en": "It's no use crying over spilled milk. Let's find another flight.",
+       "es": "No sirve de nada lamentarse. Busquemos otro vuelo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l8",
+   "title": "8. impulsive, risky, unlucky…",
+   "focus": "listening",
+   "newItems": [
+    "u61.impulsive",
+    "u61.risky",
+    "u61.unlucky",
+    "u61.fate",
+    "u61.coincidence"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.impulsive",
+      "u61.risky"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.unlucky",
+      "u61.fate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.coincidence"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.impulsive",
+      "u61.risky",
+      "u61.unlucky",
+      "u61.fate",
+      "u61.coincidence"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.impulsive",
+      "u61.risky",
+      "u61.unlucky",
+      "u61.fate",
+      "u61.coincidence"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.impulsive",
+      "u61.risky",
+      "u61.unlucky",
+      "u61.fate",
+      "u61.coincidence"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.by-mistake",
+      "u61.on-purpose",
+      "u61.accidentally",
+      "u61.carelessly",
+      "u61.wise",
+      "u61.foolish"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-l9",
+   "title": "9. what if…, It's no use crying over spilled milk, Live and learn…",
+   "focus": "listening",
+   "newItems": [
+    "u61.what-if",
+    "u61.it-s-no-use-crying-over-spilled-milk",
+    "u61.live-and-learn",
+    "u61.it-wasn-t-meant-to-be"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u61.what-if",
+      "u61.it-s-no-use-crying-over-spilled-milk"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u61.live-and-learn",
+      "u61.it-wasn-t-meant-to-be"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.what-if",
+      "u61.it-s-no-use-crying-over-spilled-milk",
+      "u61.live-and-learn",
+      "u61.it-wasn-t-meant-to-be"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.what-if",
+      "u61.it-s-no-use-crying-over-spilled-milk",
+      "u61.live-and-learn",
+      "u61.it-wasn-t-meant-to-be"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.what-if",
+      "u61.it-s-no-use-crying-over-spilled-milk",
+      "u61.live-and-learn",
+      "u61.it-wasn-t-meant-to-be"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.foolish",
+      "u61.impulsive",
+      "u61.risky",
+      "u61.unlucky",
+      "u61.fate",
+      "u61.coincidence"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u61-lamentar-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "La carta que nunca envié",
+     "emoji": "✉️",
+     "paragraphs": [
+      {
+       "en": "When I was twenty, I fell in love with a girl from my university called Elena.",
+       "es": "Cuando tenía veinte años, me enamoré de una chica de mi universidad llamada Elena."
+      },
+      {
+       "en": "I wrote her a long letter, but I was too shy, so I never sent it.",
+       "es": "Le escribí una carta larga, pero era muy tímido, así que nunca la envié."
+      },
+      {
+       "en": "At the end of the year she moved to Argentina. I never saw her again.",
+       "es": "Al final del año se mudó a Argentina. Nunca la volví a ver."
+      },
+      {
+       "en": "For years I wondered: what if I had sent that letter? Would my life have been different?",
+       "es": "Por años me pregunté: ¿y si hubiera enviado esa carta? ¿Habría sido distinta mi vida?"
+      },
+      {
+       "en": "Last year I found her on social media. She was married and happy.",
+       "es": "El año pasado la encontré en redes sociales. Estaba casada y feliz."
+      },
+      {
+       "en": "Looking back, I don't regret it. Maybe it wasn't meant to be, but I learned to be braver.",
+       "es": "Mirando atrás, no me arrepiento. Tal vez no estaba destinado a ser, pero aprendí a ser más valiente."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué no envió la carta?",
+       "options": [
+        "Porque era muy tímido",
+        "Porque la perdió",
+        "Porque Elena se fue"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿A dónde se mudó Elena?",
+       "options": [
+        "A España",
+        "A Argentina",
+        "A Chile"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué aprendió el narrador?",
+       "options": [
+        "A escribir cartas",
+        "A ser más valiente",
+        "A olvidar"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Hablar de un error en el trabajo",
+     "scene": "💼 Enviaste un correo con un error a un cliente importante.",
+     "turns": [
+      {
+       "who": "Boss",
+       "en": "The client received the wrong price list. What happened?",
+       "es": "El cliente recibió la lista de precios equivocada. ¿Qué pasó?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm really sorry. I sent the old file by mistake. It's my fault.",
+         "es": "Lo siento mucho. Envié el archivo viejo por error. Es mi culpa.",
+         "ok": true
+        },
+        {
+         "en": "It's not my fault. The client should have not open it.",
+         "es": "No es mi culpa. El cliente no debió abrirlo.",
+         "ok": false,
+         "why": "Culpar al cliente no ayuda."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "If you had checked it, this wouldn't have happened.",
+       "es": "Si lo hubieras revisado, esto no habría pasado."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "You're right. I should have double-checked it. I'll call the client now.",
+         "es": "Tiene razón. Debí haberlo revisado dos veces. Llamo al cliente ya.",
+         "ok": true
+        },
+        {
+         "en": "You're right. I would checked it.",
+         "es": "Tiene razón. Yo revisaría lo.",
+         "ok": false,
+         "why": "Debe ser \"I should have checked it\"."
+        }
+       ]
+      },
+      {
+       "who": "Boss",
+       "en": "OK. Make sure it doesn't happen again.",
+       "es": "Bueno. Asegúrate de que no vuelva a pasar."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Of course. Lesson learned.",
+         "es": "Claro. Lección aprendida.",
+         "ok": true
+        },
+        {
+         "en": "I wish it happens again.",
+         "es": "Ojalá pase otra vez.",
+         "ok": false,
+         "why": "Todo lo contrario."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Si hubiera sabido, te habría ayudado.",
+     "en": "If I had known, I would have helped you.",
+     "accept": [
+      "If I'd known, I would have helped you.",
+      "If I had known, I'd have helped you."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Ojalá tuviera más tiempo.",
+     "en": "I wish I had more time."
+    },
+    {
+     "type": "write",
+     "es": "Debí haberte escuchado.",
+     "en": "I should have listened to you."
+    },
+    {
+     "type": "dictation",
+     "en": "If we had left earlier, we wouldn't have missed the flight.",
+     "es": "Si hubiéramos salido antes, no habríamos perdido el vuelo."
+    },
+    {
+     "type": "dictation",
+     "en": "I wish I had saved more money when I was younger.",
+     "es": "Ojalá hubiera ahorrado más plata cuando era más joven."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u61.risky",
+      "u61.unlucky",
+      "u61.fate",
+      "u61.coincidence",
+      "u61.what-if",
+      "u61.it-s-no-use-crying-over-spilled-milk",
+      "u61.live-and-learn",
+      "u61.it-wasn-t-meant-to-be"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

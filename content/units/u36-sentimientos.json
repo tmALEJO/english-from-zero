@@ -1,0 +1,1307 @@
+{
+ "_generated": true,
+ "id": "u36-sentimientos",
+ "level": "A2",
+ "title": "Sentimientos y razones",
+ "emoji": "💗",
+ "canDo": "Ya puedo explicar cómo me siento y por qué",
+ "summary": "Emociones, causas y consecuencias con because, so, but y when.",
+ "grammar": [
+  "because / so / but",
+  "Adjetivos -ed / -ing"
+ ],
+ "items": [
+  {
+   "id": "u36.feelings",
+   "en": "feelings",
+   "es": "sentimientos",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "fíi-lings"
+  },
+  {
+   "id": "u36.happy",
+   "en": "happy",
+   "es": "feliz",
+   "kind": "word",
+   "emoji": "😄"
+  },
+  {
+   "id": "u36.glad",
+   "en": "glad",
+   "es": "contento / me alegra",
+   "kind": "word",
+   "emoji": "😊",
+   "say": "glad"
+  },
+  {
+   "id": "u36.upset",
+   "en": "upset",
+   "es": "molesto / afectado",
+   "kind": "word",
+   "emoji": "😞",
+   "say": "ap-sét"
+  },
+  {
+   "id": "u36.disappointed",
+   "en": "disappointed",
+   "es": "decepcionado",
+   "kind": "word",
+   "emoji": "😔",
+   "say": "di-sa-póin-ted"
+  },
+  {
+   "id": "u36.embarrassed",
+   "en": "embarrassed",
+   "es": "avergonzado / apenado",
+   "kind": "word",
+   "emoji": "😳",
+   "say": "em-bá-rast"
+  },
+  {
+   "id": "u36.jealous",
+   "en": "jealous",
+   "es": "celoso",
+   "kind": "word",
+   "emoji": "😒",
+   "say": "yé-los"
+  },
+  {
+   "id": "u36.lonely",
+   "en": "lonely",
+   "es": "solo / sintiéndose solo",
+   "kind": "word",
+   "emoji": "🥀",
+   "say": "lóun-li"
+  },
+  {
+   "id": "u36.stressed",
+   "en": "stressed",
+   "es": "estresado",
+   "kind": "word",
+   "emoji": "😫",
+   "say": "strest"
+  },
+  {
+   "id": "u36.calm",
+   "en": "calm",
+   "es": "tranquilo / calmado",
+   "kind": "word",
+   "emoji": "🧘",
+   "say": "kaam",
+   "tip": "La l no suena."
+  },
+  {
+   "id": "u36.confused",
+   "en": "confused",
+   "es": "confundido",
+   "kind": "word",
+   "emoji": "😕",
+   "say": "kon-fiúsd"
+  },
+  {
+   "id": "u36.confident",
+   "en": "confident",
+   "es": "seguro de sí mismo",
+   "kind": "word",
+   "emoji": "😎",
+   "say": "kón-fi-dent"
+  },
+  {
+   "id": "u36.grateful",
+   "en": "grateful",
+   "es": "agradecido",
+   "kind": "word",
+   "emoji": "🙏",
+   "say": "gréit-ful"
+  },
+  {
+   "id": "u36.hopeful",
+   "en": "hopeful",
+   "es": "esperanzado",
+   "kind": "word",
+   "emoji": "🌅",
+   "say": "jóup-ful"
+  },
+  {
+   "id": "u36.afraid-of",
+   "en": "afraid of",
+   "es": "con miedo de",
+   "kind": "chunk",
+   "emoji": "😱"
+  },
+  {
+   "id": "u36.in-love",
+   "en": "in love",
+   "es": "enamorado",
+   "kind": "chunk",
+   "emoji": "💘"
+  },
+  {
+   "id": "u36.homesick",
+   "en": "homesick",
+   "es": "con nostalgia de casa",
+   "kind": "word",
+   "emoji": "🏡",
+   "say": "jóum-sik"
+  },
+  {
+   "id": "u36.exciting",
+   "en": "exciting",
+   "es": "emocionante",
+   "kind": "word",
+   "emoji": "🎢",
+   "say": "ek-sái-ting"
+  },
+  {
+   "id": "u36.relaxing",
+   "en": "relaxing",
+   "es": "relajante",
+   "kind": "word",
+   "emoji": "🛀",
+   "say": "ri-lák-sing"
+  },
+  {
+   "id": "u36.surprising",
+   "en": "surprising",
+   "es": "sorprendente",
+   "kind": "word",
+   "emoji": "😮",
+   "say": "sur-prái-sing"
+  },
+  {
+   "id": "u36.annoying",
+   "en": "annoying",
+   "es": "fastidioso / molesto",
+   "kind": "word",
+   "emoji": "😤",
+   "say": "a-nói-ing"
+  },
+  {
+   "id": "u36.so",
+   "en": "so",
+   "es": "así que / por eso",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "sóu"
+  },
+  {
+   "id": "u36.but",
+   "en": "but",
+   "es": "pero",
+   "kind": "word",
+   "emoji": "↔️"
+  },
+  {
+   "id": "u36.when",
+   "en": "when",
+   "es": "cuando",
+   "kind": "word",
+   "emoji": "⏰",
+   "say": "uen"
+  },
+  {
+   "id": "u36.cheer-up",
+   "en": "cheer up",
+   "es": "animarse / animar",
+   "kind": "chunk",
+   "emoji": "🌈"
+  },
+  {
+   "id": "u36.calm-down",
+   "en": "calm down",
+   "es": "calmarse",
+   "kind": "chunk",
+   "emoji": "🫁"
+  },
+  {
+   "id": "u36.worry",
+   "en": "worry",
+   "es": "preocuparse",
+   "kind": "word",
+   "emoji": "😟",
+   "say": "uó-ri"
+  },
+  {
+   "id": "u36.don-t-worry",
+   "en": "Don't worry",
+   "es": "No te preocupes",
+   "kind": "chunk",
+   "emoji": "🤗"
+  },
+  {
+   "id": "u36.hug",
+   "en": "hug",
+   "es": "abrazo / abrazar",
+   "kind": "word",
+   "emoji": "🫂",
+   "say": "jag"
+  },
+  {
+   "id": "u36.miss",
+   "en": "miss",
+   "es": "extrañar",
+   "kind": "word",
+   "emoji": "🥺",
+   "say": "mis"
+  },
+  {
+   "id": "u36.i-miss-you",
+   "en": "I miss you",
+   "es": "Te extraño",
+   "kind": "chunk",
+   "emoji": "💌"
+  },
+  {
+   "id": "u36.what-s-wrong",
+   "en": "What's wrong?",
+   "es": "¿Qué te pasa?",
+   "kind": "chunk",
+   "emoji": "❔"
+  },
+  {
+   "id": "u36.i-m-glad-to-hear-that",
+   "en": "I'm glad to hear that",
+   "es": "Me alegra oír eso",
+   "kind": "chunk",
+   "emoji": "😊"
+  },
+  {
+   "id": "u36.i-m-sorry-to-hear-that",
+   "en": "I'm sorry to hear that",
+   "es": "Siento oír eso",
+   "kind": "chunk",
+   "emoji": "😔"
+  },
+  {
+   "id": "u36.mood",
+   "en": "mood",
+   "es": "estado de ánimo",
+   "kind": "word",
+   "emoji": "🌦️",
+   "say": "muud"
+  },
+  {
+   "id": "u36.in-a-good-mood",
+   "en": "in a good mood",
+   "es": "de buen humor",
+   "kind": "chunk",
+   "emoji": "😁"
+  },
+  {
+   "id": "u36.in-a-bad-mood",
+   "en": "in a bad mood",
+   "es": "de mal humor",
+   "kind": "chunk",
+   "emoji": "😠"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u36-sentimientos-l1",
+   "title": "1. feelings, happy, glad…",
+   "focus": "listening",
+   "newItems": [
+    "u36.feelings",
+    "u36.happy",
+    "u36.glad",
+    "u36.upset"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.feelings",
+      "u36.happy"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.glad",
+      "u36.upset"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.feelings",
+      "u36.happy",
+      "u36.glad",
+      "u36.upset"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.feelings",
+      "u36.happy",
+      "u36.glad",
+      "u36.upset"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l2",
+   "title": "2. disappointed, embarrassed, jealous…",
+   "focus": "grammar",
+   "newItems": [
+    "u36.disappointed",
+    "u36.embarrassed",
+    "u36.jealous",
+    "u36.lonely"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.disappointed",
+      "u36.embarrassed"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.jealous",
+      "u36.lonely"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.disappointed",
+      "u36.embarrassed",
+      "u36.jealous",
+      "u36.lonely"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.disappointed",
+      "u36.embarrassed",
+      "u36.jealous",
+      "u36.lonely"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.feelings",
+      "u36.happy",
+      "u36.glad",
+      "u36.upset"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "because y so",
+     "intro": "Una palabra da la causa, la otra el resultado.",
+     "examples": [
+      {
+       "en": "I'm tired because I worked all night.",
+       "es": "Estoy cansado porque trabajé toda la noche.",
+       "mark": [
+        "because"
+       ]
+      },
+      {
+       "en": "She's happy because she passed the exam.",
+       "es": "Está feliz porque pasó el examen.",
+       "mark": [
+        "because"
+       ]
+      },
+      {
+       "en": "I worked all night, so I'm tired.",
+       "es": "Trabajé toda la noche, así que estoy cansado.",
+       "mark": [
+        "so"
+       ]
+      },
+      {
+       "en": "It was raining, so we stayed home.",
+       "es": "Estaba lloviendo, así que nos quedamos en casa.",
+       "mark": [
+        "so"
+       ]
+      },
+      {
+       "en": "I was nervous, but I was confident.",
+       "es": "Estaba nervioso, pero me sentía seguro.",
+       "mark": [
+        "but"
+       ]
+      }
+     ],
+     "question": "¿Cuál palabra presenta el RESULTADO?",
+     "options": [
+      "because",
+      "so"
+     ],
+     "answer": 1,
+     "rule": "because (porque) presenta la causa: I'm sad because… so (así que) presenta el resultado: …, so I'm sad. but (pero) presenta un contraste. Y recuerda: -ed es cómo te sientes (bored, excited); -ing es lo que causa el sentimiento (boring, exciting).",
+     "ruleExamples": [
+      {
+       "en": "I was bored because the class was boring.",
+       "es": "Estaba aburrido porque la clase era aburrida."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I'm stressed ___ I have three exams.",
+     "options": [
+      "because",
+      "so"
+     ],
+     "answer": 0,
+     "es": "Estoy estresado porque tengo tres exámenes."
+    },
+    {
+     "type": "fill",
+     "en": "I missed the bus, ___ I was late.",
+     "options": [
+      "so",
+      "because"
+     ],
+     "answer": 0,
+     "es": "Perdí el bus, así que llegué tarde."
+    },
+    {
+     "type": "fill",
+     "en": "The movie was very ___.",
+     "options": [
+      "exciting",
+      "excited"
+     ],
+     "answer": 0,
+     "es": "La película fue muy emocionante."
+    },
+    {
+     "type": "fill",
+     "en": "She was ___ when she saw the gift.",
+     "options": [
+      "surprised",
+      "surprising"
+     ],
+     "answer": 0,
+     "es": "Se sorprendió cuando vio el regalo."
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l3",
+   "title": "3. stressed, calm, confused…",
+   "focus": "reading",
+   "newItems": [
+    "u36.stressed",
+    "u36.calm",
+    "u36.confused",
+    "u36.confident"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.stressed",
+      "u36.calm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.confused",
+      "u36.confident"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.stressed",
+      "u36.calm",
+      "u36.confused",
+      "u36.confident"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.stressed",
+      "u36.calm",
+      "u36.confused",
+      "u36.confident"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.glad",
+      "u36.upset",
+      "u36.disappointed",
+      "u36.embarrassed",
+      "u36.jealous",
+      "u36.lonely"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l4",
+   "title": "4. grateful, hopeful, afraid of…",
+   "focus": "listening",
+   "newItems": [
+    "u36.grateful",
+    "u36.hopeful",
+    "u36.afraid-of",
+    "u36.in-love"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.grateful",
+      "u36.hopeful"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.afraid-of",
+      "u36.in-love"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.grateful",
+      "u36.hopeful",
+      "u36.afraid-of",
+      "u36.in-love"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.grateful",
+      "u36.hopeful",
+      "u36.afraid-of",
+      "u36.in-love"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.jealous",
+      "u36.lonely",
+      "u36.stressed",
+      "u36.calm",
+      "u36.confused",
+      "u36.confident"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l5",
+   "title": "5. homesick, exciting, relaxing…",
+   "focus": "listening",
+   "newItems": [
+    "u36.homesick",
+    "u36.exciting",
+    "u36.relaxing",
+    "u36.surprising"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.homesick",
+      "u36.exciting"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.relaxing",
+      "u36.surprising"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.homesick",
+      "u36.exciting",
+      "u36.relaxing",
+      "u36.surprising"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.homesick",
+      "u36.exciting",
+      "u36.relaxing",
+      "u36.surprising"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.confused",
+      "u36.confident",
+      "u36.grateful",
+      "u36.hopeful",
+      "u36.afraid-of",
+      "u36.in-love"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l6",
+   "title": "6. annoying, so, but…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u36.annoying",
+    "u36.so",
+    "u36.but",
+    "u36.when"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.annoying",
+      "u36.so"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.but",
+      "u36.when"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.annoying",
+      "u36.so",
+      "u36.but",
+      "u36.when"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.annoying",
+      "u36.so",
+      "u36.but",
+      "u36.when"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.afraid-of",
+      "u36.in-love",
+      "u36.homesick",
+      "u36.exciting",
+      "u36.relaxing",
+      "u36.surprising"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l7",
+   "title": "7. cheer up, calm down, worry…",
+   "focus": "reading",
+   "newItems": [
+    "u36.cheer-up",
+    "u36.calm-down",
+    "u36.worry",
+    "u36.don-t-worry"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.cheer-up",
+      "u36.calm-down"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.worry",
+      "u36.don-t-worry"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.cheer-up",
+      "u36.calm-down",
+      "u36.worry",
+      "u36.don-t-worry"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.cheer-up",
+      "u36.calm-down",
+      "u36.worry",
+      "u36.don-t-worry"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.relaxing",
+      "u36.surprising",
+      "u36.annoying",
+      "u36.so",
+      "u36.but",
+      "u36.when"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l8",
+   "title": "8. hug, miss, I miss you…",
+   "focus": "listening",
+   "newItems": [
+    "u36.hug",
+    "u36.miss",
+    "u36.i-miss-you",
+    "u36.what-s-wrong"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.hug",
+      "u36.miss"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.i-miss-you",
+      "u36.what-s-wrong"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.hug",
+      "u36.miss",
+      "u36.i-miss-you",
+      "u36.what-s-wrong"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.hug",
+      "u36.miss",
+      "u36.i-miss-you",
+      "u36.what-s-wrong"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.but",
+      "u36.when",
+      "u36.cheer-up",
+      "u36.calm-down",
+      "u36.worry",
+      "u36.don-t-worry"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "¿Qué te pasa?",
+     "scene": "😔 Tu amigo se ve triste.",
+     "lines": [
+      {
+       "who": "You",
+       "en": "Hey, what's wrong? You look upset.",
+       "es": "Oye, ¿qué te pasa? Te ves afectado."
+      },
+      {
+       "who": "Ben",
+       "en": "I didn't get the job. I'm really disappointed.",
+       "es": "No me dieron el trabajo. Estoy muy decepcionado."
+      },
+      {
+       "who": "You",
+       "en": "I'm sorry to hear that.",
+       "es": "Siento oír eso."
+      },
+      {
+       "who": "Ben",
+       "en": "I was so confident, but they chose another person.",
+       "es": "Me sentía muy seguro, pero eligieron a otra persona."
+      },
+      {
+       "who": "You",
+       "en": "Don't worry. There are other jobs. Cheer up!",
+       "es": "No te preocupes. Hay otros trabajos. ¡Ánimo!"
+      },
+      {
+       "who": "Ben",
+       "en": "Thanks. I feel better when I talk to you.",
+       "es": "Gracias. Me siento mejor cuando hablo contigo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l9",
+   "title": "9. I'm glad to hear that, I'm sorry to hear that, mood…",
+   "focus": "listening",
+   "newItems": [
+    "u36.i-m-glad-to-hear-that",
+    "u36.i-m-sorry-to-hear-that",
+    "u36.mood",
+    "u36.in-a-good-mood"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.i-m-glad-to-hear-that",
+      "u36.i-m-sorry-to-hear-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u36.mood",
+      "u36.in-a-good-mood"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.i-m-glad-to-hear-that",
+      "u36.i-m-sorry-to-hear-that",
+      "u36.mood",
+      "u36.in-a-good-mood"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.i-m-glad-to-hear-that",
+      "u36.i-m-sorry-to-hear-that",
+      "u36.mood",
+      "u36.in-a-good-mood"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.worry",
+      "u36.don-t-worry",
+      "u36.hug",
+      "u36.miss",
+      "u36.i-miss-you",
+      "u36.what-s-wrong"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-l10",
+   "title": "10. in a bad mood",
+   "focus": "vocabulary",
+   "newItems": [
+    "u36.in-a-bad-mood"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u36.in-a-bad-mood"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.in-a-bad-mood"
+     ],
+     "modes": [
+      "listen-pick",
+      "picture-pick",
+      "read-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.in-a-bad-mood"
+     ],
+     "modes": [
+      "build",
+      "dictation"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.i-miss-you",
+      "u36.what-s-wrong",
+      "u36.i-m-glad-to-hear-that",
+      "u36.i-m-sorry-to-hear-that",
+      "u36.mood",
+      "u36.in-a-good-mood"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u36-sentimientos-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Lejos de casa",
+     "emoji": "🏡",
+     "paragraphs": [
+      {
+       "en": "Valeria moved to Canada to study. At first everything was exciting.",
+       "es": "Valeria se mudó a Canadá a estudiar. Al principio todo era emocionante."
+      },
+      {
+       "en": "But after two months she was homesick. She missed her family and the food.",
+       "es": "Pero después de dos meses tenía nostalgia. Extrañaba a su familia y la comida."
+      },
+      {
+       "en": "She felt lonely because she didn't have any friends.",
+       "es": "Se sentía sola porque no tenía amigos."
+      },
+      {
+       "en": "One day a classmate invited her to a party, so she went.",
+       "es": "Un día una compañera la invitó a una fiesta, así que fue."
+      },
+      {
+       "en": "She was nervous, but everybody was friendly. She met people from ten countries!",
+       "es": "Estaba nerviosa, pero todos fueron amables. ¡Conoció gente de diez países!"
+      },
+      {
+       "en": "Now she's in a good mood and she calls her mom every Sunday, happy and grateful.",
+       "es": "Ahora está de buen humor y llama a su mamá cada domingo, feliz y agradecida."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué se sentía sola?",
+       "options": [
+        "Porque no tenía amigos",
+        "Porque hacía frío",
+        "Porque tenía exámenes"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué pasó en la fiesta?",
+       "options": [
+        "Nadie le habló",
+        "Conoció gente de diez países",
+        "Se fue temprano"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo está ahora?",
+       "options": [
+        "De mal humor",
+        "De buen humor y agradecida",
+        "Aburrida"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Calmar a una amiga",
+     "scene": "😫 Tu amiga está muy estresada antes de una presentación.",
+     "turns": [
+      {
+       "who": "Mia",
+       "en": "I'm so stressed! My presentation is in ten minutes.",
+       "es": "¡Estoy muy estresada! Mi presentación es en diez minutos."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Calm down. You practiced a lot, so you're ready.",
+         "es": "Cálmate. Practicaste mucho, así que estás lista.",
+         "ok": true
+        },
+        {
+         "en": "You should be stressed.",
+         "es": "Deberías estar estresada.",
+         "ok": false,
+         "why": "No ayuda a calmarla."
+        }
+       ]
+      },
+      {
+       "who": "Mia",
+       "en": "But what if I forget everything?",
+       "es": "¿Pero y si se me olvida todo?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Don't worry. Take a deep breath. You're going to be great.",
+         "es": "No te preocupes. Respira profundo. Te va a ir muy bien.",
+         "ok": true
+        },
+        {
+         "en": "I'm sorry to hear that.",
+         "es": "Siento oír eso.",
+         "ok": false,
+         "why": "Eso se dice ante una mala noticia."
+        }
+       ]
+      },
+      {
+       "who": "Mia",
+       "en": "Thanks. I feel more confident now.",
+       "es": "Gracias. Ahora me siento más segura."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "I'm glad to hear that. Good luck!",
+         "es": "Me alegra oír eso. ¡Buena suerte!",
+         "ok": true
+        },
+        {
+         "en": "I'm jealous.",
+         "es": "Estoy celoso.",
+         "ok": false,
+         "why": "No tiene sentido aquí."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Estoy cansado porque trabajé mucho.",
+     "en": "I'm tired because I worked a lot.",
+     "accept": [
+      "I am tired because I worked a lot.",
+      "I'm tired because I worked hard."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Llovía, así que nos quedamos en casa.",
+     "en": "It was raining, so we stayed at home.",
+     "accept": [
+      "It was raining, so we stayed home."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Te extraño.",
+     "en": "I miss you."
+    },
+    {
+     "type": "dictation",
+     "en": "I'm sorry to hear that.",
+     "es": "Siento oír eso."
+    },
+    {
+     "type": "dictation",
+     "en": "She was nervous, but everybody was friendly.",
+     "es": "Estaba nerviosa, pero todos fueron amables."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u36.miss",
+      "u36.i-miss-you",
+      "u36.what-s-wrong",
+      "u36.i-m-glad-to-hear-that",
+      "u36.i-m-sorry-to-hear-that",
+      "u36.mood",
+      "u36.in-a-good-mood",
+      "u36.in-a-bad-mood"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

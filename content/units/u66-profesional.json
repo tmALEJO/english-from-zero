@@ -1,0 +1,1715 @@
+{
+ "_generated": true,
+ "id": "u66-profesional",
+ "level": "B2",
+ "title": "Inglés profesional",
+ "emoji": "📧",
+ "canDo": "Ya puedo escribir correos formales y participar en reuniones de trabajo",
+ "summary": "Registro formal en correos y reuniones: proponer, interrumpir con educación, concluir y hacer seguimiento.",
+ "grammar": [
+  "Registro formal vs informal",
+  "Frases para reuniones"
+ ],
+ "items": [
+  {
+   "id": "u66.dear-mr-smith",
+   "en": "Dear Mr. Smith",
+   "es": "Estimado señor Smith",
+   "kind": "chunk",
+   "emoji": "✉️"
+  },
+  {
+   "id": "u66.to-whom-it-may-concern",
+   "en": "To whom it may concern",
+   "es": "A quien corresponda",
+   "kind": "chunk",
+   "emoji": "📨"
+  },
+  {
+   "id": "u66.i-am-writing-to",
+   "en": "I am writing to…",
+   "es": "Le escribo para…",
+   "kind": "chunk",
+   "emoji": "✍️"
+  },
+  {
+   "id": "u66.i-would-like-to-inform-you-that",
+   "en": "I would like to inform you that…",
+   "es": "Quisiera informarle que…",
+   "kind": "chunk",
+   "emoji": "📢"
+  },
+  {
+   "id": "u66.please-find-attached",
+   "en": "Please find attached…",
+   "es": "Adjunto encontrará…",
+   "kind": "chunk",
+   "emoji": "📎"
+  },
+  {
+   "id": "u66.as-requested",
+   "en": "As requested",
+   "es": "Según lo solicitado",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u66.i-look-forward-to-hearing-from-you",
+   "en": "I look forward to hearing from you",
+   "es": "Quedo atento a su respuesta",
+   "kind": "chunk",
+   "emoji": "📬"
+  },
+  {
+   "id": "u66.kind-regards",
+   "en": "Kind regards",
+   "es": "Saludos cordiales",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u66.sincerely",
+   "en": "Sincerely",
+   "es": "Atentamente",
+   "kind": "word",
+   "emoji": "🖊️"
+  },
+  {
+   "id": "u66.could-you-please",
+   "en": "Could you please…?",
+   "es": "¿Podría por favor…?",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u66.i-would-appreciate-it-if",
+   "en": "I would appreciate it if…",
+   "es": "Le agradecería si…",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u66.i-apologize-for-the-inconvenience",
+   "en": "I apologize for the inconvenience",
+   "es": "Disculpe las molestias",
+   "kind": "chunk",
+   "emoji": "😔"
+  },
+  {
+   "id": "u66.following-up-on",
+   "en": "Following up on…",
+   "es": "Haciendo seguimiento a…",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u66.agenda",
+   "en": "agenda",
+   "es": "agenda / orden del día",
+   "kind": "word",
+   "emoji": "🗒️",
+   "say": "a-yén-da"
+  },
+  {
+   "id": "u66.schedule-a-meeting",
+   "en": "schedule a meeting",
+   "es": "programar una reunión",
+   "kind": "chunk",
+   "emoji": "📅"
+  },
+  {
+   "id": "u66.reschedule",
+   "en": "reschedule",
+   "es": "reprogramar",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "ri-ské-yul"
+  },
+  {
+   "id": "u66.postpone",
+   "en": "postpone",
+   "es": "posponer",
+   "kind": "word",
+   "emoji": "⏭️",
+   "say": "pous-póun"
+  },
+  {
+   "id": "u66.call-off",
+   "en": "call off",
+   "es": "cancelar",
+   "kind": "chunk",
+   "emoji": "❌"
+  },
+  {
+   "id": "u66.brainstorm",
+   "en": "brainstorm",
+   "es": "lluvia de ideas",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "bréin-storm"
+  },
+  {
+   "id": "u66.proposal",
+   "en": "proposal",
+   "es": "propuesta",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "pro-póu-sal"
+  },
+  {
+   "id": "u66.milestone",
+   "en": "milestone",
+   "es": "hito",
+   "kind": "word",
+   "emoji": "🏁",
+   "say": "máil-stoun"
+  },
+  {
+   "id": "u66.deliverable",
+   "en": "deliverable",
+   "es": "entregable",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "di-lí-ve-ra-bol"
+  },
+  {
+   "id": "u66.client",
+   "en": "client",
+   "es": "cliente",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "klái-ent"
+  },
+  {
+   "id": "u66.supplier",
+   "en": "supplier",
+   "es": "proveedor",
+   "kind": "word",
+   "emoji": "🚚",
+   "say": "su-plái-er"
+  },
+  {
+   "id": "u66.negotiate",
+   "en": "negotiate",
+   "es": "negociar",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "ni-góu-shi-eit"
+  },
+  {
+   "id": "u66.agreement",
+   "en": "agreement",
+   "es": "acuerdo",
+   "kind": "word",
+   "emoji": "📃",
+   "say": "a-gríi-ment"
+  },
+  {
+   "id": "u66.invoice",
+   "en": "invoice",
+   "es": "factura",
+   "kind": "word",
+   "emoji": "🧾",
+   "say": "ín-vois"
+  },
+  {
+   "id": "u66.quote-price",
+   "en": "quote",
+   "es": "cotización",
+   "kind": "word",
+   "emoji": "💲",
+   "tip": "Aquí con el sentido de: price."
+  },
+  {
+   "id": "u66.approve",
+   "en": "approve",
+   "es": "aprobar",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "a-prúuv"
+  },
+  {
+   "id": "u66.feedback",
+   "en": "feedback",
+   "es": "retroalimentación",
+   "kind": "word",
+   "emoji": "💬",
+   "say": "fíid-bak"
+  },
+  {
+   "id": "u66.update",
+   "en": "update",
+   "es": "actualización / actualizar",
+   "kind": "word",
+   "emoji": "🔄",
+   "say": "ap-déit"
+  },
+  {
+   "id": "u66.report-document",
+   "en": "report",
+   "es": "informe",
+   "kind": "word",
+   "emoji": "📊",
+   "tip": "Aquí con el sentido de: document."
+  },
+  {
+   "id": "u66.presentation",
+   "en": "presentation",
+   "es": "presentación",
+   "kind": "word",
+   "emoji": "📽️",
+   "say": "pre-sen-téi-shon"
+  },
+  {
+   "id": "u66.target",
+   "en": "target",
+   "es": "objetivo",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "tár-guet"
+  },
+  {
+   "id": "u66.priority",
+   "en": "priority",
+   "es": "prioridad",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "prai-ó-ri-ti"
+  },
+  {
+   "id": "u66.assign",
+   "en": "assign",
+   "es": "asignar",
+   "kind": "word",
+   "emoji": "👉",
+   "say": "a-sáin"
+  },
+  {
+   "id": "u66.delegate",
+   "en": "delegate",
+   "es": "delegar",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "dé-le-geit"
+  },
+  {
+   "id": "u66.efficient",
+   "en": "efficient",
+   "es": "eficiente",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "i-fí-shent"
+  },
+  {
+   "id": "u66.productive",
+   "en": "productive",
+   "es": "productivo",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "pro-dák-tiv"
+  },
+  {
+   "id": "u66.workload",
+   "en": "workload",
+   "es": "carga de trabajo",
+   "kind": "word",
+   "emoji": "🏋️",
+   "say": "uérk-loud"
+  },
+  {
+   "id": "u66.remote-work",
+   "en": "remote work",
+   "es": "trabajo remoto",
+   "kind": "chunk",
+   "emoji": "🏡"
+  },
+  {
+   "id": "u66.headquarters",
+   "en": "headquarters",
+   "es": "sede principal",
+   "kind": "word",
+   "emoji": "🏢",
+   "say": "jéd-kuor-ters"
+  },
+  {
+   "id": "u66.branch",
+   "en": "branch",
+   "es": "sucursal",
+   "kind": "word",
+   "emoji": "🏬",
+   "say": "branch"
+  },
+  {
+   "id": "u66.let-s-get-started",
+   "en": "Let's get started",
+   "es": "Empecemos",
+   "kind": "chunk",
+   "emoji": "▶️"
+  },
+  {
+   "id": "u66.sorry-to-interrupt-but",
+   "en": "Sorry to interrupt, but…",
+   "es": "Perdón que interrumpa, pero…",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u66.i-see-your-point-however",
+   "en": "I see your point, however…",
+   "es": "Entiendo su punto, sin embargo…",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u66.let-s-move-on-to",
+   "en": "Let's move on to…",
+   "es": "Pasemos a…",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u66.to-sum-up",
+   "en": "To sum up…",
+   "es": "En resumen…",
+   "kind": "chunk",
+   "emoji": "🧾"
+  },
+  {
+   "id": "u66.i-ll-get-back-to-you-on-that",
+   "en": "I'll get back to you on that",
+   "es": "Le confirmo eso más adelante",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u66.let-s-touch-base-next-week",
+   "en": "Let's touch base next week",
+   "es": "Hablemos la próxima semana",
+   "kind": "chunk",
+   "emoji": "📞"
+  },
+  {
+   "id": "u66.on-the-same-page",
+   "en": "on the same page",
+   "es": "en la misma sintonía",
+   "kind": "chunk",
+   "emoji": "🤝"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u66-profesional-l1",
+   "title": "1. Dear Mr. Smith, To whom it may concern, I am writing to……",
+   "focus": "listening",
+   "newItems": [
+    "u66.dear-mr-smith",
+    "u66.to-whom-it-may-concern",
+    "u66.i-am-writing-to",
+    "u66.i-would-like-to-inform-you-that",
+    "u66.please-find-attached"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.dear-mr-smith",
+      "u66.to-whom-it-may-concern"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.i-am-writing-to",
+      "u66.i-would-like-to-inform-you-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.please-find-attached"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.dear-mr-smith",
+      "u66.to-whom-it-may-concern",
+      "u66.i-am-writing-to",
+      "u66.i-would-like-to-inform-you-that",
+      "u66.please-find-attached"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.dear-mr-smith",
+      "u66.to-whom-it-may-concern",
+      "u66.i-am-writing-to",
+      "u66.i-would-like-to-inform-you-that",
+      "u66.please-find-attached"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.dear-mr-smith",
+      "u66.to-whom-it-may-concern",
+      "u66.i-am-writing-to",
+      "u66.i-would-like-to-inform-you-that",
+      "u66.please-find-attached"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l2",
+   "title": "2. As requested, I look forward to hearing from you, Kind regards…",
+   "focus": "grammar",
+   "newItems": [
+    "u66.as-requested",
+    "u66.i-look-forward-to-hearing-from-you",
+    "u66.kind-regards",
+    "u66.sincerely",
+    "u66.could-you-please"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.as-requested",
+      "u66.i-look-forward-to-hearing-from-you"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.kind-regards",
+      "u66.sincerely"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.could-you-please"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.as-requested",
+      "u66.i-look-forward-to-hearing-from-you",
+      "u66.kind-regards",
+      "u66.sincerely",
+      "u66.could-you-please"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.as-requested",
+      "u66.i-look-forward-to-hearing-from-you",
+      "u66.kind-regards",
+      "u66.sincerely",
+      "u66.could-you-please"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.as-requested",
+      "u66.i-look-forward-to-hearing-from-you",
+      "u66.kind-regards",
+      "u66.sincerely",
+      "u66.could-you-please"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.dear-mr-smith",
+      "u66.to-whom-it-may-concern",
+      "u66.i-am-writing-to",
+      "u66.i-would-like-to-inform-you-that",
+      "u66.please-find-attached"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Formal vs informal",
+     "intro": "Compara cómo dirías lo mismo a un amigo y a un cliente.",
+     "examples": [
+      {
+       "en": "Hi Tom! → Dear Mr. Brown,",
+       "es": "¡Hola Tom! → Estimado señor Brown:",
+       "mark": [
+        "Dear"
+       ]
+      },
+      {
+       "en": "I want to know… → I would like to know…",
+       "es": "Quiero saber… → Quisiera saber…",
+       "mark": [
+        "would like"
+       ]
+      },
+      {
+       "en": "Can you send me the file? → Could you please send me the file?",
+       "es": "¿Me mandas el archivo? → ¿Podría por favor enviarme el archivo?",
+       "mark": [
+        "Could you please"
+       ]
+      },
+      {
+       "en": "Sorry! → I apologize for the inconvenience.",
+       "es": "¡Perdón! → Disculpe las molestias.",
+       "mark": [
+        "apologize"
+       ]
+      },
+      {
+       "en": "Bye! → Kind regards,",
+       "es": "¡Chao! → Saludos cordiales,",
+       "mark": [
+        "Kind regards"
+       ]
+      }
+     ],
+     "question": "¿Qué caracteriza al inglés formal?",
+     "options": [
+      "Frases más largas e indirectas, sin contracciones ni jerga",
+      "Usar gonna y wanna",
+      "Escribir todo en mayúsculas"
+     ],
+     "answer": 0,
+     "rule": "El REGISTRO FORMAL usa frases más indirectas (Could you please…, I would appreciate…), evita contracciones (I am, no I'm), jerga y abreviaturas, y tiene saludos y despedidas fijas (Dear…, Kind regards). Ojo: look forward to va seguido de -ing: I look forward to hearing from you.",
+     "ruleExamples": [
+      {
+       "en": "Dear Ms. López, I am writing to confirm our meeting on Monday. Please find attached the agenda. Kind regards, Santiago.",
+       "es": "Estimada señora López: le escribo para confirmar nuestra reunión del lunes. Adjunto encontrará la agenda. Saludos cordiales, Santiago."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "I look forward to ___ from you.",
+     "options": [
+      "hearing",
+      "hear"
+     ],
+     "answer": 0,
+     "es": "Quedo atento a su respuesta."
+    },
+    {
+     "type": "fill",
+     "en": "___ find attached the invoice.",
+     "options": [
+      "Please",
+      "Pleased"
+     ],
+     "answer": 0,
+     "es": "Adjunto encontrará la factura."
+    },
+    {
+     "type": "fill",
+     "en": "I would ___ it if you could reply today.",
+     "options": [
+      "appreciate",
+      "thank"
+     ],
+     "answer": 0,
+     "es": "Le agradecería si pudiera responder hoy."
+    },
+    {
+     "type": "fill",
+     "en": "We need to ___ the meeting to Friday.",
+     "options": [
+      "reschedule",
+      "call off"
+     ],
+     "answer": 0,
+     "es": "Necesitamos reprogramar la reunión para el viernes."
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l3",
+   "title": "3. I would appreciate it if…, I apologize for the inconvenience, Following up on……",
+   "focus": "reading",
+   "newItems": [
+    "u66.i-would-appreciate-it-if",
+    "u66.i-apologize-for-the-inconvenience",
+    "u66.following-up-on",
+    "u66.agenda",
+    "u66.schedule-a-meeting"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.i-would-appreciate-it-if",
+      "u66.i-apologize-for-the-inconvenience"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.following-up-on",
+      "u66.agenda"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.schedule-a-meeting"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.i-would-appreciate-it-if",
+      "u66.i-apologize-for-the-inconvenience",
+      "u66.following-up-on",
+      "u66.agenda",
+      "u66.schedule-a-meeting"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.i-would-appreciate-it-if",
+      "u66.i-apologize-for-the-inconvenience",
+      "u66.following-up-on",
+      "u66.agenda",
+      "u66.schedule-a-meeting"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.i-would-appreciate-it-if",
+      "u66.i-apologize-for-the-inconvenience",
+      "u66.following-up-on",
+      "u66.agenda",
+      "u66.schedule-a-meeting"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.please-find-attached",
+      "u66.as-requested",
+      "u66.i-look-forward-to-hearing-from-you",
+      "u66.kind-regards",
+      "u66.sincerely",
+      "u66.could-you-please"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l4",
+   "title": "4. reschedule, postpone, call off…",
+   "focus": "listening",
+   "newItems": [
+    "u66.reschedule",
+    "u66.postpone",
+    "u66.call-off",
+    "u66.brainstorm",
+    "u66.proposal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.reschedule",
+      "u66.postpone"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.call-off",
+      "u66.brainstorm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.proposal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.reschedule",
+      "u66.postpone",
+      "u66.call-off",
+      "u66.brainstorm",
+      "u66.proposal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.reschedule",
+      "u66.postpone",
+      "u66.call-off",
+      "u66.brainstorm",
+      "u66.proposal"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.reschedule",
+      "u66.postpone",
+      "u66.call-off",
+      "u66.brainstorm",
+      "u66.proposal"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.could-you-please",
+      "u66.i-would-appreciate-it-if",
+      "u66.i-apologize-for-the-inconvenience",
+      "u66.following-up-on",
+      "u66.agenda",
+      "u66.schedule-a-meeting"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l5",
+   "title": "5. milestone, deliverable, client…",
+   "focus": "listening",
+   "newItems": [
+    "u66.milestone",
+    "u66.deliverable",
+    "u66.client",
+    "u66.supplier",
+    "u66.negotiate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.milestone",
+      "u66.deliverable"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.client",
+      "u66.supplier"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.negotiate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.milestone",
+      "u66.deliverable",
+      "u66.client",
+      "u66.supplier",
+      "u66.negotiate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.milestone",
+      "u66.deliverable",
+      "u66.client",
+      "u66.supplier",
+      "u66.negotiate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.milestone",
+      "u66.deliverable",
+      "u66.client",
+      "u66.supplier",
+      "u66.negotiate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.schedule-a-meeting",
+      "u66.reschedule",
+      "u66.postpone",
+      "u66.call-off",
+      "u66.brainstorm",
+      "u66.proposal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l6",
+   "title": "6. agreement, invoice, quote…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u66.agreement",
+    "u66.invoice",
+    "u66.quote-price",
+    "u66.approve",
+    "u66.feedback"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.agreement",
+      "u66.invoice"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.quote-price",
+      "u66.approve"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.feedback"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.agreement",
+      "u66.invoice",
+      "u66.quote-price",
+      "u66.approve",
+      "u66.feedback"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.agreement",
+      "u66.invoice",
+      "u66.quote-price",
+      "u66.approve",
+      "u66.feedback"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.agreement",
+      "u66.invoice",
+      "u66.quote-price",
+      "u66.approve",
+      "u66.feedback"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.proposal",
+      "u66.milestone",
+      "u66.deliverable",
+      "u66.client",
+      "u66.supplier",
+      "u66.negotiate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l7",
+   "title": "7. update, report, presentation…",
+   "focus": "reading",
+   "newItems": [
+    "u66.update",
+    "u66.report-document",
+    "u66.presentation",
+    "u66.target",
+    "u66.priority"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.update",
+      "u66.report-document"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.presentation",
+      "u66.target"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.priority"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.update",
+      "u66.report-document",
+      "u66.presentation",
+      "u66.target",
+      "u66.priority"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.update",
+      "u66.report-document",
+      "u66.presentation",
+      "u66.target",
+      "u66.priority"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.update",
+      "u66.report-document",
+      "u66.presentation",
+      "u66.target",
+      "u66.priority"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.negotiate",
+      "u66.agreement",
+      "u66.invoice",
+      "u66.quote-price",
+      "u66.approve",
+      "u66.feedback"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l8",
+   "title": "8. assign, delegate, efficient…",
+   "focus": "listening",
+   "newItems": [
+    "u66.assign",
+    "u66.delegate",
+    "u66.efficient",
+    "u66.productive",
+    "u66.workload"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.assign",
+      "u66.delegate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.efficient",
+      "u66.productive"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.workload"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.assign",
+      "u66.delegate",
+      "u66.efficient",
+      "u66.productive",
+      "u66.workload"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.assign",
+      "u66.delegate",
+      "u66.efficient",
+      "u66.productive",
+      "u66.workload"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.assign",
+      "u66.delegate",
+      "u66.efficient",
+      "u66.productive",
+      "u66.workload"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.feedback",
+      "u66.update",
+      "u66.report-document",
+      "u66.presentation",
+      "u66.target",
+      "u66.priority"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Una reunión de proyecto",
+     "scene": "💻 Reunión virtual con un cliente.",
+     "lines": [
+      {
+       "who": "Manager",
+       "en": "Good morning, everyone. Let's get started. First item: the project timeline.",
+       "es": "Buenos días a todos. Empecemos. Primer punto: el cronograma del proyecto."
+      },
+      {
+       "who": "You",
+       "en": "We've reached the first milestone. The prototype is ready.",
+       "es": "Alcanzamos el primer hito. El prototipo está listo."
+      },
+      {
+       "who": "Client",
+       "en": "Great. However, we'd like to add a new feature. Is that possible before the deadline?",
+       "es": "Excelente. Sin embargo, nos gustaría agregar una funcionalidad nueva. ¿Es posible antes de la fecha límite?"
+      },
+      {
+       "who": "You",
+       "en": "I see your point, however that would increase the workload. Could we discuss the budget?",
+       "es": "Entiendo su punto, sin embargo eso aumentaría la carga de trabajo. ¿Podríamos hablar del presupuesto?"
+      },
+      {
+       "who": "Client",
+       "en": "Fair enough. Please send us a quote.",
+       "es": "Me parece justo. Por favor envíennos una cotización."
+      },
+      {
+       "who": "Manager",
+       "en": "To sum up: we'll send the quote by Friday and touch base next week.",
+       "es": "En resumen: enviaremos la cotización el viernes y hablaremos la próxima semana."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l9",
+   "title": "9. remote work, headquarters, branch…",
+   "focus": "listening",
+   "newItems": [
+    "u66.remote-work",
+    "u66.headquarters",
+    "u66.branch",
+    "u66.let-s-get-started",
+    "u66.sorry-to-interrupt-but"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.remote-work",
+      "u66.headquarters"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.branch",
+      "u66.let-s-get-started"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.sorry-to-interrupt-but"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.remote-work",
+      "u66.headquarters",
+      "u66.branch",
+      "u66.let-s-get-started",
+      "u66.sorry-to-interrupt-but"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.remote-work",
+      "u66.headquarters",
+      "u66.branch",
+      "u66.let-s-get-started",
+      "u66.sorry-to-interrupt-but"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.remote-work",
+      "u66.headquarters",
+      "u66.branch",
+      "u66.let-s-get-started",
+      "u66.sorry-to-interrupt-but"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.priority",
+      "u66.assign",
+      "u66.delegate",
+      "u66.efficient",
+      "u66.productive",
+      "u66.workload"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l10",
+   "title": "10. I see your point, however…, Let's move on to…, To sum up……",
+   "focus": "vocabulary",
+   "newItems": [
+    "u66.i-see-your-point-however",
+    "u66.let-s-move-on-to",
+    "u66.to-sum-up",
+    "u66.i-ll-get-back-to-you-on-that",
+    "u66.let-s-touch-base-next-week"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.i-see-your-point-however",
+      "u66.let-s-move-on-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.to-sum-up",
+      "u66.i-ll-get-back-to-you-on-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u66.let-s-touch-base-next-week"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.i-see-your-point-however",
+      "u66.let-s-move-on-to",
+      "u66.to-sum-up",
+      "u66.i-ll-get-back-to-you-on-that",
+      "u66.let-s-touch-base-next-week"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.i-see-your-point-however",
+      "u66.let-s-move-on-to",
+      "u66.to-sum-up",
+      "u66.i-ll-get-back-to-you-on-that",
+      "u66.let-s-touch-base-next-week"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.i-see-your-point-however",
+      "u66.let-s-move-on-to",
+      "u66.to-sum-up",
+      "u66.i-ll-get-back-to-you-on-that",
+      "u66.let-s-touch-base-next-week"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.workload",
+      "u66.remote-work",
+      "u66.headquarters",
+      "u66.branch",
+      "u66.let-s-get-started",
+      "u66.sorry-to-interrupt-but"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-l11",
+   "title": "11. on the same page",
+   "focus": "reading",
+   "newItems": [
+    "u66.on-the-same-page"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u66.on-the-same-page"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.on-the-same-page"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.on-the-same-page"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.on-the-same-page"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.sorry-to-interrupt-but",
+      "u66.i-see-your-point-however",
+      "u66.let-s-move-on-to",
+      "u66.to-sum-up",
+      "u66.i-ll-get-back-to-you-on-that",
+      "u66.let-s-touch-base-next-week"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u66-profesional-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Un correo que salvó un contrato",
+     "emoji": "📧",
+     "paragraphs": [
+      {
+       "en": "Last year Andrea's company almost lost its biggest client because of a delayed delivery.",
+       "es": "El año pasado la empresa de Andrea casi pierde su cliente más grande por una entrega retrasada."
+      },
+      {
+       "en": "The client sent an email complaining about the delay.",
+       "es": "El cliente envió un correo quejándose del retraso."
+      },
+      {
+       "en": "Instead of making excuses, Andrea wrote a clear and professional reply.",
+       "es": "En vez de poner excusas, Andrea escribió una respuesta clara y profesional."
+      },
+      {
+       "en": "She apologized for the inconvenience, explained what had happened and proposed a solution with a new deadline.",
+       "es": "Se disculpó por las molestias, explicó lo que había pasado y propuso una solución con una nueva fecha límite."
+      },
+      {
+       "en": "She also offered a discount on the next invoice as a gesture of goodwill.",
+       "es": "También ofreció un descuento en la siguiente factura como gesto de buena voluntad."
+      },
+      {
+       "en": "The client replied: \"Thank you for your prompt reply.\" The contract was renewed.",
+       "es": "El cliente respondió: \"Gracias por su pronta respuesta.\" El contrato se renovó."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué el cliente estaba molesto?",
+       "options": [
+        "Por una entrega retrasada",
+        "Por un precio alto",
+        "Por un error en el nombre"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hizo Andrea?",
+       "options": [
+        "Puso excusas",
+        "Escribió una respuesta profesional con una solución",
+        "No respondió"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué ofreció como gesto de buena voluntad?",
+       "options": [
+        "Un regalo",
+        "Un descuento en la siguiente factura",
+        "Una reunión"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Interrumpir con educación",
+     "scene": "🖥️ En una reunión, tu colega da un dato equivocado.",
+     "turns": [
+      {
+       "who": "Colleague",
+       "en": "…so the project will be ready in March.",
+       "es": "…así que el proyecto estará listo en marzo."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Sorry to interrupt, but I think the deadline is in April.",
+         "es": "Perdón que interrumpa, pero creo que la fecha límite es en abril.",
+         "ok": true
+        },
+        {
+         "en": "You're wrong! Be quiet.",
+         "es": "¡Estás equivocado! Cállate.",
+         "ok": false,
+         "why": "Demasiado brusco para una reunión."
+        }
+       ]
+      },
+      {
+       "who": "Colleague",
+       "en": "Oh, are you sure?",
+       "es": "Ah, ¿estás seguro?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Yes, it was rescheduled last week. I'll send you the updated timeline.",
+         "es": "Sí, se reprogramó la semana pasada. Te envío el cronograma actualizado.",
+         "ok": true
+        },
+        {
+         "en": "Yes, it was reschedule last week.",
+         "es": "Sí, se reprogramar la semana pasada.",
+         "ok": false,
+         "why": "Falta el participio: \"rescheduled\"."
+        }
+       ]
+      },
+      {
+       "who": "Manager",
+       "en": "Thanks for clarifying. Let's move on to the budget.",
+       "es": "Gracias por aclarar. Pasemos al presupuesto."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Could I add something before we move on?",
+         "es": "¿Puedo agregar algo antes de seguir?",
+         "ok": true
+        },
+        {
+         "en": "I'll get back to you on the budget never.",
+         "es": "Le confirmo el presupuesto nunca.",
+         "ok": false,
+         "why": "No tiene sentido."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Quedo atento a su respuesta.",
+     "en": "I look forward to hearing from you."
+    },
+    {
+     "type": "write",
+     "es": "Adjunto encontrará el informe.",
+     "en": "Please find attached the report.",
+     "accept": [
+      "Please find the report attached."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Disculpe las molestias.",
+     "en": "I apologize for the inconvenience.",
+     "accept": [
+      "We apologize for the inconvenience."
+     ]
+    },
+    {
+     "type": "dictation",
+     "en": "Could you please send me the updated budget?",
+     "es": "¿Podría por favor enviarme el presupuesto actualizado?"
+    },
+    {
+     "type": "dictation",
+     "en": "Let's touch base next week.",
+     "es": "Hablemos la próxima semana."
+    },
+    {
+     "type": "speak",
+     "en": "Sorry to interrupt, but could I add something?",
+     "es": "Perdón que interrumpa, pero ¿puedo agregar algo?",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u66.let-s-get-started",
+      "u66.sorry-to-interrupt-but",
+      "u66.i-see-your-point-however",
+      "u66.let-s-move-on-to",
+      "u66.to-sum-up",
+      "u66.i-ll-get-back-to-you-on-that",
+      "u66.let-s-touch-base-next-week",
+      "u66.on-the-same-page"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -87,6 +87,26 @@ async function addHistory(s: SessionSummary & { newItems: number }, d: AppDB) {
   });
 }
 
+/** Guarda una prueba de unidad o un examen (se guarda la mejor nota; se pueden repetir). */
+export async function completeAssessment(rowId: string, groupId: string, s: SessionSummary, d: AppDB = db): Promise<number> {
+  const now = Date.now();
+  const score = s.total ? Math.round((s.correct / s.total) * 100) : 0;
+  await d.transaction('rw', d.lessons, d.cards, d.history, async () => {
+    const prev = await d.lessons.get(rowId);
+    await d.lessons.put({
+      lessonId: rowId,
+      unitId: groupId,
+      firstCompletedAt: prev?.firstCompletedAt ?? now,
+      lastCompletedAt: now,
+      timesCompleted: (prev?.timesCompleted ?? 0) + 1,
+      bestScore: Math.max(prev?.bestScore ?? 0, score),
+    });
+    await applyResults(s.results, d, true);
+    await addHistory({ ...s, newItems: 0 }, d);
+  });
+  return score;
+}
+
 // ─── Exportar / importar ────────────────────────────────────
 
 export async function exportBackup(d: AppDB = db): Promise<Backup> {

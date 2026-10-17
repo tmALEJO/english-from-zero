@@ -1,0 +1,1467 @@
+{
+ "_generated": true,
+ "id": "u71-negocios",
+ "level": "B2",
+ "title": "Emprender y negocios",
+ "emoji": "🚀",
+ "canDo": "Ya puedo hablar de emprendimiento, startups y presentar una idea de negocio",
+ "summary": "Startups, finanzas de empresa y cómo presentar un pitch; condicionales mixtos.",
+ "grammar": [
+  "Condicional mixto",
+  "wish + would para quejas"
+ ],
+ "items": [
+  {
+   "id": "u71.entrepreneur",
+   "en": "entrepreneur",
+   "es": "emprendedor",
+   "kind": "word",
+   "emoji": "🚀",
+   "say": "on-tre-pre-nér"
+  },
+  {
+   "id": "u71.startup",
+   "en": "startup",
+   "es": "emprendimiento / startup",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "stárt-ap"
+  },
+  {
+   "id": "u71.business-plan",
+   "en": "business plan",
+   "es": "plan de negocio",
+   "kind": "chunk",
+   "emoji": "📋"
+  },
+  {
+   "id": "u71.investor",
+   "en": "investor",
+   "es": "inversionista",
+   "kind": "word",
+   "emoji": "💰",
+   "say": "in-vés-tor"
+  },
+  {
+   "id": "u71.funding",
+   "en": "funding",
+   "es": "financiación",
+   "kind": "word",
+   "emoji": "💵",
+   "say": "fán-ding"
+  },
+  {
+   "id": "u71.capital",
+   "en": "capital",
+   "es": "capital",
+   "kind": "word",
+   "emoji": "🏦",
+   "say": "ká-pi-tal"
+  },
+  {
+   "id": "u71.revenue",
+   "en": "revenue",
+   "es": "ingresos (de empresa)",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "ré-ve-niu"
+  },
+  {
+   "id": "u71.profit-margin",
+   "en": "profit margin",
+   "es": "margen de ganancia",
+   "kind": "chunk",
+   "emoji": "💹"
+  },
+  {
+   "id": "u71.break-even",
+   "en": "break even",
+   "es": "alcanzar el punto de equilibrio",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u71.scale-up",
+   "en": "scale up",
+   "es": "escalar / crecer",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u71.market",
+   "en": "market",
+   "es": "mercado",
+   "kind": "word",
+   "emoji": "🏪",
+   "say": "már-ket"
+  },
+  {
+   "id": "u71.target-market",
+   "en": "target market",
+   "es": "mercado objetivo",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u71.competitor",
+   "en": "competitor",
+   "es": "competidor",
+   "kind": "word",
+   "emoji": "🥊",
+   "say": "kom-pé-ti-tor"
+  },
+  {
+   "id": "u71.competitive",
+   "en": "competitive",
+   "es": "competitivo",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "kom-pé-ti-tiv"
+  },
+  {
+   "id": "u71.demand",
+   "en": "demand",
+   "es": "demanda",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "di-mánd"
+  },
+  {
+   "id": "u71.supply",
+   "en": "supply",
+   "es": "oferta / suministro",
+   "kind": "word",
+   "emoji": "📦",
+   "say": "su-plái"
+  },
+  {
+   "id": "u71.niche",
+   "en": "niche",
+   "es": "nicho",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "niich"
+  },
+  {
+   "id": "u71.launch",
+   "en": "launch",
+   "es": "lanzar / lanzamiento",
+   "kind": "word",
+   "emoji": "🚀",
+   "say": "lonch"
+  },
+  {
+   "id": "u71.customer-base",
+   "en": "customer base",
+   "es": "base de clientes",
+   "kind": "chunk",
+   "emoji": "👥"
+  },
+  {
+   "id": "u71.market-share",
+   "en": "market share",
+   "es": "cuota de mercado",
+   "kind": "chunk",
+   "emoji": "🥧"
+  },
+  {
+   "id": "u71.strategy",
+   "en": "strategy",
+   "es": "estrategia",
+   "kind": "word",
+   "emoji": "♟️",
+   "say": "strá-te-yi"
+  },
+  {
+   "id": "u71.growth",
+   "en": "growth",
+   "es": "crecimiento",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "gróuz"
+  },
+  {
+   "id": "u71.partnership",
+   "en": "partnership",
+   "es": "sociedad / alianza",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "párt-ner-ship"
+  },
+  {
+   "id": "u71.shareholder",
+   "en": "shareholder",
+   "es": "accionista",
+   "kind": "word",
+   "emoji": "📜",
+   "say": "shér-jóul-der"
+  },
+  {
+   "id": "u71.bankruptcy",
+   "en": "bankruptcy",
+   "es": "quiebra",
+   "kind": "word",
+   "emoji": "📉",
+   "say": "bánk-rap-si"
+  },
+  {
+   "id": "u71.risk-taker",
+   "en": "risk-taker",
+   "es": "arriesgado",
+   "kind": "word",
+   "emoji": "🎲"
+  },
+  {
+   "id": "u71.cash-flow",
+   "en": "cash flow",
+   "es": "flujo de caja",
+   "kind": "chunk",
+   "emoji": "💸"
+  },
+  {
+   "id": "u71.return-on-investment",
+   "en": "return on investment",
+   "es": "retorno de la inversión",
+   "kind": "chunk",
+   "emoji": "💹"
+  },
+  {
+   "id": "u71.pitch",
+   "en": "pitch",
+   "es": "presentar una idea / pitch",
+   "kind": "word",
+   "emoji": "🎤",
+   "say": "pich"
+  },
+  {
+   "id": "u71.negotiation",
+   "en": "negotiation",
+   "es": "negociación",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "ni-go-si-éi-shon"
+  },
+  {
+   "id": "u71.deal",
+   "en": "deal",
+   "es": "trato / negocio",
+   "kind": "word",
+   "emoji": "🤝",
+   "say": "diil"
+  },
+  {
+   "id": "u71.franchise",
+   "en": "franchise",
+   "es": "franquicia",
+   "kind": "word",
+   "emoji": "🏪",
+   "say": "frán-chais"
+  },
+  {
+   "id": "u71.e-commerce",
+   "en": "e-commerce",
+   "es": "comercio electrónico",
+   "kind": "word",
+   "emoji": "🛒",
+   "say": "íi-kó-mers"
+  },
+  {
+   "id": "u71.freelance",
+   "en": "freelance",
+   "es": "independiente / freelance",
+   "kind": "word",
+   "emoji": "💻",
+   "say": "fríi-lans"
+  },
+  {
+   "id": "u71.side-hustle",
+   "en": "side hustle",
+   "es": "negocio secundario",
+   "kind": "chunk",
+   "emoji": "🌙"
+  },
+  {
+   "id": "u71.scalable",
+   "en": "scalable",
+   "es": "escalable",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "skéi-la-bol"
+  },
+  {
+   "id": "u71.sustainable",
+   "en": "sustainable",
+   "es": "sostenible",
+   "kind": "word",
+   "emoji": "🌿",
+   "say": "sas-téi-na-bol"
+  },
+  {
+   "id": "u71.innovative",
+   "en": "innovative",
+   "es": "innovador",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "í-no-vei-tiv"
+  },
+  {
+   "id": "u71.disrupt",
+   "en": "disrupt",
+   "es": "revolucionar (un sector)",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "dis-rápt"
+  },
+  {
+   "id": "u71.value-proposition",
+   "en": "value proposition",
+   "es": "propuesta de valor",
+   "kind": "chunk",
+   "emoji": "💎"
+  },
+  {
+   "id": "u71.our-product-solves",
+   "en": "Our product solves…",
+   "es": "Nuestro producto resuelve…",
+   "kind": "chunk",
+   "emoji": "🔧"
+  },
+  {
+   "id": "u71.we-re-looking-for-investment",
+   "en": "We're looking for investment",
+   "es": "Buscamos inversión",
+   "kind": "chunk",
+   "emoji": "💰"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u71-negocios-l1",
+   "title": "1. entrepreneur, startup, business plan…",
+   "focus": "listening",
+   "newItems": [
+    "u71.entrepreneur",
+    "u71.startup",
+    "u71.business-plan",
+    "u71.investor",
+    "u71.funding"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.entrepreneur",
+      "u71.startup"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.business-plan",
+      "u71.investor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.funding"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.entrepreneur",
+      "u71.startup",
+      "u71.business-plan",
+      "u71.investor",
+      "u71.funding"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.entrepreneur",
+      "u71.startup",
+      "u71.business-plan",
+      "u71.investor",
+      "u71.funding"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.entrepreneur",
+      "u71.startup",
+      "u71.business-plan",
+      "u71.investor",
+      "u71.funding"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l2",
+   "title": "2. capital, revenue, profit margin…",
+   "focus": "grammar",
+   "newItems": [
+    "u71.capital",
+    "u71.revenue",
+    "u71.profit-margin",
+    "u71.break-even",
+    "u71.scale-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.capital",
+      "u71.revenue"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.profit-margin",
+      "u71.break-even"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.scale-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.capital",
+      "u71.revenue",
+      "u71.profit-margin",
+      "u71.break-even",
+      "u71.scale-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.capital",
+      "u71.revenue",
+      "u71.profit-margin",
+      "u71.break-even",
+      "u71.scale-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.capital",
+      "u71.revenue",
+      "u71.profit-margin",
+      "u71.break-even",
+      "u71.scale-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.entrepreneur",
+      "u71.startup",
+      "u71.business-plan",
+      "u71.investor",
+      "u71.funding"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Condicional mixto",
+     "intro": "A veces una condición del pasado afecta el presente, o al revés.",
+     "examples": [
+      {
+       "en": "If I had saved money, I would have more options now.",
+       "es": "Si hubiera ahorrado, tendría más opciones ahora.",
+       "mark": [
+        "had saved",
+        "would have"
+       ]
+      },
+      {
+       "en": "If I had studied business, I would understand this better.",
+       "es": "Si hubiera estudiado negocios, entendería mejor esto.",
+       "mark": [
+        "had studied",
+        "would understand"
+       ]
+      },
+      {
+       "en": "If I were more organized, I wouldn't have missed the deadline.",
+       "es": "Si fuera más organizado, no habría perdido la fecha límite.",
+       "mark": [
+        "were",
+        "wouldn't have missed"
+       ]
+      },
+      {
+       "en": "I wish my partner would reply faster.",
+       "es": "Ojalá mi socio respondiera más rápido.",
+       "mark": [
+        "would reply"
+       ]
+      }
+     ],
+     "question": "En 'If I had studied business, I would understand this now', ¿de qué tiempos se mezcla?",
+     "options": [
+      "Pasado (condición) y presente (resultado)",
+      "Solo presente",
+      "Solo futuro"
+     ],
+     "answer": 0,
+     "rule": "El CONDICIONAL MIXTO combina tiempos: condición pasada + resultado presente (If I had saved, I would have money now) o condición presente + resultado pasado (If I were richer, I would have bought it). wish + would se usa para quejarse de algo molesto que otra persona hace: I wish he would listen.",
+     "ruleExamples": [
+      {
+       "en": "If our team had launched earlier, we would be the market leaders today.",
+       "es": "Si nuestro equipo hubiera lanzado antes, hoy seríamos los líderes del mercado."
+      }
+     ]
+    },
+    {
+     "type": "fill",
+     "en": "If I had learned to code, I ___ build the app myself now.",
+     "options": [
+      "would",
+      "would have"
+     ],
+     "answer": 0,
+     "es": "Si hubiera aprendido a programar, ahora podría hacer la app yo mismo."
+    },
+    {
+     "type": "fill",
+     "en": "If she weren't so busy, she ___ have come to the pitch.",
+     "options": [
+      "would",
+      "will"
+     ],
+     "answer": 0,
+     "es": "Si no estuviera tan ocupada, habría venido al pitch."
+    },
+    {
+     "type": "fill",
+     "en": "I wish investors ___ answer my emails.",
+     "options": [
+      "would",
+      "will"
+     ],
+     "answer": 0,
+     "es": "Ojalá los inversionistas respondieran mis correos."
+    },
+    {
+     "type": "fill",
+     "en": "If we had more funding, we ___ scale up faster.",
+     "options": [
+      "could",
+      "can"
+     ],
+     "answer": 0,
+     "es": "Si tuviéramos más financiación, podríamos crecer más rápido."
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l3",
+   "title": "3. market, target market, competitor…",
+   "focus": "reading",
+   "newItems": [
+    "u71.market",
+    "u71.target-market",
+    "u71.competitor",
+    "u71.competitive",
+    "u71.demand"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.market",
+      "u71.target-market"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.competitor",
+      "u71.competitive"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.demand"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.market",
+      "u71.target-market",
+      "u71.competitor",
+      "u71.competitive",
+      "u71.demand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.market",
+      "u71.target-market",
+      "u71.competitor",
+      "u71.competitive",
+      "u71.demand"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.market",
+      "u71.target-market",
+      "u71.competitor",
+      "u71.competitive",
+      "u71.demand"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.funding",
+      "u71.capital",
+      "u71.revenue",
+      "u71.profit-margin",
+      "u71.break-even",
+      "u71.scale-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l4",
+   "title": "4. supply, niche, launch…",
+   "focus": "listening",
+   "newItems": [
+    "u71.supply",
+    "u71.niche",
+    "u71.launch",
+    "u71.customer-base",
+    "u71.market-share"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.supply",
+      "u71.niche"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.launch",
+      "u71.customer-base"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.market-share"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.supply",
+      "u71.niche",
+      "u71.launch",
+      "u71.customer-base",
+      "u71.market-share"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.supply",
+      "u71.niche",
+      "u71.launch",
+      "u71.customer-base",
+      "u71.market-share"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.supply",
+      "u71.niche",
+      "u71.launch",
+      "u71.customer-base",
+      "u71.market-share"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.scale-up",
+      "u71.market",
+      "u71.target-market",
+      "u71.competitor",
+      "u71.competitive",
+      "u71.demand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l5",
+   "title": "5. strategy, growth, partnership…",
+   "focus": "listening",
+   "newItems": [
+    "u71.strategy",
+    "u71.growth",
+    "u71.partnership",
+    "u71.shareholder",
+    "u71.bankruptcy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.strategy",
+      "u71.growth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.partnership",
+      "u71.shareholder"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.bankruptcy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.strategy",
+      "u71.growth",
+      "u71.partnership",
+      "u71.shareholder",
+      "u71.bankruptcy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.strategy",
+      "u71.growth",
+      "u71.partnership",
+      "u71.shareholder",
+      "u71.bankruptcy"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.strategy",
+      "u71.growth",
+      "u71.partnership",
+      "u71.shareholder",
+      "u71.bankruptcy"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.demand",
+      "u71.supply",
+      "u71.niche",
+      "u71.launch",
+      "u71.customer-base",
+      "u71.market-share"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l6",
+   "title": "6. risk-taker, cash flow, return on investment…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u71.risk-taker",
+    "u71.cash-flow",
+    "u71.return-on-investment",
+    "u71.pitch",
+    "u71.negotiation"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.risk-taker",
+      "u71.cash-flow"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.return-on-investment",
+      "u71.pitch"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.negotiation"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.risk-taker",
+      "u71.cash-flow",
+      "u71.return-on-investment",
+      "u71.pitch",
+      "u71.negotiation"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.risk-taker",
+      "u71.cash-flow",
+      "u71.return-on-investment",
+      "u71.pitch",
+      "u71.negotiation"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.risk-taker",
+      "u71.cash-flow",
+      "u71.return-on-investment",
+      "u71.pitch",
+      "u71.negotiation"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.market-share",
+      "u71.strategy",
+      "u71.growth",
+      "u71.partnership",
+      "u71.shareholder",
+      "u71.bankruptcy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l7",
+   "title": "7. deal, franchise, e-commerce…",
+   "focus": "reading",
+   "newItems": [
+    "u71.deal",
+    "u71.franchise",
+    "u71.e-commerce",
+    "u71.freelance",
+    "u71.side-hustle"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.deal",
+      "u71.franchise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.e-commerce",
+      "u71.freelance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.side-hustle"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.deal",
+      "u71.franchise",
+      "u71.e-commerce",
+      "u71.freelance",
+      "u71.side-hustle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.deal",
+      "u71.franchise",
+      "u71.e-commerce",
+      "u71.freelance",
+      "u71.side-hustle"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.deal",
+      "u71.franchise",
+      "u71.e-commerce",
+      "u71.freelance",
+      "u71.side-hustle"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.bankruptcy",
+      "u71.risk-taker",
+      "u71.cash-flow",
+      "u71.return-on-investment",
+      "u71.pitch",
+      "u71.negotiation"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "dialogue",
+     "title": "Presentando a un inversionista",
+     "scene": "🎤 Un emprendedor presenta su idea.",
+     "lines": [
+      {
+       "who": "Investor",
+       "en": "So, what does your startup do?",
+       "es": "Entonces, ¿qué hace tu emprendimiento?"
+      },
+      {
+       "who": "Founder",
+       "en": "Our app connects small farmers directly with restaurants. We solve the problem of middlemen.",
+       "es": "Nuestra app conecta a los pequeños agricultores directamente con restaurantes. Resolvemos el problema de los intermediarios."
+      },
+      {
+       "who": "Investor",
+       "en": "Interesting. What's your target market?",
+       "es": "Interesante. ¿Cuál es tu mercado objetivo?"
+      },
+      {
+       "who": "Founder",
+       "en": "Medium-sized cities in Colombia. There's high demand and few competitors.",
+       "es": "Ciudades medianas de Colombia. Hay mucha demanda y pocos competidores."
+      },
+      {
+       "who": "Investor",
+       "en": "And your revenue model?",
+       "es": "¿Y tu modelo de ingresos?"
+      },
+      {
+       "who": "Founder",
+       "en": "We charge a small commission on each order. It's scalable and sustainable. We're looking for investment to scale up.",
+       "es": "Cobramos una pequeña comisión por cada pedido. Es escalable y sostenible. Buscamos inversión para crecer."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l8",
+   "title": "8. scalable, sustainable, innovative…",
+   "focus": "listening",
+   "newItems": [
+    "u71.scalable",
+    "u71.sustainable",
+    "u71.innovative",
+    "u71.disrupt",
+    "u71.value-proposition"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.scalable",
+      "u71.sustainable"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.innovative",
+      "u71.disrupt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u71.value-proposition"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.scalable",
+      "u71.sustainable",
+      "u71.innovative",
+      "u71.disrupt",
+      "u71.value-proposition"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.scalable",
+      "u71.sustainable",
+      "u71.innovative",
+      "u71.disrupt",
+      "u71.value-proposition"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.scalable",
+      "u71.sustainable",
+      "u71.innovative",
+      "u71.disrupt",
+      "u71.value-proposition"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.negotiation",
+      "u71.deal",
+      "u71.franchise",
+      "u71.e-commerce",
+      "u71.freelance",
+      "u71.side-hustle"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-l9",
+   "title": "9. Our product solves…, We're looking for investment",
+   "focus": "listening",
+   "newItems": [
+    "u71.our-product-solves",
+    "u71.we-re-looking-for-investment"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u71.our-product-solves",
+      "u71.we-re-looking-for-investment"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.our-product-solves",
+      "u71.we-re-looking-for-investment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.our-product-solves",
+      "u71.we-re-looking-for-investment"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.our-product-solves",
+      "u71.we-re-looking-for-investment"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.side-hustle",
+      "u71.scalable",
+      "u71.sustainable",
+      "u71.innovative",
+      "u71.disrupt",
+      "u71.value-proposition"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u71-negocios-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "Del fracaso al éxito",
+     "emoji": "📈",
+     "paragraphs": [
+      {
+       "en": "When Mariana started her first business at twenty-four, it failed within a year.",
+       "es": "Cuando Mariana empezó su primer negocio a los veinticuatro, quebró en menos de un año."
+      },
+      {
+       "en": "She had spent all her capital on marketing and ran out of cash flow.",
+       "es": "Había gastado todo su capital en mercadeo y se quedó sin flujo de caja."
+      },
+      {
+       "en": "\"If I had planned better, I wouldn't have gone bankrupt,\" she often thought.",
+       "es": "\"Si hubiera planeado mejor, no habría quebrado\", pensaba a menudo."
+      },
+      {
+       "en": "But she didn't give up. She learned from her mistakes and studied business online for free.",
+       "es": "Pero no se rindió. Aprendió de sus errores y estudió negocios en internet gratis."
+      },
+      {
+       "en": "Two years later she launched a new startup, this time with a clear business plan and a small, loyal customer base.",
+       "es": "Dos años después lanzó un nuevo emprendimiento, esta vez con un plan de negocio claro y una base de clientes pequeña y leal."
+      },
+      {
+       "en": "Today her company has fifteen employees. \"If I hadn't failed the first time, I wouldn't be here now,\" she says.",
+       "es": "Hoy su empresa tiene quince empleados. \"Si no hubiera fracasado la primera vez, no estaría aquí ahora\", dice."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Por qué quebró su primer negocio?",
+       "options": [
+        "Gastó todo el capital y se quedó sin flujo de caja",
+        "Nadie quería el producto",
+        "Se enfermó"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Qué hizo después de fracasar?",
+       "options": [
+        "Se rindió",
+        "Aprendió de sus errores y estudió",
+        "Pidió un préstamo grande"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Qué dice Mariana sobre su fracaso?",
+       "options": [
+        "Que fue inútil",
+        "Que sin él no estaría donde está hoy",
+        "Que no volvería a emprender"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "roleplay",
+     "title": "Negociar una comisión",
+     "scene": "🤝 Un posible socio quiere una comisión muy alta.",
+     "turns": [
+      {
+       "who": "Partner",
+       "en": "I'll distribute your product, but I want a forty percent commission.",
+       "es": "Distribuyo tu producto, pero quiero el cuarenta por ciento de comisión."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That's too high for us. Our profit margin wouldn't cover it.",
+         "es": "Es muy alto para nosotros. Nuestro margen de ganancia no lo cubriría.",
+         "ok": true
+        },
+        {
+         "en": "Yes, take fifty percent.",
+         "es": "Sí, llévate el cincuenta por ciento.",
+         "ok": false,
+         "why": "Estás cediendo aún más, en contra tuya."
+        }
+       ]
+      },
+      {
+       "who": "Partner",
+       "en": "What can you offer?",
+       "es": "¿Qué puedes ofrecer?"
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Twenty percent, plus a bonus if we reach our sales target.",
+         "es": "Veinte por ciento, más un bono si alcanzamos la meta de ventas.",
+         "ok": true
+        },
+        {
+         "en": "Nothing. Take it or leave it.",
+         "es": "Nada. Lo tomas o lo dejas.",
+         "ok": false,
+         "why": "Demasiado brusco para una negociación."
+        }
+       ]
+      },
+      {
+       "who": "Partner",
+       "en": "Make it twenty-five and we have a deal.",
+       "es": "Que sean veinticinco y hay trato."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Deal. Let's put it in the contract.",
+         "es": "Trato hecho. Pongámoslo en el contrato.",
+         "ok": true
+        },
+        {
+         "en": "Deal. I wish you would answer.",
+         "es": "Trato hecho. Ojalá respondieras.",
+         "ok": false,
+         "why": "No encaja en la conversación."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Buscamos inversión para crecer.",
+     "en": "We're looking for investment to scale up.",
+     "accept": [
+      "We are looking for investment to scale up.",
+      "We're looking for investment to grow."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Si hubiera ahorrado, ahora tendría más opciones.",
+     "en": "If I had saved money, I would have more options now.",
+     "accept": [
+      "If I'd saved money, I would have more options now."
+     ]
+    },
+    {
+     "type": "write",
+     "es": "Nuestro producto resuelve un problema real.",
+     "en": "Our product solves a real problem."
+    },
+    {
+     "type": "dictation",
+     "en": "There's high demand and few competitors.",
+     "es": "Hay mucha demanda y pocos competidores."
+    },
+    {
+     "type": "dictation",
+     "en": "If we had more funding, we could scale up faster.",
+     "es": "Si tuviéramos más financiación, podríamos crecer más rápido."
+    },
+    {
+     "type": "speak",
+     "en": "Our app solves a real problem and we're looking for investment.",
+     "es": "Nuestra app resuelve un problema real y buscamos inversión.",
+     "note": "Opcional."
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u71.side-hustle",
+      "u71.scalable",
+      "u71.sustainable",
+      "u71.innovative",
+      "u71.disrupt",
+      "u71.value-proposition",
+      "u71.our-product-solves",
+      "u71.we-re-looking-for-investment"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

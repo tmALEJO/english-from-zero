@@ -1,24 +1,26 @@
 import { Link } from 'react-router-dom';
 import { useApp } from '../state';
-import { curriculum, route, units } from '../engine/content';
-import { lessonsDone, unitStatuses, type UnitStatus } from '../engine/progress';
+import { curriculum, units } from '../engine/content';
+import { fullRoute, lessonsDone, unitStatuses, examStatus, type UnitStatus } from '../engine/progress';
 import { Page } from '../components/common';
 
 const STATUS_TEXT: Record<UnitStatus, string> = {
   done: 'Completada',
   'in-progress': 'En curso',
   available: 'Disponible',
-  locked: 'Termina la anterior para abrirla',
+  locked: 'Termina lo anterior',
   planned: 'Próximamente',
 };
 
 export default function RoutePage() {
   const { lessons, settings } = useApp();
   const st = unitStatuses(lessons, settings.explorerMode);
+
   return (
-    <Page title="Tu ruta" intro="De cero a avanzado, un tema a la vez. Las unidades terminadas siempre se pueden repetir.">
+    <Page title="Tu ruta" intro="De cero a avanzado. Cada bloque termina con un examen que certifica lo aprendido. Lo terminado siempre se puede repetir.">
       {curriculum.levels.map((lv) => {
-        const refs = route.filter((r) => r.level === lv.id);
+        const entries = fullRoute.filter((e) => (e.type === 'unit' ? e.ref.level === lv.id : e.exam.level === lv.id));
+        if (!entries.length) return null;
         return (
           <section key={lv.id} className="level">
             <header className="level__head">
@@ -29,7 +31,27 @@ export default function RoutePage() {
               </div>
             </header>
             <ol className="path">
-              {refs.map((r) => {
+              {entries.map((e) => {
+                if (e.type === 'exam') {
+                  const es = examStatus(e.exam, lessons);
+                  const open = es === 'available' || settings.explorerMode;
+                  const body = (
+                    <>
+                      <span className="path__dot path__dot--exam" aria-hidden>{es === 'passed' ? '🏅' : '📝'}</span>
+                      <span className="path__body">
+                        <span className="path__title">{e.exam.title}</span>
+                        <span className="path__cando">{e.exam.kind === 'final' ? `Certifica el nivel ${e.exam.level}` : 'Examen de control'} · {e.exam.questions} preguntas · {e.exam.passPct}% para aprobar</span>
+                      </span>
+                      <span className="path__state">{es === 'passed' ? 'Aprobado' : open ? 'Disponible' : 'Bloqueado'}</span>
+                    </>
+                  );
+                  return (
+                    <li key={e.exam.id} className={`path__item path__item--exam path__item--${es}`}>
+                      {open || es === 'passed' ? <Link to={`/examen/${e.exam.id}`} className="path__link">{body}</Link> : <div className="path__link" aria-disabled>{body}</div>}
+                    </li>
+                  );
+                }
+                const r = e.ref;
                 const s = st[r.id];
                 const u = units[r.id];
                 const open = s !== 'locked' && s !== 'planned';
