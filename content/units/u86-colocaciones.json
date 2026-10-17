@@ -1,0 +1,1192 @@
+{
+ "_generated": true,
+ "id": "u86-colocaciones",
+ "level": "C1",
+ "title": "Colocaciones frecuentes",
+ "emoji": "🧲",
+ "canDo": "Ya combino las palabras como lo hace un nativo",
+ "summary": "Las palabras que suelen ir juntas (colocaciones): make/do, take, have, strong/heavy, y expresiones fijas.",
+ "grammar": [
+  "Colocaciones"
+ ],
+ "items": [
+  {
+   "id": "u86.to-make-a-decision",
+   "en": "to make a decision",
+   "es": "tomar una decisión",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u86.to-make-progress",
+   "en": "to make progress",
+   "es": "avanzar / progresar",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u86.to-make-an-effort",
+   "en": "to make an effort",
+   "es": "hacer un esfuerzo",
+   "kind": "chunk",
+   "emoji": "💪"
+  },
+  {
+   "id": "u86.to-make-a-mistake",
+   "en": "to make a mistake",
+   "es": "cometer un error",
+   "kind": "chunk",
+   "emoji": "❌"
+  },
+  {
+   "id": "u86.to-make-sense",
+   "en": "to make sense",
+   "es": "tener sentido",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u86.to-make-sure",
+   "en": "to make sure",
+   "es": "asegurarse",
+   "kind": "chunk",
+   "emoji": "🔒"
+  },
+  {
+   "id": "u86.to-do-research",
+   "en": "to do research",
+   "es": "investigar",
+   "kind": "chunk",
+   "emoji": "🔬"
+  },
+  {
+   "id": "u86.to-do-business",
+   "en": "to do business",
+   "es": "hacer negocios",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u86.to-do-your-best",
+   "en": "to do your best",
+   "es": "hacer lo mejor que puedas",
+   "kind": "chunk",
+   "emoji": "🏅"
+  },
+  {
+   "id": "u86.to-do-harm",
+   "en": "to do harm",
+   "es": "hacer daño",
+   "kind": "chunk",
+   "emoji": "☠️"
+  },
+  {
+   "id": "u86.to-take-responsibility",
+   "en": "to take responsibility",
+   "es": "asumir la responsabilidad",
+   "kind": "chunk",
+   "emoji": "🫵"
+  },
+  {
+   "id": "u86.to-take-advantage-of",
+   "en": "to take advantage of",
+   "es": "aprovechar / abusar de",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u86.to-take-into-account",
+   "en": "to take into account",
+   "es": "tener en cuenta",
+   "kind": "chunk",
+   "emoji": "📥"
+  },
+  {
+   "id": "u86.to-take-part",
+   "en": "to take part",
+   "es": "participar",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u86.to-take-place",
+   "en": "to take place",
+   "es": "tener lugar / ocurrir",
+   "kind": "chunk",
+   "emoji": "📍"
+  },
+  {
+   "id": "u86.to-have-an-impact",
+   "en": "to have an impact",
+   "es": "tener un impacto",
+   "kind": "chunk",
+   "emoji": "💥"
+  },
+  {
+   "id": "u86.to-have-access",
+   "en": "to have access",
+   "es": "tener acceso",
+   "kind": "chunk",
+   "emoji": "🔑"
+  },
+  {
+   "id": "u86.to-have-in-common",
+   "en": "to have in common",
+   "es": "tener en común",
+   "kind": "chunk",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u86.to-pay-attention",
+   "en": "to pay attention",
+   "es": "prestar atención",
+   "kind": "chunk",
+   "emoji": "👁️"
+  },
+  {
+   "id": "u86.to-pay-a-compliment",
+   "en": "to pay a compliment",
+   "es": "hacer un cumplido",
+   "kind": "chunk",
+   "emoji": "💐"
+  },
+  {
+   "id": "u86.to-keep-in-mind",
+   "en": "to keep in mind",
+   "es": "tener presente",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u86.to-keep-a-promise",
+   "en": "to keep a promise",
+   "es": "cumplir una promesa",
+   "kind": "chunk",
+   "emoji": "🤞"
+  },
+  {
+   "id": "u86.to-break-a-promise",
+   "en": "to break a promise",
+   "es": "romper una promesa",
+   "kind": "chunk",
+   "emoji": "💔"
+  },
+  {
+   "id": "u86.to-reach-an-agreement",
+   "en": "to reach an agreement",
+   "es": "llegar a un acuerdo",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u86.to-raise-awareness",
+   "en": "to raise awareness",
+   "es": "concientizar",
+   "kind": "chunk",
+   "emoji": "📣"
+  },
+  {
+   "id": "u86.to-meet-a-deadline",
+   "en": "to meet a deadline",
+   "es": "cumplir un plazo",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u86.to-set-a-goal",
+   "en": "to set a goal",
+   "es": "fijar una meta",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u86.to-run-a-business",
+   "en": "to run a business",
+   "es": "dirigir un negocio",
+   "kind": "chunk",
+   "emoji": "🏢"
+  },
+  {
+   "id": "u86.strong-opinion",
+   "en": "strong opinion",
+   "es": "opinión firme",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u86.heavy-rain",
+   "en": "heavy rain",
+   "es": "lluvia intensa",
+   "kind": "chunk",
+   "emoji": "🌧️"
+  },
+  {
+   "id": "u86.heavy-traffic",
+   "en": "heavy traffic",
+   "es": "tráfico pesado",
+   "kind": "chunk",
+   "emoji": "🚗"
+  },
+  {
+   "id": "u86.deep-sleep",
+   "en": "deep sleep",
+   "es": "sueño profundo",
+   "kind": "chunk",
+   "emoji": "😴"
+  },
+  {
+   "id": "u86.close-relationship",
+   "en": "close relationship",
+   "es": "relación cercana",
+   "kind": "chunk",
+   "emoji": "💞"
+  },
+  {
+   "id": "u86.bitterly-disappointed",
+   "en": "bitterly disappointed",
+   "es": "profundamente decepcionado",
+   "kind": "chunk",
+   "emoji": "😞"
+  },
+  {
+   "id": "u86.highly-unlikely",
+   "en": "highly unlikely",
+   "es": "muy poco probable",
+   "kind": "chunk",
+   "emoji": "📉"
+  },
+  {
+   "id": "u86.widely-known",
+   "en": "widely known",
+   "es": "ampliamente conocido",
+   "kind": "chunk",
+   "emoji": "🌐"
+  },
+  {
+   "id": "u86.deeply-rooted",
+   "en": "deeply rooted",
+   "es": "profundamente arraigado",
+   "kind": "chunk",
+   "emoji": "🌳"
+  },
+  {
+   "id": "u86.to-draw-a-conclusion",
+   "en": "to draw a conclusion",
+   "es": "sacar una conclusión",
+   "kind": "chunk",
+   "emoji": "🧩"
+  },
+  {
+   "id": "u86.to-draw-attention",
+   "en": "to draw attention",
+   "es": "llamar la atención",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u86.to-meet-expectations",
+   "en": "to meet expectations",
+   "es": "cumplir las expectativas",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u86.to-pose-a-threat",
+   "en": "to pose a threat",
+   "es": "representar una amenaza",
+   "kind": "chunk",
+   "emoji": "⚠️"
+  },
+  {
+   "id": "u86.to-play-a-role",
+   "en": "to play a role",
+   "es": "desempeñar un papel",
+   "kind": "chunk",
+   "emoji": "🎭"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u86-colocaciones-l1",
+   "title": "1. to make a decision, to make progress, to make an effort…",
+   "focus": "listening",
+   "newItems": [
+    "u86.to-make-a-decision",
+    "u86.to-make-progress",
+    "u86.to-make-an-effort",
+    "u86.to-make-a-mistake",
+    "u86.to-make-sense"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.to-make-a-decision",
+      "u86.to-make-progress"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-make-an-effort",
+      "u86.to-make-a-mistake"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-make-sense"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-a-decision",
+      "u86.to-make-progress",
+      "u86.to-make-an-effort",
+      "u86.to-make-a-mistake",
+      "u86.to-make-sense"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-a-decision",
+      "u86.to-make-progress",
+      "u86.to-make-an-effort",
+      "u86.to-make-a-mistake",
+      "u86.to-make-sense"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-a-decision",
+      "u86.to-make-progress",
+      "u86.to-make-an-effort",
+      "u86.to-make-a-mistake",
+      "u86.to-make-sense"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l2",
+   "title": "2. to make sure, to do research, to do business…",
+   "focus": "grammar",
+   "newItems": [
+    "u86.to-make-sure",
+    "u86.to-do-research",
+    "u86.to-do-business",
+    "u86.to-do-your-best",
+    "u86.to-do-harm"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.to-make-sure",
+      "u86.to-do-research"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-do-business",
+      "u86.to-do-your-best"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-do-harm"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-sure",
+      "u86.to-do-research",
+      "u86.to-do-business",
+      "u86.to-do-your-best",
+      "u86.to-do-harm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-sure",
+      "u86.to-do-research",
+      "u86.to-do-business",
+      "u86.to-do-your-best",
+      "u86.to-do-harm"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-sure",
+      "u86.to-do-research",
+      "u86.to-do-business",
+      "u86.to-do-your-best",
+      "u86.to-do-harm"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-a-decision",
+      "u86.to-make-progress",
+      "u86.to-make-an-effort",
+      "u86.to-make-a-mistake",
+      "u86.to-make-sense"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "make vs. do",
+     "intro": "Las dos se traducen como 'hacer', pero no son intercambiables.",
+     "examples": [
+      {
+       "en": "I need to make a decision.",
+       "es": "Necesito tomar una decisión.",
+       "mark": [
+        "make"
+       ]
+      },
+      {
+       "en": "She did a lot of research.",
+       "es": "Hizo mucha investigación.",
+       "mark": [
+        "did"
+       ]
+      },
+      {
+       "en": "Don't make the same mistake.",
+       "es": "No cometas el mismo error.",
+       "mark": [
+        "make"
+       ]
+      },
+      {
+       "en": "He always does his best.",
+       "es": "Siempre hace lo mejor que puede.",
+       "mark": [
+        "does"
+       ]
+      },
+      {
+       "en": "That doesn't make sense.",
+       "es": "Eso no tiene sentido.",
+       "mark": [
+        "make"
+       ]
+      }
+     ],
+     "question": "Normalmente, 'make' es para…",
+     "options": [
+      "tareas y trabajo (do)",
+      "crear o producir algo (decisiones, errores, planes)",
+      "lo mismo que do"
+     ],
+     "answer": 1,
+     "rule": "make se usa para crear o producir un resultado: make a decision, make a plan, make a mistake. do se usa para tareas y actividades: do homework, do research, do the dishes. No hay regla perfecta: las colocaciones se memorizan juntas.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l3",
+   "title": "3. to take responsibility, to take advantage of, to take into account…",
+   "focus": "reading",
+   "newItems": [
+    "u86.to-take-responsibility",
+    "u86.to-take-advantage-of",
+    "u86.to-take-into-account",
+    "u86.to-take-part",
+    "u86.to-take-place"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.to-take-responsibility",
+      "u86.to-take-advantage-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-take-into-account",
+      "u86.to-take-part"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-take-place"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-take-responsibility",
+      "u86.to-take-advantage-of",
+      "u86.to-take-into-account",
+      "u86.to-take-part",
+      "u86.to-take-place"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-take-responsibility",
+      "u86.to-take-advantage-of",
+      "u86.to-take-into-account",
+      "u86.to-take-part",
+      "u86.to-take-place"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-take-responsibility",
+      "u86.to-take-advantage-of",
+      "u86.to-take-into-account",
+      "u86.to-take-part",
+      "u86.to-take-place"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-make-sense",
+      "u86.to-make-sure",
+      "u86.to-do-research",
+      "u86.to-do-business",
+      "u86.to-do-your-best",
+      "u86.to-do-harm"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l4",
+   "title": "4. to have an impact, to have access, to have in common…",
+   "focus": "listening",
+   "newItems": [
+    "u86.to-have-an-impact",
+    "u86.to-have-access",
+    "u86.to-have-in-common",
+    "u86.to-pay-attention",
+    "u86.to-pay-a-compliment"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.to-have-an-impact",
+      "u86.to-have-access"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-have-in-common",
+      "u86.to-pay-attention"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-pay-a-compliment"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-have-an-impact",
+      "u86.to-have-access",
+      "u86.to-have-in-common",
+      "u86.to-pay-attention",
+      "u86.to-pay-a-compliment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-have-an-impact",
+      "u86.to-have-access",
+      "u86.to-have-in-common",
+      "u86.to-pay-attention",
+      "u86.to-pay-a-compliment"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-have-an-impact",
+      "u86.to-have-access",
+      "u86.to-have-in-common",
+      "u86.to-pay-attention",
+      "u86.to-pay-a-compliment"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-do-harm",
+      "u86.to-take-responsibility",
+      "u86.to-take-advantage-of",
+      "u86.to-take-into-account",
+      "u86.to-take-part",
+      "u86.to-take-place"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l5",
+   "title": "5. to keep in mind, to keep a promise, to break a promise…",
+   "focus": "listening",
+   "newItems": [
+    "u86.to-keep-in-mind",
+    "u86.to-keep-a-promise",
+    "u86.to-break-a-promise",
+    "u86.to-reach-an-agreement",
+    "u86.to-raise-awareness"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.to-keep-in-mind",
+      "u86.to-keep-a-promise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-break-a-promise",
+      "u86.to-reach-an-agreement"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-raise-awareness"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-keep-in-mind",
+      "u86.to-keep-a-promise",
+      "u86.to-break-a-promise",
+      "u86.to-reach-an-agreement",
+      "u86.to-raise-awareness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-keep-in-mind",
+      "u86.to-keep-a-promise",
+      "u86.to-break-a-promise",
+      "u86.to-reach-an-agreement",
+      "u86.to-raise-awareness"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-keep-in-mind",
+      "u86.to-keep-a-promise",
+      "u86.to-break-a-promise",
+      "u86.to-reach-an-agreement",
+      "u86.to-raise-awareness"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-take-place",
+      "u86.to-have-an-impact",
+      "u86.to-have-access",
+      "u86.to-have-in-common",
+      "u86.to-pay-attention",
+      "u86.to-pay-a-compliment"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l6",
+   "title": "6. to meet a deadline, to set a goal, to run a business…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u86.to-meet-a-deadline",
+    "u86.to-set-a-goal",
+    "u86.to-run-a-business",
+    "u86.strong-opinion",
+    "u86.heavy-rain"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.to-meet-a-deadline",
+      "u86.to-set-a-goal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-run-a-business",
+      "u86.strong-opinion"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.heavy-rain"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-meet-a-deadline",
+      "u86.to-set-a-goal",
+      "u86.to-run-a-business",
+      "u86.strong-opinion",
+      "u86.heavy-rain"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-meet-a-deadline",
+      "u86.to-set-a-goal",
+      "u86.to-run-a-business",
+      "u86.strong-opinion",
+      "u86.heavy-rain"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-meet-a-deadline",
+      "u86.to-set-a-goal",
+      "u86.to-run-a-business",
+      "u86.strong-opinion",
+      "u86.heavy-rain"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-pay-a-compliment",
+      "u86.to-keep-in-mind",
+      "u86.to-keep-a-promise",
+      "u86.to-break-a-promise",
+      "u86.to-reach-an-agreement",
+      "u86.to-raise-awareness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l7",
+   "title": "7. heavy traffic, deep sleep, close relationship…",
+   "focus": "reading",
+   "newItems": [
+    "u86.heavy-traffic",
+    "u86.deep-sleep",
+    "u86.close-relationship",
+    "u86.bitterly-disappointed",
+    "u86.highly-unlikely"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.heavy-traffic",
+      "u86.deep-sleep"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.close-relationship",
+      "u86.bitterly-disappointed"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.highly-unlikely"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.heavy-traffic",
+      "u86.deep-sleep",
+      "u86.close-relationship",
+      "u86.bitterly-disappointed",
+      "u86.highly-unlikely"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.heavy-traffic",
+      "u86.deep-sleep",
+      "u86.close-relationship",
+      "u86.bitterly-disappointed",
+      "u86.highly-unlikely"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.heavy-traffic",
+      "u86.deep-sleep",
+      "u86.close-relationship",
+      "u86.bitterly-disappointed",
+      "u86.highly-unlikely"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-raise-awareness",
+      "u86.to-meet-a-deadline",
+      "u86.to-set-a-goal",
+      "u86.to-run-a-business",
+      "u86.strong-opinion",
+      "u86.heavy-rain"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l8",
+   "title": "8. widely known, deeply rooted, to draw a conclusion…",
+   "focus": "listening",
+   "newItems": [
+    "u86.widely-known",
+    "u86.deeply-rooted",
+    "u86.to-draw-a-conclusion",
+    "u86.to-draw-attention",
+    "u86.to-meet-expectations"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.widely-known",
+      "u86.deeply-rooted"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-draw-a-conclusion",
+      "u86.to-draw-attention"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u86.to-meet-expectations"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.widely-known",
+      "u86.deeply-rooted",
+      "u86.to-draw-a-conclusion",
+      "u86.to-draw-attention",
+      "u86.to-meet-expectations"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.widely-known",
+      "u86.deeply-rooted",
+      "u86.to-draw-a-conclusion",
+      "u86.to-draw-attention",
+      "u86.to-meet-expectations"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.widely-known",
+      "u86.deeply-rooted",
+      "u86.to-draw-a-conclusion",
+      "u86.to-draw-attention",
+      "u86.to-meet-expectations"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.heavy-rain",
+      "u86.heavy-traffic",
+      "u86.deep-sleep",
+      "u86.close-relationship",
+      "u86.bitterly-disappointed",
+      "u86.highly-unlikely"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-l9",
+   "title": "9. to pose a threat, to play a role",
+   "focus": "listening",
+   "newItems": [
+    "u86.to-pose-a-threat",
+    "u86.to-play-a-role"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u86.to-pose-a-threat",
+      "u86.to-play-a-role"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-pose-a-threat",
+      "u86.to-play-a-role"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-pose-a-threat",
+      "u86.to-play-a-role"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.to-pose-a-threat",
+      "u86.to-play-a-role"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u86.highly-unlikely",
+      "u86.widely-known",
+      "u86.deeply-rooted",
+      "u86.to-draw-a-conclusion",
+      "u86.to-draw-attention",
+      "u86.to-meet-expectations"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u86-colocaciones-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u86.highly-unlikely",
+      "u86.widely-known",
+      "u86.deeply-rooted",
+      "u86.to-draw-a-conclusion",
+      "u86.to-draw-attention",
+      "u86.to-meet-expectations",
+      "u86.to-pose-a-threat",
+      "u86.to-play-a-role"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

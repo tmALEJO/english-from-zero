@@ -132,27 +132,12 @@
    "say": "a-kór-ding-li"
   },
   {
-   "id": "u75.undoubtedly",
-   "en": "undoubtedly",
-   "es": "sin duda",
-   "kind": "word",
-   "emoji": "✔️",
-   "say": "an-dáu-ted-li"
-  },
-  {
    "id": "u75.arguably",
    "en": "arguably",
    "es": "posiblemente / se podría decir",
    "kind": "word",
    "emoji": "🤔",
    "say": "ár-güa-bli"
-  },
-  {
-   "id": "u75.by-no-means",
-   "en": "by no means",
-   "es": "de ninguna manera",
-   "kind": "chunk",
-   "emoji": "🚫"
   },
   {
    "id": "u75.to-a-certain-extent",
@@ -753,44 +738,44 @@
   },
   {
    "id": "u75-matices-l4",
-   "title": "4. accordingly, undoubtedly, arguably…",
+   "title": "4. accordingly, arguably, to a certain extent…",
    "focus": "listening",
    "newItems": [
     "u75.accordingly",
-    "u75.undoubtedly",
     "u75.arguably",
-    "u75.by-no-means",
-    "u75.to-a-certain-extent"
+    "u75.to-a-certain-extent",
+    "u75.bluntly",
+    "u75.tactfully"
    ],
    "activities": [
     {
      "type": "present",
      "items": [
       "u75.accordingly",
-      "u75.undoubtedly"
+      "u75.arguably"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u75.arguably",
-      "u75.by-no-means"
+      "u75.to-a-certain-extent",
+      "u75.bluntly"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u75.to-a-certain-extent"
+      "u75.tactfully"
      ]
     },
     {
      "type": "auto",
      "items": [
       "u75.accordingly",
-      "u75.undoubtedly",
       "u75.arguably",
-      "u75.by-no-means",
-      "u75.to-a-certain-extent"
+      "u75.to-a-certain-extent",
+      "u75.bluntly",
+      "u75.tactfully"
      ],
      "modes": [
       "read-pick",
@@ -802,10 +787,10 @@
      "type": "auto",
      "items": [
       "u75.accordingly",
-      "u75.undoubtedly",
       "u75.arguably",
-      "u75.by-no-means",
-      "u75.to-a-certain-extent"
+      "u75.to-a-certain-extent",
+      "u75.bluntly",
+      "u75.tactfully"
      ],
      "modes": [
       "dictation",
@@ -817,10 +802,10 @@
      "type": "auto",
      "items": [
       "u75.accordingly",
-      "u75.undoubtedly",
       "u75.arguably",
-      "u75.by-no-means",
-      "u75.to-a-certain-extent"
+      "u75.to-a-certain-extent",
+      "u75.bluntly",
+      "u75.tactfully"
      ],
      "modes": [
       "picture-pick"
@@ -847,23 +832,16 @@
   },
   {
    "id": "u75-matices-l5",
-   "title": "5. bluntly, tactfully, succinctly…",
+   "title": "5. succinctly, elaborate, clarify…",
    "focus": "listening",
    "newItems": [
-    "u75.bluntly",
-    "u75.tactfully",
     "u75.succinctly",
     "u75.elaborate",
-    "u75.clarify"
+    "u75.clarify",
+    "u75.emphasize",
+    "u75.imply"
    ],
    "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u75.bluntly",
-      "u75.tactfully"
-     ]
-    },
     {
      "type": "present",
      "items": [
@@ -874,17 +852,24 @@
     {
      "type": "present",
      "items": [
-      "u75.clarify"
+      "u75.clarify",
+      "u75.emphasize"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.imply"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u75.bluntly",
-      "u75.tactfully",
       "u75.succinctly",
       "u75.elaborate",
-      "u75.clarify"
+      "u75.clarify",
+      "u75.emphasize",
+      "u75.imply"
      ],
      "modes": [
       "read-pick",
@@ -895,11 +880,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.bluntly",
-      "u75.tactfully",
       "u75.succinctly",
       "u75.elaborate",
-      "u75.clarify"
+      "u75.clarify",
+      "u75.emphasize",
+      "u75.imply"
      ],
      "modes": [
       "dictation",
@@ -910,11 +895,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.bluntly",
-      "u75.tactfully",
       "u75.succinctly",
       "u75.elaborate",
-      "u75.clarify"
+      "u75.clarify",
+      "u75.emphasize",
+      "u75.imply"
      ],
      "modes": [
       "picture-pick"
@@ -926,10 +911,10 @@
      "items": [
       "u75.subsequently",
       "u75.accordingly",
-      "u75.undoubtedly",
       "u75.arguably",
-      "u75.by-no-means",
-      "u75.to-a-certain-extent"
+      "u75.to-a-certain-extent",
+      "u75.bluntly",
+      "u75.tactfully"
      ],
      "modes": [
       "read-pick",
@@ -941,23 +926,16 @@
   },
   {
    "id": "u75-matices-l6",
-   "title": "6. emphasize, imply, infer…",
+   "title": "6. infer, convey, articulate…",
    "focus": "vocabulary",
    "newItems": [
-    "u75.emphasize",
-    "u75.imply",
     "u75.infer",
     "u75.convey",
-    "u75.articulate"
+    "u75.articulate",
+    "u75.eloquent",
+    "u75.concise"
    ],
    "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u75.emphasize",
-      "u75.imply"
-     ]
-    },
     {
      "type": "present",
      "items": [
@@ -968,17 +946,24 @@
     {
      "type": "present",
      "items": [
-      "u75.articulate"
+      "u75.articulate",
+      "u75.eloquent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.concise"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u75.emphasize",
-      "u75.imply",
       "u75.infer",
       "u75.convey",
-      "u75.articulate"
+      "u75.articulate",
+      "u75.eloquent",
+      "u75.concise"
      ],
      "modes": [
       "read-pick",
@@ -989,11 +974,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.emphasize",
-      "u75.imply",
       "u75.infer",
       "u75.convey",
-      "u75.articulate"
+      "u75.articulate",
+      "u75.eloquent",
+      "u75.concise"
      ],
      "modes": [
       "dictation",
@@ -1004,11 +989,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.emphasize",
-      "u75.imply",
       "u75.infer",
       "u75.convey",
-      "u75.articulate"
+      "u75.articulate",
+      "u75.eloquent",
+      "u75.concise"
      ],
      "modes": [
       "picture-pick"
@@ -1018,12 +1003,12 @@
     {
      "type": "auto",
      "items": [
-      "u75.to-a-certain-extent",
-      "u75.bluntly",
       "u75.tactfully",
       "u75.succinctly",
       "u75.elaborate",
-      "u75.clarify"
+      "u75.clarify",
+      "u75.emphasize",
+      "u75.imply"
      ],
      "modes": [
       "read-pick",
@@ -1035,23 +1020,16 @@
   },
   {
    "id": "u75-matices-l7",
-   "title": "7. eloquent, concise, verbose…",
+   "title": "7. verbose, blunt, diplomatic…",
    "focus": "reading",
    "newItems": [
-    "u75.eloquent",
-    "u75.concise",
     "u75.verbose",
     "u75.blunt",
-    "u75.diplomatic"
+    "u75.diplomatic",
+    "u75.patronizing",
+    "u75.sarcastic"
    ],
    "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u75.eloquent",
-      "u75.concise"
-     ]
-    },
     {
      "type": "present",
      "items": [
@@ -1062,17 +1040,24 @@
     {
      "type": "present",
      "items": [
-      "u75.diplomatic"
+      "u75.diplomatic",
+      "u75.patronizing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.sarcastic"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u75.eloquent",
-      "u75.concise",
       "u75.verbose",
       "u75.blunt",
-      "u75.diplomatic"
+      "u75.diplomatic",
+      "u75.patronizing",
+      "u75.sarcastic"
      ],
      "modes": [
       "read-pick",
@@ -1083,11 +1068,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.eloquent",
-      "u75.concise",
       "u75.verbose",
       "u75.blunt",
-      "u75.diplomatic"
+      "u75.diplomatic",
+      "u75.patronizing",
+      "u75.sarcastic"
      ],
      "modes": [
       "dictation",
@@ -1098,11 +1083,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.eloquent",
-      "u75.concise",
       "u75.verbose",
       "u75.blunt",
-      "u75.diplomatic"
+      "u75.diplomatic",
+      "u75.patronizing",
+      "u75.sarcastic"
      ],
      "modes": [
       "picture-pick"
@@ -1112,12 +1097,12 @@
     {
      "type": "auto",
      "items": [
-      "u75.clarify",
-      "u75.emphasize",
       "u75.imply",
       "u75.infer",
       "u75.convey",
-      "u75.articulate"
+      "u75.articulate",
+      "u75.eloquent",
+      "u75.concise"
      ],
      "modes": [
       "read-pick",
@@ -1129,23 +1114,16 @@
   },
   {
    "id": "u75-matices-l8",
-   "title": "8. patronizing, sarcastic, understatement…",
+   "title": "8. understatement, euphemism, nuance…",
    "focus": "listening",
    "newItems": [
-    "u75.patronizing",
-    "u75.sarcastic",
     "u75.understatement",
     "u75.euphemism",
-    "u75.nuance"
+    "u75.nuance",
+    "u75.connotation",
+    "u75.tone"
    ],
    "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u75.patronizing",
-      "u75.sarcastic"
-     ]
-    },
     {
      "type": "present",
      "items": [
@@ -1156,17 +1134,24 @@
     {
      "type": "present",
      "items": [
-      "u75.nuance"
+      "u75.nuance",
+      "u75.connotation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.tone"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u75.patronizing",
-      "u75.sarcastic",
       "u75.understatement",
       "u75.euphemism",
-      "u75.nuance"
+      "u75.nuance",
+      "u75.connotation",
+      "u75.tone"
      ],
      "modes": [
       "read-pick",
@@ -1177,11 +1162,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.patronizing",
-      "u75.sarcastic",
       "u75.understatement",
       "u75.euphemism",
-      "u75.nuance"
+      "u75.nuance",
+      "u75.connotation",
+      "u75.tone"
      ],
      "modes": [
       "dictation",
@@ -1192,11 +1177,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.patronizing",
-      "u75.sarcastic",
       "u75.understatement",
       "u75.euphemism",
-      "u75.nuance"
+      "u75.nuance",
+      "u75.connotation",
+      "u75.tone"
      ],
      "modes": [
       "picture-pick"
@@ -1206,12 +1191,12 @@
     {
      "type": "auto",
      "items": [
-      "u75.articulate",
-      "u75.eloquent",
       "u75.concise",
       "u75.verbose",
       "u75.blunt",
-      "u75.diplomatic"
+      "u75.diplomatic",
+      "u75.patronizing",
+      "u75.sarcastic"
      ],
      "modes": [
       "read-pick",
@@ -1260,23 +1245,16 @@
   },
   {
    "id": "u75-matices-l9",
-   "title": "9. connotation, tone, formal register…",
+   "title": "9. formal register, colloquial, slang…",
    "focus": "listening",
    "newItems": [
-    "u75.connotation",
-    "u75.tone",
     "u75.formal-register",
     "u75.colloquial",
-    "u75.slang"
+    "u75.slang",
+    "u75.jargon",
+    "u75.not-only-did-she"
    ],
    "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u75.connotation",
-      "u75.tone"
-     ]
-    },
     {
      "type": "present",
      "items": [
@@ -1287,17 +1265,24 @@
     {
      "type": "present",
      "items": [
-      "u75.slang"
+      "u75.slang",
+      "u75.jargon"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u75.not-only-did-she"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u75.connotation",
-      "u75.tone",
       "u75.formal-register",
       "u75.colloquial",
-      "u75.slang"
+      "u75.slang",
+      "u75.jargon",
+      "u75.not-only-did-she"
      ],
      "modes": [
       "read-pick",
@@ -1308,11 +1293,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.connotation",
-      "u75.tone",
       "u75.formal-register",
       "u75.colloquial",
-      "u75.slang"
+      "u75.slang",
+      "u75.jargon",
+      "u75.not-only-did-she"
      ],
      "modes": [
       "dictation",
@@ -1323,11 +1308,11 @@
     {
      "type": "auto",
      "items": [
-      "u75.connotation",
-      "u75.tone",
       "u75.formal-register",
       "u75.colloquial",
-      "u75.slang"
+      "u75.slang",
+      "u75.jargon",
+      "u75.not-only-did-she"
      ],
      "modes": [
       "picture-pick"
@@ -1337,12 +1322,12 @@
     {
      "type": "auto",
      "items": [
-      "u75.diplomatic",
-      "u75.patronizing",
       "u75.sarcastic",
       "u75.understatement",
       "u75.euphemism",
-      "u75.nuance"
+      "u75.nuance",
+      "u75.connotation",
+      "u75.tone"
      ],
      "modes": [
       "read-pick",
@@ -1354,11 +1339,9 @@
   },
   {
    "id": "u75-matices-l10",
-   "title": "10. jargon, Not only did she…, Never have I seen……",
+   "title": "10. Never have I seen…, Rarely do we…",
    "focus": "vocabulary",
    "newItems": [
-    "u75.jargon",
-    "u75.not-only-did-she",
     "u75.never-have-i-seen",
     "u75.rarely-do-we"
    ],
@@ -1366,13 +1349,6 @@
     {
      "type": "present",
      "items": [
-      "u75.jargon",
-      "u75.not-only-did-she"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
       "u75.never-have-i-seen",
       "u75.rarely-do-we"
      ]
@@ -1380,8 +1356,6 @@
     {
      "type": "auto",
      "items": [
-      "u75.jargon",
-      "u75.not-only-did-she",
       "u75.never-have-i-seen",
       "u75.rarely-do-we"
      ],
@@ -1389,13 +1363,11 @@
       "read-pick",
       "listen-pick"
      ],
-     "count": 8
+     "count": 4
     },
     {
      "type": "auto",
      "items": [
-      "u75.jargon",
-      "u75.not-only-did-she",
       "u75.never-have-i-seen",
       "u75.rarely-do-we"
      ],
@@ -1403,13 +1375,11 @@
       "dictation",
       "build"
      ],
-     "count": 4
+     "count": 2
     },
     {
      "type": "auto",
      "items": [
-      "u75.jargon",
-      "u75.not-only-did-she",
       "u75.never-have-i-seen",
       "u75.rarely-do-we"
      ],
@@ -1421,12 +1391,12 @@
     {
      "type": "auto",
      "items": [
-      "u75.nuance",
-      "u75.connotation",
       "u75.tone",
       "u75.formal-register",
       "u75.colloquial",
-      "u75.slang"
+      "u75.slang",
+      "u75.jargon",
+      "u75.not-only-did-she"
      ],
      "modes": [
       "read-pick",

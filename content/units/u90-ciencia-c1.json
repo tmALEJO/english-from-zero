@@ -1,0 +1,736 @@
+{
+ "_generated": true,
+ "id": "u90-ciencia-c1",
+ "level": "C1",
+ "title": "Ciencia e innovación",
+ "emoji": "🔬",
+ "canDo": "Ya puedo hablar de ciencia, investigación y tecnología avanzada",
+ "summary": "Vocabulario para hablar de descubrimientos, investigación, datos y avances tecnológicos.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u90.to-prove",
+   "en": "to prove",
+   "es": "demostrar / probar",
+   "kind": "chunk",
+   "emoji": "✅",
+   "say": "pruuv"
+  },
+  {
+   "id": "u90.to-discover",
+   "en": "to discover",
+   "es": "descubrir",
+   "kind": "chunk",
+   "emoji": "🔭"
+  },
+  {
+   "id": "u90.discovery",
+   "en": "discovery",
+   "es": "descubrimiento",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "dis-ká-ve-ri"
+  },
+  {
+   "id": "u90.to-develop",
+   "en": "to develop",
+   "es": "desarrollar",
+   "kind": "chunk",
+   "emoji": "🌱"
+  },
+  {
+   "id": "u90.to-analyze",
+   "en": "to analyze",
+   "es": "analizar",
+   "kind": "chunk",
+   "emoji": "🧪",
+   "say": "á-na-laiz"
+  },
+  {
+   "id": "u90.analysis",
+   "en": "analysis",
+   "es": "análisis",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "a-ná-li-sis"
+  },
+  {
+   "id": "u90.accurate",
+   "en": "accurate",
+   "es": "preciso / exacto",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "á-kiu-rit"
+  },
+  {
+   "id": "u90.to-measure",
+   "en": "to measure",
+   "es": "medir",
+   "kind": "chunk",
+   "emoji": "📏",
+   "say": "mé-sher"
+  },
+  {
+   "id": "u90.to-estimate",
+   "en": "to estimate",
+   "es": "estimar",
+   "kind": "chunk",
+   "emoji": "📐",
+   "say": "és-ti-meit"
+  },
+  {
+   "id": "u90.average",
+   "en": "average",
+   "es": "promedio",
+   "kind": "word",
+   "emoji": "➗",
+   "say": "á-ve-rich"
+  },
+  {
+   "id": "u90.rate",
+   "en": "rate",
+   "es": "tasa / ritmo",
+   "kind": "word",
+   "emoji": "📊",
+   "say": "reit"
+  },
+  {
+   "id": "u90.percentage",
+   "en": "percentage",
+   "es": "porcentaje",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "per-sén-tich"
+  },
+  {
+   "id": "u90.trend",
+   "en": "trend",
+   "es": "tendencia",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "trend"
+  },
+  {
+   "id": "u90.pattern",
+   "en": "pattern",
+   "es": "patrón",
+   "kind": "word",
+   "emoji": "🔳",
+   "say": "pá-tern"
+  },
+  {
+   "id": "u90.cause",
+   "en": "cause",
+   "es": "causa",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "koz"
+  },
+  {
+   "id": "u90.effect",
+   "en": "effect",
+   "es": "efecto",
+   "kind": "word",
+   "emoji": "💥",
+   "say": "i-fékt"
+  },
+  {
+   "id": "u90.to-lead-to",
+   "en": "to lead to",
+   "es": "llevar a / provocar",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u90.to-affect",
+   "en": "to affect",
+   "es": "afectar",
+   "kind": "chunk",
+   "emoji": "🌊",
+   "say": "a-fékt"
+  },
+  {
+   "id": "u90.impact",
+   "en": "impact",
+   "es": "impacto",
+   "kind": "word",
+   "emoji": "💥"
+  },
+  {
+   "id": "u90.to-cure",
+   "en": "to cure",
+   "es": "curar",
+   "kind": "chunk",
+   "emoji": "💊",
+   "say": "kiur"
+  },
+  {
+   "id": "u90.cell",
+   "en": "cell",
+   "es": "célula",
+   "kind": "word",
+   "emoji": "🦠",
+   "say": "sel"
+  },
+  {
+   "id": "u90.gene",
+   "en": "gene",
+   "es": "gen",
+   "kind": "word",
+   "emoji": "🧬",
+   "say": "yiin"
+  },
+  {
+   "id": "u90.climate",
+   "en": "climate",
+   "es": "clima",
+   "kind": "word",
+   "emoji": "🌡️",
+   "say": "klái-mit"
+  },
+  {
+   "id": "u90.to-simulate",
+   "en": "to simulate",
+   "es": "simular",
+   "kind": "chunk",
+   "emoji": "🖥️",
+   "say": "sí-miu-leit"
+  },
+  {
+   "id": "u90.to-innovate",
+   "en": "to innovate",
+   "es": "innovar",
+   "kind": "chunk",
+   "emoji": "💡",
+   "say": "í-no-veit"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u90-ciencia-c1-l1",
+   "title": "1. to prove, to discover, discovery…",
+   "focus": "listening",
+   "newItems": [
+    "u90.to-prove",
+    "u90.to-discover",
+    "u90.discovery",
+    "u90.to-develop",
+    "u90.to-analyze"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u90.to-prove",
+      "u90.to-discover"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.discovery",
+      "u90.to-develop"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.to-analyze"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.to-prove",
+      "u90.to-discover",
+      "u90.discovery",
+      "u90.to-develop",
+      "u90.to-analyze"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.to-prove",
+      "u90.to-discover",
+      "u90.discovery",
+      "u90.to-develop",
+      "u90.to-analyze"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.to-prove",
+      "u90.to-discover",
+      "u90.discovery",
+      "u90.to-develop",
+      "u90.to-analyze"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u90-ciencia-c1-l2",
+   "title": "2. analysis, accurate, to measure…",
+   "focus": "grammar",
+   "newItems": [
+    "u90.analysis",
+    "u90.accurate",
+    "u90.to-measure",
+    "u90.to-estimate",
+    "u90.average"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u90.analysis",
+      "u90.accurate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.to-measure",
+      "u90.to-estimate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.average"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.analysis",
+      "u90.accurate",
+      "u90.to-measure",
+      "u90.to-estimate",
+      "u90.average"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.analysis",
+      "u90.accurate",
+      "u90.to-measure",
+      "u90.to-estimate",
+      "u90.average"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.analysis",
+      "u90.accurate",
+      "u90.to-measure",
+      "u90.to-estimate",
+      "u90.average"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.to-prove",
+      "u90.to-discover",
+      "u90.discovery",
+      "u90.to-develop",
+      "u90.to-analyze"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "cause y effect: lenguaje de causa-efecto",
+     "intro": "Así se expresa que algo provoca algo.",
+     "examples": [
+      {
+       "en": "Smoking can cause cancer.",
+       "es": "Fumar puede causar cáncer.",
+       "mark": [
+        "cause"
+       ]
+      },
+      {
+       "en": "Stress leads to health problems.",
+       "es": "El estrés lleva a problemas de salud.",
+       "mark": [
+        "leads to"
+       ]
+      },
+      {
+       "en": "The new policy affected the economy.",
+       "es": "La nueva medida afectó la economía.",
+       "mark": [
+        "affected"
+       ]
+      },
+      {
+       "en": "Pollution has a huge impact on health.",
+       "es": "La contaminación tiene un gran impacto en la salud.",
+       "mark": [
+        "impact"
+       ]
+      }
+     ],
+     "question": "Para decir que A provoca B, puedes usar…",
+     "options": [
+      "A affects B / A leads to B / A causes B",
+      "solo 'because'",
+      "A because B"
+     ],
+     "answer": 0,
+     "rule": "El inglés científico y de opinión usa mucho el lenguaje de causa-efecto: cause (causar), lead to (llevar a), result in (dar como resultado), affect (afectar), have an impact on (impactar en).",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u90-ciencia-c1-l3",
+   "title": "3. rate, percentage, trend…",
+   "focus": "reading",
+   "newItems": [
+    "u90.rate",
+    "u90.percentage",
+    "u90.trend",
+    "u90.pattern",
+    "u90.cause"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u90.rate",
+      "u90.percentage"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.trend",
+      "u90.pattern"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.cause"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.rate",
+      "u90.percentage",
+      "u90.trend",
+      "u90.pattern",
+      "u90.cause"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.rate",
+      "u90.percentage",
+      "u90.trend",
+      "u90.pattern",
+      "u90.cause"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.rate",
+      "u90.percentage",
+      "u90.trend",
+      "u90.pattern",
+      "u90.cause"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.to-analyze",
+      "u90.analysis",
+      "u90.accurate",
+      "u90.to-measure",
+      "u90.to-estimate",
+      "u90.average"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u90-ciencia-c1-l4",
+   "title": "4. effect, to lead to, to affect…",
+   "focus": "listening",
+   "newItems": [
+    "u90.effect",
+    "u90.to-lead-to",
+    "u90.to-affect",
+    "u90.impact",
+    "u90.to-cure"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u90.effect",
+      "u90.to-lead-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.to-affect",
+      "u90.impact"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.to-cure"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.effect",
+      "u90.to-lead-to",
+      "u90.to-affect",
+      "u90.impact",
+      "u90.to-cure"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.effect",
+      "u90.to-lead-to",
+      "u90.to-affect",
+      "u90.impact",
+      "u90.to-cure"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.effect",
+      "u90.to-lead-to",
+      "u90.to-affect",
+      "u90.impact",
+      "u90.to-cure"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.average",
+      "u90.rate",
+      "u90.percentage",
+      "u90.trend",
+      "u90.pattern",
+      "u90.cause"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u90-ciencia-c1-l5",
+   "title": "5. cell, gene, climate…",
+   "focus": "listening",
+   "newItems": [
+    "u90.cell",
+    "u90.gene",
+    "u90.climate",
+    "u90.to-simulate",
+    "u90.to-innovate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u90.cell",
+      "u90.gene"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.climate",
+      "u90.to-simulate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u90.to-innovate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.cell",
+      "u90.gene",
+      "u90.climate",
+      "u90.to-simulate",
+      "u90.to-innovate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.cell",
+      "u90.gene",
+      "u90.climate",
+      "u90.to-simulate",
+      "u90.to-innovate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.cell",
+      "u90.gene",
+      "u90.climate",
+      "u90.to-simulate",
+      "u90.to-innovate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u90.cause",
+      "u90.effect",
+      "u90.to-lead-to",
+      "u90.to-affect",
+      "u90.impact",
+      "u90.to-cure"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u90-ciencia-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u90.to-affect",
+      "u90.impact",
+      "u90.to-cure",
+      "u90.cell",
+      "u90.gene",
+      "u90.climate",
+      "u90.to-simulate",
+      "u90.to-innovate"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

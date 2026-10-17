@@ -1,0 +1,940 @@
+{
+ "_generated": true,
+ "id": "u103-situaciones-b2",
+ "level": "B2",
+ "title": "Situaciones y reacciones",
+ "emoji": "💬",
+ "canDo": "Ya reacciono con naturalidad en conversaciones cotidianas",
+ "summary": "Frases hechas para reaccionar, acordar, dudar o responder en situaciones del día a día.",
+ "grammar": [
+  "Expresiones de conversación"
+ ],
+ "items": [
+  {
+   "id": "u103.i-guess-so",
+   "en": "I guess so",
+   "es": "supongo que sí",
+   "kind": "chunk",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u103.i-m-not-sure",
+   "en": "I'm not sure",
+   "es": "no estoy seguro",
+   "kind": "chunk",
+   "emoji": "😕"
+  },
+  {
+   "id": "u103.let-me-think",
+   "en": "Let me think",
+   "es": "déjame pensar",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u103.that-makes-sense",
+   "en": "That makes sense",
+   "es": "eso tiene sentido",
+   "kind": "chunk",
+   "emoji": "✔️"
+  },
+  {
+   "id": "u103.fair-enough",
+   "en": "Fair enough",
+   "es": "me parece justo",
+   "kind": "chunk",
+   "emoji": "👌"
+  },
+  {
+   "id": "u103.no-wonder",
+   "en": "No wonder",
+   "es": "con razón",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u103.good-point",
+   "en": "Good point",
+   "es": "buen punto",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u103.that-s-a-relief",
+   "en": "That's a relief",
+   "es": "qué alivio",
+   "kind": "chunk",
+   "emoji": "😮‍💨"
+  },
+  {
+   "id": "u103.what-a-shame",
+   "en": "What a shame",
+   "es": "qué lástima",
+   "kind": "chunk",
+   "emoji": "😞"
+  },
+  {
+   "id": "u103.never-mind",
+   "en": "Never mind",
+   "es": "no importa / olvídalo",
+   "kind": "chunk",
+   "emoji": "🙃"
+  },
+  {
+   "id": "u103.it-s-up-to-you",
+   "en": "It's up to you",
+   "es": "tú decides",
+   "kind": "chunk",
+   "emoji": "🫵"
+  },
+  {
+   "id": "u103.suit-yourself",
+   "en": "Suit yourself",
+   "es": "como quieras",
+   "kind": "chunk",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u103.take-your-time",
+   "en": "Take your time",
+   "es": "tómate tu tiempo",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u103.hang-on",
+   "en": "Hang on",
+   "es": "espera un momento",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u103.by-the-way",
+   "en": "By the way",
+   "es": "por cierto",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u103.as-i-was-saying",
+   "en": "As I was saying",
+   "es": "como decía",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u103.come-to-think-of-it",
+   "en": "Come to think of it",
+   "es": "ahora que lo pienso",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u103.on-second-thought",
+   "en": "On second thought",
+   "es": "pensándolo mejor",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u103.in-any-case",
+   "en": "In any case",
+   "es": "en todo caso",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u103.either-way",
+   "en": "Either way",
+   "es": "de cualquier forma",
+   "kind": "chunk",
+   "emoji": "🔀"
+  },
+  {
+   "id": "u103.sort-of",
+   "en": "Sort of",
+   "es": "más o menos",
+   "kind": "chunk",
+   "emoji": "〰️"
+  },
+  {
+   "id": "u103.kind-of",
+   "en": "Kind of",
+   "es": "algo así",
+   "kind": "chunk",
+   "emoji": "🙂"
+  },
+  {
+   "id": "u103.no-way",
+   "en": "No way",
+   "es": "de ninguna manera",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u103.you-bet",
+   "en": "You bet",
+   "es": "por supuesto / claro",
+   "kind": "chunk",
+   "emoji": "💯"
+  },
+  {
+   "id": "u103.that-s-too-bad",
+   "en": "That's too bad",
+   "es": "qué mal",
+   "kind": "chunk",
+   "emoji": "😔"
+  },
+  {
+   "id": "u103.good-for-you",
+   "en": "Good for you",
+   "es": "me alegro por ti",
+   "kind": "chunk",
+   "emoji": "🎉"
+  },
+  {
+   "id": "u103.well-done",
+   "en": "Well done",
+   "es": "bien hecho",
+   "kind": "chunk",
+   "emoji": "👏"
+  },
+  {
+   "id": "u103.go-ahead",
+   "en": "Go ahead",
+   "es": "adelante",
+   "kind": "chunk",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u103.hold-on-a-second",
+   "en": "Hold on a second",
+   "es": "espera un segundo",
+   "kind": "chunk",
+   "emoji": "⏸️"
+  },
+  {
+   "id": "u103.i-d-rather-not",
+   "en": "I'd rather not",
+   "es": "prefiero no hacerlo",
+   "kind": "chunk",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u103.it-s-worth-a-try",
+   "en": "It's worth a try",
+   "es": "vale la pena intentarlo",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u103.let-s-face-it",
+   "en": "Let's face it",
+   "es": "admitámoslo",
+   "kind": "chunk",
+   "emoji": "😤"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u103-situaciones-b2-l1",
+   "title": "1. I guess so, I'm not sure, Let me think…",
+   "focus": "listening",
+   "newItems": [
+    "u103.i-guess-so",
+    "u103.i-m-not-sure",
+    "u103.let-me-think",
+    "u103.that-makes-sense",
+    "u103.fair-enough"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u103.i-guess-so",
+      "u103.i-m-not-sure"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.let-me-think",
+      "u103.that-makes-sense"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.fair-enough"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.i-guess-so",
+      "u103.i-m-not-sure",
+      "u103.let-me-think",
+      "u103.that-makes-sense",
+      "u103.fair-enough"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.i-guess-so",
+      "u103.i-m-not-sure",
+      "u103.let-me-think",
+      "u103.that-makes-sense",
+      "u103.fair-enough"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.i-guess-so",
+      "u103.i-m-not-sure",
+      "u103.let-me-think",
+      "u103.that-makes-sense",
+      "u103.fair-enough"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u103-situaciones-b2-l2",
+   "title": "2. No wonder, Good point, That's a relief…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u103.no-wonder",
+    "u103.good-point",
+    "u103.that-s-a-relief",
+    "u103.what-a-shame",
+    "u103.never-mind"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u103.no-wonder",
+      "u103.good-point"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.that-s-a-relief",
+      "u103.what-a-shame"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.never-mind"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.no-wonder",
+      "u103.good-point",
+      "u103.that-s-a-relief",
+      "u103.what-a-shame",
+      "u103.never-mind"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.no-wonder",
+      "u103.good-point",
+      "u103.that-s-a-relief",
+      "u103.what-a-shame",
+      "u103.never-mind"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.no-wonder",
+      "u103.good-point",
+      "u103.that-s-a-relief",
+      "u103.what-a-shame",
+      "u103.never-mind"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.i-guess-so",
+      "u103.i-m-not-sure",
+      "u103.let-me-think",
+      "u103.that-makes-sense",
+      "u103.fair-enough"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u103-situaciones-b2-l3",
+   "title": "3. It's up to you, Suit yourself, Take your time…",
+   "focus": "reading",
+   "newItems": [
+    "u103.it-s-up-to-you",
+    "u103.suit-yourself",
+    "u103.take-your-time",
+    "u103.hang-on",
+    "u103.by-the-way"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u103.it-s-up-to-you",
+      "u103.suit-yourself"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.take-your-time",
+      "u103.hang-on"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.by-the-way"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.it-s-up-to-you",
+      "u103.suit-yourself",
+      "u103.take-your-time",
+      "u103.hang-on",
+      "u103.by-the-way"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.it-s-up-to-you",
+      "u103.suit-yourself",
+      "u103.take-your-time",
+      "u103.hang-on",
+      "u103.by-the-way"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.it-s-up-to-you",
+      "u103.suit-yourself",
+      "u103.take-your-time",
+      "u103.hang-on",
+      "u103.by-the-way"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.fair-enough",
+      "u103.no-wonder",
+      "u103.good-point",
+      "u103.that-s-a-relief",
+      "u103.what-a-shame",
+      "u103.never-mind"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u103-situaciones-b2-l4",
+   "title": "4. As I was saying, Come to think of it, On second thought…",
+   "focus": "listening",
+   "newItems": [
+    "u103.as-i-was-saying",
+    "u103.come-to-think-of-it",
+    "u103.on-second-thought",
+    "u103.in-any-case",
+    "u103.either-way"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u103.as-i-was-saying",
+      "u103.come-to-think-of-it"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.on-second-thought",
+      "u103.in-any-case"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.either-way"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.as-i-was-saying",
+      "u103.come-to-think-of-it",
+      "u103.on-second-thought",
+      "u103.in-any-case",
+      "u103.either-way"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.as-i-was-saying",
+      "u103.come-to-think-of-it",
+      "u103.on-second-thought",
+      "u103.in-any-case",
+      "u103.either-way"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.as-i-was-saying",
+      "u103.come-to-think-of-it",
+      "u103.on-second-thought",
+      "u103.in-any-case",
+      "u103.either-way"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.never-mind",
+      "u103.it-s-up-to-you",
+      "u103.suit-yourself",
+      "u103.take-your-time",
+      "u103.hang-on",
+      "u103.by-the-way"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u103-situaciones-b2-l5",
+   "title": "5. Sort of, Kind of, No way…",
+   "focus": "listening",
+   "newItems": [
+    "u103.sort-of",
+    "u103.kind-of",
+    "u103.no-way",
+    "u103.you-bet",
+    "u103.that-s-too-bad"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u103.sort-of",
+      "u103.kind-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.no-way",
+      "u103.you-bet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.that-s-too-bad"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.sort-of",
+      "u103.kind-of",
+      "u103.no-way",
+      "u103.you-bet",
+      "u103.that-s-too-bad"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.sort-of",
+      "u103.kind-of",
+      "u103.no-way",
+      "u103.you-bet",
+      "u103.that-s-too-bad"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.sort-of",
+      "u103.kind-of",
+      "u103.no-way",
+      "u103.you-bet",
+      "u103.that-s-too-bad"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.by-the-way",
+      "u103.as-i-was-saying",
+      "u103.come-to-think-of-it",
+      "u103.on-second-thought",
+      "u103.in-any-case",
+      "u103.either-way"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u103-situaciones-b2-l6",
+   "title": "6. Good for you, Well done, Go ahead…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u103.good-for-you",
+    "u103.well-done",
+    "u103.go-ahead",
+    "u103.hold-on-a-second",
+    "u103.i-d-rather-not"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u103.good-for-you",
+      "u103.well-done"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.go-ahead",
+      "u103.hold-on-a-second"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u103.i-d-rather-not"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.good-for-you",
+      "u103.well-done",
+      "u103.go-ahead",
+      "u103.hold-on-a-second",
+      "u103.i-d-rather-not"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.good-for-you",
+      "u103.well-done",
+      "u103.go-ahead",
+      "u103.hold-on-a-second",
+      "u103.i-d-rather-not"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.good-for-you",
+      "u103.well-done",
+      "u103.go-ahead",
+      "u103.hold-on-a-second",
+      "u103.i-d-rather-not"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.either-way",
+      "u103.sort-of",
+      "u103.kind-of",
+      "u103.no-way",
+      "u103.you-bet",
+      "u103.that-s-too-bad"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u103-situaciones-b2-l7",
+   "title": "7. It's worth a try, Let's face it",
+   "focus": "reading",
+   "newItems": [
+    "u103.it-s-worth-a-try",
+    "u103.let-s-face-it"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u103.it-s-worth-a-try",
+      "u103.let-s-face-it"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.it-s-worth-a-try",
+      "u103.let-s-face-it"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.it-s-worth-a-try",
+      "u103.let-s-face-it"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.it-s-worth-a-try",
+      "u103.let-s-face-it"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.that-s-too-bad",
+      "u103.good-for-you",
+      "u103.well-done",
+      "u103.go-ahead",
+      "u103.hold-on-a-second",
+      "u103.i-d-rather-not"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u103-situaciones-b2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "roleplay",
+     "title": "Un amigo te cuenta un problema",
+     "scene": "🗣️ Tu amigo está estresado por el trabajo. Responde con naturalidad.",
+     "turns": [
+      {
+       "who": "Friend",
+       "en": "I'm so stressed about my job.",
+       "es": "Estoy muy estresado por mi trabajo."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "Take it easy, that sounds tough.",
+         "es": "Tranquilo, eso suena difícil.",
+         "ok": true,
+         "why": "Reconoces su sentimiento con empatía."
+        },
+        {
+         "en": "No big deal, forget it.",
+         "es": "No es para tanto, olvídalo.",
+         "ok": false,
+         "why": "Suena frío y resta importancia a su problema."
+        },
+        {
+         "en": "That's your problem.",
+         "es": "Ese es tu problema.",
+         "ok": false,
+         "why": "Es brusco y poco empático."
+        }
+       ]
+      },
+      {
+       "who": "Friend",
+       "en": "Maybe I should look for another job.",
+       "es": "Quizá debería buscar otro trabajo."
+      },
+      {
+       "you": true,
+       "options": [
+        {
+         "en": "That makes sense. It's worth a try.",
+         "es": "Eso tiene sentido. Vale la pena intentarlo.",
+         "ok": true,
+         "why": "Apoyas su idea de forma positiva."
+        },
+        {
+         "en": "No way, don't do that.",
+         "es": "De ninguna manera, no hagas eso.",
+         "ok": false,
+         "why": "Cierras la conversación sin escuchar."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u103.that-s-too-bad",
+      "u103.good-for-you",
+      "u103.well-done",
+      "u103.go-ahead",
+      "u103.hold-on-a-second",
+      "u103.i-d-rather-not",
+      "u103.it-s-worth-a-try",
+      "u103.let-s-face-it"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

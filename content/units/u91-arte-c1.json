@@ -1,0 +1,450 @@
+{
+ "_generated": true,
+ "id": "u91-arte-c1",
+ "level": "C1",
+ "title": "Arte, literatura y medios",
+ "emoji": "🎭",
+ "canDo": "Ya puedo hablar de arte, libros, cine y medios con criterio",
+ "summary": "Vocabulario para describir y opinar sobre obras de arte, literatura, cine y medios.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u91.artwork",
+   "en": "artwork",
+   "es": "obra de arte",
+   "kind": "word",
+   "emoji": "🖼️"
+  },
+  {
+   "id": "u91.narrator",
+   "en": "narrator",
+   "es": "narrador",
+   "kind": "word",
+   "emoji": "🗣️",
+   "say": "na-réi-tor"
+  },
+  {
+   "id": "u91.metaphor",
+   "en": "metaphor",
+   "es": "metáfora",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "mé-ta-for"
+  },
+  {
+   "id": "u91.theme",
+   "en": "theme",
+   "es": "tema (central)",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "ziim"
+  },
+  {
+   "id": "u91.to-portray",
+   "en": "to portray",
+   "es": "retratar / representar",
+   "kind": "chunk",
+   "emoji": "🖌️",
+   "say": "por-tréi"
+  },
+  {
+   "id": "u91.to-depict",
+   "en": "to depict",
+   "es": "representar",
+   "kind": "chunk",
+   "emoji": "🖼️",
+   "say": "di-píkt"
+  },
+  {
+   "id": "u91.to-interpret",
+   "en": "to interpret",
+   "es": "interpretar",
+   "kind": "chunk",
+   "emoji": "🔍",
+   "say": "in-tér-pret"
+  },
+  {
+   "id": "u91.plot-twist",
+   "en": "plot twist",
+   "es": "giro argumental",
+   "kind": "chunk",
+   "emoji": "🔀"
+  },
+  {
+   "id": "u91.to-review",
+   "en": "to review",
+   "es": "reseñar / criticar",
+   "kind": "chunk",
+   "emoji": "⭐",
+   "say": "ri-viú"
+  },
+  {
+   "id": "u91.to-come-out",
+   "en": "to come out",
+   "es": "estrenarse / salir",
+   "kind": "chunk",
+   "emoji": "🎬"
+  },
+  {
+   "id": "u91.to-be-based-on",
+   "en": "to be based on",
+   "es": "estar basado en",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u91.to-adapt",
+   "en": "to adapt",
+   "es": "adaptar",
+   "kind": "chunk",
+   "emoji": "🔄",
+   "say": "a-dápt"
+  },
+  {
+   "id": "u91.influential",
+   "en": "influential",
+   "es": "influyente",
+   "kind": "word",
+   "emoji": "🌟",
+   "say": "in-flu-én-shal"
+  },
+  {
+   "id": "u91.timeless",
+   "en": "timeless",
+   "es": "atemporal",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "táim-les"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u91-arte-c1-l1",
+   "title": "1. artwork, narrator, metaphor…",
+   "focus": "listening",
+   "newItems": [
+    "u91.artwork",
+    "u91.narrator",
+    "u91.metaphor",
+    "u91.theme",
+    "u91.to-portray"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u91.artwork",
+      "u91.narrator"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u91.metaphor",
+      "u91.theme"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u91.to-portray"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.artwork",
+      "u91.narrator",
+      "u91.metaphor",
+      "u91.theme",
+      "u91.to-portray"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.artwork",
+      "u91.narrator",
+      "u91.metaphor",
+      "u91.theme",
+      "u91.to-portray"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.artwork",
+      "u91.narrator",
+      "u91.metaphor",
+      "u91.theme",
+      "u91.to-portray"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u91-arte-c1-l2",
+   "title": "2. to depict, to interpret, plot twist…",
+   "focus": "grammar",
+   "newItems": [
+    "u91.to-depict",
+    "u91.to-interpret",
+    "u91.plot-twist",
+    "u91.to-review",
+    "u91.to-come-out"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u91.to-depict",
+      "u91.to-interpret"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u91.plot-twist",
+      "u91.to-review"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u91.to-come-out"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-depict",
+      "u91.to-interpret",
+      "u91.plot-twist",
+      "u91.to-review",
+      "u91.to-come-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-depict",
+      "u91.to-interpret",
+      "u91.plot-twist",
+      "u91.to-review",
+      "u91.to-come-out"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-depict",
+      "u91.to-interpret",
+      "u91.plot-twist",
+      "u91.to-review",
+      "u91.to-come-out"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.artwork",
+      "u91.narrator",
+      "u91.metaphor",
+      "u91.theme",
+      "u91.to-portray"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Opinar sobre una obra: adjetivos de valoración",
+     "intro": "Fíjate en los adjetivos para dar una opinión matizada.",
+     "examples": [
+      {
+       "en": "The film was absolutely moving.",
+       "es": "La película fue absolutamente conmovedora.",
+       "mark": [
+        "moving"
+       ]
+      },
+      {
+       "en": "Honestly, the book is overrated.",
+       "es": "Sinceramente, el libro está sobrevalorado.",
+       "mark": [
+        "overrated"
+       ]
+      },
+      {
+       "en": "It's a timeless masterpiece.",
+       "es": "Es una obra maestra atemporal.",
+       "mark": [
+        "timeless"
+       ]
+      },
+      {
+       "en": "The ending was thought-provoking.",
+       "es": "El final invitaba a reflexionar.",
+       "mark": [
+        "thought-provoking"
+       ]
+      }
+     ],
+     "question": "Si algo está 'overrated', significa que…",
+     "options": [
+      "es mejor de lo que dicen",
+      "tiene más fama de la que merece",
+      "es muy antiguo"
+     ],
+     "answer": 1,
+     "rule": "Para valorar obras usamos adjetivos matizados: moving (conmovedor), thought-provoking (que hace pensar), timeless (atemporal), overrated (sobrevalorado) y underrated (infravalorado, mejor de lo que se cree).",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u91-arte-c1-l3",
+   "title": "3. to be based on, to adapt, influential…",
+   "focus": "reading",
+   "newItems": [
+    "u91.to-be-based-on",
+    "u91.to-adapt",
+    "u91.influential",
+    "u91.timeless"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u91.to-be-based-on",
+      "u91.to-adapt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u91.influential",
+      "u91.timeless"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-be-based-on",
+      "u91.to-adapt",
+      "u91.influential",
+      "u91.timeless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-be-based-on",
+      "u91.to-adapt",
+      "u91.influential",
+      "u91.timeless"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-be-based-on",
+      "u91.to-adapt",
+      "u91.influential",
+      "u91.timeless"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-portray",
+      "u91.to-depict",
+      "u91.to-interpret",
+      "u91.plot-twist",
+      "u91.to-review",
+      "u91.to-come-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u91-arte-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u91.to-interpret",
+      "u91.plot-twist",
+      "u91.to-review",
+      "u91.to-come-out",
+      "u91.to-be-based-on",
+      "u91.to-adapt",
+      "u91.influential",
+      "u91.timeless"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

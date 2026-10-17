@@ -1,0 +1,801 @@
+{
+ "_generated": true,
+ "id": "u102-dinero-b2",
+ "level": "B2",
+ "title": "Dinero y finanzas personales",
+ "emoji": "🏦",
+ "canDo": "Ya manejo vocabulario de dinero, banco y gastos",
+ "summary": "Vocabulario para hablar de dinero, el banco, ahorrar, gastar y las finanzas del día a día.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u102.wallet",
+   "en": "wallet",
+   "es": "billetera",
+   "kind": "word",
+   "emoji": "👛",
+   "say": "uó-let"
+  },
+  {
+   "id": "u102.bank-account",
+   "en": "bank account",
+   "es": "cuenta bancaria",
+   "kind": "chunk",
+   "emoji": "🏦"
+  },
+  {
+   "id": "u102.card-bank",
+   "en": "card",
+   "es": "tarjeta",
+   "kind": "word",
+   "emoji": "💳",
+   "tip": "Aquí con el sentido de: bank."
+  },
+  {
+   "id": "u102.to-withdraw",
+   "en": "to withdraw",
+   "es": "retirar (dinero)",
+   "kind": "chunk",
+   "emoji": "🏧",
+   "say": "uiz-dró"
+  },
+  {
+   "id": "u102.to-deposit",
+   "en": "to deposit",
+   "es": "depositar",
+   "kind": "chunk",
+   "emoji": "📥",
+   "say": "di-pó-sit"
+  },
+  {
+   "id": "u102.to-transfer",
+   "en": "to transfer",
+   "es": "transferir",
+   "kind": "chunk",
+   "emoji": "🔁",
+   "say": "tráns-fer"
+  },
+  {
+   "id": "u102.to-borrow",
+   "en": "to borrow",
+   "es": "pedir prestado",
+   "kind": "chunk",
+   "emoji": "🙏",
+   "say": "bó-rou"
+  },
+  {
+   "id": "u102.to-lend",
+   "en": "to lend",
+   "es": "prestar",
+   "kind": "chunk",
+   "emoji": "🤲",
+   "say": "lend"
+  },
+  {
+   "id": "u102.to-owe",
+   "en": "to owe",
+   "es": "deber (dinero)",
+   "kind": "chunk",
+   "emoji": "📌",
+   "say": "ou"
+  },
+  {
+   "id": "u102.interest",
+   "en": "interest",
+   "es": "interés",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "ín-trest"
+  },
+  {
+   "id": "u102.to-afford",
+   "en": "to afford",
+   "es": "poder permitirse",
+   "kind": "chunk",
+   "emoji": "💰",
+   "say": "a-fórd"
+  },
+  {
+   "id": "u102.to-save-up",
+   "en": "to save up",
+   "es": "ahorrar",
+   "kind": "chunk",
+   "emoji": "🐷"
+  },
+  {
+   "id": "u102.to-spend",
+   "en": "to spend",
+   "es": "gastar",
+   "kind": "chunk",
+   "emoji": "🛍️"
+  },
+  {
+   "id": "u102.to-waste-money",
+   "en": "to waste",
+   "es": "malgastar",
+   "kind": "chunk",
+   "emoji": "🗑️",
+   "tip": "Aquí con el sentido de: money."
+  },
+  {
+   "id": "u102.affordable",
+   "en": "affordable",
+   "es": "asequible",
+   "kind": "word",
+   "emoji": "👍",
+   "say": "a-fór-da-bol"
+  },
+  {
+   "id": "u102.to-earn",
+   "en": "to earn",
+   "es": "ganar (dinero)",
+   "kind": "chunk",
+   "emoji": "💼",
+   "say": "ern"
+  },
+  {
+   "id": "u102.to-charge",
+   "en": "to charge",
+   "es": "cobrar",
+   "kind": "chunk",
+   "emoji": "🧾"
+  },
+  {
+   "id": "u102.to-budget",
+   "en": "to budget",
+   "es": "hacer un presupuesto",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u102.on-a-tight-budget",
+   "en": "on a tight budget",
+   "es": "con poco presupuesto",
+   "kind": "chunk",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u102.bill-to-pay",
+   "en": "bill",
+   "es": "factura / cuenta",
+   "kind": "word",
+   "emoji": "📄",
+   "tip": "Aquí con el sentido de: to pay."
+  },
+  {
+   "id": "u102.fee",
+   "en": "fee",
+   "es": "tarifa / comisión",
+   "kind": "word",
+   "emoji": "💲",
+   "say": "fii"
+  },
+  {
+   "id": "u102.to-be-worth",
+   "en": "to be worth",
+   "es": "valer",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u102.to-go-bankrupt",
+   "en": "to go bankrupt",
+   "es": "quebrar",
+   "kind": "chunk",
+   "emoji": "💥"
+  },
+  {
+   "id": "u102.to-pay-off",
+   "en": "to pay off",
+   "es": "terminar de pagar",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u102.in-debt",
+   "en": "in debt",
+   "es": "endeudado",
+   "kind": "chunk",
+   "emoji": "⛓️"
+  },
+  {
+   "id": "u102.to-make-a-living",
+   "en": "to make a living",
+   "es": "ganarse la vida",
+   "kind": "chunk",
+   "emoji": "💪"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u102-dinero-b2-l1",
+   "title": "1. wallet, bank account, card…",
+   "focus": "listening",
+   "newItems": [
+    "u102.wallet",
+    "u102.bank-account",
+    "u102.card-bank",
+    "u102.to-withdraw",
+    "u102.to-deposit"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u102.wallet",
+      "u102.bank-account"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.card-bank",
+      "u102.to-withdraw"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.to-deposit"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.wallet",
+      "u102.bank-account",
+      "u102.card-bank",
+      "u102.to-withdraw",
+      "u102.to-deposit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.wallet",
+      "u102.bank-account",
+      "u102.card-bank",
+      "u102.to-withdraw",
+      "u102.to-deposit"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.wallet",
+      "u102.bank-account",
+      "u102.card-bank",
+      "u102.to-withdraw",
+      "u102.to-deposit"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u102-dinero-b2-l2",
+   "title": "2. to transfer, to borrow, to lend…",
+   "focus": "grammar",
+   "newItems": [
+    "u102.to-transfer",
+    "u102.to-borrow",
+    "u102.to-lend",
+    "u102.to-owe",
+    "u102.interest"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u102.to-transfer",
+      "u102.to-borrow"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.to-lend",
+      "u102.to-owe"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.interest"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-transfer",
+      "u102.to-borrow",
+      "u102.to-lend",
+      "u102.to-owe",
+      "u102.interest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-transfer",
+      "u102.to-borrow",
+      "u102.to-lend",
+      "u102.to-owe",
+      "u102.interest"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-transfer",
+      "u102.to-borrow",
+      "u102.to-lend",
+      "u102.to-owe",
+      "u102.interest"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.wallet",
+      "u102.bank-account",
+      "u102.card-bank",
+      "u102.to-withdraw",
+      "u102.to-deposit"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "borrow vs. lend (prestar en dos direcciones)",
+     "intro": "Las dos hablan de préstamos, pero desde lados opuestos.",
+     "examples": [
+      {
+       "en": "Can I borrow your pen?",
+       "es": "¿Me prestas tu bolígrafo? (yo lo tomo)",
+       "mark": [
+        "borrow"
+       ]
+      },
+      {
+       "en": "I'll lend you my car.",
+       "es": "Te presto mi carro. (yo lo doy)",
+       "mark": [
+        "lend"
+       ]
+      },
+      {
+       "en": "He borrowed money from the bank.",
+       "es": "Pidió dinero prestado al banco.",
+       "mark": [
+        "borrowed"
+       ]
+      },
+      {
+       "en": "The bank lent him the money.",
+       "es": "El banco le prestó el dinero.",
+       "mark": [
+        "lent"
+       ]
+      }
+     ],
+     "question": "Si YO tomo algo prestado de ti, uso…",
+     "options": [
+      "lend",
+      "borrow",
+      "owe"
+     ],
+     "answer": 1,
+     "rule": "borrow = pedir prestado (yo recibo): 'I borrow from you'. lend = prestar (yo doy): 'I lend to you'. owe = deber: 'I owe you money'. En español 'prestar' sirve para los dos, por eso confunde.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u102-dinero-b2-l3",
+   "title": "3. to afford, to save up, to spend…",
+   "focus": "reading",
+   "newItems": [
+    "u102.to-afford",
+    "u102.to-save-up",
+    "u102.to-spend",
+    "u102.to-waste-money",
+    "u102.affordable"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u102.to-afford",
+      "u102.to-save-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.to-spend",
+      "u102.to-waste-money"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.affordable"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-afford",
+      "u102.to-save-up",
+      "u102.to-spend",
+      "u102.to-waste-money",
+      "u102.affordable"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-afford",
+      "u102.to-save-up",
+      "u102.to-spend",
+      "u102.to-waste-money",
+      "u102.affordable"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-afford",
+      "u102.to-save-up",
+      "u102.to-spend",
+      "u102.to-waste-money",
+      "u102.affordable"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-deposit",
+      "u102.to-transfer",
+      "u102.to-borrow",
+      "u102.to-lend",
+      "u102.to-owe",
+      "u102.interest"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u102-dinero-b2-l4",
+   "title": "4. to earn, to charge, to budget…",
+   "focus": "listening",
+   "newItems": [
+    "u102.to-earn",
+    "u102.to-charge",
+    "u102.to-budget",
+    "u102.on-a-tight-budget",
+    "u102.bill-to-pay"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u102.to-earn",
+      "u102.to-charge"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.to-budget",
+      "u102.on-a-tight-budget"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.bill-to-pay"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-earn",
+      "u102.to-charge",
+      "u102.to-budget",
+      "u102.on-a-tight-budget",
+      "u102.bill-to-pay"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-earn",
+      "u102.to-charge",
+      "u102.to-budget",
+      "u102.on-a-tight-budget",
+      "u102.bill-to-pay"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-earn",
+      "u102.to-charge",
+      "u102.to-budget",
+      "u102.on-a-tight-budget",
+      "u102.bill-to-pay"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.interest",
+      "u102.to-afford",
+      "u102.to-save-up",
+      "u102.to-spend",
+      "u102.to-waste-money",
+      "u102.affordable"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u102-dinero-b2-l5",
+   "title": "5. fee, to be worth, to go bankrupt…",
+   "focus": "listening",
+   "newItems": [
+    "u102.fee",
+    "u102.to-be-worth",
+    "u102.to-go-bankrupt",
+    "u102.to-pay-off",
+    "u102.in-debt"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u102.fee",
+      "u102.to-be-worth"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.to-go-bankrupt",
+      "u102.to-pay-off"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u102.in-debt"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.fee",
+      "u102.to-be-worth",
+      "u102.to-go-bankrupt",
+      "u102.to-pay-off",
+      "u102.in-debt"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.fee",
+      "u102.to-be-worth",
+      "u102.to-go-bankrupt",
+      "u102.to-pay-off",
+      "u102.in-debt"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.fee",
+      "u102.to-be-worth",
+      "u102.to-go-bankrupt",
+      "u102.to-pay-off",
+      "u102.in-debt"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.affordable",
+      "u102.to-earn",
+      "u102.to-charge",
+      "u102.to-budget",
+      "u102.on-a-tight-budget",
+      "u102.bill-to-pay"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u102-dinero-b2-l6",
+   "title": "6. to make a living",
+   "focus": "vocabulary",
+   "newItems": [
+    "u102.to-make-a-living"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u102.to-make-a-living"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-make-a-living"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-make-a-living"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.to-make-a-living"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u102.bill-to-pay",
+      "u102.fee",
+      "u102.to-be-worth",
+      "u102.to-go-bankrupt",
+      "u102.to-pay-off",
+      "u102.in-debt"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u102-dinero-b2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u102.on-a-tight-budget",
+      "u102.bill-to-pay",
+      "u102.fee",
+      "u102.to-be-worth",
+      "u102.to-go-bankrupt",
+      "u102.to-pay-off",
+      "u102.in-debt",
+      "u102.to-make-a-living"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

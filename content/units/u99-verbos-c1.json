@@ -1,0 +1,946 @@
+{
+ "_generated": true,
+ "id": "u99-verbos-c1",
+ "level": "C1",
+ "title": "Verbos precisos",
+ "emoji": "🎯",
+ "canDo": "Ya uso el verbo exacto en vez de uno genérico",
+ "summary": "Verbos más precisos para no depender siempre de get, make, do o say.",
+ "grammar": [
+  "Verbos avanzados"
+ ],
+ "items": [
+  {
+   "id": "u99.to-acquire",
+   "en": "to acquire",
+   "es": "adquirir",
+   "kind": "chunk",
+   "emoji": "📥",
+   "say": "a-kuáir"
+  },
+  {
+   "id": "u99.to-achieve",
+   "en": "to achieve",
+   "es": "lograr",
+   "kind": "chunk",
+   "emoji": "🏅",
+   "say": "a-chíiv"
+  },
+  {
+   "id": "u99.to-accomplish",
+   "en": "to accomplish",
+   "es": "cumplir / realizar",
+   "kind": "chunk",
+   "emoji": "✅",
+   "say": "a-kóm-plish"
+  },
+  {
+   "id": "u99.to-pursue",
+   "en": "to pursue",
+   "es": "perseguir (un objetivo)",
+   "kind": "chunk",
+   "emoji": "🎯",
+   "say": "per-siú"
+  },
+  {
+   "id": "u99.to-strive",
+   "en": "to strive",
+   "es": "esforzarse",
+   "kind": "chunk",
+   "emoji": "💪",
+   "say": "straiv"
+  },
+  {
+   "id": "u99.to-tackle",
+   "en": "to tackle",
+   "es": "abordar (un problema)",
+   "kind": "chunk",
+   "emoji": "🏉",
+   "say": "tá-kol"
+  },
+  {
+   "id": "u99.to-foster",
+   "en": "to foster",
+   "es": "fomentar",
+   "kind": "chunk",
+   "emoji": "🌱",
+   "say": "fós-ter"
+  },
+  {
+   "id": "u99.to-boost",
+   "en": "to boost",
+   "es": "impulsar",
+   "kind": "chunk",
+   "emoji": "🚀",
+   "say": "buust"
+  },
+  {
+   "id": "u99.to-hinder",
+   "en": "to hinder",
+   "es": "obstaculizar",
+   "kind": "chunk",
+   "emoji": "🚧",
+   "say": "jín-der"
+  },
+  {
+   "id": "u99.to-mitigate",
+   "en": "to mitigate",
+   "es": "mitigar",
+   "kind": "chunk",
+   "emoji": "🧯",
+   "say": "mí-ti-geit"
+  },
+  {
+   "id": "u99.to-alleviate",
+   "en": "to alleviate",
+   "es": "aliviar",
+   "kind": "chunk",
+   "emoji": "🩹",
+   "say": "a-lí-vi-eit"
+  },
+  {
+   "id": "u99.to-diminish",
+   "en": "to diminish",
+   "es": "disminuir",
+   "kind": "chunk",
+   "emoji": "📉",
+   "say": "di-mí-nish"
+  },
+  {
+   "id": "u99.to-broaden",
+   "en": "to broaden",
+   "es": "ampliar",
+   "kind": "chunk",
+   "emoji": "↔️",
+   "say": "bró-den"
+  },
+  {
+   "id": "u99.to-reveal",
+   "en": "to reveal",
+   "es": "revelar",
+   "kind": "chunk",
+   "emoji": "🎭",
+   "say": "ri-víil"
+  },
+  {
+   "id": "u99.to-conceal",
+   "en": "to conceal",
+   "es": "ocultar",
+   "kind": "chunk",
+   "emoji": "🙈",
+   "say": "kon-síil"
+  },
+  {
+   "id": "u99.to-disclose",
+   "en": "to disclose",
+   "es": "divulgar",
+   "kind": "chunk",
+   "emoji": "📣",
+   "say": "dis-klóus"
+  },
+  {
+   "id": "u99.to-underline",
+   "en": "to underline",
+   "es": "subrayar",
+   "kind": "chunk",
+   "emoji": "✍️",
+   "say": "an-der-láin"
+  },
+  {
+   "id": "u99.to-outline",
+   "en": "to outline",
+   "es": "esbozar / delinear",
+   "kind": "chunk",
+   "emoji": "📝",
+   "say": "áut-lain"
+  },
+  {
+   "id": "u99.to-illustrate",
+   "en": "to illustrate",
+   "es": "ilustrar / ejemplificar",
+   "kind": "chunk",
+   "emoji": "🖼️",
+   "say": "í-lus-treit"
+  },
+  {
+   "id": "u99.to-undertake",
+   "en": "to undertake",
+   "es": "emprender",
+   "kind": "chunk",
+   "emoji": "🧗",
+   "say": "an-der-téik"
+  },
+  {
+   "id": "u99.to-allocate",
+   "en": "to allocate",
+   "es": "asignar / destinar",
+   "kind": "chunk",
+   "emoji": "📊",
+   "say": "á-lo-keit"
+  },
+  {
+   "id": "u99.to-prioritize",
+   "en": "to prioritize",
+   "es": "priorizar",
+   "kind": "chunk",
+   "emoji": "🥇",
+   "say": "prai-ó-ri-taiz"
+  },
+  {
+   "id": "u99.to-anticipate",
+   "en": "to anticipate",
+   "es": "anticipar / prever",
+   "kind": "chunk",
+   "emoji": "🔮",
+   "say": "an-tí-si-peit"
+  },
+  {
+   "id": "u99.to-resolve",
+   "en": "to resolve",
+   "es": "resolver",
+   "kind": "chunk",
+   "emoji": "✔️",
+   "say": "ri-sólv"
+  },
+  {
+   "id": "u99.to-withstand",
+   "en": "to withstand",
+   "es": "resistir / soportar",
+   "kind": "chunk",
+   "emoji": "🛡️",
+   "say": "uiz-stánd"
+  },
+  {
+   "id": "u99.to-compel",
+   "en": "to compel",
+   "es": "obligar",
+   "kind": "chunk",
+   "emoji": "⛓️",
+   "say": "kom-pél"
+  },
+  {
+   "id": "u99.to-urge",
+   "en": "to urge",
+   "es": "instar / exhortar",
+   "kind": "chunk",
+   "emoji": "📢",
+   "say": "erch"
+  },
+  {
+   "id": "u99.to-prompt",
+   "en": "to prompt",
+   "es": "provocar / dar pie a",
+   "kind": "chunk",
+   "emoji": "💥",
+   "say": "prompt"
+  },
+  {
+   "id": "u99.to-entail",
+   "en": "to entail",
+   "es": "conllevar / implicar",
+   "kind": "chunk",
+   "emoji": "🔗",
+   "say": "en-téil"
+  },
+  {
+   "id": "u99.to-encompass",
+   "en": "to encompass",
+   "es": "abarcar",
+   "kind": "chunk",
+   "emoji": "🌐",
+   "say": "en-kám-pas"
+  },
+  {
+   "id": "u99.to-undergo",
+   "en": "to undergo",
+   "es": "someterse a / experimentar",
+   "kind": "chunk",
+   "emoji": "🔄",
+   "say": "an-der-góu"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u99-verbos-c1-l1",
+   "title": "1. to acquire, to achieve, to accomplish…",
+   "focus": "listening",
+   "newItems": [
+    "u99.to-acquire",
+    "u99.to-achieve",
+    "u99.to-accomplish",
+    "u99.to-pursue",
+    "u99.to-strive"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u99.to-acquire",
+      "u99.to-achieve"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-accomplish",
+      "u99.to-pursue"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-strive"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-acquire",
+      "u99.to-achieve",
+      "u99.to-accomplish",
+      "u99.to-pursue",
+      "u99.to-strive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-acquire",
+      "u99.to-achieve",
+      "u99.to-accomplish",
+      "u99.to-pursue",
+      "u99.to-strive"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-acquire",
+      "u99.to-achieve",
+      "u99.to-accomplish",
+      "u99.to-pursue",
+      "u99.to-strive"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u99-verbos-c1-l2",
+   "title": "2. to tackle, to foster, to boost…",
+   "focus": "grammar",
+   "newItems": [
+    "u99.to-tackle",
+    "u99.to-foster",
+    "u99.to-boost",
+    "u99.to-hinder",
+    "u99.to-mitigate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u99.to-tackle",
+      "u99.to-foster"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-boost",
+      "u99.to-hinder"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-mitigate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-tackle",
+      "u99.to-foster",
+      "u99.to-boost",
+      "u99.to-hinder",
+      "u99.to-mitigate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-tackle",
+      "u99.to-foster",
+      "u99.to-boost",
+      "u99.to-hinder",
+      "u99.to-mitigate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-tackle",
+      "u99.to-foster",
+      "u99.to-boost",
+      "u99.to-hinder",
+      "u99.to-mitigate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-acquire",
+      "u99.to-achieve",
+      "u99.to-accomplish",
+      "u99.to-pursue",
+      "u99.to-strive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Verbos precisos en vez de 'get'",
+     "intro": "El verbo 'get' sirve para todo, pero hay opciones más exactas.",
+     "examples": [
+      {
+       "en": "get a skill → acquire a skill",
+       "es": "adquirir una habilidad",
+       "mark": [
+        "acquire"
+       ]
+      },
+      {
+       "en": "get a goal → achieve a goal",
+       "es": "lograr un objetivo",
+       "mark": [
+        "achieve"
+       ]
+      },
+      {
+       "en": "get bigger → broaden / expand",
+       "es": "ampliar",
+       "mark": [
+        "broaden"
+       ]
+      },
+      {
+       "en": "get a problem smaller → mitigate a problem",
+       "es": "mitigar un problema",
+       "mark": [
+        "mitigate"
+       ]
+      }
+     ],
+     "question": "En un texto serio, 'achieve a goal' es mejor que…",
+     "options": [
+      "get a goal",
+      "make a goal happen hard",
+      "do a goal"
+     ],
+     "answer": 0,
+     "rule": "Cambiar verbos genéricos (get, make, do) por verbos precisos sube mucho el nivel: acquire (adquirir), achieve (lograr), foster (fomentar), hinder (obstaculizar), undergo (experimentar), entail (conllevar).",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u99-verbos-c1-l3",
+   "title": "3. to alleviate, to diminish, to broaden…",
+   "focus": "reading",
+   "newItems": [
+    "u99.to-alleviate",
+    "u99.to-diminish",
+    "u99.to-broaden",
+    "u99.to-reveal",
+    "u99.to-conceal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u99.to-alleviate",
+      "u99.to-diminish"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-broaden",
+      "u99.to-reveal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-conceal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-alleviate",
+      "u99.to-diminish",
+      "u99.to-broaden",
+      "u99.to-reveal",
+      "u99.to-conceal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-alleviate",
+      "u99.to-diminish",
+      "u99.to-broaden",
+      "u99.to-reveal",
+      "u99.to-conceal"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-alleviate",
+      "u99.to-diminish",
+      "u99.to-broaden",
+      "u99.to-reveal",
+      "u99.to-conceal"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-strive",
+      "u99.to-tackle",
+      "u99.to-foster",
+      "u99.to-boost",
+      "u99.to-hinder",
+      "u99.to-mitigate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u99-verbos-c1-l4",
+   "title": "4. to disclose, to underline, to outline…",
+   "focus": "listening",
+   "newItems": [
+    "u99.to-disclose",
+    "u99.to-underline",
+    "u99.to-outline",
+    "u99.to-illustrate",
+    "u99.to-undertake"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u99.to-disclose",
+      "u99.to-underline"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-outline",
+      "u99.to-illustrate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-undertake"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-disclose",
+      "u99.to-underline",
+      "u99.to-outline",
+      "u99.to-illustrate",
+      "u99.to-undertake"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-disclose",
+      "u99.to-underline",
+      "u99.to-outline",
+      "u99.to-illustrate",
+      "u99.to-undertake"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-disclose",
+      "u99.to-underline",
+      "u99.to-outline",
+      "u99.to-illustrate",
+      "u99.to-undertake"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-mitigate",
+      "u99.to-alleviate",
+      "u99.to-diminish",
+      "u99.to-broaden",
+      "u99.to-reveal",
+      "u99.to-conceal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u99-verbos-c1-l5",
+   "title": "5. to allocate, to prioritize, to anticipate…",
+   "focus": "listening",
+   "newItems": [
+    "u99.to-allocate",
+    "u99.to-prioritize",
+    "u99.to-anticipate",
+    "u99.to-resolve",
+    "u99.to-withstand"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u99.to-allocate",
+      "u99.to-prioritize"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-anticipate",
+      "u99.to-resolve"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-withstand"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-allocate",
+      "u99.to-prioritize",
+      "u99.to-anticipate",
+      "u99.to-resolve",
+      "u99.to-withstand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-allocate",
+      "u99.to-prioritize",
+      "u99.to-anticipate",
+      "u99.to-resolve",
+      "u99.to-withstand"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-allocate",
+      "u99.to-prioritize",
+      "u99.to-anticipate",
+      "u99.to-resolve",
+      "u99.to-withstand"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-conceal",
+      "u99.to-disclose",
+      "u99.to-underline",
+      "u99.to-outline",
+      "u99.to-illustrate",
+      "u99.to-undertake"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u99-verbos-c1-l6",
+   "title": "6. to compel, to urge, to prompt…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u99.to-compel",
+    "u99.to-urge",
+    "u99.to-prompt",
+    "u99.to-entail",
+    "u99.to-encompass"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u99.to-compel",
+      "u99.to-urge"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-prompt",
+      "u99.to-entail"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u99.to-encompass"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-compel",
+      "u99.to-urge",
+      "u99.to-prompt",
+      "u99.to-entail",
+      "u99.to-encompass"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-compel",
+      "u99.to-urge",
+      "u99.to-prompt",
+      "u99.to-entail",
+      "u99.to-encompass"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-compel",
+      "u99.to-urge",
+      "u99.to-prompt",
+      "u99.to-entail",
+      "u99.to-encompass"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-undertake",
+      "u99.to-allocate",
+      "u99.to-prioritize",
+      "u99.to-anticipate",
+      "u99.to-resolve",
+      "u99.to-withstand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u99-verbos-c1-l7",
+   "title": "7. to undergo",
+   "focus": "reading",
+   "newItems": [
+    "u99.to-undergo"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u99.to-undergo"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-undergo"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-undergo"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-undergo"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-withstand",
+      "u99.to-compel",
+      "u99.to-urge",
+      "u99.to-prompt",
+      "u99.to-entail",
+      "u99.to-encompass"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u99-verbos-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u99.to-resolve",
+      "u99.to-withstand",
+      "u99.to-compel",
+      "u99.to-urge",
+      "u99.to-prompt",
+      "u99.to-entail",
+      "u99.to-encompass",
+      "u99.to-undergo"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

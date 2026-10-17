@@ -307,13 +307,6 @@
    "say": "ó-som"
   },
   {
-   "id": "u64.no-way",
-   "en": "no way!",
-   "es": "¡no puede ser!",
-   "kind": "chunk",
-   "emoji": "😱"
-  },
-  {
    "id": "u64.for-real",
    "en": "for real?",
    "es": "¿en serio?",
@@ -340,13 +333,6 @@
    "es": "me apunto",
    "kind": "chunk",
    "emoji": "👍"
-  },
-  {
-   "id": "u64.hang-on",
-   "en": "hang on",
-   "es": "espera / un momento",
-   "kind": "chunk",
-   "emoji": "✋"
   },
   {
    "id": "u64.what-s-up",
@@ -1104,7 +1090,7 @@
     "u64.guys",
     "u64.buddy",
     "u64.awesome",
-    "u64.no-way"
+    "u64.for-real"
    ],
    "activities": [
     {
@@ -1124,7 +1110,7 @@
     {
      "type": "present",
      "items": [
-      "u64.no-way"
+      "u64.for-real"
      ]
     },
     {
@@ -1134,7 +1120,7 @@
       "u64.guys",
       "u64.buddy",
       "u64.awesome",
-      "u64.no-way"
+      "u64.for-real"
      ],
      "modes": [
       "read-pick",
@@ -1149,7 +1135,7 @@
       "u64.guys",
       "u64.buddy",
       "u64.awesome",
-      "u64.no-way"
+      "u64.for-real"
      ],
      "modes": [
       "dictation",
@@ -1164,7 +1150,7 @@
       "u64.guys",
       "u64.buddy",
       "u64.awesome",
-      "u64.no-way"
+      "u64.for-real"
      ],
      "modes": [
       "picture-pick"
@@ -1197,44 +1183,44 @@
   },
   {
    "id": "u64-ingles-real-l8",
-   "title": "8. for real?, my bad, no worries…",
+   "title": "8. my bad, no worries, I'm down…",
    "focus": "listening",
    "newItems": [
-    "u64.for-real",
     "u64.my-bad",
     "u64.no-worries",
     "u64.i-m-down",
-    "u64.hang-on"
+    "u64.what-s-up",
+    "u64.not-much"
    ],
    "activities": [
     {
      "type": "present",
      "items": [
-      "u64.for-real",
-      "u64.my-bad"
+      "u64.my-bad",
+      "u64.no-worries"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u64.no-worries",
-      "u64.i-m-down"
+      "u64.i-m-down",
+      "u64.what-s-up"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u64.hang-on"
+      "u64.not-much"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u64.for-real",
       "u64.my-bad",
       "u64.no-worries",
       "u64.i-m-down",
-      "u64.hang-on"
+      "u64.what-s-up",
+      "u64.not-much"
      ],
      "modes": [
       "read-pick",
@@ -1245,11 +1231,11 @@
     {
      "type": "auto",
      "items": [
-      "u64.for-real",
       "u64.my-bad",
       "u64.no-worries",
       "u64.i-m-down",
-      "u64.hang-on"
+      "u64.what-s-up",
+      "u64.not-much"
      ],
      "modes": [
       "dictation",
@@ -1260,11 +1246,11 @@
     {
      "type": "auto",
      "items": [
-      "u64.for-real",
       "u64.my-bad",
       "u64.no-worries",
       "u64.i-m-down",
-      "u64.hang-on"
+      "u64.what-s-up",
+      "u64.not-much"
      ],
      "modes": [
       "picture-pick"
@@ -1279,7 +1265,7 @@
       "u64.guys",
       "u64.buddy",
       "u64.awesome",
-      "u64.no-way"
+      "u64.for-real"
      ],
      "modes": [
       "read-pick",
@@ -1291,23 +1277,16 @@
   },
   {
    "id": "u64-ingles-real-l9",
-   "title": "9. What's up?, Not much, How's it going?…",
+   "title": "9. How's it going?, I'm beat, That sucks…",
    "focus": "listening",
    "newItems": [
-    "u64.what-s-up",
-    "u64.not-much",
     "u64.how-s-it-going",
     "u64.i-m-beat",
-    "u64.that-sucks"
+    "u64.that-sucks",
+    "u64.it-s-no-big-deal",
+    "u64.hold-on-a-sec"
    ],
    "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u64.what-s-up",
-      "u64.not-much"
-     ]
-    },
     {
      "type": "present",
      "items": [
@@ -1318,17 +1297,24 @@
     {
      "type": "present",
      "items": [
-      "u64.that-sucks"
+      "u64.that-sucks",
+      "u64.it-s-no-big-deal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.hold-on-a-sec"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u64.what-s-up",
-      "u64.not-much",
       "u64.how-s-it-going",
       "u64.i-m-beat",
-      "u64.that-sucks"
+      "u64.that-sucks",
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec"
      ],
      "modes": [
       "read-pick",
@@ -1339,11 +1325,11 @@
     {
      "type": "auto",
      "items": [
-      "u64.what-s-up",
-      "u64.not-much",
       "u64.how-s-it-going",
       "u64.i-m-beat",
-      "u64.that-sucks"
+      "u64.that-sucks",
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec"
      ],
      "modes": [
       "dictation",
@@ -1354,11 +1340,11 @@
     {
      "type": "auto",
      "items": [
-      "u64.what-s-up",
-      "u64.not-much",
       "u64.how-s-it-going",
       "u64.i-m-beat",
-      "u64.that-sucks"
+      "u64.that-sucks",
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec"
      ],
      "modes": [
       "picture-pick"
@@ -1368,12 +1354,12 @@
     {
      "type": "auto",
      "items": [
-      "u64.no-way",
       "u64.for-real",
       "u64.my-bad",
       "u64.no-worries",
       "u64.i-m-down",
-      "u64.hang-on"
+      "u64.what-s-up",
+      "u64.not-much"
      ],
      "modes": [
       "read-pick",
@@ -1422,23 +1408,16 @@
   },
   {
    "id": "u64-ingles-real-l10",
-   "title": "10. It's no big deal, Hold on a sec, You know what I mean?…",
+   "title": "10. You know what I mean?, I mean…, like…",
    "focus": "vocabulary",
    "newItems": [
-    "u64.it-s-no-big-deal",
-    "u64.hold-on-a-sec",
     "u64.you-know-what-i-mean",
     "u64.i-mean",
-    "u64.like-filler"
+    "u64.like-filler",
+    "u64.basically",
+    "u64.literally"
    ],
    "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u64.it-s-no-big-deal",
-      "u64.hold-on-a-sec"
-     ]
-    },
     {
      "type": "present",
      "items": [
@@ -1449,17 +1428,24 @@
     {
      "type": "present",
      "items": [
-      "u64.like-filler"
+      "u64.like-filler",
+      "u64.basically"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u64.literally"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u64.it-s-no-big-deal",
-      "u64.hold-on-a-sec",
       "u64.you-know-what-i-mean",
       "u64.i-mean",
-      "u64.like-filler"
+      "u64.like-filler",
+      "u64.basically",
+      "u64.literally"
      ],
      "modes": [
       "read-pick",
@@ -1470,11 +1456,11 @@
     {
      "type": "auto",
      "items": [
-      "u64.it-s-no-big-deal",
-      "u64.hold-on-a-sec",
       "u64.you-know-what-i-mean",
       "u64.i-mean",
-      "u64.like-filler"
+      "u64.like-filler",
+      "u64.basically",
+      "u64.literally"
      ],
      "modes": [
       "dictation",
@@ -1485,11 +1471,11 @@
     {
      "type": "auto",
      "items": [
-      "u64.it-s-no-big-deal",
-      "u64.hold-on-a-sec",
       "u64.you-know-what-i-mean",
       "u64.i-mean",
-      "u64.like-filler"
+      "u64.like-filler",
+      "u64.basically",
+      "u64.literally"
      ],
      "modes": [
       "picture-pick"
@@ -1499,12 +1485,12 @@
     {
      "type": "auto",
      "items": [
-      "u64.hang-on",
-      "u64.what-s-up",
       "u64.not-much",
       "u64.how-s-it-going",
       "u64.i-m-beat",
-      "u64.that-sucks"
+      "u64.that-sucks",
+      "u64.it-s-no-big-deal",
+      "u64.hold-on-a-sec"
      ],
      "modes": [
       "read-pick",
@@ -1516,58 +1502,43 @@
   },
   {
    "id": "u64-ingles-real-l11",
-   "title": "11. basically, literally, whatever",
+   "title": "11. whatever",
    "focus": "reading",
    "newItems": [
-    "u64.basically",
-    "u64.literally",
     "u64.whatever"
    ],
    "activities": [
     {
      "type": "present",
      "items": [
-      "u64.basically",
-      "u64.literally"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
       "u64.whatever"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u64.basically",
-      "u64.literally",
       "u64.whatever"
      ],
      "modes": [
       "read-pick",
       "listen-pick"
      ],
-     "count": 6
+     "count": 2
     },
     {
      "type": "auto",
      "items": [
-      "u64.basically",
-      "u64.literally",
       "u64.whatever"
      ],
      "modes": [
       "dictation",
       "build"
      ],
-     "count": 3
+     "count": 1
     },
     {
      "type": "auto",
      "items": [
-      "u64.basically",
-      "u64.literally",
       "u64.whatever"
      ],
      "modes": [
@@ -1578,12 +1549,12 @@
     {
      "type": "auto",
      "items": [
-      "u64.that-sucks",
-      "u64.it-s-no-big-deal",
       "u64.hold-on-a-sec",
       "u64.you-know-what-i-mean",
       "u64.i-mean",
-      "u64.like-filler"
+      "u64.like-filler",
+      "u64.basically",
+      "u64.literally"
      ],
      "modes": [
       "read-pick",

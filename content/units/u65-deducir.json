@@ -263,13 +263,6 @@
    "emoji": "🎰"
   },
   {
-   "id": "u65.no-wonder",
-   "en": "no wonder",
-   "es": "con razón",
-   "kind": "chunk",
-   "emoji": "💡"
-  },
-  {
    "id": "u65.that-explains-it",
    "en": "That explains it",
    "es": "Eso lo explica",
@@ -1014,8 +1007,8 @@
     "u65.there-s-no-way",
     "u65.for-sure",
     "u65.i-bet",
-    "u65.no-wonder",
-    "u65.that-explains-it"
+    "u65.that-explains-it",
+    "u65.what-could-have-happened"
    ],
    "activities": [
     {
@@ -1029,13 +1022,13 @@
      "type": "present",
      "items": [
       "u65.i-bet",
-      "u65.no-wonder"
+      "u65.that-explains-it"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u65.that-explains-it"
+      "u65.what-could-have-happened"
      ]
     },
     {
@@ -1044,8 +1037,8 @@
       "u65.there-s-no-way",
       "u65.for-sure",
       "u65.i-bet",
-      "u65.no-wonder",
-      "u65.that-explains-it"
+      "u65.that-explains-it",
+      "u65.what-could-have-happened"
      ],
      "modes": [
       "read-pick",
@@ -1059,8 +1052,8 @@
       "u65.there-s-no-way",
       "u65.for-sure",
       "u65.i-bet",
-      "u65.no-wonder",
-      "u65.that-explains-it"
+      "u65.that-explains-it",
+      "u65.what-could-have-happened"
      ],
      "modes": [
       "dictation",
@@ -1074,8 +1067,8 @@
       "u65.there-s-no-way",
       "u65.for-sure",
       "u65.i-bet",
-      "u65.no-wonder",
-      "u65.that-explains-it"
+      "u65.that-explains-it",
+      "u65.what-could-have-happened"
      ],
      "modes": [
       "picture-pick"
@@ -1139,44 +1132,44 @@
   },
   {
    "id": "u65-deducir-l8",
-   "title": "8. What could have happened?, She must be exhausted, exhausted…",
+   "title": "8. She must be exhausted, exhausted, starving…",
    "focus": "listening",
    "newItems": [
-    "u65.what-could-have-happened",
     "u65.she-must-be-exhausted",
     "u65.exhausted",
     "u65.starving",
-    "u65.freezing"
+    "u65.freezing",
+    "u65.soaked"
    ],
    "activities": [
     {
      "type": "present",
      "items": [
-      "u65.what-could-have-happened",
-      "u65.she-must-be-exhausted"
+      "u65.she-must-be-exhausted",
+      "u65.exhausted"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u65.exhausted",
-      "u65.starving"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
+      "u65.starving",
       "u65.freezing"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u65.soaked"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u65.what-could-have-happened",
       "u65.she-must-be-exhausted",
       "u65.exhausted",
       "u65.starving",
-      "u65.freezing"
+      "u65.freezing",
+      "u65.soaked"
      ],
      "modes": [
       "read-pick",
@@ -1187,11 +1180,11 @@
     {
      "type": "auto",
      "items": [
-      "u65.what-could-have-happened",
       "u65.she-must-be-exhausted",
       "u65.exhausted",
       "u65.starving",
-      "u65.freezing"
+      "u65.freezing",
+      "u65.soaked"
      ],
      "modes": [
       "dictation",
@@ -1202,11 +1195,11 @@
     {
      "type": "auto",
      "items": [
-      "u65.what-could-have-happened",
       "u65.she-must-be-exhausted",
       "u65.exhausted",
       "u65.starving",
-      "u65.freezing"
+      "u65.freezing",
+      "u65.soaked"
      ],
      "modes": [
       "picture-pick"
@@ -1220,8 +1213,8 @@
       "u65.there-s-no-way",
       "u65.for-sure",
       "u65.i-bet",
-      "u65.no-wonder",
-      "u65.that-explains-it"
+      "u65.that-explains-it",
+      "u65.what-could-have-happened"
      ],
      "modes": [
       "read-pick",
@@ -1233,10 +1226,9 @@
   },
   {
    "id": "u65-deducir-l9",
-   "title": "9. soaked, thrilled, puzzled…",
+   "title": "9. thrilled, puzzled, astonished…",
    "focus": "listening",
    "newItems": [
-    "u65.soaked",
     "u65.thrilled",
     "u65.puzzled",
     "u65.astonished",
@@ -1246,27 +1238,20 @@
     {
      "type": "present",
      "items": [
-      "u65.soaked",
-      "u65.thrilled"
+      "u65.thrilled",
+      "u65.puzzled"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u65.puzzled",
-      "u65.astonished"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
+      "u65.astonished",
       "u65.relieved"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u65.soaked",
       "u65.thrilled",
       "u65.puzzled",
       "u65.astonished",
@@ -1276,12 +1261,11 @@
       "read-pick",
       "listen-pick"
      ],
-     "count": 10
+     "count": 8
     },
     {
      "type": "auto",
      "items": [
-      "u65.soaked",
       "u65.thrilled",
       "u65.puzzled",
       "u65.astonished",
@@ -1291,12 +1275,11 @@
       "dictation",
       "build"
      ],
-     "count": 5
+     "count": 4
     },
     {
      "type": "auto",
      "items": [
-      "u65.soaked",
       "u65.thrilled",
       "u65.puzzled",
       "u65.astonished",
@@ -1310,12 +1293,12 @@
     {
      "type": "auto",
      "items": [
-      "u65.that-explains-it",
       "u65.what-could-have-happened",
       "u65.she-must-be-exhausted",
       "u65.exhausted",
       "u65.starving",
-      "u65.freezing"
+      "u65.freezing",
+      "u65.soaked"
      ],
      "modes": [
       "read-pick",

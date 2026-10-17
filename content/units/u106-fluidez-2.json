@@ -1,0 +1,815 @@
+{
+ "_generated": true,
+ "id": "u106-fluidez-2",
+ "level": "C1",
+ "title": "Hablar con naturalidad",
+ "emoji": "🗨️",
+ "canDo": "Ya sueno natural: relleno, cortesía y organización al hablar",
+ "summary": "Las muletillas y recursos que usan los nativos para ganar tiempo, suavizar y organizar lo que dicen.",
+ "grammar": [
+  "Recursos de fluidez"
+ ],
+ "items": [
+  {
+   "id": "u106.you-know",
+   "en": "you know",
+   "es": "ya sabes",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u106.anyway",
+   "en": "anyway",
+   "es": "en fin / de todos modos",
+   "kind": "word",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u106.right",
+   "en": "right",
+   "es": "¿verdad? / cierto",
+   "kind": "word",
+   "emoji": "👍"
+  },
+  {
+   "id": "u106.let-s-say",
+   "en": "let's say",
+   "es": "digamos",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u106.or-something",
+   "en": "or something",
+   "es": "o algo así",
+   "kind": "chunk",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u106.and-so-on",
+   "en": "and so on",
+   "es": "y así sucesivamente",
+   "kind": "chunk",
+   "emoji": "➕"
+  },
+  {
+   "id": "u106.kind-of-like",
+   "en": "kind of like",
+   "es": "algo parecido a",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u106.the-thing-is",
+   "en": "the thing is",
+   "es": "la cosa es que",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u106.to-be-fair",
+   "en": "to be fair",
+   "es": "para ser justos",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u106.if-you-ask-me",
+   "en": "if you ask me",
+   "es": "si me preguntas",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u106.now-that-you-mention-it",
+   "en": "now that you mention it",
+   "es": "ahora que lo mencionas",
+   "kind": "chunk",
+   "emoji": "👉"
+  },
+  {
+   "id": "u106.speaking-of-which",
+   "en": "speaking of which",
+   "es": "hablando de eso",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "u106.that-reminds-me",
+   "en": "that reminds me",
+   "es": "eso me recuerda",
+   "kind": "chunk",
+   "emoji": "🔔"
+  },
+  {
+   "id": "u106.where-was-i",
+   "en": "where was I",
+   "es": "¿dónde iba?",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u106.long-story-short",
+   "en": "long story short",
+   "es": "para resumir",
+   "kind": "chunk",
+   "emoji": "⏩"
+  },
+  {
+   "id": "u106.to-cut-a-long-story-short",
+   "en": "to cut a long story short",
+   "es": "para abreviar",
+   "kind": "chunk",
+   "emoji": "✂️"
+  },
+  {
+   "id": "u106.first-of-all",
+   "en": "first of all",
+   "es": "antes que nada",
+   "kind": "chunk",
+   "emoji": "1️⃣"
+  },
+  {
+   "id": "u106.on-top-of-that",
+   "en": "on top of that",
+   "es": "encima de eso",
+   "kind": "chunk",
+   "emoji": "⬆️"
+  },
+  {
+   "id": "u106.having-said-that",
+   "en": "having said that",
+   "es": "dicho esto",
+   "kind": "chunk",
+   "emoji": "↪️"
+  },
+  {
+   "id": "u106.mind-you",
+   "en": "mind you",
+   "es": "eso sí / ten en cuenta",
+   "kind": "chunk",
+   "emoji": "⚠️"
+  },
+  {
+   "id": "u106.to-put-it-another-way",
+   "en": "to put it another way",
+   "es": "dicho de otro modo",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u106.if-that-makes-sense",
+   "en": "if that makes sense",
+   "es": "si eso tiene sentido",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u106.i-d-say",
+   "en": "I'd say",
+   "es": "yo diría",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u106.it-s-like",
+   "en": "it's like",
+   "es": "es como",
+   "kind": "chunk",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u106.give-or-take",
+   "en": "give or take",
+   "es": "más o menos",
+   "kind": "chunk",
+   "emoji": "➗"
+  },
+  {
+   "id": "u106.no-offense",
+   "en": "no offense",
+   "es": "sin ofender",
+   "kind": "chunk",
+   "emoji": "🙏"
+  },
+  {
+   "id": "u106.to-be-honest-with-you",
+   "en": "to be honest with you",
+   "es": "para serte sincero",
+   "kind": "chunk",
+   "emoji": "🫡"
+  },
+  {
+   "id": "u106.at-the-end-of-the-day",
+   "en": "at the end of the day",
+   "es": "a fin de cuentas",
+   "kind": "chunk",
+   "emoji": "🌇"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u106-fluidez-2-l1",
+   "title": "1. you know, anyway, right…",
+   "focus": "listening",
+   "newItems": [
+    "u106.you-know",
+    "u106.anyway",
+    "u106.right",
+    "u106.let-s-say",
+    "u106.or-something"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u106.you-know",
+      "u106.anyway"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.right",
+      "u106.let-s-say"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.or-something"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.you-know",
+      "u106.anyway",
+      "u106.right",
+      "u106.let-s-say",
+      "u106.or-something"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.you-know",
+      "u106.anyway",
+      "u106.right",
+      "u106.let-s-say",
+      "u106.or-something"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.you-know",
+      "u106.anyway",
+      "u106.right",
+      "u106.let-s-say",
+      "u106.or-something"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u106-fluidez-2-l2",
+   "title": "2. and so on, kind of like, the thing is…",
+   "focus": "grammar",
+   "newItems": [
+    "u106.and-so-on",
+    "u106.kind-of-like",
+    "u106.the-thing-is",
+    "u106.to-be-fair",
+    "u106.if-you-ask-me"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u106.and-so-on",
+      "u106.kind-of-like"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.the-thing-is",
+      "u106.to-be-fair"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.if-you-ask-me"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.and-so-on",
+      "u106.kind-of-like",
+      "u106.the-thing-is",
+      "u106.to-be-fair",
+      "u106.if-you-ask-me"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.and-so-on",
+      "u106.kind-of-like",
+      "u106.the-thing-is",
+      "u106.to-be-fair",
+      "u106.if-you-ask-me"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.and-so-on",
+      "u106.kind-of-like",
+      "u106.the-thing-is",
+      "u106.to-be-fair",
+      "u106.if-you-ask-me"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.you-know",
+      "u106.anyway",
+      "u106.right",
+      "u106.let-s-say",
+      "u106.or-something"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Las muletillas dan fluidez (con moderación)",
+     "intro": "Sirven para ganar tiempo y sonar natural.",
+     "examples": [
+      {
+       "en": "Well, I mean, it's complicated.",
+       "es": "Bueno, o sea, es complicado.",
+       "mark": [
+        "I mean"
+       ]
+      },
+      {
+       "en": "Actually, that's a good question.",
+       "es": "En realidad, es una buena pregunta.",
+       "mark": [
+        "Actually"
+       ]
+      },
+      {
+       "en": "The thing is, I don't have time.",
+       "es": "La cosa es que no tengo tiempo.",
+       "mark": [
+        "The thing is"
+       ]
+      },
+      {
+       "en": "At the end of the day, it's your choice.",
+       "es": "A fin de cuentas, es tu decisión.",
+       "mark": [
+        "At the end of the day"
+       ]
+      }
+     ],
+     "question": "Las muletillas como 'I mean' o 'well' sirven para…",
+     "options": [
+      "sonar natural y ganar un segundo para pensar",
+      "corregir la gramática",
+      "hacer preguntas"
+     ],
+     "answer": 0,
+     "rule": "Los nativos usan 'fillers' (well, I mean, you know, actually) para ganar tiempo y sonar naturales. Con moderación ayudan a la fluidez; en exceso distraen. Son muy útiles cuando dudas qué decir.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u106-fluidez-2-l3",
+   "title": "3. now that you mention it, speaking of which, that reminds me…",
+   "focus": "reading",
+   "newItems": [
+    "u106.now-that-you-mention-it",
+    "u106.speaking-of-which",
+    "u106.that-reminds-me",
+    "u106.where-was-i",
+    "u106.long-story-short"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u106.now-that-you-mention-it",
+      "u106.speaking-of-which"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.that-reminds-me",
+      "u106.where-was-i"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.long-story-short"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.now-that-you-mention-it",
+      "u106.speaking-of-which",
+      "u106.that-reminds-me",
+      "u106.where-was-i",
+      "u106.long-story-short"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.now-that-you-mention-it",
+      "u106.speaking-of-which",
+      "u106.that-reminds-me",
+      "u106.where-was-i",
+      "u106.long-story-short"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.now-that-you-mention-it",
+      "u106.speaking-of-which",
+      "u106.that-reminds-me",
+      "u106.where-was-i",
+      "u106.long-story-short"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.or-something",
+      "u106.and-so-on",
+      "u106.kind-of-like",
+      "u106.the-thing-is",
+      "u106.to-be-fair",
+      "u106.if-you-ask-me"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u106-fluidez-2-l4",
+   "title": "4. to cut a long story short, first of all, on top of that…",
+   "focus": "listening",
+   "newItems": [
+    "u106.to-cut-a-long-story-short",
+    "u106.first-of-all",
+    "u106.on-top-of-that",
+    "u106.having-said-that",
+    "u106.mind-you"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u106.to-cut-a-long-story-short",
+      "u106.first-of-all"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.on-top-of-that",
+      "u106.having-said-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.mind-you"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.to-cut-a-long-story-short",
+      "u106.first-of-all",
+      "u106.on-top-of-that",
+      "u106.having-said-that",
+      "u106.mind-you"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.to-cut-a-long-story-short",
+      "u106.first-of-all",
+      "u106.on-top-of-that",
+      "u106.having-said-that",
+      "u106.mind-you"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.to-cut-a-long-story-short",
+      "u106.first-of-all",
+      "u106.on-top-of-that",
+      "u106.having-said-that",
+      "u106.mind-you"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.if-you-ask-me",
+      "u106.now-that-you-mention-it",
+      "u106.speaking-of-which",
+      "u106.that-reminds-me",
+      "u106.where-was-i",
+      "u106.long-story-short"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u106-fluidez-2-l5",
+   "title": "5. to put it another way, if that makes sense, I'd say…",
+   "focus": "listening",
+   "newItems": [
+    "u106.to-put-it-another-way",
+    "u106.if-that-makes-sense",
+    "u106.i-d-say",
+    "u106.it-s-like",
+    "u106.give-or-take"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u106.to-put-it-another-way",
+      "u106.if-that-makes-sense"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.i-d-say",
+      "u106.it-s-like"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.give-or-take"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.to-put-it-another-way",
+      "u106.if-that-makes-sense",
+      "u106.i-d-say",
+      "u106.it-s-like",
+      "u106.give-or-take"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.to-put-it-another-way",
+      "u106.if-that-makes-sense",
+      "u106.i-d-say",
+      "u106.it-s-like",
+      "u106.give-or-take"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.to-put-it-another-way",
+      "u106.if-that-makes-sense",
+      "u106.i-d-say",
+      "u106.it-s-like",
+      "u106.give-or-take"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.long-story-short",
+      "u106.to-cut-a-long-story-short",
+      "u106.first-of-all",
+      "u106.on-top-of-that",
+      "u106.having-said-that",
+      "u106.mind-you"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u106-fluidez-2-l6",
+   "title": "6. no offense, to be honest with you, at the end of the day",
+   "focus": "vocabulary",
+   "newItems": [
+    "u106.no-offense",
+    "u106.to-be-honest-with-you",
+    "u106.at-the-end-of-the-day"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u106.no-offense",
+      "u106.to-be-honest-with-you"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u106.at-the-end-of-the-day"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.no-offense",
+      "u106.to-be-honest-with-you",
+      "u106.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.no-offense",
+      "u106.to-be-honest-with-you",
+      "u106.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.no-offense",
+      "u106.to-be-honest-with-you",
+      "u106.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u106.mind-you",
+      "u106.to-put-it-another-way",
+      "u106.if-that-makes-sense",
+      "u106.i-d-say",
+      "u106.it-s-like",
+      "u106.give-or-take"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u106-fluidez-2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u106.to-put-it-another-way",
+      "u106.if-that-makes-sense",
+      "u106.i-d-say",
+      "u106.it-s-like",
+      "u106.give-or-take",
+      "u106.no-offense",
+      "u106.to-be-honest-with-you",
+      "u106.at-the-end-of-the-day"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

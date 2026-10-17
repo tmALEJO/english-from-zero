@@ -1,0 +1,819 @@
+{
+ "_generated": true,
+ "id": "u93-opinion-c1",
+ "level": "C1",
+ "title": "Opinión y argumentación",
+ "emoji": "🗣️",
+ "canDo": "Ya defiendo una postura con argumentos y matices",
+ "summary": "El lenguaje para dar opiniones, matizar, conceder y argumentar como en un ensayo o un debate.",
+ "grammar": [
+  "Lenguaje de opinión y matización"
+ ],
+ "items": [
+  {
+   "id": "u93.to-claim",
+   "en": "to claim",
+   "es": "afirmar / sostener",
+   "kind": "chunk",
+   "emoji": "📢",
+   "say": "kleim"
+  },
+  {
+   "id": "u93.to-argue",
+   "en": "to argue",
+   "es": "argumentar / sostener",
+   "kind": "chunk",
+   "emoji": "⚖️",
+   "say": "ár-giu"
+  },
+  {
+   "id": "u93.to-assume",
+   "en": "to assume",
+   "es": "suponer / dar por hecho",
+   "kind": "chunk",
+   "emoji": "🤔",
+   "say": "a-siúm"
+  },
+  {
+   "id": "u93.to-acknowledge",
+   "en": "to acknowledge",
+   "es": "reconocer / admitir",
+   "kind": "chunk",
+   "emoji": "🙇",
+   "say": "ak-nó-lich"
+  },
+  {
+   "id": "u93.to-concede",
+   "en": "to concede",
+   "es": "conceder / admitir",
+   "kind": "chunk",
+   "emoji": "🤝",
+   "say": "kon-síid"
+  },
+  {
+   "id": "u93.to-emphasize",
+   "en": "to emphasize",
+   "es": "enfatizar",
+   "kind": "chunk",
+   "emoji": "❗",
+   "say": "ém-fa-saiz"
+  },
+  {
+   "id": "u93.to-highlight",
+   "en": "to highlight",
+   "es": "destacar",
+   "kind": "chunk",
+   "emoji": "🖍️",
+   "say": "jái-lait"
+  },
+  {
+   "id": "u93.to-suggest",
+   "en": "to suggest",
+   "es": "sugerir",
+   "kind": "chunk",
+   "emoji": "💡",
+   "say": "sa-yést"
+  },
+  {
+   "id": "u93.to-imply",
+   "en": "to imply",
+   "es": "dar a entender / insinuar",
+   "kind": "chunk",
+   "emoji": "🫢",
+   "say": "im-plái"
+  },
+  {
+   "id": "u93.to-deny",
+   "en": "to deny",
+   "es": "negar",
+   "kind": "chunk",
+   "emoji": "🙅",
+   "say": "di-nái"
+  },
+  {
+   "id": "u93.to-doubt",
+   "en": "to doubt",
+   "es": "dudar",
+   "kind": "chunk",
+   "emoji": "🤨",
+   "say": "daut"
+  },
+  {
+   "id": "u93.to-tend-to",
+   "en": "to tend to",
+   "es": "tender a",
+   "kind": "chunk",
+   "emoji": "🔁"
+  },
+  {
+   "id": "u93.to-a-large-extent",
+   "en": "to a large extent",
+   "es": "en gran medida",
+   "kind": "chunk",
+   "emoji": "📏"
+  },
+  {
+   "id": "u93.from-my-perspective",
+   "en": "from my perspective",
+   "es": "desde mi perspectiva",
+   "kind": "chunk",
+   "emoji": "👁️"
+  },
+  {
+   "id": "u93.in-my-view",
+   "en": "in my view",
+   "es": "en mi opinión",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u93.to-put-it-simply",
+   "en": "to put it simply",
+   "es": "dicho de forma sencilla",
+   "kind": "chunk",
+   "emoji": "👌"
+  },
+  {
+   "id": "u93.undeniably",
+   "en": "undeniably",
+   "es": "innegablemente",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "an-di-nái-a-bli"
+  },
+  {
+   "id": "u93.to-back-up-a-claim",
+   "en": "to back up",
+   "es": "respaldar (una afirmación)",
+   "kind": "chunk",
+   "emoji": "🛟",
+   "tip": "Aquí con el sentido de: a claim."
+  },
+  {
+   "id": "u93.compelling",
+   "en": "compelling",
+   "es": "convincente",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "kom-pé-ling"
+  },
+  {
+   "id": "u93.flawed",
+   "en": "flawed",
+   "es": "con fallos / defectuoso",
+   "kind": "word",
+   "emoji": "🧱",
+   "say": "flod"
+  },
+  {
+   "id": "u93.valid",
+   "en": "valid",
+   "es": "válido",
+   "kind": "word",
+   "emoji": "✔️",
+   "say": "vá-lid"
+  },
+  {
+   "id": "u93.to-generalize",
+   "en": "to generalize",
+   "es": "generalizar",
+   "kind": "chunk",
+   "emoji": "🌐",
+   "say": "yé-ne-ra-laiz"
+  },
+  {
+   "id": "u93.to-refute",
+   "en": "to refute",
+   "es": "refutar",
+   "kind": "chunk",
+   "emoji": "🚫",
+   "say": "ri-fiút"
+  },
+  {
+   "id": "u93.to-justify",
+   "en": "to justify",
+   "es": "justificar",
+   "kind": "chunk",
+   "emoji": "📝",
+   "say": "yás-ti-fai"
+  },
+  {
+   "id": "u93.to-weigh-up",
+   "en": "to weigh up",
+   "es": "sopesar",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u93.standpoint",
+   "en": "standpoint",
+   "es": "postura",
+   "kind": "word",
+   "emoji": "🧍",
+   "say": "stánd-point"
+  },
+  {
+   "id": "u93.reasonable",
+   "en": "reasonable",
+   "es": "razonable",
+   "kind": "word",
+   "emoji": "🧠",
+   "say": "rí-zo-na-bol"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u93-opinion-c1-l1",
+   "title": "1. to claim, to argue, to assume…",
+   "focus": "listening",
+   "newItems": [
+    "u93.to-claim",
+    "u93.to-argue",
+    "u93.to-assume",
+    "u93.to-acknowledge",
+    "u93.to-concede"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u93.to-claim",
+      "u93.to-argue"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-assume",
+      "u93.to-acknowledge"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-concede"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-claim",
+      "u93.to-argue",
+      "u93.to-assume",
+      "u93.to-acknowledge",
+      "u93.to-concede"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-claim",
+      "u93.to-argue",
+      "u93.to-assume",
+      "u93.to-acknowledge",
+      "u93.to-concede"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-claim",
+      "u93.to-argue",
+      "u93.to-assume",
+      "u93.to-acknowledge",
+      "u93.to-concede"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u93-opinion-c1-l2",
+   "title": "2. to emphasize, to highlight, to suggest…",
+   "focus": "grammar",
+   "newItems": [
+    "u93.to-emphasize",
+    "u93.to-highlight",
+    "u93.to-suggest",
+    "u93.to-imply",
+    "u93.to-deny"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u93.to-emphasize",
+      "u93.to-highlight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-suggest",
+      "u93.to-imply"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-deny"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-emphasize",
+      "u93.to-highlight",
+      "u93.to-suggest",
+      "u93.to-imply",
+      "u93.to-deny"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-emphasize",
+      "u93.to-highlight",
+      "u93.to-suggest",
+      "u93.to-imply",
+      "u93.to-deny"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-emphasize",
+      "u93.to-highlight",
+      "u93.to-suggest",
+      "u93.to-imply",
+      "u93.to-deny"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-claim",
+      "u93.to-argue",
+      "u93.to-assume",
+      "u93.to-acknowledge",
+      "u93.to-concede"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Matizar: no todo es blanco o negro",
+     "intro": "El inglés culto evita afirmar de forma tajante; matiza.",
+     "examples": [
+      {
+       "en": "This is true. → This could be argued to be true.",
+       "es": "Esto podría argumentarse que es cierto.",
+       "mark": [
+        "could be argued"
+       ]
+      },
+      {
+       "en": "People are selfish. → People tend to be selfish.",
+       "es": "La gente tiende a ser egoísta.",
+       "mark": [
+        "tend to"
+       ]
+      },
+      {
+       "en": "It will fail. → It's unlikely to succeed.",
+       "es": "Es poco probable que tenga éxito.",
+       "mark": [
+        "unlikely"
+       ]
+      },
+      {
+       "en": "He is wrong. → His argument seems flawed.",
+       "es": "Su argumento parece tener fallos.",
+       "mark": [
+        "flawed"
+       ]
+      }
+     ],
+     "question": "En un ensayo serio, en vez de 'People are lazy' es mejor escribir…",
+     "options": [
+      "People tend to be lazy",
+      "People are always lazy",
+      "People is lazy"
+     ],
+     "answer": 0,
+     "rule": "El registro académico matiza en vez de afirmar de forma absoluta: tend to (tiende a), it could be argued (podría argumentarse), to some extent (en cierta medida), likely/unlikely (probable/poco probable). Eso suena más preciso y creíble.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u93-opinion-c1-l3",
+   "title": "3. to doubt, to tend to, to a large extent…",
+   "focus": "reading",
+   "newItems": [
+    "u93.to-doubt",
+    "u93.to-tend-to",
+    "u93.to-a-large-extent",
+    "u93.from-my-perspective",
+    "u93.in-my-view"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u93.to-doubt",
+      "u93.to-tend-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-a-large-extent",
+      "u93.from-my-perspective"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.in-my-view"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-doubt",
+      "u93.to-tend-to",
+      "u93.to-a-large-extent",
+      "u93.from-my-perspective",
+      "u93.in-my-view"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-doubt",
+      "u93.to-tend-to",
+      "u93.to-a-large-extent",
+      "u93.from-my-perspective",
+      "u93.in-my-view"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-doubt",
+      "u93.to-tend-to",
+      "u93.to-a-large-extent",
+      "u93.from-my-perspective",
+      "u93.in-my-view"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-concede",
+      "u93.to-emphasize",
+      "u93.to-highlight",
+      "u93.to-suggest",
+      "u93.to-imply",
+      "u93.to-deny"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u93-opinion-c1-l4",
+   "title": "4. to put it simply, undeniably, to back up…",
+   "focus": "listening",
+   "newItems": [
+    "u93.to-put-it-simply",
+    "u93.undeniably",
+    "u93.to-back-up-a-claim",
+    "u93.compelling",
+    "u93.flawed"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u93.to-put-it-simply",
+      "u93.undeniably"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-back-up-a-claim",
+      "u93.compelling"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.flawed"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-put-it-simply",
+      "u93.undeniably",
+      "u93.to-back-up-a-claim",
+      "u93.compelling",
+      "u93.flawed"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-put-it-simply",
+      "u93.undeniably",
+      "u93.to-back-up-a-claim",
+      "u93.compelling",
+      "u93.flawed"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-put-it-simply",
+      "u93.undeniably",
+      "u93.to-back-up-a-claim",
+      "u93.compelling",
+      "u93.flawed"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.to-deny",
+      "u93.to-doubt",
+      "u93.to-tend-to",
+      "u93.to-a-large-extent",
+      "u93.from-my-perspective",
+      "u93.in-my-view"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u93-opinion-c1-l5",
+   "title": "5. valid, to generalize, to refute…",
+   "focus": "listening",
+   "newItems": [
+    "u93.valid",
+    "u93.to-generalize",
+    "u93.to-refute",
+    "u93.to-justify",
+    "u93.to-weigh-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u93.valid",
+      "u93.to-generalize"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-refute",
+      "u93.to-justify"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u93.to-weigh-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.valid",
+      "u93.to-generalize",
+      "u93.to-refute",
+      "u93.to-justify",
+      "u93.to-weigh-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.valid",
+      "u93.to-generalize",
+      "u93.to-refute",
+      "u93.to-justify",
+      "u93.to-weigh-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.valid",
+      "u93.to-generalize",
+      "u93.to-refute",
+      "u93.to-justify",
+      "u93.to-weigh-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.in-my-view",
+      "u93.to-put-it-simply",
+      "u93.undeniably",
+      "u93.to-back-up-a-claim",
+      "u93.compelling",
+      "u93.flawed"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u93-opinion-c1-l6",
+   "title": "6. standpoint, reasonable",
+   "focus": "vocabulary",
+   "newItems": [
+    "u93.standpoint",
+    "u93.reasonable"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u93.standpoint",
+      "u93.reasonable"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.standpoint",
+      "u93.reasonable"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.standpoint",
+      "u93.reasonable"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.standpoint",
+      "u93.reasonable"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u93.flawed",
+      "u93.valid",
+      "u93.to-generalize",
+      "u93.to-refute",
+      "u93.to-justify",
+      "u93.to-weigh-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u93-opinion-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u93.flawed",
+      "u93.valid",
+      "u93.to-generalize",
+      "u93.to-refute",
+      "u93.to-justify",
+      "u93.to-weigh-up",
+      "u93.standpoint",
+      "u93.reasonable"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

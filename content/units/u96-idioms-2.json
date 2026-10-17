@@ -1,0 +1,1059 @@
+{
+ "_generated": true,
+ "id": "u96-idioms-2",
+ "level": "C1",
+ "title": "Expresiones idiomáticas (2)",
+ "emoji": "🗝️",
+ "canDo": "Ya uso expresiones para describir situaciones y personas",
+ "summary": "Más expresiones idiomáticas para hablar de personas, dinero, tiempo y decisiones.",
+ "grammar": [
+  "Expresiones idiomáticas"
+ ],
+ "items": [
+  {
+   "id": "u96.to-be-over-the-moon",
+   "en": "to be over the moon",
+   "es": "estar feliz de la vida",
+   "kind": "chunk",
+   "emoji": "🌝"
+  },
+  {
+   "id": "u96.to-be-down-in-the-dumps",
+   "en": "to be down in the dumps",
+   "es": "estar desanimado",
+   "kind": "chunk",
+   "emoji": "🗑️"
+  },
+  {
+   "id": "u96.to-have-a-lot-on-your-plate",
+   "en": "to have a lot on your plate",
+   "es": "tener mucho encima",
+   "kind": "chunk",
+   "emoji": "🍽️"
+  },
+  {
+   "id": "u96.to-get-something-off-your-chest",
+   "en": "to get something off your chest",
+   "es": "desahogarse",
+   "kind": "chunk",
+   "emoji": "💬"
+  },
+  {
+   "id": "u96.to-keep-your-chin-up",
+   "en": "to keep your chin up",
+   "es": "mantener el ánimo",
+   "kind": "chunk",
+   "emoji": "😤"
+  },
+  {
+   "id": "u96.to-be-a-people-person",
+   "en": "to be a people person",
+   "es": "ser muy sociable",
+   "kind": "chunk",
+   "emoji": "🧑‍🤝‍🧑"
+  },
+  {
+   "id": "u96.to-have-a-soft-spot-for",
+   "en": "to have a soft spot for",
+   "es": "tener debilidad por",
+   "kind": "chunk",
+   "emoji": "💗"
+  },
+  {
+   "id": "u96.to-get-on-someone-s-nerves",
+   "en": "to get on someone's nerves",
+   "es": "sacar de quicio a alguien",
+   "kind": "chunk",
+   "emoji": "😠"
+  },
+  {
+   "id": "u96.to-be-fed-up-with",
+   "en": "to be fed up with",
+   "es": "estar harto de",
+   "kind": "chunk",
+   "emoji": "😮‍💨"
+  },
+  {
+   "id": "u96.to-lose-track-of-time",
+   "en": "to lose track of time",
+   "es": "perder la noción del tiempo",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u96.in-the-nick-of-time",
+   "en": "in the nick of time",
+   "es": "justo a tiempo",
+   "kind": "chunk",
+   "emoji": "⏰"
+  },
+  {
+   "id": "u96.to-put-things-off",
+   "en": "to put things off",
+   "es": "dejar las cosas para después",
+   "kind": "chunk",
+   "emoji": "🛑"
+  },
+  {
+   "id": "u96.to-think-outside-the-box",
+   "en": "to think outside the box",
+   "es": "pensar de forma creativa",
+   "kind": "chunk",
+   "emoji": "📦"
+  },
+  {
+   "id": "u96.to-touch-base",
+   "en": "to touch base",
+   "es": "ponerse en contacto",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u96.to-be-on-the-ball",
+   "en": "to be on the ball",
+   "es": "estar muy atento",
+   "kind": "chunk",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u96.to-get-the-ball-rolling",
+   "en": "to get the ball rolling",
+   "es": "poner algo en marcha",
+   "kind": "chunk",
+   "emoji": "🎳"
+  },
+  {
+   "id": "u96.to-cut-to-the-chase",
+   "en": "to cut to the chase",
+   "es": "ir al grano",
+   "kind": "chunk",
+   "emoji": "🎬"
+  },
+  {
+   "id": "u96.to-read-between-the-lines",
+   "en": "to read between the lines",
+   "es": "leer entre líneas",
+   "kind": "chunk",
+   "emoji": "📖"
+  },
+  {
+   "id": "u96.to-take-something-for-granted",
+   "en": "to take something for granted",
+   "es": "dar algo por sentado",
+   "kind": "chunk",
+   "emoji": "🎁"
+  },
+  {
+   "id": "u96.to-add-fuel-to-the-fire",
+   "en": "to add fuel to the fire",
+   "es": "echar leña al fuego",
+   "kind": "chunk",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u96.to-let-bygones-be-bygones",
+   "en": "to let bygones be bygones",
+   "es": "lo pasado, pasado",
+   "kind": "chunk",
+   "emoji": "🕊️"
+  },
+  {
+   "id": "u96.to-turn-a-blind-eye",
+   "en": "to turn a blind eye",
+   "es": "hacer la vista gorda",
+   "kind": "chunk",
+   "emoji": "🙈"
+  },
+  {
+   "id": "u96.to-go-back-to-the-drawing-board",
+   "en": "to go back to the drawing board",
+   "es": "volver a empezar de cero",
+   "kind": "chunk",
+   "emoji": "📐"
+  },
+  {
+   "id": "u96.to-have-the-upper-hand",
+   "en": "to have the upper hand",
+   "es": "llevar la ventaja",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u96.to-be-a-long-shot",
+   "en": "to be a long shot",
+   "es": "ser poco probable",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u96.to-be-worth-your-while",
+   "en": "to be worth your while",
+   "es": "valer la pena",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u96.to-be-in-a-nutshell",
+   "en": "to be in a nutshell",
+   "es": "en pocas palabras",
+   "kind": "chunk",
+   "emoji": "🥜"
+  },
+  {
+   "id": "u96.to-steal-the-show",
+   "en": "to steal the show",
+   "es": "acaparar la atención",
+   "kind": "chunk",
+   "emoji": "🌟"
+  },
+  {
+   "id": "u96.to-be-a-game-changer",
+   "en": "to be a game changer",
+   "es": "cambiarlo todo",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u96.to-bend-over-backwards",
+   "en": "to bend over backwards",
+   "es": "hacer hasta lo imposible",
+   "kind": "chunk",
+   "emoji": "🤸"
+  },
+  {
+   "id": "u96.to-be-caught-off-guard",
+   "en": "to be caught off guard",
+   "es": "ser tomado por sorpresa",
+   "kind": "chunk",
+   "emoji": "😲"
+  },
+  {
+   "id": "u96.to-have-second-thoughts",
+   "en": "to have second thoughts",
+   "es": "tener dudas",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u96.to-be-on-the-fence-about",
+   "en": "to be on the fence about",
+   "es": "estar indeciso sobre",
+   "kind": "chunk",
+   "emoji": "🪜"
+  },
+  {
+   "id": "u96.to-clear-the-air",
+   "en": "to clear the air",
+   "es": "aclarar las cosas",
+   "kind": "chunk",
+   "emoji": "🌬️"
+  },
+  {
+   "id": "u96.to-be-set-in-stone",
+   "en": "to be set in stone",
+   "es": "estar escrito en piedra / ser definitivo",
+   "kind": "chunk",
+   "emoji": "🪨"
+  },
+  {
+   "id": "u96.to-be-food-for-thought",
+   "en": "to be food for thought",
+   "es": "dar que pensar",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u96.to-call-the-shots",
+   "en": "to call the shots",
+   "es": "llevar la voz cantante / mandar",
+   "kind": "chunk",
+   "emoji": "📣"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u96-idioms-2-l1",
+   "title": "1. to be over the moon, to be down in the dumps, to have a lot on your plate…",
+   "focus": "listening",
+   "newItems": [
+    "u96.to-be-over-the-moon",
+    "u96.to-be-down-in-the-dumps",
+    "u96.to-have-a-lot-on-your-plate",
+    "u96.to-get-something-off-your-chest",
+    "u96.to-keep-your-chin-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-over-the-moon",
+      "u96.to-be-down-in-the-dumps"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-have-a-lot-on-your-plate",
+      "u96.to-get-something-off-your-chest"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-keep-your-chin-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-over-the-moon",
+      "u96.to-be-down-in-the-dumps",
+      "u96.to-have-a-lot-on-your-plate",
+      "u96.to-get-something-off-your-chest",
+      "u96.to-keep-your-chin-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-over-the-moon",
+      "u96.to-be-down-in-the-dumps",
+      "u96.to-have-a-lot-on-your-plate",
+      "u96.to-get-something-off-your-chest",
+      "u96.to-keep-your-chin-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-over-the-moon",
+      "u96.to-be-down-in-the-dumps",
+      "u96.to-have-a-lot-on-your-plate",
+      "u96.to-get-something-off-your-chest",
+      "u96.to-keep-your-chin-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-l2",
+   "title": "2. to be a people person, to have a soft spot for, to get on someone's nerves…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u96.to-be-a-people-person",
+    "u96.to-have-a-soft-spot-for",
+    "u96.to-get-on-someone-s-nerves",
+    "u96.to-be-fed-up-with",
+    "u96.to-lose-track-of-time"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-a-people-person",
+      "u96.to-have-a-soft-spot-for"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-get-on-someone-s-nerves",
+      "u96.to-be-fed-up-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-lose-track-of-time"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-a-people-person",
+      "u96.to-have-a-soft-spot-for",
+      "u96.to-get-on-someone-s-nerves",
+      "u96.to-be-fed-up-with",
+      "u96.to-lose-track-of-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-a-people-person",
+      "u96.to-have-a-soft-spot-for",
+      "u96.to-get-on-someone-s-nerves",
+      "u96.to-be-fed-up-with",
+      "u96.to-lose-track-of-time"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-a-people-person",
+      "u96.to-have-a-soft-spot-for",
+      "u96.to-get-on-someone-s-nerves",
+      "u96.to-be-fed-up-with",
+      "u96.to-lose-track-of-time"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-over-the-moon",
+      "u96.to-be-down-in-the-dumps",
+      "u96.to-have-a-lot-on-your-plate",
+      "u96.to-get-something-off-your-chest",
+      "u96.to-keep-your-chin-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-l3",
+   "title": "3. in the nick of time, to put things off, to think outside the box…",
+   "focus": "reading",
+   "newItems": [
+    "u96.in-the-nick-of-time",
+    "u96.to-put-things-off",
+    "u96.to-think-outside-the-box",
+    "u96.to-touch-base",
+    "u96.to-be-on-the-ball"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.in-the-nick-of-time",
+      "u96.to-put-things-off"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-think-outside-the-box",
+      "u96.to-touch-base"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-on-the-ball"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.in-the-nick-of-time",
+      "u96.to-put-things-off",
+      "u96.to-think-outside-the-box",
+      "u96.to-touch-base",
+      "u96.to-be-on-the-ball"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.in-the-nick-of-time",
+      "u96.to-put-things-off",
+      "u96.to-think-outside-the-box",
+      "u96.to-touch-base",
+      "u96.to-be-on-the-ball"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.in-the-nick-of-time",
+      "u96.to-put-things-off",
+      "u96.to-think-outside-the-box",
+      "u96.to-touch-base",
+      "u96.to-be-on-the-ball"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-keep-your-chin-up",
+      "u96.to-be-a-people-person",
+      "u96.to-have-a-soft-spot-for",
+      "u96.to-get-on-someone-s-nerves",
+      "u96.to-be-fed-up-with",
+      "u96.to-lose-track-of-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-l4",
+   "title": "4. to get the ball rolling, to cut to the chase, to read between the lines…",
+   "focus": "listening",
+   "newItems": [
+    "u96.to-get-the-ball-rolling",
+    "u96.to-cut-to-the-chase",
+    "u96.to-read-between-the-lines",
+    "u96.to-take-something-for-granted",
+    "u96.to-add-fuel-to-the-fire"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.to-get-the-ball-rolling",
+      "u96.to-cut-to-the-chase"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-read-between-the-lines",
+      "u96.to-take-something-for-granted"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-add-fuel-to-the-fire"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-get-the-ball-rolling",
+      "u96.to-cut-to-the-chase",
+      "u96.to-read-between-the-lines",
+      "u96.to-take-something-for-granted",
+      "u96.to-add-fuel-to-the-fire"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-get-the-ball-rolling",
+      "u96.to-cut-to-the-chase",
+      "u96.to-read-between-the-lines",
+      "u96.to-take-something-for-granted",
+      "u96.to-add-fuel-to-the-fire"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-get-the-ball-rolling",
+      "u96.to-cut-to-the-chase",
+      "u96.to-read-between-the-lines",
+      "u96.to-take-something-for-granted",
+      "u96.to-add-fuel-to-the-fire"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-lose-track-of-time",
+      "u96.in-the-nick-of-time",
+      "u96.to-put-things-off",
+      "u96.to-think-outside-the-box",
+      "u96.to-touch-base",
+      "u96.to-be-on-the-ball"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-l5",
+   "title": "5. to let bygones be bygones, to turn a blind eye, to go back to the drawing board…",
+   "focus": "listening",
+   "newItems": [
+    "u96.to-let-bygones-be-bygones",
+    "u96.to-turn-a-blind-eye",
+    "u96.to-go-back-to-the-drawing-board",
+    "u96.to-have-the-upper-hand",
+    "u96.to-be-a-long-shot"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.to-let-bygones-be-bygones",
+      "u96.to-turn-a-blind-eye"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-go-back-to-the-drawing-board",
+      "u96.to-have-the-upper-hand"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-a-long-shot"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-let-bygones-be-bygones",
+      "u96.to-turn-a-blind-eye",
+      "u96.to-go-back-to-the-drawing-board",
+      "u96.to-have-the-upper-hand",
+      "u96.to-be-a-long-shot"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-let-bygones-be-bygones",
+      "u96.to-turn-a-blind-eye",
+      "u96.to-go-back-to-the-drawing-board",
+      "u96.to-have-the-upper-hand",
+      "u96.to-be-a-long-shot"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-let-bygones-be-bygones",
+      "u96.to-turn-a-blind-eye",
+      "u96.to-go-back-to-the-drawing-board",
+      "u96.to-have-the-upper-hand",
+      "u96.to-be-a-long-shot"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-on-the-ball",
+      "u96.to-get-the-ball-rolling",
+      "u96.to-cut-to-the-chase",
+      "u96.to-read-between-the-lines",
+      "u96.to-take-something-for-granted",
+      "u96.to-add-fuel-to-the-fire"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-l6",
+   "title": "6. to be worth your while, to be in a nutshell, to steal the show…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u96.to-be-worth-your-while",
+    "u96.to-be-in-a-nutshell",
+    "u96.to-steal-the-show",
+    "u96.to-be-a-game-changer",
+    "u96.to-bend-over-backwards"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-worth-your-while",
+      "u96.to-be-in-a-nutshell"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-steal-the-show",
+      "u96.to-be-a-game-changer"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-bend-over-backwards"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-worth-your-while",
+      "u96.to-be-in-a-nutshell",
+      "u96.to-steal-the-show",
+      "u96.to-be-a-game-changer",
+      "u96.to-bend-over-backwards"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-worth-your-while",
+      "u96.to-be-in-a-nutshell",
+      "u96.to-steal-the-show",
+      "u96.to-be-a-game-changer",
+      "u96.to-bend-over-backwards"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-worth-your-while",
+      "u96.to-be-in-a-nutshell",
+      "u96.to-steal-the-show",
+      "u96.to-be-a-game-changer",
+      "u96.to-bend-over-backwards"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-add-fuel-to-the-fire",
+      "u96.to-let-bygones-be-bygones",
+      "u96.to-turn-a-blind-eye",
+      "u96.to-go-back-to-the-drawing-board",
+      "u96.to-have-the-upper-hand",
+      "u96.to-be-a-long-shot"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-l7",
+   "title": "7. to be caught off guard, to have second thoughts, to be on the fence about…",
+   "focus": "reading",
+   "newItems": [
+    "u96.to-be-caught-off-guard",
+    "u96.to-have-second-thoughts",
+    "u96.to-be-on-the-fence-about",
+    "u96.to-clear-the-air",
+    "u96.to-be-set-in-stone"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-caught-off-guard",
+      "u96.to-have-second-thoughts"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-on-the-fence-about",
+      "u96.to-clear-the-air"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-set-in-stone"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-caught-off-guard",
+      "u96.to-have-second-thoughts",
+      "u96.to-be-on-the-fence-about",
+      "u96.to-clear-the-air",
+      "u96.to-be-set-in-stone"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-caught-off-guard",
+      "u96.to-have-second-thoughts",
+      "u96.to-be-on-the-fence-about",
+      "u96.to-clear-the-air",
+      "u96.to-be-set-in-stone"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-caught-off-guard",
+      "u96.to-have-second-thoughts",
+      "u96.to-be-on-the-fence-about",
+      "u96.to-clear-the-air",
+      "u96.to-be-set-in-stone"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-a-long-shot",
+      "u96.to-be-worth-your-while",
+      "u96.to-be-in-a-nutshell",
+      "u96.to-steal-the-show",
+      "u96.to-be-a-game-changer",
+      "u96.to-bend-over-backwards"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-l8",
+   "title": "8. to be food for thought, to call the shots",
+   "focus": "listening",
+   "newItems": [
+    "u96.to-be-food-for-thought",
+    "u96.to-call-the-shots"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u96.to-be-food-for-thought",
+      "u96.to-call-the-shots"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-food-for-thought",
+      "u96.to-call-the-shots"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-food-for-thought",
+      "u96.to-call-the-shots"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-be-food-for-thought",
+      "u96.to-call-the-shots"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-bend-over-backwards",
+      "u96.to-be-caught-off-guard",
+      "u96.to-have-second-thoughts",
+      "u96.to-be-on-the-fence-about",
+      "u96.to-clear-the-air",
+      "u96.to-be-set-in-stone"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u96-idioms-2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "A tough week at work",
+     "emoji": "😮‍💨",
+     "paragraphs": [
+      {
+       "en": "This week I had a lot on my plate.",
+       "es": "Esta semana tuve muchísimo encima."
+      },
+      {
+       "en": "I was snowed under and lost track of time.",
+       "es": "Estaba hasta el cuello y perdí la noción del tiempo."
+      },
+      {
+       "en": "My boss kept getting on my nerves.",
+       "es": "Mi jefe no dejaba de sacarme de quicio."
+      },
+      {
+       "en": "But a colleague helped me, and it was a blessing in disguise.",
+       "es": "Pero un colega me ayudó, y no hay mal que por bien no venga."
+      },
+      {
+       "en": "In the end, I finished in the nick of time.",
+       "es": "Al final, terminé justo a tiempo."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Cómo estaba de trabajo?",
+       "options": [
+        "Tranquilo",
+        "Hasta el cuello",
+        "De vacaciones"
+       ],
+       "answer": 1
+      },
+      {
+       "q": "¿Cómo terminó?",
+       "options": [
+        "Tarde",
+        "Justo a tiempo",
+        "No terminó"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u96.to-bend-over-backwards",
+      "u96.to-be-caught-off-guard",
+      "u96.to-have-second-thoughts",
+      "u96.to-be-on-the-fence-about",
+      "u96.to-clear-the-air",
+      "u96.to-be-set-in-stone",
+      "u96.to-be-food-for-thought",
+      "u96.to-call-the-shots"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

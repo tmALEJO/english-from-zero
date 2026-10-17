@@ -1,0 +1,571 @@
+{
+ "_generated": true,
+ "id": "u84-conectores",
+ "level": "C1",
+ "title": "Conectores y discurso",
+ "emoji": "🔗",
+ "canDo": "Ya conecto mis ideas con precisión y naturalidad",
+ "summary": "Los conectores que dan cohesión a un texto o discurso: contraste, causa, consecuencia, adición y énfasis.",
+ "grammar": [
+  "Conectores del discurso"
+ ],
+ "items": [
+  {
+   "id": "u84.whereas",
+   "en": "whereas",
+   "es": "mientras que",
+   "kind": "word",
+   "emoji": "↔️",
+   "say": "uer-áz"
+  },
+  {
+   "id": "u84.despite",
+   "en": "despite",
+   "es": "a pesar de",
+   "kind": "word",
+   "emoji": "🛡️",
+   "say": "des-páit"
+  },
+  {
+   "id": "u84.in-spite-of",
+   "en": "in spite of",
+   "es": "a pesar de",
+   "kind": "chunk",
+   "emoji": "🛡️"
+  },
+  {
+   "id": "u84.nonetheless",
+   "en": "nonetheless",
+   "es": "aun así",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "nan-de-lés"
+  },
+  {
+   "id": "u84.owing-to",
+   "en": "owing to",
+   "es": "debido a",
+   "kind": "chunk",
+   "emoji": "📌"
+  },
+  {
+   "id": "u84.namely",
+   "en": "namely",
+   "es": "es decir / a saber",
+   "kind": "word",
+   "emoji": "👉",
+   "say": "néim-li"
+  },
+  {
+   "id": "u84.overall",
+   "en": "overall",
+   "es": "en general",
+   "kind": "word",
+   "emoji": "🌐",
+   "say": "ó-ver-ol"
+  },
+  {
+   "id": "u84.admittedly",
+   "en": "admittedly",
+   "es": "hay que reconocer que",
+   "kind": "word",
+   "emoji": "🙇",
+   "say": "ad-mí-ted-li"
+  },
+  {
+   "id": "u84.notably",
+   "en": "notably",
+   "es": "en particular",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "nóu-ta-bli"
+  },
+  {
+   "id": "u84.in-fact",
+   "en": "in fact",
+   "es": "de hecho",
+   "kind": "chunk",
+   "emoji": "✔️"
+  },
+  {
+   "id": "u84.indeed",
+   "en": "indeed",
+   "es": "en efecto / ciertamente",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "in-díid"
+  },
+  {
+   "id": "u84.likewise",
+   "en": "likewise",
+   "es": "de igual manera",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "láik-uaiz"
+  },
+  {
+   "id": "u84.similarly",
+   "en": "similarly",
+   "es": "de forma similar",
+   "kind": "word",
+   "emoji": "🪞",
+   "say": "sí-mi-lar-li"
+  },
+  {
+   "id": "u84.beforehand",
+   "en": "beforehand",
+   "es": "de antemano",
+   "kind": "word",
+   "emoji": "⏮️",
+   "say": "bi-fór-jand"
+  },
+  {
+   "id": "u84.afterwards",
+   "en": "afterwards",
+   "es": "después",
+   "kind": "word",
+   "emoji": "⏭️",
+   "say": "áf-ter-uords"
+  },
+  {
+   "id": "u84.ultimately",
+   "en": "ultimately",
+   "es": "en última instancia",
+   "kind": "word",
+   "emoji": "🏁",
+   "say": "ál-ti-mit-li"
+  },
+  {
+   "id": "u84.regardless",
+   "en": "regardless",
+   "es": "sin importar / de todos modos",
+   "kind": "word",
+   "emoji": "🚧",
+   "say": "ri-gárd-les"
+  },
+  {
+   "id": "u84.in-order-to",
+   "en": "in order to",
+   "es": "con el fin de",
+   "kind": "chunk",
+   "emoji": "🎯"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u84-conectores-l1",
+   "title": "1. whereas, despite, in spite of…",
+   "focus": "listening",
+   "newItems": [
+    "u84.whereas",
+    "u84.despite",
+    "u84.in-spite-of",
+    "u84.nonetheless",
+    "u84.owing-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u84.whereas",
+      "u84.despite"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u84.in-spite-of",
+      "u84.nonetheless"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u84.owing-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.whereas",
+      "u84.despite",
+      "u84.in-spite-of",
+      "u84.nonetheless",
+      "u84.owing-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.whereas",
+      "u84.despite",
+      "u84.in-spite-of",
+      "u84.nonetheless",
+      "u84.owing-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.whereas",
+      "u84.despite",
+      "u84.in-spite-of",
+      "u84.nonetheless",
+      "u84.owing-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u84-conectores-l2",
+   "title": "2. namely, overall, admittedly…",
+   "focus": "grammar",
+   "newItems": [
+    "u84.namely",
+    "u84.overall",
+    "u84.admittedly",
+    "u84.notably",
+    "u84.in-fact"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u84.namely",
+      "u84.overall"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u84.admittedly",
+      "u84.notably"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u84.in-fact"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.namely",
+      "u84.overall",
+      "u84.admittedly",
+      "u84.notably",
+      "u84.in-fact"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.namely",
+      "u84.overall",
+      "u84.admittedly",
+      "u84.notably",
+      "u84.in-fact"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.namely",
+      "u84.overall",
+      "u84.admittedly",
+      "u84.notably",
+      "u84.in-fact"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.whereas",
+      "u84.despite",
+      "u84.in-spite-of",
+      "u84.nonetheless",
+      "u84.owing-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Contraste: although vs. despite",
+     "intro": "Las dos dan contraste, pero se construyen distinto.",
+     "examples": [
+      {
+       "en": "Although it was expensive, we bought it.",
+       "es": "Aunque era caro, lo compramos.",
+       "mark": [
+        "Although"
+       ]
+      },
+      {
+       "en": "Despite the price, we bought it.",
+       "es": "A pesar del precio, lo compramos.",
+       "mark": [
+        "Despite"
+       ]
+      },
+      {
+       "en": "Although she was tired, she kept working.",
+       "es": "Aunque estaba cansada, siguió trabajando.",
+       "mark": [
+        "Although"
+       ]
+      },
+      {
+       "en": "Despite being tired, she kept working.",
+       "es": "A pesar de estar cansada, siguió trabajando.",
+       "mark": [
+        "Despite"
+       ]
+      }
+     ],
+     "question": "Después de 'despite' va…",
+     "options": [
+      "una oración (sujeto + verbo)",
+      "un sustantivo o un verbo en -ing",
+      "siempre 'that'"
+     ],
+     "answer": 1,
+     "rule": "although / even though van seguidos de una ORACIÓN (sujeto + verbo). despite / in spite of van seguidos de un SUSTANTIVO o un verbo en -ing: 'despite the rain', 'despite being late'.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u84-conectores-l3",
+   "title": "3. indeed, likewise, similarly…",
+   "focus": "reading",
+   "newItems": [
+    "u84.indeed",
+    "u84.likewise",
+    "u84.similarly",
+    "u84.beforehand",
+    "u84.afterwards"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u84.indeed",
+      "u84.likewise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u84.similarly",
+      "u84.beforehand"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u84.afterwards"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.indeed",
+      "u84.likewise",
+      "u84.similarly",
+      "u84.beforehand",
+      "u84.afterwards"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.indeed",
+      "u84.likewise",
+      "u84.similarly",
+      "u84.beforehand",
+      "u84.afterwards"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.indeed",
+      "u84.likewise",
+      "u84.similarly",
+      "u84.beforehand",
+      "u84.afterwards"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.owing-to",
+      "u84.namely",
+      "u84.overall",
+      "u84.admittedly",
+      "u84.notably",
+      "u84.in-fact"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u84-conectores-l4",
+   "title": "4. ultimately, regardless, in order to",
+   "focus": "listening",
+   "newItems": [
+    "u84.ultimately",
+    "u84.regardless",
+    "u84.in-order-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u84.ultimately",
+      "u84.regardless"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u84.in-order-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.ultimately",
+      "u84.regardless",
+      "u84.in-order-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.ultimately",
+      "u84.regardless",
+      "u84.in-order-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.ultimately",
+      "u84.regardless",
+      "u84.in-order-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u84.in-fact",
+      "u84.indeed",
+      "u84.likewise",
+      "u84.similarly",
+      "u84.beforehand",
+      "u84.afterwards"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u84-conectores-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u84.indeed",
+      "u84.likewise",
+      "u84.similarly",
+      "u84.beforehand",
+      "u84.afterwards",
+      "u84.ultimately",
+      "u84.regardless",
+      "u84.in-order-to"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

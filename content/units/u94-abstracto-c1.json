@@ -1,0 +1,990 @@
+{
+ "_generated": true,
+ "id": "u94-abstracto-c1",
+ "level": "C1",
+ "title": "Ideas abstractas",
+ "emoji": "💡",
+ "canDo": "Ya manejo vocabulario abstracto para temas complejos",
+ "summary": "Sustantivos y verbos abstractos que aparecen en textos serios, ensayos y conversaciones profundas.",
+ "grammar": [
+  "Vocabulario abstracto"
+ ],
+ "items": [
+  {
+   "id": "u94.concept",
+   "en": "concept",
+   "es": "concepto",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "kón-sept"
+  },
+  {
+   "id": "u94.issue",
+   "en": "issue",
+   "es": "asunto / problema",
+   "kind": "word",
+   "emoji": "📌",
+   "say": "í-shu"
+  },
+  {
+   "id": "u94.aspect",
+   "en": "aspect",
+   "es": "aspecto",
+   "kind": "word",
+   "emoji": "🔲",
+   "say": "ás-pekt"
+  },
+  {
+   "id": "u94.factor",
+   "en": "factor",
+   "es": "factor",
+   "kind": "word",
+   "emoji": "🎚️",
+   "say": "fák-tor"
+  },
+  {
+   "id": "u94.approach",
+   "en": "approach",
+   "es": "enfoque",
+   "kind": "word",
+   "emoji": "🧭",
+   "say": "a-próuch"
+  },
+  {
+   "id": "u94.perspective",
+   "en": "perspective",
+   "es": "perspectiva",
+   "kind": "word",
+   "emoji": "👓",
+   "say": "per-spék-tiv"
+  },
+  {
+   "id": "u94.context",
+   "en": "context",
+   "es": "contexto",
+   "kind": "word",
+   "emoji": "🗺️",
+   "say": "kón-tekst"
+  },
+  {
+   "id": "u94.purpose",
+   "en": "purpose",
+   "es": "propósito",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "pér-pos"
+  },
+  {
+   "id": "u94.outcome",
+   "en": "outcome",
+   "es": "resultado",
+   "kind": "word",
+   "emoji": "🏁",
+   "say": "áut-kam"
+  },
+  {
+   "id": "u94.tendency",
+   "en": "tendency",
+   "es": "tendencia",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "tén-den-si"
+  },
+  {
+   "id": "u94.principle",
+   "en": "principle",
+   "es": "principio",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "prín-si-pol"
+  },
+  {
+   "id": "u94.contradiction",
+   "en": "contradiction",
+   "es": "contradicción",
+   "kind": "word",
+   "emoji": "♻️",
+   "say": "kon-tra-dík-shon"
+  },
+  {
+   "id": "u94.distinction",
+   "en": "distinction",
+   "es": "distinción",
+   "kind": "word",
+   "emoji": "🔀",
+   "say": "dis-tínk-shon"
+  },
+  {
+   "id": "u94.implication",
+   "en": "implication",
+   "es": "implicación",
+   "kind": "word",
+   "emoji": "🔗",
+   "say": "im-pli-kéi-shon"
+  },
+  {
+   "id": "u94.significance",
+   "en": "significance",
+   "es": "relevancia / importancia",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "sig-ní-fi-kans"
+  },
+  {
+   "id": "u94.scope",
+   "en": "scope",
+   "es": "alcance / ámbito",
+   "kind": "word",
+   "emoji": "🔭",
+   "say": "skoup"
+  },
+  {
+   "id": "u94.extent",
+   "en": "extent",
+   "es": "medida / grado",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "eks-tént"
+  },
+  {
+   "id": "u94.notion",
+   "en": "notion",
+   "es": "noción",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "nóu-shon"
+  },
+  {
+   "id": "u94.insight",
+   "en": "insight",
+   "es": "perspicacia / visión",
+   "kind": "word",
+   "emoji": "🔍",
+   "say": "ín-sait"
+  },
+  {
+   "id": "u94.awareness",
+   "en": "awareness",
+   "es": "conciencia / conocimiento",
+   "kind": "word",
+   "emoji": "👁️",
+   "say": "a-uér-nes"
+  },
+  {
+   "id": "u94.to-grasp",
+   "en": "to grasp",
+   "es": "captar / entender",
+   "kind": "chunk",
+   "emoji": "🤲",
+   "say": "grasp"
+  },
+  {
+   "id": "u94.to-perceive",
+   "en": "to perceive",
+   "es": "percibir",
+   "kind": "chunk",
+   "emoji": "👀",
+   "say": "per-síiv"
+  },
+  {
+   "id": "u94.to-distinguish",
+   "en": "to distinguish",
+   "es": "distinguir",
+   "kind": "chunk",
+   "emoji": "🔀",
+   "say": "dis-tín-guish"
+  },
+  {
+   "id": "u94.to-reflect",
+   "en": "to reflect",
+   "es": "reflexionar / reflejar",
+   "kind": "chunk",
+   "emoji": "🪞",
+   "say": "ri-flékt"
+  },
+  {
+   "id": "u94.to-evaluate",
+   "en": "to evaluate",
+   "es": "evaluar",
+   "kind": "chunk",
+   "emoji": "⚖️",
+   "say": "i-vá-liu-eit"
+  },
+  {
+   "id": "u94.to-contribute",
+   "en": "to contribute",
+   "es": "contribuir",
+   "kind": "chunk",
+   "emoji": "🤝",
+   "say": "kon-trí-biut"
+  },
+  {
+   "id": "u94.to-enhance",
+   "en": "to enhance",
+   "es": "mejorar / potenciar",
+   "kind": "chunk",
+   "emoji": "⬆️",
+   "say": "en-jáns"
+  },
+  {
+   "id": "u94.to-undermine",
+   "en": "to undermine",
+   "es": "socavar / debilitar",
+   "kind": "chunk",
+   "emoji": "🪓",
+   "say": "an-der-máin"
+  },
+  {
+   "id": "u94.to-emerge",
+   "en": "to emerge",
+   "es": "surgir",
+   "kind": "chunk",
+   "emoji": "🌅",
+   "say": "i-mérch"
+  },
+  {
+   "id": "u94.to-shape",
+   "en": "to shape",
+   "es": "moldear / dar forma",
+   "kind": "chunk",
+   "emoji": "🧱",
+   "say": "sheip"
+  },
+  {
+   "id": "u94.inherent",
+   "en": "inherent",
+   "es": "inherente",
+   "kind": "word",
+   "emoji": "🧬",
+   "say": "in-jí-rent"
+  },
+  {
+   "id": "u94.complex",
+   "en": "complex",
+   "es": "complejo",
+   "kind": "word",
+   "emoji": "🕸️",
+   "say": "kóm-pleks"
+  },
+  {
+   "id": "u94.subtle",
+   "en": "subtle",
+   "es": "sutil",
+   "kind": "word",
+   "emoji": "🪶",
+   "say": "sá-tol"
+  },
+  {
+   "id": "u94.profound",
+   "en": "profound",
+   "es": "profundo",
+   "kind": "word",
+   "emoji": "🌊",
+   "say": "pro-fáund"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u94-abstracto-c1-l1",
+   "title": "1. concept, issue, aspect…",
+   "focus": "listening",
+   "newItems": [
+    "u94.concept",
+    "u94.issue",
+    "u94.aspect",
+    "u94.factor",
+    "u94.approach"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u94.concept",
+      "u94.issue"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.aspect",
+      "u94.factor"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.approach"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.concept",
+      "u94.issue",
+      "u94.aspect",
+      "u94.factor",
+      "u94.approach"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.concept",
+      "u94.issue",
+      "u94.aspect",
+      "u94.factor",
+      "u94.approach"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.concept",
+      "u94.issue",
+      "u94.aspect",
+      "u94.factor",
+      "u94.approach"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u94-abstracto-c1-l2",
+   "title": "2. perspective, context, purpose…",
+   "focus": "grammar",
+   "newItems": [
+    "u94.perspective",
+    "u94.context",
+    "u94.purpose",
+    "u94.outcome",
+    "u94.tendency"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u94.perspective",
+      "u94.context"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.purpose",
+      "u94.outcome"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.tendency"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.perspective",
+      "u94.context",
+      "u94.purpose",
+      "u94.outcome",
+      "u94.tendency"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.perspective",
+      "u94.context",
+      "u94.purpose",
+      "u94.outcome",
+      "u94.tendency"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.perspective",
+      "u94.context",
+      "u94.purpose",
+      "u94.outcome",
+      "u94.tendency"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.concept",
+      "u94.issue",
+      "u94.aspect",
+      "u94.factor",
+      "u94.approach"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Verbos abstractos de análisis",
+     "intro": "Estos verbos aparecen mucho en textos serios.",
+     "examples": [
+      {
+       "en": "It's hard to grasp such a complex idea.",
+       "es": "Es difícil captar una idea tan compleja.",
+       "mark": [
+        "grasp"
+       ]
+      },
+      {
+       "en": "We need to assess the risks.",
+       "es": "Necesitamos evaluar los riesgos.",
+       "mark": [
+        "assess"
+       ]
+      },
+      {
+       "en": "This decision could undermine trust.",
+       "es": "Esta decisión podría socavar la confianza.",
+       "mark": [
+        "undermine"
+       ]
+      },
+      {
+       "en": "Education shapes our values.",
+       "es": "La educación moldea nuestros valores.",
+       "mark": [
+        "shapes"
+       ]
+      }
+     ],
+     "question": "'To undermine' significa…",
+     "options": [
+      "reforzar",
+      "debilitar / socavar",
+      "ignorar"
+     ],
+     "answer": 1,
+     "rule": "Vocabulario abstracto clave: grasp (captar), assess/evaluate (evaluar), enhance (potenciar), undermine (socavar), shape (moldear), emerge (surgir). Son el pan de cada día de los textos académicos y de opinión.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u94-abstracto-c1-l3",
+   "title": "3. principle, contradiction, distinction…",
+   "focus": "reading",
+   "newItems": [
+    "u94.principle",
+    "u94.contradiction",
+    "u94.distinction",
+    "u94.implication",
+    "u94.significance"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u94.principle",
+      "u94.contradiction"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.distinction",
+      "u94.implication"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.significance"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.principle",
+      "u94.contradiction",
+      "u94.distinction",
+      "u94.implication",
+      "u94.significance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.principle",
+      "u94.contradiction",
+      "u94.distinction",
+      "u94.implication",
+      "u94.significance"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.principle",
+      "u94.contradiction",
+      "u94.distinction",
+      "u94.implication",
+      "u94.significance"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.approach",
+      "u94.perspective",
+      "u94.context",
+      "u94.purpose",
+      "u94.outcome",
+      "u94.tendency"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u94-abstracto-c1-l4",
+   "title": "4. scope, extent, notion…",
+   "focus": "listening",
+   "newItems": [
+    "u94.scope",
+    "u94.extent",
+    "u94.notion",
+    "u94.insight",
+    "u94.awareness"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u94.scope",
+      "u94.extent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.notion",
+      "u94.insight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.awareness"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.scope",
+      "u94.extent",
+      "u94.notion",
+      "u94.insight",
+      "u94.awareness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.scope",
+      "u94.extent",
+      "u94.notion",
+      "u94.insight",
+      "u94.awareness"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.scope",
+      "u94.extent",
+      "u94.notion",
+      "u94.insight",
+      "u94.awareness"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.tendency",
+      "u94.principle",
+      "u94.contradiction",
+      "u94.distinction",
+      "u94.implication",
+      "u94.significance"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u94-abstracto-c1-l5",
+   "title": "5. to grasp, to perceive, to distinguish…",
+   "focus": "listening",
+   "newItems": [
+    "u94.to-grasp",
+    "u94.to-perceive",
+    "u94.to-distinguish",
+    "u94.to-reflect",
+    "u94.to-evaluate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u94.to-grasp",
+      "u94.to-perceive"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.to-distinguish",
+      "u94.to-reflect"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.to-evaluate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-grasp",
+      "u94.to-perceive",
+      "u94.to-distinguish",
+      "u94.to-reflect",
+      "u94.to-evaluate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-grasp",
+      "u94.to-perceive",
+      "u94.to-distinguish",
+      "u94.to-reflect",
+      "u94.to-evaluate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-grasp",
+      "u94.to-perceive",
+      "u94.to-distinguish",
+      "u94.to-reflect",
+      "u94.to-evaluate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.significance",
+      "u94.scope",
+      "u94.extent",
+      "u94.notion",
+      "u94.insight",
+      "u94.awareness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u94-abstracto-c1-l6",
+   "title": "6. to contribute, to enhance, to undermine…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u94.to-contribute",
+    "u94.to-enhance",
+    "u94.to-undermine",
+    "u94.to-emerge",
+    "u94.to-shape"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u94.to-contribute",
+      "u94.to-enhance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.to-undermine",
+      "u94.to-emerge"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.to-shape"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-contribute",
+      "u94.to-enhance",
+      "u94.to-undermine",
+      "u94.to-emerge",
+      "u94.to-shape"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-contribute",
+      "u94.to-enhance",
+      "u94.to-undermine",
+      "u94.to-emerge",
+      "u94.to-shape"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-contribute",
+      "u94.to-enhance",
+      "u94.to-undermine",
+      "u94.to-emerge",
+      "u94.to-shape"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.awareness",
+      "u94.to-grasp",
+      "u94.to-perceive",
+      "u94.to-distinguish",
+      "u94.to-reflect",
+      "u94.to-evaluate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u94-abstracto-c1-l7",
+   "title": "7. inherent, complex, subtle…",
+   "focus": "reading",
+   "newItems": [
+    "u94.inherent",
+    "u94.complex",
+    "u94.subtle",
+    "u94.profound"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u94.inherent",
+      "u94.complex"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u94.subtle",
+      "u94.profound"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.inherent",
+      "u94.complex",
+      "u94.subtle",
+      "u94.profound"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.inherent",
+      "u94.complex",
+      "u94.subtle",
+      "u94.profound"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.inherent",
+      "u94.complex",
+      "u94.subtle",
+      "u94.profound"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-evaluate",
+      "u94.to-contribute",
+      "u94.to-enhance",
+      "u94.to-undermine",
+      "u94.to-emerge",
+      "u94.to-shape"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u94-abstracto-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u94.to-enhance",
+      "u94.to-undermine",
+      "u94.to-emerge",
+      "u94.to-shape",
+      "u94.inherent",
+      "u94.complex",
+      "u94.subtle",
+      "u94.profound"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

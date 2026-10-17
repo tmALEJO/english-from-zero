@@ -289,13 +289,6 @@
    "emoji": "😅"
   },
   {
-   "id": "u79.no-offense",
-   "en": "No offense",
-   "es": "Sin ofender",
-   "kind": "chunk",
-   "emoji": "🙏"
-  },
-  {
    "id": "u79.none-taken",
    "en": "None taken",
    "es": "No me ofende",
@@ -1108,14 +1101,14 @@
   },
   {
    "id": "u79-humor-l8",
-   "title": "8. I could have been better, It's just a joke, No offense…",
+   "title": "8. I could have been better, It's just a joke, None taken…",
    "focus": "listening",
    "newItems": [
     "u79.i-could-have-been-better",
     "u79.it-s-just-a-joke",
-    "u79.no-offense",
     "u79.none-taken",
-    "u79.you-re-pulling-my-leg"
+    "u79.you-re-pulling-my-leg",
+    "u79.i-m-just-kidding"
    ],
    "activities": [
     {
@@ -1128,14 +1121,14 @@
     {
      "type": "present",
      "items": [
-      "u79.no-offense",
-      "u79.none-taken"
+      "u79.none-taken",
+      "u79.you-re-pulling-my-leg"
      ]
     },
     {
      "type": "present",
      "items": [
-      "u79.you-re-pulling-my-leg"
+      "u79.i-m-just-kidding"
      ]
     },
     {
@@ -1143,9 +1136,9 @@
      "items": [
       "u79.i-could-have-been-better",
       "u79.it-s-just-a-joke",
-      "u79.no-offense",
       "u79.none-taken",
-      "u79.you-re-pulling-my-leg"
+      "u79.you-re-pulling-my-leg",
+      "u79.i-m-just-kidding"
      ],
      "modes": [
       "read-pick",
@@ -1158,9 +1151,9 @@
      "items": [
       "u79.i-could-have-been-better",
       "u79.it-s-just-a-joke",
-      "u79.no-offense",
       "u79.none-taken",
-      "u79.you-re-pulling-my-leg"
+      "u79.you-re-pulling-my-leg",
+      "u79.i-m-just-kidding"
      ],
      "modes": [
       "dictation",
@@ -1173,9 +1166,9 @@
      "items": [
       "u79.i-could-have-been-better",
       "u79.it-s-just-a-joke",
-      "u79.no-offense",
       "u79.none-taken",
-      "u79.you-re-pulling-my-leg"
+      "u79.you-re-pulling-my-leg",
+      "u79.i-m-just-kidding"
      ],
      "modes": [
       "picture-pick"
@@ -1202,10 +1195,9 @@
   },
   {
    "id": "u79-humor-l9",
-   "title": "9. I'm just kidding, Lighten up!, read the room",
+   "title": "9. Lighten up!, read the room",
    "focus": "listening",
    "newItems": [
-    "u79.i-m-just-kidding",
     "u79.lighten-up",
     "u79.read-the-room"
    ],
@@ -1213,20 +1205,13 @@
     {
      "type": "present",
      "items": [
-      "u79.i-m-just-kidding",
-      "u79.lighten-up"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
+      "u79.lighten-up",
       "u79.read-the-room"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u79.i-m-just-kidding",
       "u79.lighten-up",
       "u79.read-the-room"
      ],
@@ -1234,12 +1219,11 @@
       "read-pick",
       "listen-pick"
      ],
-     "count": 6
+     "count": 4
     },
     {
      "type": "auto",
      "items": [
-      "u79.i-m-just-kidding",
       "u79.lighten-up",
       "u79.read-the-room"
      ],
@@ -1247,12 +1231,11 @@
       "dictation",
       "build"
      ],
-     "count": 3
+     "count": 2
     },
     {
      "type": "auto",
      "items": [
-      "u79.i-m-just-kidding",
       "u79.lighten-up",
       "u79.read-the-room"
      ],
@@ -1267,9 +1250,9 @@
       "u79.not-bad-actually",
       "u79.i-could-have-been-better",
       "u79.it-s-just-a-joke",
-      "u79.no-offense",
       "u79.none-taken",
-      "u79.you-re-pulling-my-leg"
+      "u79.you-re-pulling-my-leg",
+      "u79.i-m-just-kidding"
      ],
      "modes": [
       "read-pick",
@@ -1446,9 +1429,9 @@
     {
      "type": "auto",
      "items": [
+      "u79.not-bad-actually",
       "u79.i-could-have-been-better",
       "u79.it-s-just-a-joke",
-      "u79.no-offense",
       "u79.none-taken",
       "u79.you-re-pulling-my-leg",
       "u79.i-m-just-kidding",

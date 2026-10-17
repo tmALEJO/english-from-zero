@@ -1,0 +1,1087 @@
+{
+ "_generated": true,
+ "id": "u98-adjetivos-c1",
+ "level": "C1",
+ "title": "Adjetivos precisos",
+ "emoji": "🎚️",
+ "canDo": "Ya elijo el adjetivo exacto en vez de uno genérico",
+ "summary": "Adjetivos más precisos para no repetir siempre good, bad, big o nice.",
+ "grammar": [
+  "Adjetivos avanzados"
+ ],
+ "items": [
+  {
+   "id": "u98.outstanding",
+   "en": "outstanding",
+   "es": "sobresaliente",
+   "kind": "word",
+   "emoji": "🏆",
+   "say": "aut-stán-ding"
+  },
+  {
+   "id": "u98.remarkable",
+   "en": "remarkable",
+   "es": "notable / extraordinario",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "ri-már-ka-bol"
+  },
+  {
+   "id": "u98.impressive",
+   "en": "impressive",
+   "es": "impresionante",
+   "kind": "word",
+   "emoji": "😮",
+   "say": "im-pré-siv"
+  },
+  {
+   "id": "u98.exceptional",
+   "en": "exceptional",
+   "es": "excepcional",
+   "kind": "word",
+   "emoji": "💎",
+   "say": "ek-sép-sho-nal"
+  },
+  {
+   "id": "u98.flawless",
+   "en": "flawless",
+   "es": "impecable",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "fló-les"
+  },
+  {
+   "id": "u98.mediocre",
+   "en": "mediocre",
+   "es": "mediocre",
+   "kind": "word",
+   "emoji": "😐",
+   "say": "mi-di-ó-ker"
+  },
+  {
+   "id": "u98.dreadful",
+   "en": "dreadful",
+   "es": "espantoso",
+   "kind": "word",
+   "emoji": "😱",
+   "say": "dréd-ful"
+  },
+  {
+   "id": "u98.appalling",
+   "en": "appalling",
+   "es": "atroz / escandaloso",
+   "kind": "word",
+   "emoji": "😨",
+   "say": "a-pó-ling"
+  },
+  {
+   "id": "u98.tedious",
+   "en": "tedious",
+   "es": "tedioso",
+   "kind": "word",
+   "emoji": "🥱",
+   "say": "tí-di-os"
+  },
+  {
+   "id": "u98.dull",
+   "en": "dull",
+   "es": "soso / aburrido",
+   "kind": "word",
+   "emoji": "😑",
+   "say": "dal"
+  },
+  {
+   "id": "u98.enormous",
+   "en": "enormous",
+   "es": "enorme",
+   "kind": "word",
+   "emoji": "🐘",
+   "say": "i-nór-mos"
+  },
+  {
+   "id": "u98.tiny",
+   "en": "tiny",
+   "es": "diminuto",
+   "kind": "word",
+   "emoji": "🐜",
+   "say": "tái-ni"
+  },
+  {
+   "id": "u98.massive",
+   "en": "massive",
+   "es": "gigantesco",
+   "kind": "word",
+   "emoji": "🗻",
+   "say": "má-siv"
+  },
+  {
+   "id": "u98.vast",
+   "en": "vast",
+   "es": "vasto / inmenso",
+   "kind": "word",
+   "emoji": "🌌",
+   "say": "vast"
+  },
+  {
+   "id": "u98.crucial",
+   "en": "crucial",
+   "es": "crucial",
+   "kind": "word",
+   "emoji": "🔑",
+   "say": "krú-shal"
+  },
+  {
+   "id": "u98.vital",
+   "en": "vital",
+   "es": "vital",
+   "kind": "word",
+   "emoji": "❤️",
+   "say": "vái-tal"
+  },
+  {
+   "id": "u98.scarce",
+   "en": "scarce",
+   "es": "escaso",
+   "kind": "word",
+   "emoji": "🏜️",
+   "say": "skers"
+  },
+  {
+   "id": "u98.abundant",
+   "en": "abundant",
+   "es": "abundante",
+   "kind": "word",
+   "emoji": "🌾",
+   "say": "a-bán-dant"
+  },
+  {
+   "id": "u98.genuine",
+   "en": "genuine",
+   "es": "genuino / auténtico",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "yé-niu-in"
+  },
+  {
+   "id": "u98.deceptive",
+   "en": "deceptive",
+   "es": "engañoso",
+   "kind": "word",
+   "emoji": "🎭",
+   "say": "di-sép-tiv"
+  },
+  {
+   "id": "u98.ambiguous",
+   "en": "ambiguous",
+   "es": "ambiguo",
+   "kind": "word",
+   "emoji": "❓",
+   "say": "am-bí-guos"
+  },
+  {
+   "id": "u98.straightforward",
+   "en": "straightforward",
+   "es": "sencillo / directo",
+   "kind": "word",
+   "emoji": "➡️",
+   "say": "streit-fór-uord"
+  },
+  {
+   "id": "u98.intricate",
+   "en": "intricate",
+   "es": "intrincado / complejo",
+   "kind": "word",
+   "emoji": "🕸️",
+   "say": "ín-tri-kit"
+  },
+  {
+   "id": "u98.versatile",
+   "en": "versatile",
+   "es": "versátil",
+   "kind": "word",
+   "emoji": "🔀",
+   "say": "vér-sa-tail"
+  },
+  {
+   "id": "u98.robust",
+   "en": "robust",
+   "es": "robusto / sólido",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "ro-bást"
+  },
+  {
+   "id": "u98.fragile",
+   "en": "fragile",
+   "es": "frágil",
+   "kind": "word",
+   "emoji": "🪶",
+   "say": "frá-yail"
+  },
+  {
+   "id": "u98.inevitable",
+   "en": "inevitable",
+   "es": "inevitable",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "in-é-vi-ta-bol"
+  },
+  {
+   "id": "u98.feasible",
+   "en": "feasible",
+   "es": "factible / viable",
+   "kind": "word",
+   "emoji": "✅",
+   "say": "fí-si-bol"
+  },
+  {
+   "id": "u98.plausible",
+   "en": "plausible",
+   "es": "verosímil / plausible",
+   "kind": "word",
+   "emoji": "🤔",
+   "say": "pló-si-bol"
+  },
+  {
+   "id": "u98.redundant",
+   "en": "redundant",
+   "es": "redundante / innecesario",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "ri-dán-dant"
+  },
+  {
+   "id": "u98.relevant",
+   "en": "relevant",
+   "es": "pertinente",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "ré-le-vant"
+  },
+  {
+   "id": "u98.irrelevant",
+   "en": "irrelevant",
+   "es": "irrelevante",
+   "kind": "word",
+   "emoji": "🚮",
+   "say": "i-ré-le-vant"
+  },
+  {
+   "id": "u98.contemporary",
+   "en": "contemporary",
+   "es": "contemporáneo",
+   "kind": "word",
+   "emoji": "🕰️",
+   "say": "kon-tém-po-ra-ri"
+  },
+  {
+   "id": "u98.outdated",
+   "en": "outdated",
+   "es": "anticuado / obsoleto",
+   "kind": "word",
+   "emoji": "📼",
+   "say": "aut-déi-ted"
+  },
+  {
+   "id": "u98.widespread",
+   "en": "widespread",
+   "es": "generalizado",
+   "kind": "word",
+   "emoji": "🌐",
+   "say": "uáid-spred"
+  },
+  {
+   "id": "u98.striking",
+   "en": "striking",
+   "es": "llamativo / impactante",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "strái-king"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u98-adjetivos-c1-l1",
+   "title": "1. outstanding, remarkable, impressive…",
+   "focus": "listening",
+   "newItems": [
+    "u98.outstanding",
+    "u98.remarkable",
+    "u98.impressive",
+    "u98.exceptional",
+    "u98.flawless"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.outstanding",
+      "u98.remarkable"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.impressive",
+      "u98.exceptional"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.flawless"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.outstanding",
+      "u98.remarkable",
+      "u98.impressive",
+      "u98.exceptional",
+      "u98.flawless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.outstanding",
+      "u98.remarkable",
+      "u98.impressive",
+      "u98.exceptional",
+      "u98.flawless"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.outstanding",
+      "u98.remarkable",
+      "u98.impressive",
+      "u98.exceptional",
+      "u98.flawless"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-l2",
+   "title": "2. mediocre, dreadful, appalling…",
+   "focus": "grammar",
+   "newItems": [
+    "u98.mediocre",
+    "u98.dreadful",
+    "u98.appalling",
+    "u98.tedious",
+    "u98.dull"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.mediocre",
+      "u98.dreadful"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.appalling",
+      "u98.tedious"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.dull"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.mediocre",
+      "u98.dreadful",
+      "u98.appalling",
+      "u98.tedious",
+      "u98.dull"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.mediocre",
+      "u98.dreadful",
+      "u98.appalling",
+      "u98.tedious",
+      "u98.dull"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.mediocre",
+      "u98.dreadful",
+      "u98.appalling",
+      "u98.tedious",
+      "u98.dull"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.outstanding",
+      "u98.remarkable",
+      "u98.impressive",
+      "u98.exceptional",
+      "u98.flawless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Adjetivos fuertes: no necesitan 'very'",
+     "intro": "Algunos adjetivos ya son fuertes por sí solos.",
+     "examples": [
+      {
+       "en": "very good → outstanding",
+       "es": "sobresaliente",
+       "mark": [
+        "outstanding"
+       ]
+      },
+      {
+       "en": "very bad → dreadful",
+       "es": "espantoso",
+       "mark": [
+        "dreadful"
+       ]
+      },
+      {
+       "en": "very big → enormous",
+       "es": "enorme",
+       "mark": [
+        "enormous"
+       ]
+      },
+      {
+       "en": "very small → tiny",
+       "es": "diminuto",
+       "mark": [
+        "tiny"
+       ]
+      },
+      {
+       "en": "very boring → tedious",
+       "es": "tedioso",
+       "mark": [
+        "tedious"
+       ]
+      }
+     ],
+     "question": "En inglés culto, en vez de 'very good' es mejor usar…",
+     "options": [
+      "an outstanding / remarkable",
+      "a very very good",
+      "a good good"
+     ],
+     "answer": 0,
+     "rule": "Los adjetivos 'fuertes' ya contienen el 'very': outstanding (muy bueno), enormous (muy grande), tiny (muy pequeño), dreadful (muy malo). Con ellos no se usa 'very'; en todo caso 'absolutely': 'absolutely outstanding'.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-l3",
+   "title": "3. enormous, tiny, massive…",
+   "focus": "reading",
+   "newItems": [
+    "u98.enormous",
+    "u98.tiny",
+    "u98.massive",
+    "u98.vast",
+    "u98.crucial"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.enormous",
+      "u98.tiny"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.massive",
+      "u98.vast"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.crucial"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.enormous",
+      "u98.tiny",
+      "u98.massive",
+      "u98.vast",
+      "u98.crucial"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.enormous",
+      "u98.tiny",
+      "u98.massive",
+      "u98.vast",
+      "u98.crucial"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.enormous",
+      "u98.tiny",
+      "u98.massive",
+      "u98.vast",
+      "u98.crucial"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.flawless",
+      "u98.mediocre",
+      "u98.dreadful",
+      "u98.appalling",
+      "u98.tedious",
+      "u98.dull"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-l4",
+   "title": "4. vital, scarce, abundant…",
+   "focus": "listening",
+   "newItems": [
+    "u98.vital",
+    "u98.scarce",
+    "u98.abundant",
+    "u98.genuine",
+    "u98.deceptive"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.vital",
+      "u98.scarce"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.abundant",
+      "u98.genuine"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.deceptive"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.vital",
+      "u98.scarce",
+      "u98.abundant",
+      "u98.genuine",
+      "u98.deceptive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.vital",
+      "u98.scarce",
+      "u98.abundant",
+      "u98.genuine",
+      "u98.deceptive"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.vital",
+      "u98.scarce",
+      "u98.abundant",
+      "u98.genuine",
+      "u98.deceptive"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.dull",
+      "u98.enormous",
+      "u98.tiny",
+      "u98.massive",
+      "u98.vast",
+      "u98.crucial"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-l5",
+   "title": "5. ambiguous, straightforward, intricate…",
+   "focus": "listening",
+   "newItems": [
+    "u98.ambiguous",
+    "u98.straightforward",
+    "u98.intricate",
+    "u98.versatile",
+    "u98.robust"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.ambiguous",
+      "u98.straightforward"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.intricate",
+      "u98.versatile"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.robust"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.ambiguous",
+      "u98.straightforward",
+      "u98.intricate",
+      "u98.versatile",
+      "u98.robust"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.ambiguous",
+      "u98.straightforward",
+      "u98.intricate",
+      "u98.versatile",
+      "u98.robust"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.ambiguous",
+      "u98.straightforward",
+      "u98.intricate",
+      "u98.versatile",
+      "u98.robust"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.crucial",
+      "u98.vital",
+      "u98.scarce",
+      "u98.abundant",
+      "u98.genuine",
+      "u98.deceptive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-l6",
+   "title": "6. fragile, inevitable, feasible…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u98.fragile",
+    "u98.inevitable",
+    "u98.feasible",
+    "u98.plausible",
+    "u98.redundant"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.fragile",
+      "u98.inevitable"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.feasible",
+      "u98.plausible"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.redundant"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.fragile",
+      "u98.inevitable",
+      "u98.feasible",
+      "u98.plausible",
+      "u98.redundant"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.fragile",
+      "u98.inevitable",
+      "u98.feasible",
+      "u98.plausible",
+      "u98.redundant"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.fragile",
+      "u98.inevitable",
+      "u98.feasible",
+      "u98.plausible",
+      "u98.redundant"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.deceptive",
+      "u98.ambiguous",
+      "u98.straightforward",
+      "u98.intricate",
+      "u98.versatile",
+      "u98.robust"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-l7",
+   "title": "7. relevant, irrelevant, contemporary…",
+   "focus": "reading",
+   "newItems": [
+    "u98.relevant",
+    "u98.irrelevant",
+    "u98.contemporary",
+    "u98.outdated",
+    "u98.widespread"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.relevant",
+      "u98.irrelevant"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.contemporary",
+      "u98.outdated"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u98.widespread"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.relevant",
+      "u98.irrelevant",
+      "u98.contemporary",
+      "u98.outdated",
+      "u98.widespread"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.relevant",
+      "u98.irrelevant",
+      "u98.contemporary",
+      "u98.outdated",
+      "u98.widespread"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.relevant",
+      "u98.irrelevant",
+      "u98.contemporary",
+      "u98.outdated",
+      "u98.widespread"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.robust",
+      "u98.fragile",
+      "u98.inevitable",
+      "u98.feasible",
+      "u98.plausible",
+      "u98.redundant"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-l8",
+   "title": "8. striking",
+   "focus": "listening",
+   "newItems": [
+    "u98.striking"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u98.striking"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.striking"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.striking"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.striking"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u98.redundant",
+      "u98.relevant",
+      "u98.irrelevant",
+      "u98.contemporary",
+      "u98.outdated",
+      "u98.widespread"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u98-adjetivos-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u98.plausible",
+      "u98.redundant",
+      "u98.relevant",
+      "u98.irrelevant",
+      "u98.contemporary",
+      "u98.outdated",
+      "u98.widespread",
+      "u98.striking"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,984 @@
+{
+ "_generated": true,
+ "id": "u105-matices-2",
+ "level": "C1",
+ "title": "Matices y precisión",
+ "emoji": "🔬",
+ "canDo": "Ya expreso matices finos de significado",
+ "summary": "Palabras que marcan diferencias finas: grados, frecuencia, certeza y actitud.",
+ "grammar": [
+  "Adverbios y matices"
+ ],
+ "items": [
+  {
+   "id": "u105.barely",
+   "en": "barely",
+   "es": "apenas",
+   "kind": "word",
+   "emoji": "🤏",
+   "say": "bér-li"
+  },
+  {
+   "id": "u105.hardly",
+   "en": "hardly",
+   "es": "casi no",
+   "kind": "word",
+   "emoji": "😣",
+   "say": "járd-li"
+  },
+  {
+   "id": "u105.scarcely",
+   "en": "scarcely",
+   "es": "apenas / casi nunca",
+   "kind": "word",
+   "emoji": "🪶",
+   "say": "skérs-li"
+  },
+  {
+   "id": "u105.merely",
+   "en": "merely",
+   "es": "meramente / solo",
+   "kind": "word",
+   "emoji": "☝️",
+   "say": "mír-li"
+  },
+  {
+   "id": "u105.utterly",
+   "en": "utterly",
+   "es": "completamente",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "á-ter-li"
+  },
+  {
+   "id": "u105.thoroughly",
+   "en": "thoroughly",
+   "es": "a fondo / minuciosamente",
+   "kind": "word",
+   "emoji": "🔍",
+   "say": "zó-rou-li"
+  },
+  {
+   "id": "u105.roughly",
+   "en": "roughly",
+   "es": "aproximadamente",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "ráf-li"
+  },
+  {
+   "id": "u105.precisely",
+   "en": "precisely",
+   "es": "exactamente",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "pri-sáis-li"
+  },
+  {
+   "id": "u105.virtually",
+   "en": "virtually",
+   "es": "prácticamente",
+   "kind": "word",
+   "emoji": "≈",
+   "say": "vír-chu-a-li"
+  },
+  {
+   "id": "u105.somewhat",
+   "en": "somewhat",
+   "es": "algo / un tanto",
+   "kind": "word",
+   "emoji": "〰️",
+   "say": "sám-uot"
+  },
+  {
+   "id": "u105.relatively",
+   "en": "relatively",
+   "es": "relativamente",
+   "kind": "word",
+   "emoji": "⚖️",
+   "say": "ré-la-tiv-li"
+  },
+  {
+   "id": "u105.remarkably",
+   "en": "remarkably",
+   "es": "notablemente",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "ri-már-ka-bli"
+  },
+  {
+   "id": "u105.surprisingly",
+   "en": "surprisingly",
+   "es": "sorprendentemente",
+   "kind": "word",
+   "emoji": "😲",
+   "say": "sur-prái-zing-li"
+  },
+  {
+   "id": "u105.seemingly",
+   "en": "seemingly",
+   "es": "aparentemente",
+   "kind": "word",
+   "emoji": "👀",
+   "say": "síi-ming-li"
+  },
+  {
+   "id": "u105.deliberately",
+   "en": "deliberately",
+   "es": "deliberadamente",
+   "kind": "word",
+   "emoji": "🎯",
+   "say": "di-lí-be-rit-li"
+  },
+  {
+   "id": "u105.inadvertently",
+   "en": "inadvertently",
+   "es": "sin querer",
+   "kind": "word",
+   "emoji": "🙈",
+   "say": "in-ad-vér-tent-li"
+  },
+  {
+   "id": "u105.eventually",
+   "en": "eventually",
+   "es": "finalmente / con el tiempo",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "i-vén-chu-a-li"
+  },
+  {
+   "id": "u105.gradually",
+   "en": "gradually",
+   "es": "gradualmente",
+   "kind": "word",
+   "emoji": "🐢",
+   "say": "grá-yu-a-li"
+  },
+  {
+   "id": "u105.occasionally",
+   "en": "occasionally",
+   "es": "ocasionalmente",
+   "kind": "word",
+   "emoji": "🗓️",
+   "say": "o-kéi-sho-na-li"
+  },
+  {
+   "id": "u105.frequently",
+   "en": "frequently",
+   "es": "frecuentemente",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "frí-kuent-li"
+  },
+  {
+   "id": "u105.seldom",
+   "en": "seldom",
+   "es": "rara vez",
+   "kind": "word",
+   "emoji": "🦉",
+   "say": "sél-dom"
+  },
+  {
+   "id": "u105.constantly",
+   "en": "constantly",
+   "es": "constantemente",
+   "kind": "word",
+   "emoji": "♾️",
+   "say": "kóns-tant-li"
+  },
+  {
+   "id": "u105.instantly",
+   "en": "instantly",
+   "es": "al instante",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "íns-tant-li"
+  },
+  {
+   "id": "u105.promptly",
+   "en": "promptly",
+   "es": "sin demora",
+   "kind": "word",
+   "emoji": "⏱️",
+   "say": "prómpt-li"
+  },
+  {
+   "id": "u105.willingly",
+   "en": "willingly",
+   "es": "de buena gana",
+   "kind": "word",
+   "emoji": "🙋",
+   "say": "uí-ling-li"
+  },
+  {
+   "id": "u105.reluctantly",
+   "en": "reluctantly",
+   "es": "de mala gana",
+   "kind": "word",
+   "emoji": "😒",
+   "say": "ri-lák-tant-li"
+  },
+  {
+   "id": "u105.inevitably",
+   "en": "inevitably",
+   "es": "inevitablemente",
+   "kind": "word",
+   "emoji": "⛓️",
+   "say": "in-é-vi-ta-bli"
+  },
+  {
+   "id": "u105.undoubtedly",
+   "en": "undoubtedly",
+   "es": "sin duda",
+   "kind": "word",
+   "emoji": "💯",
+   "say": "an-dáu-ted-li"
+  },
+  {
+   "id": "u105.presumably",
+   "en": "presumably",
+   "es": "presumiblemente",
+   "kind": "word",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u105.to-some-degree",
+   "en": "to some degree",
+   "es": "hasta cierto punto",
+   "kind": "chunk",
+   "emoji": "📏"
+  },
+  {
+   "id": "u105.by-no-means",
+   "en": "by no means",
+   "es": "de ninguna manera",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u105.for-the-most-part",
+   "en": "for the most part",
+   "es": "en su mayor parte",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u105.more-often-than-not",
+   "en": "more often than not",
+   "es": "la mayoría de las veces",
+   "kind": "chunk",
+   "emoji": "🎲"
+  },
+  {
+   "id": "u105.if-anything",
+   "en": "if anything",
+   "es": "en todo caso",
+   "kind": "chunk",
+   "emoji": "↩️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u105-matices-2-l1",
+   "title": "1. barely, hardly, scarcely…",
+   "focus": "listening",
+   "newItems": [
+    "u105.barely",
+    "u105.hardly",
+    "u105.scarcely",
+    "u105.merely",
+    "u105.utterly"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u105.barely",
+      "u105.hardly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.scarcely",
+      "u105.merely"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.utterly"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.barely",
+      "u105.hardly",
+      "u105.scarcely",
+      "u105.merely",
+      "u105.utterly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.barely",
+      "u105.hardly",
+      "u105.scarcely",
+      "u105.merely",
+      "u105.utterly"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.barely",
+      "u105.hardly",
+      "u105.scarcely",
+      "u105.merely",
+      "u105.utterly"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u105-matices-2-l2",
+   "title": "2. thoroughly, roughly, precisely…",
+   "focus": "grammar",
+   "newItems": [
+    "u105.thoroughly",
+    "u105.roughly",
+    "u105.precisely",
+    "u105.virtually",
+    "u105.somewhat"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u105.thoroughly",
+      "u105.roughly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.precisely",
+      "u105.virtually"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.somewhat"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.thoroughly",
+      "u105.roughly",
+      "u105.precisely",
+      "u105.virtually",
+      "u105.somewhat"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.thoroughly",
+      "u105.roughly",
+      "u105.precisely",
+      "u105.virtually",
+      "u105.somewhat"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.thoroughly",
+      "u105.roughly",
+      "u105.precisely",
+      "u105.virtually",
+      "u105.somewhat"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.barely",
+      "u105.hardly",
+      "u105.scarcely",
+      "u105.merely",
+      "u105.utterly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "hardly / barely: casi no",
+     "intro": "Ojo: estas palabras ya son negativas por sí solas.",
+     "examples": [
+      {
+       "en": "I can hardly hear you.",
+       "es": "Casi no te oigo.",
+       "mark": [
+        "hardly"
+       ]
+      },
+      {
+       "en": "She barely slept last night.",
+       "es": "Apenas durmió anoche.",
+       "mark": [
+        "barely"
+       ]
+      },
+      {
+       "en": "We rarely go out.",
+       "es": "Rara vez salimos.",
+       "mark": [
+        "rarely"
+       ]
+      },
+      {
+       "en": "He seldom complains.",
+       "es": "Pocas veces se queja.",
+       "mark": [
+        "seldom"
+       ]
+      }
+     ],
+     "question": "'I can hardly hear you' significa…",
+     "options": [
+      "te oigo perfecto",
+      "casi no te oigo",
+      "no quiero oírte"
+     ],
+     "answer": 1,
+     "rule": "hardly, barely y scarcely significan 'casi no' y ya son negativas: no se les añade 'not'. 'I can hardly see' = casi no veo. Lo mismo con rarely/seldom (rara vez).",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u105-matices-2-l3",
+   "title": "3. relatively, remarkably, surprisingly…",
+   "focus": "reading",
+   "newItems": [
+    "u105.relatively",
+    "u105.remarkably",
+    "u105.surprisingly",
+    "u105.seemingly",
+    "u105.deliberately"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u105.relatively",
+      "u105.remarkably"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.surprisingly",
+      "u105.seemingly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.deliberately"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.relatively",
+      "u105.remarkably",
+      "u105.surprisingly",
+      "u105.seemingly",
+      "u105.deliberately"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.relatively",
+      "u105.remarkably",
+      "u105.surprisingly",
+      "u105.seemingly",
+      "u105.deliberately"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.relatively",
+      "u105.remarkably",
+      "u105.surprisingly",
+      "u105.seemingly",
+      "u105.deliberately"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.utterly",
+      "u105.thoroughly",
+      "u105.roughly",
+      "u105.precisely",
+      "u105.virtually",
+      "u105.somewhat"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u105-matices-2-l4",
+   "title": "4. inadvertently, eventually, gradually…",
+   "focus": "listening",
+   "newItems": [
+    "u105.inadvertently",
+    "u105.eventually",
+    "u105.gradually",
+    "u105.occasionally",
+    "u105.frequently"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u105.inadvertently",
+      "u105.eventually"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.gradually",
+      "u105.occasionally"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.frequently"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.inadvertently",
+      "u105.eventually",
+      "u105.gradually",
+      "u105.occasionally",
+      "u105.frequently"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.inadvertently",
+      "u105.eventually",
+      "u105.gradually",
+      "u105.occasionally",
+      "u105.frequently"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.inadvertently",
+      "u105.eventually",
+      "u105.gradually",
+      "u105.occasionally",
+      "u105.frequently"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.somewhat",
+      "u105.relatively",
+      "u105.remarkably",
+      "u105.surprisingly",
+      "u105.seemingly",
+      "u105.deliberately"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u105-matices-2-l5",
+   "title": "5. seldom, constantly, instantly…",
+   "focus": "listening",
+   "newItems": [
+    "u105.seldom",
+    "u105.constantly",
+    "u105.instantly",
+    "u105.promptly",
+    "u105.willingly"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u105.seldom",
+      "u105.constantly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.instantly",
+      "u105.promptly"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.willingly"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.seldom",
+      "u105.constantly",
+      "u105.instantly",
+      "u105.promptly",
+      "u105.willingly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.seldom",
+      "u105.constantly",
+      "u105.instantly",
+      "u105.promptly",
+      "u105.willingly"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.seldom",
+      "u105.constantly",
+      "u105.instantly",
+      "u105.promptly",
+      "u105.willingly"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.deliberately",
+      "u105.inadvertently",
+      "u105.eventually",
+      "u105.gradually",
+      "u105.occasionally",
+      "u105.frequently"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u105-matices-2-l6",
+   "title": "6. reluctantly, inevitably, undoubtedly…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u105.reluctantly",
+    "u105.inevitably",
+    "u105.undoubtedly",
+    "u105.presumably",
+    "u105.to-some-degree"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u105.reluctantly",
+      "u105.inevitably"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.undoubtedly",
+      "u105.presumably"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.to-some-degree"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.reluctantly",
+      "u105.inevitably",
+      "u105.undoubtedly",
+      "u105.presumably",
+      "u105.to-some-degree"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.reluctantly",
+      "u105.inevitably",
+      "u105.undoubtedly",
+      "u105.presumably",
+      "u105.to-some-degree"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.reluctantly",
+      "u105.inevitably",
+      "u105.undoubtedly",
+      "u105.presumably",
+      "u105.to-some-degree"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.frequently",
+      "u105.seldom",
+      "u105.constantly",
+      "u105.instantly",
+      "u105.promptly",
+      "u105.willingly"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u105-matices-2-l7",
+   "title": "7. by no means, for the most part, more often than not…",
+   "focus": "reading",
+   "newItems": [
+    "u105.by-no-means",
+    "u105.for-the-most-part",
+    "u105.more-often-than-not",
+    "u105.if-anything"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u105.by-no-means",
+      "u105.for-the-most-part"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u105.more-often-than-not",
+      "u105.if-anything"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.by-no-means",
+      "u105.for-the-most-part",
+      "u105.more-often-than-not",
+      "u105.if-anything"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.by-no-means",
+      "u105.for-the-most-part",
+      "u105.more-often-than-not",
+      "u105.if-anything"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.by-no-means",
+      "u105.for-the-most-part",
+      "u105.more-often-than-not",
+      "u105.if-anything"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u105.willingly",
+      "u105.reluctantly",
+      "u105.inevitably",
+      "u105.undoubtedly",
+      "u105.presumably",
+      "u105.to-some-degree"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u105-matices-2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u105.inevitably",
+      "u105.undoubtedly",
+      "u105.presumably",
+      "u105.to-some-degree",
+      "u105.by-no-means",
+      "u105.for-the-most-part",
+      "u105.more-often-than-not",
+      "u105.if-anything"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

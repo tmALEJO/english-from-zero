@@ -1,0 +1,584 @@
+{
+ "_generated": true,
+ "id": "u81-tecnologia-b2",
+ "level": "B2",
+ "title": "Tecnología y vida digital",
+ "emoji": "💻",
+ "canDo": "Ya puedo hablar de tecnología, internet y privacidad",
+ "summary": "Vocabulario para hablar de dispositivos, internet, redes y los problemas de la vida digital.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u81.account",
+   "en": "account",
+   "es": "cuenta",
+   "kind": "word",
+   "emoji": "👤",
+   "say": "a-káunt"
+  },
+  {
+   "id": "u81.browser",
+   "en": "browser",
+   "es": "navegador",
+   "kind": "word",
+   "emoji": "🌐",
+   "say": "bráu-ser"
+  },
+  {
+   "id": "u81.search-engine",
+   "en": "search engine",
+   "es": "motor de búsqueda",
+   "kind": "chunk",
+   "emoji": "🔎"
+  },
+  {
+   "id": "u81.link",
+   "en": "link",
+   "es": "enlace",
+   "kind": "word",
+   "emoji": "🔗"
+  },
+  {
+   "id": "u81.file",
+   "en": "file",
+   "es": "archivo",
+   "kind": "word",
+   "emoji": "📄",
+   "say": "fáil"
+  },
+  {
+   "id": "u81.folder",
+   "en": "folder",
+   "es": "carpeta",
+   "kind": "word",
+   "emoji": "📁",
+   "say": "fól-der"
+  },
+  {
+   "id": "u81.backup",
+   "en": "backup",
+   "es": "copia de seguridad",
+   "kind": "word",
+   "emoji": "💾",
+   "say": "bák-ap"
+  },
+  {
+   "id": "u81.to-turn-on",
+   "en": "to turn on",
+   "es": "encender",
+   "kind": "chunk",
+   "emoji": "🔛"
+  },
+  {
+   "id": "u81.to-turn-off",
+   "en": "to turn off",
+   "es": "apagar",
+   "kind": "chunk",
+   "emoji": "⭕"
+  },
+  {
+   "id": "u81.to-plug-in",
+   "en": "to plug in",
+   "es": "enchufar",
+   "kind": "chunk",
+   "emoji": "🔌"
+  },
+  {
+   "id": "u81.to-crash",
+   "en": "to crash",
+   "es": "colgarse / caerse (un sistema)",
+   "kind": "chunk",
+   "emoji": "💥"
+  },
+  {
+   "id": "u81.to-freeze",
+   "en": "to freeze",
+   "es": "congelarse (la pantalla)",
+   "kind": "chunk",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u81.glitch",
+   "en": "glitch",
+   "es": "fallo pasajero",
+   "kind": "word",
+   "emoji": "⚠️",
+   "say": "glich"
+  },
+  {
+   "id": "u81.feature",
+   "en": "feature",
+   "es": "función / característica",
+   "kind": "word",
+   "emoji": "✨",
+   "say": "fí-cher"
+  },
+  {
+   "id": "u81.to-share",
+   "en": "to share",
+   "es": "compartir",
+   "kind": "chunk",
+   "emoji": "📤"
+  },
+  {
+   "id": "u81.to-post",
+   "en": "to post",
+   "es": "publicar",
+   "kind": "chunk",
+   "emoji": "📝"
+  },
+  {
+   "id": "u81.to-scroll",
+   "en": "to scroll",
+   "es": "desplazar / deslizar",
+   "kind": "chunk",
+   "emoji": "📜",
+   "say": "skroul"
+  },
+  {
+   "id": "u81.to-hack",
+   "en": "to hack",
+   "es": "hackear",
+   "kind": "chunk",
+   "emoji": "💻"
+  },
+  {
+   "id": "u81.to-back-up",
+   "en": "to back up",
+   "es": "hacer copia de seguridad",
+   "kind": "chunk",
+   "emoji": "💾"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u81-tecnologia-b2-l1",
+   "title": "1. account, browser, search engine…",
+   "focus": "listening",
+   "newItems": [
+    "u81.account",
+    "u81.browser",
+    "u81.search-engine",
+    "u81.link",
+    "u81.file"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u81.account",
+      "u81.browser"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u81.search-engine",
+      "u81.link"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u81.file"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.account",
+      "u81.browser",
+      "u81.search-engine",
+      "u81.link",
+      "u81.file"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.account",
+      "u81.browser",
+      "u81.search-engine",
+      "u81.link",
+      "u81.file"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.account",
+      "u81.browser",
+      "u81.search-engine",
+      "u81.link",
+      "u81.file"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u81-tecnologia-b2-l2",
+   "title": "2. folder, backup, to turn on…",
+   "focus": "grammar",
+   "newItems": [
+    "u81.folder",
+    "u81.backup",
+    "u81.to-turn-on",
+    "u81.to-turn-off",
+    "u81.to-plug-in"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u81.folder",
+      "u81.backup"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u81.to-turn-on",
+      "u81.to-turn-off"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u81.to-plug-in"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.folder",
+      "u81.backup",
+      "u81.to-turn-on",
+      "u81.to-turn-off",
+      "u81.to-plug-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.folder",
+      "u81.backup",
+      "u81.to-turn-on",
+      "u81.to-turn-off",
+      "u81.to-plug-in"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.folder",
+      "u81.backup",
+      "u81.to-turn-on",
+      "u81.to-turn-off",
+      "u81.to-plug-in"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.account",
+      "u81.browser",
+      "u81.search-engine",
+      "u81.link",
+      "u81.file"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Vocabulario: dispositivos vs. acciones",
+     "intro": "Mira qué palabras son cosas y cuáles son acciones.",
+     "examples": [
+      {
+       "en": "My phone is a useful device.",
+       "es": "Mi teléfono es un dispositivo útil.",
+       "mark": [
+        "device"
+       ]
+      },
+      {
+       "en": "Please update the app.",
+       "es": "Por favor actualiza la aplicación.",
+       "mark": [
+        "update"
+       ]
+      },
+      {
+       "en": "I need to charge my battery.",
+       "es": "Necesito cargar mi batería.",
+       "mark": [
+        "charge"
+       ]
+      },
+      {
+       "en": "The screen froze again.",
+       "es": "La pantalla se congeló otra vez.",
+       "mark": [
+        "froze"
+       ]
+      },
+      {
+       "en": "Don't share your password.",
+       "es": "No compartas tu contraseña.",
+       "mark": [
+        "password"
+       ]
+      }
+     ],
+     "question": "¿Cuál de estas es una acción (un verbo)?",
+     "options": [
+      "device",
+      "update",
+      "screen"
+     ],
+     "answer": 1,
+     "rule": "Muchas palabras de tecnología son sustantivos (device, screen, password) y otras son verbos (update, charge, share, download). Fíjate en el contexto para saber cuál es cuál.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u81-tecnologia-b2-l3",
+   "title": "3. to crash, to freeze, glitch…",
+   "focus": "reading",
+   "newItems": [
+    "u81.to-crash",
+    "u81.to-freeze",
+    "u81.glitch",
+    "u81.feature",
+    "u81.to-share"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u81.to-crash",
+      "u81.to-freeze"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u81.glitch",
+      "u81.feature"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u81.to-share"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-crash",
+      "u81.to-freeze",
+      "u81.glitch",
+      "u81.feature",
+      "u81.to-share"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-crash",
+      "u81.to-freeze",
+      "u81.glitch",
+      "u81.feature",
+      "u81.to-share"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-crash",
+      "u81.to-freeze",
+      "u81.glitch",
+      "u81.feature",
+      "u81.to-share"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.file",
+      "u81.folder",
+      "u81.backup",
+      "u81.to-turn-on",
+      "u81.to-turn-off",
+      "u81.to-plug-in"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u81-tecnologia-b2-l4",
+   "title": "4. to post, to scroll, to hack…",
+   "focus": "listening",
+   "newItems": [
+    "u81.to-post",
+    "u81.to-scroll",
+    "u81.to-hack",
+    "u81.to-back-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u81.to-post",
+      "u81.to-scroll"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u81.to-hack",
+      "u81.to-back-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-post",
+      "u81.to-scroll",
+      "u81.to-hack",
+      "u81.to-back-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-post",
+      "u81.to-scroll",
+      "u81.to-hack",
+      "u81.to-back-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-post",
+      "u81.to-scroll",
+      "u81.to-hack",
+      "u81.to-back-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-plug-in",
+      "u81.to-crash",
+      "u81.to-freeze",
+      "u81.glitch",
+      "u81.feature",
+      "u81.to-share"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u81-tecnologia-b2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u81.to-freeze",
+      "u81.glitch",
+      "u81.feature",
+      "u81.to-share",
+      "u81.to-post",
+      "u81.to-scroll",
+      "u81.to-hack",
+      "u81.to-back-up"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

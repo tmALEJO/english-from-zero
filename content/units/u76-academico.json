@@ -169,30 +169,6 @@
    "say": "sám-pol"
   },
   {
-   "id": "u76.variable",
-   "en": "variable",
-   "es": "variable",
-   "kind": "word",
-   "emoji": "🔢",
-   "say": "vé-ri-a-bol"
-  },
-  {
-   "id": "u76.significant",
-   "en": "significant",
-   "es": "significativo",
-   "kind": "word",
-   "emoji": "⭐",
-   "say": "sig-ní-fi-kant"
-  },
-  {
-   "id": "u76.substantial",
-   "en": "substantial",
-   "es": "considerable",
-   "kind": "word",
-   "emoji": "📈",
-   "say": "sabs-tán-shal"
-  },
-  {
    "id": "u76.negligible",
    "en": "negligible",
    "es": "insignificante",
@@ -220,20 +196,6 @@
    "es": "con base en que",
    "kind": "chunk",
    "emoji": "🏛️"
-  },
-  {
-   "id": "u76.with-respect-to",
-   "en": "with respect to",
-   "es": "con respecto a",
-   "kind": "chunk",
-   "emoji": "📌"
-  },
-  {
-   "id": "u76.in-terms-of",
-   "en": "in terms of",
-   "es": "en términos de",
-   "kind": "chunk",
-   "emoji": "⚖️"
   },
   {
    "id": "u76.furthermore",
@@ -326,28 +288,12 @@
    "say": "sáit"
   },
   {
-   "id": "u76.reference",
-   "en": "reference",
-   "es": "referencia",
-   "kind": "word",
-   "emoji": "📚",
-   "say": "ré-frens"
-  },
-  {
    "id": "u76.plagiarism",
    "en": "plagiarism",
    "es": "plagio",
    "kind": "word",
    "emoji": "🚫",
    "say": "pléi-ya-rism"
-  },
-  {
-   "id": "u76.abstract",
-   "en": "abstract",
-   "es": "resumen (de un paper)",
-   "kind": "word",
-   "emoji": "📄",
-   "say": "áb-strakt"
   },
   {
    "id": "u76.peer-reviewed",
@@ -816,44 +762,44 @@
   },
   {
    "id": "u76-academico-l5",
-   "title": "5. variable, significant, substantial…",
+   "title": "5. negligible, consistent with, in accordance with…",
    "focus": "listening",
    "newItems": [
-    "u76.variable",
-    "u76.significant",
-    "u76.substantial",
     "u76.negligible",
-    "u76.consistent-with"
+    "u76.consistent-with",
+    "u76.in-accordance-with",
+    "u76.on-the-grounds-that",
+    "u76.furthermore"
    ],
    "activities": [
     {
      "type": "present",
      "items": [
-      "u76.variable",
-      "u76.significant"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
-      "u76.substantial",
-      "u76.negligible"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
+      "u76.negligible",
       "u76.consistent-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u76.furthermore"
      ]
     },
     {
      "type": "auto",
      "items": [
-      "u76.variable",
-      "u76.significant",
-      "u76.substantial",
       "u76.negligible",
-      "u76.consistent-with"
+      "u76.consistent-with",
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that",
+      "u76.furthermore"
      ],
      "modes": [
       "read-pick",
@@ -864,11 +810,11 @@
     {
      "type": "auto",
      "items": [
-      "u76.variable",
-      "u76.significant",
-      "u76.substantial",
       "u76.negligible",
-      "u76.consistent-with"
+      "u76.consistent-with",
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that",
+      "u76.furthermore"
      ],
      "modes": [
       "dictation",
@@ -879,11 +825,11 @@
     {
      "type": "auto",
      "items": [
-      "u76.variable",
-      "u76.significant",
-      "u76.substantial",
       "u76.negligible",
-      "u76.consistent-with"
+      "u76.consistent-with",
+      "u76.in-accordance-with",
+      "u76.on-the-grounds-that",
+      "u76.furthermore"
      ],
      "modes": [
       "picture-pick"
@@ -910,102 +856,8 @@
   },
   {
    "id": "u76-academico-l6",
-   "title": "6. in accordance with, on the grounds that, with respect to…",
+   "title": "6. consequently, thus, hence…",
    "focus": "vocabulary",
-   "newItems": [
-    "u76.in-accordance-with",
-    "u76.on-the-grounds-that",
-    "u76.with-respect-to",
-    "u76.in-terms-of",
-    "u76.furthermore"
-   ],
-   "activities": [
-    {
-     "type": "present",
-     "items": [
-      "u76.in-accordance-with",
-      "u76.on-the-grounds-that"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
-      "u76.with-respect-to",
-      "u76.in-terms-of"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
-      "u76.furthermore"
-     ]
-    },
-    {
-     "type": "auto",
-     "items": [
-      "u76.in-accordance-with",
-      "u76.on-the-grounds-that",
-      "u76.with-respect-to",
-      "u76.in-terms-of",
-      "u76.furthermore"
-     ],
-     "modes": [
-      "read-pick",
-      "listen-pick"
-     ],
-     "count": 10
-    },
-    {
-     "type": "auto",
-     "items": [
-      "u76.in-accordance-with",
-      "u76.on-the-grounds-that",
-      "u76.with-respect-to",
-      "u76.in-terms-of",
-      "u76.furthermore"
-     ],
-     "modes": [
-      "dictation",
-      "build"
-     ],
-     "count": 5
-    },
-    {
-     "type": "auto",
-     "items": [
-      "u76.in-accordance-with",
-      "u76.on-the-grounds-that",
-      "u76.with-respect-to",
-      "u76.in-terms-of",
-      "u76.furthermore"
-     ],
-     "modes": [
-      "picture-pick"
-     ],
-     "count": 2
-    },
-    {
-     "type": "auto",
-     "items": [
-      "u76.sample",
-      "u76.variable",
-      "u76.significant",
-      "u76.substantial",
-      "u76.negligible",
-      "u76.consistent-with"
-     ],
-     "modes": [
-      "read-pick",
-      "listen-pick"
-     ],
-     "count": 3
-    }
-   ]
-  },
-  {
-   "id": "u76-academico-l7",
-   "title": "7. consequently, thus, hence…",
-   "focus": "reading",
    "newItems": [
     "u76.consequently",
     "u76.thus",
@@ -1081,11 +933,11 @@
     {
      "type": "auto",
      "items": [
+      "u76.sample",
+      "u76.negligible",
       "u76.consistent-with",
       "u76.in-accordance-with",
       "u76.on-the-grounds-that",
-      "u76.with-respect-to",
-      "u76.in-terms-of",
       "u76.furthermore"
      ],
      "modes": [
@@ -1134,9 +986,9 @@
    ]
   },
   {
-   "id": "u76-academico-l8",
-   "title": "8. to summarize, it is worth noting, it appears that…",
-   "focus": "listening",
+   "id": "u76-academico-l7",
+   "title": "7. to summarize, it is worth noting, it appears that…",
+   "focus": "reading",
    "newItems": [
     "u76.to-summarize",
     "u76.it-is-worth-noting",
@@ -1228,14 +1080,12 @@
    ]
   },
   {
-   "id": "u76-academico-l9",
-   "title": "9. cite, reference, plagiarism…",
+   "id": "u76-academico-l8",
+   "title": "8. cite, plagiarism, peer-reviewed",
    "focus": "listening",
    "newItems": [
     "u76.cite",
-    "u76.reference",
     "u76.plagiarism",
-    "u76.abstract",
     "u76.peer-reviewed"
    ],
    "activities": [
@@ -1243,14 +1093,7 @@
      "type": "present",
      "items": [
       "u76.cite",
-      "u76.reference"
-     ]
-    },
-    {
-     "type": "present",
-     "items": [
-      "u76.plagiarism",
-      "u76.abstract"
+      "u76.plagiarism"
      ]
     },
     {
@@ -1263,39 +1106,33 @@
      "type": "auto",
      "items": [
       "u76.cite",
-      "u76.reference",
       "u76.plagiarism",
-      "u76.abstract",
       "u76.peer-reviewed"
      ],
      "modes": [
       "read-pick",
       "listen-pick"
      ],
-     "count": 10
+     "count": 6
     },
     {
      "type": "auto",
      "items": [
       "u76.cite",
-      "u76.reference",
       "u76.plagiarism",
-      "u76.abstract",
       "u76.peer-reviewed"
      ],
      "modes": [
       "dictation",
       "build"
      ],
-     "count": 5
+     "count": 3
     },
     {
      "type": "auto",
      "items": [
       "u76.cite",
-      "u76.reference",
       "u76.plagiarism",
-      "u76.abstract",
       "u76.peer-reviewed"
      ],
      "modes": [
@@ -1485,13 +1322,13 @@
     {
      "type": "auto",
      "items": [
+      "u76.to-summarize",
+      "u76.it-is-worth-noting",
       "u76.it-appears-that",
       "u76.it-could-be-argued",
       "u76.this-suggests-that",
       "u76.cite",
-      "u76.reference",
       "u76.plagiarism",
-      "u76.abstract",
       "u76.peer-reviewed"
      ],
      "modes": [

@@ -1,0 +1,952 @@
+{
+ "_generated": true,
+ "id": "u87-formacion",
+ "level": "C1",
+ "title": "Formación de palabras",
+ "emoji": "🧬",
+ "canDo": "Ya deduzco y formo palabras con prefijos y sufijos",
+ "summary": "Prefijos y sufijos que cambian el significado o la categoría de una palabra, y familias de palabras.",
+ "grammar": [
+  "Formación de palabras"
+ ],
+ "items": [
+  {
+   "id": "u87.prefix",
+   "en": "prefix",
+   "es": "prefijo",
+   "kind": "word",
+   "emoji": "🔤",
+   "say": "prí-fiks"
+  },
+  {
+   "id": "u87.suffix",
+   "en": "suffix",
+   "es": "sufijo",
+   "kind": "word",
+   "emoji": "🔡",
+   "say": "sá-fiks"
+  },
+  {
+   "id": "u87.meaning",
+   "en": "meaning",
+   "es": "significado",
+   "kind": "word",
+   "emoji": "💭",
+   "say": "mí-ning"
+  },
+  {
+   "id": "u87.opposite",
+   "en": "opposite",
+   "es": "opuesto / contrario",
+   "kind": "word",
+   "emoji": "↔️",
+   "say": "ó-po-sit"
+  },
+  {
+   "id": "u87.unhappy",
+   "en": "unhappy",
+   "es": "infeliz",
+   "kind": "word",
+   "emoji": "🙁"
+  },
+  {
+   "id": "u87.impossible",
+   "en": "impossible",
+   "es": "imposible",
+   "kind": "word",
+   "emoji": "🚫",
+   "say": "im-pó-si-bol"
+  },
+  {
+   "id": "u87.irregular",
+   "en": "irregular",
+   "es": "irregular",
+   "kind": "word",
+   "emoji": "〰️"
+  },
+  {
+   "id": "u87.disagree",
+   "en": "disagree",
+   "es": "estar en desacuerdo",
+   "kind": "word",
+   "emoji": "🙅"
+  },
+  {
+   "id": "u87.misunderstand",
+   "en": "misunderstand",
+   "es": "malentender",
+   "kind": "word",
+   "emoji": "😕",
+   "say": "mis-an-der-stánd"
+  },
+  {
+   "id": "u87.overestimate",
+   "en": "overestimate",
+   "es": "sobreestimar",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "ó-ver-és-ti-meit"
+  },
+  {
+   "id": "u87.underestimate",
+   "en": "underestimate",
+   "es": "subestimar",
+   "kind": "word",
+   "emoji": "📉",
+   "say": "an-der-és-ti-meit"
+  },
+  {
+   "id": "u87.rethink",
+   "en": "rethink",
+   "es": "replantear",
+   "kind": "word",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u87.preview",
+   "en": "preview",
+   "es": "vista previa",
+   "kind": "word",
+   "emoji": "👀"
+  },
+  {
+   "id": "u87.rebuild",
+   "en": "rebuild",
+   "es": "reconstruir",
+   "kind": "word",
+   "emoji": "🏗️"
+  },
+  {
+   "id": "u87.careless",
+   "en": "careless",
+   "es": "descuidado",
+   "kind": "word",
+   "emoji": "🤷",
+   "say": "kér-les"
+  },
+  {
+   "id": "u87.careful",
+   "en": "careful",
+   "es": "cuidadoso",
+   "kind": "word",
+   "emoji": "⚠️"
+  },
+  {
+   "id": "u87.hopeless",
+   "en": "hopeless",
+   "es": "sin esperanza",
+   "kind": "word",
+   "emoji": "😔"
+  },
+  {
+   "id": "u87.powerful",
+   "en": "powerful",
+   "es": "poderoso",
+   "kind": "word",
+   "emoji": "💪"
+  },
+  {
+   "id": "u87.powerless",
+   "en": "powerless",
+   "es": "impotente / sin poder",
+   "kind": "word",
+   "emoji": "😩"
+  },
+  {
+   "id": "u87.happiness",
+   "en": "happiness",
+   "es": "felicidad",
+   "kind": "word",
+   "emoji": "😊",
+   "say": "já-pi-nes"
+  },
+  {
+   "id": "u87.weakness",
+   "en": "weakness",
+   "es": "debilidad",
+   "kind": "word",
+   "emoji": "🪶",
+   "say": "uík-nes"
+  },
+  {
+   "id": "u87.improvement",
+   "en": "improvement",
+   "es": "mejora",
+   "kind": "word",
+   "emoji": "📈",
+   "say": "im-prúv-ment"
+  },
+  {
+   "id": "u87.to-strengthen",
+   "en": "to strengthen",
+   "es": "fortalecer",
+   "kind": "chunk",
+   "emoji": "💪",
+   "say": "stréng-zen"
+  },
+  {
+   "id": "u87.to-widen",
+   "en": "to widen",
+   "es": "ampliar",
+   "kind": "chunk",
+   "emoji": "↔️",
+   "say": "uái-den"
+  },
+  {
+   "id": "u87.to-shorten",
+   "en": "to shorten",
+   "es": "acortar",
+   "kind": "chunk",
+   "emoji": "✂️"
+  },
+  {
+   "id": "u87.to-simplify",
+   "en": "to simplify",
+   "es": "simplificar",
+   "kind": "chunk",
+   "emoji": "🧼",
+   "say": "sím-pli-fai"
+  },
+  {
+   "id": "u87.to-clarify",
+   "en": "to clarify",
+   "es": "aclarar",
+   "kind": "chunk",
+   "emoji": "💡",
+   "say": "klá-ri-fai"
+  },
+  {
+   "id": "u87.creative",
+   "en": "creative",
+   "es": "creativo",
+   "kind": "word",
+   "emoji": "🎨",
+   "say": "kri-éi-tiv"
+  },
+  {
+   "id": "u87.creativity",
+   "en": "creativity",
+   "es": "creatividad",
+   "kind": "word",
+   "emoji": "💡",
+   "say": "kri-ei-tí-vi-ti"
+  },
+  {
+   "id": "u87.responsible",
+   "en": "responsible",
+   "es": "responsable",
+   "kind": "word",
+   "emoji": "🫡"
+  },
+  {
+   "id": "u87.responsibility",
+   "en": "responsibility",
+   "es": "responsabilidad",
+   "kind": "word",
+   "emoji": "📋"
+  },
+  {
+   "id": "u87.reliability",
+   "en": "reliability",
+   "es": "fiabilidad",
+   "kind": "word",
+   "emoji": "🛡️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u87-formacion-l1",
+   "title": "1. prefix, suffix, meaning…",
+   "focus": "listening",
+   "newItems": [
+    "u87.prefix",
+    "u87.suffix",
+    "u87.meaning",
+    "u87.opposite",
+    "u87.unhappy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u87.prefix",
+      "u87.suffix"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.meaning",
+      "u87.opposite"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.unhappy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.prefix",
+      "u87.suffix",
+      "u87.meaning",
+      "u87.opposite",
+      "u87.unhappy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.prefix",
+      "u87.suffix",
+      "u87.meaning",
+      "u87.opposite",
+      "u87.unhappy"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.prefix",
+      "u87.suffix",
+      "u87.meaning",
+      "u87.opposite",
+      "u87.unhappy"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u87-formacion-l2",
+   "title": "2. impossible, irregular, disagree…",
+   "focus": "grammar",
+   "newItems": [
+    "u87.impossible",
+    "u87.irregular",
+    "u87.disagree",
+    "u87.misunderstand",
+    "u87.overestimate"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u87.impossible",
+      "u87.irregular"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.disagree",
+      "u87.misunderstand"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.overestimate"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.impossible",
+      "u87.irregular",
+      "u87.disagree",
+      "u87.misunderstand",
+      "u87.overestimate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.impossible",
+      "u87.irregular",
+      "u87.disagree",
+      "u87.misunderstand",
+      "u87.overestimate"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.impossible",
+      "u87.irregular",
+      "u87.disagree",
+      "u87.misunderstand",
+      "u87.overestimate"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.prefix",
+      "u87.suffix",
+      "u87.meaning",
+      "u87.opposite",
+      "u87.unhappy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Prefijos que significan 'no'",
+     "intro": "Fíjate cómo cambia el significado al añadir el prefijo.",
+     "examples": [
+      {
+       "en": "happy → unhappy",
+       "es": "feliz → infeliz",
+       "mark": [
+        "unhappy"
+       ]
+      },
+      {
+       "en": "possible → impossible",
+       "es": "posible → imposible",
+       "mark": [
+        "impossible"
+       ]
+      },
+      {
+       "en": "legal → illegal",
+       "es": "legal → ilegal",
+       "mark": [
+        "illegal"
+       ]
+      },
+      {
+       "en": "regular → irregular",
+       "es": "regular → irregular",
+       "mark": [
+        "irregular"
+       ]
+      },
+      {
+       "en": "agree → disagree",
+       "es": "estar de acuerdo → estar en desacuerdo",
+       "mark": [
+        "disagree"
+       ]
+      }
+     ],
+     "question": "Los prefijos un-, im-, il-, ir-, dis- suelen significar…",
+     "options": [
+      "más",
+      "lo contrario / 'no'",
+      "otra vez"
+     ],
+     "answer": 1,
+     "rule": "Varios prefijos vuelven negativa una palabra: un-, in-/im-/il-/ir-, dis-. La elección depende de la palabra (impossible, illegal, irregular). Otros cambian el sentido: re- (otra vez), over- (de más), under- (de menos), mis- (mal).",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u87-formacion-l3",
+   "title": "3. underestimate, rethink, preview…",
+   "focus": "reading",
+   "newItems": [
+    "u87.underestimate",
+    "u87.rethink",
+    "u87.preview",
+    "u87.rebuild",
+    "u87.careless"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u87.underestimate",
+      "u87.rethink"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.preview",
+      "u87.rebuild"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.careless"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.underestimate",
+      "u87.rethink",
+      "u87.preview",
+      "u87.rebuild",
+      "u87.careless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.underestimate",
+      "u87.rethink",
+      "u87.preview",
+      "u87.rebuild",
+      "u87.careless"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.underestimate",
+      "u87.rethink",
+      "u87.preview",
+      "u87.rebuild",
+      "u87.careless"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.unhappy",
+      "u87.impossible",
+      "u87.irregular",
+      "u87.disagree",
+      "u87.misunderstand",
+      "u87.overestimate"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u87-formacion-l4",
+   "title": "4. careful, hopeless, powerful…",
+   "focus": "listening",
+   "newItems": [
+    "u87.careful",
+    "u87.hopeless",
+    "u87.powerful",
+    "u87.powerless",
+    "u87.happiness"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u87.careful",
+      "u87.hopeless"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.powerful",
+      "u87.powerless"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.happiness"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.careful",
+      "u87.hopeless",
+      "u87.powerful",
+      "u87.powerless",
+      "u87.happiness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.careful",
+      "u87.hopeless",
+      "u87.powerful",
+      "u87.powerless",
+      "u87.happiness"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.careful",
+      "u87.hopeless",
+      "u87.powerful",
+      "u87.powerless",
+      "u87.happiness"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.overestimate",
+      "u87.underestimate",
+      "u87.rethink",
+      "u87.preview",
+      "u87.rebuild",
+      "u87.careless"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u87-formacion-l5",
+   "title": "5. weakness, improvement, to strengthen…",
+   "focus": "listening",
+   "newItems": [
+    "u87.weakness",
+    "u87.improvement",
+    "u87.to-strengthen",
+    "u87.to-widen",
+    "u87.to-shorten"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u87.weakness",
+      "u87.improvement"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.to-strengthen",
+      "u87.to-widen"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.to-shorten"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.weakness",
+      "u87.improvement",
+      "u87.to-strengthen",
+      "u87.to-widen",
+      "u87.to-shorten"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.weakness",
+      "u87.improvement",
+      "u87.to-strengthen",
+      "u87.to-widen",
+      "u87.to-shorten"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.weakness",
+      "u87.improvement",
+      "u87.to-strengthen",
+      "u87.to-widen",
+      "u87.to-shorten"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.careless",
+      "u87.careful",
+      "u87.hopeless",
+      "u87.powerful",
+      "u87.powerless",
+      "u87.happiness"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u87-formacion-l6",
+   "title": "6. to simplify, to clarify, creative…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u87.to-simplify",
+    "u87.to-clarify",
+    "u87.creative",
+    "u87.creativity",
+    "u87.responsible"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u87.to-simplify",
+      "u87.to-clarify"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.creative",
+      "u87.creativity"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u87.responsible"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.to-simplify",
+      "u87.to-clarify",
+      "u87.creative",
+      "u87.creativity",
+      "u87.responsible"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.to-simplify",
+      "u87.to-clarify",
+      "u87.creative",
+      "u87.creativity",
+      "u87.responsible"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.to-simplify",
+      "u87.to-clarify",
+      "u87.creative",
+      "u87.creativity",
+      "u87.responsible"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.happiness",
+      "u87.weakness",
+      "u87.improvement",
+      "u87.to-strengthen",
+      "u87.to-widen",
+      "u87.to-shorten"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u87-formacion-l7",
+   "title": "7. responsibility, reliability",
+   "focus": "reading",
+   "newItems": [
+    "u87.responsibility",
+    "u87.reliability"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u87.responsibility",
+      "u87.reliability"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.responsibility",
+      "u87.reliability"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.responsibility",
+      "u87.reliability"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.responsibility",
+      "u87.reliability"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u87.to-shorten",
+      "u87.to-simplify",
+      "u87.to-clarify",
+      "u87.creative",
+      "u87.creativity",
+      "u87.responsible"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u87-formacion-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u87.to-shorten",
+      "u87.to-simplify",
+      "u87.to-clarify",
+      "u87.creative",
+      "u87.creativity",
+      "u87.responsible",
+      "u87.responsibility",
+      "u87.reliability"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,537 @@
+{
+ "_generated": true,
+ "id": "u88-negocios-c1",
+ "level": "C1",
+ "title": "Negocios y economía",
+ "emoji": "📈",
+ "canDo": "Ya manejo vocabulario de negocios, trabajo y economía",
+ "summary": "Vocabulario para el mundo laboral y económico: empresas, dinero, mercado y negociación.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u88.business",
+   "en": "business",
+   "es": "negocio",
+   "kind": "word",
+   "emoji": "💼",
+   "say": "bís-nes"
+  },
+  {
+   "id": "u88.industry",
+   "en": "industry",
+   "es": "industria / sector",
+   "kind": "word",
+   "emoji": "🏭",
+   "say": "ín-das-tri"
+  },
+  {
+   "id": "u88.expense",
+   "en": "expense",
+   "es": "gasto",
+   "kind": "word",
+   "emoji": "🧾",
+   "say": "eks-péns"
+  },
+  {
+   "id": "u88.to-invest",
+   "en": "to invest",
+   "es": "invertir",
+   "kind": "chunk",
+   "emoji": "🪙"
+  },
+  {
+   "id": "u88.stock",
+   "en": "stock",
+   "es": "acción (bolsa) / existencias",
+   "kind": "word",
+   "emoji": "📈"
+  },
+  {
+   "id": "u88.to-launch",
+   "en": "to launch",
+   "es": "lanzar (un producto)",
+   "kind": "chunk",
+   "emoji": "🚀",
+   "say": "lonch"
+  },
+  {
+   "id": "u88.to-advertise",
+   "en": "to advertise",
+   "es": "anunciar / publicitar",
+   "kind": "chunk",
+   "emoji": "📣",
+   "say": "ád-ver-taiz"
+  },
+  {
+   "id": "u88.to-negotiate",
+   "en": "to negotiate",
+   "es": "negociar",
+   "kind": "chunk",
+   "emoji": "🤝",
+   "say": "ne-góu-shi-eit"
+  },
+  {
+   "id": "u88.to-hire",
+   "en": "to hire",
+   "es": "contratar",
+   "kind": "chunk",
+   "emoji": "🙋"
+  },
+  {
+   "id": "u88.to-fire",
+   "en": "to fire",
+   "es": "despedir",
+   "kind": "chunk",
+   "emoji": "📤"
+  },
+  {
+   "id": "u88.to-resign",
+   "en": "to resign",
+   "es": "renunciar",
+   "kind": "chunk",
+   "emoji": "🚪",
+   "say": "ri-sáin"
+  },
+  {
+   "id": "u88.to-promote",
+   "en": "to promote",
+   "es": "ascender / promocionar",
+   "kind": "chunk",
+   "emoji": "⬆️"
+  },
+  {
+   "id": "u88.to-outsource",
+   "en": "to outsource",
+   "es": "subcontratar",
+   "kind": "chunk",
+   "emoji": "🌐",
+   "say": "áut-sors"
+  },
+  {
+   "id": "u88.to-expand",
+   "en": "to expand",
+   "es": "expandirse",
+   "kind": "chunk",
+   "emoji": "🌍"
+  },
+  {
+   "id": "u88.merger",
+   "en": "merger",
+   "es": "fusión (de empresas)",
+   "kind": "word",
+   "emoji": "🔗",
+   "say": "mér-yer"
+  },
+  {
+   "id": "u88.to-break-even",
+   "en": "to break even",
+   "es": "cubrir gastos / sin pérdida ni ganancia",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u88-negocios-c1-l1",
+   "title": "1. business, industry, expense…",
+   "focus": "listening",
+   "newItems": [
+    "u88.business",
+    "u88.industry",
+    "u88.expense",
+    "u88.to-invest",
+    "u88.stock"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u88.business",
+      "u88.industry"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u88.expense",
+      "u88.to-invest"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u88.stock"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.business",
+      "u88.industry",
+      "u88.expense",
+      "u88.to-invest",
+      "u88.stock"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.business",
+      "u88.industry",
+      "u88.expense",
+      "u88.to-invest",
+      "u88.stock"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.business",
+      "u88.industry",
+      "u88.expense",
+      "u88.to-invest",
+      "u88.stock"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u88-negocios-c1-l2",
+   "title": "2. to launch, to advertise, to negotiate…",
+   "focus": "grammar",
+   "newItems": [
+    "u88.to-launch",
+    "u88.to-advertise",
+    "u88.to-negotiate",
+    "u88.to-hire",
+    "u88.to-fire"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u88.to-launch",
+      "u88.to-advertise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u88.to-negotiate",
+      "u88.to-hire"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u88.to-fire"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-launch",
+      "u88.to-advertise",
+      "u88.to-negotiate",
+      "u88.to-hire",
+      "u88.to-fire"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-launch",
+      "u88.to-advertise",
+      "u88.to-negotiate",
+      "u88.to-hire",
+      "u88.to-fire"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-launch",
+      "u88.to-advertise",
+      "u88.to-negotiate",
+      "u88.to-hire",
+      "u88.to-fire"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.business",
+      "u88.industry",
+      "u88.expense",
+      "u88.to-invest",
+      "u88.stock"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "profit vs. revenue",
+     "intro": "En negocios estas palabras no son lo mismo.",
+     "examples": [
+      {
+       "en": "The company's revenue grew last year.",
+       "es": "Los ingresos de la empresa crecieron el año pasado.",
+       "mark": [
+        "revenue"
+       ]
+      },
+      {
+       "en": "After expenses, the profit was small.",
+       "es": "Después de los gastos, la ganancia fue pequeña.",
+       "mark": [
+        "profit"
+       ]
+      },
+      {
+       "en": "High revenue doesn't always mean high profit.",
+       "es": "Ingresos altos no siempre significan ganancia alta.",
+       "mark": [
+        "revenue"
+       ]
+      },
+      {
+       "en": "They need to cut expenses to increase profit.",
+       "es": "Necesitan reducir gastos para aumentar la ganancia.",
+       "mark": [
+        "profit"
+       ]
+      }
+     ],
+     "question": "La 'ganancia' (profit) es…",
+     "options": [
+      "todo el dinero que entra",
+      "lo que queda después de restar los gastos",
+      "lo mismo que los ingresos"
+     ],
+     "answer": 1,
+     "rule": "revenue (ingresos) es todo el dinero que entra. profit (ganancia) es lo que queda DESPUÉS de restar los gastos (expenses). Por eso una empresa puede tener ingresos altos y poca ganancia.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u88-negocios-c1-l3",
+   "title": "3. to resign, to promote, to outsource…",
+   "focus": "reading",
+   "newItems": [
+    "u88.to-resign",
+    "u88.to-promote",
+    "u88.to-outsource",
+    "u88.to-expand",
+    "u88.merger"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u88.to-resign",
+      "u88.to-promote"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u88.to-outsource",
+      "u88.to-expand"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u88.merger"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-resign",
+      "u88.to-promote",
+      "u88.to-outsource",
+      "u88.to-expand",
+      "u88.merger"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-resign",
+      "u88.to-promote",
+      "u88.to-outsource",
+      "u88.to-expand",
+      "u88.merger"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-resign",
+      "u88.to-promote",
+      "u88.to-outsource",
+      "u88.to-expand",
+      "u88.merger"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.stock",
+      "u88.to-launch",
+      "u88.to-advertise",
+      "u88.to-negotiate",
+      "u88.to-hire",
+      "u88.to-fire"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u88-negocios-c1-l4",
+   "title": "4. to break even",
+   "focus": "listening",
+   "newItems": [
+    "u88.to-break-even"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u88.to-break-even"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-break-even"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-break-even"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-break-even"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-fire",
+      "u88.to-resign",
+      "u88.to-promote",
+      "u88.to-outsource",
+      "u88.to-expand",
+      "u88.merger"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u88-negocios-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u88.to-hire",
+      "u88.to-fire",
+      "u88.to-resign",
+      "u88.to-promote",
+      "u88.to-outsource",
+      "u88.to-expand",
+      "u88.merger",
+      "u88.to-break-even"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

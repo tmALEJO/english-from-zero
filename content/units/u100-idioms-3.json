@@ -1,0 +1,1056 @@
+{
+ "_generated": true,
+ "id": "u100-idioms-3",
+ "level": "C1",
+ "title": "Expresiones idiomáticas (3)",
+ "emoji": "🧠",
+ "canDo": "Ya reconozco expresiones idiomáticas en conversación real",
+ "summary": "Expresiones frecuentes en películas, series y conversaciones informales de nativos.",
+ "grammar": [
+  "Expresiones idiomáticas"
+ ],
+ "items": [
+  {
+   "id": "u100.to-be-worth-it",
+   "en": "to be worth it",
+   "es": "valer la pena",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u100.no-big-deal",
+   "en": "no big deal",
+   "es": "no es para tanto",
+   "kind": "chunk",
+   "emoji": "🤷"
+  },
+  {
+   "id": "u100.to-make-a-long-story-short",
+   "en": "to make a long story short",
+   "es": "para resumir",
+   "kind": "chunk",
+   "emoji": "⏩"
+  },
+  {
+   "id": "u100.to-be-in-the-loop",
+   "en": "to be in the loop",
+   "es": "estar al tanto",
+   "kind": "chunk",
+   "emoji": "🔄"
+  },
+  {
+   "id": "u100.to-be-out-of-the-loop",
+   "en": "to be out of the loop",
+   "es": "estar desinformado",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u100.to-ring-a-bell",
+   "en": "to ring a bell",
+   "es": "sonarle a uno",
+   "kind": "chunk",
+   "emoji": "🔔"
+  },
+  {
+   "id": "u100.to-get-cold-feet",
+   "en": "to get cold feet",
+   "es": "echarse para atrás",
+   "kind": "chunk",
+   "emoji": "🥶"
+  },
+  {
+   "id": "u100.to-be-a-rip-off",
+   "en": "to be a rip-off",
+   "es": "ser un robo / una estafa",
+   "kind": "chunk",
+   "emoji": "💸"
+  },
+  {
+   "id": "u100.to-be-dirt-cheap",
+   "en": "to be dirt cheap",
+   "es": "ser baratísimo",
+   "kind": "chunk",
+   "emoji": "🪙"
+  },
+  {
+   "id": "u100.to-splurge-on",
+   "en": "to splurge on",
+   "es": "darse el lujo de gastar en",
+   "kind": "chunk",
+   "emoji": "💳"
+  },
+  {
+   "id": "u100.to-be-broke",
+   "en": "to be broke",
+   "es": "estar sin dinero",
+   "kind": "chunk",
+   "emoji": "🫙"
+  },
+  {
+   "id": "u100.to-chip-in",
+   "en": "to chip in",
+   "es": "poner cada uno su parte",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u100.to-be-my-cup-of-tea",
+   "en": "to be my cup of tea",
+   "es": "ser lo mío / de mi agrado",
+   "kind": "chunk",
+   "emoji": "🍵"
+  },
+  {
+   "id": "u100.to-have-a-blast",
+   "en": "to have a blast",
+   "es": "pasarla genial",
+   "kind": "chunk",
+   "emoji": "🎉"
+  },
+  {
+   "id": "u100.to-hang-out",
+   "en": "to hang out",
+   "es": "pasar el rato",
+   "kind": "chunk",
+   "emoji": "🛋️"
+  },
+  {
+   "id": "u100.to-catch-up-with",
+   "en": "to catch up with",
+   "es": "ponerse al día con alguien",
+   "kind": "chunk",
+   "emoji": "☕"
+  },
+  {
+   "id": "u100.to-get-together",
+   "en": "to get together",
+   "es": "reunirse",
+   "kind": "chunk",
+   "emoji": "👫"
+  },
+  {
+   "id": "u100.to-show-up",
+   "en": "to show up",
+   "es": "aparecer / presentarse",
+   "kind": "chunk",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u100.to-back-someone-up",
+   "en": "to back someone up",
+   "es": "respaldar a alguien",
+   "kind": "chunk",
+   "emoji": "🛟"
+  },
+  {
+   "id": "u100.to-stand-someone-up",
+   "en": "to stand someone up",
+   "es": "dejar a alguien plantado",
+   "kind": "chunk",
+   "emoji": "🕒"
+  },
+  {
+   "id": "u100.to-be-fed-up",
+   "en": "to be fed up",
+   "es": "estar harto",
+   "kind": "chunk",
+   "emoji": "😤"
+  },
+  {
+   "id": "u100.to-freak-out",
+   "en": "to freak out",
+   "es": "asustarse / alterarse",
+   "kind": "chunk",
+   "emoji": "😱"
+  },
+  {
+   "id": "u100.to-chill-out",
+   "en": "to chill out",
+   "es": "relajarse",
+   "kind": "chunk",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u100.to-mess-up",
+   "en": "to mess up",
+   "es": "meter la pata",
+   "kind": "chunk",
+   "emoji": "🙊"
+  },
+  {
+   "id": "u100.to-screw-up",
+   "en": "to screw up",
+   "es": "arruinarla",
+   "kind": "chunk",
+   "emoji": "🔩"
+  },
+  {
+   "id": "u100.to-pull-it-off",
+   "en": "to pull it off",
+   "es": "conseguirlo / lograrlo",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u100.to-be-on-the-safe-side",
+   "en": "to be on the safe side",
+   "es": "por si acaso",
+   "kind": "chunk",
+   "emoji": "🛡️"
+  },
+  {
+   "id": "u100.for-the-time-being",
+   "en": "for the time being",
+   "es": "por el momento",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u100.sooner-or-later",
+   "en": "sooner or later",
+   "es": "tarde o temprano",
+   "kind": "chunk",
+   "emoji": "⌛"
+  },
+  {
+   "id": "u100.all-of-a-sudden",
+   "en": "all of a sudden",
+   "es": "de repente",
+   "kind": "chunk",
+   "emoji": "⚡"
+  },
+  {
+   "id": "u100.little-by-little",
+   "en": "little by little",
+   "es": "poco a poco",
+   "kind": "chunk",
+   "emoji": "🐢"
+  },
+  {
+   "id": "u100.no-matter-what",
+   "en": "no matter what",
+   "es": "pase lo que pase",
+   "kind": "chunk",
+   "emoji": "💪"
+  },
+  {
+   "id": "u100.as-a-matter-of-fact",
+   "en": "as a matter of fact",
+   "es": "de hecho",
+   "kind": "chunk",
+   "emoji": "✔️"
+  },
+  {
+   "id": "u100.to-make-up-your-mind",
+   "en": "to make up your mind",
+   "es": "decidirse",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u100.to-keep-your-word",
+   "en": "to keep your word",
+   "es": "cumplir tu palabra",
+   "kind": "chunk",
+   "emoji": "🤞"
+  },
+  {
+   "id": "u100.to-be-on-cloud-nine",
+   "en": "to be on cloud nine",
+   "es": "estar en las nubes (de feliz)",
+   "kind": "chunk",
+   "emoji": "☁️"
+  },
+  {
+   "id": "u100.to-kill-time",
+   "en": "to kill time",
+   "es": "matar el tiempo",
+   "kind": "chunk",
+   "emoji": "⏰"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u100-idioms-3-l1",
+   "title": "1. to be worth it, no big deal, to make a long story short…",
+   "focus": "listening",
+   "newItems": [
+    "u100.to-be-worth-it",
+    "u100.no-big-deal",
+    "u100.to-make-a-long-story-short",
+    "u100.to-be-in-the-loop",
+    "u100.to-be-out-of-the-loop"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.to-be-worth-it",
+      "u100.no-big-deal"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-make-a-long-story-short",
+      "u100.to-be-in-the-loop"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-be-out-of-the-loop"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-worth-it",
+      "u100.no-big-deal",
+      "u100.to-make-a-long-story-short",
+      "u100.to-be-in-the-loop",
+      "u100.to-be-out-of-the-loop"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-worth-it",
+      "u100.no-big-deal",
+      "u100.to-make-a-long-story-short",
+      "u100.to-be-in-the-loop",
+      "u100.to-be-out-of-the-loop"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-worth-it",
+      "u100.no-big-deal",
+      "u100.to-make-a-long-story-short",
+      "u100.to-be-in-the-loop",
+      "u100.to-be-out-of-the-loop"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-l2",
+   "title": "2. to ring a bell, to get cold feet, to be a rip-off…",
+   "focus": "grammar",
+   "newItems": [
+    "u100.to-ring-a-bell",
+    "u100.to-get-cold-feet",
+    "u100.to-be-a-rip-off",
+    "u100.to-be-dirt-cheap",
+    "u100.to-splurge-on"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.to-ring-a-bell",
+      "u100.to-get-cold-feet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-be-a-rip-off",
+      "u100.to-be-dirt-cheap"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-splurge-on"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-ring-a-bell",
+      "u100.to-get-cold-feet",
+      "u100.to-be-a-rip-off",
+      "u100.to-be-dirt-cheap",
+      "u100.to-splurge-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-ring-a-bell",
+      "u100.to-get-cold-feet",
+      "u100.to-be-a-rip-off",
+      "u100.to-be-dirt-cheap",
+      "u100.to-splurge-on"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-ring-a-bell",
+      "u100.to-get-cold-feet",
+      "u100.to-be-a-rip-off",
+      "u100.to-be-dirt-cheap",
+      "u100.to-splurge-on"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-worth-it",
+      "u100.no-big-deal",
+      "u100.to-make-a-long-story-short",
+      "u100.to-be-in-the-loop",
+      "u100.to-be-out-of-the-loop"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Expresiones informales en conversación",
+     "intro": "Así se oyen en series y charlas reales.",
+     "examples": [
+      {
+       "en": "Don't worry, it's no big deal.",
+       "es": "No te preocupes, no es para tanto.",
+       "mark": [
+        "no big deal"
+       ]
+      },
+      {
+       "en": "I need to chill out this weekend.",
+       "es": "Necesito relajarme este fin de semana.",
+       "mark": [
+        "chill out"
+       ]
+      },
+      {
+       "en": "He stood me up again!",
+       "es": "¡Me dejó plantado otra vez!",
+       "mark": [
+        "stood me up"
+       ]
+      },
+      {
+       "en": "Sorry, I messed up.",
+       "es": "Perdón, metí la pata.",
+       "mark": [
+        "messed up"
+       ]
+      }
+     ],
+     "question": "Si alguien dice 'it's no big deal', quiere decir…",
+     "options": [
+      "es muy importante",
+      "no es para tanto",
+      "es muy grande"
+     ],
+     "answer": 1,
+     "rule": "El inglés informal está lleno de estas expresiones: chill out (relajarse), mess up (meter la pata), no big deal (no es para tanto), hang out (pasar el rato). Entenderlas es clave para seguir conversaciones reales y series.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-l3",
+   "title": "3. to be broke, to chip in, to be my cup of tea…",
+   "focus": "reading",
+   "newItems": [
+    "u100.to-be-broke",
+    "u100.to-chip-in",
+    "u100.to-be-my-cup-of-tea",
+    "u100.to-have-a-blast",
+    "u100.to-hang-out"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.to-be-broke",
+      "u100.to-chip-in"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-be-my-cup-of-tea",
+      "u100.to-have-a-blast"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-hang-out"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-broke",
+      "u100.to-chip-in",
+      "u100.to-be-my-cup-of-tea",
+      "u100.to-have-a-blast",
+      "u100.to-hang-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-broke",
+      "u100.to-chip-in",
+      "u100.to-be-my-cup-of-tea",
+      "u100.to-have-a-blast",
+      "u100.to-hang-out"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-broke",
+      "u100.to-chip-in",
+      "u100.to-be-my-cup-of-tea",
+      "u100.to-have-a-blast",
+      "u100.to-hang-out"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-out-of-the-loop",
+      "u100.to-ring-a-bell",
+      "u100.to-get-cold-feet",
+      "u100.to-be-a-rip-off",
+      "u100.to-be-dirt-cheap",
+      "u100.to-splurge-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-l4",
+   "title": "4. to catch up with, to get together, to show up…",
+   "focus": "listening",
+   "newItems": [
+    "u100.to-catch-up-with",
+    "u100.to-get-together",
+    "u100.to-show-up",
+    "u100.to-back-someone-up",
+    "u100.to-stand-someone-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.to-catch-up-with",
+      "u100.to-get-together"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-show-up",
+      "u100.to-back-someone-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-stand-someone-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-catch-up-with",
+      "u100.to-get-together",
+      "u100.to-show-up",
+      "u100.to-back-someone-up",
+      "u100.to-stand-someone-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-catch-up-with",
+      "u100.to-get-together",
+      "u100.to-show-up",
+      "u100.to-back-someone-up",
+      "u100.to-stand-someone-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-catch-up-with",
+      "u100.to-get-together",
+      "u100.to-show-up",
+      "u100.to-back-someone-up",
+      "u100.to-stand-someone-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-splurge-on",
+      "u100.to-be-broke",
+      "u100.to-chip-in",
+      "u100.to-be-my-cup-of-tea",
+      "u100.to-have-a-blast",
+      "u100.to-hang-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-l5",
+   "title": "5. to be fed up, to freak out, to chill out…",
+   "focus": "listening",
+   "newItems": [
+    "u100.to-be-fed-up",
+    "u100.to-freak-out",
+    "u100.to-chill-out",
+    "u100.to-mess-up",
+    "u100.to-screw-up"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.to-be-fed-up",
+      "u100.to-freak-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-chill-out",
+      "u100.to-mess-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-screw-up"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-fed-up",
+      "u100.to-freak-out",
+      "u100.to-chill-out",
+      "u100.to-mess-up",
+      "u100.to-screw-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-fed-up",
+      "u100.to-freak-out",
+      "u100.to-chill-out",
+      "u100.to-mess-up",
+      "u100.to-screw-up"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-fed-up",
+      "u100.to-freak-out",
+      "u100.to-chill-out",
+      "u100.to-mess-up",
+      "u100.to-screw-up"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-hang-out",
+      "u100.to-catch-up-with",
+      "u100.to-get-together",
+      "u100.to-show-up",
+      "u100.to-back-someone-up",
+      "u100.to-stand-someone-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-l6",
+   "title": "6. to pull it off, to be on the safe side, for the time being…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u100.to-pull-it-off",
+    "u100.to-be-on-the-safe-side",
+    "u100.for-the-time-being",
+    "u100.sooner-or-later",
+    "u100.all-of-a-sudden"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.to-pull-it-off",
+      "u100.to-be-on-the-safe-side"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.for-the-time-being",
+      "u100.sooner-or-later"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.all-of-a-sudden"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-pull-it-off",
+      "u100.to-be-on-the-safe-side",
+      "u100.for-the-time-being",
+      "u100.sooner-or-later",
+      "u100.all-of-a-sudden"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-pull-it-off",
+      "u100.to-be-on-the-safe-side",
+      "u100.for-the-time-being",
+      "u100.sooner-or-later",
+      "u100.all-of-a-sudden"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-pull-it-off",
+      "u100.to-be-on-the-safe-side",
+      "u100.for-the-time-being",
+      "u100.sooner-or-later",
+      "u100.all-of-a-sudden"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-stand-someone-up",
+      "u100.to-be-fed-up",
+      "u100.to-freak-out",
+      "u100.to-chill-out",
+      "u100.to-mess-up",
+      "u100.to-screw-up"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-l7",
+   "title": "7. little by little, no matter what, as a matter of fact…",
+   "focus": "reading",
+   "newItems": [
+    "u100.little-by-little",
+    "u100.no-matter-what",
+    "u100.as-a-matter-of-fact",
+    "u100.to-make-up-your-mind",
+    "u100.to-keep-your-word"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.little-by-little",
+      "u100.no-matter-what"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.as-a-matter-of-fact",
+      "u100.to-make-up-your-mind"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u100.to-keep-your-word"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.little-by-little",
+      "u100.no-matter-what",
+      "u100.as-a-matter-of-fact",
+      "u100.to-make-up-your-mind",
+      "u100.to-keep-your-word"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.little-by-little",
+      "u100.no-matter-what",
+      "u100.as-a-matter-of-fact",
+      "u100.to-make-up-your-mind",
+      "u100.to-keep-your-word"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.little-by-little",
+      "u100.no-matter-what",
+      "u100.as-a-matter-of-fact",
+      "u100.to-make-up-your-mind",
+      "u100.to-keep-your-word"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-screw-up",
+      "u100.to-pull-it-off",
+      "u100.to-be-on-the-safe-side",
+      "u100.for-the-time-being",
+      "u100.sooner-or-later",
+      "u100.all-of-a-sudden"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-l8",
+   "title": "8. to be on cloud nine, to kill time",
+   "focus": "listening",
+   "newItems": [
+    "u100.to-be-on-cloud-nine",
+    "u100.to-kill-time"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u100.to-be-on-cloud-nine",
+      "u100.to-kill-time"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-on-cloud-nine",
+      "u100.to-kill-time"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-on-cloud-nine",
+      "u100.to-kill-time"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.to-be-on-cloud-nine",
+      "u100.to-kill-time"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u100.all-of-a-sudden",
+      "u100.little-by-little",
+      "u100.no-matter-what",
+      "u100.as-a-matter-of-fact",
+      "u100.to-make-up-your-mind",
+      "u100.to-keep-your-word"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u100-idioms-3-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u100.all-of-a-sudden",
+      "u100.little-by-little",
+      "u100.no-matter-what",
+      "u100.as-a-matter-of-fact",
+      "u100.to-make-up-your-mind",
+      "u100.to-keep-your-word",
+      "u100.to-be-on-cloud-nine",
+      "u100.to-kill-time"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

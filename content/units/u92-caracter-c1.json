@@ -1,0 +1,407 @@
+{
+ "_generated": true,
+ "id": "u92-caracter-c1",
+ "level": "C1",
+ "title": "Emociones y carácter",
+ "emoji": "🎭",
+ "canDo": "Ya describo personalidades y emociones con matices",
+ "summary": "Adjetivos y sustantivos para describir el carácter, los estados de ánimo y los matices emocionales.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u92.trait",
+   "en": "trait",
+   "es": "rasgo",
+   "kind": "word",
+   "emoji": "🔖",
+   "say": "treit"
+  },
+  {
+   "id": "u92.reserved",
+   "en": "reserved",
+   "es": "reservado",
+   "kind": "word",
+   "emoji": "🤐",
+   "say": "ri-sérvd"
+  },
+  {
+   "id": "u92.insecure",
+   "en": "insecure",
+   "es": "inseguro",
+   "kind": "word",
+   "emoji": "😟",
+   "say": "in-se-kiúr"
+  },
+  {
+   "id": "u92.cheerful",
+   "en": "cheerful",
+   "es": "alegre",
+   "kind": "word",
+   "emoji": "😄",
+   "say": "chír-ful"
+  },
+  {
+   "id": "u92.anxious",
+   "en": "anxious",
+   "es": "ansioso",
+   "kind": "word",
+   "emoji": "😰",
+   "say": "ánk-shos"
+  },
+  {
+   "id": "u92.to-cope",
+   "en": "to cope",
+   "es": "sobrellevar",
+   "kind": "chunk",
+   "emoji": "🧗",
+   "say": "koup"
+  },
+  {
+   "id": "u92.to-overcome",
+   "en": "to overcome",
+   "es": "superar",
+   "kind": "chunk",
+   "emoji": "🏔️",
+   "say": "ou-ver-kám"
+  },
+  {
+   "id": "u92.to-lose-your-temper",
+   "en": "to lose your temper",
+   "es": "perder los estribos",
+   "kind": "chunk",
+   "emoji": "🤬"
+  },
+  {
+   "id": "u92.to-cheer-up",
+   "en": "to cheer up",
+   "es": "animarse",
+   "kind": "chunk",
+   "emoji": "🙂"
+  },
+  {
+   "id": "u92.resilient",
+   "en": "resilient",
+   "es": "resiliente",
+   "kind": "word",
+   "emoji": "🌱",
+   "say": "ri-sí-lient"
+  },
+  {
+   "id": "u92.to-come-to-terms-with",
+   "en": "to come to terms with",
+   "es": "aceptar / hacerse a la idea de",
+   "kind": "chunk",
+   "emoji": "☮️"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u92-caracter-c1-l1",
+   "title": "1. trait, reserved, insecure…",
+   "focus": "listening",
+   "newItems": [
+    "u92.trait",
+    "u92.reserved",
+    "u92.insecure",
+    "u92.cheerful",
+    "u92.anxious"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u92.trait",
+      "u92.reserved"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u92.insecure",
+      "u92.cheerful"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u92.anxious"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.trait",
+      "u92.reserved",
+      "u92.insecure",
+      "u92.cheerful",
+      "u92.anxious"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.trait",
+      "u92.reserved",
+      "u92.insecure",
+      "u92.cheerful",
+      "u92.anxious"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.trait",
+      "u92.reserved",
+      "u92.insecure",
+      "u92.cheerful",
+      "u92.anxious"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u92-caracter-c1-l2",
+   "title": "2. to cope, to overcome, to lose your temper…",
+   "focus": "grammar",
+   "newItems": [
+    "u92.to-cope",
+    "u92.to-overcome",
+    "u92.to-lose-your-temper",
+    "u92.to-cheer-up",
+    "u92.resilient"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u92.to-cope",
+      "u92.to-overcome"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u92.to-lose-your-temper",
+      "u92.to-cheer-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u92.resilient"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.to-cope",
+      "u92.to-overcome",
+      "u92.to-lose-your-temper",
+      "u92.to-cheer-up",
+      "u92.resilient"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.to-cope",
+      "u92.to-overcome",
+      "u92.to-lose-your-temper",
+      "u92.to-cheer-up",
+      "u92.resilient"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.to-cope",
+      "u92.to-overcome",
+      "u92.to-lose-your-temper",
+      "u92.to-cheer-up",
+      "u92.resilient"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.trait",
+      "u92.reserved",
+      "u92.insecure",
+      "u92.cheerful",
+      "u92.anxious"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "sensible vs. sensitive (falsos amigos)",
+     "intro": "Se parecen al español pero no significan lo mismo.",
+     "examples": [
+      {
+       "en": "She made a sensible decision.",
+       "es": "Tomó una decisión sensata.",
+       "mark": [
+        "sensible"
+       ]
+      },
+      {
+       "en": "He is very sensitive to criticism.",
+       "es": "Es muy sensible a las críticas.",
+       "mark": [
+        "sensitive"
+       ]
+      },
+      {
+       "en": "Be sensible with your money.",
+       "es": "Sé sensato con tu dinero.",
+       "mark": [
+        "sensible"
+       ]
+      },
+      {
+       "en": "It's a sensitive topic.",
+       "es": "Es un tema delicado.",
+       "mark": [
+        "sensitive"
+       ]
+      }
+     ],
+     "question": "'Sensible' en inglés significa…",
+     "options": [
+      "sensible/emotivo",
+      "sensato / con buen juicio",
+      "sensorial"
+     ],
+     "answer": 1,
+     "rule": "Cuidado con los falsos amigos: sensible = sensato (con buen juicio), NO 'sensible'. Para 'sensible' (que se emociona) se usa sensitive. Pasa parecido con 'actually' (en realidad, no 'actualmente').",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u92-caracter-c1-l3",
+   "title": "3. to come to terms with",
+   "focus": "reading",
+   "newItems": [
+    "u92.to-come-to-terms-with"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u92.to-come-to-terms-with"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.to-come-to-terms-with"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.to-come-to-terms-with"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.to-come-to-terms-with"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u92.anxious",
+      "u92.to-cope",
+      "u92.to-overcome",
+      "u92.to-lose-your-temper",
+      "u92.to-cheer-up",
+      "u92.resilient"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u92-caracter-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u92.cheerful",
+      "u92.anxious",
+      "u92.to-cope",
+      "u92.to-overcome",
+      "u92.to-lose-your-temper",
+      "u92.to-cheer-up",
+      "u92.resilient",
+      "u92.to-come-to-terms-with"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

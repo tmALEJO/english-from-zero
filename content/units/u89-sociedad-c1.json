@@ -1,0 +1,540 @@
+{
+ "_generated": true,
+ "id": "u89-sociedad-c1",
+ "level": "C1",
+ "title": "Política y sociedad",
+ "emoji": "🏛️",
+ "canDo": "Ya puedo hablar de política, sociedad y actualidad",
+ "summary": "Vocabulario para entender y discutir temas sociales, políticos y de actualidad.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u89.to-vote",
+   "en": "to vote",
+   "es": "votar",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u89.voter",
+   "en": "voter",
+   "es": "votante",
+   "kind": "word",
+   "emoji": "🙋",
+   "say": "vóu-ter"
+  },
+  {
+   "id": "u89.citizen",
+   "en": "citizen",
+   "es": "ciudadano",
+   "kind": "word",
+   "emoji": "👤",
+   "say": "sí-ti-zen"
+  },
+  {
+   "id": "u89.to-pass-a-law",
+   "en": "to pass a law",
+   "es": "aprobar una ley",
+   "kind": "chunk",
+   "emoji": "✍️"
+  },
+  {
+   "id": "u89.to-ban",
+   "en": "to ban",
+   "es": "prohibir",
+   "kind": "chunk",
+   "emoji": "🚫",
+   "say": "ban"
+  },
+  {
+   "id": "u89.to-protest",
+   "en": "to protest",
+   "es": "protestar",
+   "kind": "chunk",
+   "emoji": "✊",
+   "say": "pro-tést"
+  },
+  {
+   "id": "u89.authority",
+   "en": "authority",
+   "es": "autoridad",
+   "kind": "word",
+   "emoji": "👮",
+   "say": "o-zó-ri-ti"
+  },
+  {
+   "id": "u89.power",
+   "en": "power",
+   "es": "poder",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "páuer"
+  },
+  {
+   "id": "u89.to-govern",
+   "en": "to govern",
+   "es": "gobernar",
+   "kind": "chunk",
+   "emoji": "🏛️",
+   "say": "gá-vern"
+  },
+  {
+   "id": "u89.leader",
+   "en": "leader",
+   "es": "líder",
+   "kind": "word",
+   "emoji": "🧭",
+   "say": "lí-der"
+  },
+  {
+   "id": "u89.reform",
+   "en": "reform",
+   "es": "reforma",
+   "kind": "word",
+   "emoji": "🔧",
+   "say": "ri-fórm"
+  },
+  {
+   "id": "u89.to-influence",
+   "en": "to influence",
+   "es": "influir",
+   "kind": "chunk",
+   "emoji": "🧲",
+   "say": "ín-flu-ens"
+  },
+  {
+   "id": "u89.social-class",
+   "en": "social class",
+   "es": "clase social",
+   "kind": "chunk",
+   "emoji": "🪜"
+  },
+  {
+   "id": "u89.to-address-an-issue",
+   "en": "to address",
+   "es": "abordar (un problema)",
+   "kind": "chunk",
+   "emoji": "🎯",
+   "tip": "Aquí con el sentido de: an issue."
+  },
+  {
+   "id": "u89.controversial",
+   "en": "controversial",
+   "es": "polémico",
+   "kind": "word",
+   "emoji": "⚡",
+   "say": "kon-tro-vér-shal"
+  },
+  {
+   "id": "u89.to-raise-taxes",
+   "en": "to raise taxes",
+   "es": "subir los impuestos",
+   "kind": "chunk",
+   "emoji": "📈"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u89-sociedad-c1-l1",
+   "title": "1. to vote, voter, citizen…",
+   "focus": "listening",
+   "newItems": [
+    "u89.to-vote",
+    "u89.voter",
+    "u89.citizen",
+    "u89.to-pass-a-law",
+    "u89.to-ban"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u89.to-vote",
+      "u89.voter"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u89.citizen",
+      "u89.to-pass-a-law"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u89.to-ban"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-vote",
+      "u89.voter",
+      "u89.citizen",
+      "u89.to-pass-a-law",
+      "u89.to-ban"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-vote",
+      "u89.voter",
+      "u89.citizen",
+      "u89.to-pass-a-law",
+      "u89.to-ban"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-vote",
+      "u89.voter",
+      "u89.citizen",
+      "u89.to-pass-a-law",
+      "u89.to-ban"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u89-sociedad-c1-l2",
+   "title": "2. to protest, authority, power…",
+   "focus": "grammar",
+   "newItems": [
+    "u89.to-protest",
+    "u89.authority",
+    "u89.power",
+    "u89.to-govern",
+    "u89.leader"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u89.to-protest",
+      "u89.authority"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u89.power",
+      "u89.to-govern"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u89.leader"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-protest",
+      "u89.authority",
+      "u89.power",
+      "u89.to-govern",
+      "u89.leader"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-protest",
+      "u89.authority",
+      "u89.power",
+      "u89.to-govern",
+      "u89.leader"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-protest",
+      "u89.authority",
+      "u89.power",
+      "u89.to-govern",
+      "u89.leader"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-vote",
+      "u89.voter",
+      "u89.citizen",
+      "u89.to-pass-a-law",
+      "u89.to-ban"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Nombres abstractos terminados en -tion / -ity",
+     "intro": "Muchas palabras de sociedad son sustantivos abstractos con estas terminaciones.",
+     "examples": [
+      {
+       "en": "They discussed immigration.",
+       "es": "Hablaron sobre la inmigración.",
+       "mark": [
+        "immigration"
+       ]
+      },
+      {
+       "en": "Inequality is a serious problem.",
+       "es": "La desigualdad es un problema serio.",
+       "mark": [
+        "Inequality"
+       ]
+      },
+      {
+       "en": "Corruption damages democracy.",
+       "es": "La corrupción daña la democracia.",
+       "mark": [
+        "Corruption"
+       ]
+      },
+      {
+       "en": "The authority made a decision.",
+       "es": "La autoridad tomó una decisión.",
+       "mark": [
+        "authority"
+       ]
+      }
+     ],
+     "question": "Las terminaciones -tion e -ity suelen marcar…",
+     "options": [
+      "verbos",
+      "sustantivos abstractos (ideas)",
+      "adjetivos"
+     ],
+     "answer": 1,
+     "rule": "Muchísimos sustantivos abstractos terminan en -tion (education, corruption, immigration) o en -ity (inequality, authority, majority). Reconocer la terminación te ayuda a entender palabras nuevas de golpe.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u89-sociedad-c1-l3",
+   "title": "3. reform, to influence, social class…",
+   "focus": "reading",
+   "newItems": [
+    "u89.reform",
+    "u89.to-influence",
+    "u89.social-class",
+    "u89.to-address-an-issue",
+    "u89.controversial"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u89.reform",
+      "u89.to-influence"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u89.social-class",
+      "u89.to-address-an-issue"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u89.controversial"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.reform",
+      "u89.to-influence",
+      "u89.social-class",
+      "u89.to-address-an-issue",
+      "u89.controversial"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.reform",
+      "u89.to-influence",
+      "u89.social-class",
+      "u89.to-address-an-issue",
+      "u89.controversial"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.reform",
+      "u89.to-influence",
+      "u89.social-class",
+      "u89.to-address-an-issue",
+      "u89.controversial"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-ban",
+      "u89.to-protest",
+      "u89.authority",
+      "u89.power",
+      "u89.to-govern",
+      "u89.leader"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u89-sociedad-c1-l4",
+   "title": "4. to raise taxes",
+   "focus": "listening",
+   "newItems": [
+    "u89.to-raise-taxes"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u89.to-raise-taxes"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-raise-taxes"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-raise-taxes"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-raise-taxes"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u89.leader",
+      "u89.reform",
+      "u89.to-influence",
+      "u89.social-class",
+      "u89.to-address-an-issue",
+      "u89.controversial"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u89-sociedad-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u89.to-govern",
+      "u89.leader",
+      "u89.reform",
+      "u89.to-influence",
+      "u89.social-class",
+      "u89.to-address-an-issue",
+      "u89.controversial",
+      "u89.to-raise-taxes"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

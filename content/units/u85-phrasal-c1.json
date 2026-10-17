@@ -1,0 +1,1085 @@
+{
+ "_generated": true,
+ "id": "u85-phrasal-c1",
+ "level": "C1",
+ "title": "Phrasal verbs avanzados",
+ "emoji": "🧩",
+ "canDo": "Ya entiendo y uso phrasal verbs menos obvios",
+ "summary": "Phrasal verbs comunes en conversación y textos reales, con significados que no se adivinan palabra por palabra.",
+ "grammar": [
+  "Phrasal verbs"
+ ],
+ "items": [
+  {
+   "id": "u85.to-put-up-with",
+   "en": "to put up with",
+   "es": "soportar / aguantar",
+   "kind": "chunk",
+   "emoji": "😤"
+  },
+  {
+   "id": "u85.to-come-up-with",
+   "en": "to come up with",
+   "es": "ocurrírsele (una idea)",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u85.to-look-forward-to",
+   "en": "to look forward to",
+   "es": "tener ganas de / esperar con ilusión",
+   "kind": "chunk",
+   "emoji": "🤗"
+  },
+  {
+   "id": "u85.to-get-along-with",
+   "en": "to get along with",
+   "es": "llevarse bien con",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u85.to-run-out-of",
+   "en": "to run out of",
+   "es": "quedarse sin",
+   "kind": "chunk",
+   "emoji": "🪫"
+  },
+  {
+   "id": "u85.to-carry-out",
+   "en": "to carry out",
+   "es": "llevar a cabo",
+   "kind": "chunk",
+   "emoji": "✅"
+  },
+  {
+   "id": "u85.to-point-out",
+   "en": "to point out",
+   "es": "señalar / hacer notar",
+   "kind": "chunk",
+   "emoji": "👉"
+  },
+  {
+   "id": "u85.to-bring-up",
+   "en": "to bring up",
+   "es": "sacar (un tema) / criar",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "u85.to-turn-out",
+   "en": "to turn out",
+   "es": "resultar (ser)",
+   "kind": "chunk",
+   "emoji": "🎭"
+  },
+  {
+   "id": "u85.to-figure-out",
+   "en": "to figure out",
+   "es": "descifrar / entender",
+   "kind": "chunk",
+   "emoji": "🔍"
+  },
+  {
+   "id": "u85.to-sort-out",
+   "en": "to sort out",
+   "es": "arreglar / solucionar",
+   "kind": "chunk",
+   "emoji": "🛠️"
+  },
+  {
+   "id": "u85.to-deal-with",
+   "en": "to deal with",
+   "es": "lidiar con / tratar",
+   "kind": "chunk",
+   "emoji": "⚖️"
+  },
+  {
+   "id": "u85.to-look-into",
+   "en": "to look into",
+   "es": "investigar",
+   "kind": "chunk",
+   "emoji": "🔎"
+  },
+  {
+   "id": "u85.to-come-across",
+   "en": "to come across",
+   "es": "toparse con / encontrarse",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u85.to-get-over",
+   "en": "to get over",
+   "es": "superar (algo difícil)",
+   "kind": "chunk",
+   "emoji": "🌈"
+  },
+  {
+   "id": "u85.to-give-up",
+   "en": "to give up",
+   "es": "rendirse",
+   "kind": "chunk",
+   "emoji": "🏳️"
+  },
+  {
+   "id": "u85.to-take-up",
+   "en": "to take up",
+   "es": "empezar (una afición) / ocupar",
+   "kind": "chunk",
+   "emoji": "🎨"
+  },
+  {
+   "id": "u85.to-take-over",
+   "en": "to take over",
+   "es": "tomar el control de",
+   "kind": "chunk",
+   "emoji": "👑"
+  },
+  {
+   "id": "u85.to-set-up",
+   "en": "to set up",
+   "es": "montar / establecer",
+   "kind": "chunk",
+   "emoji": "🏗️"
+  },
+  {
+   "id": "u85.to-break-down",
+   "en": "to break down",
+   "es": "averiarse / desglosar",
+   "kind": "chunk",
+   "emoji": "🔧"
+  },
+  {
+   "id": "u85.to-break-up",
+   "en": "to break up",
+   "es": "terminar (una relación)",
+   "kind": "chunk",
+   "emoji": "💔"
+  },
+  {
+   "id": "u85.to-end-up",
+   "en": "to end up",
+   "es": "terminar / acabar (de cierta forma)",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u85.to-put-off",
+   "en": "to put off",
+   "es": "posponer",
+   "kind": "chunk",
+   "emoji": "⏭️"
+  },
+  {
+   "id": "u85.to-call-off",
+   "en": "to call off",
+   "es": "cancelar",
+   "kind": "chunk",
+   "emoji": "❌"
+  },
+  {
+   "id": "u85.to-turn-down",
+   "en": "to turn down",
+   "es": "rechazar / bajar (volumen)",
+   "kind": "chunk",
+   "emoji": "👎"
+  },
+  {
+   "id": "u85.to-turn-up",
+   "en": "to turn up",
+   "es": "aparecer / subir (volumen)",
+   "kind": "chunk",
+   "emoji": "📈"
+  },
+  {
+   "id": "u85.to-stand-out",
+   "en": "to stand out",
+   "es": "destacar",
+   "kind": "chunk",
+   "emoji": "🌟"
+  },
+  {
+   "id": "u85.to-stand-for",
+   "en": "to stand for",
+   "es": "significar / representar",
+   "kind": "chunk",
+   "emoji": "🔤"
+  },
+  {
+   "id": "u85.to-look-up-to",
+   "en": "to look up to",
+   "es": "admirar",
+   "kind": "chunk",
+   "emoji": "🙌"
+  },
+  {
+   "id": "u85.to-look-down-on",
+   "en": "to look down on",
+   "es": "despreciar",
+   "kind": "chunk",
+   "emoji": "🙄"
+  },
+  {
+   "id": "u85.to-make-up",
+   "en": "to make up",
+   "es": "inventar / reconciliarse",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u85.to-go-through",
+   "en": "to go through",
+   "es": "pasar por (una experiencia)",
+   "kind": "chunk",
+   "emoji": "🚪"
+  },
+  {
+   "id": "u85.to-get-by",
+   "en": "to get by",
+   "es": "arreglárselas",
+   "kind": "chunk",
+   "emoji": "🤏"
+  },
+  {
+   "id": "u85.to-catch-up",
+   "en": "to catch up",
+   "es": "ponerse al día",
+   "kind": "chunk",
+   "emoji": "🏃"
+  },
+  {
+   "id": "u85.to-cut-down-on",
+   "en": "to cut down on",
+   "es": "reducir",
+   "kind": "chunk",
+   "emoji": "✂️"
+  },
+  {
+   "id": "u85.to-hold-on",
+   "en": "to hold on",
+   "es": "esperar / aguantar",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u85.to-hold-back",
+   "en": "to hold back",
+   "es": "contenerse / retener",
+   "kind": "chunk",
+   "emoji": "🛑"
+  },
+  {
+   "id": "u85.to-rule-out",
+   "en": "to rule out",
+   "es": "descartar",
+   "kind": "chunk",
+   "emoji": "🚫"
+  },
+  {
+   "id": "u85.to-wear-out",
+   "en": "to wear out",
+   "es": "desgastar / agotar",
+   "kind": "chunk",
+   "emoji": "🪫"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u85-phrasal-c1-l1",
+   "title": "1. to put up with, to come up with, to look forward to…",
+   "focus": "listening",
+   "newItems": [
+    "u85.to-put-up-with",
+    "u85.to-come-up-with",
+    "u85.to-look-forward-to",
+    "u85.to-get-along-with",
+    "u85.to-run-out-of"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-put-up-with",
+      "u85.to-come-up-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-look-forward-to",
+      "u85.to-get-along-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-run-out-of"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-put-up-with",
+      "u85.to-come-up-with",
+      "u85.to-look-forward-to",
+      "u85.to-get-along-with",
+      "u85.to-run-out-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-put-up-with",
+      "u85.to-come-up-with",
+      "u85.to-look-forward-to",
+      "u85.to-get-along-with",
+      "u85.to-run-out-of"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-put-up-with",
+      "u85.to-come-up-with",
+      "u85.to-look-forward-to",
+      "u85.to-get-along-with",
+      "u85.to-run-out-of"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-l2",
+   "title": "2. to carry out, to point out, to bring up…",
+   "focus": "grammar",
+   "newItems": [
+    "u85.to-carry-out",
+    "u85.to-point-out",
+    "u85.to-bring-up",
+    "u85.to-turn-out",
+    "u85.to-figure-out"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-carry-out",
+      "u85.to-point-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-bring-up",
+      "u85.to-turn-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-figure-out"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-carry-out",
+      "u85.to-point-out",
+      "u85.to-bring-up",
+      "u85.to-turn-out",
+      "u85.to-figure-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-carry-out",
+      "u85.to-point-out",
+      "u85.to-bring-up",
+      "u85.to-turn-out",
+      "u85.to-figure-out"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-carry-out",
+      "u85.to-point-out",
+      "u85.to-bring-up",
+      "u85.to-turn-out",
+      "u85.to-figure-out"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-put-up-with",
+      "u85.to-come-up-with",
+      "u85.to-look-forward-to",
+      "u85.to-get-along-with",
+      "u85.to-run-out-of"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Phrasal verbs: el significado no es literal",
+     "intro": "Compara el verbo solo con el phrasal verb.",
+     "examples": [
+      {
+       "en": "I can't stand this noise. → I can't put up with this noise.",
+       "es": "No soporto este ruido.",
+       "mark": [
+        "put up with"
+       ]
+      },
+      {
+       "en": "She invented a story. → She made up a story.",
+       "es": "Se inventó una historia.",
+       "mark": [
+        "made up"
+       ]
+      },
+      {
+       "en": "We postponed the meeting. → We put off the meeting.",
+       "es": "Pospusimos la reunión.",
+       "mark": [
+        "put off"
+       ]
+      },
+      {
+       "en": "He solved the problem. → He sorted out the problem.",
+       "es": "Resolvió el problema.",
+       "mark": [
+        "sorted out"
+       ]
+      }
+     ],
+     "question": "Un 'phrasal verb' es…",
+     "options": [
+      "un verbo con un número",
+      "un verbo + una partícula que cambia su significado",
+      "un verbo irregular"
+     ],
+     "answer": 1,
+     "rule": "Un phrasal verb es un verbo + una partícula (up, out, off, into…) que juntos tienen un significado propio, muchas veces distinto del verbo solo. 'put' es poner, pero 'put up with' es soportar.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-l3",
+   "title": "3. to sort out, to deal with, to look into…",
+   "focus": "reading",
+   "newItems": [
+    "u85.to-sort-out",
+    "u85.to-deal-with",
+    "u85.to-look-into",
+    "u85.to-come-across",
+    "u85.to-get-over"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-sort-out",
+      "u85.to-deal-with"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-look-into",
+      "u85.to-come-across"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-get-over"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-sort-out",
+      "u85.to-deal-with",
+      "u85.to-look-into",
+      "u85.to-come-across",
+      "u85.to-get-over"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-sort-out",
+      "u85.to-deal-with",
+      "u85.to-look-into",
+      "u85.to-come-across",
+      "u85.to-get-over"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-sort-out",
+      "u85.to-deal-with",
+      "u85.to-look-into",
+      "u85.to-come-across",
+      "u85.to-get-over"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-run-out-of",
+      "u85.to-carry-out",
+      "u85.to-point-out",
+      "u85.to-bring-up",
+      "u85.to-turn-out",
+      "u85.to-figure-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-l4",
+   "title": "4. to give up, to take up, to take over…",
+   "focus": "listening",
+   "newItems": [
+    "u85.to-give-up",
+    "u85.to-take-up",
+    "u85.to-take-over",
+    "u85.to-set-up",
+    "u85.to-break-down"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-give-up",
+      "u85.to-take-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-take-over",
+      "u85.to-set-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-break-down"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-give-up",
+      "u85.to-take-up",
+      "u85.to-take-over",
+      "u85.to-set-up",
+      "u85.to-break-down"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-give-up",
+      "u85.to-take-up",
+      "u85.to-take-over",
+      "u85.to-set-up",
+      "u85.to-break-down"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-give-up",
+      "u85.to-take-up",
+      "u85.to-take-over",
+      "u85.to-set-up",
+      "u85.to-break-down"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-figure-out",
+      "u85.to-sort-out",
+      "u85.to-deal-with",
+      "u85.to-look-into",
+      "u85.to-come-across",
+      "u85.to-get-over"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-l5",
+   "title": "5. to break up, to end up, to put off…",
+   "focus": "listening",
+   "newItems": [
+    "u85.to-break-up",
+    "u85.to-end-up",
+    "u85.to-put-off",
+    "u85.to-call-off",
+    "u85.to-turn-down"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-break-up",
+      "u85.to-end-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-put-off",
+      "u85.to-call-off"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-turn-down"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-break-up",
+      "u85.to-end-up",
+      "u85.to-put-off",
+      "u85.to-call-off",
+      "u85.to-turn-down"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-break-up",
+      "u85.to-end-up",
+      "u85.to-put-off",
+      "u85.to-call-off",
+      "u85.to-turn-down"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-break-up",
+      "u85.to-end-up",
+      "u85.to-put-off",
+      "u85.to-call-off",
+      "u85.to-turn-down"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-get-over",
+      "u85.to-give-up",
+      "u85.to-take-up",
+      "u85.to-take-over",
+      "u85.to-set-up",
+      "u85.to-break-down"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-l6",
+   "title": "6. to turn up, to stand out, to stand for…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u85.to-turn-up",
+    "u85.to-stand-out",
+    "u85.to-stand-for",
+    "u85.to-look-up-to",
+    "u85.to-look-down-on"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-turn-up",
+      "u85.to-stand-out"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-stand-for",
+      "u85.to-look-up-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-look-down-on"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-turn-up",
+      "u85.to-stand-out",
+      "u85.to-stand-for",
+      "u85.to-look-up-to",
+      "u85.to-look-down-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-turn-up",
+      "u85.to-stand-out",
+      "u85.to-stand-for",
+      "u85.to-look-up-to",
+      "u85.to-look-down-on"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-turn-up",
+      "u85.to-stand-out",
+      "u85.to-stand-for",
+      "u85.to-look-up-to",
+      "u85.to-look-down-on"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-break-down",
+      "u85.to-break-up",
+      "u85.to-end-up",
+      "u85.to-put-off",
+      "u85.to-call-off",
+      "u85.to-turn-down"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-l7",
+   "title": "7. to make up, to go through, to get by…",
+   "focus": "reading",
+   "newItems": [
+    "u85.to-make-up",
+    "u85.to-go-through",
+    "u85.to-get-by",
+    "u85.to-catch-up",
+    "u85.to-cut-down-on"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-make-up",
+      "u85.to-go-through"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-get-by",
+      "u85.to-catch-up"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-cut-down-on"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-make-up",
+      "u85.to-go-through",
+      "u85.to-get-by",
+      "u85.to-catch-up",
+      "u85.to-cut-down-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-make-up",
+      "u85.to-go-through",
+      "u85.to-get-by",
+      "u85.to-catch-up",
+      "u85.to-cut-down-on"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-make-up",
+      "u85.to-go-through",
+      "u85.to-get-by",
+      "u85.to-catch-up",
+      "u85.to-cut-down-on"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-turn-down",
+      "u85.to-turn-up",
+      "u85.to-stand-out",
+      "u85.to-stand-for",
+      "u85.to-look-up-to",
+      "u85.to-look-down-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-l8",
+   "title": "8. to hold on, to hold back, to rule out…",
+   "focus": "listening",
+   "newItems": [
+    "u85.to-hold-on",
+    "u85.to-hold-back",
+    "u85.to-rule-out",
+    "u85.to-wear-out"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u85.to-hold-on",
+      "u85.to-hold-back"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u85.to-rule-out",
+      "u85.to-wear-out"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-hold-on",
+      "u85.to-hold-back",
+      "u85.to-rule-out",
+      "u85.to-wear-out"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-hold-on",
+      "u85.to-hold-back",
+      "u85.to-rule-out",
+      "u85.to-wear-out"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-hold-on",
+      "u85.to-hold-back",
+      "u85.to-rule-out",
+      "u85.to-wear-out"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-look-down-on",
+      "u85.to-make-up",
+      "u85.to-go-through",
+      "u85.to-get-by",
+      "u85.to-catch-up",
+      "u85.to-cut-down-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u85-phrasal-c1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u85.to-go-through",
+      "u85.to-get-by",
+      "u85.to-catch-up",
+      "u85.to-cut-down-on",
+      "u85.to-hold-on",
+      "u85.to-hold-back",
+      "u85.to-rule-out",
+      "u85.to-wear-out"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

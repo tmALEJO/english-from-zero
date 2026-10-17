@@ -1,0 +1,813 @@
+{
+ "_generated": true,
+ "id": "u82-salud-b2",
+ "level": "B2",
+ "title": "Salud y bienestar",
+ "emoji": "🩺",
+ "canDo": "Ya puedo hablar de salud, hábitos y bienestar con detalle",
+ "summary": "Vocabulario para describir síntomas, hábitos saludables, el cuerpo y el bienestar mental.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u82.health",
+   "en": "health",
+   "es": "salud",
+   "kind": "word",
+   "emoji": "❤️‍🩹",
+   "say": "jelz"
+  },
+  {
+   "id": "u82.headache",
+   "en": "headache",
+   "es": "dolor de cabeza",
+   "kind": "word",
+   "emoji": "🤕",
+   "say": "jéd-eik"
+  },
+  {
+   "id": "u82.fever",
+   "en": "fever",
+   "es": "fiebre",
+   "kind": "word",
+   "emoji": "🌡️",
+   "say": "fí-ver"
+  },
+  {
+   "id": "u82.rash",
+   "en": "rash",
+   "es": "sarpullido",
+   "kind": "word",
+   "emoji": "🔴",
+   "say": "rash"
+  },
+  {
+   "id": "u82.to-recover",
+   "en": "to recover",
+   "es": "recuperarse",
+   "kind": "chunk",
+   "emoji": "💪",
+   "say": "ri-ká-ver"
+  },
+  {
+   "id": "u82.to-rest",
+   "en": "to rest",
+   "es": "descansar",
+   "kind": "chunk",
+   "emoji": "🛌"
+  },
+  {
+   "id": "u82.treatment",
+   "en": "treatment",
+   "es": "tratamiento",
+   "kind": "word",
+   "emoji": "💊",
+   "say": "trít-ment"
+  },
+  {
+   "id": "u82.checkup",
+   "en": "checkup",
+   "es": "chequeo",
+   "kind": "word",
+   "emoji": "🩺",
+   "say": "chék-ap"
+  },
+  {
+   "id": "u82.to-prevent",
+   "en": "to prevent",
+   "es": "prevenir",
+   "kind": "chunk",
+   "emoji": "🛡️",
+   "say": "pri-vént"
+  },
+  {
+   "id": "u82.to-avoid",
+   "en": "to avoid",
+   "es": "evitar",
+   "kind": "chunk",
+   "emoji": "🚫",
+   "say": "a-vóid"
+  },
+  {
+   "id": "u82.nutrition",
+   "en": "nutrition",
+   "es": "nutrición",
+   "kind": "word",
+   "emoji": "🍎",
+   "say": "niu-trí-shon"
+  },
+  {
+   "id": "u82.to-exercise",
+   "en": "to exercise",
+   "es": "hacer ejercicio",
+   "kind": "chunk",
+   "emoji": "🏃"
+  },
+  {
+   "id": "u82.to-work-out",
+   "en": "to work out",
+   "es": "entrenar",
+   "kind": "chunk",
+   "emoji": "🏋️"
+  },
+  {
+   "id": "u82.to-stretch",
+   "en": "to stretch",
+   "es": "estirar",
+   "kind": "chunk",
+   "emoji": "🤸"
+  },
+  {
+   "id": "u82.strength",
+   "en": "strength",
+   "es": "fuerza",
+   "kind": "word",
+   "emoji": "💪",
+   "say": "strenz"
+  },
+  {
+   "id": "u82.to-feel-dizzy",
+   "en": "to feel dizzy",
+   "es": "sentirse mareado",
+   "kind": "chunk",
+   "emoji": "😵‍💫"
+  },
+  {
+   "id": "u82.stress",
+   "en": "stress",
+   "es": "estrés",
+   "kind": "word",
+   "emoji": "😰",
+   "say": "stres"
+  },
+  {
+   "id": "u82.to-relax",
+   "en": "to relax",
+   "es": "relajarse",
+   "kind": "chunk",
+   "emoji": "😌",
+   "say": "ri-láks"
+  },
+  {
+   "id": "u82.to-breathe",
+   "en": "to breathe",
+   "es": "respirar",
+   "kind": "chunk",
+   "emoji": "🫁",
+   "say": "briid"
+  },
+  {
+   "id": "u82.deep-breath",
+   "en": "deep breath",
+   "es": "respiración profunda",
+   "kind": "chunk",
+   "emoji": "🌬️"
+  },
+  {
+   "id": "u82.to-quit",
+   "en": "to quit",
+   "es": "dejar (un hábito)",
+   "kind": "chunk",
+   "emoji": "🛑",
+   "say": "kuit"
+  },
+  {
+   "id": "u82.addiction",
+   "en": "addiction",
+   "es": "adicción",
+   "kind": "word",
+   "emoji": "⛓️",
+   "say": "a-dík-shon"
+  },
+  {
+   "id": "u82.to-improve",
+   "en": "to improve",
+   "es": "mejorar",
+   "kind": "chunk",
+   "emoji": "📈",
+   "say": "im-prúv"
+  },
+  {
+   "id": "u82.to-harm",
+   "en": "to harm",
+   "es": "dañar / perjudicar",
+   "kind": "chunk",
+   "emoji": "☠️",
+   "say": "jarm"
+  },
+  {
+   "id": "u82.painful",
+   "en": "painful",
+   "es": "doloroso",
+   "kind": "word",
+   "emoji": "😣",
+   "say": "péin-ful"
+  },
+  {
+   "id": "u82.to-heal",
+   "en": "to heal",
+   "es": "sanar",
+   "kind": "chunk",
+   "emoji": "🌱",
+   "say": "jiil"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u82-salud-b2-l1",
+   "title": "1. health, headache, fever…",
+   "focus": "listening",
+   "newItems": [
+    "u82.health",
+    "u82.headache",
+    "u82.fever",
+    "u82.rash",
+    "u82.to-recover"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u82.health",
+      "u82.headache"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.fever",
+      "u82.rash"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.to-recover"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.health",
+      "u82.headache",
+      "u82.fever",
+      "u82.rash",
+      "u82.to-recover"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.health",
+      "u82.headache",
+      "u82.fever",
+      "u82.rash",
+      "u82.to-recover"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.health",
+      "u82.headache",
+      "u82.fever",
+      "u82.rash",
+      "u82.to-recover"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u82-salud-b2-l2",
+   "title": "2. to rest, treatment, checkup…",
+   "focus": "grammar",
+   "newItems": [
+    "u82.to-rest",
+    "u82.treatment",
+    "u82.checkup",
+    "u82.to-prevent",
+    "u82.to-avoid"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u82.to-rest",
+      "u82.treatment"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.checkup",
+      "u82.to-prevent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.to-avoid"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-rest",
+      "u82.treatment",
+      "u82.checkup",
+      "u82.to-prevent",
+      "u82.to-avoid"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-rest",
+      "u82.treatment",
+      "u82.checkup",
+      "u82.to-prevent",
+      "u82.to-avoid"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-rest",
+      "u82.treatment",
+      "u82.checkup",
+      "u82.to-prevent",
+      "u82.to-avoid"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.health",
+      "u82.headache",
+      "u82.fever",
+      "u82.rash",
+      "u82.to-recover"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Dar consejos: should / shouldn't",
+     "intro": "Mira cómo se dan consejos de salud.",
+     "examples": [
+      {
+       "en": "You should drink more water.",
+       "es": "Deberías tomar más agua.",
+       "mark": [
+        "should"
+       ]
+      },
+      {
+       "en": "You shouldn't skip breakfast.",
+       "es": "No deberías saltarte el desayuno.",
+       "mark": [
+        "shouldn't"
+       ]
+      },
+      {
+       "en": "She should see a doctor.",
+       "es": "Ella debería ver a un médico.",
+       "mark": [
+        "should"
+       ]
+      },
+      {
+       "en": "You should rest when you're sick.",
+       "es": "Deberías descansar cuando estás enfermo.",
+       "mark": [
+        "should"
+       ]
+      },
+      {
+       "en": "You shouldn't work when you're exhausted.",
+       "es": "No deberías trabajar cuando estás agotado.",
+       "mark": [
+        "shouldn't"
+       ]
+      }
+     ],
+     "question": "Para recomendar NO hacer algo, usas…",
+     "options": [
+      "should",
+      "shouldn't",
+      "should to"
+     ],
+     "answer": 1,
+     "rule": "Para dar consejos: should + verbo (deberías). Para lo contrario: shouldn't + verbo. Nunca lleva 'to': 'You should rest', no 'should to rest'.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u82-salud-b2-l3",
+   "title": "3. nutrition, to exercise, to work out…",
+   "focus": "reading",
+   "newItems": [
+    "u82.nutrition",
+    "u82.to-exercise",
+    "u82.to-work-out",
+    "u82.to-stretch",
+    "u82.strength"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u82.nutrition",
+      "u82.to-exercise"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.to-work-out",
+      "u82.to-stretch"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.strength"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.nutrition",
+      "u82.to-exercise",
+      "u82.to-work-out",
+      "u82.to-stretch",
+      "u82.strength"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.nutrition",
+      "u82.to-exercise",
+      "u82.to-work-out",
+      "u82.to-stretch",
+      "u82.strength"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.nutrition",
+      "u82.to-exercise",
+      "u82.to-work-out",
+      "u82.to-stretch",
+      "u82.strength"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-recover",
+      "u82.to-rest",
+      "u82.treatment",
+      "u82.checkup",
+      "u82.to-prevent",
+      "u82.to-avoid"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u82-salud-b2-l4",
+   "title": "4. to feel dizzy, stress, to relax…",
+   "focus": "listening",
+   "newItems": [
+    "u82.to-feel-dizzy",
+    "u82.stress",
+    "u82.to-relax",
+    "u82.to-breathe",
+    "u82.deep-breath"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u82.to-feel-dizzy",
+      "u82.stress"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.to-relax",
+      "u82.to-breathe"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.deep-breath"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-feel-dizzy",
+      "u82.stress",
+      "u82.to-relax",
+      "u82.to-breathe",
+      "u82.deep-breath"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-feel-dizzy",
+      "u82.stress",
+      "u82.to-relax",
+      "u82.to-breathe",
+      "u82.deep-breath"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-feel-dizzy",
+      "u82.stress",
+      "u82.to-relax",
+      "u82.to-breathe",
+      "u82.deep-breath"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-avoid",
+      "u82.nutrition",
+      "u82.to-exercise",
+      "u82.to-work-out",
+      "u82.to-stretch",
+      "u82.strength"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u82-salud-b2-l5",
+   "title": "5. to quit, addiction, to improve…",
+   "focus": "listening",
+   "newItems": [
+    "u82.to-quit",
+    "u82.addiction",
+    "u82.to-improve",
+    "u82.to-harm",
+    "u82.painful"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u82.to-quit",
+      "u82.addiction"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.to-improve",
+      "u82.to-harm"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u82.painful"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-quit",
+      "u82.addiction",
+      "u82.to-improve",
+      "u82.to-harm",
+      "u82.painful"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-quit",
+      "u82.addiction",
+      "u82.to-improve",
+      "u82.to-harm",
+      "u82.painful"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-quit",
+      "u82.addiction",
+      "u82.to-improve",
+      "u82.to-harm",
+      "u82.painful"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.strength",
+      "u82.to-feel-dizzy",
+      "u82.stress",
+      "u82.to-relax",
+      "u82.to-breathe",
+      "u82.deep-breath"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u82-salud-b2-l6",
+   "title": "6. to heal",
+   "focus": "vocabulary",
+   "newItems": [
+    "u82.to-heal"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u82.to-heal"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-heal"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-heal"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-heal"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u82.deep-breath",
+      "u82.to-quit",
+      "u82.addiction",
+      "u82.to-improve",
+      "u82.to-harm",
+      "u82.painful"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u82-salud-b2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u82.to-breathe",
+      "u82.deep-breath",
+      "u82.to-quit",
+      "u82.addiction",
+      "u82.to-improve",
+      "u82.to-harm",
+      "u82.painful",
+      "u82.to-heal"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,978 @@
+{
+ "_generated": true,
+ "id": "u97-formal",
+ "level": "C1",
+ "title": "Lenguaje formal y profesional",
+ "emoji": "🎩",
+ "canDo": "Ya adapto mi inglés a contextos formales y escritos",
+ "summary": "Verbos y expresiones de registro formal para correos, informes y situaciones profesionales.",
+ "grammar": [
+  "Registro formal"
+ ],
+ "items": [
+  {
+   "id": "u97.to-request",
+   "en": "to request",
+   "es": "solicitar",
+   "kind": "chunk",
+   "emoji": "📨",
+   "say": "ri-kuést"
+  },
+  {
+   "id": "u97.to-require",
+   "en": "to require",
+   "es": "requerir",
+   "kind": "chunk",
+   "emoji": "📋",
+   "say": "ri-kuáir"
+  },
+  {
+   "id": "u97.to-obtain",
+   "en": "to obtain",
+   "es": "obtener",
+   "kind": "chunk",
+   "emoji": "📥",
+   "say": "ob-téin"
+  },
+  {
+   "id": "u97.to-provide",
+   "en": "to provide",
+   "es": "proporcionar",
+   "kind": "chunk",
+   "emoji": "🤲",
+   "say": "pro-váid"
+  },
+  {
+   "id": "u97.to-ensure",
+   "en": "to ensure",
+   "es": "asegurar / garantizar",
+   "kind": "chunk",
+   "emoji": "✅",
+   "say": "en-shúr"
+  },
+  {
+   "id": "u97.to-consider",
+   "en": "to consider",
+   "es": "considerar",
+   "kind": "chunk",
+   "emoji": "🤔",
+   "say": "kon-sí-der"
+  },
+  {
+   "id": "u97.to-determine",
+   "en": "to determine",
+   "es": "determinar",
+   "kind": "chunk",
+   "emoji": "📐",
+   "say": "di-tér-min"
+  },
+  {
+   "id": "u97.to-indicate",
+   "en": "to indicate",
+   "es": "indicar",
+   "kind": "chunk",
+   "emoji": "👉",
+   "say": "ín-di-keit"
+  },
+  {
+   "id": "u97.to-demonstrate",
+   "en": "to demonstrate",
+   "es": "demostrar",
+   "kind": "chunk",
+   "emoji": "🧪",
+   "say": "dé-mons-treit"
+  },
+  {
+   "id": "u97.to-establish",
+   "en": "to establish",
+   "es": "establecer",
+   "kind": "chunk",
+   "emoji": "🏛️",
+   "say": "es-tá-blish"
+  },
+  {
+   "id": "u97.to-implement",
+   "en": "to implement",
+   "es": "implementar",
+   "kind": "chunk",
+   "emoji": "🔧",
+   "say": "ím-ple-ment"
+  },
+  {
+   "id": "u97.to-maintain",
+   "en": "to maintain",
+   "es": "mantener",
+   "kind": "chunk",
+   "emoji": "🔒",
+   "say": "mein-téin"
+  },
+  {
+   "id": "u97.to-obtain-approval",
+   "en": "to obtain approval",
+   "es": "obtener aprobación",
+   "kind": "chunk",
+   "emoji": "🟢"
+  },
+  {
+   "id": "u97.to-seek",
+   "en": "to seek",
+   "es": "buscar (formal)",
+   "kind": "chunk",
+   "emoji": "🔍",
+   "say": "siik"
+  },
+  {
+   "id": "u97.to-address",
+   "en": "to address",
+   "es": "abordar / dirigirse a",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u97.to-comply-with",
+   "en": "to comply with",
+   "es": "cumplir con",
+   "kind": "chunk",
+   "emoji": "📑",
+   "say": "kom-plái"
+  },
+  {
+   "id": "u97.to-proceed",
+   "en": "to proceed",
+   "es": "proceder",
+   "kind": "chunk",
+   "emoji": "➡️",
+   "say": "pro-síid"
+  },
+  {
+   "id": "u97.to-assist",
+   "en": "to assist",
+   "es": "ayudar (formal)",
+   "kind": "chunk",
+   "emoji": "🤝",
+   "say": "a-síst"
+  },
+  {
+   "id": "u97.to-inform",
+   "en": "to inform",
+   "es": "informar",
+   "kind": "chunk",
+   "emoji": "📢",
+   "say": "in-fórm"
+  },
+  {
+   "id": "u97.to-notify",
+   "en": "to notify",
+   "es": "notificar",
+   "kind": "chunk",
+   "emoji": "🔔",
+   "say": "nóu-ti-fai"
+  },
+  {
+   "id": "u97.to-confirm",
+   "en": "to confirm",
+   "es": "confirmar",
+   "kind": "chunk",
+   "emoji": "✔️",
+   "say": "kon-fírm"
+  },
+  {
+   "id": "u97.to-apologize",
+   "en": "to apologize",
+   "es": "disculparse",
+   "kind": "chunk",
+   "emoji": "🙇",
+   "say": "a-pó-lo-yaiz"
+  },
+  {
+   "id": "u97.to-appreciate",
+   "en": "to appreciate",
+   "es": "agradecer / valorar",
+   "kind": "chunk",
+   "emoji": "🙏",
+   "say": "a-prí-shi-eit"
+  },
+  {
+   "id": "u97.regarding",
+   "en": "regarding",
+   "es": "con respecto a",
+   "kind": "word",
+   "emoji": "📌",
+   "say": "ri-gár-ding"
+  },
+  {
+   "id": "u97.further-to",
+   "en": "further to",
+   "es": "en relación con",
+   "kind": "chunk",
+   "emoji": "↪️"
+  },
+  {
+   "id": "u97.on-behalf-of",
+   "en": "on behalf of",
+   "es": "en nombre de",
+   "kind": "chunk",
+   "emoji": "🧑‍💼"
+  },
+  {
+   "id": "u97.at-your-earliest-convenience",
+   "en": "at your earliest convenience",
+   "es": "a la mayor brevedad",
+   "kind": "chunk",
+   "emoji": "⏱️"
+  },
+  {
+   "id": "u97.should-you-have-any-questions",
+   "en": "should you have any questions",
+   "es": "si tuviera alguna pregunta",
+   "kind": "chunk",
+   "emoji": "❓"
+  },
+  {
+   "id": "u97.we-regret-to-inform-you",
+   "en": "we regret to inform you",
+   "es": "lamentamos informarle",
+   "kind": "chunk",
+   "emoji": "😔"
+  },
+  {
+   "id": "u97.to-look-into-the-matter",
+   "en": "to look into the matter",
+   "es": "estudiar el asunto",
+   "kind": "chunk",
+   "emoji": "🔎"
+  },
+  {
+   "id": "u97.to-take-the-liberty-of",
+   "en": "to take the liberty of",
+   "es": "tomarse la libertad de",
+   "kind": "chunk",
+   "emoji": "🎩"
+  },
+  {
+   "id": "u97.to-be-of-assistance",
+   "en": "to be of assistance",
+   "es": "ser de ayuda",
+   "kind": "chunk",
+   "emoji": "🤝"
+  },
+  {
+   "id": "u97.to-bear-in-mind",
+   "en": "to bear in mind",
+   "es": "tener en cuenta",
+   "kind": "chunk",
+   "emoji": "🧠"
+  },
+  {
+   "id": "u97.thereof",
+   "en": "thereof",
+   "es": "de ello / del mismo",
+   "kind": "word",
+   "emoji": "📄"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u97-formal-l1",
+   "title": "1. to request, to require, to obtain…",
+   "focus": "listening",
+   "newItems": [
+    "u97.to-request",
+    "u97.to-require",
+    "u97.to-obtain",
+    "u97.to-provide",
+    "u97.to-ensure"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u97.to-request",
+      "u97.to-require"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-obtain",
+      "u97.to-provide"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-ensure"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-request",
+      "u97.to-require",
+      "u97.to-obtain",
+      "u97.to-provide",
+      "u97.to-ensure"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-request",
+      "u97.to-require",
+      "u97.to-obtain",
+      "u97.to-provide",
+      "u97.to-ensure"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-request",
+      "u97.to-require",
+      "u97.to-obtain",
+      "u97.to-provide",
+      "u97.to-ensure"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u97-formal-l2",
+   "title": "2. to consider, to determine, to indicate…",
+   "focus": "grammar",
+   "newItems": [
+    "u97.to-consider",
+    "u97.to-determine",
+    "u97.to-indicate",
+    "u97.to-demonstrate",
+    "u97.to-establish"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u97.to-consider",
+      "u97.to-determine"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-indicate",
+      "u97.to-demonstrate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-establish"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-consider",
+      "u97.to-determine",
+      "u97.to-indicate",
+      "u97.to-demonstrate",
+      "u97.to-establish"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-consider",
+      "u97.to-determine",
+      "u97.to-indicate",
+      "u97.to-demonstrate",
+      "u97.to-establish"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-consider",
+      "u97.to-determine",
+      "u97.to-indicate",
+      "u97.to-demonstrate",
+      "u97.to-establish"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-request",
+      "u97.to-require",
+      "u97.to-obtain",
+      "u97.to-provide",
+      "u97.to-ensure"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Formal vs. informal: la misma idea, otro registro",
+     "intro": "Compara cómo se dice lo mismo en un correo formal y en una charla.",
+     "examples": [
+      {
+       "en": "I need your help. → I would appreciate your assistance.",
+       "es": "Agradecería su ayuda.",
+       "mark": [
+        "assistance"
+       ]
+      },
+      {
+       "en": "Can you send it? → Could you please provide it?",
+       "es": "¿Podría proporcionarlo?",
+       "mark": [
+        "provide"
+       ]
+      },
+      {
+       "en": "Sorry for the mistake. → We apologize for the error.",
+       "es": "Pedimos disculpas por el error.",
+       "mark": [
+        "apologize"
+       ]
+      },
+      {
+       "en": "About your email… → Regarding your email…",
+       "es": "Con respecto a su correo…",
+       "mark": [
+        "Regarding"
+       ]
+      }
+     ],
+     "question": "En un correo formal, en vez de 'I need' es mejor…",
+     "options": [
+      "I would appreciate / I would require",
+      "I wanna",
+      "gimme"
+     ],
+     "answer": 0,
+     "rule": "El registro formal usa verbos latinos y fórmulas de cortesía: provide (dar), require (necesitar), ensure (asegurar), regarding (sobre), I would appreciate (agradecería). Reservas el informal (wanna, gonna, stuff) para amigos.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u97-formal-l3",
+   "title": "3. to implement, to maintain, to obtain approval…",
+   "focus": "reading",
+   "newItems": [
+    "u97.to-implement",
+    "u97.to-maintain",
+    "u97.to-obtain-approval",
+    "u97.to-seek",
+    "u97.to-address"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u97.to-implement",
+      "u97.to-maintain"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-obtain-approval",
+      "u97.to-seek"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-address"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-implement",
+      "u97.to-maintain",
+      "u97.to-obtain-approval",
+      "u97.to-seek",
+      "u97.to-address"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-implement",
+      "u97.to-maintain",
+      "u97.to-obtain-approval",
+      "u97.to-seek",
+      "u97.to-address"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-implement",
+      "u97.to-maintain",
+      "u97.to-obtain-approval",
+      "u97.to-seek",
+      "u97.to-address"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-ensure",
+      "u97.to-consider",
+      "u97.to-determine",
+      "u97.to-indicate",
+      "u97.to-demonstrate",
+      "u97.to-establish"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u97-formal-l4",
+   "title": "4. to comply with, to proceed, to assist…",
+   "focus": "listening",
+   "newItems": [
+    "u97.to-comply-with",
+    "u97.to-proceed",
+    "u97.to-assist",
+    "u97.to-inform",
+    "u97.to-notify"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u97.to-comply-with",
+      "u97.to-proceed"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-assist",
+      "u97.to-inform"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-notify"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-comply-with",
+      "u97.to-proceed",
+      "u97.to-assist",
+      "u97.to-inform",
+      "u97.to-notify"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-comply-with",
+      "u97.to-proceed",
+      "u97.to-assist",
+      "u97.to-inform",
+      "u97.to-notify"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-comply-with",
+      "u97.to-proceed",
+      "u97.to-assist",
+      "u97.to-inform",
+      "u97.to-notify"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-establish",
+      "u97.to-implement",
+      "u97.to-maintain",
+      "u97.to-obtain-approval",
+      "u97.to-seek",
+      "u97.to-address"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u97-formal-l5",
+   "title": "5. to confirm, to apologize, to appreciate…",
+   "focus": "listening",
+   "newItems": [
+    "u97.to-confirm",
+    "u97.to-apologize",
+    "u97.to-appreciate",
+    "u97.regarding",
+    "u97.further-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u97.to-confirm",
+      "u97.to-apologize"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-appreciate",
+      "u97.regarding"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.further-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-confirm",
+      "u97.to-apologize",
+      "u97.to-appreciate",
+      "u97.regarding",
+      "u97.further-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-confirm",
+      "u97.to-apologize",
+      "u97.to-appreciate",
+      "u97.regarding",
+      "u97.further-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-confirm",
+      "u97.to-apologize",
+      "u97.to-appreciate",
+      "u97.regarding",
+      "u97.further-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-address",
+      "u97.to-comply-with",
+      "u97.to-proceed",
+      "u97.to-assist",
+      "u97.to-inform",
+      "u97.to-notify"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u97-formal-l6",
+   "title": "6. on behalf of, at your earliest convenience, should you have any questions…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u97.on-behalf-of",
+    "u97.at-your-earliest-convenience",
+    "u97.should-you-have-any-questions",
+    "u97.we-regret-to-inform-you",
+    "u97.to-look-into-the-matter"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u97.on-behalf-of",
+      "u97.at-your-earliest-convenience"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.should-you-have-any-questions",
+      "u97.we-regret-to-inform-you"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-look-into-the-matter"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.on-behalf-of",
+      "u97.at-your-earliest-convenience",
+      "u97.should-you-have-any-questions",
+      "u97.we-regret-to-inform-you",
+      "u97.to-look-into-the-matter"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.on-behalf-of",
+      "u97.at-your-earliest-convenience",
+      "u97.should-you-have-any-questions",
+      "u97.we-regret-to-inform-you",
+      "u97.to-look-into-the-matter"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.on-behalf-of",
+      "u97.at-your-earliest-convenience",
+      "u97.should-you-have-any-questions",
+      "u97.we-regret-to-inform-you",
+      "u97.to-look-into-the-matter"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-notify",
+      "u97.to-confirm",
+      "u97.to-apologize",
+      "u97.to-appreciate",
+      "u97.regarding",
+      "u97.further-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u97-formal-l7",
+   "title": "7. to take the liberty of, to be of assistance, to bear in mind…",
+   "focus": "reading",
+   "newItems": [
+    "u97.to-take-the-liberty-of",
+    "u97.to-be-of-assistance",
+    "u97.to-bear-in-mind",
+    "u97.thereof"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u97.to-take-the-liberty-of",
+      "u97.to-be-of-assistance"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u97.to-bear-in-mind",
+      "u97.thereof"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-take-the-liberty-of",
+      "u97.to-be-of-assistance",
+      "u97.to-bear-in-mind",
+      "u97.thereof"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-take-the-liberty-of",
+      "u97.to-be-of-assistance",
+      "u97.to-bear-in-mind",
+      "u97.thereof"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.to-take-the-liberty-of",
+      "u97.to-be-of-assistance",
+      "u97.to-bear-in-mind",
+      "u97.thereof"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u97.further-to",
+      "u97.on-behalf-of",
+      "u97.at-your-earliest-convenience",
+      "u97.should-you-have-any-questions",
+      "u97.we-regret-to-inform-you",
+      "u97.to-look-into-the-matter"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u97-formal-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u97.at-your-earliest-convenience",
+      "u97.should-you-have-any-questions",
+      "u97.we-regret-to-inform-you",
+      "u97.to-look-into-the-matter",
+      "u97.to-take-the-liberty-of",
+      "u97.to-be-of-assistance",
+      "u97.to-bear-in-mind",
+      "u97.thereof"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

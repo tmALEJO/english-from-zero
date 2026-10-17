@@ -1,0 +1,583 @@
+{
+ "_generated": true,
+ "id": "u83-viajes-b2",
+ "level": "B2",
+ "title": "Viajes y culturas",
+ "emoji": "🌍",
+ "canDo": "Ya puedo hablar de viajes, culturas y experiencias con detalle",
+ "summary": "Vocabulario para contar viajes, describir culturas, el alojamiento y los imprevistos.",
+ "grammar": [
+  "Vocabulario temático"
+ ],
+ "items": [
+  {
+   "id": "u83.journey",
+   "en": "journey",
+   "es": "trayecto / viaje largo",
+   "kind": "word",
+   "emoji": "🛤️",
+   "say": "yér-ni"
+  },
+  {
+   "id": "u83.to-board",
+   "en": "to board",
+   "es": "abordar",
+   "kind": "chunk",
+   "emoji": "🛫",
+   "say": "bord"
+  },
+  {
+   "id": "u83.delay",
+   "en": "delay",
+   "es": "retraso",
+   "kind": "word",
+   "emoji": "⏳",
+   "say": "di-léi"
+  },
+  {
+   "id": "u83.to-miss-a-flight",
+   "en": "to miss",
+   "es": "perder (un vuelo)",
+   "kind": "chunk",
+   "emoji": "😩",
+   "tip": "Aquí con el sentido de: a flight."
+  },
+  {
+   "id": "u83.to-pack",
+   "en": "to pack",
+   "es": "empacar",
+   "kind": "chunk",
+   "emoji": "🎒"
+  },
+  {
+   "id": "u83.to-check-in",
+   "en": "to check in",
+   "es": "registrarse",
+   "kind": "chunk",
+   "emoji": "🏨"
+  },
+  {
+   "id": "u83.accommodation",
+   "en": "accommodation",
+   "es": "alojamiento",
+   "kind": "word",
+   "emoji": "🏨",
+   "say": "a-ko-mo-déi-shon"
+  },
+  {
+   "id": "u83.guesthouse",
+   "en": "guesthouse",
+   "es": "casa de huéspedes",
+   "kind": "word",
+   "emoji": "🏡"
+  },
+  {
+   "id": "u83.to-book",
+   "en": "to book",
+   "es": "reservar",
+   "kind": "chunk",
+   "emoji": "📖",
+   "say": "buk"
+  },
+  {
+   "id": "u83.scenery",
+   "en": "scenery",
+   "es": "paisaje",
+   "kind": "word",
+   "emoji": "🏞️",
+   "say": "sí-ne-ri"
+  },
+  {
+   "id": "u83.breathtaking",
+   "en": "breathtaking",
+   "es": "impresionante",
+   "kind": "word",
+   "emoji": "😮",
+   "say": "brez-téi-king"
+  },
+  {
+   "id": "u83.to-get-lost",
+   "en": "to get lost",
+   "es": "perderse",
+   "kind": "chunk",
+   "emoji": "🧭"
+  },
+  {
+   "id": "u83.directions",
+   "en": "directions",
+   "es": "indicaciones",
+   "kind": "word",
+   "emoji": "➡️"
+  },
+  {
+   "id": "u83.to-exchange",
+   "en": "to exchange",
+   "es": "cambiar (dinero)",
+   "kind": "chunk",
+   "emoji": "💶"
+  },
+  {
+   "id": "u83.to-explore",
+   "en": "to explore",
+   "es": "explorar",
+   "kind": "chunk",
+   "emoji": "🗺️",
+   "say": "eks-plór"
+  },
+  {
+   "id": "u83.worth-it",
+   "en": "worth it",
+   "es": "que vale la pena",
+   "kind": "chunk",
+   "emoji": "👍"
+  },
+  {
+   "id": "u83.to-recommend",
+   "en": "to recommend",
+   "es": "recomendar",
+   "kind": "chunk",
+   "emoji": "💬",
+   "say": "re-ko-ménd"
+  },
+  {
+   "id": "u83.to-wander",
+   "en": "to wander",
+   "es": "deambular",
+   "kind": "chunk",
+   "emoji": "🚶",
+   "say": "uón-der"
+  },
+  {
+   "id": "u83.off-the-beaten-path",
+   "en": "off the beaten path",
+   "es": "fuera de lo turístico",
+   "kind": "chunk",
+   "emoji": "🌿"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u83-viajes-b2-l1",
+   "title": "1. journey, to board, delay…",
+   "focus": "listening",
+   "newItems": [
+    "u83.journey",
+    "u83.to-board",
+    "u83.delay",
+    "u83.to-miss-a-flight",
+    "u83.to-pack"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u83.journey",
+      "u83.to-board"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u83.delay",
+      "u83.to-miss-a-flight"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u83.to-pack"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.journey",
+      "u83.to-board",
+      "u83.delay",
+      "u83.to-miss-a-flight",
+      "u83.to-pack"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.journey",
+      "u83.to-board",
+      "u83.delay",
+      "u83.to-miss-a-flight",
+      "u83.to-pack"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.journey",
+      "u83.to-board",
+      "u83.delay",
+      "u83.to-miss-a-flight",
+      "u83.to-pack"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u83-viajes-b2-l2",
+   "title": "2. to check in, accommodation, guesthouse…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u83.to-check-in",
+    "u83.accommodation",
+    "u83.guesthouse",
+    "u83.to-book",
+    "u83.scenery"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u83.to-check-in",
+      "u83.accommodation"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u83.guesthouse",
+      "u83.to-book"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u83.scenery"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.to-check-in",
+      "u83.accommodation",
+      "u83.guesthouse",
+      "u83.to-book",
+      "u83.scenery"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.to-check-in",
+      "u83.accommodation",
+      "u83.guesthouse",
+      "u83.to-book",
+      "u83.scenery"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.to-check-in",
+      "u83.accommodation",
+      "u83.guesthouse",
+      "u83.to-book",
+      "u83.scenery"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.journey",
+      "u83.to-board",
+      "u83.delay",
+      "u83.to-miss-a-flight",
+      "u83.to-pack"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u83-viajes-b2-l3",
+   "title": "3. breathtaking, to get lost, directions…",
+   "focus": "reading",
+   "newItems": [
+    "u83.breathtaking",
+    "u83.to-get-lost",
+    "u83.directions",
+    "u83.to-exchange",
+    "u83.to-explore"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u83.breathtaking",
+      "u83.to-get-lost"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u83.directions",
+      "u83.to-exchange"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u83.to-explore"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.breathtaking",
+      "u83.to-get-lost",
+      "u83.directions",
+      "u83.to-exchange",
+      "u83.to-explore"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.breathtaking",
+      "u83.to-get-lost",
+      "u83.directions",
+      "u83.to-exchange",
+      "u83.to-explore"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.breathtaking",
+      "u83.to-get-lost",
+      "u83.directions",
+      "u83.to-exchange",
+      "u83.to-explore"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.to-pack",
+      "u83.to-check-in",
+      "u83.accommodation",
+      "u83.guesthouse",
+      "u83.to-book",
+      "u83.scenery"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u83-viajes-b2-l4",
+   "title": "4. worth it, to recommend, to wander…",
+   "focus": "listening",
+   "newItems": [
+    "u83.worth-it",
+    "u83.to-recommend",
+    "u83.to-wander",
+    "u83.off-the-beaten-path"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u83.worth-it",
+      "u83.to-recommend"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u83.to-wander",
+      "u83.off-the-beaten-path"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.worth-it",
+      "u83.to-recommend",
+      "u83.to-wander",
+      "u83.off-the-beaten-path"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 8
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.worth-it",
+      "u83.to-recommend",
+      "u83.to-wander",
+      "u83.off-the-beaten-path"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 4
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.worth-it",
+      "u83.to-recommend",
+      "u83.to-wander",
+      "u83.off-the-beaten-path"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.scenery",
+      "u83.breathtaking",
+      "u83.to-get-lost",
+      "u83.directions",
+      "u83.to-exchange",
+      "u83.to-explore"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u83-viajes-b2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "story",
+     "title": "A trip I'll never forget",
+     "emoji": "🌋",
+     "paragraphs": [
+      {
+       "en": "Last summer I traveled abroad for the first time.",
+       "es": "El verano pasado viajé al extranjero por primera vez."
+      },
+      {
+       "en": "The flight was delayed, and I almost missed my connection.",
+       "es": "El vuelo se retrasó y casi pierdo mi conexión."
+      },
+      {
+       "en": "When I finally arrived, the scenery was breathtaking.",
+       "es": "Cuando por fin llegué, el paisaje era impresionante."
+      },
+      {
+       "en": "I stayed in a small guesthouse and talked to the locals every day.",
+       "es": "Me quedé en una pequeña casa de huéspedes y hablaba con los locales cada día."
+      },
+      {
+       "en": "It was an unforgettable adventure, and it was totally worth it.",
+       "es": "Fue una aventura inolvidable, y valió totalmente la pena."
+      }
+     ],
+     "questions": [
+      {
+       "q": "¿Qué pasó con el vuelo?",
+       "options": [
+        "Se retrasó",
+        "Se canceló",
+        "Salió temprano"
+       ],
+       "answer": 0
+      },
+      {
+       "q": "¿Cómo describe el viaje al final?",
+       "options": [
+        "Aburrido",
+        "Inolvidable",
+        "Corto"
+       ],
+       "answer": 1
+      }
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u83.to-get-lost",
+      "u83.directions",
+      "u83.to-exchange",
+      "u83.to-explore",
+      "u83.worth-it",
+      "u83.to-recommend",
+      "u83.to-wander",
+      "u83.off-the-beaten-path"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

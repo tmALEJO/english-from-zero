@@ -1,0 +1,1044 @@
+{
+ "_generated": true,
+ "id": "u95-idioms-1",
+ "level": "C1",
+ "title": "Expresiones idiomáticas (1)",
+ "emoji": "🦉",
+ "canDo": "Ya entiendo y uso expresiones idiomáticas comunes",
+ "summary": "Expresiones que no se entienden palabra por palabra pero que los nativos usan todo el tiempo.",
+ "grammar": [
+  "Expresiones idiomáticas"
+ ],
+ "items": [
+  {
+   "id": "u95.to-break-the-ice",
+   "en": "to break the ice",
+   "es": "romper el hielo",
+   "kind": "chunk",
+   "emoji": "🧊"
+  },
+  {
+   "id": "u95.to-hit-the-books",
+   "en": "to hit the books",
+   "es": "ponerse a estudiar duro",
+   "kind": "chunk",
+   "emoji": "📚"
+  },
+  {
+   "id": "u95.to-cost-an-arm-and-a-leg",
+   "en": "to cost an arm and a leg",
+   "es": "costar un ojo de la cara",
+   "kind": "chunk",
+   "emoji": "💸"
+  },
+  {
+   "id": "u95.to-feel-under-the-weather",
+   "en": "to feel under the weather",
+   "es": "sentirse mal / indispuesto",
+   "kind": "chunk",
+   "emoji": "🤒"
+  },
+  {
+   "id": "u95.to-pull-someone-s-leg",
+   "en": "to pull someone's leg",
+   "es": "tomar el pelo a alguien",
+   "kind": "chunk",
+   "emoji": "🦵"
+  },
+  {
+   "id": "u95.to-be-on-the-same-page",
+   "en": "to be on the same page",
+   "es": "estar de acuerdo / en sintonía",
+   "kind": "chunk",
+   "emoji": "📄"
+  },
+  {
+   "id": "u95.to-get-the-hang-of-it",
+   "en": "to get the hang of it",
+   "es": "agarrarle el truco",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u95.to-bite-off-more-than-you-can-chew",
+   "en": "to bite off more than you can chew",
+   "es": "abarcar más de lo que puedes",
+   "kind": "chunk",
+   "emoji": "🍽️"
+  },
+  {
+   "id": "u95.to-call-it-a-day",
+   "en": "to call it a day",
+   "es": "dar por terminado el día",
+   "kind": "chunk",
+   "emoji": "🌇"
+  },
+  {
+   "id": "u95.a-piece-of-cake",
+   "en": "a piece of cake",
+   "es": "pan comido / muy fácil",
+   "kind": "chunk",
+   "emoji": "🍰"
+  },
+  {
+   "id": "u95.to-beat-around-the-bush",
+   "en": "to beat around the bush",
+   "es": "andarse con rodeos",
+   "kind": "chunk",
+   "emoji": "🌳"
+  },
+  {
+   "id": "u95.to-spill-the-beans",
+   "en": "to spill the beans",
+   "es": "revelar un secreto",
+   "kind": "chunk",
+   "emoji": "🫘"
+  },
+  {
+   "id": "u95.to-cut-corners",
+   "en": "to cut corners",
+   "es": "hacer las cosas a medias",
+   "kind": "chunk",
+   "emoji": "✂️"
+  },
+  {
+   "id": "u95.to-be-in-hot-water",
+   "en": "to be in hot water",
+   "es": "estar en problemas",
+   "kind": "chunk",
+   "emoji": "🔥"
+  },
+  {
+   "id": "u95.to-let-the-cat-out-of-the-bag",
+   "en": "to let the cat out of the bag",
+   "es": "revelar el secreto sin querer",
+   "kind": "chunk",
+   "emoji": "🐈"
+  },
+  {
+   "id": "u95.to-play-it-by-ear",
+   "en": "to play it by ear",
+   "es": "improvisar",
+   "kind": "chunk",
+   "emoji": "👂"
+  },
+  {
+   "id": "u95.to-go-the-extra-mile",
+   "en": "to go the extra mile",
+   "es": "hacer un esfuerzo extra",
+   "kind": "chunk",
+   "emoji": "🏃"
+  },
+  {
+   "id": "u95.to-be-a-blessing-in-disguise",
+   "en": "to be a blessing in disguise",
+   "es": "no hay mal que por bien no venga",
+   "kind": "chunk",
+   "emoji": "🎁"
+  },
+  {
+   "id": "u95.to-jump-on-the-bandwagon",
+   "en": "to jump on the bandwagon",
+   "es": "sumarse a la moda",
+   "kind": "chunk",
+   "emoji": "🚋"
+  },
+  {
+   "id": "u95.to-be-the-last-straw",
+   "en": "to be the last straw",
+   "es": "ser la gota que colma el vaso",
+   "kind": "chunk",
+   "emoji": "🥤"
+  },
+  {
+   "id": "u95.to-burn-the-midnight-oil",
+   "en": "to burn the midnight oil",
+   "es": "quedarse hasta tarde trabajando",
+   "kind": "chunk",
+   "emoji": "🕯️"
+  },
+  {
+   "id": "u95.to-be-worth-a-shot",
+   "en": "to be worth a shot",
+   "es": "valer la pena intentarlo",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u95.to-rain-cats-and-dogs",
+   "en": "to rain cats and dogs",
+   "es": "llover a cántaros",
+   "kind": "chunk",
+   "emoji": "🌧️"
+  },
+  {
+   "id": "u95.to-hit-the-nail-on-the-head",
+   "en": "to hit the nail on the head",
+   "es": "dar en el clavo",
+   "kind": "chunk",
+   "emoji": "🔨"
+  },
+  {
+   "id": "u95.to-be-out-of-the-blue",
+   "en": "to be out of the blue",
+   "es": "de la nada / inesperado",
+   "kind": "chunk",
+   "emoji": "🔵"
+  },
+  {
+   "id": "u95.to-see-eye-to-eye",
+   "en": "to see eye to eye",
+   "es": "estar de acuerdo",
+   "kind": "chunk",
+   "emoji": "👀"
+  },
+  {
+   "id": "u95.to-take-it-with-a-grain-of-salt",
+   "en": "to take it with a grain of salt",
+   "es": "tomarlo con pinzas",
+   "kind": "chunk",
+   "emoji": "🧂"
+  },
+  {
+   "id": "u95.to-be-a-piece-of-work",
+   "en": "to be a piece of work",
+   "es": "ser todo un caso",
+   "kind": "chunk",
+   "emoji": "🧩"
+  },
+  {
+   "id": "u95.to-have-mixed-feelings",
+   "en": "to have mixed feelings",
+   "es": "tener sentimientos encontrados",
+   "kind": "chunk",
+   "emoji": "🤔"
+  },
+  {
+   "id": "u95.to-be-second-to-none",
+   "en": "to be second to none",
+   "es": "no tener rival",
+   "kind": "chunk",
+   "emoji": "🥇"
+  },
+  {
+   "id": "u95.to-keep-an-eye-on",
+   "en": "to keep an eye on",
+   "es": "vigilar / estar pendiente",
+   "kind": "chunk",
+   "emoji": "👁️"
+  },
+  {
+   "id": "u95.to-be-in-the-same-boat",
+   "en": "to be in the same boat",
+   "es": "estar en la misma situación",
+   "kind": "chunk",
+   "emoji": "🚣"
+  },
+  {
+   "id": "u95.to-sit-on-the-fence",
+   "en": "to sit on the fence",
+   "es": "no decidirse",
+   "kind": "chunk",
+   "emoji": "🪜"
+  },
+  {
+   "id": "u95.to-make-ends-meet",
+   "en": "to make ends meet",
+   "es": "llegar a fin de mes",
+   "kind": "chunk",
+   "emoji": "🪙"
+  },
+  {
+   "id": "u95.to-be-snowed-under",
+   "en": "to be snowed under",
+   "es": "estar hasta el cuello de trabajo",
+   "kind": "chunk",
+   "emoji": "❄️"
+  },
+  {
+   "id": "u95.to-get-out-of-hand",
+   "en": "to get out of hand",
+   "es": "irse de las manos",
+   "kind": "chunk",
+   "emoji": "🙌"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u95-idioms-1-l1",
+   "title": "1. to break the ice, to hit the books, to cost an arm and a leg…",
+   "focus": "listening",
+   "newItems": [
+    "u95.to-break-the-ice",
+    "u95.to-hit-the-books",
+    "u95.to-cost-an-arm-and-a-leg",
+    "u95.to-feel-under-the-weather",
+    "u95.to-pull-someone-s-leg"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-break-the-ice",
+      "u95.to-hit-the-books"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-cost-an-arm-and-a-leg",
+      "u95.to-feel-under-the-weather"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-pull-someone-s-leg"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-break-the-ice",
+      "u95.to-hit-the-books",
+      "u95.to-cost-an-arm-and-a-leg",
+      "u95.to-feel-under-the-weather",
+      "u95.to-pull-someone-s-leg"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-break-the-ice",
+      "u95.to-hit-the-books",
+      "u95.to-cost-an-arm-and-a-leg",
+      "u95.to-feel-under-the-weather",
+      "u95.to-pull-someone-s-leg"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-break-the-ice",
+      "u95.to-hit-the-books",
+      "u95.to-cost-an-arm-and-a-leg",
+      "u95.to-feel-under-the-weather",
+      "u95.to-pull-someone-s-leg"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-l2",
+   "title": "2. to be on the same page, to get the hang of it, to bite off more than you can chew…",
+   "focus": "grammar",
+   "newItems": [
+    "u95.to-be-on-the-same-page",
+    "u95.to-get-the-hang-of-it",
+    "u95.to-bite-off-more-than-you-can-chew",
+    "u95.to-call-it-a-day",
+    "u95.a-piece-of-cake"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-be-on-the-same-page",
+      "u95.to-get-the-hang-of-it"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-bite-off-more-than-you-can-chew",
+      "u95.to-call-it-a-day"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.a-piece-of-cake"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-be-on-the-same-page",
+      "u95.to-get-the-hang-of-it",
+      "u95.to-bite-off-more-than-you-can-chew",
+      "u95.to-call-it-a-day",
+      "u95.a-piece-of-cake"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-be-on-the-same-page",
+      "u95.to-get-the-hang-of-it",
+      "u95.to-bite-off-more-than-you-can-chew",
+      "u95.to-call-it-a-day",
+      "u95.a-piece-of-cake"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-be-on-the-same-page",
+      "u95.to-get-the-hang-of-it",
+      "u95.to-bite-off-more-than-you-can-chew",
+      "u95.to-call-it-a-day",
+      "u95.a-piece-of-cake"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-break-the-ice",
+      "u95.to-hit-the-books",
+      "u95.to-cost-an-arm-and-a-leg",
+      "u95.to-feel-under-the-weather",
+      "u95.to-pull-someone-s-leg"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Las expresiones idiomáticas NO son literales",
+     "intro": "Fíjate en lo que significan de verdad.",
+     "examples": [
+      {
+       "en": "Let's break the ice.",
+       "es": "Rompamos el hielo (empecemos a hablar).",
+       "mark": [
+        "break the ice"
+       ]
+      },
+      {
+       "en": "That car cost an arm and a leg.",
+       "es": "Ese carro costó un ojo de la cara.",
+       "mark": [
+        "an arm and a leg"
+       ]
+      },
+      {
+       "en": "The exam was a piece of cake.",
+       "es": "El examen fue pan comido.",
+       "mark": [
+        "a piece of cake"
+       ]
+      },
+      {
+       "en": "Stop beating around the bush.",
+       "es": "Deja de andarte con rodeos.",
+       "mark": [
+        "beating around the bush"
+       ]
+      }
+     ],
+     "question": "Si algo es 'a piece of cake', es…",
+     "options": [
+      "delicioso",
+      "muy fácil",
+      "muy caro"
+     ],
+     "answer": 1,
+     "rule": "Las expresiones idiomáticas (idioms) tienen un significado fijo que no se deduce de las palabras. 'A piece of cake' no habla de pastel: significa 'muy fácil'. Hay que aprenderlas como bloques.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-l3",
+   "title": "3. to beat around the bush, to spill the beans, to cut corners…",
+   "focus": "reading",
+   "newItems": [
+    "u95.to-beat-around-the-bush",
+    "u95.to-spill-the-beans",
+    "u95.to-cut-corners",
+    "u95.to-be-in-hot-water",
+    "u95.to-let-the-cat-out-of-the-bag"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-beat-around-the-bush",
+      "u95.to-spill-the-beans"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-cut-corners",
+      "u95.to-be-in-hot-water"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-let-the-cat-out-of-the-bag"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-beat-around-the-bush",
+      "u95.to-spill-the-beans",
+      "u95.to-cut-corners",
+      "u95.to-be-in-hot-water",
+      "u95.to-let-the-cat-out-of-the-bag"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-beat-around-the-bush",
+      "u95.to-spill-the-beans",
+      "u95.to-cut-corners",
+      "u95.to-be-in-hot-water",
+      "u95.to-let-the-cat-out-of-the-bag"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-beat-around-the-bush",
+      "u95.to-spill-the-beans",
+      "u95.to-cut-corners",
+      "u95.to-be-in-hot-water",
+      "u95.to-let-the-cat-out-of-the-bag"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-pull-someone-s-leg",
+      "u95.to-be-on-the-same-page",
+      "u95.to-get-the-hang-of-it",
+      "u95.to-bite-off-more-than-you-can-chew",
+      "u95.to-call-it-a-day",
+      "u95.a-piece-of-cake"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-l4",
+   "title": "4. to play it by ear, to go the extra mile, to be a blessing in disguise…",
+   "focus": "listening",
+   "newItems": [
+    "u95.to-play-it-by-ear",
+    "u95.to-go-the-extra-mile",
+    "u95.to-be-a-blessing-in-disguise",
+    "u95.to-jump-on-the-bandwagon",
+    "u95.to-be-the-last-straw"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-play-it-by-ear",
+      "u95.to-go-the-extra-mile"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-be-a-blessing-in-disguise",
+      "u95.to-jump-on-the-bandwagon"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-be-the-last-straw"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-play-it-by-ear",
+      "u95.to-go-the-extra-mile",
+      "u95.to-be-a-blessing-in-disguise",
+      "u95.to-jump-on-the-bandwagon",
+      "u95.to-be-the-last-straw"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-play-it-by-ear",
+      "u95.to-go-the-extra-mile",
+      "u95.to-be-a-blessing-in-disguise",
+      "u95.to-jump-on-the-bandwagon",
+      "u95.to-be-the-last-straw"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-play-it-by-ear",
+      "u95.to-go-the-extra-mile",
+      "u95.to-be-a-blessing-in-disguise",
+      "u95.to-jump-on-the-bandwagon",
+      "u95.to-be-the-last-straw"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.a-piece-of-cake",
+      "u95.to-beat-around-the-bush",
+      "u95.to-spill-the-beans",
+      "u95.to-cut-corners",
+      "u95.to-be-in-hot-water",
+      "u95.to-let-the-cat-out-of-the-bag"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-l5",
+   "title": "5. to burn the midnight oil, to be worth a shot, to rain cats and dogs…",
+   "focus": "listening",
+   "newItems": [
+    "u95.to-burn-the-midnight-oil",
+    "u95.to-be-worth-a-shot",
+    "u95.to-rain-cats-and-dogs",
+    "u95.to-hit-the-nail-on-the-head",
+    "u95.to-be-out-of-the-blue"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-burn-the-midnight-oil",
+      "u95.to-be-worth-a-shot"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-rain-cats-and-dogs",
+      "u95.to-hit-the-nail-on-the-head"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-be-out-of-the-blue"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-burn-the-midnight-oil",
+      "u95.to-be-worth-a-shot",
+      "u95.to-rain-cats-and-dogs",
+      "u95.to-hit-the-nail-on-the-head",
+      "u95.to-be-out-of-the-blue"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-burn-the-midnight-oil",
+      "u95.to-be-worth-a-shot",
+      "u95.to-rain-cats-and-dogs",
+      "u95.to-hit-the-nail-on-the-head",
+      "u95.to-be-out-of-the-blue"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-burn-the-midnight-oil",
+      "u95.to-be-worth-a-shot",
+      "u95.to-rain-cats-and-dogs",
+      "u95.to-hit-the-nail-on-the-head",
+      "u95.to-be-out-of-the-blue"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-let-the-cat-out-of-the-bag",
+      "u95.to-play-it-by-ear",
+      "u95.to-go-the-extra-mile",
+      "u95.to-be-a-blessing-in-disguise",
+      "u95.to-jump-on-the-bandwagon",
+      "u95.to-be-the-last-straw"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-l6",
+   "title": "6. to see eye to eye, to take it with a grain of salt, to be a piece of work…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u95.to-see-eye-to-eye",
+    "u95.to-take-it-with-a-grain-of-salt",
+    "u95.to-be-a-piece-of-work",
+    "u95.to-have-mixed-feelings",
+    "u95.to-be-second-to-none"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-see-eye-to-eye",
+      "u95.to-take-it-with-a-grain-of-salt"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-be-a-piece-of-work",
+      "u95.to-have-mixed-feelings"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-be-second-to-none"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-see-eye-to-eye",
+      "u95.to-take-it-with-a-grain-of-salt",
+      "u95.to-be-a-piece-of-work",
+      "u95.to-have-mixed-feelings",
+      "u95.to-be-second-to-none"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-see-eye-to-eye",
+      "u95.to-take-it-with-a-grain-of-salt",
+      "u95.to-be-a-piece-of-work",
+      "u95.to-have-mixed-feelings",
+      "u95.to-be-second-to-none"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-see-eye-to-eye",
+      "u95.to-take-it-with-a-grain-of-salt",
+      "u95.to-be-a-piece-of-work",
+      "u95.to-have-mixed-feelings",
+      "u95.to-be-second-to-none"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-be-the-last-straw",
+      "u95.to-burn-the-midnight-oil",
+      "u95.to-be-worth-a-shot",
+      "u95.to-rain-cats-and-dogs",
+      "u95.to-hit-the-nail-on-the-head",
+      "u95.to-be-out-of-the-blue"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-l7",
+   "title": "7. to keep an eye on, to be in the same boat, to sit on the fence…",
+   "focus": "reading",
+   "newItems": [
+    "u95.to-keep-an-eye-on",
+    "u95.to-be-in-the-same-boat",
+    "u95.to-sit-on-the-fence",
+    "u95.to-make-ends-meet",
+    "u95.to-be-snowed-under"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-keep-an-eye-on",
+      "u95.to-be-in-the-same-boat"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-sit-on-the-fence",
+      "u95.to-make-ends-meet"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u95.to-be-snowed-under"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-keep-an-eye-on",
+      "u95.to-be-in-the-same-boat",
+      "u95.to-sit-on-the-fence",
+      "u95.to-make-ends-meet",
+      "u95.to-be-snowed-under"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-keep-an-eye-on",
+      "u95.to-be-in-the-same-boat",
+      "u95.to-sit-on-the-fence",
+      "u95.to-make-ends-meet",
+      "u95.to-be-snowed-under"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-keep-an-eye-on",
+      "u95.to-be-in-the-same-boat",
+      "u95.to-sit-on-the-fence",
+      "u95.to-make-ends-meet",
+      "u95.to-be-snowed-under"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-be-out-of-the-blue",
+      "u95.to-see-eye-to-eye",
+      "u95.to-take-it-with-a-grain-of-salt",
+      "u95.to-be-a-piece-of-work",
+      "u95.to-have-mixed-feelings",
+      "u95.to-be-second-to-none"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-l8",
+   "title": "8. to get out of hand",
+   "focus": "listening",
+   "newItems": [
+    "u95.to-get-out-of-hand"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u95.to-get-out-of-hand"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-get-out-of-hand"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-get-out-of-hand"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-get-out-of-hand"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-be-second-to-none",
+      "u95.to-keep-an-eye-on",
+      "u95.to-be-in-the-same-boat",
+      "u95.to-sit-on-the-fence",
+      "u95.to-make-ends-meet",
+      "u95.to-be-snowed-under"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u95-idioms-1-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u95.to-have-mixed-feelings",
+      "u95.to-be-second-to-none",
+      "u95.to-keep-an-eye-on",
+      "u95.to-be-in-the-same-boat",
+      "u95.to-sit-on-the-fence",
+      "u95.to-make-ends-meet",
+      "u95.to-be-snowed-under",
+      "u95.to-get-out-of-hand"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,815 @@
+{
+ "_generated": true,
+ "id": "u104-idioms-4",
+ "level": "C1",
+ "title": "Dichos y proverbios",
+ "emoji": "📜",
+ "canDo": "Ya entiendo dichos y proverbios ingleses",
+ "summary": "Dichos y proverbios que los nativos usan para dar consejos o resumir una idea.",
+ "grammar": [
+  "Proverbios y dichos"
+ ],
+ "items": [
+  {
+   "id": "u104.practice-makes-perfect",
+   "en": "practice makes perfect",
+   "es": "la práctica hace al maestro",
+   "kind": "chunk",
+   "emoji": "🎯"
+  },
+  {
+   "id": "u104.don-t-judge-a-book-by-its-cover",
+   "en": "don't judge a book by its cover",
+   "es": "no juzgues por las apariencias",
+   "kind": "chunk",
+   "emoji": "📘"
+  },
+  {
+   "id": "u104.when-in-rome-do-as-the-romans-do",
+   "en": "when in Rome, do as the Romans do",
+   "es": "donde fueres, haz lo que vieres",
+   "kind": "chunk",
+   "emoji": "🏛️"
+  },
+  {
+   "id": "u104.every-cloud-has-a-silver-lining",
+   "en": "every cloud has a silver lining",
+   "es": "no hay mal que por bien no venga",
+   "kind": "chunk",
+   "emoji": "☁️"
+  },
+  {
+   "id": "u104.the-grass-is-always-greener",
+   "en": "the grass is always greener",
+   "es": "siempre se ve mejor lo ajeno",
+   "kind": "chunk",
+   "emoji": "🌱"
+  },
+  {
+   "id": "u104.don-t-count-your-chickens",
+   "en": "don't count your chickens",
+   "es": "no cantes victoria antes de tiempo",
+   "kind": "chunk",
+   "emoji": "🐔"
+  },
+  {
+   "id": "u104.kill-two-birds-with-one-stone",
+   "en": "kill two birds with one stone",
+   "es": "matar dos pájaros de un tiro",
+   "kind": "chunk",
+   "emoji": "🐦"
+  },
+  {
+   "id": "u104.easier-said-than-done",
+   "en": "easier said than done",
+   "es": "del dicho al hecho hay mucho trecho",
+   "kind": "chunk",
+   "emoji": "🗣️"
+  },
+  {
+   "id": "u104.better-safe-than-sorry",
+   "en": "better safe than sorry",
+   "es": "más vale prevenir que lamentar",
+   "kind": "chunk",
+   "emoji": "🛡️"
+  },
+  {
+   "id": "u104.honesty-is-the-best-policy",
+   "en": "honesty is the best policy",
+   "es": "la honestidad es lo mejor",
+   "kind": "chunk",
+   "emoji": "✋"
+  },
+  {
+   "id": "u104.look-before-you-leap",
+   "en": "look before you leap",
+   "es": "mira antes de saltar",
+   "kind": "chunk",
+   "emoji": "🦘"
+  },
+  {
+   "id": "u104.two-heads-are-better-than-one",
+   "en": "two heads are better than one",
+   "es": "cuatro ojos ven más que dos",
+   "kind": "chunk",
+   "emoji": "👥"
+  },
+  {
+   "id": "u104.there-s-no-place-like-home",
+   "en": "there's no place like home",
+   "es": "como en casa, en ningún lado",
+   "kind": "chunk",
+   "emoji": "🏠"
+  },
+  {
+   "id": "u104.time-heals-all-wounds",
+   "en": "time heals all wounds",
+   "es": "el tiempo lo cura todo",
+   "kind": "chunk",
+   "emoji": "⏳"
+  },
+  {
+   "id": "u104.curiosity-killed-the-cat",
+   "en": "curiosity killed the cat",
+   "es": "la curiosidad mató al gato",
+   "kind": "chunk",
+   "emoji": "🐈"
+  },
+  {
+   "id": "u104.to-add-insult-to-injury",
+   "en": "to add insult to injury",
+   "es": "para colmo de males",
+   "kind": "chunk",
+   "emoji": "😖"
+  },
+  {
+   "id": "u104.to-beat-a-dead-horse",
+   "en": "to beat a dead horse",
+   "es": "insistir en lo inútil",
+   "kind": "chunk",
+   "emoji": "🐴"
+  },
+  {
+   "id": "u104.to-burn-bridges",
+   "en": "to burn bridges",
+   "es": "quemar las naves",
+   "kind": "chunk",
+   "emoji": "🌉"
+  },
+  {
+   "id": "u104.to-get-a-taste-of-your-own-medicine",
+   "en": "to get a taste of your own medicine",
+   "es": "probar tu propia medicina",
+   "kind": "chunk",
+   "emoji": "💊"
+  },
+  {
+   "id": "u104.to-have-a-chip-on-your-shoulder",
+   "en": "to have a chip on your shoulder",
+   "es": "guardar rencor",
+   "kind": "chunk",
+   "emoji": "🪵"
+  },
+  {
+   "id": "u104.to-let-sleeping-dogs-lie",
+   "en": "to let sleeping dogs lie",
+   "es": "no remover el pasado",
+   "kind": "chunk",
+   "emoji": "🐕"
+  },
+  {
+   "id": "u104.to-be-barking-up-the-wrong-tree",
+   "en": "to be barking up the wrong tree",
+   "es": "errar el tiro",
+   "kind": "chunk",
+   "emoji": "🌳"
+  },
+  {
+   "id": "u104.to-throw-in-the-towel",
+   "en": "to throw in the towel",
+   "es": "tirar la toalla",
+   "kind": "chunk",
+   "emoji": "🤍"
+  },
+  {
+   "id": "u104.to-be-between-a-rock-and-a-hard-place",
+   "en": "to be between a rock and a hard place",
+   "es": "entre la espada y la pared",
+   "kind": "chunk",
+   "emoji": "🪨"
+  },
+  {
+   "id": "u104.to-go-against-the-grain",
+   "en": "to go against the grain",
+   "es": "ir a contracorriente",
+   "kind": "chunk",
+   "emoji": "🌾"
+  },
+  {
+   "id": "u104.to-take-the-plunge",
+   "en": "to take the plunge",
+   "es": "dar el paso / lanzarse",
+   "kind": "chunk",
+   "emoji": "🏊"
+  },
+  {
+   "id": "u104.to-have-a-change-of-heart",
+   "en": "to have a change of heart",
+   "es": "cambiar de opinión",
+   "kind": "chunk",
+   "emoji": "💓"
+  },
+  {
+   "id": "u104.to-miss-the-boat",
+   "en": "to miss the boat",
+   "es": "perder la oportunidad",
+   "kind": "chunk",
+   "emoji": "🚢"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u104-idioms-4-l1",
+   "title": "1. practice makes perfect, don't judge a book by its cover, when in Rome, do as the Romans do…",
+   "focus": "listening",
+   "newItems": [
+    "u104.practice-makes-perfect",
+    "u104.don-t-judge-a-book-by-its-cover",
+    "u104.when-in-rome-do-as-the-romans-do",
+    "u104.every-cloud-has-a-silver-lining",
+    "u104.the-grass-is-always-greener"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u104.practice-makes-perfect",
+      "u104.don-t-judge-a-book-by-its-cover"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.when-in-rome-do-as-the-romans-do",
+      "u104.every-cloud-has-a-silver-lining"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.the-grass-is-always-greener"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.practice-makes-perfect",
+      "u104.don-t-judge-a-book-by-its-cover",
+      "u104.when-in-rome-do-as-the-romans-do",
+      "u104.every-cloud-has-a-silver-lining",
+      "u104.the-grass-is-always-greener"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.practice-makes-perfect",
+      "u104.don-t-judge-a-book-by-its-cover",
+      "u104.when-in-rome-do-as-the-romans-do",
+      "u104.every-cloud-has-a-silver-lining",
+      "u104.the-grass-is-always-greener"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.practice-makes-perfect",
+      "u104.don-t-judge-a-book-by-its-cover",
+      "u104.when-in-rome-do-as-the-romans-do",
+      "u104.every-cloud-has-a-silver-lining",
+      "u104.the-grass-is-always-greener"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u104-idioms-4-l2",
+   "title": "2. don't count your chickens, kill two birds with one stone, easier said than done…",
+   "focus": "grammar",
+   "newItems": [
+    "u104.don-t-count-your-chickens",
+    "u104.kill-two-birds-with-one-stone",
+    "u104.easier-said-than-done",
+    "u104.better-safe-than-sorry",
+    "u104.honesty-is-the-best-policy"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u104.don-t-count-your-chickens",
+      "u104.kill-two-birds-with-one-stone"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.easier-said-than-done",
+      "u104.better-safe-than-sorry"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.honesty-is-the-best-policy"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.don-t-count-your-chickens",
+      "u104.kill-two-birds-with-one-stone",
+      "u104.easier-said-than-done",
+      "u104.better-safe-than-sorry",
+      "u104.honesty-is-the-best-policy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.don-t-count-your-chickens",
+      "u104.kill-two-birds-with-one-stone",
+      "u104.easier-said-than-done",
+      "u104.better-safe-than-sorry",
+      "u104.honesty-is-the-best-policy"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.don-t-count-your-chickens",
+      "u104.kill-two-birds-with-one-stone",
+      "u104.easier-said-than-done",
+      "u104.better-safe-than-sorry",
+      "u104.honesty-is-the-best-policy"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.practice-makes-perfect",
+      "u104.don-t-judge-a-book-by-its-cover",
+      "u104.when-in-rome-do-as-the-romans-do",
+      "u104.every-cloud-has-a-silver-lining",
+      "u104.the-grass-is-always-greener"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Los proverbios se dicen igual siempre",
+     "intro": "Son frases fijas; no se cambian las palabras.",
+     "examples": [
+      {
+       "en": "Better late than never.",
+       "es": "Más vale tarde que nunca.",
+       "mark": [
+        "late"
+       ]
+      },
+      {
+       "en": "Practice makes perfect.",
+       "es": "La práctica hace al maestro.",
+       "mark": [
+        "Practice"
+       ]
+      },
+      {
+       "en": "Actions speak louder than words.",
+       "es": "Obras, no palabras.",
+       "mark": [
+        "Actions"
+       ]
+      },
+      {
+       "en": "Don't judge a book by its cover.",
+       "es": "No juzgues por las apariencias.",
+       "mark": [
+        "judge"
+       ]
+      }
+     ],
+     "question": "Un proverbio como 'practice makes perfect'…",
+     "options": [
+      "se puede cambiar libremente",
+      "se dice siempre con las mismas palabras",
+      "es una pregunta"
+     ],
+     "answer": 1,
+     "rule": "Los proverbios son frases fijas que transmiten sabiduría popular. Se memorizan tal cual: 'practice makes perfect', 'better late than never'. Cambiarles palabras suena raro para un nativo.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u104-idioms-4-l3",
+   "title": "3. look before you leap, two heads are better than one, there's no place like home…",
+   "focus": "reading",
+   "newItems": [
+    "u104.look-before-you-leap",
+    "u104.two-heads-are-better-than-one",
+    "u104.there-s-no-place-like-home",
+    "u104.time-heals-all-wounds",
+    "u104.curiosity-killed-the-cat"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u104.look-before-you-leap",
+      "u104.two-heads-are-better-than-one"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.there-s-no-place-like-home",
+      "u104.time-heals-all-wounds"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.curiosity-killed-the-cat"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.look-before-you-leap",
+      "u104.two-heads-are-better-than-one",
+      "u104.there-s-no-place-like-home",
+      "u104.time-heals-all-wounds",
+      "u104.curiosity-killed-the-cat"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.look-before-you-leap",
+      "u104.two-heads-are-better-than-one",
+      "u104.there-s-no-place-like-home",
+      "u104.time-heals-all-wounds",
+      "u104.curiosity-killed-the-cat"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.look-before-you-leap",
+      "u104.two-heads-are-better-than-one",
+      "u104.there-s-no-place-like-home",
+      "u104.time-heals-all-wounds",
+      "u104.curiosity-killed-the-cat"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.the-grass-is-always-greener",
+      "u104.don-t-count-your-chickens",
+      "u104.kill-two-birds-with-one-stone",
+      "u104.easier-said-than-done",
+      "u104.better-safe-than-sorry",
+      "u104.honesty-is-the-best-policy"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u104-idioms-4-l4",
+   "title": "4. to add insult to injury, to beat a dead horse, to burn bridges…",
+   "focus": "listening",
+   "newItems": [
+    "u104.to-add-insult-to-injury",
+    "u104.to-beat-a-dead-horse",
+    "u104.to-burn-bridges",
+    "u104.to-get-a-taste-of-your-own-medicine",
+    "u104.to-have-a-chip-on-your-shoulder"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u104.to-add-insult-to-injury",
+      "u104.to-beat-a-dead-horse"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.to-burn-bridges",
+      "u104.to-get-a-taste-of-your-own-medicine"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.to-have-a-chip-on-your-shoulder"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-add-insult-to-injury",
+      "u104.to-beat-a-dead-horse",
+      "u104.to-burn-bridges",
+      "u104.to-get-a-taste-of-your-own-medicine",
+      "u104.to-have-a-chip-on-your-shoulder"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-add-insult-to-injury",
+      "u104.to-beat-a-dead-horse",
+      "u104.to-burn-bridges",
+      "u104.to-get-a-taste-of-your-own-medicine",
+      "u104.to-have-a-chip-on-your-shoulder"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-add-insult-to-injury",
+      "u104.to-beat-a-dead-horse",
+      "u104.to-burn-bridges",
+      "u104.to-get-a-taste-of-your-own-medicine",
+      "u104.to-have-a-chip-on-your-shoulder"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.honesty-is-the-best-policy",
+      "u104.look-before-you-leap",
+      "u104.two-heads-are-better-than-one",
+      "u104.there-s-no-place-like-home",
+      "u104.time-heals-all-wounds",
+      "u104.curiosity-killed-the-cat"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u104-idioms-4-l5",
+   "title": "5. to let sleeping dogs lie, to be barking up the wrong tree, to throw in the towel…",
+   "focus": "listening",
+   "newItems": [
+    "u104.to-let-sleeping-dogs-lie",
+    "u104.to-be-barking-up-the-wrong-tree",
+    "u104.to-throw-in-the-towel",
+    "u104.to-be-between-a-rock-and-a-hard-place",
+    "u104.to-go-against-the-grain"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u104.to-let-sleeping-dogs-lie",
+      "u104.to-be-barking-up-the-wrong-tree"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.to-throw-in-the-towel",
+      "u104.to-be-between-a-rock-and-a-hard-place"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.to-go-against-the-grain"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-let-sleeping-dogs-lie",
+      "u104.to-be-barking-up-the-wrong-tree",
+      "u104.to-throw-in-the-towel",
+      "u104.to-be-between-a-rock-and-a-hard-place",
+      "u104.to-go-against-the-grain"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-let-sleeping-dogs-lie",
+      "u104.to-be-barking-up-the-wrong-tree",
+      "u104.to-throw-in-the-towel",
+      "u104.to-be-between-a-rock-and-a-hard-place",
+      "u104.to-go-against-the-grain"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-let-sleeping-dogs-lie",
+      "u104.to-be-barking-up-the-wrong-tree",
+      "u104.to-throw-in-the-towel",
+      "u104.to-be-between-a-rock-and-a-hard-place",
+      "u104.to-go-against-the-grain"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.curiosity-killed-the-cat",
+      "u104.to-add-insult-to-injury",
+      "u104.to-beat-a-dead-horse",
+      "u104.to-burn-bridges",
+      "u104.to-get-a-taste-of-your-own-medicine",
+      "u104.to-have-a-chip-on-your-shoulder"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u104-idioms-4-l6",
+   "title": "6. to take the plunge, to have a change of heart, to miss the boat",
+   "focus": "vocabulary",
+   "newItems": [
+    "u104.to-take-the-plunge",
+    "u104.to-have-a-change-of-heart",
+    "u104.to-miss-the-boat"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u104.to-take-the-plunge",
+      "u104.to-have-a-change-of-heart"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u104.to-miss-the-boat"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-take-the-plunge",
+      "u104.to-have-a-change-of-heart",
+      "u104.to-miss-the-boat"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 6
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-take-the-plunge",
+      "u104.to-have-a-change-of-heart",
+      "u104.to-miss-the-boat"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 3
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-take-the-plunge",
+      "u104.to-have-a-change-of-heart",
+      "u104.to-miss-the-boat"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-have-a-chip-on-your-shoulder",
+      "u104.to-let-sleeping-dogs-lie",
+      "u104.to-be-barking-up-the-wrong-tree",
+      "u104.to-throw-in-the-towel",
+      "u104.to-be-between-a-rock-and-a-hard-place",
+      "u104.to-go-against-the-grain"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u104-idioms-4-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u104.to-let-sleeping-dogs-lie",
+      "u104.to-be-barking-up-the-wrong-tree",
+      "u104.to-throw-in-the-towel",
+      "u104.to-be-between-a-rock-and-a-hard-place",
+      "u104.to-go-against-the-grain",
+      "u104.to-take-the-plunge",
+      "u104.to-have-a-change-of-heart",
+      "u104.to-miss-the-boat"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}

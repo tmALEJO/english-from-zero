@@ -916,6 +916,61 @@
    "status": "ready"
   },
   {
+   "id": "u81-tecnologia-b2",
+   "level": "B2",
+   "title": "Tecnología y vida digital",
+   "emoji": "💻",
+   "canDo": "Ya puedo hablar de tecnología, internet y privacidad",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u82-salud-b2",
+   "level": "B2",
+   "title": "Salud y bienestar",
+   "emoji": "🩺",
+   "canDo": "Ya puedo hablar de salud, hábitos y bienestar con detalle",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u83-viajes-b2",
+   "level": "B2",
+   "title": "Viajes y culturas",
+   "emoji": "🌍",
+   "canDo": "Ya puedo hablar de viajes, culturas y experiencias con detalle",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u102-dinero-b2",
+   "level": "B2",
+   "title": "Dinero y finanzas personales",
+   "emoji": "🏦",
+   "canDo": "Ya manejo vocabulario de dinero, banco y gastos",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u103-situaciones-b2",
+   "level": "B2",
+   "title": "Situaciones y reacciones",
+   "emoji": "💬",
+   "canDo": "Ya reacciono con naturalidad en conversaciones cotidianas",
+   "grammar": [
+    "Expresiones de conversación"
+   ],
+   "status": "ready"
+  },
+  {
    "id": "u75-matices",
    "level": "C1",
    "title": "Matices y registro",
@@ -983,6 +1038,237 @@
    "grammar": [
     "Discourse markers",
     "Fillers y reformulación"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u84-conectores",
+   "level": "C1",
+   "title": "Conectores y discurso",
+   "emoji": "🔗",
+   "canDo": "Ya conecto mis ideas con precisión y naturalidad",
+   "grammar": [
+    "Conectores del discurso"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u85-phrasal-c1",
+   "level": "C1",
+   "title": "Phrasal verbs avanzados",
+   "emoji": "🧩",
+   "canDo": "Ya entiendo y uso phrasal verbs menos obvios",
+   "grammar": [
+    "Phrasal verbs"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u86-colocaciones",
+   "level": "C1",
+   "title": "Colocaciones frecuentes",
+   "emoji": "🧲",
+   "canDo": "Ya combino las palabras como lo hace un nativo",
+   "grammar": [
+    "Colocaciones"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u87-formacion",
+   "level": "C1",
+   "title": "Formación de palabras",
+   "emoji": "🧬",
+   "canDo": "Ya deduzco y formo palabras con prefijos y sufijos",
+   "grammar": [
+    "Formación de palabras"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u88-negocios-c1",
+   "level": "C1",
+   "title": "Negocios y economía",
+   "emoji": "📈",
+   "canDo": "Ya manejo vocabulario de negocios, trabajo y economía",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u89-sociedad-c1",
+   "level": "C1",
+   "title": "Política y sociedad",
+   "emoji": "🏛️",
+   "canDo": "Ya puedo hablar de política, sociedad y actualidad",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u90-ciencia-c1",
+   "level": "C1",
+   "title": "Ciencia e innovación",
+   "emoji": "🔬",
+   "canDo": "Ya puedo hablar de ciencia, investigación y tecnología avanzada",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u91-arte-c1",
+   "level": "C1",
+   "title": "Arte, literatura y medios",
+   "emoji": "🎭",
+   "canDo": "Ya puedo hablar de arte, libros, cine y medios con criterio",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u92-caracter-c1",
+   "level": "C1",
+   "title": "Emociones y carácter",
+   "emoji": "🎭",
+   "canDo": "Ya describo personalidades y emociones con matices",
+   "grammar": [
+    "Vocabulario temático"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u93-opinion-c1",
+   "level": "C1",
+   "title": "Opinión y argumentación",
+   "emoji": "🗣️",
+   "canDo": "Ya defiendo una postura con argumentos y matices",
+   "grammar": [
+    "Lenguaje de opinión y matización"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u94-abstracto-c1",
+   "level": "C1",
+   "title": "Ideas abstractas",
+   "emoji": "💡",
+   "canDo": "Ya manejo vocabulario abstracto para temas complejos",
+   "grammar": [
+    "Vocabulario abstracto"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u95-idioms-1",
+   "level": "C1",
+   "title": "Expresiones idiomáticas (1)",
+   "emoji": "🦉",
+   "canDo": "Ya entiendo y uso expresiones idiomáticas comunes",
+   "grammar": [
+    "Expresiones idiomáticas"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u96-idioms-2",
+   "level": "C1",
+   "title": "Expresiones idiomáticas (2)",
+   "emoji": "🗝️",
+   "canDo": "Ya uso expresiones para describir situaciones y personas",
+   "grammar": [
+    "Expresiones idiomáticas"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u97-formal",
+   "level": "C1",
+   "title": "Lenguaje formal y profesional",
+   "emoji": "🎩",
+   "canDo": "Ya adapto mi inglés a contextos formales y escritos",
+   "grammar": [
+    "Registro formal"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u98-adjetivos-c1",
+   "level": "C1",
+   "title": "Adjetivos precisos",
+   "emoji": "🎚️",
+   "canDo": "Ya elijo el adjetivo exacto en vez de uno genérico",
+   "grammar": [
+    "Adjetivos avanzados"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u99-verbos-c1",
+   "level": "C1",
+   "title": "Verbos precisos",
+   "emoji": "🎯",
+   "canDo": "Ya uso el verbo exacto en vez de uno genérico",
+   "grammar": [
+    "Verbos avanzados"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u100-idioms-3",
+   "level": "C1",
+   "title": "Expresiones idiomáticas (3)",
+   "emoji": "🧠",
+   "canDo": "Ya reconozco expresiones idiomáticas en conversación real",
+   "grammar": [
+    "Expresiones idiomáticas"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u101-academico-2",
+   "level": "C1",
+   "title": "Vocabulario académico",
+   "emoji": "📚",
+   "canDo": "Ya leo y escribo textos académicos con soltura",
+   "grammar": [
+    "Registro académico"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u104-idioms-4",
+   "level": "C1",
+   "title": "Dichos y proverbios",
+   "emoji": "📜",
+   "canDo": "Ya entiendo dichos y proverbios ingleses",
+   "grammar": [
+    "Proverbios y dichos"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u105-matices-2",
+   "level": "C1",
+   "title": "Matices y precisión",
+   "emoji": "🔬",
+   "canDo": "Ya expreso matices finos de significado",
+   "grammar": [
+    "Adverbios y matices"
+   ],
+   "status": "ready"
+  },
+  {
+   "id": "u106-fluidez-2",
+   "level": "C1",
+   "title": "Hablar con naturalidad",
+   "emoji": "🗨️",
+   "canDo": "Ya sueno natural: relleno, cortesía y organización al hablar",
+   "grammar": [
+    "Recursos de fluidez"
    ],
    "status": "ready"
   }
@@ -1228,11 +1514,28 @@
    "passPct": 70
   },
   {
+   "id": "B2-control-3",
+   "level": "B2",
+   "kind": "checkpoint",
+   "title": "Examen de control B2 · 3",
+   "afterUnit": "u82-salud-b2",
+   "units": [
+    "u71-negocios",
+    "u72-sociedad",
+    "u73-futuro-planeta",
+    "u74-idioms",
+    "u81-tecnologia-b2",
+    "u82-salud-b2"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
    "id": "B2-final",
    "level": "B2",
    "kind": "final",
    "title": "Examen final B2",
-   "afterUnit": "u74-idioms",
+   "afterUnit": "u103-situaciones-b2",
    "units": [
     "u59-noticias",
     "u60-imaginar",
@@ -1249,16 +1552,21 @@
     "u71-negocios",
     "u72-sociedad",
     "u73-futuro-planeta",
-    "u74-idioms"
+    "u74-idioms",
+    "u81-tecnologia-b2",
+    "u82-salud-b2",
+    "u83-viajes-b2",
+    "u102-dinero-b2",
+    "u103-situaciones-b2"
    ],
    "questions": 40,
    "passPct": 75
   },
   {
-   "id": "C1-final",
+   "id": "C1-control-1",
    "level": "C1",
-   "kind": "final",
-   "title": "Examen final C1",
+   "kind": "checkpoint",
+   "title": "Examen de control C1 · 1",
    "afterUnit": "u80-fluidez",
    "units": [
     "u75-matices",
@@ -1267,6 +1575,95 @@
     "u78-trabajo-avanzado",
     "u79-humor",
     "u80-fluidez"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "C1-control-2",
+   "level": "C1",
+   "kind": "checkpoint",
+   "title": "Examen de control C1 · 2",
+   "afterUnit": "u89-sociedad-c1",
+   "units": [
+    "u84-conectores",
+    "u85-phrasal-c1",
+    "u86-colocaciones",
+    "u87-formacion",
+    "u88-negocios-c1",
+    "u89-sociedad-c1"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "C1-control-3",
+   "level": "C1",
+   "kind": "checkpoint",
+   "title": "Examen de control C1 · 3",
+   "afterUnit": "u95-idioms-1",
+   "units": [
+    "u90-ciencia-c1",
+    "u91-arte-c1",
+    "u92-caracter-c1",
+    "u93-opinion-c1",
+    "u94-abstracto-c1",
+    "u95-idioms-1"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "C1-control-4",
+   "level": "C1",
+   "kind": "checkpoint",
+   "title": "Examen de control C1 · 4",
+   "afterUnit": "u101-academico-2",
+   "units": [
+    "u96-idioms-2",
+    "u97-formal",
+    "u98-adjetivos-c1",
+    "u99-verbos-c1",
+    "u100-idioms-3",
+    "u101-academico-2"
+   ],
+   "questions": 20,
+   "passPct": 70
+  },
+  {
+   "id": "C1-final",
+   "level": "C1",
+   "kind": "final",
+   "title": "Examen final C1",
+   "afterUnit": "u106-fluidez-2",
+   "units": [
+    "u75-matices",
+    "u76-academico",
+    "u77-idioms-avanzados",
+    "u78-trabajo-avanzado",
+    "u79-humor",
+    "u80-fluidez",
+    "u84-conectores",
+    "u85-phrasal-c1",
+    "u86-colocaciones",
+    "u87-formacion",
+    "u88-negocios-c1",
+    "u89-sociedad-c1",
+    "u90-ciencia-c1",
+    "u91-arte-c1",
+    "u92-caracter-c1",
+    "u93-opinion-c1",
+    "u94-abstracto-c1",
+    "u95-idioms-1",
+    "u96-idioms-2",
+    "u97-formal",
+    "u98-adjetivos-c1",
+    "u99-verbos-c1",
+    "u100-idioms-3",
+    "u101-academico-2",
+    "u104-idioms-4",
+    "u105-matices-2",
+    "u106-fluidez-2"
    ],
    "questions": 40,
    "passPct": 75

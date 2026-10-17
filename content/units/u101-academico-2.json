@@ -1,0 +1,1068 @@
+{
+ "_generated": true,
+ "id": "u101-academico-2",
+ "level": "C1",
+ "title": "Vocabulario académico",
+ "emoji": "📚",
+ "canDo": "Ya leo y escribo textos académicos con soltura",
+ "summary": "Palabras y expresiones típicas de artículos, ensayos y textos académicos.",
+ "grammar": [
+  "Registro académico"
+ ],
+ "items": [
+  {
+   "id": "u101.methodology",
+   "en": "methodology",
+   "es": "metodología",
+   "kind": "word",
+   "emoji": "🧭",
+   "say": "me-zo-dó-lo-yi"
+  },
+  {
+   "id": "u101.to-conduct-a-study",
+   "en": "to conduct",
+   "es": "llevar a cabo (un estudio)",
+   "kind": "chunk",
+   "emoji": "🔬",
+   "tip": "Aquí con el sentido de: a study."
+  },
+  {
+   "id": "u101.to-examine",
+   "en": "to examine",
+   "es": "examinar",
+   "kind": "chunk",
+   "emoji": "🧐",
+   "say": "eg-zá-min"
+  },
+  {
+   "id": "u101.to-investigate",
+   "en": "to investigate",
+   "es": "investigar",
+   "kind": "chunk",
+   "emoji": "🕵️",
+   "say": "in-vés-ti-geit"
+  },
+  {
+   "id": "u101.to-assess",
+   "en": "to assess",
+   "es": "evaluar",
+   "kind": "chunk",
+   "emoji": "📊"
+  },
+  {
+   "id": "u101.to-compile",
+   "en": "to compile",
+   "es": "recopilar",
+   "kind": "chunk",
+   "emoji": "📥",
+   "say": "kom-páil"
+  },
+  {
+   "id": "u101.to-derive",
+   "en": "to derive",
+   "es": "derivar / obtener",
+   "kind": "chunk",
+   "emoji": "📐",
+   "say": "di-ráiv"
+  },
+  {
+   "id": "u101.to-correlate",
+   "en": "to correlate",
+   "es": "correlacionar",
+   "kind": "chunk",
+   "emoji": "🔗",
+   "say": "kó-re-leit"
+  },
+  {
+   "id": "u101.variable",
+   "en": "variable",
+   "es": "variable",
+   "kind": "word",
+   "emoji": "🎚️",
+   "say": "vé-ri-a-bol"
+  },
+  {
+   "id": "u101.criterion",
+   "en": "criterion",
+   "es": "criterio",
+   "kind": "word",
+   "emoji": "📏",
+   "say": "krai-tí-rion"
+  },
+  {
+   "id": "u101.framework",
+   "en": "framework",
+   "es": "marco teórico",
+   "kind": "word",
+   "emoji": "🏗️"
+  },
+  {
+   "id": "u101.to-cite",
+   "en": "to cite",
+   "es": "citar",
+   "kind": "chunk",
+   "emoji": "📎",
+   "say": "sait"
+  },
+  {
+   "id": "u101.reference",
+   "en": "reference",
+   "es": "referencia",
+   "kind": "word",
+   "emoji": "🔖",
+   "say": "ré-fe-rens"
+  },
+  {
+   "id": "u101.abstract",
+   "en": "abstract",
+   "es": "resumen (de un artículo)",
+   "kind": "word",
+   "emoji": "📄"
+  },
+  {
+   "id": "u101.comprehensive",
+   "en": "comprehensive",
+   "es": "exhaustivo / completo",
+   "kind": "word",
+   "emoji": "📚",
+   "say": "kom-pri-jén-siv"
+  },
+  {
+   "id": "u101.preliminary",
+   "en": "preliminary",
+   "es": "preliminar",
+   "kind": "word",
+   "emoji": "🧪",
+   "say": "pri-lí-mi-na-ri"
+  },
+  {
+   "id": "u101.subsequent",
+   "en": "subsequent",
+   "es": "posterior",
+   "kind": "word",
+   "emoji": "⏭️",
+   "say": "sáb-se-kuent"
+  },
+  {
+   "id": "u101.prior",
+   "en": "prior",
+   "es": "previo",
+   "kind": "word",
+   "emoji": "⏮️",
+   "say": "práior"
+  },
+  {
+   "id": "u101.underlying",
+   "en": "underlying",
+   "es": "subyacente",
+   "kind": "word",
+   "emoji": "⬇️",
+   "say": "an-der-lái-ing"
+  },
+  {
+   "id": "u101.significant",
+   "en": "significant",
+   "es": "significativo",
+   "kind": "word",
+   "emoji": "⭐",
+   "say": "sig-ní-fi-kant"
+  },
+  {
+   "id": "u101.substantial",
+   "en": "substantial",
+   "es": "sustancial",
+   "kind": "word",
+   "emoji": "📦"
+  },
+  {
+   "id": "u101.consistent",
+   "en": "consistent",
+   "es": "coherente / constante",
+   "kind": "word",
+   "emoji": "🔁",
+   "say": "kon-sís-tent"
+  },
+  {
+   "id": "u101.inconsistent",
+   "en": "inconsistent",
+   "es": "incoherente",
+   "kind": "word",
+   "emoji": "〰️"
+  },
+  {
+   "id": "u101.to-validate",
+   "en": "to validate",
+   "es": "validar",
+   "kind": "chunk",
+   "emoji": "✅",
+   "say": "vá-li-deit"
+  },
+  {
+   "id": "u101.to-hypothesize",
+   "en": "to hypothesize",
+   "es": "plantear la hipótesis",
+   "kind": "chunk",
+   "emoji": "💭"
+  },
+  {
+   "id": "u101.empirical",
+   "en": "empirical",
+   "es": "empírico",
+   "kind": "word",
+   "emoji": "🔬",
+   "say": "em-pí-ri-kal"
+  },
+  {
+   "id": "u101.theoretical",
+   "en": "theoretical",
+   "es": "teórico",
+   "kind": "word",
+   "emoji": "📘",
+   "say": "zio-ré-ti-kal"
+  },
+  {
+   "id": "u101.qualitative",
+   "en": "qualitative",
+   "es": "cualitativo",
+   "kind": "word",
+   "emoji": "🗂️",
+   "say": "kuó-li-ta-tiv"
+  },
+  {
+   "id": "u101.quantitative",
+   "en": "quantitative",
+   "es": "cuantitativo",
+   "kind": "word",
+   "emoji": "🔢",
+   "say": "kuón-ti-ta-tiv"
+  },
+  {
+   "id": "u101.to-account-for",
+   "en": "to account for",
+   "es": "explicar / representar",
+   "kind": "chunk",
+   "emoji": "🧮"
+  },
+  {
+   "id": "u101.to-attribute-to",
+   "en": "to attribute to",
+   "es": "atribuir a",
+   "kind": "chunk",
+   "emoji": "🎯",
+   "say": "a-trí-biut"
+  },
+  {
+   "id": "u101.in-terms-of",
+   "en": "in terms of",
+   "es": "en cuanto a",
+   "kind": "chunk",
+   "emoji": "📐"
+  },
+  {
+   "id": "u101.with-respect-to",
+   "en": "with respect to",
+   "es": "con respecto a",
+   "kind": "chunk",
+   "emoji": "📎"
+  },
+  {
+   "id": "u101.as-opposed-to",
+   "en": "as opposed to",
+   "es": "a diferencia de",
+   "kind": "chunk",
+   "emoji": "↔️"
+  },
+  {
+   "id": "u101.to-shed-light-on",
+   "en": "to shed light on",
+   "es": "arrojar luz sobre",
+   "kind": "chunk",
+   "emoji": "💡"
+  },
+  {
+   "id": "u101.to-give-rise-to",
+   "en": "to give rise to",
+   "es": "dar lugar a",
+   "kind": "chunk",
+   "emoji": "🌱"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "u101-academico-2-l1",
+   "title": "1. methodology, to conduct, to examine…",
+   "focus": "listening",
+   "newItems": [
+    "u101.methodology",
+    "u101.to-conduct-a-study",
+    "u101.to-examine",
+    "u101.to-investigate",
+    "u101.to-assess"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.methodology",
+      "u101.to-conduct-a-study"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.to-examine",
+      "u101.to-investigate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.to-assess"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.methodology",
+      "u101.to-conduct-a-study",
+      "u101.to-examine",
+      "u101.to-investigate",
+      "u101.to-assess"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.methodology",
+      "u101.to-conduct-a-study",
+      "u101.to-examine",
+      "u101.to-investigate",
+      "u101.to-assess"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.methodology",
+      "u101.to-conduct-a-study",
+      "u101.to-examine",
+      "u101.to-investigate",
+      "u101.to-assess"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-l2",
+   "title": "2. to compile, to derive, to correlate…",
+   "focus": "grammar",
+   "newItems": [
+    "u101.to-compile",
+    "u101.to-derive",
+    "u101.to-correlate",
+    "u101.variable",
+    "u101.criterion"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.to-compile",
+      "u101.to-derive"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.to-correlate",
+      "u101.variable"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.criterion"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-compile",
+      "u101.to-derive",
+      "u101.to-correlate",
+      "u101.variable",
+      "u101.criterion"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-compile",
+      "u101.to-derive",
+      "u101.to-correlate",
+      "u101.variable",
+      "u101.criterion"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-compile",
+      "u101.to-derive",
+      "u101.to-correlate",
+      "u101.variable",
+      "u101.criterion"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.methodology",
+      "u101.to-conduct-a-study",
+      "u101.to-examine",
+      "u101.to-investigate",
+      "u101.to-assess"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    },
+    {
+     "type": "discover",
+     "topic": "Lenguaje académico: cómo presentar resultados",
+     "intro": "Fíjate en cómo se escribe en un artículo.",
+     "examples": [
+      {
+       "en": "The study found that…",
+       "es": "El estudio halló que…",
+       "mark": [
+        "found"
+       ]
+      },
+      {
+       "en": "The findings suggest a clear pattern.",
+       "es": "Los hallazgos sugieren un patrón claro.",
+       "mark": [
+        "findings"
+       ]
+      },
+      {
+       "en": "These results account for the difference.",
+       "es": "Estos resultados explican la diferencia.",
+       "mark": [
+        "account for"
+       ]
+      },
+      {
+       "en": "Further research is needed.",
+       "es": "Se necesita más investigación.",
+       "mark": [
+        "research"
+       ]
+      }
+     ],
+     "question": "En un texto académico, 'the findings suggest' es mejor que…",
+     "options": [
+      "I think maybe",
+      "the study proves 100%",
+      "the findings suggest"
+     ],
+     "answer": 2,
+     "rule": "El registro académico es prudente y preciso: findings (hallazgos), suggest/indicate (sugerir/indicar), account for (explicar), with respect to (con respecto a). Rara vez se dice 'prove' (probar al 100%); se prefiere 'suggest' o 'indicate'.",
+     "ruleExamples": []
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-l3",
+   "title": "3. framework, to cite, reference…",
+   "focus": "reading",
+   "newItems": [
+    "u101.framework",
+    "u101.to-cite",
+    "u101.reference",
+    "u101.abstract",
+    "u101.comprehensive"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.framework",
+      "u101.to-cite"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.reference",
+      "u101.abstract"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.comprehensive"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.framework",
+      "u101.to-cite",
+      "u101.reference",
+      "u101.abstract",
+      "u101.comprehensive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.framework",
+      "u101.to-cite",
+      "u101.reference",
+      "u101.abstract",
+      "u101.comprehensive"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.framework",
+      "u101.to-cite",
+      "u101.reference",
+      "u101.abstract",
+      "u101.comprehensive"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-assess",
+      "u101.to-compile",
+      "u101.to-derive",
+      "u101.to-correlate",
+      "u101.variable",
+      "u101.criterion"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-l4",
+   "title": "4. preliminary, subsequent, prior…",
+   "focus": "listening",
+   "newItems": [
+    "u101.preliminary",
+    "u101.subsequent",
+    "u101.prior",
+    "u101.underlying",
+    "u101.significant"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.preliminary",
+      "u101.subsequent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.prior",
+      "u101.underlying"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.significant"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.preliminary",
+      "u101.subsequent",
+      "u101.prior",
+      "u101.underlying",
+      "u101.significant"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.preliminary",
+      "u101.subsequent",
+      "u101.prior",
+      "u101.underlying",
+      "u101.significant"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.preliminary",
+      "u101.subsequent",
+      "u101.prior",
+      "u101.underlying",
+      "u101.significant"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.criterion",
+      "u101.framework",
+      "u101.to-cite",
+      "u101.reference",
+      "u101.abstract",
+      "u101.comprehensive"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-l5",
+   "title": "5. substantial, consistent, inconsistent…",
+   "focus": "listening",
+   "newItems": [
+    "u101.substantial",
+    "u101.consistent",
+    "u101.inconsistent",
+    "u101.to-validate",
+    "u101.to-hypothesize"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.substantial",
+      "u101.consistent"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.inconsistent",
+      "u101.to-validate"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.to-hypothesize"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.substantial",
+      "u101.consistent",
+      "u101.inconsistent",
+      "u101.to-validate",
+      "u101.to-hypothesize"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.substantial",
+      "u101.consistent",
+      "u101.inconsistent",
+      "u101.to-validate",
+      "u101.to-hypothesize"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.substantial",
+      "u101.consistent",
+      "u101.inconsistent",
+      "u101.to-validate",
+      "u101.to-hypothesize"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.comprehensive",
+      "u101.preliminary",
+      "u101.subsequent",
+      "u101.prior",
+      "u101.underlying",
+      "u101.significant"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-l6",
+   "title": "6. empirical, theoretical, qualitative…",
+   "focus": "vocabulary",
+   "newItems": [
+    "u101.empirical",
+    "u101.theoretical",
+    "u101.qualitative",
+    "u101.quantitative",
+    "u101.to-account-for"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.empirical",
+      "u101.theoretical"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.qualitative",
+      "u101.quantitative"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.to-account-for"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.empirical",
+      "u101.theoretical",
+      "u101.qualitative",
+      "u101.quantitative",
+      "u101.to-account-for"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.empirical",
+      "u101.theoretical",
+      "u101.qualitative",
+      "u101.quantitative",
+      "u101.to-account-for"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.empirical",
+      "u101.theoretical",
+      "u101.qualitative",
+      "u101.quantitative",
+      "u101.to-account-for"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.significant",
+      "u101.substantial",
+      "u101.consistent",
+      "u101.inconsistent",
+      "u101.to-validate",
+      "u101.to-hypothesize"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-l7",
+   "title": "7. to attribute to, in terms of, with respect to…",
+   "focus": "reading",
+   "newItems": [
+    "u101.to-attribute-to",
+    "u101.in-terms-of",
+    "u101.with-respect-to",
+    "u101.as-opposed-to",
+    "u101.to-shed-light-on"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.to-attribute-to",
+      "u101.in-terms-of"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.with-respect-to",
+      "u101.as-opposed-to"
+     ]
+    },
+    {
+     "type": "present",
+     "items": [
+      "u101.to-shed-light-on"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-attribute-to",
+      "u101.in-terms-of",
+      "u101.with-respect-to",
+      "u101.as-opposed-to",
+      "u101.to-shed-light-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 10
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-attribute-to",
+      "u101.in-terms-of",
+      "u101.with-respect-to",
+      "u101.as-opposed-to",
+      "u101.to-shed-light-on"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 5
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-attribute-to",
+      "u101.in-terms-of",
+      "u101.with-respect-to",
+      "u101.as-opposed-to",
+      "u101.to-shed-light-on"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-hypothesize",
+      "u101.empirical",
+      "u101.theoretical",
+      "u101.qualitative",
+      "u101.quantitative",
+      "u101.to-account-for"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-l8",
+   "title": "8. to give rise to",
+   "focus": "listening",
+   "newItems": [
+    "u101.to-give-rise-to"
+   ],
+   "activities": [
+    {
+     "type": "present",
+     "items": [
+      "u101.to-give-rise-to"
+     ]
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-give-rise-to"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-give-rise-to"
+     ],
+     "modes": [
+      "dictation",
+      "build"
+     ],
+     "count": 1
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-give-rise-to"
+     ],
+     "modes": [
+      "picture-pick"
+     ],
+     "count": 2
+    },
+    {
+     "type": "auto",
+     "items": [
+      "u101.to-account-for",
+      "u101.to-attribute-to",
+      "u101.in-terms-of",
+      "u101.with-respect-to",
+      "u101.as-opposed-to",
+      "u101.to-shed-light-on"
+     ],
+     "modes": [
+      "read-pick",
+      "listen-pick"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "u101-academico-2-repaso",
+   "title": "Repaso y conversación",
+   "focus": "speaking",
+   "newItems": [],
+   "activities": [
+    {
+     "type": "auto",
+     "items": [
+      "u101.quantitative",
+      "u101.to-account-for",
+      "u101.to-attribute-to",
+      "u101.in-terms-of",
+      "u101.with-respect-to",
+      "u101.as-opposed-to",
+      "u101.to-shed-light-on",
+      "u101.to-give-rise-to"
+     ],
+     "modes": [
+      "listen-pick",
+      "read-pick",
+      "dictation"
+     ],
+     "count": 6
+    }
+   ]
+  }
+ ]
+}
