@@ -1,0 +1,111 @@
+{
+  "id": "u06-restaurante",
+  "level": "A1",
+  "title": "En el restaurante",
+  "emoji": "🍽️",
+  "canDo": "Ya puedo pedir comida en un restaurante",
+  "summary": "Comida, bebida y las frases exactas para pedir, preguntar y pagar. Al final vas a pedir un almuerzo completo en inglés.",
+  "grammar": ["I'd like… / Can I have…?"],
+  "items": [
+    { "id": "u06.water", "en": "water", "es": "agua", "kind": "word", "emoji": "💧", "say": "uó-ter (la t casi como r en EE. UU.)" },
+    { "id": "u06.coffee", "en": "coffee", "es": "café", "kind": "word", "emoji": "☕", "say": "kó-fi" },
+    { "id": "u06.juice", "en": "juice", "es": "jugo", "kind": "word", "emoji": "🧃", "say": "chús" },
+    { "id": "u06.bread", "en": "bread", "es": "pan", "kind": "word", "emoji": "🍞", "say": "bred" },
+    { "id": "u06.chicken", "en": "chicken", "es": "pollo", "kind": "word", "emoji": "🍗", "say": "chí-ken" },
+    { "id": "u06.rice", "en": "rice", "es": "arroz", "kind": "word", "emoji": "🍚", "say": "ráis" },
+    { "id": "u06.salad", "en": "salad", "es": "ensalada", "kind": "word", "emoji": "🥗", "say": "sá-lad" },
+    { "id": "u06.soup", "en": "soup", "es": "sopa", "kind": "word", "emoji": "🍲", "say": "súup" },
+    { "id": "u06.idlike", "en": "I'd like a coffee", "es": "Quisiera un café", "kind": "chunk", "emoji": "🙋", "say": "áid láik a kó-fi", "tip": "I'd like = I would like. Es la forma amable de pedir, como 'quisiera'.", "forms": ["like", "i'd"] },
+    { "id": "u06.canihave", "en": "Can I have the menu, please?", "es": "¿Me trae el menú, por favor?", "kind": "chunk", "emoji": "📋", "say": "kan ai jav de mé-niu pliiz", "forms": ["menu", "have", "can"] },
+    { "id": "u06.check", "en": "The check, please", "es": "La cuenta, por favor", "kind": "chunk", "emoji": "🧾", "say": "de chek pliiz", "forms": ["check", "bill"], "tip": "En Inglaterra se dice 'the bill, please'." },
+    { "id": "u06.togo", "en": "For here or to go?", "es": "¿Para comer aquí o para llevar?", "kind": "chunk", "emoji": "🥡", "say": "for jíer or tu góu" },
+    { "id": "u06.here", "en": "For here, please", "es": "Para comer aquí, por favor", "kind": "chunk", "emoji": "🪑" },
+    { "id": "u06.delicious", "en": "It's delicious", "es": "Está delicioso", "kind": "chunk", "emoji": "😋", "forms": ["delicious"] },
+    { "id": "u06.anything", "en": "Anything else?", "es": "¿Algo más?", "kind": "chunk", "emoji": "➕", "say": "é-ni-zing els" },
+    { "id": "u06.thatsall", "en": "That's all, thank you", "es": "Eso es todo, gracias", "kind": "chunk", "emoji": "✅" }
+  ],
+  "lessons": [
+    {
+      "id": "u06-l1",
+      "title": "Para beber",
+      "focus": "vocabulary",
+      "newItems": ["u06.water", "u06.coffee", "u06.juice", "u06.bread"],
+      "activities": [
+        { "type": "present", "items": ["u06.water", "u06.coffee"] },
+        { "type": "present", "items": ["u06.juice", "u06.bread"] },
+        { "type": "auto", "items": ["u06.water", "u06.coffee", "u06.juice", "u06.bread"], "modes": ["listen-pick", "picture-pick", "read-pick"] }
+      ]
+    },
+    {
+      "id": "u06-l2",
+      "title": "Para comer",
+      "focus": "vocabulary",
+      "newItems": ["u06.chicken", "u06.rice", "u06.salad", "u06.soup"],
+      "activities": [
+        { "type": "present", "items": ["u06.chicken", "u06.rice"] },
+        { "type": "present", "items": ["u06.salad", "u06.soup"] },
+        { "type": "auto", "items": ["u06.chicken", "u06.rice", "u06.salad", "u06.soup", "u06.water", "u06.juice"], "modes": ["listen-pick", "picture-pick"], "count": 9 },
+        { "type": "auto", "items": ["u04.red", "u04.apple", "u03.five"], "modes": ["read-pick"] }
+      ]
+    },
+    {
+      "id": "u06-l3",
+      "title": "Pedir con amabilidad",
+      "focus": "listening",
+      "newItems": ["u06.idlike", "u06.canihave", "u06.anything", "u06.thatsall"],
+      "activities": [
+        { "type": "dialogue", "title": "Llegando al restaurante", "scene": "🍽️ Te sientas y llega el mesero.", "lines": [
+          { "who": "Mesero", "en": "Good afternoon! How are you?", "es": "¡Buenas tardes! ¿Cómo está?" },
+          { "who": "Tú", "en": "I'm fine, thank you. Can I have the menu, please?", "es": "Bien, gracias. ¿Me trae el menú, por favor?" },
+          { "who": "Mesero", "en": "Here you are.", "es": "Aquí tiene." },
+          { "who": "Tú", "en": "I'd like chicken and rice, please.", "es": "Quisiera pollo con arroz, por favor." },
+          { "who": "Mesero", "en": "Anything else?", "es": "¿Algo más?" },
+          { "who": "Tú", "en": "A juice, please. That's all, thank you.", "es": "Un jugo, por favor. Eso es todo, gracias." }
+        ] },
+        { "type": "present", "items": ["u06.idlike", "u06.canihave"] },
+        { "type": "present", "items": ["u06.anything", "u06.thatsall"] },
+        { "type": "discover",
+          "topic": "Pedir con I'd like",
+          "intro": "Así piden las personas en un restaurante. Mira qué se repite.",
+          "examples": [
+            { "en": "I'd like a coffee.", "es": "Quisiera un café.", "mark": ["I'd", "like"] },
+            { "en": "I'd like the soup.", "es": "Quisiera la sopa.", "mark": ["I'd", "like"] },
+            { "en": "I'd like chicken and rice.", "es": "Quisiera pollo con arroz.", "mark": ["I'd", "like"] },
+            { "en": "I'd like water, please.", "es": "Quisiera agua, por favor.", "mark": ["I'd", "like"] }
+          ],
+          "question": "Para pedir algo de forma amable, ¿qué fórmula usas?",
+          "options": ["I'd like + lo que quieres", "I am + lo que quieres", "Lo que quieres + like"],
+          "answer": 0,
+          "rule": "I'd like + comida o bebida = 'quisiera…'. Es más educado que I want (quiero). Para preguntar: Can I have…?",
+          "ruleExamples": [{ "en": "Can I have a water?", "es": "¿Me da un agua?" }]
+        },
+        { "type": "build", "en": "I'd like a coffee", "es": "Quisiera un café" },
+        { "type": "build", "en": "I'd like the soup, please", "es": "Quisiera la sopa, por favor", "distractors": ["am"] },
+        { "type": "auto", "items": ["u06.idlike", "u06.canihave", "u06.anything", "u06.thatsall"], "modes": ["listen-pick"] }
+      ]
+    },
+    {
+      "id": "u06-l4",
+      "title": "La cuenta, por favor",
+      "focus": "speaking",
+      "newItems": ["u06.check", "u06.togo", "u06.here", "u06.delicious"],
+      "activities": [
+        { "type": "present", "items": ["u06.togo", "u06.here"] },
+        { "type": "present", "items": ["u06.delicious", "u06.check"] },
+        { "type": "story", "title": "El almuerzo de Leo", "emoji": "🍲", "paragraphs": [
+          { "en": "Leo is at a restaurant. He is happy.", "es": "Leo está en un restaurante. Está feliz." },
+          { "en": "Can I have the menu, please? I'd like the soup and a salad.", "es": "¿Me trae el menú, por favor? Quisiera la sopa y una ensalada." },
+          { "en": "For here or to go? For here, please.", "es": "¿Para comer aquí o para llevar? Aquí, por favor." },
+          { "en": "The soup is delicious! The check, please. How much is it? It's ten dollars.", "es": "¡La sopa está deliciosa! La cuenta, por favor. ¿Cuánto es? Son diez dólares." }
+        ], "questions": [
+          { "q": "¿Qué pide Leo?", "options": ["Pollo y arroz", "Sopa y ensalada", "Café y pan"], "answer": 1 },
+          { "q": "¿Dónde come?", "options": ["Aquí, en el restaurante", "Para llevar"], "answer": 0 },
+          { "q": "¿Cuánto paga?", "options": ["Cinco dólares", "Veinte dólares", "Diez dólares"], "answer": 2 }
+        ] },
+        { "type": "auto", "items": ["u06.check", "u06.togo", "u06.here", "u06.delicious"], "modes": ["listen-pick", "build"] },
+        { "type": "speak", "en": "I'd like chicken and rice, please", "es": "Quisiera pollo con arroz, por favor", "note": "Opcional. Imagina que estás frente al mesero." },
+        { "type": "speak", "en": "The check, please", "es": "La cuenta, por favor" }
+      ]
+    }
+  ]
+}

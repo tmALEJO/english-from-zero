@@ -1,0 +1,117 @@
+{
+  "id": "u04-colores",
+  "level": "A0",
+  "title": "Colores y cosas",
+  "emoji": "🎨",
+  "canDo": "Ya puedo describir objetos por su color",
+  "summary": "Ocho colores y algunas cosas para describir. Vas a descubrir por qué en inglés se dice 'red car' y no 'car red'.",
+  "grammar": ["Artículos a / an", "Adjetivo antes del sustantivo"],
+  "items": [
+    { "id": "u04.red", "en": "red", "es": "rojo", "kind": "word", "emoji": "🔴", "say": "red" },
+    { "id": "u04.blue", "en": "blue", "es": "azul", "kind": "word", "emoji": "🔵", "say": "blú" },
+    { "id": "u04.green", "en": "green", "es": "verde", "kind": "word", "emoji": "🟢", "say": "gríin" },
+    { "id": "u04.yellow", "en": "yellow", "es": "amarillo", "kind": "word", "emoji": "🟡", "say": "iéi-lou" },
+    { "id": "u04.black", "en": "black", "es": "negro", "kind": "word", "emoji": "⚫", "say": "blak" },
+    { "id": "u04.white", "en": "white", "es": "blanco", "kind": "word", "emoji": "⚪", "say": "uáit" },
+    { "id": "u04.orange", "en": "orange", "es": "naranja / anaranjado", "kind": "word", "emoji": "🟠", "say": "ó-ranch" },
+    { "id": "u04.purple", "en": "purple", "es": "morado", "kind": "word", "emoji": "🟣", "say": "pér-pol" },
+    { "id": "u04.car", "en": "car", "es": "carro", "kind": "word", "emoji": "🚗", "say": "kar", "forms": ["cars"] },
+    { "id": "u04.apple", "en": "apple", "es": "manzana", "kind": "word", "emoji": "🍎", "say": "á-pol", "forms": ["apples"] },
+    { "id": "u04.house", "en": "house", "es": "casa", "kind": "word", "emoji": "🏠", "say": "jáus", "forms": ["houses"] },
+    { "id": "u04.cat", "en": "cat", "es": "gato", "kind": "word", "emoji": "🐈‍⬛", "say": "kat", "forms": ["cats"] },
+    { "id": "u04.redcar", "en": "a red car", "es": "un carro rojo", "kind": "chunk", "emoji": "🚗" },
+    { "id": "u04.anapple", "en": "an apple", "es": "una manzana", "kind": "chunk", "emoji": "🍏", "forms": ["an"] },
+    { "id": "u04.whatcolor", "en": "What color is it?", "es": "¿De qué color es?", "kind": "chunk", "emoji": "🖍️", "say": "uát có-lor is it", "forms": ["color", "colour"] },
+    { "id": "u04.itis", "en": "It's blue", "es": "Es azul", "kind": "chunk", "emoji": "💙", "forms": ["it", "it's"] }
+  ],
+  "lessons": [
+    {
+      "id": "u04-l1",
+      "title": "Rojo, azul, verde, amarillo",
+      "focus": "vocabulary",
+      "newItems": ["u04.red", "u04.blue", "u04.green", "u04.yellow"],
+      "activities": [
+        { "type": "present", "items": ["u04.red", "u04.blue"] },
+        { "type": "present", "items": ["u04.green", "u04.yellow"] },
+        { "type": "auto", "items": ["u04.red", "u04.blue", "u04.green", "u04.yellow"], "modes": ["listen-pick", "picture-pick", "read-pick"] }
+      ]
+    },
+    {
+      "id": "u04-l2",
+      "title": "Negro, blanco y más",
+      "focus": "vocabulary",
+      "newItems": ["u04.black", "u04.white", "u04.orange", "u04.purple"],
+      "activities": [
+        { "type": "present", "items": ["u04.black", "u04.white"] },
+        { "type": "present", "items": ["u04.orange", "u04.purple"] },
+        { "type": "auto", "items": ["u04.black", "u04.white", "u04.orange", "u04.purple", "u04.red", "u04.green"], "modes": ["listen-pick", "picture-pick"], "count": 9 }
+      ]
+    },
+    {
+      "id": "u04-l3",
+      "title": "Cosas de colores",
+      "focus": "grammar",
+      "newItems": ["u04.car", "u04.apple", "u04.house", "u04.cat"],
+      "activities": [
+        { "type": "present", "items": ["u04.car", "u04.apple"] },
+        { "type": "present", "items": ["u04.house", "u04.cat"] },
+        { "type": "discover",
+          "topic": "El adjetivo va antes del sustantivo",
+          "intro": "Mira dónde está el color en cada frase.",
+          "examples": [
+            { "en": "a red car", "es": "un carro rojo", "mark": ["red"] },
+            { "en": "a green apple", "es": "una manzana verde", "mark": ["green"] },
+            { "en": "a white house", "es": "una casa blanca", "mark": ["white"] },
+            { "en": "a black cat", "es": "un gato negro", "mark": ["black"] },
+            { "en": "a yellow car", "es": "un carro amarillo", "mark": ["yellow"] }
+          ],
+          "question": "En inglés, ¿dónde va el color?",
+          "options": ["Después de la cosa, como en español", "Antes de la cosa"],
+          "answer": 1,
+          "rule": "En inglés la palabra que describe (el adjetivo) va ANTES de la cosa: red car = carro rojo. Y el color no cambia: red sirve para masculino, femenino y plural.",
+          "ruleExamples": [{ "en": "a blue house, blue cars", "es": "una casa azul, carros azules" }]
+        },
+        { "type": "build", "en": "a black cat", "es": "un gato negro" },
+        { "type": "build", "en": "a white house", "es": "una casa blanca" },
+        { "type": "fill", "en": "a ___", "es": "un carro rojo", "options": ["car red", "red car"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "u04-l4",
+      "title": "A y an, ¿de qué color es?",
+      "focus": "reading",
+      "newItems": ["u04.anapple", "u04.redcar", "u04.whatcolor", "u04.itis"],
+      "activities": [
+        { "type": "discover",
+          "topic": "Artículos a / an",
+          "intro": "Escucha. Fíjate en la palabra antes de cada cosa.",
+          "examples": [
+            { "en": "a car", "es": "un carro", "mark": ["a"] },
+            { "en": "a house", "es": "una casa", "mark": ["a"] },
+            { "en": "an apple", "es": "una manzana", "mark": ["an"] },
+            { "en": "an orange", "es": "una naranja", "mark": ["an"] },
+            { "en": "a cat", "es": "un gato", "mark": ["a"] }
+          ],
+          "question": "¿Cuándo aparece 'an'?",
+          "options": ["Cuando la palabra siguiente empieza con sonido de vocal", "Con cosas femeninas", "Con cosas grandes"],
+          "answer": 0,
+          "rule": "a y an significan 'un / una'. Se usa an cuando la palabra que sigue empieza con sonido de vocal (an apple, an orange). Así se pronuncia más fácil.",
+          "ruleExamples": [{ "en": "an apple, a red apple", "es": "una manzana, una manzana roja" }]
+        },
+        { "type": "fill", "en": "___ orange", "es": "una naranja", "options": ["a", "an"], "answer": 1 },
+        { "type": "fill", "en": "___ house", "es": "una casa", "options": ["a", "an"], "answer": 0 },
+        { "type": "present", "items": ["u04.whatcolor", "u04.itis"] },
+        { "type": "story", "title": "El gato de Tom", "emoji": "🐈‍⬛", "paragraphs": [
+          { "en": "Tom has a black cat.", "es": "Tom tiene un gato negro." },
+          { "en": "The cat is in a white house.", "es": "El gato está en una casa blanca." },
+          { "en": "Tom has a red car and an apple. The apple is green.", "es": "Tom tiene un carro rojo y una manzana. La manzana es verde." },
+          { "en": "What color is the car? It's red!", "es": "¿De qué color es el carro? ¡Es rojo!" }
+        ], "questions": [
+          { "q": "¿De qué color es el gato?", "options": ["Blanco", "Negro", "Rojo"], "answer": 1 },
+          { "q": "¿De qué color es la manzana?", "options": ["Verde", "Roja", "Amarilla"], "answer": 0 }
+        ] },
+        { "type": "auto", "items": ["u04.anapple", "u04.redcar", "u04.whatcolor", "u04.itis"], "modes": ["listen-pick", "build"] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "u01-saludos",
+  "level": "A0",
+  "title": "Hola y adiós",
+  "emoji": "👋",
+  "canDo": "Ya puedo saludar, agradecer y despedirme",
+  "summary": "Las palabras que abren y cierran cualquier conversación. Con esto ya puedes ser amable en inglés desde hoy.",
+  "items": [
+    { "id": "u01.hello", "en": "Hello", "es": "Hola", "kind": "word", "emoji": "👋", "say": "jé-lou", "tip": "La H suena como una J suave, como si echaras vaho a un vidrio.", "examples": [{ "en": "Hello, Anna!", "es": "¡Hola, Anna!" }] },
+    { "id": "u01.goodbye", "en": "Goodbye", "es": "Adiós", "kind": "word", "emoji": "🚪", "say": "gud-bái", "forms": ["bye"], "examples": [{ "en": "Goodbye, see you later!", "es": "¡Adiós, nos vemos!" }] },
+    { "id": "u01.morning", "en": "Good morning", "es": "Buenos días", "kind": "chunk", "emoji": "🌅", "say": "gud mór-ning" },
+    { "id": "u01.night", "en": "Good night", "es": "Buenas noches (al despedirse)", "kind": "chunk", "emoji": "🌙", "say": "gud náit", "tip": "Good night se usa para despedirse o ir a dormir. Para saludar de noche se dice Good evening." },
+    { "id": "u01.thanks", "en": "Thank you", "es": "Gracias", "kind": "chunk", "emoji": "🙏", "say": "zénk-iu", "tip": "TH con la lengua entre los dientes. Versión corta: Thanks." , "forms": ["thanks"] },
+    { "id": "u01.please", "en": "Please", "es": "Por favor", "kind": "word", "emoji": "🤲", "say": "pliiz" },
+    { "id": "u01.sorry", "en": "Sorry", "es": "Perdón / Lo siento", "kind": "word", "emoji": "😔", "say": "só-ri" },
+    { "id": "u01.welcome", "en": "You're welcome", "es": "De nada", "kind": "chunk", "emoji": "😊", "say": "iur uél-kam" },
+    { "id": "u01.yes", "en": "Yes", "es": "Sí", "kind": "word", "emoji": "👍", "say": "iés" },
+    { "id": "u01.no", "en": "No", "es": "No", "kind": "word", "emoji": "👎", "say": "nóu" },
+    { "id": "u01.later", "en": "See you later", "es": "Nos vemos luego", "kind": "chunk", "emoji": "🔜", "say": "sii iu léi-ter" },
+    { "id": "u01.excuse", "en": "Excuse me", "es": "Disculpe (para llamar la atención)", "kind": "chunk", "emoji": "🙋", "say": "eks-kiús mi", "tip": "Para pedir paso o llamar a alguien. Sorry es para disculparte por algo." }
+  ],
+  "lessons": [
+    {
+      "id": "u01-l1",
+      "title": "Hola, buenos días",
+      "focus": "listening",
+      "newItems": ["u01.hello", "u01.goodbye", "u01.morning", "u01.night"],
+      "activities": [
+        { "type": "present", "items": ["u01.hello", "u01.goodbye"], "note": "Mira la imagen, escucha y repite en tu cabeza." },
+        { "type": "auto", "items": ["u01.hello", "u01.goodbye"], "modes": ["listen-pick", "read-pick"] },
+        { "type": "present", "items": ["u01.morning", "u01.night"] },
+        { "type": "dialogue", "title": "En el ascensor", "scene": "🏢 Dos vecinos se encuentran por la mañana.", "lines": [
+          { "who": "Ana", "en": "Good morning!", "es": "¡Buenos días!" },
+          { "who": "Tom", "en": "Hello! Good morning.", "es": "¡Hola! Buenos días." },
+          { "who": "Ana", "en": "Goodbye!", "es": "¡Adiós!" }
+        ] },
+        { "type": "auto", "items": ["u01.hello", "u01.goodbye", "u01.morning", "u01.night"], "modes": ["listen-pick", "picture-pick", "read-pick"], "count": 8 }
+      ]
+    },
+    {
+      "id": "u01-l2",
+      "title": "Gracias y por favor",
+      "focus": "listening",
+      "newItems": ["u01.thanks", "u01.please", "u01.sorry", "u01.welcome"],
+      "activities": [
+        { "type": "present", "items": ["u01.thanks", "u01.welcome"], "note": "Una pregunta y su respuesta: van juntas." },
+        { "type": "dialogue", "title": "En la tienda", "scene": "🏪 Le das algo a alguien.", "lines": [
+          { "who": "Tú", "en": "Here, please.", "es": "Toma, por favor." },
+          { "who": "Mia", "en": "Thank you!", "es": "¡Gracias!" },
+          { "who": "Tú", "en": "You're welcome.", "es": "De nada." }
+        ] },
+        { "type": "present", "items": ["u01.please", "u01.sorry"] },
+        { "type": "auto", "items": ["u01.thanks", "u01.please", "u01.sorry", "u01.welcome"], "modes": ["listen-pick", "picture-pick"] },
+        { "type": "build", "en": "Thank you", "es": "Gracias" },
+        { "type": "auto", "items": ["u01.hello", "u01.morning", "u01.thanks", "u01.goodbye"], "modes": ["read-pick"], "count": 4 }
+      ]
+    },
+    {
+      "id": "u01-l3",
+      "title": "Sí, no y nos vemos",
+      "focus": "reading",
+      "newItems": ["u01.yes", "u01.no", "u01.later", "u01.excuse"],
+      "activities": [
+        { "type": "present", "items": ["u01.yes", "u01.no"] },
+        { "type": "present", "items": ["u01.later", "u01.excuse"] },
+        { "type": "auto", "items": ["u01.yes", "u01.no", "u01.later", "u01.excuse"], "modes": ["listen-pick", "read-pick"] },
+        { "type": "story", "title": "Un día en la cafetería", "emoji": "☕", "paragraphs": [
+          { "en": "Excuse me! Hello!", "es": "¡Disculpe! ¡Hola!" },
+          { "en": "Good morning. Coffee? Yes, please.", "es": "Buenos días. ¿Café? Sí, por favor." },
+          { "en": "Thank you! You're welcome.", "es": "¡Gracias! De nada." },
+          { "en": "Sorry! No, no. Thank you. Goodbye! See you later!", "es": "¡Perdón! No, no. Gracias. ¡Adiós! ¡Nos vemos!" }
+        ], "questions": [
+          { "q": "¿Qué dice la persona para llamar la atención?", "options": ["Excuse me", "Good night", "You're welcome"], "answer": 0 },
+          { "q": "¿Cómo responde a 'Thank you'?", "options": ["Sorry", "You're welcome", "Hello"], "answer": 1 }
+        ] },
+        { "type": "build", "en": "See you later", "es": "Nos vemos luego", "distractors": ["night"] },
+        { "type": "speak", "en": "Hello, good morning", "es": "Hola, buenos días", "note": "Opcional: prueba el micrófono." }
+      ]
+    }
+  ]
+}

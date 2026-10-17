@@ -1,0 +1,84 @@
+{
+  "id": "u00-sonidos",
+  "level": "A0",
+  "title": "Los sonidos del inglés",
+  "emoji": "👂",
+  "canDo": "Ya distingo los sonidos que más confunden a un hispanohablante",
+  "summary": "Antes de hablar, el oído. Aquí entrenas los sonidos que el español no tiene, para que todo lo que sigue sea más fácil de entender.",
+  "grammar": [],
+  "items": [
+    { "id": "u00.ship", "en": "ship", "es": "barco", "kind": "word", "emoji": "🚢", "say": "ship (i corta, relajada)", "tip": "La i es corta y floja, casi entre i y e." },
+    { "id": "u00.sheep", "en": "sheep", "es": "oveja", "kind": "word", "emoji": "🐑", "say": "shiiip (i larga)", "tip": "La i se estira, como sonriendo." },
+    { "id": "u00.sit", "en": "sit", "es": "sentarse", "kind": "word", "emoji": "🪑", "say": "sit (corta)" },
+    { "id": "u00.seat", "en": "seat", "es": "asiento", "kind": "word", "emoji": "💺", "say": "siiit (larga)" },
+    { "id": "u00.boat", "en": "boat", "es": "bote", "kind": "word", "emoji": "🚤", "say": "bóut", "tip": "La B se hace con los dos labios juntos." },
+    { "id": "u00.vote", "en": "vote", "es": "votar", "kind": "word", "emoji": "🗳️", "say": "vóut", "tip": "La V vibra: dientes de arriba sobre el labio de abajo, como una F con voz." },
+    { "id": "u00.three", "en": "three", "es": "tres", "kind": "word", "emoji": "3️⃣", "say": "zrii (con la lengua entre los dientes)", "tip": "TH: saca un poquito la lengua entre los dientes y sopla." },
+    { "id": "u00.tree", "en": "tree", "es": "árbol", "kind": "word", "emoji": "🌳", "say": "trii", "tip": "La T va detrás de los dientes, sin sacar la lengua." },
+    { "id": "u00.school", "en": "school", "es": "escuela", "kind": "word", "emoji": "🏫", "say": "skuul (¡sin e al inicio!)", "tip": "En inglés no se dice 'eschool'. Empieza directo con sss." },
+    { "id": "u00.student", "en": "student", "es": "estudiante", "kind": "word", "emoji": "🧑‍🎓", "say": "stiú-dent", "tip": "Empieza con S: sssstudent, nunca 'estudent'." },
+    { "id": "u00.speak", "en": "speak", "es": "hablar", "kind": "word", "emoji": "🗣️", "say": "spiik", "forms": ["speaks", "speaking"] },
+    { "id": "u00.star", "en": "star", "es": "estrella", "kind": "word", "emoji": "⭐", "say": "staar" }
+  ],
+  "lessons": [
+    {
+      "id": "u00-l1",
+      "title": "Corto o largo",
+      "focus": "listening",
+      "newItems": ["u00.ship", "u00.sheep", "u00.sit", "u00.seat"],
+      "activities": [
+        { "type": "tip", "emoji": "👂", "title": "Primero escuchas", "text": "En esta unidad no tienes que hablar. Solo escucha. Tu oído aprende a separar sonidos que en español suenan igual. Toca 🔊 todas las veces que quieras." },
+        { "type": "present", "items": ["u00.ship", "u00.sheep"], "note": "Escucha la diferencia: una i corta y una i larga." },
+        { "type": "minimal-pair", "title": "¿Cuál escuchaste?", "pairs": [
+          { "a": "ship", "aHint": "🚢", "b": "sheep", "bHint": "🐑", "play": "b" },
+          { "a": "ship", "aHint": "🚢", "b": "sheep", "bHint": "🐑", "play": "a" },
+          { "a": "ship", "aHint": "🚢", "b": "sheep", "bHint": "🐑", "play": "b" }
+        ] },
+        { "type": "present", "items": ["u00.sit", "u00.seat"], "note": "El mismo juego: corta y larga." },
+        { "type": "minimal-pair", "title": "¿Cuál escuchaste?", "pairs": [
+          { "a": "sit", "aHint": "🪑", "b": "seat", "bHint": "💺", "play": "a" },
+          { "a": "sit", "aHint": "🪑", "b": "seat", "bHint": "💺", "play": "b" },
+          { "a": "ship", "aHint": "🚢", "b": "sheep", "bHint": "🐑", "play": "a" }
+        ] },
+        { "type": "auto", "items": ["u00.ship", "u00.sheep", "u00.sit", "u00.seat"], "modes": ["listen-pick"], "count": 4 }
+      ]
+    },
+    {
+      "id": "u00-l2",
+      "title": "B, V y TH",
+      "focus": "listening",
+      "newItems": ["u00.boat", "u00.vote", "u00.three", "u00.tree"],
+      "activities": [
+        { "type": "tip", "emoji": "👄", "title": "Dos letras, dos sonidos", "text": "En español la B y la V suenan igual. En inglés no: la V vibra con los dientes sobre el labio. Y la TH no existe en español: la lengua sale un poquito entre los dientes." },
+        { "type": "present", "items": ["u00.boat", "u00.vote"] },
+        { "type": "minimal-pair", "title": "¿B o V?", "pairs": [
+          { "a": "boat", "aHint": "🚤", "b": "vote", "bHint": "🗳️", "play": "b" },
+          { "a": "berry", "aHint": "🫐", "b": "very", "bHint": "💯", "play": "a" },
+          { "a": "boat", "aHint": "🚤", "b": "vote", "bHint": "🗳️", "play": "a" }
+        ] },
+        { "type": "present", "items": ["u00.three", "u00.tree"] },
+        { "type": "minimal-pair", "title": "¿TH o T?", "pairs": [
+          { "a": "three", "aHint": "3️⃣", "b": "tree", "bHint": "🌳", "play": "a" },
+          { "a": "think", "aHint": "🤔", "b": "sink", "bHint": "🚰", "play": "a" },
+          { "a": "three", "aHint": "3️⃣", "b": "tree", "bHint": "🌳", "play": "b" }
+        ] },
+        { "type": "auto", "items": ["u00.boat", "u00.vote", "u00.three", "u00.tree", "u00.ship", "u00.seat"], "modes": ["listen-pick"], "count": 6 }
+      ]
+    },
+    {
+      "id": "u00-l3",
+      "title": "La S sin E",
+      "focus": "pronunciation",
+      "newItems": ["u00.school", "u00.student", "u00.speak", "u00.star"],
+      "activities": [
+        { "type": "tip", "emoji": "🐍", "title": "Ssssin la e", "text": "Los hispanohablantes solemos decir 'eschool' o 'espeak'. En inglés la palabra arranca directo con S. Truco: alarga la S como una serpiente, sssschool, y luego sigue." },
+        { "type": "present", "items": ["u00.school", "u00.student"] },
+        { "type": "present", "items": ["u00.speak", "u00.star"] },
+        { "type": "auto", "items": ["u00.school", "u00.student", "u00.speak", "u00.star"], "modes": ["listen-pick", "picture-pick"], "count": 6 },
+        { "type": "speak", "en": "school", "es": "escuela", "note": "Opcional. Empieza con sss, sin e." },
+        { "type": "speak", "en": "speak", "es": "hablar", "note": "Opcional. Si no quieres hablar todavía, toca 'Ahora no'." },
+        { "type": "auto", "items": ["u00.ship", "u00.sheep", "u00.vote", "u00.three", "u00.star"], "modes": ["listen-pick"], "count": 5 }
+      ]
+    }
+  ]
+}

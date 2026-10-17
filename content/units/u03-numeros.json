@@ -1,0 +1,92 @@
+{
+  "id": "u03-numeros",
+  "level": "A0",
+  "title": "Números y precios",
+  "emoji": "🔢",
+  "canDo": "Ya puedo preguntar cuánto cuesta algo",
+  "summary": "Del uno al veinte y la pregunta más útil cuando viajas: How much is this?",
+  "items": [
+    { "id": "u03.one", "en": "one", "es": "uno", "kind": "word", "emoji": "1️⃣", "say": "uán" },
+    { "id": "u03.two", "en": "two", "es": "dos", "kind": "word", "emoji": "2️⃣", "say": "tú" },
+    { "id": "u03.three", "en": "three", "es": "tres", "kind": "word", "emoji": "3️⃣", "say": "zrí", "tip": "TH con la lengua entre los dientes, como en la unidad de sonidos." },
+    { "id": "u03.four", "en": "four", "es": "cuatro", "kind": "word", "emoji": "4️⃣", "say": "fór" },
+    { "id": "u03.five", "en": "five", "es": "cinco", "kind": "word", "emoji": "5️⃣", "say": "fáiv" },
+    { "id": "u03.six", "en": "six", "es": "seis", "kind": "word", "emoji": "6️⃣", "say": "siks" },
+    { "id": "u03.seven", "en": "seven", "es": "siete", "kind": "word", "emoji": "7️⃣", "say": "sé-ven" },
+    { "id": "u03.eight", "en": "eight", "es": "ocho", "kind": "word", "emoji": "8️⃣", "say": "éit" },
+    { "id": "u03.nine", "en": "nine", "es": "nueve", "kind": "word", "emoji": "9️⃣", "say": "náin" },
+    { "id": "u03.ten", "en": "ten", "es": "diez", "kind": "word", "emoji": "🔟", "say": "ten" },
+    { "id": "u03.twenty", "en": "twenty", "es": "veinte", "kind": "word", "emoji": "💵", "say": "tuén-ti" },
+    { "id": "u03.hundred", "en": "one hundred", "es": "cien", "kind": "chunk", "emoji": "💯", "say": "uán jón-dred", "forms": ["hundred"] },
+    { "id": "u03.howmuch", "en": "How much is this?", "es": "¿Cuánto cuesta esto?", "kind": "chunk", "emoji": "🏷️", "say": "jáu mach is dis" },
+    { "id": "u03.dollars", "en": "It's five dollars", "es": "Cuesta cinco dólares", "kind": "chunk", "emoji": "💲", "say": "its fáiv dó-lars", "forms": ["dollars", "dollar"] },
+    { "id": "u03.expensive", "en": "That's expensive", "es": "Eso es caro", "kind": "chunk", "emoji": "💸", "say": "dats eks-pén-siv", "forms": ["expensive"] },
+    { "id": "u03.cheap", "en": "That's cheap", "es": "Eso es barato", "kind": "chunk", "emoji": "🪙", "say": "dats chíip", "forms": ["cheap"] }
+  ],
+  "lessons": [
+    {
+      "id": "u03-l1",
+      "title": "Uno, dos, tres, cuatro",
+      "focus": "listening",
+      "newItems": ["u03.one", "u03.two", "u03.three", "u03.four"],
+      "activities": [
+        { "type": "present", "items": ["u03.one", "u03.two"] },
+        { "type": "present", "items": ["u03.three", "u03.four"] },
+        { "type": "auto", "items": ["u03.one", "u03.two", "u03.three", "u03.four"], "modes": ["listen-pick", "picture-pick"] },
+        { "type": "minimal-pair", "title": "¿Número o árbol?", "pairs": [
+          { "a": "three", "aHint": "3️⃣", "b": "tree", "bHint": "🌳", "play": "a" }
+        ] }
+      ]
+    },
+    {
+      "id": "u03-l2",
+      "title": "Cinco a ocho",
+      "focus": "listening",
+      "newItems": ["u03.five", "u03.six", "u03.seven", "u03.eight"],
+      "activities": [
+        { "type": "present", "items": ["u03.five", "u03.six"] },
+        { "type": "present", "items": ["u03.seven", "u03.eight"] },
+        { "type": "auto", "items": ["u03.five", "u03.six", "u03.seven", "u03.eight"], "modes": ["listen-pick", "read-pick"] },
+        { "type": "auto", "items": ["u03.one", "u03.three", "u03.four", "u03.two"], "modes": ["listen-pick"] }
+      ]
+    },
+    {
+      "id": "u03-l3",
+      "title": "Nueve a cien",
+      "focus": "listening",
+      "newItems": ["u03.nine", "u03.ten", "u03.twenty", "u03.hundred"],
+      "activities": [
+        { "type": "present", "items": ["u03.nine", "u03.ten"] },
+        { "type": "present", "items": ["u03.twenty", "u03.hundred"] },
+        { "type": "tip", "emoji": "🧮", "title": "Un truco", "text": "Del 13 al 19 terminan en -teen (thirteen, fourteen…). Las decenas terminan en -ty (twenty, thirty…). Más adelante practicarás la diferencia." },
+        { "type": "auto", "items": ["u03.nine", "u03.ten", "u03.twenty", "u03.hundred", "u03.five", "u03.eight"], "modes": ["listen-pick", "picture-pick"], "count": 8 }
+      ]
+    },
+    {
+      "id": "u03-l4",
+      "title": "¿Cuánto cuesta?",
+      "focus": "reading",
+      "newItems": ["u03.howmuch", "u03.dollars", "u03.expensive", "u03.cheap"],
+      "activities": [
+        { "type": "dialogue", "title": "En el mercado", "scene": "🧺 Quieres comprar una camiseta.", "lines": [
+          { "who": "Tú", "en": "Excuse me. How much is this?", "es": "Disculpe. ¿Cuánto cuesta esto?" },
+          { "who": "Vendedor", "en": "It's twenty dollars.", "es": "Cuesta veinte dólares." },
+          { "who": "Tú", "en": "Twenty? That's expensive!", "es": "¿Veinte? ¡Eso es caro!" },
+          { "who": "Vendedor", "en": "OK. It's ten dollars.", "es": "Bueno. Cuesta diez dólares." },
+          { "who": "Tú", "en": "Ten? That's cheap. Yes, please!", "es": "¿Diez? Eso es barato. ¡Sí, por favor!" }
+        ] },
+        { "type": "present", "items": ["u03.howmuch", "u03.dollars"] },
+        { "type": "present", "items": ["u03.expensive", "u03.cheap"] },
+        { "type": "auto", "items": ["u03.howmuch", "u03.dollars", "u03.expensive", "u03.cheap"], "modes": ["listen-pick", "read-pick", "build"] },
+        { "type": "story", "title": "Las compras de Lia", "emoji": "🛒", "paragraphs": [
+          { "en": "Lia is at the market.", "es": "Lia está en el mercado." },
+          { "en": "How much is this? It's two dollars. That's cheap!", "es": "¿Cuánto cuesta esto? Cuesta dos dólares. ¡Qué barato!" },
+          { "en": "How much is this? It's one hundred dollars. That's expensive!", "es": "¿Cuánto cuesta esto? Cuesta cien dólares. ¡Qué caro!" }
+        ], "questions": [
+          { "q": "¿Qué cuesta cien dólares?", "options": ["Es barato", "Es caro"], "answer": 1 }
+        ] },
+        { "type": "speak", "en": "How much is this?", "es": "¿Cuánto cuesta esto?", "note": "Opcional." }
+      ]
+    }
+  ]
+}

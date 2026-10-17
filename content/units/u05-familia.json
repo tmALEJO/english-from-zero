@@ -1,0 +1,135 @@
+{
+  "id": "u05-familia",
+  "level": "A1",
+  "title": "Mi familia",
+  "emoji": "👨‍👩‍👧",
+  "canDo": "Ya puedo hablar de mi familia",
+  "summary": "Presentar a tu familia te obliga a usar el verbo to be con todas las personas: he is, she is, they are. Lo vas a descubrir con fotos de familia.",
+  "grammar": ["Verbo to be completo: he/she/we/they", "Posesivos my / your / his / her"],
+  "items": [
+    { "id": "u05.mother", "en": "mother", "es": "madre / mamá", "kind": "word", "emoji": "👩", "say": "má-der", "forms": ["mom", "mothers"] },
+    { "id": "u05.father", "en": "father", "es": "padre / papá", "kind": "word", "emoji": "👨", "say": "fá-der", "forms": ["dad", "fathers"] },
+    { "id": "u05.brother", "en": "brother", "es": "hermano", "kind": "word", "emoji": "👦", "say": "bró-der", "forms": ["brothers"] },
+    { "id": "u05.sister", "en": "sister", "es": "hermana", "kind": "word", "emoji": "👧", "say": "sís-ter", "forms": ["sisters"] },
+    { "id": "u05.grandma", "en": "grandmother", "es": "abuela", "kind": "word", "emoji": "👵", "say": "grán-ma-der", "forms": ["grandma"] },
+    { "id": "u05.grandpa", "en": "grandfather", "es": "abuelo", "kind": "word", "emoji": "👴", "say": "grán-fa-der", "forms": ["grandpa"] },
+    { "id": "u05.baby", "en": "baby", "es": "bebé", "kind": "word", "emoji": "👶", "say": "béi-bi" },
+    { "id": "u05.friend", "en": "friend", "es": "amigo / amiga", "kind": "word", "emoji": "🧑‍🤝‍🧑", "say": "frend", "forms": ["friends"] },
+    { "id": "u05.thisis", "en": "This is my mother", "es": "Ella es mi mamá (presentando)", "kind": "chunk", "emoji": "🖐️", "say": "dis is mái má-der", "tip": "Para presentar a alguien se dice This is…, no She is…", "forms": ["this", "my"] },
+    { "id": "u05.heis", "en": "He is", "es": "Él es / Él está", "kind": "chunk", "emoji": "🙎‍♂️", "forms": ["he", "he's"] },
+    { "id": "u05.sheis", "en": "She is", "es": "Ella es / Ella está", "kind": "chunk", "emoji": "🙎‍♀️", "forms": ["she", "she's"] },
+    { "id": "u05.theyare", "en": "They are", "es": "Ellos son / Ellos están", "kind": "chunk", "emoji": "👥", "forms": ["they", "they're"] },
+    { "id": "u05.weare", "en": "We are", "es": "Nosotros somos / estamos", "kind": "chunk", "emoji": "🫂", "forms": ["we", "we're"] },
+    { "id": "u05.his", "en": "his name", "es": "el nombre de él (su nombre)", "kind": "chunk", "emoji": "🏷️", "forms": ["his"] },
+    { "id": "u05.her", "en": "her name", "es": "el nombre de ella (su nombre)", "kind": "chunk", "emoji": "🔖", "forms": ["her"] },
+    { "id": "u05.years", "en": "She is ten years old", "es": "Ella tiene diez años", "kind": "chunk", "emoji": "🎂", "tip": "En inglés la edad se dice con to be: 'ella ES diez años vieja'. ¡No se usa have!", "forms": ["years", "old"] }
+  ],
+  "lessons": [
+    {
+      "id": "u05-l1",
+      "title": "Mamá, papá y hermanos",
+      "focus": "vocabulary",
+      "newItems": ["u05.mother", "u05.father", "u05.brother", "u05.sister"],
+      "activities": [
+        { "type": "present", "items": ["u05.mother", "u05.father"] },
+        { "type": "present", "items": ["u05.brother", "u05.sister"] },
+        { "type": "auto", "items": ["u05.mother", "u05.father", "u05.brother", "u05.sister"], "modes": ["listen-pick", "picture-pick", "read-pick"] },
+        { "type": "tip", "emoji": "👅", "title": "La TH suave", "text": "En mother, father y brother la TH es suave y con voz, como una D muy relajada con la lengua tocando los dientes. Es la misma de they y this." },
+        { "type": "minimal-pair", "title": "¿TH o D?", "pairs": [
+          { "a": "they", "aHint": "👥", "b": "day", "bHint": "📅", "play": "a" },
+          { "a": "they", "aHint": "👥", "b": "day", "bHint": "📅", "play": "b" }
+        ] }
+      ]
+    },
+    {
+      "id": "u05-l2",
+      "title": "Te presento a mi familia",
+      "focus": "listening",
+      "newItems": ["u05.grandma", "u05.grandpa", "u05.baby", "u05.thisis"],
+      "activities": [
+        { "type": "present", "items": ["u05.grandma", "u05.grandpa"] },
+        { "type": "present", "items": ["u05.baby", "u05.thisis"] },
+        { "type": "dialogue", "title": "Mirando fotos", "scene": "📱 Sam le muestra fotos a Lia.", "lines": [
+          { "who": "Sam", "en": "This is my mother. And this is my father.", "es": "Ella es mi mamá. Y él es mi papá." },
+          { "who": "Lia", "en": "Nice! And the baby?", "es": "¡Qué bien! ¿Y el bebé?" },
+          { "who": "Sam", "en": "This is my sister. She is a baby!", "es": "Ella es mi hermana. ¡Es una bebé!" },
+          { "who": "Lia", "en": "And this is your grandmother?", "es": "¿Y ella es tu abuela?" },
+          { "who": "Sam", "en": "Yes! My grandmother and my grandfather.", "es": "¡Sí! Mi abuela y mi abuelo." }
+        ] },
+        { "type": "auto", "items": ["u05.grandma", "u05.grandpa", "u05.baby", "u05.thisis", "u05.mother"], "modes": ["listen-pick", "picture-pick"], "count": 8 },
+        { "type": "build", "en": "This is my father", "es": "Él es mi papá" }
+      ]
+    },
+    {
+      "id": "u05-l3",
+      "title": "Él es, ella es, ellos son",
+      "focus": "grammar",
+      "newItems": ["u05.heis", "u05.sheis", "u05.theyare", "u05.weare"],
+      "activities": [
+        { "type": "tip", "emoji": "🧠", "title": "Ya sabes la mitad", "text": "Recuerda: I am, you are. Ahora mira qué pasa con las demás personas." },
+        { "type": "discover",
+          "topic": "Verbo to be completo",
+          "intro": "Lee las frases sobre la familia de Sam. Mira las palabras marcadas.",
+          "examples": [
+            { "en": "I am Sam.", "es": "Yo soy Sam.", "mark": ["am"] },
+            { "en": "My father is tired.", "es": "Mi papá está cansado.", "mark": ["is"] },
+            { "en": "He is from Colombia.", "es": "Él es de Colombia.", "mark": ["is"] },
+            { "en": "She is my sister.", "es": "Ella es mi hermana.", "mark": ["is"] },
+            { "en": "We are a family.", "es": "Somos una familia.", "mark": ["are"] },
+            { "en": "They are happy.", "es": "Ellos están felices.", "mark": ["are"] },
+            { "en": "You are my friend.", "es": "Tú eres mi amigo.", "mark": ["are"] }
+          ],
+          "question": "¿Cuál va con he y she?",
+          "options": ["am", "is", "are"],
+          "answer": 1,
+          "rule": "Las tres formas de to be: I → am · he, she, it → is · you, we, they → are. Formas cortas: I'm, he's, she's, we're, they're.",
+          "ruleExamples": [
+            { "en": "She's my mother. They're my brothers.", "es": "Ella es mi mamá. Ellos son mis hermanos." }
+          ]
+        },
+        { "type": "fill", "en": "She ___ my sister.", "options": ["am", "is", "are"], "answer": 1 },
+        { "type": "fill", "en": "They ___ my brothers.", "options": ["is", "are", "am"], "answer": 1 },
+        { "type": "fill", "en": "My father ___ tired.", "options": ["are", "is", "am"], "answer": 1, "explain": "My father = he → is." },
+        { "type": "fill", "en": "We ___ a family.", "options": ["are", "is"], "answer": 0 },
+        { "type": "auto", "items": ["u05.heis", "u05.sheis", "u05.theyare", "u05.weare"], "modes": ["listen-pick", "read-pick"] }
+      ]
+    },
+    {
+      "id": "u05-l4",
+      "title": "Su nombre, su edad",
+      "focus": "reading",
+      "newItems": ["u05.his", "u05.her", "u05.years", "u05.friend"],
+      "activities": [
+        { "type": "discover",
+          "topic": "Posesivos his / her",
+          "intro": "En español decimos 'su' para él y para ella. Mira el inglés.",
+          "examples": [
+            { "en": "This is my brother. His name is Leo.", "es": "Él es mi hermano. Su nombre es Leo.", "mark": ["His"] },
+            { "en": "This is my sister. Her name is Eva.", "es": "Ella es mi hermana. Su nombre es Eva.", "mark": ["Her"] },
+            { "en": "My father. His car is red.", "es": "Mi papá. Su carro es rojo.", "mark": ["His"] },
+            { "en": "My mother. Her house is white.", "es": "Mi mamá. Su casa es blanca.", "mark": ["Her"] }
+          ],
+          "question": "¿Cuándo se usa 'her'?",
+          "options": ["Cuando la cosa es femenina", "Cuando la dueña es una mujer"],
+          "answer": 1,
+          "rule": "his = de él, her = de ella. Depende de quién es el DUEÑO, no de la cosa. My = mío, your = tuyo.",
+          "ruleExamples": [{ "en": "Her brother. His sister.", "es": "El hermano de ella. La hermana de él." }]
+        },
+        { "type": "fill", "en": "This is Eva. ___ name is Eva.", "options": ["His", "Her"], "answer": 1 },
+        { "type": "fill", "en": "This is Leo. ___ car is blue.", "options": ["His", "Her"], "answer": 0 },
+        { "type": "present", "items": ["u05.years", "u05.friend"] },
+        { "type": "story", "title": "La familia de Lia", "emoji": "👨‍👩‍👧", "paragraphs": [
+          { "en": "My name is Lia. I am from Colombia.", "es": "Me llamo Lia. Soy de Colombia." },
+          { "en": "This is my mother. Her name is Rosa. She is happy.", "es": "Ella es mi mamá. Se llama Rosa. Está feliz." },
+          { "en": "This is my brother. His name is Tom. He is ten years old.", "es": "Él es mi hermano. Se llama Tom. Tiene diez años." },
+          { "en": "My grandparents are from Peru. They are tired, but they are happy.", "es": "Mis abuelos son de Perú. Están cansados, pero están felices." }
+        ], "questions": [
+          { "q": "¿Cómo se llama la mamá de Lia?", "options": ["Eva", "Rosa", "Tom"], "answer": 1 },
+          { "q": "¿Cuántos años tiene Tom?", "options": ["Diez", "Dos", "Veinte"], "answer": 0 },
+          { "q": "¿De dónde son los abuelos?", "options": ["De Colombia", "De Perú"], "answer": 1 }
+        ] },
+        { "type": "speak", "en": "This is my mother. She is happy", "es": "Ella es mi mamá. Está feliz", "note": "Opcional." }
+      ]
+    }
+  ]
+}

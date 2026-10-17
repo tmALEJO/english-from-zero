@@ -1,0 +1,120 @@
+{
+  "id": "u07-mi-dia",
+  "level": "A1",
+  "title": "Mi día",
+  "emoji": "⏰",
+  "canDo": "Ya puedo contar mi rutina diaria",
+  "summary": "Las acciones de todos los días. Vas a notar solito por qué se dice 'I work' pero 'she works'. Así nace el presente simple.",
+  "grammar": ["Presente simple: I work / she works"],
+  "items": [
+    { "id": "u07.wakeup", "en": "wake up", "es": "despertarse", "kind": "chunk", "emoji": "⏰", "say": "uéik ap", "forms": ["wakes up", "wake", "wakes"] },
+    { "id": "u07.eat", "en": "eat", "es": "comer", "kind": "word", "emoji": "🍽️", "say": "iit", "forms": ["eats"] },
+    { "id": "u07.drink", "en": "drink", "es": "beber / tomar", "kind": "word", "emoji": "🥤", "say": "drink", "forms": ["drinks"] },
+    { "id": "u07.work", "en": "work", "es": "trabajar", "kind": "word", "emoji": "💼", "say": "uérk", "forms": ["works"] },
+    { "id": "u07.study", "en": "study", "es": "estudiar", "kind": "word", "emoji": "📚", "say": "stá-di (¡sin e al inicio!)", "forms": ["studies"] },
+    { "id": "u07.sleep", "en": "sleep", "es": "dormir", "kind": "word", "emoji": "😴", "say": "sliip", "forms": ["sleeps"] },
+    { "id": "u07.go", "en": "go", "es": "ir", "kind": "word", "emoji": "🚶", "say": "góu", "forms": ["goes"] },
+    { "id": "u07.like", "en": "like", "es": "gustar", "kind": "word", "emoji": "❤️", "say": "láik", "forms": ["likes"], "tip": "I like coffee = me gusta el café. En inglés la persona va primero." },
+    { "id": "u07.everyday", "en": "every day", "es": "todos los días", "kind": "chunk", "emoji": "📆", "forms": ["every", "day"] },
+    { "id": "u07.morning", "en": "in the morning", "es": "por la mañana", "kind": "chunk", "emoji": "🌄", "forms": ["morning"] },
+    { "id": "u07.evening", "en": "in the evening", "es": "por la noche", "kind": "chunk", "emoji": "🌆", "forms": ["evening"] },
+    { "id": "u07.watchtv", "en": "watch TV", "es": "ver televisión", "kind": "chunk", "emoji": "📺", "forms": ["watch", "watches", "tv"] },
+    { "id": "u07.iwork", "en": "I work every day", "es": "Trabajo todos los días", "kind": "chunk", "emoji": "🧑‍💼" },
+    { "id": "u07.sheworks", "en": "She works every day", "es": "Ella trabaja todos los días", "kind": "chunk", "emoji": "👩‍💼" },
+    { "id": "u07.helikes", "en": "He likes coffee", "es": "A él le gusta el café", "kind": "chunk", "emoji": "☕" },
+    { "id": "u07.shegoes", "en": "She goes to work", "es": "Ella va al trabajo", "kind": "chunk", "emoji": "🚌", "tip": "Algunos verbos agregan -es: go → goes, watch → watches." }
+  ],
+  "lessons": [
+    {
+      "id": "u07-l1",
+      "title": "Despertar y comer",
+      "focus": "vocabulary",
+      "newItems": ["u07.wakeup", "u07.eat", "u07.drink", "u07.sleep"],
+      "activities": [
+        { "type": "present", "items": ["u07.wakeup", "u07.sleep"] },
+        { "type": "present", "items": ["u07.eat", "u07.drink"] },
+        { "type": "auto", "items": ["u07.wakeup", "u07.eat", "u07.drink", "u07.sleep"], "modes": ["listen-pick", "picture-pick", "read-pick"] },
+        { "type": "auto", "items": ["u06.coffee", "u06.bread", "u06.water"], "modes": ["listen-pick"] }
+      ]
+    },
+    {
+      "id": "u07-l2",
+      "title": "Trabajar, estudiar, ir",
+      "focus": "vocabulary",
+      "newItems": ["u07.work", "u07.study", "u07.go", "u07.like"],
+      "activities": [
+        { "type": "present", "items": ["u07.work", "u07.study"] },
+        { "type": "present", "items": ["u07.go", "u07.like"] },
+        { "type": "auto", "items": ["u07.work", "u07.study", "u07.go", "u07.like", "u07.eat", "u07.sleep"], "modes": ["listen-pick", "picture-pick"], "count": 9 }
+      ]
+    },
+    {
+      "id": "u07-l3",
+      "title": "Cuándo lo haces",
+      "focus": "listening",
+      "newItems": ["u07.everyday", "u07.morning", "u07.evening", "u07.watchtv"],
+      "activities": [
+        { "type": "present", "items": ["u07.everyday", "u07.watchtv"] },
+        { "type": "present", "items": ["u07.morning", "u07.evening"] },
+        { "type": "story", "title": "Mi rutina", "emoji": "🌄", "paragraphs": [
+          { "en": "I wake up in the morning.", "es": "Me despierto por la mañana." },
+          { "en": "I drink coffee and I eat bread.", "es": "Tomo café y como pan." },
+          { "en": "I work every day. I study in the evening.", "es": "Trabajo todos los días. Estudio por la noche." },
+          { "en": "I watch TV and I sleep.", "es": "Veo televisión y duermo." }
+        ], "questions": [
+          { "q": "¿Qué toma por la mañana?", "options": ["Jugo", "Café", "Agua"], "answer": 1 },
+          { "q": "¿Cuándo estudia?", "options": ["Por la mañana", "Por la noche"], "answer": 1 }
+        ] },
+        { "type": "auto", "items": ["u07.everyday", "u07.morning", "u07.evening", "u07.watchtv"], "modes": ["listen-pick", "build"] },
+        { "type": "build", "en": "I study in the evening", "es": "Estudio por la noche" }
+      ]
+    },
+    {
+      "id": "u07-l4",
+      "title": "La rutina de Eva",
+      "focus": "grammar",
+      "newItems": ["u07.iwork", "u07.sheworks", "u07.helikes", "u07.shegoes"],
+      "activities": [
+        { "type": "tip", "emoji": "🔎", "title": "Sé detective", "text": "Ya conoces la rutina de una persona que habla de sí misma. Ahora alguien habla de Eva. Lee los dos lados y busca la diferencia." },
+        { "type": "discover",
+          "topic": "Presente simple (tercera persona: -s)",
+          "intro": "A la izquierda hablo yo. A la derecha hablo de Eva o de Leo.",
+          "examples": [
+            { "en": "I work every day. → Eva works every day.", "es": "Trabajo todos los días. → Eva trabaja todos los días.", "mark": ["works"] },
+            { "en": "I like coffee. → Leo likes coffee.", "es": "Me gusta el café. → A Leo le gusta el café.", "mark": ["likes"] },
+            { "en": "I sleep in the evening. → She sleeps in the evening.", "es": "Duermo por la noche. → Ella duerme por la noche.", "mark": ["sleeps"] },
+            { "en": "I eat bread. → He eats bread.", "es": "Como pan. → Él come pan.", "mark": ["eats"] },
+            { "en": "I go to work. → She goes to work.", "es": "Voy al trabajo. → Ella va al trabajo.", "mark": ["goes"] },
+            { "en": "You study. → He studies.", "es": "Tú estudias. → Él estudia.", "mark": ["studies"] },
+            { "en": "We drink water. They drink water.", "es": "Tomamos agua. Ellos toman agua.", "mark": ["drink"] }
+          ],
+          "question": "¿Cuándo se le agrega -s al verbo?",
+          "options": ["Siempre", "Con he, she, it (una persona de la que hablo)", "Con we y they"],
+          "answer": 1,
+          "rule": "Esto se llama PRESENTE SIMPLE: sirve para rutinas y cosas que siempre pasan. El verbo queda igual (I work, you work, we work, they work), excepto con he, she, it: ahí lleva -s (she works). Algunos llevan -es (goes, watches) y study cambia a studies.",
+          "ruleExamples": [
+            { "en": "I work. She works.", "es": "Trabajo. Ella trabaja." },
+            { "en": "They like rice. He likes soup.", "es": "Les gusta el arroz. A él le gusta la sopa." }
+          ]
+        },
+        { "type": "fill", "en": "Eva ___ every day.", "es": "Eva trabaja todos los días.", "options": ["work", "works"], "answer": 1 },
+        { "type": "fill", "en": "I ___ coffee.", "es": "Me gusta el café.", "options": ["like", "likes"], "answer": 0, "explain": "Con I el verbo queda igual." },
+        { "type": "fill", "en": "Leo ___ to work.", "es": "Leo va al trabajo.", "options": ["go", "gos", "goes"], "answer": 2, "explain": "go → goes, con -es." },
+        { "type": "fill", "en": "They ___ water.", "es": "Ellos toman agua.", "options": ["drink", "drinks"], "answer": 0 },
+        { "type": "fill", "en": "She ___ in the evening.", "es": "Ella estudia por la noche.", "options": ["studys", "studies", "study"], "answer": 1 },
+        { "type": "story", "title": "Un día de Eva", "emoji": "👩‍💼", "paragraphs": [
+          { "en": "Eva is my sister. She wakes up in the morning.", "es": "Eva es mi hermana. Se despierta por la mañana." },
+          { "en": "She drinks coffee. She likes coffee!", "es": "Toma café. ¡Le gusta el café!" },
+          { "en": "She goes to work every day. She works in a restaurant.", "es": "Va al trabajo todos los días. Trabaja en un restaurante." },
+          { "en": "In the evening, she studies English and she watches TV.", "es": "Por la noche estudia inglés y ve televisión." }
+        ], "questions": [
+          { "q": "¿Dónde trabaja Eva?", "options": ["En una escuela", "En un restaurante", "En casa"], "answer": 1 },
+          { "q": "¿Qué estudia por la noche?", "options": ["Inglés", "Matemáticas"], "answer": 0 }
+        ] },
+        { "type": "build", "en": "She works every day", "es": "Ella trabaja todos los días", "distractors": ["work"] },
+        { "type": "build", "en": "He likes coffee", "es": "A él le gusta el café", "distractors": ["like"] },
+        { "type": "speak", "en": "I wake up in the morning and I go to work", "es": "Me despierto por la mañana y voy al trabajo", "note": "Opcional." }
+      ]
+    }
+  ]
+}

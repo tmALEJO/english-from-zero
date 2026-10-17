@@ -1,0 +1,89 @@
+name: Compilar APK
+
+# Se ejecuta cuando creas una etiqueta de versión (v0.1.0, v0.2.0…) o a mano desde la pestaña Actions.
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    env:
+      HAS_KEYSTORE: ${{ secrets.KEYSTORE_BASE64 != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Revisar contenido y pruebas
+        run: |
+          python scripts/validate_content.py
+          npm test
+
+      - name: Compilar la web y copiarla a Android
+        run: |
+          npm run build
+          npx cap sync android
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - uses: android-actions/setup-android@v3
+
+      - name: Preparar la clave de firma
+        if: env.HAS_KEYSTORE == 'true'
+        run: |
+          echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > "$RUNNER_TEMP/release.p12"
+          echo "KEYSTORE_FILE=$RUNNER_TEMP/release.p12" >> "$GITHUB_ENV"
+
+      - name: Aviso si no hay clave
+        if: env.HAS_KEYSTORE != 'true'
+        run: echo "::warning::No hay secreto KEYSTORE_BASE64. El APK se firma con una clave temporal y para actualizar tendrás que desinstalar la versión anterior. Mira la sección 'Firmar el APK' del README."
+
+      - name: Compilar APK
+        working-directory: android
+        env:
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          VERSION_CODE: ${{ github.run_number }}
+          VERSION_NAME: ${{ github.ref_type == 'tag' && github.ref_name || format('0.0.{0}', github.run_number) }}
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleRelease --no-daemon
+          mkdir -p ../out
+          cp app/build/outputs/apk/release/app-release.apk "../out/english-from-zero-${VERSION_NAME}.apk"
+
+      - name: Publicar en Releases
+        if: github.ref_type == 'tag'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: out/*.apk
+          generate_release_notes: true
+          body: |
+            ## Instalar en Android
+            1. Descarga el archivo `.apk` de abajo desde tu celular.
+            2. Ábrelo. Si Android pregunta, permite "Instalar apps de origen desconocido" para tu navegador o tu gestor de archivos.
+            3. Para actualizar, instala el APK nuevo encima: tu progreso se conserva.
+
+      - name: Guardar APK como artefacto (ejecución manual)
+        if: github.ref_type != 'tag'
+        uses: actions/upload-artifact@v4
+        with:
+          name: english-from-zero-apk
+          path: out/*.apk
+          retention-days: 14

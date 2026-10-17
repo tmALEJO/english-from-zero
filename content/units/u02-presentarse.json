@@ -1,0 +1,116 @@
+{
+  "id": "u02-presentarse",
+  "level": "A0",
+  "title": "Me presento",
+  "emoji": "🙋",
+  "canDo": "Ya puedo presentarme",
+  "summary": "Decir tu nombre, de dónde eres y cómo estás. Sin darte cuenta vas a usar el verbo más importante del inglés: to be.",
+  "grammar": ["Verbo to be: I am / you are"],
+  "items": [
+    { "id": "u02.whatname", "en": "What's your name?", "es": "¿Cómo te llamas?", "kind": "chunk", "emoji": "❔", "say": "uáts iór néim" },
+    { "id": "u02.myname", "en": "My name is Sam", "es": "Me llamo Sam", "kind": "chunk", "emoji": "📛", "say": "mái néim is Sam", "tip": "Literalmente: 'mi nombre es Sam'." },
+    { "id": "u02.nice", "en": "Nice to meet you", "es": "Mucho gusto", "kind": "chunk", "emoji": "🤝", "say": "náis tu míit iu" },
+    { "id": "u02.iam", "en": "I am", "es": "Yo soy / Yo estoy", "kind": "chunk", "emoji": "🙋", "say": "ái am", "forms": ["i'm", "am"], "tip": "En la conversación casi siempre se junta: I'm (áim)." },
+    { "id": "u02.howare", "en": "How are you?", "es": "¿Cómo estás?", "kind": "chunk", "emoji": "🙂", "say": "jáu ar iu" },
+    { "id": "u02.fine", "en": "I'm fine", "es": "Estoy bien", "kind": "chunk", "emoji": "👌", "say": "áim fáin", "forms": ["fine"] },
+    { "id": "u02.tired", "en": "I'm tired", "es": "Estoy cansado / cansada", "kind": "chunk", "emoji": "😴", "say": "áim táierd", "forms": ["tired"] },
+    { "id": "u02.happy", "en": "I'm happy", "es": "Estoy feliz", "kind": "chunk", "emoji": "😄", "say": "áim jápi", "forms": ["happy"] },
+    { "id": "u02.youare", "en": "You are", "es": "Tú eres / Tú estás", "kind": "chunk", "emoji": "🫵", "say": "iú ar", "forms": ["you're", "are"] },
+    { "id": "u02.wherefrom", "en": "Where are you from?", "es": "¿De dónde eres?", "kind": "chunk", "emoji": "🌎", "say": "uér ar iu from" },
+    { "id": "u02.from", "en": "I'm from Colombia", "es": "Soy de Colombia", "kind": "chunk", "emoji": "🇨🇴", "say": "áim from co-lóm-bia", "forms": ["from", "colombia"] },
+    { "id": "u02.and", "en": "And you?", "es": "¿Y tú?", "kind": "chunk", "emoji": "🔁", "say": "and iú" }
+  ],
+  "lessons": [
+    {
+      "id": "u02-l1",
+      "title": "¿Cómo te llamas?",
+      "focus": "listening",
+      "newItems": ["u02.whatname", "u02.myname", "u02.nice", "u02.and"],
+      "activities": [
+        { "type": "dialogue", "title": "Primer día de clase", "scene": "🏫 Dos personas se conocen. Solo escucha, no tienes que entender todo.", "lines": [
+          { "who": "Sam", "en": "Hello! What's your name?", "es": "¡Hola! ¿Cómo te llamas?" },
+          { "who": "Lia", "en": "My name is Lia. And you?", "es": "Me llamo Lia. ¿Y tú?" },
+          { "who": "Sam", "en": "My name is Sam. Nice to meet you!", "es": "Me llamo Sam. ¡Mucho gusto!" },
+          { "who": "Lia", "en": "Nice to meet you, Sam.", "es": "Mucho gusto, Sam." }
+        ] },
+        { "type": "present", "items": ["u02.whatname", "u02.myname"] },
+        { "type": "present", "items": ["u02.nice", "u02.and"] },
+        { "type": "auto", "items": ["u02.whatname", "u02.myname", "u02.nice", "u02.and"], "modes": ["listen-pick", "read-pick"] },
+        { "type": "build", "en": "My name is Sam", "es": "Me llamo Sam" },
+        { "type": "auto", "items": ["u01.hello", "u01.thanks", "u02.nice"], "modes": ["picture-pick"] }
+      ]
+    },
+    {
+      "id": "u02-l2",
+      "title": "¿Cómo estás?",
+      "focus": "listening",
+      "newItems": ["u02.howare", "u02.fine", "u02.tired", "u02.happy"],
+      "activities": [
+        { "type": "present", "items": ["u02.howare", "u02.fine"] },
+        { "type": "present", "items": ["u02.tired", "u02.happy"], "note": "Fíjate: siempre empieza con I'm." },
+        { "type": "dialogue", "title": "Por la mañana", "scene": "☀️ Dos amigos se saludan.", "lines": [
+          { "who": "Leo", "en": "Good morning! How are you?", "es": "¡Buenos días! ¿Cómo estás?" },
+          { "who": "Eva", "en": "I'm tired. And you?", "es": "Estoy cansada. ¿Y tú?" },
+          { "who": "Leo", "en": "I'm happy! I'm fine.", "es": "¡Estoy feliz! Estoy bien." }
+        ] },
+        { "type": "auto", "items": ["u02.howare", "u02.fine", "u02.tired", "u02.happy"], "modes": ["listen-pick", "picture-pick", "build"] },
+        { "type": "auto", "items": ["u02.whatname", "u02.nice", "u01.later"], "modes": ["read-pick"] }
+      ]
+    },
+    {
+      "id": "u02-l3",
+      "title": "Yo soy, tú eres",
+      "focus": "grammar",
+      "newItems": ["u02.iam", "u02.youare", "u02.wherefrom", "u02.from"],
+      "activities": [
+        { "type": "present", "items": ["u02.wherefrom", "u02.from"] },
+        { "type": "discover",
+          "topic": "Verbo to be (I am / you are)",
+          "intro": "Lee y escucha estas frases. No busques reglas todavía, solo mira.",
+          "examples": [
+            { "en": "I am Sam.", "es": "Yo soy Sam.", "mark": ["am"] },
+            { "en": "I am tired.", "es": "Yo estoy cansado.", "mark": ["am"] },
+            { "en": "I am from Colombia.", "es": "Yo soy de Colombia.", "mark": ["am"] },
+            { "en": "You are Lia.", "es": "Tú eres Lia.", "mark": ["are"] },
+            { "en": "You are happy.", "es": "Tú estás feliz.", "mark": ["are"] },
+            { "en": "You are from Peru.", "es": "Tú eres de Perú.", "mark": ["are"] }
+          ],
+          "question": "¿Qué notaste? 'am' y 'are' significan…",
+          "options": ["Solo 'soy'", "Solo 'estoy'", "Las dos: 'ser' y 'estar'"],
+          "answer": 2,
+          "rule": "En inglés 'ser' y 'estar' son el mismo verbo: to be. Con I va am (I am). Con you va are (you are). Se acorta así: I'm, you're.",
+          "ruleExamples": [
+            { "en": "I'm Sam. I'm tired.", "es": "Soy Sam. Estoy cansado." },
+            { "en": "You're from Colombia.", "es": "Eres de Colombia." }
+          ]
+        },
+        { "type": "fill", "en": "I ___ from Colombia.", "es": "Soy de Colombia.", "options": ["am", "are"], "answer": 0, "explain": "Con I siempre va am." },
+        { "type": "fill", "en": "You ___ happy.", "es": "Estás feliz.", "options": ["am", "are"], "answer": 1, "explain": "Con you va are." },
+        { "type": "fill", "en": "I ___ tired.", "es": "Estoy cansado.", "options": ["am", "are"], "answer": 0 },
+        { "type": "auto", "items": ["u02.iam", "u02.youare", "u02.wherefrom", "u02.from"], "modes": ["listen-pick", "build"] }
+      ]
+    },
+    {
+      "id": "u02-l4",
+      "title": "Mi presentación",
+      "focus": "speaking",
+      "newItems": [],
+      "activities": [
+        { "type": "story", "title": "Hola, soy Sam", "emoji": "🙋", "paragraphs": [
+          { "en": "Hello! My name is Sam.", "es": "¡Hola! Me llamo Sam." },
+          { "en": "I'm from Colombia. I'm a student.", "es": "Soy de Colombia. Soy estudiante." },
+          { "en": "Today I'm happy. I'm not tired.", "es": "Hoy estoy feliz. No estoy cansado." },
+          { "en": "What's your name? Where are you from? Nice to meet you!", "es": "¿Cómo te llamas? ¿De dónde eres? ¡Mucho gusto!" }
+        ], "questions": [
+          { "q": "¿De dónde es Sam?", "options": ["De Perú", "De Colombia", "De España"], "answer": 1 },
+          { "q": "¿Cómo está Sam hoy?", "options": ["Feliz", "Cansado", "Triste"], "answer": 0 }
+        ] },
+        { "type": "build", "en": "Where are you from?", "es": "¿De dónde eres?" },
+        { "type": "build", "en": "I'm from Colombia", "es": "Soy de Colombia", "distractors": ["are"] },
+        { "type": "speak", "en": "Hello! My name is Sam", "es": "¡Hola! Me llamo Sam", "note": "Opcional. Puedes cambiar Sam por tu nombre en tu cabeza; aquí solo revisamos que te entiendan." },
+        { "type": "speak", "en": "I'm from Colombia. Nice to meet you", "es": "Soy de Colombia. Mucho gusto" },
+        { "type": "auto", "items": ["u02.howare", "u02.fine", "u02.myname", "u01.welcome"], "modes": ["listen-pick"] }
+      ]
+    }
+  ]
+}
