@@ -138,14 +138,20 @@ La primera vez que hagas un ejercicio de hablar, Android pedirá permiso de micr
 
 ## 4. Audio de alta calidad (opcional)
 
-Sin hacer nada, la app usa la voz del sistema. Para que todo suene con una voz natural e igual en todos los dispositivos, genera el audio offline con [Piper](https://github.com/rhasspy/piper) (gratis, open source):
+Sin hacer nada, la app usa la voz del sistema (Chrome/Edge en el PC, el motor de voz de Android en el celular). Para que todo suene con una **voz natural e igual en todos los dispositivos**, genera el audio offline con [Piper](https://github.com/rhasspy/piper) (gratis, open source). Corre esto **en tu PC** (la primera vez baja la voz, ~60 MB, necesita internet):
 
 ```bash
 pip install piper-tts
-python scripts/generate_audio.py
+python scripts/generate_audio.py            # todo el contenido
+# o, para un audio más liviano (solo vocabulario):
+python scripts/generate_audio.py --scope items
 ```
 
-Crea `public/audio/` con un archivo por frase y un `manifest.json` que la app detecta sola. Si tienes `ffmpeg` instalado los guarda en MP3 (más livianos). Vuelve a ejecutarlo cuando agregues contenido.
+Crea `public/audio/` con un archivo por frase y un `manifest.json` que la app detecta sola. Instala **ffmpeg** para que los guarde en MP3 (mucho más livianos que WAV). Vuelve a ejecutarlo cuando agregues contenido.
+
+**Decisión de tamaño.** El audio se suma al APK: `--scope all` puede pesar ~80–150 MB; `--scope items` cubre todas las palabras del vocabulario y queda mucho más liviano (el resto usa la voz del sistema). Si **no** quieres audio dentro del APK, agrega `public/audio/` a `.gitignore` antes del commit: la app seguirá hablando con la voz del sistema.
+
+Después de generarlo: `git add public/audio`, commit, push y una etiqueta nueva (`v0.4.0`) para que el APK lo incluya.
 
 ---
 

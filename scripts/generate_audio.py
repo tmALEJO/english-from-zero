@@ -8,12 +8,21 @@ con la misma voz natural en cualquier dispositivo, incluso sin voces instaladas.
 
 Uso:
     pip install piper-tts
-    python scripts/generate_audio.py              # genera lo que falta
+    python scripts/generate_audio.py                 # TODO el contenido (recomendado)
+    python scripts/generate_audio.py --scope items   # solo palabras y frases (audio más liviano)
     python scripts/generate_audio.py --voice en_US-amy-medium
-    python scripts/generate_audio.py --force      # regenera todo
+    python scripts/generate_audio.py --force         # regenera todo
 
-Resultado: public/audio/*.wav (o .mp3 si tienes ffmpeg) + public/audio/manifest.json.
+Resultado: public/audio/*.mp3 (o .wav si no tienes ffmpeg) + public/audio/manifest.json.
 La app detecta el manifest sola. Vuelve a ejecutarlo cuando agregues contenido.
+
+Tamaño: con --scope all el audio puede pesar ~80-150 MB y suma eso al APK.
+Con --scope items queda mucho más liviano (~20-40 MB) y cubre todas las palabras
+del vocabulario; las historias y diálogos usarían la voz del sistema.
+Instala ffmpeg para que guarde MP3 (mucho más livianos que WAV).
+
+Si NO quieres el audio dentro del APK (que el celular use su voz del sistema),
+agrega  public/audio/  a .gitignore antes de hacer commit.
 """
 from __future__ import annotations
 
@@ -40,7 +49,8 @@ def audio_key(text: str) -> str:
     return re.sub(r"\s+", " ", text.strip().lower())
 
 
-def collect_texts() -> list[str]:
+def collect_texts(scope: str = "all") -> list[str]:
+    """scope='items' = solo vocabulario (liviano); 'all' = también historias, diálogos, etc."""
     texts: set[str] = set()
     for f in sorted((CONTENT / "units").glob("*.json")):
         u = json.loads(f.read_text(encoding="utf-8"))
@@ -48,16 +58,26 @@ def collect_texts() -> list[str]:
             texts.add(it["en"])
             for ex in it.get("examples", []):
                 texts.add(ex["en"])
+        if scope == "items":
+            continue
         for l in u["lessons"]:
             for a in l["activities"]:
                 t = a["type"]
                 if t == "minimal-pair":
                     for p in a["pairs"]:
                         texts.update([p["a"], p["b"]])
-                elif t in ("build", "fill", "speak"):
-                    texts.add(a["en"].replace("___", a["options"][a["answer"]]) if t == "fill" else a["en"])
+                elif t in ("build", "speak", "dictation", "write"):
+                    texts.add(a["en"])
+                elif t == "fill":
+                    texts.add(a["en"].replace("___", a["options"][a["answer"]]))
                 elif t == "dialogue":
                     texts.update(line["en"] for line in a["lines"])
+                elif t == "roleplay":
+                    for turn in a["turns"]:
+                        if "en" in turn:
+                            texts.add(turn["en"])
+                        for op in turn.get("options", []):
+                            texts.add(op["en"])
                 elif t == "story":
                     texts.update(p["en"] for p in a["paragraphs"])
                 elif t == "discover":
@@ -65,6 +85,11 @@ def collect_texts() -> list[str]:
                     texts.update(ex["en"] for ex in a.get("ruleExamples", []))
     for e in json.loads((CONTENT / "dictionary.json").read_text(encoding="utf-8")):
         texts.add(e["en"])
+    # Biblioteca (historias, diálogos y artículos para leer y escuchar)
+    lib = CONTENT / "library.json"
+    if scope != "items" and lib.exists():
+        for r in json.loads(lib.read_text(encoding="utf-8")):
+            texts.update(s["en"] for s in r.get("sentences", []))
     return sorted(t for t in texts if t.strip())
 
 
@@ -75,15 +100,21 @@ def ensure_model(voice: str) -> Path:
         return onnx
     lang, name, quality = voice.split("-")
     url = HF.format(lang=lang, name=name, quality=quality, voice=voice)
-    print(f"Descargando la voz {voice} (una sola vez, ~60 MB)…")
+    print(f"Descargando la voz {voice} (una sola vez, ~60 MB)… Necesita internet.")
     for suffix in ("", ".json"):
-        urllib.request.urlretrieve(url + suffix + "?download=true", MODELS / f"{voice}.onnx{suffix}")
+        req = urllib.request.Request(url + suffix + "?download=true", headers={"User-Agent": "english-from-zero"})
+        try:
+            with urllib.request.urlopen(req) as r, open(MODELS / f"{voice}.onnx{suffix}", "wb") as out:
+                shutil.copyfileobj(r, out)
+        except Exception as e:  # noqa: BLE001
+            sys.exit(f"No pude descargar la voz ({e}). Revisa tu internet o prueba otra con --voice (p. ej. en_US-amy-medium).")
     return onnx
 
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--voice", default="en_US-lessac-medium")
+    ap.add_argument("--scope", choices=["all", "items"], default="all")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
 
@@ -99,9 +130,11 @@ def main() -> int:
     manifest_path = OUT / "manifest.json"
     manifest: dict[str, str] = {} if args.force or not manifest_path.exists() else json.loads(manifest_path.read_text())
 
-    texts = collect_texts()
+    texts = collect_texts(args.scope)
+    if not ffmpeg:
+        print("Aviso: no encontré ffmpeg, guardaré WAV (pesan mucho más). Instala ffmpeg para MP3.")
     todo = [t for t in texts if audio_key(t) not in manifest or not (OUT / manifest[audio_key(t)]).exists()]
-    print(f"{len(texts)} frases en el contenido, {len(todo)} por generar.")
+    print(f"Alcance '{args.scope}': {len(texts)} frases, {len(todo)} por generar.")
 
     for i, text in enumerate(todo, 1):
         h = hashlib.sha1(audio_key(text).encode()).hexdigest()[:12]
@@ -121,7 +154,10 @@ def main() -> int:
         print(f"  [{i}/{len(todo)}] {text}")
 
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"\nListo: {len(manifest)} audios en public/audio. Recarga la app.")
+    total_mb = sum(f.stat().st_size for f in OUT.glob("*") if f.suffix in (".mp3", ".wav")) / 1_048_576
+    print(f"\nListo: {len(manifest)} audios en public/audio ({total_mb:.0f} MB). Recarga la app.")
+    if total_mb > 60:
+        print("Es bastante peso para el APK. Si prefieres, usa --scope items o agrega public/audio/ a .gitignore.")
     return 0
 
 
