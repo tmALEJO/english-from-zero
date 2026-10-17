@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { Item, Step } from '../types';
-import { EnglishText, Picture, SpeakButton, Spanish } from './common';
+import { Emoji, EnglishText, Picture, SpeakButton, Spanish } from './common';
 import { speak } from '../engine/speech';
 import { sameSentence } from '../engine/text';
 import { useApp } from '../state';
@@ -148,7 +148,7 @@ function StoryStep({ step, onDone }: { step: Extract<Step, { kind: 'story' }>; o
   return (
     <div className="step">
       <p className="step__kicker">Historia corta</p>
-      <h2 className="step__title">{step.emoji} {step.title}</h2>
+      <h2 className="step__title">{step.emoji && <Emoji e={step.emoji} className="h-emoji" />} {step.title}</h2>
       <div className="story">
         {step.paragraphs.map((p, k) => (
           <div key={k} className="story__p">
@@ -168,7 +168,7 @@ function StoryStep({ step, onDone }: { step: Extract<Step, { kind: 'story' }>; o
 function TipStep({ step, onDone }: { step: Extract<Step, { kind: 'tip' }>; onDone: Props['onDone'] }) {
   return (
     <div className="step step--tip">
-      <span className="pic pic--xl" aria-hidden>{step.emoji ?? '💡'}</span>
+      <Emoji e={step.emoji ?? '💡'} className="pic pic--xl" />
       <h2 className="step__title">{step.title}</h2>
       <p className="step__text">{step.text}</p>
       <div className="actions">

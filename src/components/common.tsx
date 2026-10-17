@@ -87,7 +87,7 @@ export function ProgressBar({ value, label }: { value: number; label?: string })
   );
 }
 
-export function Page({ title, intro, children, actions }: { title: string; intro?: ReactNode; children: ReactNode; actions?: ReactNode }) {
+export function Page({ title, intro, children, actions }: { title: ReactNode; intro?: ReactNode; children: ReactNode; actions?: ReactNode }) {
   return (
     <div className="page">
       <header className="page__head">
@@ -102,8 +102,37 @@ export function Page({ title, intro, children, actions }: { title: string; intro
   );
 }
 
+/** Nombre del archivo OpenMoji para un emoji: puntos de código en hex, sin el selector FE0F. */
+export function openmojiKey(e: string): string {
+  return [...e]
+    .filter((c) => c !== '️')
+    .map((c) => c.codePointAt(0)!.toString(16).toUpperCase().padStart(4, '0'))
+    .join('-');
+}
+
+/**
+ * Ilustración de un emoji usando OpenMoji (imágenes libres, iguales en PC y Android).
+ * Si no existe el SVG, cae al emoji del sistema, así nunca se rompe.
+ */
+export function Emoji({ e, className = '', label }: { e: string; className?: string; label?: string }) {
+  const [failed, setFailed] = useState(false);
+  const key = openmojiKey(e);
+  if (failed || !key) return <span className={className} role={label ? 'img' : undefined} aria-label={label} aria-hidden={!label}>{e}</span>;
+  return (
+    <img
+      className={`omoji ${className}`}
+      src={`./openmoji/${key}.svg`}
+      alt={label ?? ''}
+      aria-hidden={!label}
+      draggable={false}
+      loading="lazy"
+      onError={() => setFailed(true)}
+    />
+  );
+}
+
 export function Picture({ emoji, fallback, size = 'md' }: { emoji?: string; fallback: string; size?: 'sm' | 'md' | 'lg' | 'xl' }) {
-  if (emoji) return <span className={`pic pic--${size}`} aria-hidden>{emoji}</span>;
+  if (emoji) return <Emoji e={emoji} className={`pic pic--${size}`} />;
   return <span className={`pic pic--text pic--${size}`}>{fallback}</span>;
 }
 

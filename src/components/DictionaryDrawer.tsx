@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useApp } from '../state';
 import { searchDictionary, units, type DictionaryRow } from '../engine/content';
-import { EnglishText, SpeakButton } from './common';
+import { Emoji, EnglishText, SpeakButton } from './common';
 import { describeInterval } from '../engine/srs';
 
 export function DictEntryView({ entry, onPractice }: { entry: DictionaryRow; onPractice?: (itemId: string) => void }) {
@@ -11,7 +11,7 @@ export function DictEntryView({ entry, onPractice }: { entry: DictionaryRow; onP
   return (
     <article className="entry">
       <div className="entry__top">
-        {entry.emoji && <span className="pic pic--lg" aria-hidden>{entry.emoji}</span>}
+        {entry.emoji && <Emoji e={entry.emoji} className="pic pic--lg" />}
         <div>
           <h2 className="entry__en" lang="en">{entry.en}</h2>
           <p className="entry__es">{entry.es}</p>
@@ -75,7 +75,7 @@ export function DictionaryDrawer() {
             {results.map((r) => (
               <li key={r.key}>
                 <button type="button" className="list__row" onClick={() => { setQ(''); openDict({ entry: r }); }}>
-                  <span className="list__pic">{r.emoji ?? '·'}</span>
+                  <span className="list__pic">{r.emoji ? <Emoji e={r.emoji} /> : '·'}</span>
                   <span lang="en" className="list__main">{r.en}</span>
                   <span className="list__side">{r.es}</span>
                 </button>

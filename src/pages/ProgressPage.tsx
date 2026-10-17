@@ -31,7 +31,7 @@ export default function ProgressPage() {
         return (
           <section key={lv.id} className={`lvl ${lv.id === lvl.working ? 'lvl--current' : ''}`}>
             <header className="lvl__head">
-              <span className="level__id">{lv.id}</span>
+              <span className="level__id" data-level={lv.id}>{lv.id}</span>
               <span className="lvl__name">{lv.name}</span>
               <span className="muted">{lv.done}/{total}</span>
             </header>

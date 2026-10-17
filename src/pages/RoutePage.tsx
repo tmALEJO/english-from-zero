@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { useApp } from '../state';
 import { curriculum, units } from '../engine/content';
 import { fullRoute, lessonsDone, unitStatuses, examStatus, type UnitStatus } from '../engine/progress';
-import { Page } from '../components/common';
+import { Emoji, Page } from '../components/common';
 
 const STATUS_TEXT: Record<UnitStatus, string> = {
   done: 'Completada',
@@ -24,7 +24,7 @@ export default function RoutePage() {
         return (
           <section key={lv.id} className="level">
             <header className="level__head">
-              <span className="level__id">{lv.id}</span>
+              <span className="level__id" data-level={lv.id}>{lv.id}</span>
               <div>
                 <h2>{lv.name}</h2>
                 <p className="muted">{lv.description}</p>
@@ -57,7 +57,7 @@ export default function RoutePage() {
                 const open = s !== 'locked' && s !== 'planned';
                 const body = (
                   <>
-                    <span className="path__dot" aria-hidden>{s === 'done' ? '✓' : r.emoji}</span>
+                    <span className="path__dot" aria-hidden>{s === 'done' ? '✓' : <Emoji e={r.emoji} />}</span>
                     <span className="path__body">
                       <span className="path__title">{r.title}</span>
                       <span className="path__cando">{r.canDo}</span>

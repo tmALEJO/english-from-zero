@@ -3,7 +3,7 @@ import { useApp } from '../state';
 import { units } from '../engine/content';
 import { unitStatuses, unitTestPassed, allLessonsDone } from '../engine/progress';
 import { describeInterval } from '../engine/srs';
-import { Page, SpeakButton } from '../components/common';
+import { Emoji, Page, SpeakButton } from '../components/common';
 
 const FOCUS: Record<string, string> = {
   listening: '👂 Escuchar', reading: '📖 Leer', pronunciation: '👄 Pronunciar',
@@ -22,7 +22,7 @@ export default function UnitPage() {
 
   return (
     <Page
-      title={`${u.emoji} ${u.title}`}
+      title={<><Emoji e={u.emoji} className="h-emoji" /> {u.title}</>}
       intro={u.summary}
       actions={<Link to="/ruta" className="btn btn--ghost btn--sm">Ruta</Link>}
     >
@@ -76,7 +76,7 @@ export default function UnitPage() {
               const c = cards.find((x) => x.itemId === it.id)!;
               return (
                 <li key={it.id} className="words__row">
-                  <span className="words__pic" aria-hidden>{it.emoji}</span>
+                  <Emoji e={it.emoji ?? '🔤'} className="words__pic" />
                   <button type="button" className="words__main" onClick={() => openDict({ entry: { key: it.id, en: it.en, es: it.es, emoji: it.emoji, say: it.say, tip: it.tip, examples: it.examples, itemId: it.id, unitId: u.id } })}>
                     <b lang="en">{it.en}</b> <span className="muted">{it.es}</span>
                   </button>

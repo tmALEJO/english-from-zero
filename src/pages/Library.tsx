@@ -4,7 +4,7 @@ import library from '../../content/library.json';
 import type { Reading } from '../types';
 import { LEVEL_ORDER, curriculum } from '../engine/content';
 import { currentLevel } from '../engine/progress';
-import { EnglishText, Page, Spanish, SpeakButton } from '../components/common';
+import { Emoji, EnglishText, Page, Spanish, SpeakButton } from '../components/common';
 import { speak, stopSpeaking } from '../engine/speech';
 
 const readings = library as Reading[];
@@ -40,7 +40,7 @@ export default function Library() {
         {list.map((r) => (
           <li key={r.id}>
             <button type="button" className="reading-card" onClick={() => setOpen(r)}>
-              <span className="reading-card__emoji" aria-hidden>{r.emoji}</span>
+              <Emoji e={r.emoji} className="reading-card__emoji" />
               <span className="reading-card__body">
                 <span className="reading-card__title">{r.title}</span>
                 <span className="muted">{KIND[r.kind]} · {r.sentences.length} frases</span>
@@ -83,7 +83,7 @@ function ReadingView({ reading, onClose }: { reading: Reading; onClose: () => vo
     <div className="page reading-view">
       <header className="page__head">
         <div>
-          <h1>{reading.emoji} {reading.title}</h1>
+          <h1><Emoji e={reading.emoji} className="h-emoji" /> {reading.title}</h1>
           <p className="muted">{KIND[reading.kind]} · nivel {reading.level}</p>
         </div>
         <button type="button" className="btn btn--ghost btn--sm" onClick={() => { stop(); onClose(); }}>Cerrar</button>

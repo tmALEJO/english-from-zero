@@ -3,7 +3,7 @@ import { useApp } from '../state';
 import { route, units, itemsById } from '../engine/content';
 import { hardItems } from '../engine/progress';
 import { isDue } from '../engine/srs';
-import { Page } from '../components/common';
+import { Emoji, Page } from '../components/common';
 
 export default function ReviewHub() {
   const { cards } = useApp();
@@ -45,7 +45,7 @@ export default function ReviewHub() {
             {byUnit.map(({ ref, ids }) => (
               <li key={ref.id}>
                 <Link to={link(ids, ref.title)} className="topic">
-                  <span aria-hidden className="topic__emoji">{ref.emoji}</span>
+                  <Emoji e={ref.emoji} className="topic__emoji" />
                   <span>{ref.title}</span>
                   <span className="muted">{ids.length} palabras</span>
                 </Link>

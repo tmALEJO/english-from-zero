@@ -3,7 +3,7 @@ import { useApp } from '../state';
 import { currentLevel, levelProgress, nextStep, isUnitDone } from '../engine/progress';
 import { curriculum, route, units } from '../engine/content';
 import { isDue } from '../engine/srs';
-import { ProgressBar } from '../components/common';
+import { Emoji, ProgressBar } from '../components/common';
 
 function daysPracticedThisWeek(times: number[]): number {
   const weekAgo = Date.now() - 7 * 86400000;
@@ -37,7 +37,7 @@ export default function Home() {
         const meta = next.kind === 'exam' ? `${next.exam.questions} preguntas` : next.kind === 'test' ? 'Demuestra lo aprendido' : next.lesson.newItems.length ? `${next.lesson.newItems.length} palabras nuevas · unos 8 minutos` : 'Repaso y práctica · unos 8 minutos';
         return (
           <Link to={to} className="next">
-            <span className="next__emoji" aria-hidden>{emoji}</span>
+            <Emoji e={emoji} className="next__emoji" />
             <span className="next__body">
               <span className="next__unit">{kicker}</span>
               <span className="next__lesson">{title}</span>

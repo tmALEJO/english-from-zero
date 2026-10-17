@@ -4,7 +4,7 @@ import type { AutoMode, Step } from '../types';
 import { useApp } from '../state';
 import { StepView, type StepResult } from '../components/Steps';
 import { ExamContext } from '../components/Steps';
-import { ProgressBar } from '../components/common';
+import { Emoji, ProgressBar } from '../components/common';
 import { findLesson, getItem, itemsById, units } from '../engine/content';
 import { expandLesson } from '../engine/steps';
 import { buildPractice, buildReview, buildWarmup, buildUnitTest, buildExam, findExam, isUnitDone, nextLesson, testId, examRowId, UNIT_TEST_PASS, type PlannedStep } from '../engine/progress';
@@ -205,7 +205,7 @@ function EndScreen(p: {
         <>
           <h3>Aprendiste</h3>
           <ul className="learned">
-            {p.learned.map((it) => <li key={it.id}><span aria-hidden>{it.emoji}</span> <b lang="en">{it.en}</b> <span className="muted">{it.es}</span></li>)}
+            {p.learned.map((it) => <li key={it.id}>{it.emoji && <Emoji e={it.emoji} className="h-emoji" />} <b lang="en">{it.en}</b> <span className="muted">{it.es}</span></li>)}
           </ul>
           <p className="muted">Volverán en tu repaso en unos días, en otros contextos.</p>
         </>

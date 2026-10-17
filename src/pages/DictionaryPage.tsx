@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { useApp } from '../state';
 import { searchDictionary, type DictionaryRow } from '../engine/content';
 import { DictEntryView } from '../components/DictionaryDrawer';
-import { Page } from '../components/common';
+import { Emoji, Page } from '../components/common';
 
 export default function DictionaryPage() {
   const { cards } = useApp();
@@ -31,7 +31,7 @@ export default function DictionaryPage() {
           {rows.map((r) => (
             <li key={r.key}>
               <button type="button" className={`list__row ${sel?.key === r.key ? 'is-selected' : ''}`} onClick={() => setSel(r)}>
-                <span className="list__pic" aria-hidden>{r.emoji ?? '·'}</span>
+                <span className="list__pic" aria-hidden>{r.emoji ? <Emoji e={r.emoji} /> : '·'}</span>
                 <span className="list__main" lang="en">{r.en}</span>
                 <span className="list__side">{r.es}</span>
                 {r.itemId && learned.has(r.itemId) && <span className="list__dot" title="Aprendida">●</span>}
