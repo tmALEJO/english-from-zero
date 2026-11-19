@@ -193,7 +193,3 @@ english-from-zero/
 **"¿Se borra mi progreso si cierro la app?"** No. Se guarda en el navegador (o en la app Android). Se borra solo si limpias los datos del navegador, desinstalas la app o usas *Ajustes → Borrar mi progreso*. Exporta una copia de vez en cuando.
 
 **"Quiero agregar más lecciones."** Lee [docs/CONTENIDO.md](docs/CONTENIDO.md).
-
-## Licencia
-
-MIT © Santiago David López Villota ([@THEBAT02468](https://github.com/THEBAT02468))
